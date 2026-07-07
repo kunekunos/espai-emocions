@@ -9,11 +9,11 @@ export function Navbar() {
   const { lang, toggleLang, t } = useLanguage();
 
   const navLinks = [
-    { label: t("nav.qui-som"), href: "#qui-som" },
-    { label: t("nav.serveis"), href: "#serveis" },
-    { label: t("nav.enfocament"), href: "#enfocament" },
-    { label: t("nav.blog"), href: "#blog" },
-    { label: t("nav.contacte"), href: "#contacte" },
+    { label: t("nav.qui-som"), href: "/#qui-som" },
+    { label: t("nav.serveis"), href: "/#serveis" },
+    { label: t("nav.enfocament"), href: "/#enfocament" },
+    { label: t("nav.blog"), href: "/#blog" },
+    { label: t("nav.contacte"), href: "/#contacte" },
   ];
 
   return (
@@ -42,7 +42,7 @@ export function Navbar() {
             </a>
           ))}
           <a
-            href="#contacte"
+            href="/#contacte"
             className="bg-primary text-primary-foreground px-5 py-2.5 rounded-xl text-sm font-medium hover:brightness-105 transition-all duration-300"
           >
             {t("nav.cta")}
@@ -82,7 +82,7 @@ export function Navbar() {
               </a>
             ))}
             <a
-              href="#contacte"
+              href="/#contacte"
               className="bg-primary text-primary-foreground px-5 py-2.5 rounded-xl text-sm font-medium text-center"
               onClick={() => setOpen(false)}
             >
