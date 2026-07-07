@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = article.titleES;
   const description = article.excerptES;
   const url = `https://espaiemocions.es/blog/${article.slug}`;
-  const imageUrl = `https://espaiemocions.es/blog/${article.slug}.png`;
+  const imageUrl = `https://espaiemocions.es/blog/${article.slug}.webp`;
 
   return {
     title,

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { Menu, X, Globe } from "lucide-react";
 import { useLanguage } from "@/lib/i18n";
 
@@ -20,10 +21,13 @@ export function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border/40">
       <nav className="container mx-auto flex items-center justify-between py-3 px-6">
         <a href="/" className="flex items-center gap-2">
-          <img
-            src="/images/logo.png"
+          <Image
+            src="/images/logo.webp"
             alt="Espai Emocions"
+            width={160}
+            height={32}
             className="h-8 w-auto"
+            priority
           />
           <span className="font-heading text-lg font-medium text-foreground tracking-tight">
             Espai Emocions

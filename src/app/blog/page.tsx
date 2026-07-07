@@ -48,7 +48,7 @@ export default function BlogPage() {
                   >
                     <div className="relative w-full aspect-[16/9] overflow-hidden bg-muted">
                       <Image
-                        src={`/blog/${article.slug}.png`}
+                        src={`/blog/${article.slug}.webp`}
                         alt={article.title}
                         fill
                         sizes="(max-width: 768px) 100vw, 50vw"

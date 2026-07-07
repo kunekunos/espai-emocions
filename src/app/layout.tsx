@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     siteName: "Espai Emocions",
     images: [
       {
-        url: "/images/hero-despatx.png",
+        url: "/images/hero-despatx.webp",
         width: 1200,
         height: 630,
         alt: "Consulta d'Espai Emocions a Sant Pau, Barcelona",
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     title: "Espai Emocions — Centre de psicologia a Sant Pau, Barcelona",
     description:
       "Centre de psicologia a Sant Pau – Dos de Maig, Barcelona. T'acompanyem a retrobar el teu equilibri emocional.",
-    images: ["/images/hero-despatx.png"],
+    images: ["/images/hero-despatx.webp"],
   },
   robots: {
     index: true,
@@ -88,7 +88,7 @@ const localBusinessJsonLd = {
   description:
     "Centre de psicologia a Sant Pau – Dos de Maig, Barcelona. T'acompanyem a retrobar el teu equilibri emocional, al teu ritme.",
   url: siteUrl,
-  image: `${siteUrl}/images/hero-despatx.png`,
+  image: `${siteUrl}/images/hero-despatx.webp`,
   telephone: "+34630643243",
   email: "eplanaso@gmail.com",
   priceRange: "€€",

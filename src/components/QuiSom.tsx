@@ -24,7 +24,7 @@ export function QuiSom() {
             <div className="flex flex-col items-center text-center">
               <div className="w-full max-w-sm aspect-[4/3] rounded-2xl overflow-hidden mb-6 shadow-lg">
                 <img
-                  src="/images/esteve.png"
+                  src="/images/esteve.webp"
                   alt={t("quisom.esteve.name")}
                   className="h-full w-full object-cover"
                 />
@@ -48,7 +48,7 @@ export function QuiSom() {
             <div className="flex flex-col items-center text-center">
               <div className="w-full max-w-sm aspect-square rounded-2xl overflow-hidden mb-6 shadow-lg">
                 <img
-                  src="/images/carmen.png"
+                  src="/images/carmen.webp"
                   alt={t("quisom.carmen.name")}
                   className="h-full w-full object-cover"
                 />

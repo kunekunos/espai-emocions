@@ -55,7 +55,7 @@ export default function BlogArticlePage() {
     "@type": "Article",
     headline: article.titleES,
     description: article.excerptES,
-    image: `https://espaiemocions.es/blog/${article.slug}.png`,
+    image: `https://espaiemocions.es/blog/${article.slug}.webp`,
     author: {
       "@type": "Organization",
       name: "Espai Emocions",
@@ -108,7 +108,7 @@ export default function BlogArticlePage() {
 
             <div className="relative w-full aspect-[16/9] overflow-hidden rounded-2xl mt-8 mb-12 bg-muted">
               <Image
-                src={`/blog/${article.slug}.png`}
+                src={`/blog/${article.slug}.webp`}
                 alt={title}
                 fill
                 priority

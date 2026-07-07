@@ -12,7 +12,7 @@ export function Hero() {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-despatx.png"
+          src="/images/hero-despatx.webp"
           alt="Sala de teràpia càlida i acollidora d'Espai Emocions a Sant Pau, Barcelona"
           className="h-full w-full object-cover"
           loading="eager"
