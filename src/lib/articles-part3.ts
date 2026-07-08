@@ -2228,4 +2228,436 @@ export const articlesPart3: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 11. psicologia-publica-privada-barcelona (Pilar 5 — Psicología en Barcelona)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "psicologia-publica-privada-barcelona",
+    categoryCA: "Psicologia a Barcelona",
+    categoryES: "Psicología en Barcelona",
+    titleCA: "Psicologia pública o privada a Barcelona: quina t'convé",
+    titleES: "Psicología pública o privada en Barcelona: ¿cuál te conviene?",
+    excerptCA:
+      "La sanitat pública a Barcelona ofereix atenció psicològica gratuïta, però amb llistes d'espera i un enfocament limitat a la urgència. La privada aporta rapidesa, continuïtat i especialització, a canvi d'un cost. Aquí expliquem com funciona cadascuna, què cobreixen i com decidir.",
+    excerptES:
+      "La sanidad pública en Barcelona ofrece atención psicológica gratuita, pero con listas de espera y un enfoque limitado a la urgencia. La privada aporta rapidez, continuidad y especialización, a cambio de un coste. Aquí explicamos cómo funciona cada una, qué cubren y cómo decidir.",
+    datePublished: "2026-07-07",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "A Barcelona, qui busca atenció psicològica té dues vies principals: la sanitat pública, gratuïta però amb llistes d'espera, i la privada, de pagament però amb accés immediat. Cap és millor que l'altra en abstracte: la pregunta real és quina s'ajusta al teu cas. La diferència no és només de preu; és de temps d'espera, de tipus de professional que t'atendrà, de quantitat de sessions i de continuïtat del tractament.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: si el teu malestar és lleu i pots esperar entre dos i sis mesos, la sanitat pública pot ser suficient. Si necessites atendre't ara, vols un professional amb formació específica en el teu motiu de consulta o busques un procés de fons (no només apaivagar símptomes), la sanitat privada és la via més coherent.",
+      },
+      { type: "heading", text: "Com funciona la psicologia pública a Barcelona" },
+      {
+        type: "paragraph",
+        text: "La via pública comença pel metge de família del centre d'atenció primària (CAP). És ell qui deriva a la Unitat de Salut Mental (USM) corresponent segons el teu districte. A Barcelona hi ha més de deu USM distribuïdes pels barris, depenent del parc de salut (Institut Català de la Salut, Parc de Salut Mar o Consorci Sanitari de Barcelona).",
+      },
+      {
+        type: "paragraph",
+        text: "El que ofereix la xarxa pública:",
+      },
+      {
+        type: "list",
+        items: [
+          "És gratuïta. No hi ha cost per a l'usuari, està coberta per la Seguretat Social.",
+          "És multidisciplinària. Treballen-hi psicòlegs clínics, psiquiatres, infermeria i treballadors socials, amb coordinació entre ells.",
+          "Està regulada per protocols. Els tractaments segueixen guies clíniques basades en evidència, especialment per a trastorns com depressió, ansietat, TEPT o trastorn bipolar.",
+          "Té llistes d'espera. És la limitació més visible: entre el moment de la derivació i la primera sessió amb el psicòleg poden passar entre dos i sis mesos, depenent del USM i de la demanda del moment.",
+          "Prioritza la urgència. Quan hi ha molta demanda, es prioritzen els casos amb major deteriorament funcional o risc. Un malestar moderat, que no impedeix treballar però sí limita la vida, pot quedar baix a la llista.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "També hi ha recursos públics específics, com el Centre de Higiene Mental Les Corts, el Centre Dr. Emili Mira (especialitzat en salut mental de persones amb discapacitat intel·lectual) i els dispositius municipals com el Centre de Salut Mental dels Barris del Districte Sants-Montjuïc. Aquests centres tenen els seus propis circuits d'accés, que convé conèixer abans d'iniciar el tràmit.",
+      },
+      { type: "heading", text: "Què ofereix la psicologia privada" },
+      {
+        type: "paragraph",
+        text: "La via privada és la que practiquem a Espai Emocions. La diferència amb la pública no és que sigui millor en absolut, sinó que s'organitza d'una altra manera: l'accés és immediat, pots triar el professional i el tipus de teràpia, i la continuïtat del tractament no depèn de la disponibilitat d'una llista pública.",
+      },
+      {
+        type: "list",
+        items: [
+          "Accés immediat. Sol reservar sessió en qüestió de dies, no de mesos.",
+          "Continuïtat amb el mateix professional. No hi ha rotacions, vacants ni derivacions internes: el psicòleg que comença el procés l'acompanya fins al final.",
+          "Especialització. Els psicòlegs privats solen tenir una orientació formada en un model terapèutic concret (cognitiu-conductual, humanista, psicodinàmic, EMDR…) i una experiència acumulada en certs perfils (sanitaris, cuidadors, acadèmics, etc.).",
+          "Ritme i durada definits amb tu. El nombre de sessions, la freqüència i els objectius s'acorden entre tu i el psicòleg, no estan limitats per un protocol extern.",
+          "Confidencialitat reforçada. Tot el que es comparteix està protegit pel secret professional, sense que hi hagi accés des d'altres nivells del sistema.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "El cost és l'altra cara de la moneda. A Barcelona, el preu mitjà d'una sessió privada és d'entre 60 i 90 euros (com pots veure a la nostra guia de preus), una xifra que moltes persones assumeixen amb dificultat. És una decisió legítima optar per la privada quan valorem la rapidesa, la continuïtat o la formació específica del professional.",
+      },
+      { type: "heading", text: "Quan triar cada via" },
+      {
+        type: "paragraph",
+        text: "No existeix una resposta única. Depèn del tipus de malestar, del temps que pots esperar i del que busques obtenir del procés. Com a orientació:",
+      },
+      {
+        type: "tips",
+        tips: [
+          {
+            title: "La sanitat pública pot ser l'opció si…",
+            desc: "El teu malestar és moderat però estable, pots esperar setmanes o mesos sense que la situació empitjori, i et compensa més el cost zero que la rapidesa.",
+            how: "Inicia el camí demanant visita al teu metge de capçalera i sol·licitant la derivació a la USM. Durant l'espera, pots anotar els símptomes, els desencadenants i els canvis per facilitar la primera visita.",
+          },
+          {
+            title: "La sanitat privada pot ser l'opció si…",
+            desc: "Necessites començar ara, vols un professional amb experiència en el teu motiu de consulta o busques un procés de fons que no es limiti a tècniques puntuals.",
+            how: "Cerca un psicòleg amb formació acreditada (col·legiat al COPC) i experiència en el teu perfil. Una primera sessió d'avaluació serveix per comprovar l'encaix abans de comprometre't.",
+          },
+          {
+            title: "Combinació de les dues",
+            desc: "És possible iniciar a la privada mentre esperes el torn a la pública, o començar a la pública i continuar a la privada si necessites més freqüència o un enfocament diferent.",
+            how: "Avisa el teu psicòleg de la situació. És habitual i no hi ha cap contradicció: el que importa és que l'acompanyament sigui coherent i que no quedi cap necessitat sense cobrir.",
+          },
+        ],
+      },
+      { type: "heading", text: "El que poques vegades t'expliquen" },
+      {
+        type: "paragraph",
+        text: "La sanitat pública atén trastorns, no malestar vague. Si el teu motiu no encaixa en una categoria clínica clara, és possible que la derivació trigui o que el tractament sigui curt i centrat en símptomes. Això no vol dir que no et puguin ajudar: vol dir que el sistema està dissenyat per a intervencions breus i protocol·litzades, no per acompanyaments de fons.",
+      },
+      {
+        type: "paragraph",
+        text: "La sanitat privada, en canvi, sí pot oferir un espai on treballar aspectes que no són una patologia però sí una font de patiment: la sensació d'estancament, les pors que no arriben a ser fòbies, les dificultats relacionals que no encaixen en un trastorn. Això té un cost, però també una funció que la pública no pot cobrir.",
+      },
+      { type: "heading", text: "Una decisió pràctica, no ideològica" },
+      {
+        type: "paragraph",
+        text: "Tria pública no és resignar-se, i triar privada no és un luxe. És una decisió pràctica sobre quin recurs s'ajusta millor al teu moment. La bona notícia és que a Barcelona tens les dues opcions a l'abast, i que pots canviar de via si la primera no funciona.",
+      },
+      {
+        type: "paragraph",
+        text: "Si vols parlar amb nosaltres per valorar si la via privada s'ajusta al teu cas, pots sol·licitar una primera sessió. No et compromet a res: serveix per escoltar la teva situació i orientar-te, també cap a la via pública si és on millor encaixes.",
+      },
+      { type: "heading", text: "Preguntes freqüents" },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Puc anar a la sanitat pública sense derivació del metge?",
+            answer: "No, el circuit habitual comença pel metge de família del CAP. És ell qui deriva a la Unitat de Salut Mental. Si saps que vols atenció psicològica, el pas més ràpid és demanar visita al CAP i ser explícit sobre el motiu.",
+          },
+          {
+            question: "Quant de temps triguen a atendre'm a la sanitat pública a Barcelona?",
+            answer: "Depèn del USM i del moment, però la forquilla habitual és entre dos i sis mesos des de la derivació fins a la primera sessió amb el psicòleg. En casos de major urgència o deteriorament, el sistema prioritza i el temps es pot escurçar.",
+          },
+          {
+            question: "És possible combinar atenció pública i privada?",
+            answer: "Sí. És habitual iniciar a la privada mentre s'espera el torn a la pública, o continuar a la privada quan la pública ja ha acabat el seu recorregut. L'important és que els professionals estiguin informats perquè l'acompanyament sigui coherent.",
+          },
+          {
+            question: "La sanitat privada és sempre més cara?",
+            answer: "En cost per sessió, sí. Però si es valora el cost total d'un procés, la diferència pot ser menor del que sembla: una llista d'espera de sis mesos pot implicar mesos de malestar i, de vegades, altres despeses (baixa, medicació, consultes puntuals). El cost no és només el preu de la sessió.",
+          },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "En Barcelona, quien busca atención psicológica tiene dos vías principales: la sanidad pública, gratuita pero con listas de espera, y la privada, de pago pero con acceso inmediato. Ninguna es mejor que la otra en abstracto: la pregunta real es cuál se ajusta a tu caso. La diferencia no es solo de precio; es de tiempo de espera, de tipo de profesional que te atenderá, de cantidad de sesiones y de continuidad del tratamiento.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: si tu malestar es leve y puedes esperar entre dos y seis meses, la sanidad pública puede ser suficiente. Si necesitas atenderte ahora, quieres un profesional con formación específica en tu motivo de consulta o buscas un proceso de fondo (no solo apaciguar síntomas), la sanidad privada es la vía más coherente.",
+      },
+      { type: "heading", text: "Cómo funciona la psicología pública en Barcelona" },
+      {
+        type: "paragraph",
+        text: "La vía pública empieza por el médico de familia del centro de atención primaria (CAP). Es él quien deriva a la Unidad de Salud Mental (USM) correspondiente según tu distrito. En Barcelona hay más de diez USM distribuidas por los barrios, dependiendo del parque de salud (Institut Català de la Salut, Parc de Salut Mar o Consorci Sanitari de Barcelona).",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que ofrece la red pública:",
+      },
+      {
+        type: "list",
+        items: [
+          "Es gratuita. No hay coste para el usuario, está cubierta por la Seguridad Social.",
+          "Es multidisciplinaria. Trabajan en ella psicólogos clínicos, psiquiatras, enfermería y trabajadores sociales, con coordinación entre ellos.",
+          "Está regulada por protocolos. Los tratamientos siguen guías clínicas basadas en evidencia, especialmente para trastornos como depresión, ansiedad, TEPT o trastorno bipolar.",
+          "Tiene listas de espera. Es la limitación más visible: entre el momento de la derivación y la primera sesión con el psicólogo pueden pasar entre dos y seis meses, dependiendo del USM y de la demanda del momento.",
+          "Prioritiza la urgencia. Cuando hay mucha demanda, se priorizan los casos con mayor deterioro funcional o riesgo. Un malestar moderado, que no impide trabajar pero sí limita la vida, puede quedar bajo en la lista.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "También hay recursos públicos específicos, como el Centre de Higiene Mental Les Corts, el Centre Dr. Emili Mira (especializado en salud mental de personas con discapacidad intelectual) y los dispositivos municipales como el Centre de Salut Mental dels Barris del Districte Sants-Montjuïc. Estos centros tienen sus propios circuitos de acceso, que conviene conocer antes de iniciar el trámite.",
+      },
+      { type: "heading", text: "Qué ofrece la psicología privada" },
+      {
+        type: "paragraph",
+        text: "La vía privada es la que practicamos en Espai Emocions. La diferencia con la pública no es que sea mejor en absoluto, sino que se organiza de otra manera: el acceso es inmediato, puedes elegir el profesional y el tipo de terapia, y la continuidad del tratamiento no depende de la disponibilidad de una lista pública.",
+      },
+      {
+        type: "list",
+        items: [
+          "Acceso inmediato. Suele concertarse sesión en cuestión de días, no de meses.",
+          "Continuidad con el mismo profesional. No hay rotaciones, vacantes ni derivaciones internas: el psicólogo que inicia el proceso te acompaña hasta el final.",
+          "Especialización. Los psicólogos privados suelen tener una formación orientada a un modelo terapéutico concreto (cognitivo-conductual, humanista, psicodinámico, EMDR…) y una experiencia acumulada en ciertos perfiles (sanitarios, cuidadores, académicos, etc.).",
+          "Ritmo y duración definidos contigo. El número de sesiones, la frecuencia y los objetivos se acuerdan entre tú y tu psicólogo, no están limitados por un protocolo externo.",
+          "Confidencialidad reforzada. Todo lo que se comparte está protegido por el secreto profesional, sin que haya acceso desde otros niveles del sistema.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "El coste es la otra cara de la moneda. En Barcelona, el precio medio de una sesión privada está entre 60 y 90 euros (como puedes ver en nuestra guía de precios), una cifra que muchas personas asumen con dificultad. Es una decisión legítima optar por la privada cuando valoramos la rapidez, la continuidad o la formación específica del profesional.",
+      },
+      { type: "heading", text: "Cuándo elegir cada vía" },
+      {
+        type: "paragraph",
+        text: "No existe una respuesta única. Depende del tipo de malestar, del tiempo que puedes esperar y de lo que buscas obtener del proceso. Como orientación:",
+      },
+      {
+        type: "tips",
+        tips: [
+          {
+            title: "La sanidad pública puede ser la opción si…",
+            desc: "Tu malestar es moderado pero estable, puedes esperar semanas o meses sin que la situación empeore, y te compensa más el coste cero que la rapidez.",
+            how: "Inicia el camino pidiendo visita a tu médico de cabecera y solicitando la derivación a la USM. Durante la espera, puedes anotar síntomas, desencadenantes y cambios para facilitar la primera visita.",
+          },
+          {
+            title: "La sanidad privada puede ser la opción si…",
+            desc: "Necesitas empezar ahora, quieres un profesional con experiencia en tu motivo de consulta o buscas un proceso de fondo que no se limite a técnicas puntuales.",
+            how: "Busca un psicólogo con formación acreditada (colegiado en el COPC) y experiencia en tu perfil. Una primera sesión de evaluación sirve para comprobar el encaje antes de comprometerte.",
+          },
+          {
+            title: "Combinación de ambas",
+            desc: "Es posible iniciar en la privada mientras esperas el turno en la pública, o empezar en la pública y continuar en la privada si necesitas más frecuencia o un enfoque distinto.",
+            how: "Avisa a tu psicólogo de la situación. Es habitual y no hay contradicción: lo importante es que el acompañamiento sea coherente y que no quede ninguna necesidad sin cubrir.",
+          },
+        ],
+      },
+      { type: "heading", text: "Lo que pocas veces te explican" },
+      {
+        type: "paragraph",
+        text: "La sanidad pública atiende trastornos, no malestar vago. Si tu motivo no encaja en una categoría clínica clara, es posible que la derivación tarde o que el tratamiento sea corto y centrado en síntomas. Esto no significa que no puedan ayudarte: significa que el sistema está diseñado para intervenciones breves y protocolizadas, no para acompañamientos de fondo.",
+      },
+      {
+        type: "paragraph",
+        text: "La sanidad privada, en cambio, sí puede ofrecer un espacio donde trabajar aspectos que no son una patología pero sí una fuente de sufrimiento: la sensación de estancamiento, los miedos que no llegan a ser fobias, las dificultades relacionales que no encajan en un trastorno. Esto tiene un coste, pero también una función que la pública no puede cubrir.",
+      },
+      { type: "heading", text: "Una decisión práctica, no ideológica" },
+      {
+        type: "paragraph",
+        text: "Elegir pública no es resignarse, y elegir privada no es un lujo. Es una decisión práctica sobre qué recurso se ajusta mejor a tu momento. La buena noticia es que en Barcelona tienes ambas opciones al alcance, y que puedes cambiar de vía si la primera no funciona.",
+      },
+      {
+        type: "paragraph",
+        text: "Si quieres hablar con nosotros para valorar si la vía privada se ajusta a tu caso, puedes solicitar una primera sesión. No te compromete a nada: sirve para escuchar tu situación y orientarte, también hacia la vía pública si es donde mejor encazas.",
+      },
+      { type: "heading", text: "Preguntas frecuentes" },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Puedo ir a la sanidad pública sin derivación del médico?",
+            answer: "No, el circuito habitual empieza por el médico de familia del CAP. Es él quien deriva a la Unidad de Salud Mental. Si sabes que quieres atención psicológica, el paso más rápido es pedir visita al CAP y ser explícito sobre el motivo.",
+          },
+          {
+            question: "¿Cuánto tardan en atenderme en la sanidad pública en Barcelona?",
+            answer: "Depende del USM y del momento, pero la horquilla habitual es entre dos y seis meses desde la derivación hasta la primera sesión con el psicólogo. En casos de mayor urgencia o deterioro, el sistema prioriza y el tiempo se puede acortar.",
+          },
+          {
+            question: "¿Es posible combinar atención pública y privada?",
+            answer: "Sí. Es habitual iniciar en la privada mientras se espera el turno en la pública, o continuar en la privada cuando la pública ya ha terminado su recorrido. Lo importante es que los profesionales estén informados para que el acompañamiento sea coherente.",
+          },
+          {
+            question: "¿La sanidad privada es siempre más cara?",
+            answer: "En coste por sesión, sí. Pero si se valora el coste total de un proceso, la diferencia puede ser menor de lo que parece: una lista de espera de seis meses puede implicar meses de malestar y, a veces, otros gastos (baja, medicación, consultas puntuales). El coste no es solo el precio de la sesión.",
+          },
+        ],
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------------------------
+  // 12. frecuencia-sesiones-psicologia (Pilar 1 — ¿Cómo funciona la terapia?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "frecuencia-sesiones-psicologia",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "Amb quina freqüència anar al psicòleg: setmanal, quinzenal o mensual",
+    titleES: "¿Con qué frecuencia ir al psicólogo? Semanal, quincenal o mensual",
+    excerptCA:
+      "La freqüència de les sessions de psicologia no és fixa: depèn del moment del procés, de la intensitat del malestar i dels objectius. La pauta més habitual al començament és setmanal, per passar a quinzenal i, en fase de consolidació, mensual. Aquí expliquem per què i quan convé canviar el ritme.",
+    excerptES:
+      "La frecuencia de las sesiones de psicología no es fija: depende del momento del proceso, de la intensidad del malestar y de los objetivos. La pauta más habitual al comienzo es semanal, para pasar a quincenal y, en fase de consolidación, mensual. Aquí explicamos por qué y cuándo conviene cambiar el ritmo.",
+    datePublished: "2026-07-08",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La freqüència de les sessions de psicologia és una de les primeres preguntes que ens fan les persones que contacten amb Espai Emocions. No hi ha una resposta única, però hi ha una lògica que ajuda a entendre per què algunes sessions es fan cada setmana i d'altres cada mes. La freqüència no es decideix per gust ni per cost: es decideix per allò que el procés necessita en cada moment.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la pauta més freqüent al començament d'un procés és una sessió a la setmana. Quan el malestar disminueix i es guanya estabilitat, es passa a una sessió cada quinze dies. En la fase de consolidació, quan ja només es treballen aspectes puntuals o es vol mantenir el canvi aconseguit, la freqüència pot baixar a mensual o fins i tot deixar-se en obert. Aquesta seqüència no és una regla rígida: s'ajusta a cada persona i a cada moment del procés.",
+      },
+      { type: "heading", text: "Per què el començament sol ser setmanal" },
+      {
+        type: "paragraph",
+        text: "Al començament d'un procés terapèutic hi ha feina acumulada. La persona arriba amb un malestar que sol portar setmanes o mesos i amb pocs recursos per gestionar-lo. La sessió setmanal permet tres coses que cap altre ritme garanteix:",
+      },
+      {
+        type: "list",
+        items: [
+          "Continuïtat en el treball. Allò que es tracta en una sessió no es refreda del tot abans de la següent. Amb una setmana de marge es manté el fil del procés, es recorda el treballat i es poden aplicar avanços sense perdre'ls pel camí.",
+          "Contenció quan el malestar és intens. Si la persona està passant per una situació aguda, set dies sense suport poden ser molts. La sessió setmanal ofereix un marc estable on processar allò que va sorgint.",
+          "Ritme d'aprenentatge. Molts processos, sobretot al principi, impliquen aprendre eines: tècniques de regulació, formes de pensar alternatives, pautes de conducta. Aquestes eines es consolideixen amb pràctica entre sessions i revisió propera. Amb massa temps entre sessions, la pràctica es dilueix.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Una sessió setmanal no vol dir que el procés sigui ràpid ni profund per força. Vol dir que la persona necessita, en aquest moment, un suport proper i continu. La durada d'aquesta fase varia: pot ser d'un mes en situacions breus o de diversos mesos en processos més complexos.",
+      },
+      { type: "heading", text: "Quan es passa a una sessió quinzenal" },
+      {
+        type: "paragraph",
+        text: "El pas a quinzenal sol produir-se quan el malestar inicial ha disminuït, la persona ha integrat algunes eines i les setmanes transcorren sense crisis. En aquest punt, el procés no necessita la mateixa contenció, però sí continuïtat. La sessió cada quinze dies permet:",
+      },
+      {
+        type: "list",
+        items: [
+          "Més temps per integrar el treballat. Amb dues setmanes, la persona prova el que ha après en situacions reals i duu a la següent sessió un material més ric.",
+          "Més autonomia. La persona comença a gestionar el dia a dia amb menys suport. El fet de passar més temps sola amb el que ha après forma part del procés, no una prova.",
+          "Un cost més sostenible. La freqüència quinzenal redueix el ritme de despesa sense perdre el fil del procés, un factor que molts valoren en aquesta fase.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "El canvi no es fa de cop. Una pràctica habitual és alternar setmanal i quinzenal durant unes setunes abans de consolidar el nou ritme, per veure com es viu amb més marge. Si el malestar reapareix, es pot tornar a la pauta anterior sense que això sigui un retrocés greu.",
+      },
+      { type: "heading", text: "La fase mensual i el tancament" },
+      {
+        type: "paragraph",
+        text: "Quan el procés ha avançat i els canvis es mantenen sense suport setmanal, es pot passar a una sessió mensual. Aquesta fase té una funció diferent: ja no es treballa la urgència, sinó la consolidació. Les sessions mensuals serveixen per revisar com va la persona amb el que ha après, per ajustar allò que encallaria i per prevenir recaigudes.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha processos que no arriben a aquesta fase, perquè acaben abans: la persona se sent bé, les eines estan integrades i no necessita un seguiment. En altres casos, la sessió mensual es manté durant mesos o anys, no per patologia, sinó perquè la persona valora tenir un espai periòdic on atendre's, de la mateixa manera que es fa una revisió mèdica o es manté una rutina d'autocura.",
+      },
+      {
+        type: "paragraph",
+        text: "El tancament del procés es parla, no s'abandona. Quan la persona i el psicòleg valoren que el procés ha complert el seu objectiu, s'acorda una última sessió o unes poques de tancament. Això permet recollir el camí fet, consolidar els aprenentatges i deixar el camp obert per tornar en el futur si cal.",
+      },
+      { type: "heading", text: "Quan la freqüència es modifica per circumstàncies" },
+      {
+        type: "paragraph",
+        text: "No sempre la freqüència canvia pel curs natural del procés. Hi ha factors pràctics que també la condicionen:",
+      },
+      {
+        type: "list",
+        items: [
+          "Disponibilitat de temps. Algunes persones, per feina o cura d'altres, no poden assistir setmanalment. En aquests casos es treballa amb la freqüència possible, sovint quinzenal des del principi, ajustant les estratègies perquè encaixin amb aquest ritme.",
+          "Cost. La sessió setmanal suposa un pressupost mensual concret. Si no és sostenible, es pot reduir a quinzenal i prioritzar l'autotreball entre sessions. Sempre és millor un procés quinzenal sostingut que un setmanal que s'abandona al segon mes per manca de recursos.",
+          "Distància o mobilitat. Persones que viuen lluny del centre o que viatgen molt poden optar per combinar presencial i online, amb freqüències variables. La teràpia online, en aquests casos, permet mantenir el ritme sense discontinuïtat.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "El nostre equip valora aquests factors a la primera sessió, juntament amb el motiu de consulta i la intensitat del malestar. La freqüència es revisa periòdicament, no es fixa un cop per sempre. Si en algun moment del procés la persona necessita més suport o menys, s'ajusta.",
+      },
+      { type: "heading", text: "Un ritme, no una norma" },
+      {
+        type: "paragraph",
+        text: "Allò decisiu, més enllà de la xifra exacta, és que la freqüència serveixi al procés i no al revés. Un ritme setmanal no és un signe de gravetat, ni un ritme mensual un signe de poc compromís. És una eina d'acompanyament que es calibra segons el moment de cada persona.",
+      },
+      {
+        type: "paragraph",
+        text: "Si tens dubtes sobre quina freqüència encaixa amb la teva situació, pots sol·licitar una primera sessió d'avaluació. Allí valorarem junts el motiu de consulta, la intensitat del malestar i les circumstàncies pràctiques, i proposarem un ritme coherent. Pots escriure'ns a través de la nostra pàgina de contacte per començar.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La frecuencia de las sesiones de psicología es una de las primeras preguntas que nos hacen las personas que contactan con Espai Emocions. No hay una respuesta única, pero sí una lógica que ayuda a entender por qué algunas sesiones se hacen cada semana y otras cada mes. La frecuencia no se decide por gusto ni por coste: se decide por lo que el proceso necesita en cada momento.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la pauta más frecuente al comienzo de un proceso es una sesión a la semana. Cuando el malestar disminuye y se gana estabilidad, se pasa a una sesión cada quince días. En la fase de consolidación, cuando ya solo se trabajan aspectos puntuales o se quiere mantener el cambio conseguido, la frecuencia puede bajar a mensual o incluso dejarse en abierto. Esta secuencia no es una regla rígida: se ajusta a cada persona y a cada momento del proceso.",
+      },
+      { type: "heading", text: "Por qué el comienzo suele ser semanal" },
+      {
+        type: "paragraph",
+        text: "Al comienzo de un proceso terapéutico hay trabajo acumulado. La persona llega con un malestar que suele llevar semanas o meses y con pocos recursos para gestionarlo. La sesión semanal permite tres cosas que ningún otro ritmo garantiza:",
+      },
+      {
+        type: "list",
+        items: [
+          "Continuidad en el trabajo. Lo que se trabaja en una sesión no se enfría del todo antes de la siguiente. Con una semana de margen se mantiene el hilo del proceso, se recuerda lo trabajado y se pueden aplicar avances sin perderlos por el camino.",
+          "Contención cuando el malestar es intenso. Si la persona está atravesando una situación aguda, siete días sin apoyo pueden ser muchos. La sesión semanal ofrece un marco estable donde procesar lo que va surgiendo.",
+          "Ritmo de aprendizaje. Muchos procesos, sobre todo al principio, implican aprender herramientas: técnicas de regulación, formas de pensar alternativas, pautas de conducta. Esas herramientas se consolidan con práctica entre sesiones y revisión cercana. Con demasiado tiempo entre sesiones, la práctica se diluye.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Una sesión semanal no significa que el proceso sea rápido ni profundo por fuerza. Significa que la persona necesita, en ese momento, un apoyo cercano y continuo. La duración de esta fase varía: puede ser de un mes en situaciones breves o de varios meses en procesos más complejos.",
+      },
+      { type: "heading", text: "Cuándo se pasa a una sesión quincenal" },
+      {
+        type: "paragraph",
+        text: "El paso a quincenal suele producirse cuando el malestar inicial ha disminuido, la persona ha integrado algunas herramientas y las semanas transcurren sin crisis. En ese punto, el proceso no necesita la misma contención, pero sí continuidad. La sesión cada quince días permite:",
+      },
+      {
+        type: "list",
+        items: [
+          "Más tiempo para integrar lo trabajado. Con dos semanas, la persona prueba lo que ha aprendido en situaciones reales y lleva a la siguiente sesión un material más rico.",
+          "Más autonomía. La persona empieza a gestionar el día a día con menos apoyo. El hecho de pasar más tiempo sola con lo que ha aprendido forma parte del proceso, no una prueba.",
+          "Un coste más sostenible. La frecuencia quincenal reduce el ritmo de gasto sin perder el hilo del proceso, un factor que muchos valoran en esta fase.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "El cambio no se hace de golpe. Una práctica habitual es alternar semanal y quincenal durante unas semanas antes de consolidar el nuevo ritmo, para ver cómo se vive con más margen. Si el malestar reaparece, se puede volver a la pauta anterior sin que eso sea un retroceso grave.",
+      },
+      { type: "heading", text: "La fase mensual y el cierre" },
+      {
+        type: "paragraph",
+        text: "Cuando el proceso ha avanzado y los cambios se mantienen sin apoyo semanal, se puede pasar a una sesión mensual. Esta fase tiene una función distinta: ya no se trabaja la urgencia, sino la consolidación. Las sesiones mensuales sirven para revisar cómo va la persona con lo que ha aprendido, para ajustar lo que se atasca y para prevenir recaídas.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay procesos que no llegan a esta fase, porque terminan antes: la persona se encuentra bien, las herramientas están integradas y no necesita un seguimiento. En otros casos, la sesión mensual se mantiene durante meses o años, no por patología, sino porque la persona valora tener un espacio periódico donde atenderse, de la misma manera que se hace una revisión médica o se mantiene una rutina de autocuidado.",
+      },
+      {
+        type: "paragraph",
+        text: "El cierre del proceso se habla, no se abandona. Cuando la persona y el psicólogo valoran que el proceso ha cumplido su objetivo, se acuerda una última sesión o unas pocas de cierre. Eso permite recoger el camino hecho, consolidar los aprendizajes y dejar el campo abierto para volver en el futuro si hace falta.",
+      },
+      { type: "heading", text: "Cuando la frecuencia se modifica por circunstancias" },
+      {
+        type: "paragraph",
+        text: "No siempre la frecuencia cambia por el curso natural del proceso. Hay factores prácticos que también la condicionan:",
+      },
+      {
+        type: "list",
+        items: [
+          "Disponibilidad de tiempo. Algunas personas, por trabajo o cuidado de otros, no pueden asistir semanalmente. En esos casos se trabaja con la frecuencia posible, a menudo quincenal desde el principio, ajustando las estrategias para que encajen con ese ritmo.",
+          "Coste. La sesión semanal supone un presupuesto mensual concreto. Si no es sostenible, se puede reducir a quincenal y priorizar el autotrabajo entre sesiones. Siempre es mejor un proceso quincenal sostenido que uno semanal que se abandona al segundo mes por falta de recursos.",
+          "Distancia o movilidad. Personas que viven lejos del centro o que viajan mucho pueden optar por combinar presencial y online, con frecuencias variables. La terapia online, en estos casos, permite mantener el ritmo sin discontinuidad.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Nuestro equipo valora estos factores en la primera sesión, junto con el motivo de consulta y la intensidad del malestar. La frecuencia se revisa periódicamente, no se fija una vez para siempre. Si en algún momento del proceso la persona necesita más apoyo o menos, se ajusta.",
+      },
+      { type: "heading", text: "Un ritmo, no una norma" },
+      {
+        type: "paragraph",
+        text: "Lo decisivo, más allá de la cifra exacta, es que la frecuencia sirva al proceso y no al revés. Un ritmo semanal no es un signo de gravedad, ni un ritmo mensual un signo de poco compromiso. Es una herramienta de acompañamiento que se calibra según el momento de cada persona.",
+      },
+      {
+        type: "paragraph",
+        text: "Si tienes dudas sobre qué frecuencia encaja con tu situación, puedes solicitar una primera sesión de evaluación. Allí valoraremos juntos el motivo de consulta, la intensidad del malestar y las circunstancias prácticas, y propondremos un ritmo coherente. Puedes escribirnos a través de nuestra página de contacto para empezar.",
+      },
+    ],
+  },
 ];
