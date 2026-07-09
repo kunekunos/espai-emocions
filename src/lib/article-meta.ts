@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "psicologo-lgtb-barcelona",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg LGTB+ a Barcelona: per què importa el context",
+    "titleES": "Psicólogo LGTB+ en Barcelona: por qué importa el contexto",
+    "excerptCA": "Buscar un psicòleg que conegui el context LGTB+ no és una qüestió d'identitat política, sinó de qualitat clínica. La diversitat sexual i de gènere porta realitats específiques —processos de sortida de l'armari, discriminació, identitat de gènere, famílies diverses— que un professional ha de saber reconèixer sense patologitzar-les. Aquí expliquem què aporta un psicòleg amb formació i sensibilitat LGTB+ i com treballar aquest perfil des d'un centre com Espai Emocions.",
+    "excerptES": "Buscar un psicólogo que conozca el contexto LGTB+ no es una cuestión de identidad política, sino de calidad clínica. La diversidad sexual y de género conlleva realidades específicas —procesos de salida del armario, discriminación, identidad de género, familias diversas— que un profesional debe saber reconocer sin patologizarlas. Aquí explicamos qué aporta un psicólogo con formación y sensibilidad LGTB+ y cómo se trabaja este perfil desde un centro como Espai Emocions.",
+    "datePublished": "2026-07-09"
+  },
+  {
     "slug": "frecuencia-sesiones-psicologia",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
