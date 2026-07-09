@@ -2660,4 +2660,186 @@ export const articlesPart3: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 13. psicologo-lgtb-barcelona (Pilar 2 — Psicólogo por nicho: LGTB+)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "psicologo-lgtb-barcelona",
+    categoryCA: "Psicòleg per nínxol",
+    categoryES: "Psicólogo por nicho",
+    titleCA: "Psicòleg LGTB+ a Barcelona: per què importa el context",
+    titleES: "Psicólogo LGTB+ en Barcelona: por qué importa el contexto",
+    excerptCA:
+      "Buscar un psicòleg que conegui el context LGTB+ no és una qüestió d'identitat política, sinó de qualitat clínica. La diversitat sexual i de gènere porta realitats específiques —processos de sortida de l'armari, discriminació, identitat de gènere, famílies diverses— que un professional ha de saber reconèixer sense patologitzar-les. Aquí expliquem què aporta un psicòleg amb formació i sensibilitat LGTB+ i com treballar aquest perfil des d'un centre com Espai Emocions.",
+    excerptES:
+      "Buscar un psicólogo que conozca el contexto LGTB+ no es una cuestión de identidad política, sino de calidad clínica. La diversidad sexual y de género conlleva realidades específicas —procesos de salida del armario, discriminación, identidad de género, familias diversas— que un profesional debe saber reconocer sin patologizarlas. Aquí explicamos qué aporta un psicólogo con formación y sensibilidad LGTB+ y cómo se trabaja este perfil desde un centro como Espai Emocions.",
+    datePublished: "2026-07-09",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "A Espai Emocions atenem persones lesbianes, gais, bisexuals, trans i no-binàries que busquen un psicòleg on poder parlar de la seva vida sense haver d'explicar des de zero què vol dir la seva identitat. La majoria no arriba amb un motiu de consulta vinculat directament a la seva orientació o identitat: arriba amb ansietat, amb un dol, amb una decisió laboral, amb dificultats per dormir. El que marca la diferència és que el context LGTB+ no s'ignora ni es tracta com un problema, sinó que forma part de la comprensió global de la persona.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: un psicòleg amb formació i sensibilitat LGTB+ aporta dues coses concretes. Primera, reconeix les experiències específiques d'aquest col·lectiu —sortida de l'armari, discriminació, transició de gènere, famílies pluriparentals— i les distingeix dels símptomes que presenta la persona. Segona, crea un espai on la persona no ha d'educar el professional abans de poder parlar del que li passa. Això no és un luxe: és una condició perquè la teràpia funcioni.",
+      },
+      { type: "heading", text: "El pes del context, no del diagnòstic" },
+      {
+        type: "paragraph",
+        text: "Durant dècades, la psicologia clínica va tractar la diversitat sexual i de gènere com a patologia. Aquesta història té conseqüències actuals. Moltes persones LGTB+ arriben a consulta amb una alerta legítima: no saben si el professional davant seu considerarà normal la seva identitat o si, conscientment o no, la tractarà com la causa del malestar. Aquesta sospita no és un prejudici de la persona: és el resultat d'una història real d'invalidació clínica.",
+      },
+      {
+        type: "paragraph",
+        text: "Un psicòleg format en context LGTB+ sap que la orientació o la identitat de gènere no són, per si mateixes, origen de trastorn. Sap també que les persones LGTB+ tenen més probabilitat de viure situacions que generen malestar: rebuig familiar, assetjament laboral, violència simbòlica quotidiana, processos administratius complexos en el cas de persones trans. Aquest malestar és real i mereix atenció, però la seva font no és la identitat: és el entorn.",
+      },
+      { type: "heading", text: "Què aporta un psicòleg que coneix l'entorn LGTB+" },
+      {
+        type: "paragraph",
+        text: "La diferència no és que el psicòleg comparteixi la identitat de la persona ni que utilitzi un vocabulari perfecte. La diferència és clínica i es nota en quatre aspectes pràctics:",
+      },
+      {
+        type: "list",
+        items: [
+          "No patologitza. Reconèix que la orientació sexual i la identitat de gènere són dimensions legítimes de la persona, no símptomes. Això evita una de les errades més freqüents i més doloroses: atribuir el malestar a la identitat quan la causa és una altra.",
+          "Coneix el llenguatge i les referències. No cal que la persona expliqui què és el pronombre, què vol dir cis o no-binari, o per què la sortida de l'armari no és un acte únic. Això estalvia temps de sessió i, sobretot, estalvia el cansament d'educar el professional.",
+          "Entén els processos específics. Una persona trans que inicia un procés d'afirmació de gènere viu canvis mèdics, socials i emocionals simultanis. Una parella del mateix sexe que vol ser mare o pare s'enfronta a un circuit legal i emocional que les parelles heterosexuals no recorren. Un psicòleg que coneix aquests processos pot acompanyar sense sorpreses.",
+          "Treballa la discriminació internalitzada. Moltes persones LGTB+ han absorbit missatges negatius des de la infància. Aquests missatges es converteixen en veu interna: no sóc prou bo, no meresc ser feliç, si em rebutgen serà perquè hi ha alguna cosa que no funciona en mi. Treballar aquesta veu forma part de la teràpia, i un professional format sap identificar-la i abordar-la.",
+        ],
+      },
+      { type: "heading", text: "Temes que apareixen amb freqüència" },
+      {
+        type: "paragraph",
+        text: "Els motius de consulta de les persones LGTB+ que atenen al nostre centre són, en la majoria de casos, els mateixos que els de qualsevol altra persona: ansietat, estat d'ànim baix, dificultats en la relació, estrès laboral, pèrdua. Però hi ha temes que apareixen amb més freqüència en aquest perfil i que convé saber tractar:",
+      },
+      {
+        type: "list",
+        items: [
+          "El procés de sortida de l'armari, que no és un acte puntual sinó una seqüència de decisions al llarg de la vida, amb la família, la feina, els amics. Cada pas pot generar por, alleujament o pèrdua, i a vegades tot alhora.",
+          "El dol per rebuig familiar. Hi ha persones que perden el contacte amb la família després de comunicar la seva orientació o identitat. Aquesta pèrdua no és igual que un dol per mort: no hi ha un ritual, no sempre hi ha reconeixement social, i la culpa hi és present.",
+          "La identitat de gènere i el procés d'afirmació. Les persones trans o en qüestió de gènere poden necessitar suport emocional durant el procés social, legal i mèdic, i també un espai on explorar dubtes sense pressa i sense judici.",
+          "Les relacions i la sexualitat. Construir parella, gestionar el desig, viure la sexualitat després d'anys de vergonya o de secrets són temes que apareixen sovint i que es treballen millor quan el professional no assumeix un model únic de relació.",
+          "L'ansietat i la depressió vinculades a discriminació. El impacte acumulat de comentaris, exclusions i microagressions no sempre es reconeix com a font de malestar, però hi és. Identificar-lo és el primer pas per desactivar-lo.",
+        ],
+      },
+      { type: "heading", text: "Com treballar aquest perfil a Espai Emocions" },
+      {
+        type: "paragraph",
+        text: "El nostre equip no té una unitat separada per a persones LGTB+. El que tenim és un compromís transversal: qualsevol psicòleg del centre ha de poder atendre aquest perfil amb formació i respecte. Això vol dir que, quan una persona ens contacta i menciona el seu context LGTB+, la assignem al professional del equip que més encaixi per motiu de consulta, sense que aquest context sigui un obstacle.",
+      },
+      {
+        type: "paragraph",
+        text: "A la primera sessió, el psicòleg escolta, fa preguntes i valora el motiu de consulta. Si la persona vol treballar alguna cosa vinculada directament al seu context LGTB+, el professional ho incorpora al pla. Si no, el context queda present però no s'imposa. Allò decisiu és que la persona no hagi de triar entre parlar del que li passa i parlar del qui és.",
+      },
+      {
+        type: "paragraph",
+        text: "També vetllem per la confidencialitat. Per a persones que no són obertes en tots els àmbits de la seva vida, saber que allò que es diu a la sessió queda protegit no és un detall: és una condició. Pots llegir més sobre com garanim la confidencialitat en aquest article.",
+      },
+      { type: "heading", text: "Preguntes freqüents" },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Tengo que decir en la primera sesión que soy LGTB+?",
+            answer: "No es obligatorio, pero suele ayudar. Si lo dices, el psicólogo puede incorporar tu contexto desde el inicio y evitar preguntas innecesarias. Si prefieres no hacerlo al principio, también es válido: el espacio es tuyo y decides cuándo y cómo compartir cada cosa.",
+          },
+          {
+            question: "¿Los psicólogos de Espai Emocions tienen experiencia con personas trans?",
+            answer: "Sí. Nuestro equipo atiende personas trans y en cuestión de género, tanto en el acompañamiento emocional del proceso de afirmación como en temas no vinculados a la identidad. Si buscas un profesional con experiencia específica, puedes mencionarlo al contactar y lo tendremos en cuenta en la asignación.",
+          },
+          {
+            question: "¿La terapia para personas LGTB+ es más cara?",
+            answer: "No. El precio de la sesión es el mismo independientemente de la orientación o identidad de la persona. Puedes consultar los rangos de precios en nuestra guía sobre cuánto cuesta un psicólogo en Barcelona.",
+          },
+          {
+            question: "¿Ofrecéis terapia online para personas LGTB+ que no están en Barcelona?",
+            answer: "Sí. La terapia online permite atender a personas que viven fuera de Barcelona o que prefieren este formato por privacidad. Si te interesa, puedes indicarlo en el formulario de contacto y organizamos la primera sesión en formato online.",
+          },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "En Espai Emocions atendemos a personas lesbianas, gais, bisexuales, trans y no-binarias que buscan un psicólogo donde poder hablar de su vida sin tener que explicar desde cero qué significa su identidad. La mayoría no llega con un motivo de consulta vinculado directamente a su orientación o identidad: llega con ansiedad, con un duelo, con una decisión laboral, con dificultades para dormir. Lo que marca la diferencia es que el contexto LGTB+ no se ignora ni se trata como un problema, sino que forma parte de la comprensión global de la persona.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: un psicólogo con formación y sensibilidad LGTB+ aporta dos cosas concretas. Primera, reconoce las experiencias específicas de este colectivo —salida del armario, discriminación, transición de género, familias pluriparentales— y las distingue de los síntomas que presenta la persona. Segunda, crea un espacio donde la persona no tiene que educar al profesional antes de poder hablar de lo que le pasa. Eso no es un lujo: es una condición para que la terapia funcione.",
+      },
+      { type: "heading", text: "El peso del contexto, no del diagnóstico" },
+      {
+        type: "paragraph",
+        text: "Durante décadas, la psicología clínica trató la diversidad sexual y de género como patología. Esa historia tiene consecuencias actuales. Muchas personas LGTB+ llegan a consulta con una alerta legítima: no saben si el profesional ante ellas considerará normal su identidad o si, consciente o inconscientemente, la tratará como la causa del malestar. Esa sospecha no es un prejuicio de la persona: es el resultado de una historia real de invalidación clínica.",
+      },
+      {
+        type: "paragraph",
+        text: "Un psicólogo formado en contexto LGTB+ sabe que la orientación o la identidad de género no son, por sí mismas, origen de trastorno. Sabe también que las personas LGTB+ tienen más probabilidad de vivir situaciones que generan malestar: rechazo familiar, acoso laboral, violencia simbólica cotidiana, procesos administrativos complejos en el caso de personas trans. Ese malestar es real y merece atención, pero su fuente no es la identidad: es el entorno.",
+      },
+      { type: "heading", text: "Qué aporta un psicólogo que conoce el entorno LGTB+" },
+      {
+        type: "paragraph",
+        text: "La diferencia no es que el psicólogo comparta la identidad de la persona ni que use un vocabulario perfecto. La diferencia es clínica y se nota en cuatro aspectos prácticos:",
+      },
+      {
+        type: "list",
+        items: [
+          "No patologiza. Reconoce que la orientación sexual y la identidad de género son dimensiones legítimas de la persona, no síntomas. Esto evita uno de los errores más frecuentes y más dolorosos: atribuir el malestar a la identidad cuando la causa es otra.",
+          "Conoce el lenguaje y las referencias. No hace falta que la persona explique qué es el pronombre, qué significa cis o no-binario, o por qué la salida del armario no es un acto único. Esto ahorra tiempo de sesión y, sobre todo, ahorra el cansancio de educar al profesional.",
+          "Entiende los procesos específicos. Una persona trans que inicia un proceso de afirmación de género vive cambios médicos, sociales y emocionales simultáneos. Una pareja del mismo sexo que quiere ser madre o padre se enfrenta a un circuito legal y emocional que las parejas heterosexuales no recorren. Un psicólogo que conoce estos procesos puede acompañar sin sorpresas.",
+          "Trabaja la discriminación internalizada. Muchas personas LGTB+ han absorbido mensajes negativos desde la infancia. Esos mensajes se convierten en voz interna: no soy suficiente, no merezco ser feliz, si me rechazan será porque hay algo mal en mí. Trabajar esa voz forma parte de la terapia, y un profesional formado sabe identificarla y abordarla.",
+        ],
+      },
+      { type: "heading", text: "Temas que aparecen con frecuencia" },
+      {
+        type: "paragraph",
+        text: "Los motivos de consulta de las personas LGTB+ que atendemos en nuestro centro son, en la mayoría de casos, los mismos que los de cualquier otra persona: ansiedad, estado de ánimo bajo, dificultades en la relación, estrés laboral, pérdida. Pero hay temas que aparecen con más frecuencia en este perfil y que conviene saber tratar:",
+      },
+      {
+        type: "list",
+        items: [
+          "El proceso de salida del armario, que no es un acto puntual sino una secuencia de decisiones a lo largo de la vida, con la familia, el trabajo, los amigos. Cada paso puede generar miedo, alivio o pérdida, y a veces todo a la vez.",
+          "El duelo por rechazo familiar. Hay personas que pierden el contacto con su familia tras comunicar su orientación o identidad. Esa pérdida no es igual que un duelo por muerte: no hay un ritual, no siempre hay reconocimiento social, y la culpa está presente.",
+          "La identidad de género y el proceso de afirmación. Las personas trans o en cuestión de género pueden necesitar apoyo emocional durante el proceso social, legal y médico, y también un espacio donde explorar dudas sin prisa y sin juicio.",
+          "Las relaciones y la sexualidad. Construir pareja, gestionar el deseo, vivir la sexualidad después de años de vergüenza o de secretos son temas que aparecen a menudo y que se trabajan mejor cuando el profesional no asume un modelo único de relación.",
+          "La ansiedad y la depresión vinculadas a discriminación. El impacto acumulado de comentarios, exclusiones y microagresiones no siempre se reconoce como fuente de malestar, pero está ahí. Identificarlo es el primer paso para desactivarlo.",
+        ],
+      },
+      { type: "heading", text: "Cómo trabajamos este perfil en Espai Emocions" },
+      {
+        type: "paragraph",
+        text: "Nuestro equipo no tiene una unidad separada para personas LGTB+. Lo que tiene es un compromiso transversal: cualquier psicólogo del centro debe poder atender este perfil con formación y respeto. Eso significa que, cuando una persona nos contacta y menciona su contexto LGTB+, la asignamos al profesional del equipo que mejor encaje por motivo de consulta, sin que ese contexto sea un obstáculo.",
+      },
+      {
+        type: "paragraph",
+        text: "En la primera sesión, el psicólogo escucha, hace preguntas y valora el motivo de consulta. Si la persona quiere trabajar algo vinculado directamente a su contexto LGTB+, el profesional lo incorpora al plan. Si no, el contexto queda presente pero no se impone. Lo decisivo es que la persona no tenga que elegir entre hablar de lo que le pasa y hablar de quien es.",
+      },
+      {
+        type: "paragraph",
+        text: "También velamos por la confidencialidad. Para personas que no son abiertas en todos los ámbitos de su vida, saber que lo que se dice en la sesión queda protegido no es un detalle: es una condición. Puedes leer más sobre cómo garantizamos la confidencialidad en este artículo.",
+      },
+      { type: "heading", text: "Preguntas frecuentes" },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Tengo que decir en la primera sesión que soy LGTB+?",
+            answer: "No es obligatorio, pero suele ayudar. Si lo dices, el psicólogo puede incorporar tu contexto desde el inicio y evitar preguntas innecesarias. Si prefieres no hacerlo al principio, también es válido: el espacio es tuyo y decides cuándo y cómo compartir cada cosa.",
+          },
+          {
+            question: "¿Los psicólogos de Espai Emocions tienen experiencia con personas trans?",
+            answer: "Sí. Nuestro equipo atiende a personas trans y en cuestión de género, tanto en el acompañamiento emocional del proceso de afirmación como en temas no vinculados a la identidad. Si buscas un profesional con experiencia específica, puedes mencionarlo al contactar y lo tendremos en cuenta en la asignación.",
+          },
+          {
+            question: "¿La terapia para personas LGTB+ es más cara?",
+            answer: "No. El precio de la sesión es el mismo independientemente de la orientación o identidad de la persona. Puedes consultar los rangos de precios en nuestra guía sobre cuánto cuesta un psicólogo en Barcelona.",
+          },
+          {
+            question: "¿Ofrecéis terapia online para personas LGTB+ que no están en Barcelona?",
+            answer: "Sí. La terapia online permite atender a personas que viven fuera de Barcelona o que prefieren este formato por privacidad. Si te interesa, puedes indicarlo en el formulario de contacto y organizamos la primera sesión en formato online.",
+          },
+        ],
+      },
+    ],
+  },
 ];
