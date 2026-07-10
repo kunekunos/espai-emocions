@@ -2,7 +2,7 @@
 // 10 artículos en castellano, traducidos al catalán para blocksCA/categoryCA/titleCA/excerptCA.
 // El tipo ArticleContent y ContentBlock están definidos en ./articles.
 
-import type { ArticleContent, ContentBlock } from "./articles";
+import type { ArticleContent } from "./articles";
 
 export const articlesPart3: ArticleContent[] = [
   // ---------------------------------------------------------------------------
