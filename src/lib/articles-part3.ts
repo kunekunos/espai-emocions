@@ -2907,6 +2907,32 @@ export const articlesPart3: ArticleContent[] = [
         type: "paragraph",
         text: "Cap senyal per si sola diagnostica burnout. Però quan diverses coincideixen i es mantenen setmanes malgrat el descans, convé prestar-hi atenció.",
       },
+      { type: "heading", text: "Les tres fases del burnout" },
+      {
+        type: "paragraph",
+        text: "El burnout no apareix de cop. Es construeix en fases que sovint passen desapercebudes. Reconèixer-les ajuda a intervenir abans que el desgast sigui sever:",
+      },
+      {
+        type: "list",
+        items: [
+          "Fase d'activació o \u201cluna de mel\u201d. Al començament, la persona s'implica amb molta energia, treballa hores extres i assumeix més responsabilitats de les que li corresponen. Tot ho viu amb entusiasme. Sembla motivació, però de fet és una sobreexposició que va minant reserves.",
+          "Fase d'estancament. L'energia inicial desapareix. La persona comença a notar que l'esforç no es correspon amb els resultats ni amb el reconeixement. Apareixen els primers símptomes: cansament que no marxa, irritabilitat, dificultat per concentrar-se. En aquesta fase moltes persones es culpen de no rendir com abans.",
+          "Fase d'agotament. És el punt en què el cos i la ment diuen prou. El cansament és extrem, la desconnexió emocional és evident, i apareixen símptomes físics i psicològics que interfereixen amb la vida diaria. Aquí és quan la majoria de persones busquen ajuda, però s'ha pogut intervenir molt abans.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Entendre en quina fase es troba un ajuda a decidir el següent pas. En la fase d'activació, pot suficient ajustar la càrrega i recuperar hàbits de descans. En la d'estancament, convé revisar expectatives i estratègies d'afrontament. En la d'agotament, l'acompanyament professional és necessari.",
+      },
+      { type: "heading", text: "Un exemple per entendre-ho millor" },
+      {
+        type: "paragraph",
+        text: "Pensem en una infermera que porta cinc anys en una unitat hospitalària. Durant els primers dos anys, arriba amb energia, es queda més enllà del seu torn, assumeix guàrdies voluntàriament. Al tercer any, comença a notar que les vacances no li recarreguen. Al quart, els pacients li comencen a semblar \u201ccasos\u201d en comptes de persones, i es sorprèn a si mateixa amb resposta brusques que abans no tenia. Al cinquè, es lleva cansada cada dia i ha comen\u00e7at a pensar en deixar la professió, tot i que sempre li havia agradat.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta seqüència és típicament progressiva. Si en la fase d'estancament hagués tingut un espai per processar el desgast i ajustar la seva relació amb la feina, potser no hauria arribat a la fase d'agotament. La teràpia no és només per quan tot ha caigut: és també per evitar que caigui.",
+      },
       { type: "heading", text: "Per què el burnout no es resol amb més descans" },
       {
         type: "paragraph",
@@ -2994,6 +3020,32 @@ export const articlesPart3: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Ninguna señal por sí sola diagnostica burnout. Pero cuando varias coinciden y se mantienen semanas a pesar del descanso, conviene prestarles atención.",
+      },
+      { type: "heading", text: "Las tres fases del burnout" },
+      {
+        type: "paragraph",
+        text: "El burnout no aparece de golpe. Se construye en fases que a menudo pasan desapercibidas. Reconocerlas ayuda a intervenir antes de que el desgaste sea severo:",
+      },
+      {
+        type: "list",
+        items: [
+          "Fase de activación o \"luna de miel\". Al principio, la persona se implica con mucha energía, trabaja horas extra y asume más responsabilidades de las que le corresponden. Todo lo vive con entusiasmo. Parece motivación, pero de hecho es una sobreexposición que va minando reservas.",
+          "Fase de estancamiento. La energía inicial desaparece. La persona empieza a notar que el esfuerzo no se corresponde con los resultados ni con el reconocimiento. Aparecen los primeros síntomas: cansancio que no se va, irritabilidad, dificultad para concentrarse. En esta fase muchas personas se culpan de no rendir como antes.",
+          "Fase de agotamiento. Es el punto en que el cuerpo y la mente dicen basta. El cansancio es extremo, la desconexión emocional es evidente, y aparecen síntomas físicos y psicológicos que interfieren con la vida diaria. Aquí es cuando la mayoría de personas buscan ayuda, pero se podría haber intervenido mucho antes.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Entender en qué fase se encuentra uno ayuda a decidir el siguiente paso. En la fase de activación, puede bastar ajustar la carga y recuperar hábitos de descanso. En la de estancamiento, conviene revisar expectativas y estrategias de afrontamiento. En la de agotamiento, el acompañamiento profesional es necesario.",
+      },
+      { type: "heading", text: "Un ejemplo para entenderlo mejor" },
+      {
+        type: "paragraph",
+        text: "Pensemos en una enfermera que lleva cinco años en una unidad hospitalaria. Durante los primeros dos años, llega con energía, se queda más allá de su turno, asume guardias voluntariamente. Al tercer año, empieza a notar que las vacaciones no le recargan. Al cuarto, los pacientes le empiezan a parecer \"casos\" en lugar de personas, y se sorprende a sí misma con respuestas bruscas que antes no tenía. Al quinto, se levanta cansada cada día y ha empezado a pensar en dejar la profesión, a pesar de que siempre le había gustado.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta secuencia es típicamente progresiva. Si en la fase de estancamiento hubiera tenido un espacio para procesar el desgaste y ajustar su relación con el trabajo, quizá no habría llegado a la fase de agotamiento. La terapia no es solo para cuando todo ha caído: es también para evitar que caiga.",
       },
       { type: "heading", text: "Por qué el burnout no se resuelve con más descanso" },
       {
