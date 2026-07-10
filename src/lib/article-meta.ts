@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "burnout-o-cansancio-como-distinguir",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Burnout o cansament: com distingir l'agotament del cansament normal",
+    "titleES": "Burnout o cansancio: cómo distinguir el agotamiento del cansancio normal",
+    "excerptCA": "Sentir-se cansat després d'una setmana intensa de feina és normal. Però quan el cansament no marxa amb el descans, es queda al cap de setmana i s'acompanya de desconnexió, irritabilitat i pèrdua de sentit, pot ser burnout. Aquí expliquem la diferència entre cansament normal i síndrome de burnout, quins senyals alerten i quan convé buscar un psicòleg.",
+    "excerptES": "Sentirse cansado después de una semana intensa de trabajo es normal. Pero cuando el cansancio no se va con el descanso, se queda el fin de semana y se acompaña de desconexión, irritabilidad y pérdida de sentido, puede ser burnout. Aquí explicamos la diferencia entre cansancio normal y síndrome de burnout, qué señales alertan y cuándo conviene buscar un psicólogo.",
+    "datePublished": "2026-07-10"
+  },
+  {
     "slug": "psicologo-lgtb-barcelona",
     "categoryCA": "Psicòleg per nínxol",
     "categoryES": "Psicólogo por nicho",
