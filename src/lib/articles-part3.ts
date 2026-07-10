@@ -2842,4 +2842,196 @@ export const articlesPart3: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 14. burnout-o-cansancio-como-distinguir (Pilar 3 — ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "burnout-o-cansancio-como-distinguir",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA: "Burnout o cansament: com distingir l'agotament del cansament normal",
+    titleES: "Burnout o cansancio: cómo distinguir el agotamiento del cansancio normal",
+    excerptCA:
+      "Sentir-se cansat després d'una setmana intensa de feina és normal. Però quan el cansament no marxa amb el descans, es queda al cap de setmana i s'acompanya de desconnexió, irritabilitat i pèrdua de sentit, pot ser burnout. Aquí expliquem la diferència entre cansament normal i síndrome de burnout, quins senyals alerten i quan convé buscar un psicòleg.",
+    excerptES:
+      "Sentirse cansado después de una semana intensa de trabajo es normal. Pero cuando el cansancio no se va con el descanso, se queda el fin de semana y se acompaña de desconexión, irritabilidad y pérdida de sentido, puede ser burnout. Aquí explicamos la diferencia entre cansancio normal y síndrome de burnout, qué señales alertan y cuándo conviene buscar un psicólogo.",
+    datePublished: "2026-07-10",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Estar cansat després d'una setmana de feina intensa és una resposta natural del cos. El cansament normal es cura amb descans: un cap de setmana tranquil, unes nits amb bona qualitat de son, uns dies lliures. El problema sorgeix quan aquest descans no basta. Quan et lleves cansat encara que hagis dormit, quan el cap de setmana no recarrega i el dilluns se sent com una muntanya abans de començar, el que està passant potser no és només cansament. Pot ser burnout.",
+      },
+      {
+        type: "paragraph",
+        text: "El burnout, o síndrome de desgast professional, no és una qüestió de mandra ni de mala actitud. És la resposta d'un organisme que ha estat sotmès a estrès sostingut durant massa temps sense recuperar-se entre els episodis. La Organització Mundial de la Salut el reconeix des del 2019 com un fenomen vinculat al context laboral, i els seus símptomes són específics i distingibles del cansament ordinari.",
+      },
+      { type: "heading", text: "Cansament normal vs. burnout: la diferència clau" },
+      {
+        type: "paragraph",
+        text: "El cansament normal té tres característiques que el diferencien del burnout: és passatger, es recupera amb descans i no altera la relació amb la feina. Després d'una setmana dura, estàs esgotat, però saps que amb uns dies de descans tornaràs a estar bé. La motivació i el sentit del que fas continuen presents.",
+      },
+      {
+        type: "paragraph",
+        text: "El burnout, en canvi, es reconeix per tres dimensions que la investigació ha identificat amb claredat:",
+      },
+      {
+        type: "list",
+        items: [
+          "Esgotament emocional i físic. No és només estar cansat: és una sensació de no tenir res més a donar. El cos pesa, la ment va lenta, i cap quantitat de descans sembla suficient. Aquest esgotament és sostingut, no puntual.",
+          "Despersonalització o cinisme. La relació amb la feina canvia. Allò que abans tenia sentit ara es veu amb distància, amb irritabilitat o amb indiferència. Les persones que atens, els projectes en els que treballaves, els companys: tot es viu amb una distància que abans no existia.",
+          "Pèrdua de realització professional. Apareix la sensació que allò que fas no importa, que no té impacte, que no és suficient. Fins i tot quan els resultats objectius són bons, la satisfacció interna ha desaparegut.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes tres dimensions no apareixen sempre alhora ni amb la mateixa intensitat. El burnout és un procés que es construeix gradualment, sovint durant mesos, i la persona no sempre el reconeix fins que està avançat.",
+      },
+      { type: "heading", text: "Senyals que indiquen que potser no és només cansament" },
+      {
+        type: "paragraph",
+        text: "Hi ha senyals concretes que ajuden a distingir entre un cansament passatger i un burnout que requereix atenció:",
+      },
+      {
+        type: "list",
+        items: [
+          "El cansament no millora amb el descans. Et lleves cansat després de dormir vuit hores. El cap de setmana no recupera. Les vacances alleugen temporalment, però el malestar torna als pocs dies de reincorporar-te.",
+          "Dificultat per desconnectar. La feina s'acompanya a casa, al llit, al cap de setmana. Els pensaments laborals envaeixen els temps de descans i no es poden apagar a voluntat.",
+          "Irritabilitat que abans no tenies. Coses petites et treuen de polleguera. La pacientcia amb companys, clients o familiars ha disminuït de forma que els altres també ho noten.",
+          "Aïllament. Perdrer el interés a quedar amb gent, reduir la vida social, evitar trobades que abans es gaudien. L'aïllament no és per falta de temps: és per falta d'energia.",
+          "Símptomes físics sense causa mèdica clara. Cefalees tensionals, problemes digestius, insomni, tensió muscular, palpitacions. El cos està manifestant el que la ment encara no ha posat en paraules.",
+          "Pèrdua de sentit. Allò que abans motivava ara no genera res. La feina es fa en mode automàtic, per inèrcia, i el questionament sobre si val la pena apareix cada vegada amb més força.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Cap senyal per si sola diagnostica burnout. Però quan diverses coincideixen i es mantenen setmanes malgrat el descans, convé prestar-hi atenció.",
+      },
+      { type: "heading", text: "Per què el burnout no es resol amb més descans" },
+      {
+        type: "paragraph",
+        text: "Un error freqüent és pensar que el burnout es cura amb unes vacances. És cert que el descans alleuja temporalment els símptomes, però si les condicions que el van generar continuen presents, el malestar tornarà. El burnout no és un problema de falta de descans: és un problema de desequilibri sostingut entre les demandes i els recursos disponibles per afrontar-les.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest desequilibri pot venir de diversos factors: una càrrega de treball que supera la capacitat real, manca de control sobre com s'organitza la feina, recompenses insuficients —no només econòmiques, també de reconeixement—, relacions laborals conflictives o falta de suport, o una dissociació entre els valors personals i els de l'entorn laboral. Treballar aquests factors, no només els símptomes, és el que permet una recuperació sostinguda.",
+      },
+      { type: "heading", text: "Quan convé buscar un psicòleg" },
+      {
+        type: "paragraph",
+        text: "Buscar ajuda professional no requereix estar al límit. De fet, com més aviat s'aborda el burnout, més curt és el camí de recuperació. Conviene consultar un psicòleg quan:",
+      },
+      {
+        type: "list",
+        items: [
+          "El cansament i la desconnexió es mantenen setmanes malgrat el descans.",
+          "Els símptomes comencen a afectar la vida personal: son, relacions, salut física.",
+          "Sentis que has perdut el contacte amb allò que et feia sentir bé en la teva feina.",
+          "Et trobes amb pensaments recurrents sobre deixar-ho tot sense arribar a concretar res.",
+          "Les estratègies que has provat per tu mateix —desconnectar, fer esport, organitzar-te millor— no han funcionat.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Un psicòleg no et dirà si has de deixar o no la feina. Et ajudarà a entendre què està passant, a identificar els factors que ho generen i a recuperar recursos emocionals per prendre decisions des de la claredat, no des de l'esgotament. Si vols saber més sobre com comença un procés terapèutic, pots llegir com és la primera sessió de psicologia.",
+      },
+      { type: "heading", text: "Com treballem el burnout a Espai Emocions" },
+      {
+        type: "paragraph",
+        text: "Al nostre centre, al C/ Indústria 220 (barri del Clot, Barcelona), atendem persones que arriben amb diferents graus de desgast professional. El treball combina escolta sostinguda amb eines concretes per gestionar el dia a dia, recuperar l'energia i redefinir la relació amb la feina. No es tracta de motivar ni de dir que \"has de ser fort\": es tracta d'entendre què ha passat i de construir alternatives reals.",
+      },
+      {
+        type: "paragraph",
+        text: "Oferim sessions presencials i online, amb horaris adaptats a agendes exigents. Si et reconeixes en allò descrit aquí, el primer pas és escriure'ns. Pots fer-ho a través del nostre formulari de contacte i valorarem junts la teva situació sense compromís.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Estar cansado después de una semana de trabajo intensa es una respuesta natural del cuerpo. El cansancio normal se cura con descanso: un fin de semana tranquilo, unas noches con buena calidad de sueño, unos días libres. El problema surge cuando ese descanso no basta. Cuando te levantas cansado aunque hayas dormido, cuando el fin de semana no recarga y el lunes se siente como una montaña antes de empezar, lo que está pasando quizá no es solo cansancio. Puede ser burnout.",
+      },
+      {
+        type: "paragraph",
+        text: "El burnout, o síndrome de desgaste profesional, no es una cuestión de pereza ni de mala actitud. Es la respuesta de un organismo que ha estado sometido a estrés sostenido durante demasiado tiempo sin recuperarse entre los episodios. La Organización Mundial de la Salud lo reconoce desde 2019 como un fenómeno vinculado al contexto laboral, y sus síntomas son específicos y distinguibles del cansancio ordinario.",
+      },
+      { type: "heading", text: "Cansancio normal vs. burnout: la diferencia clave" },
+      {
+        type: "paragraph",
+        text: "El cansancio normal tiene tres características que lo diferencian del burnout: es pasajero, se recupera con descanso y no altera la relación con el trabajo. Después de una semana dura, estás agotado, pero sabes que con unos días de descanso volverás a estar bien. La motivación y el sentido de lo que haces siguen presentes.",
+      },
+      {
+        type: "paragraph",
+        text: "El burnout, en cambio, se reconoce por tres dimensiones que la investigación ha identificado con claridad:",
+      },
+      {
+        type: "list",
+        items: [
+          "Agotamiento emocional y físico. No es solo estar cansado: es una sensación de no tener nada más que dar. El cuerpo pesa, la mente va lenta, y ninguna cantidad de descanso parece suficiente. Este agotamiento es sostenido, no puntual.",
+          "Despersonalización o cinismo. La relación con el trabajo cambia. Lo que antes tenía sentido ahora se ve con distancia, con irritabilidad o con indiferencia. Las personas que atiendes, los proyectos en los que trabajabas, los compañeros: todo se vive con una distancia que antes no existía.",
+          "Pérdida de realización profesional. Aparece la sensación de que lo que haces no importa, que no tiene impacto, que no es suficiente. Incluso cuando los resultados objetivos son buenos, la satisfacción interna ha desaparecido.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Estas tres dimensiones no aparecen siempre a la vez ni con la misma intensidad. El burnout es un proceso que se construye gradualmente, a menudo durante meses, y la persona no siempre lo reconoce hasta que está avanzado.",
+      },
+      { type: "heading", text: "Señales que indican que quizá no es solo cansancio" },
+      {
+        type: "paragraph",
+        text: "Hay señales concretas que ayudan a distinguir entre un cansancio pasajero y un burnout que requiere atención:",
+      },
+      {
+        type: "list",
+        items: [
+          "El cansancio no mejora con el descanso. Te levantas cansado después de dormir ocho horas. El fin de semana no recupera. Las vacaciones alivian temporalmente, pero el malestar vuelve a los pocos días de reincorporarte.",
+          "Dificultad para desconectar. El trabajo te acompaña a casa, a la cama, al fin de semana. Los pensamientos laborales invaden los tiempos de descanso y no se pueden apagar a voluntad.",
+          "Irritabilidad que antes no tenías. Cosas pequeñas te sacan de quicio. La paciencia con compañeros, clientes o familiares ha disminuido de forma que los demás también lo notan.",
+          "Aislamiento. Perder el interés por quedar con gente, reducir la vida social, evitar encuentros que antes se disfrutaban. El aislamiento no es por falta de tiempo: es por falta de energía.",
+          "Síntomas físicos sin causa médica clara. Cefaleas tensionales, problemas digestivos, insomnio, tensión muscular, palpitaciones. El cuerpo está manifestando lo que la mente aún no ha puesto en palabras.",
+          "Pérdida de sentido. Lo que antes motivaba ahora no genera nada. El trabajo se hace en modo automático, por inercia, y el cuestionamiento sobre si vale la pena aparece cada vez con más fuerza.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna señal por sí sola diagnostica burnout. Pero cuando varias coinciden y se mantienen semanas a pesar del descanso, conviene prestarles atención.",
+      },
+      { type: "heading", text: "Por qué el burnout no se resuelve con más descanso" },
+      {
+        type: "paragraph",
+        text: "Un error frecuente es pensar que el burnout se cura con unas vacaciones. Es cierto que el descanso alivia temporalmente los síntomas, pero si las condiciones que lo generaron siguen presentes, el malestar volverá. El burnout no es un problema de falta de descanso: es un problema de desequilibrio sostenido entre las demandas y los recursos disponibles para afrontarlas.",
+      },
+      {
+        type: "paragraph",
+        text: "Este desequilibrio puede venir de varios factores: una carga de trabajo que supera la capacidad real, falta de control sobre cómo se organiza el trabajo, recompensas insuficientes —no solo económicas, también de reconocimiento—, relaciones laborales conflictivas o falta de apoyo, o una disociación entre los valores personales y los del entorno laboral. Trabajar estos factores, no solo los síntomas, es lo que permite una recuperación sostenida.",
+      },
+      { type: "heading", text: "Cuándo conviene buscar un psicólogo" },
+      {
+        type: "paragraph",
+        text: "Buscar ayuda profesional no requiere estar al límite. De hecho, cuanto antes se aborda el burnout, más corto es el camino de recuperación. Conviene consultar un psicólogo cuando:",
+      },
+      {
+        type: "list",
+        items: [
+          "El cansancio y la desconexión se mantienen semanas a pesar del descanso.",
+          "Los síntomas empiezan a afectar la vida personal: sueño, relaciones, salud física.",
+          "Sientes que has perdido el contacto con lo que te hacía sentir bien en tu trabajo.",
+          "Te encuentras con pensamientos recurrentes sobre dejarlo todo sin llegar a concretar nada.",
+          "Las estrategias que has probado por ti mismo —desconectar, hacer deporte, organizarte mejor— no han funcionado.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Un psicólogo no te dirá si tienes que dejar o no el trabajo. Te ayudará a entender qué está pasando, a identificar los factores que lo generan y a recuperar recursos emocionales para tomar decisiones desde la claridad, no desde el agotamiento. Si quieres saber más sobre cómo empieza un proceso terapéutico, puedes leer cómo es la primera sesión de psicología.",
+      },
+      { type: "heading", text: "Cómo trabajamos el burnout en Espai Emocions" },
+      {
+        type: "paragraph",
+        text: "En nuestro centro, en la C/ Indústria 220 (barrio del Clot, Barcelona), atendemos a personas que llegan con diferentes grados de desgaste profesional. El trabajo combina escucha sostenida con herramientas concretas para gestionar el día a día, recuperar la energía y redefinir la relación con el trabajo. No se trata de motivar ni de decir que \"tienes que ser fuerte\": se trata de entender qué ha pasado y de construir alternativas reales.",
+      },
+      {
+        type: "paragraph",
+        text: "Ofrecemos sesiones presenciales y online, con horarios adaptados a agendas exigentes. Si te reconoces en lo descrito aquí, el primer paso es escribirnos. Puedes hacerlo a través de nuestro formulario de contacto y valoraremos juntos tu situación sin compromiso.",
+      },
+    ],
+  },
 ];
