@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "equipo-psicologos-coordinacion-espai-emocions",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "Com funciona un equip de psicòlegs coordinat: el valor de treballar en equip",
+    "titleES": "Cómo funciona un equipo de psicólogos coordinado: el valor de trabajar en equipo",
+    "excerptCA": "Treballar en equip no és un luxe organitzatiu: és una garantia clínica. Quan diversos psicòlegs comparen perspectives, supervisen casos i deriven dins del centre, la persona que consulta rep una atenció més sòlida que amb un únic professional aïllat. Aquí expliquem com es coordina un equip de psicòlegs en un centre com Espai Emocions i què aporta a qui consulta.",
+    "excerptES": "Trabajar en equipo no es un lujo organizativo: es una garantía clínica. Cuando varios psicólogos comparan perspectivas, supervisan casos y derivan dentro del centro, la persona que consulta recibe una atención más sólida que con un único profesional aislado. Aquí explicamos cómo se coordina un equipo de psicólogos en un centro como Espai Emocions y qué aporta a quien consulta.",
+    "datePublished": "2026-07-11"
+  },
+  {
     "slug": "burnout-o-cansancio-como-distinguir",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
