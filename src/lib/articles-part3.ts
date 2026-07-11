@@ -3086,4 +3086,197 @@ export const articlesPart3: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 15. equipo-psicologos-coordinacion-espai-emocions (Pilar 4 — El centro)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "equipo-psicologos-coordinacion-espai-emocions",
+    categoryCA: "El centre",
+    categoryES: "El centro",
+    titleCA: "Com funciona un equip de psicòlegs coordinat: el valor de treballar en equip",
+    titleES: "Cómo funciona un equipo de psicólogos coordinado: el valor de trabajar en equipo",
+    excerptCA:
+      "Treballar en equip no és un luxe organitzatiu: és una garantia clínica. Quan diversos psicòlegs comparen perspectives, supervisen casos i deriven dins del centre, la persona que consulta rep una atenció més sòlida que amb un únic professional aïllat. Aquí expliquem com es coordina un equip de psicòlegs en un centre com Espai Emocions i què aporta a qui consulta.",
+    excerptES:
+      "Trabajar en equipo no es un lujo organizativo: es una garantía clínica. Cuando varios psicólogos comparan perspectivas, supervisan casos y derivan dentro del centro, la persona que consulta recibe una atención más sólida que con un único profesional aislado. Aquí explicamos cómo se coordina un equipo de psicólogos en un centro como Espai Emocions y qué aporta a quien consulta.",
+    datePublished: "2026-07-11",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quan algú busca psicòleg, sovint es fixa en el professional individual: la seva formació, la seva experiència, el seu enfocament. Això és important, però hi ha un factor que passa més desapercebut i que marca la diferència entre un bon centre i un professional aïllat: el fet que el psicòleg treballi dins d'un equip coordinat. A Espai Emocions ho fem així, i en aquest article expliquem per què.",
+      },
+      {
+        type: "paragraph",
+        text: "Un equip coordinat és un grup de psicòlegs que exerceixen en el mateix centre, comparteixen un marc de treball comú, es supervisen mútuament i deriven casos dins de l'equip segons especialització. No és una suma de professionals independents que coincideixen en un espai: és una estructura organitzada que beneficia directament la persona que consulta.",
+      },
+      { type: "heading", text: "Per què el treball en equip millora l'atenció" },
+      {
+        type: "paragraph",
+        text: "La psicologia és una disciplina on la perspectiva única té límits. Cap professional, per molt experimentat que sigui, pot identificar amb la mateixa precisió totes les variables d'un cas. Quan el psicòleg pot contrastar la seva lectura amb la d'un col·lega, augmenta la probabilitat de detectar elements que se li haurien escapat: un patró de relació, un factor orgànic que cal descartar, una eina que no s'ha provat.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, l'equip permet un avantatge que un professional en solitari no pot oferir: la derivació interna. Si el motiu de consulta canvia durant el procés o si resulta que requereix un perfil més especialitzat, la persona no ha de començar de zero en un altre centre. El canvi es fa dins del mateix espai, amb transferència d'informació i continuïtat del vincle.",
+      },
+      { type: "heading", text: "Com es coordina el nostre equip a la pràctica" },
+      {
+        type: "paragraph",
+        text: "La coordinació no és un concepte abstracte: es materialitza en rutines concretes. A Espai Emocions la coordinació es fa a través de tres mecanismes:",
+      },
+      {
+        type: "list",
+        items: [
+          "Sessions clíniques periòdiques on es comparteixen casos sense dades identificatives, per contrastar hipòtesis i plans de tractament.",
+          "Supervisió entre iguals: cada psicòleg té un col·lega que fa de supervisor, i aquesta relació es rota per evitar que la mirada s'acosti massa.",
+          "Protocols de derivació interna: quan un cas requereix un perfil específic (per exemple, EMDR per a un trauma o un enfocament sistèmic per a una qüestió familiar), hi ha un camí clar per transferir-lo dins de l'equip.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Tot això es fa respectant estrictament la confidencialitat. La informació que es comparteix en sessions clíniques no inclou dades identificables: es parla del tipus de cas i de l'estratègia, no de la persona concreta. Pots llegir més sobre com garantim el secret professional en el nostre article sobre confidencialitat en psicologia.",
+      },
+      { type: "heading", text: "El valor de l'especialització dins de l'equip" },
+      {
+        type: "paragraph",
+        text: "Cap psicòleg és especialista en tot. Un professional que diu tractar qualsevol problema sovint no és un senyal de versatilitat, sinó de falta de definició. En un equip coordinat, cada membre té les seves àrees de major competència, i la coordinació garanteix que cada persona arribi al professional que millor encaixi amb el seu motiu de consulta.",
+      },
+      {
+        type: "paragraph",
+        text: "Per exemple, una persona que arriba per un procés de dol pot beneficiar-se d'un psicòleg amb formació en teràpia humanista, mentre que una altra que presenta símptomes de TDAH pot necessitar un professional amb experiència en avaluació neuropsicològica. Si l'equip està coordinat, aquesta assignació es fa des de la primera sessió, no després de mesos de procés erràtic.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta especialització no vol dir que el tractament sigui fraccionat: el psicòleg assignat acompanya tot el procés. El que sí passa és que, si en algun moment cal una segona lectura o un ajustament d'enfocament, la coordinació ho fa possible sense trencar el vincle terapèutic.",
+      },
+      { type: "heading", text: "Què passa si el teu psicòleg es posa malalt o marxa" },
+      {
+        type: "paragraph",
+        text: "Una qüestió pràctica que poques persones es plantegen en buscar psicòleg és què passa quan el professional deixa d'estar disponible, sigui per malaltia, per un any sabàtic o per un canvi professional. En un centre amb un sol psicòleg això pot significar interrompre el procés i començar de nou en un altre lloc. En un equip coordinat, hi ha un protocol de continuïtat.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, si el psicòleg titular no pot continuar, un company amb formació equivalent pren el cas. La transició es fa amb una sessió de presentació, transferència de l'històric clínic i respecte pel ritme de la persona. No és ideal —cap substitució ho és— però és molt millor que perdre el procés i haver de començar des de zero.",
+      },
+      { type: "heading", text: "El setting i l'espai com a elements compartits" },
+      {
+        type: "paragraph",
+        text: "Treballar en equip també vol dir compartir un mateix espai físic amb condicions constants. El consultori no canvia segons quin psicòleg et visiti: és el mateix setting, amb la mateixa cura pel detall, la mateixa il·luminació, el mateix silenci. Aquesta estabilitat externa forma part del tractament, perquè ajuda a concentrar-se en el món intern sense distraccions.",
+      },
+      {
+        type: "paragraph",
+        text: "Si vols veure l'espai, pots consultar com arribar a Espai Emocions, on també trobaràs informació sobre la ubicació al barri del Clot i sobre les fotos del setting.",
+      },
+      { type: "heading", text: "Preguntes freqüents" },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Puedo elegir qué psicólogo del equipo me atiende?",
+            answer: "Sí. En la primera sesión valoramos tu motivo de consulta y proponemos el profesional que mejor encaja, pero si tienes una preferencia —por género, edad o cualquier otro criterio— puedes indicarlo al contactar y lo respetamos. La asignación es orientativa, no impuesta.",
+          },
+          {
+            question: "¿Mis datos se comparten con todo el equipo?",
+            answer: "No. La información que compartes con tu psicólogo es confidencial y no se transmite al resto del equipo sin tu consentimiento. En las sesiones clínicas se discuten tipos de casos y estrategias, sin datos identificativos. Solo si tu psicólogo considera que una derivación interna te beneficia, te lo propone y, si aceptas, se transfiere la información necesaria.",
+          },
+          {
+            question: "¿Qué pasa si no encajo con el psicólogo asignado?",
+            answer: "Puedes pedir cambio en cualquier momento, sin tener que justificarlo. El encaje terapéutico es un factor clínico, no un capricho: si no hay conexión, el proceso no avanza. Cambiar dentro del equipo es rápido y no implica empezar de cero, porque el primer profesional transmite el contexto al nuevo.",
+          },
+          {
+            question: "¿El equipo trabaja también online o solo presencial?",
+            answer: "Ambos. Ofrecemos sesiones presenciales en la C/ Indústria 220 y sesiones online con el mismo equipo y el mismo nivel de exigencia. Puedes combinar formatos si tu agenda lo requiere, y la coordinación entre profesionales funciona igual en ambos casos.",
+          },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Cuando alguien busca psicólogo, suele fijarse en el profesional individual: su formación, su experiencia, su enfoque. Eso es importante, pero hay un factor que pasa más desapercibido y que marca la diferencia entre un buen centro y un profesional aislado: que el psicólogo trabaje dentro de un equipo coordinado. En Espai Emocions lo hacemos así, y en este artículo explicamos por qué.",
+      },
+      {
+        type: "paragraph",
+        text: "Un equipo coordinado es un grupo de psicólogos que ejercen en el mismo centro, comparten un marco de trabajo común, se supervisan mutuamente y derivan casos dentro del equipo según especialización. No es una suma de profesionales independientes que coinciden en un espacio: es una estructura organizada que beneficia directamente a la persona que consulta.",
+      },
+      { type: "heading", text: "Por qué el trabajo en equipo mejora la atención" },
+      {
+        type: "paragraph",
+        text: "La psicología es una disciplina donde la perspectiva única tiene límites. Ningún profesional, por muy experimentado que sea, puede identificar con la misma precisión todas las variables de un caso. Cuando el psicólogo puede contrastar su lectura con la de un colega, aumenta la probabilidad de detectar elementos que se le habrían escapado: un patrón de relación, un factor orgánico que hay que descartar, una herramienta que no se ha probado.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, el equipo permite una ventaja que un profesional en solitario no puede ofrecer: la derivación interna. Si el motivo de consulta cambia durante el proceso o si resulta que requiere un perfil más especializado, la persona no tiene que empezar de cero en otro centro. El cambio se hace dentro del mismo espacio, con transferencia de información y continuidad del vínculo.",
+      },
+      { type: "heading", text: "Cómo se coordina nuestro equipo en la práctica" },
+      {
+        type: "paragraph",
+        text: "La coordinación no es un concepto abstracto: se materializa en rutinas concretas. En Espai Emocions la coordinación se hace a través de tres mecanismos:",
+      },
+      {
+        type: "list",
+        items: [
+          "Sesiones clínicas periódicas donde se comparten casos sin datos identificativos, para contrastar hipótesis y planes de tratamiento.",
+          "Supervisión entre pares: cada psicólogo tiene un colega que actúa como supervisor, y esa relación se rota para evitar que la mirada se acostumbre demasiado.",
+          "Protocolos de derivación interna: cuando un caso requiere un perfil específico (por ejemplo, EMDR para un trauma o un enfoque sistémico para una cuestión familiar), hay un camino claro para transferirlo dentro del equipo.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Todo esto se hace respetando estrictamente la confidencialidad. La información que se comparte en sesiones clínicas no incluye datos identificables: se habla del tipo de caso y de la estrategia, no de la persona concreta. Puedes leer más sobre cómo garantizamos el secreto profesional en nuestro artículo sobre confidencialidad en psicología.",
+      },
+      { type: "heading", text: "El valor de la especialización dentro del equipo" },
+      {
+        type: "paragraph",
+        text: "Ningún psicólogo es especialista en todo. Un profesional que dice tratar cualquier problema a menudo no es una señal de versatilidad, sino de falta de definición. En un equipo coordinado, cada miembro tiene sus áreas de mayor competencia, y la coordinación garantiza que cada persona llegue al profesional que mejor encaje con su motivo de consulta.",
+      },
+      {
+        type: "paragraph",
+        text: "Por ejemplo, una persona que llega por un proceso de duelo puede beneficiarse de un psicólogo con formación en terapia humanista, mientras que otra que presenta síntomas de TDAH puede necesitar un profesional con experiencia en evaluación neuropsicológica. Si el equipo está coordinado, esa asignación se hace desde la primera sesión, no después de meses de proceso errático.",
+      },
+      {
+        type: "paragraph",
+        text: "Esa especialización no significa que el tratamiento sea fraccionado: el psicólogo asignado acompaña todo el proceso. Lo que sí ocurre es que, si en algún momento se necesita una segunda lectura o un ajuste de enfoque, la coordinación lo hace posible sin romper el vínculo terapéutico.",
+      },
+      { type: "heading", text: "Qué pasa si tu psicólogo se pone enfermo o se marcha" },
+      {
+        type: "paragraph",
+        text: "Una cuestión práctica que pocas personas se plantean al buscar psicólogo es qué ocurre cuando el profesional deja de estar disponible, sea por enfermedad, por un año sabático o por un cambio profesional. En un centro con un solo psicólogo esto puede significar interrumpir el proceso y empezar de nuevo en otro lugar. En un equipo coordinado, hay un protocolo de continuidad.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, si el psicólogo titular no puede continuar, un compañero con formación equivalente toma el caso. La transición se hace con una sesión de presentación, transferencia del histórico clínico y respeto por el ritmo de la persona. No es ideal —ninguna sustitución lo es— pero es mucho mejor que perder el proceso y tener que empezar desde cero.",
+      },
+      { type: "heading", text: "El setting y el espacio como elementos compartidos" },
+      {
+        type: "paragraph",
+        text: "Trabajar en equipo también significa compartir un mismo espacio físico con condiciones constantes. El consultorio no cambia según qué psicólogo te atienda: es el mismo setting, con el mismo cuidado por el detalle, la misma iluminación, el mismo silencio. Esa estabilidad externa forma parte del tratamiento, porque ayuda a concentrarse en el mundo interno sin distracciones.",
+      },
+      {
+        type: "paragraph",
+        text: "Si quieres ver el espacio, puedes consultar cómo llegar a Espai Emocions, donde también encontrarás información sobre la ubicación en el barrio del Clot y fotos del setting.",
+      },
+      { type: "heading", text: "Preguntas frecuentes" },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Puedo elegir qué psicólogo del equipo me atiende?",
+            answer: "Sí. En la primera sesión valoramos tu motivo de consulta y proponemos el profesional que mejor encaja, pero si tienes una preferencia —por género, edad o cualquier otro criterio— puedes indicarlo al contactar y lo respetamos. La asignación es orientativa, no impuesta.",
+          },
+          {
+            question: "¿Mis datos se comparten con todo el equipo?",
+            answer: "No. La información que compartes con tu psicólogo es confidencial y no se transmite al resto del equipo sin tu consentimiento. En las sesiones clínicas se discuten tipos de casos y estrategias, sin datos identificativos. Solo si tu psicólogo considera que una derivación interna te beneficia, te lo propone y, si aceptas, se transfiere la información necesaria.",
+          },
+          {
+            question: "¿Qué pasa si no encajo con el psicólogo asignado?",
+            answer: "Puedes pedir cambio en cualquier momento, sin tener que justificarlo. El encaje terapéutico es un factor clínico, no un capricho: si no hay conexión, el proceso no avanza. Cambiar dentro del equipo es rápido y no implica empezar de cero, porque el primer profesional transmite el contexto al nuevo.",
+          },
+          {
+            question: "¿El equipo trabaja también online o solo presencial?",
+            answer: "Ambos. Ofrecemos sesiones presenciales en la C/ Indústria 220 y sesiones online con el mismo equipo y el mismo nivel de exigencia. Puedes combinar formatos si tu agenda lo requiere, y la coordinación entre profesionales funciona igual en ambos casos.",
+          },
+        ],
+      },
+    ],
+  },
 ];
