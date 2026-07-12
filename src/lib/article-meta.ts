@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "barrios-barcelona-buscar-psicologo",
+    "categoryCA": "Psicologia a Barcelona",
+    "categoryES": "Psicología en Barcelona",
+    "titleCA": "En quin barri de Barcelona buscar psicòleg? Guia per zones",
+    "titleES": "¿En qué barrio de Barcelona buscar psicólogo? Guía por zonas",
+    "excerptCA": "La ubicació del psicòleg a Barcelona no és un detall menor: desplaçar-se setmanalment a una zona llunyana fa més difícil sostenir el procés. Aquí expliquem com es distribueix l'oferta de psicologia per barris i què convé tenir en compte per triar zona abans que professional.",
+    "excerptES": "La ubicación del psicólogo en Barcelona no es un detalle menor: desplazarse cada semana a una zona lejana hace más difícil sostener el proceso. Aquí explicamos cómo se distribuye la oferta de psicología por barrios y qué conviene tener en cuenta para elegir zona antes que profesional.",
+    "datePublished": "2026-07-12"
+  },
+  {
     "slug": "equipo-psicologos-coordinacion-espai-emocions",
     "categoryCA": "El centre",
     "categoryES": "El centro",
