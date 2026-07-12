@@ -1,26 +1,70 @@
 "use client";
 
 import { useParams } from "next/navigation";
-import Image from "next/image";
 import { ArrowLeft } from "lucide-react";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { Reveal } from "@/components/Reveal";
 import { useLanguage } from "@/lib/i18n";
-import { articles } from "@/lib/articles";
-import { articlesPart2 } from "@/lib/articles-part2";
-import { articlesPart3 } from "@/lib/articles-part3";
-import type { ContentBlock } from "@/lib/articles";
-
-const allArticles = [...articles, ...articlesPart2, ...articlesPart3];
+import { articleMeta } from "@/lib/article-meta";
+import type { ContentBlock, ArticleContent } from "@/lib/articles";
+import { useState, useEffect } from "react";
 
 export default function BlogArticlePage() {
   const params = useParams<{ slug: string }>();
   const { lang } = useLanguage();
+  const [article, setArticle] = useState<ArticleContent | null | undefined>(undefined);
 
-  const article = allArticles.find((a) => a.slug === params.slug);
+  // Metadata ligera para el 404 check y el header
+  const meta = articleMeta.find((a) => a.slug === params.slug);
 
-  if (!article) {
+  useEffect(() => {
+    let cancelled = false;
+    async function load() {
+      if (!meta) {
+        setArticle(null);
+        return;
+      }
+      const mods: Promise<{ articles?: ArticleContent[]; articlesPart2?: ArticleContent[]; articlesPart3?: ArticleContent[]; articlesPart4?: ArticleContent[] }>[] = [
+        import("@/lib/articles"),
+        import("@/lib/articles-part2"),
+        import("@/lib/articles-part3"),
+        import("@/lib/articles-part4"),
+      ];
+      for (const modPromise of mods) {
+        const mod = await modPromise;
+        const list = mod.articles || mod.articlesPart2 || mod.articlesPart3 || mod.articlesPart4;
+        if (list) {
+          const found = list.find((a) => a.slug === params.slug);
+          if (found && !cancelled) {
+            setArticle(found);
+            return;
+          }
+        }
+      }
+      if (!cancelled) setArticle(null);
+    }
+    load();
+    return () => { cancelled = true; };
+  }, [params.slug, meta]);
+
+  // Loading state
+  if (article === undefined) {
+    return (
+      <>
+        <Navbar />
+        <main className="pt-20">
+          <div className="py-16 px-6 text-center">
+            <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-primary" />
+          </div>
+        </main>
+        <Footer />
+      </>
+    );
+  }
+
+  // 404
+  if (!article || !meta) {
     return (
       <>
         <Navbar />
@@ -41,9 +85,9 @@ export default function BlogArticlePage() {
   }
 
   const blocks = lang === "CA" ? article.blocksCA : article.blocksES;
-  const category = lang === "CA" ? article.categoryCA : article.categoryES;
-  const title = lang === "CA" ? article.titleCA : article.titleES;
-  const excerpt = lang === "CA" ? article.excerptCA : article.excerptES;
+  const category = lang === "CA" ? meta.categoryCA : meta.categoryES;
+  const title = lang === "CA" ? meta.titleCA : meta.titleES;
+  const excerpt = lang === "CA" ? meta.excerptCA : meta.excerptES;
   const backText = lang === "CA" ? "Tornar al blog" : "Volver al blog";
   const ctaText =
     lang === "CA"
@@ -53,25 +97,31 @@ export default function BlogArticlePage() {
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: article.titleES,
-    description: article.excerptES,
-    image: `https://espaiemocions.es/blog/${article.slug}.webp`,
-    author: {
-      "@type": "Organization",
-      name: "Espai Emocions",
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "Espai Emocions",
-      url: "https://espaiemocions.es",
-    },
-    datePublished: article.datePublished,
-    dateModified: article.datePublished,
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": `https://espaiemocions.es/blog/${article.slug}`,
-    },
+    headline: meta.titleES,
+    description: meta.excerptES,
+    author: { "@type": "Organization", name: "Espai Emocions" },
+    publisher: { "@type": "Organization", name: "Espai Emocions", url: "https://espaiemocions.es" },
+    datePublished: meta.datePublished,
+    dateModified: meta.datePublished,
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://espaiemocions.es/blog/${meta.slug}` },
   };
+
+  // FAQPage JSON-LD: si el artículo (ES) contiene un bloque de FAQ, generamos el schema.
+  const faqBlocks = (article?.blocksES ?? []).filter((b) => b.type === "faq");
+  const faqJsonLd =
+    faqBlocks.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqBlocks
+            .flatMap((b) => (b.type === "faq" ? b.items : []))
+            .map((item) => ({
+              "@type": "Question",
+              name: item.question,
+              acceptedAnswer: { "@type": "Answer", text: item.answer },
+            })),
+        }
+      : null;
 
   return (
     <>
@@ -79,6 +129,12 @@ export default function BlogArticlePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
       <Navbar />
       <main className="pt-20">
         <article className="py-16 px-6 sm:px-8 lg:px-12">
@@ -102,20 +158,9 @@ export default function BlogArticlePage() {
                 {excerpt}
               </p>
               <time className="text-sm text-foreground/40">
-                {article.datePublished}
+                {meta.datePublished}
               </time>
             </Reveal>
-
-            <div className="relative w-full aspect-[16/9] overflow-hidden rounded-2xl mt-8 mb-12 bg-muted">
-              <Image
-                src={`/blog/${article.slug}.webp`}
-                alt={title}
-                fill
-                priority
-                sizes="(max-width: 768px) 100vw, 768px"
-                className="object-cover"
-              />
-            </div>
 
             <div className="mt-12 space-y-6">
               {blocks.map((block, i) => (
