@@ -13,7 +13,10 @@ const allArticles = [...articles, ...articlesPart2, ...articlesPart3];
 export function Blog() {
   const { t, lang } = useLanguage();
 
-  const blogArticles = allArticles.slice(0, 3).map((a) => ({
+  const blogArticles = [...allArticles]
+    .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime())
+    .slice(0, 3)
+    .map((a) => ({
     slug: a.slug,
     category: lang === "CA" ? a.categoryCA : a.categoryES,
     title: lang === "CA" ? a.titleCA : a.titleES,
