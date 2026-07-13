@@ -25,15 +25,16 @@ export default function BlogArticlePage() {
         setArticle(null);
         return;
       }
-      const mods: Promise<{ articles?: ArticleContent[]; articlesPart2?: ArticleContent[]; articlesPart3?: ArticleContent[]; articlesPart4?: ArticleContent[] }>[] = [
+      const mods: Promise<{ articles?: ArticleContent[]; articlesPart2?: ArticleContent[]; articlesPart3?: ArticleContent[]; articlesPart4?: ArticleContent[]; articlesPart5?: ArticleContent[] }>[] = [
         import("@/lib/articles"),
         import("@/lib/articles-part2"),
         import("@/lib/articles-part3"),
         import("@/lib/articles-part4"),
+        import("@/lib/articles-part5"),
       ];
       for (const modPromise of mods) {
         const mod = await modPromise;
-        const list = mod.articles || mod.articlesPart2 || mod.articlesPart3 || mod.articlesPart4;
+        const list = mod.articles || mod.articlesPart2 || mod.articlesPart3 || mod.articlesPart4 || mod.articlesPart5;
         if (list) {
           const found = list.find((a) => a.slug === params.slug);
           if (found && !cancelled) {
