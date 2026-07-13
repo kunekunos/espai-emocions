@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "cambiar-psicologo-no-encajo",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Puc canviar de psicòleg si no encaixo?",
+    "titleES": "¿Puedo cambiar de psicólogo si no encajo?",
+    "excerptCA": "Sí, pots canviar de psicòleg en qualsevol moment del procés. No hi ha cap obligació de continuar amb un professional si sents que la relació no funciona. Canviar no és un fracàs ni una traïció: forma part de trobar l'acompanyament adequat. Aquí expliquem què és normal en l'encaix terapèutic, quins senyals indiquen que convé canviar i com fer-ho sense culpa.",
+    "excerptES": "Sí, puedes cambiar de psicólogo en cualquier momento del proceso. No hay ninguna obligación de continuar con un profesional si sientes que la relación no funciona. Cambiar no es un fracaso ni una traición: forma parte de encontrar el acompañamiento adecuado. Aquí explicamos qué es normal en el encaje terapéutico, qué señales indican que conviene cambiar y cómo hacerlo sin culpa.",
+    "datePublished": "2026-07-13"
+  },
+  {
     "slug": "barrios-barcelona-buscar-psicologo",
     "categoryCA": "Psicologia a Barcelona",
     "categoryES": "Psicología en Barcelona",
