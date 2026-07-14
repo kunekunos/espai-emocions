@@ -13,7 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
-    "slug": "cambiar-psicologo-no-encajo",
+    "slug": "psicologo-para-mayores",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a persones majors: per què l'edat canvia el tipus d'acompanyament",
+    "titleES": "Psicólogo para personas mayores: por qué la edad cambia el tipo de acompañamiento",
+    "excerptCA": "La psicologia amb persones majors no és una adaptació de la teràpia d'adults: té les seves pròpies necessitats. Dol, aïllament, cronificació de malalties, pèrdua de rol social i por a la dependència són realitats específiques que un psicòleg ha de saber treballar sense infantilitzar ni patologitzar el procés d'envellir. Aquí expliquem què busca una persona gran en un psicòleg i com treballem aquest perfil des d'Espai Emocions.",
+    "excerptES": "La psicología con personas mayores no es una adaptación de la terapia de adultos: tiene necesidades propias. Duelo, aislamiento, cronificación de enfermedades, pérdida de rol social y miedo a la dependencia son realidades específicas que un psicólogo debe saber trabajar sin infantizar ni patologizar el proceso de envejecer. Aquí explicamos qué busca una persona mayor en un psicólogo y cómo trabajamos este perfil desde Espai Emocions.",
+    "datePublished": "2026-07-14"
+  },
+  {
+    "slug": "cambiar-psicologo-no-encaixo",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
     "titleCA": "Puc canviar de psicòleg si no encaixo?",
