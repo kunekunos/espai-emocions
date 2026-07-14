@@ -277,4 +277,281 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 2. psicologo-para-mayores (Pilar 2: Psicólogo por nicho/atributo — mayores)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "psicologo-para-mayores",
+    categoryCA: "Psicòleg per nínxol",
+    categoryES: "Psicólogo por nicho",
+    titleCA: "Psicòleg per a persones majors: per què l'edat canvia el tipus d'acompanyament",
+    titleES: "Psicólogo para personas mayores: por qué la edad cambia el tipo de acompañamiento",
+    excerptCA:
+      "La psicologia amb persones majors no és una adaptació de la teràpia d'adults: té les seves pròpies necessitats. Dol, aïllament, cronificació de malalties, pèrdua de rol social i por a la dependència són realitats específiques que un psicòleg ha de saber treballar sense infantilitzar ni patologitzar el procés d'envellir. Aquí expliquem què busca una persona gran en un psicòleg i com treballem aquest perfil des d'Espai Emocions.",
+    excerptES:
+      "La psicología con personas mayores no es una adaptación de la terapia de adultos: tiene necesidades propias. Duelo, aislamiento, cronificación de enfermedades, pérdida de rol social y miedo a la dependencia son realidades específicas que un psicólogo debe saber trabajar sin infantizar ni patologizar el proceso de envejecer. Aquí explicamos qué busca una persona mayor en un psicólogo y cómo trabajamos este perfil desde Espai Emocions.",
+    datePublished: "2026-07-14",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quan una persona gran busca psicòleg, el motiu poques vegades és un símptoma aïllat. Gairebé sempre és una conjunció: un dol recent, un diagnòstic que ha canviat el ritme de vida, una jubilació que ha deixat un buit, un fill que se n'ha anat o una parella que ja no hi és. La psique d'una persona de 70 anys no funciona com la de 40, i un professional que no ho tingui present pot equivocar-se tant per excessos (patologitzar el que és normal en l'envellir) com per defectes (minimitzar un malestar real que mereix atenció).",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: una persona gran necessita un psicòleg que conegui les transicions vitals pròpies de l'edat —pèrdues acumulades, canvis de rol, malalties cròniques, aïllament— i que les abordi sense tractar-la com una nena ni com un pacient fràgil. L'acompanyament ha de respectar l'autonomia, valorar l'experiència viscuda i adaptar el ritme i el llenguatge a cada persona.",
+      },
+      {
+        type: "heading",
+        text: "Per què la psicologia amb majors és un camp amb característiques pròpies",
+      },
+      {
+        type: "paragraph",
+        text: "L'envelliment porta canvis psicològics que no són patologia. La velocitat de processament es modula, la memòra recent pot ser més lenta i l'ajustament a nous rols —pèrdua del rol laboral, de la parella, de la capacitat de cuidar altres— genera treballs emocionals que no existien abans. Un psicòleg format en aquesta etapa ho diferencia tot: sap que oblidar on ha deixat les claus no és demència, i que deixar de sortir de casa després d'envudar pot ser un dol complicat que cal acompanyar.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, les persones grans arriben a consulta amb una característica que els adults joves poques vegades tenen: una biografia llarga. Dècades de decisions, relacions, pèrdues i aprenentatges. El treball terapèutic amb aquest bagatge no és de reconstrucció des de zero, sinó d'integració: donar sentit al que s'ha viscut, tancar allò que va quedar pendent i ajustar el present a les circumstàncies actuals.",
+      },
+      {
+        type: "heading",
+        text: "Els motius de consulta més freqüents",
+      },
+      {
+        type: "paragraph",
+        text: "A la pràctica clínica veiem uns patrons que es repeteixen. No són els únics, però sí els més habituals:",
+      },
+      {
+        type: "list",
+        items: [
+          "Dol per pèrdua de la parella o d'amics de tota la vida. La mort del cònjuge després de dècades junts no és un dol com un altre: implica perdre la persona que compartia la memòria personal.",
+          "Aïllament i soledat no volguda. Els fills que viuen lluny, els amics que moren o ingressen, el barri que canvia: la xarxa social es va aprimant i la soledat apareix com un factor de risc per a la depressió.",
+          "Ajustament a la jubilació. Deixar la feina no és només perdre ingressos: és perdre un rol social, un horari i una font d'identitat. Moltes persones triguen a reconfigurar el seu dia a dia.",
+          "Cronificació de malalties i por a la dependència. La diagnosi d'una malaltia crònica, el deteriorament funcional o l'amenaça de perdre l'autonomia generen ansietat anticipatòria que pot paralitzar.",
+          "Dol anticipat davant del propi envelliment. La pèrdua de capacitats, els canvis en la imatge corporal i la consciència que el temps restant és finit poden activar un treball de revisió vital intens.",
+          "Conflictes familiars intergeneracionals. Relacions amb fills adults, decisions sobre cures, desacords sobre l'herència o sobre on viure: temes que barregen emoció i pragmatisme i que calen un espai neutral per parlar.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Aquests motius es poden presentar sols o combinats. Quan s'acumulen dos o tres —per exemple, una viduïtat recent, una malaltia que avança i un fill que viu a una altra ciutat— el risc de quadre depressiu augmenta de forma notable.",
+      },
+      {
+        type: "heading",
+        text: "Errors freqüents que cal evitar",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha errors que veiem sovint, tant en professionals no formats en gerontologia com en famílies benintencionades:",
+      },
+      {
+        type: "list",
+        items: [
+          "Infantilitzar. Tractar la persona amb un to de veu agut, diminutius o instruccions com si fos una nena. Aquesta forma de comunicació s'associa a pits autoestima i augmenta la sensació de pèrdua de control.",
+          "Patologitzar l'envelliment. Confondre la lentitud cognitiva normal amb deteriorament, o el dol prolongat amb depressió. Una avaluació correcta distingeix el que és esperable del que requereix intervenció.",
+          "Minimitzar el malestar. Pensar \\\"és que ja és gran\\\" i donar per fet que el patiment forma part de l'edat. El malestar psíquic no és mai normal, encara que sigui freqüent.",
+          "Forçar la parla. Obligar a reviure traumes de fa dècades sense que la persona ho demani. En alguns casos convé treballar el passat; en molts altres, el focus ha d'estar en el present i l'ajustament actual.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Un psicòleg amb experiència amb persones grans sap moure's en aquesta línia: valida sense infantil·litzar, acompanya sense forçar i observa sense jutjar.",
+      },
+      {
+        type: "heading",
+        text: "Com adaptem la teràpia a la persona gran",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions treballem amb aquest perfil amb unes adaptacions concretes que no alteren el model terapèutic, sinó que l'ajusten a l'edat i a la situació de cada persona:",
+      },
+      {
+        type: "list",
+        items: [
+          "Ritme de sessions. No sempre és necessari setmanalment. En fases d'estabilització pot anar bé quinzenal o fins i tot mensual, per donar temps a processar i per no sobrecarregar.",
+          "Llenguatge clar i directe. Sense tecnicismes ni metafores complicades. La teràpia ha de ser comprensible per a qui no té per què conèixer el vocabulari psicològic.",
+          "Coordinació amb medicina. Si hi ha malalties cròniques o polimedicació, convé coordinar amb el metge o el geriatre per distingir el que és físic del que és psíquic i ajustar expectatives.",
+          "Implicació de la família quan cal. Sempre amb el consentiment de la persona. En alguns casos la família és un recurs; en altres, és part del problema. Cal valorar-ho cas per cas.",
+          "Treball orientat a l'autonomia. L'objectiu no és mantenir la persona dependent de la teràpia, sinó enfortir les seves estratègies per gestionar el que ve. La teràpia ha de sumar autonomia, no restar-ne.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes adaptacions no són una versió \\\"reducida\\\" de la teràpia: són una forma d'aplicar-la amb criteri. El model —humanista, centrado en la persona, amb tècniques probades quan calen— és el mateix. El que canvia és l'ajust a la realitat de qui té davant.",
+      },
+      {
+        type: "heading",
+        text: "Quan una persona gran ha de buscar psicòleg",
+      },
+      {
+        type: "paragraph",
+        text: "No cal esperar una crisi. Hi ha senyals que indiquen que convé buscar acompanyament professional abans que la situació es compliqui:",
+      },
+      {
+        type: "list",
+        items: [
+          "Tristesa o abatiment que dura setmanes i no millora amb el suport familiar.",
+          "Pèrdua d'interès per activitats que abans gaudia —llegir, sortir, veure els néts, passejar—.",
+          "Canvis de son o d'apetit que es mantenen més de dues setmanes.",
+          "Aïllament progressiu: deixa de sortir, de respondre el telèfon, de participar en allò que abans li importava.",
+          "Comentaris repetits sobre que no val la pena continuar, o sobre ser una càrrega per als altres.",
+          "Dificultat per processar un dol després de mesos, quan el dolor no s'atenua o empitjora.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Cap d'aquests senyals és, per si sol, una prova definitiva. Però la combinació de dos o tres durant un mes o més és un motiu suficient per demanar una valoració. No cal tenir un diagnòstic ni saber exactament què passa: per això és la primera sessió.",
+      },
+      {
+        type: "heading",
+        text: "Què pot esperar una persona gran a la primera sessió",
+      },
+      {
+        type: "paragraph",
+        text: "La primera sessió és una entrevista d'avaluació, no un interrogatori. El psicòleg escolta, fa preguntes obertes i intenta entendre la situació sense pressa. No hi ha exercicis, ni tests obligatoris, ni un pla de tractament immediat. El que hi ha és un espai per parlar amb calma, sense que la família ho escolti i sense que ningú prejutgi el que la persona sent.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final de la sessió, el psicòleg pot oferir una orientació: si el que presenta requereix teràpia, quantes sessions pot durar el procés i si cal coordinar amb altres professionals. La persona decideix si vol continuar; no hi ha cap compromís ni cap obligació.",
+      },
+      {
+        type: "heading",
+        text: "Tancament",
+      },
+      {
+        type: "paragraph",
+        text: "L'acompanyament psicològic a la vellesa no és un luxe ni una concessió: forma part de la cura de la salut mental al llarg de tota la vida. Envellir bé també és un aprenentatge, i un psicòleg format en aquesta etapa pot facilitar el camí. Si tu o una persona estimada esteu en una situació que encaixa amb el que hem descrit, pots escriure'ns a /contacto i el nostre equip pot orientar el següent pas, amb discreció i respecte pel ritme de cada persona.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Cuando una persona mayor busca psicólogo, el motivo rara vez es un síntoma aislado. Casi siempre es una conjunción: un duelo reciente, un diagnóstico que ha cambiado el ritmo de vida, una jubilación que ha dejado un vacío, un hijo que se ha ido o una pareja que ya no está. La psique de una persona de 70 años no funciona como la de 40, y un profesional que no lo tenga presente puede equivocarse tanto por exceso (patologizar lo que es normal al envejecer) como por defecto (minimizar un malestar real que merece atención).",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: una persona mayor necesita un psicólogo que conozca las transiciones vitales propias de la edad —pérdidas acumuladas, cambios de rol, enfermedades crónicas, aislamiento— y que las aborde sin tratarla como a una niña ni como a una paciente frágil. El acompañamiento debe respetar la autonomía, valorar la experiencia vivida y adaptar el ritmo y el lenguaje a cada persona.",
+      },
+      {
+        type: "heading",
+        text: "Por qué la psicología con mayores es un campo con características propias",
+      },
+      {
+        type: "paragraph",
+        text: "El envejecimiento conlleva cambios psicológicos que no son patología. La velocidad de procesamiento se modula, la memoria reciente puede ser más lenta y el ajuste a nuevos roles —pérdida del rol laboral, de la pareja, de la capacidad de cuidar a otros— genera trabajos emocionales que no existían antes. Un psicólogo formado en esta etapa lo diferencia todo: sabe que olvidar dónde ha dejado las llaves no es demencia, y que dejar de salir de casa tras enviudar puede ser un duelo complicado que conviene acompañar.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, las personas mayores llegan a consulta con una característica que los adultos jóvenes rara vez tienen: una biografía larga. Décadas de decisiones, relaciones, pérdidas y aprendizajes. El trabajo terapéutico con ese bagaje no es de reconstrucción desde cero, sino de integración: dar sentido a lo vivido, cerrar lo que quedó pendiente y ajustar el presente a las circunstancias actuales.",
+      },
+      {
+        type: "heading",
+        text: "Los motivos de consulta más frecuentes",
+      },
+      {
+        type: "paragraph",
+        text: "En la práctica clínica vemos unos patrones que se repiten. No son los únicos, pero sí los más habituales:",
+      },
+      {
+        type: "list",
+        items: [
+          "Duelo por pérdida de la pareja o de amigos de toda la vida. La muerte del cónyuge tras décadas juntos no es un duelo como otro: implica perder a la persona que compartía la memoria personal.",
+          "Aislamiento y soledad no deseada. Los hijos que viven lejos, los amigos que fallecen o ingresan, el barrio que cambia: la red social se va adelgazando y la soledad aparece como factor de riesgo para la depresión.",
+          "Ajuste a la jubilación. Dejar el trabajo no es solo perder ingresos: es perder un rol social, un horario y una fuente de identidad. Muchas personas tardan en reconfigurar su día a día.",
+          "Cronificación de enfermedades y miedo a la dependencia. El diagnóstico de una enfermedad crónica, el deterioro funcional o la amenaza de perder la autonomía generan ansiedad anticipatoria que puede paralizar.",
+          "Duelo anticipado ante el propio envejecimiento. La pérdida de capacidades, los cambios en la imagen corporal y la conciencia de que el tiempo restante es finito pueden activar un trabajo de revisión vital intenso.",
+          "Conflictos familiares intergeneracionales. Relaciones con hijos adultos, decisiones sobre cuidados, desacuerdos sobre la herencia o sobre dónde vivir: temas que mezclan emoción y pragmatismo y que necesitan un espacio neutral para hablar.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Estos motivos pueden presentarse solos o combinados. Cuando se acumulan dos o tres —por ejemplo, una viudez reciente, una enfermedad que avanza y un hijo que vive en otra ciudad— el riesgo de cuadro depresivo aumenta de forma notable.",
+      },
+      {
+        type: "heading",
+        text: "Errores frecuentes que conviene evitar",
+      },
+      {
+        type: "paragraph",
+        text: "Hay errores que vemos a menudo, tanto en profesionales no formados en gerontología como en familias bienintencionadas:",
+      },
+      {
+        type: "list",
+        items: [
+          "Infantilizar. Tratar a la persona con un tono de voz agudo, diminutivos o instrucciones como si fuera una niña. Esta forma de comunicación se asocia a peor autoestima y aumenta la sensación de pérdida de control.",
+          "Patologizar el envejecimiento. Confundir la lentitud cognitiva normal con deterioro, o el duelo prolongado con depresión. Una evaluación correcta distingue lo que es esperable de lo que requiere intervención.",
+          "Minimizar el malestar. Pensar \"es que ya es mayor\" y dar por hecho que el sufrimiento forma parte de la edad. El malestar psíquico no es nunca normal, aunque sea frecuente.",
+          "Forzar la habla. Obligar a revivir traumas de hace décadas sin que la persona lo pida. En algunos casos conviene trabajar el pasado; en muchos otros, el foco debe estar en el presente y el ajuste actual.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Un psicólogo con experiencia con personas mayores sabe moverse en esa línea: valida sin infantilizar, acompaña sin forzar y observa sin juzgar.",
+      },
+      {
+        type: "heading",
+        text: "Cómo adaptamos la terapia a la persona mayor",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions trabajamos con este perfil con unas adaptaciones concretas que no alteran el modelo terapéutico, sino que lo ajustan a la edad y a la situación de cada persona:",
+      },
+      {
+        type: "list",
+        items: [
+          "Ritmo de sesiones. No siempre es necesario semanalmente. En fases de estabilización puede ir bien quincenal o incluso mensual, para dar tiempo a procesar y para no sobrecargar.",
+          "Lenguaje claro y directo. Sin tecnicismos ni metáforas complicadas. La terapia debe ser comprensible para quien no tiene por qué conocer el vocabulario psicológico.",
+          "Coordinación con medicina. Si hay enfermedades crónicas o polimedicación, conviene coordinar con el médico o el geriatra para distinguir lo físico de lo psíquico y ajustar expectativas.",
+          "Implicación de la familia cuando hace falta. Siempre con el consentimiento de la persona. En algunos casos la familia es un recurso; en otros, es parte del problema. Hay que valorarlo caso por caso.",
+          "Trabajo orientado a la autonomía. El objetivo no es mantener a la persona dependiente de la terapia, sino fortalecer sus estrategias para gestionar lo que viene. La terapia debe sumar autonomía, no restarla.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Estas adaptaciones no son una versión \"reducida\" de la terapia: son una forma de aplicarla con criterio. El modelo —humanista, centrado en la persona, con técnicas probadas cuando hace falta— es el mismo. Lo que cambia es el ajuste a la realidad de quien tiene delante.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo una persona mayor debería buscar psicólogo",
+      },
+      {
+        type: "paragraph",
+        text: "No hace falta esperar a una crisis. Hay señales que indican que conviene buscar acompañamiento profesional antes de que la situación se complique:",
+      },
+      {
+        type: "list",
+        items: [
+          "Tristeza o abatimiento que dura semanas y no mejora con el apoyo familiar.",
+          "Pérdida de interés por actividades que antes disfrutaba —leer, salir, ver a los nietos, pasear—.",
+          "Cambios de sueño o de apetito que se mantienen más de dos semanas.",
+          "Aislamiento progresivo: deja de salir, de contestar el teléfono, de participar en lo que antes le importaba.",
+          "Comentarios repetidos sobre que no merece la pena seguir, o sobre ser una carga para los demás.",
+          "Dificultad para procesar un duelo después de meses, cuando el dolor no se atenúa o empeora.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna de estas señales es, por sí sola, una prueba definitiva. Pero la combinación de dos o tres durante un mes o más es motivo suficiente para pedir una valoración. No hace falta tener un diagnóstico ni saber exactamente qué pasa: para eso es la primera sesión.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede esperar una persona mayor en la primera sesión",
+      },
+      {
+        type: "paragraph",
+        text: "La primera sesión es una entrevista de evaluación, no un interrogatorio. El psicólogo escucha, hace preguntas abiertas e intenta entender la situación sin prisa. No hay ejercicios, ni tests obligatorios, ni un plan de tratamiento inmediato. Lo que hay es un espacio para hablar con calma, sin que la familia lo escuche y sin que nadie prejuzgue lo que la persona siente.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final de la sesión, el psicólogo puede ofrecer una orientación: si lo que presenta requiere terapia, cuántas sesiones puede durar el proceso y si conviene coordinar con otros profesionales. La persona decide si quiere continuar; no hay ningún compromiso ni ninguna obligación.",
+      },
+      {
+        type: "heading",
+        text: "Cierre",
+      },
+      {
+        type: "paragraph",
+        text: "El acompañamiento psicológico en la vejez no es un lujo ni una concesión: forma parte del cuidado de la salud mental a lo largo de toda la vida. Envejecer bien también es un aprendizaje, y un psicólogo formado en esta etapa puede facilitar el camino. Si tú o una persona querida estáis en una situación que encaja con lo que hemos descrito, puedes escribirnos en /contacto y nuestro equipo puede orientar el siguiente paso, con discreción y respeto por el ritmo de cada persona.",
+      },
+    ],
+  },
 ];
