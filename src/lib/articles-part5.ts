@@ -554,4 +554,261 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 3. es-normal-llorar-sin-saber-por-que (Pilar 3: ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "es-normal-llorar-sin-saber-por-que",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA: "És normal plorar sense saber per què?",
+    titleES: "¿Es normal llorar sin saber por qué?",
+    excerptCA:
+      "Sí, plorar sense un motiu conscient és freqüent i, en la majoria dels casos, no indica cap trastorn. Pot ser l'expressió d'una tensió acumulada, un senyal de cansament emocional o la manera que té el cos de descarregar pressió. Aquí expliquem quan és una reacció normal i quan convé buscar acompanyament professional.",
+    excerptES:
+      "Sí, llorar sin un motivo conscient es frecuente y, en la mayoría de los casos, no indica ningún trastorno. Puede ser la expresión de una tensión acumulada, una señal de cansancio emocional o la forma que tiene el cuerpo de descargar presión. Aquí explicamos cuándo es una reacción normal y cuándo conviene buscar acompañamiento profesional.",
+    datePublished: "2026-07-15",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Sí, plorar sense saber per què és normal. És una reacció que apareix amb molta més freqüència del que la gent pensa i, en la majoria dels casos, no indica cap trastorn psicològic. El cos té mecanismes per descarregar tensió que no sempre passen per la consciència, i les llàgrimes són un d'ells.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: plorar sense un motiu clar pot ser l'expressió d'estrès acumulat, de cansament emocional, de canvis hormonals o d'un dol no processat. En la majoria dels casos es resol sol. Ara bé, si es converteix en un patró freqüent, va acompanyat de tristesa persistent o interfereix en el dia a dia, convé una valoració professional.",
+      },
+      {
+        type: "heading",
+        text: "Per què plora el cos sense que la ment ho entengui",
+      },
+      {
+        type: "paragraph",
+        text: "Les llàgrimes no són només una resposta a la tristesa. El cos humà produeix tres tipus de llàgrimes amb funcions diferents: les basals (lubricació), les reflexes (per irritació) i les emocionales. Aquestes últimes contenen hormones d'estrès com el cortisol, i la seva funció és, literalment, ajudar a eliminar-les del cos. Plorar és un mecanisme de regulació.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan la tensió s'acumula durant setmanes o mesos —per feina, per responsabilitats, per una situació que s'allarga— el cos pot arribar a un punt de saturació en què la descàrrega es produeix sense un desencadenant conscient. La persona es troba plorant i no sap per què, perquè la causa no és un pensament concret sinó una acumulació.",
+      },
+      {
+        type: "heading",
+        text: "Causes més freqüents",
+      },
+      {
+        type: "paragraph",
+        text: "A la pràctica clínica veiem que plorar sense motiu aparent sol tenir algun d'aquests orígens:",
+      },
+      {
+        type: "list",
+        items: [
+          "Estrès acumulat. Setmanes de pressió sostinguda sense espais de descans real. El cos no pot mantenar la tensió indefinidament i la descarrega a través del plor.",
+          "Cansament emocional. Donar molt a altres —treball de cures, responsabilitats familiars— sense rebre suport genera un dèficit que es manifesta de cop.",
+          "Canvis hormonals. El cicle menstrual, l'embaràs, el postpart, la perimenopausa i altres canvis hormonals afecten la regulació emocional i poden afavorir plors espontanis.",
+          "Dormir malament. La privació de son altera la capacitat de gestionar emocions. Una persona amb dèficit de son crònic pot plorar amb més facilitat per coses que durant el dia no li afectarien.",
+          "Duel o pèrdua no processada. De vegades una pèrdua —una persona, una feina, una etapa— no es treballa conscientment, però el cos la recorda i la expressa a través del plor.",
+          "Primer símptoma d'un quadre depressiu. No sempre, però en alguns casos el plor freqüent i sense motiu és un dels primers senyals d'una depressió que està començant.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Una sola llàgrima sense motiu no vol dir res. El que importa és el patró: freqüència, intensitat i durada.",
+      },
+      {
+        type: "heading",
+        text: "Quan és normal i quan convé parar atenció",
+      },
+      {
+        type: "paragraph",
+        text: "Plorar de manera puntual —un cop a la setmana o menys, després d'un període de tensió, sense que interfereixi en el funcionament diari— és dins del rang normal. No requereix intervenció professional, encara que pot ser un recordatori que cal parar i descansar.",
+      },
+      {
+        type: "paragraph",
+        text: "Convé parar atenció quan es donen algunes d'aquestes condicions:",
+      },
+      {
+        type: "list",
+        items: [
+          "Plors freqüents i sense desencadenant durant més de dues setmanes.",
+          "Sensació de tristesa de fons que no marxa, independentment dels plors.",
+          "Pèrdua d'interès per coses que abans gaudies.",
+          "Dificultat per dormir o, al contrari, necessitat de dormir molt més del compte.",
+          "Irritabilitat alta, sensació de no poder amb el dia a dia.",
+          "Comentaris recurrents sobre ser una càrrega o sobre no veure sentit a les coses.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si dos o tres d'aquests senyals coincideixen durant un mes o més, té sentit demanar una valoració. No es tracta de diagnosticar-se un mateix: es tracta de no esperar a estar malament per buscar ajuda.",
+      },
+      {
+        type: "heading",
+        text: "Què fer en el moment",
+      },
+      {
+        type: "paragraph",
+        text: "Si et trobes plorant sense saber per què, el primer que convé fer és no jutjar-se. El plor no és un senyal de feblesa ni de pèrdua de control: és una resposta del cos que està fent la seva feina. Reprimir-lo no ajuda; sovint el retarda i l'intensifica.",
+      },
+      {
+        type: "paragraph",
+        text: "Després, quan el plor ha passat, pot ser útil revisar el context dels últims dies o setmanes: quant has dormit, quina càrrega tens, quan va ser l'últim cop que vas fer una activitat que t'omple. A vegades la resposta no està en el moment del plor sinó en el que l'ha precedit.",
+      },
+      {
+        type: "heading",
+        text: "Quan buscar un psicòleg",
+      },
+      {
+        type: "paragraph",
+        text: "Si plorar sense motiu s'ha convertit en un patró —no en un fet aïllat— i va acompanyat d'alguna de les senyals que hem descrit, una valoració psicològica pot orientar el que passa. No fa falta tenir un diagnòstic ni saber exactament què et passa per demanar una primera sessió.",
+      },
+      {
+        type: "paragraph",
+        text: "El nostre equip a Barcelona pot ajudar-te a entendre si el que experimentes és una reacció normal a una situació concreta o si convé iniciar un procés d'acompanyament. Pots escriure'ns a /contacto per coordinar una primera sessió, presencial o online.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal llorar todos los días?",
+            answer:
+              "No del todo. Llorar a diario durante varios días seguidos puede ser señal de un cuadro emocional que conviene valorar, sobre todo si va acompañado de tristeza persistente, pérdida de interés o cansancio. Un día puntual puede ser normal; un patrón de varios días o semanas ya merece atención.",
+          },
+          {
+            question: "¿Llorar sin razón es señal de depresión?",
+            answer:
+              "No necesariamente. El llanto sin motivo consciente puede deberse a estrés acumulado, cansancio, cambios hormonales o falta de sueño. Solo se considera un posible síntoma de depresión cuando se acompaña de otros signos como tristeza mantenida, pérdida de interés, alteraciones de sueño o sensación de no poder con el día a día durante al menos dos semanas.",
+          },
+          {
+            question: "¿Debería ir al psicólogo si lloro sin saber por qué?",
+            answer:
+              "Si ha sido un hecho puntual, probablemente no. Si se repite con frecuencia, dura más de dos semanas o va acompañado de otros síntomas como abatimiento o pérdida de interés, sí conviene pedir una valoración. No hace falta tener un diagnóstico claro para solicitar una primera sesión.",
+          },
+          {
+            question: "¿Reprimir el llanto empeora la situación?",
+            answer:
+              "A menudo sí. Contener el lloro de forma sistemática puede prolongar la tensión y hacer que la descarga emocional llegue de forma más intensa en otro momento. Permitirse llorar no es signo de debilidad: es una respuesta natural del cuerpo. Lo que conviene observar no es el llanto en sí, sino su frecuencia y el contexto en el que aparece.",
+          },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Sí, llorar sin saber por qué es normal. Es una reacción que aparece con mucha más frecuencia de lo que la gente piensa y, en la mayoría de los casos, no indica ningún trastorno psicológico. El cuerpo tiene mecanismos para descargar tensión que no siempre pasan por la consciencia, y las lágrimas son uno de ellos.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: llorar sin un motivo claro puede ser la expresión de estrés acumulado, de cansancio emocional, de cambios hormonales o de un duelo no procesado. En la mayoría de los casos se resuelve solo. Ahora bien, si se convierte en un patrón frecuente, va acompañado de tristeza persistente o interfiere en el día a día, conviene una valoración profesional.",
+      },
+      {
+        type: "heading",
+        text: "Por qué el cuerpo llora sin que la mente lo entienda",
+      },
+      {
+        type: "paragraph",
+        text: "Las lágrimas no son solo una respuesta a la tristeza. El cuerpo humano produce tres tipos de lágrimas con funciones diferentes: las basales (lubricación), las reflejas (por irritación) y las emocionales. Estas últimas contienen hormonas del estrés como el cortisol, y su función es, literalmente, ayudar a eliminarlas del cuerpo. Llorar es un mecanismo de regulación.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando la tensión se acumula durante semanas o meses —por trabajo, por responsabilidades, por una situación que se alarga— el cuerpo puede llegar a un punto de saturación en el que la descarga se produce sin un desencadenante consciente. La persona se encuentra llorando y no sabe por qué, porque la causa no es un pensamiento concreto sino una acumulación.",
+      },
+      {
+        type: "heading",
+        text: "Causas más frecuentes",
+      },
+      {
+        type: "paragraph",
+        text: "En la práctica clínica vemos que llorar sin motivo aparente suele tener alguno de estos orígenes:",
+      },
+      {
+        type: "list",
+        items: [
+          "Estrés acumulado. Semanas de presión sostenida sin espacios de descanso real. El cuerpo no puede mantener la tensión indefinidamente y la descarga a través del llanto.",
+          "Cansancio emocional. Dar mucho a otros —trabajo de cuidados, responsabilidades familiares— sin recibir apoyo genera un déficit que se manifiesta de golpe.",
+          "Cambios hormonales. El ciclo menstrual, el embarazo, el postparto, la perimenopausia y otros cambios hormonales afectan la regulación emocional y pueden favorecer llantos espontáneos.",
+          "Dormir mal. La privación de sueño altera la capacidad de gestionar emociones. Una persona con déficit de sueño crónico puede llorar con más facilidad por cosas que durante el día no le afectarían.",
+          "Duelo o pérdida no procesada. A veces una pérdida —una persona, un trabajo, una etapa— no se trabaja conscientemente, pero el cuerpo la recuerda y la expresa a través del llanto.",
+          "Primer síntoma de un cuadro depresivo. No siempre, pero en algunos casos el llanto frecuente y sin motivo es uno de los primeros signos de una depresión que está empezando.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Una sola lágrima sin motivo no quiere decir nada. Lo que importa es el patrón: frecuencia, intensidad y duración.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo es normal y cuándo conviene prestar atención",
+      },
+      {
+        type: "paragraph",
+        text: "Llorar de forma puntual —una vez por semana o menos, después de un período de tensión, sin que interfiera en el funcionamiento diario— está dentro del rango normal. No requiere intervención profesional, aunque puede ser un recordatorio de que hay que parar y descansar.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene prestar atención cuando se dan algunas de estas condiciones:",
+      },
+      {
+        type: "list",
+        items: [
+          "Llantos frecuentes y sin desencadenante durante más de dos semanas.",
+          "Sensación de tristeza de fondo que no se va, independientemente de los llantos.",
+          "Pérdida de interés por cosas que antes disfrutabas.",
+          "Dificultad para dormir o, por el contrario, necesidad de dormir mucho más de la cuenta.",
+          "Irritabilidad alta, sensación de no poder con el día a día.",
+          "Comentarios recurrentes sobre ser una carga o sobre no ver sentido a las cosas.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si dos o tres de estas señales coinciden durante un mes o más, tiene sentido pedir una valoración. No se trata de diagnosticarse uno mismo: se trata de no esperar a estar mal para buscar ayuda.",
+      },
+      {
+        type: "heading",
+        text: "Qué hacer en el momento",
+      },
+      {
+        type: "paragraph",
+        text: "Si te encuentras llorando sin saber por qué, lo primero que conviene hacer es no juzgarse. El llanto no es una señal de debilidad ni de pérdida de control: es una respuesta del cuerpo que está haciendo su trabajo. Reprimirlo no ayuda; a menudo lo retrasa y lo intensifica.",
+      },
+      {
+        type: "paragraph",
+        text: "Después, cuando el llanto ha pasado, puede ser útil revisar el contexto de los últimos días o semanas: cuánto has dormido, qué carga tienes, cuándo fue la última vez que hiciste una actividad que te llena. A veces la respuesta no está en el momento del llanto sino en lo que lo ha precedido.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo buscar un psicólogo",
+      },
+      {
+        type: "paragraph",
+        text: "Si llorar sin motivo se ha convertido en un patrón —no en un hecho aislado— y va acompañado de alguna de las señales que hemos descrito, una valoración psicológica puede orientar lo que pasa. No hace falta tener un diagnóstico ni saber exactamente qué te ocurre para pedir una primera sesión.",
+      },
+      {
+        type: "paragraph",
+        text: "Nuestro equipo en Barcelona puede ayudarte a entender si lo que experimentas es una reacción normal a una situación concreta o si conviene iniciar un proceso de acompañamiento. Puedes escribirnos en /contacto para coordinar una primera sesión, presencial u online.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal llorar todos los días?",
+            answer:
+              "No del todo. Llorar a diario durante varios días seguidos puede ser señal de un cuadro emocional que conviene valorar, sobre todo si va acompañado de tristeza persistente, pérdida de interés o cansancio. Un día puntual puede ser normal; un patrón de varios días o semanas ya merece atención.",
+          },
+          {
+            question: "¿Llorar sin razón es señal de depresión?",
+            answer:
+              "No necesariamente. El llanto sin motivo consciente puede deberse a estrés acumulado, cansancio, cambios hormonales o falta de sueño. Solo se considera un posible síntoma de depresión cuando se acompaña de otros signos como tristeza mantenida, pérdida de interés, alteraciones de sueño o sensación de no poder con el día a día durante al menos dos semanas.",
+          },
+          {
+            question: "¿Debería ir al psicólogo si lloro sin saber por qué?",
+            answer:
+              "Si ha sido un hecho puntual, probablemente no. Si se repite con frecuencia, dura más de dos semanas o va acompañado de otros síntomas como abatimiento o pérdida de interés, sí conviene pedir una valoración. No hace falta tener un diagnóstico claro para solicitar una primera sesión.",
+          },
+          {
+            question: "¿Reprimir el llanto empeora la situación?",
+            answer:
+              "A menudo sí. Contener el llanto de forma sistemática puede prolongar la tensión y hacer que la descarga emocional llegue de forma más intensa en otro momento. Permitirse llorar no es signo de debilidad: es una respuesta natural del cuerpo. Lo que conviene observar no es el llanto en sí, sino su frecuencia y el contexto en el que aparece.",
+          },
+        ],
+      },
+    ],
+  },
 ];
