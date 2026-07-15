@@ -7,8 +7,10 @@ import { useLanguage } from "@/lib/i18n";
 import { articles } from "@/lib/articles";
 import { articlesPart2 } from "@/lib/articles-part2";
 import { articlesPart3 } from "@/lib/articles-part3";
+import { articlesPart4 } from "@/lib/articles-part4";
+import { articlesPart5 } from "@/lib/articles-part5";
 
-const allArticles = [...articles, ...articlesPart2, ...articlesPart3];
+const allArticles = [...articles, ...articlesPart2, ...articlesPart3, ...articlesPart4, ...articlesPart5];
 
 export function Blog() {
   const { t, lang } = useLanguage();
