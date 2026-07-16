@@ -40,26 +40,35 @@ export default function BlogPage() {
                 <Reveal key={article.slug} delay={i * 50}>
                   <a
                     href={`/blog/${article.slug}`}
-                    className="block bg-card rounded-2xl overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 border border-border/40 group p-8"
+                    className="block bg-card rounded-2xl overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 border border-border/40 group"
                   >
-                    <div className="flex items-center gap-3 mb-3">
-                      <span className="text-xs text-primary font-medium uppercase tracking-wide">
-                        {article.category}
-                      </span>
-                      <span className="text-xs text-foreground/30">
-                        {article.date}
+                    <div className="relative w-full aspect-[16/9] overflow-hidden bg-muted">
+                      <img
+                        src={`/blog/${article.slug}.webp`}
+                        alt={article.title}
+                        className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                      />
+                    </div>
+                    <div className="p-6">
+                      <div className="flex items-center gap-3 mb-3">
+                        <span className="text-xs text-primary font-medium uppercase tracking-wide">
+                          {article.category}
+                        </span>
+                        <span className="text-xs text-foreground/30">
+                          {article.date}
+                        </span>
+                      </div>
+                      <h2 className="text-xl font-heading text-foreground mb-3 group-hover:text-primary transition-colors leading-snug">
+                        {article.title}
+                      </h2>
+                      <p className="text-sm text-foreground/70 leading-relaxed mb-4 line-clamp-3">
+                        {article.excerpt}
+                      </p>
+                      <span className="inline-flex items-center gap-1 text-sm text-primary font-medium">
+                        {lang === "CA" ? "Llegir més" : "Leer más"}
+                        <ArrowRight className="size-3.5" />
                       </span>
                     </div>
-                    <h2 className="text-xl font-heading text-foreground mb-3 group-hover:text-primary transition-colors">
-                      {article.title}
-                    </h2>
-                    <p className="text-sm text-foreground/70 leading-relaxed mb-4">
-                      {article.excerpt}
-                    </p>
-                    <span className="inline-flex items-center gap-1 text-sm text-primary font-medium">
-                      {lang === "CA" ? "Llegir més" : "Leer más"}
-                      <ArrowRight className="size-3.5" />
-                    </span>
                   </a>
                 </Reveal>
               ))}
