@@ -2,7 +2,7 @@
 // traducidos al catalán para el clon espaiemocions-clone.
 // Tipos definidos en ./articles.ts
 
-import type { ArticleContent, ContentBlock } from "./articles";
+import type { ArticleContent } from "./articles";
 
 export const articlesPart2: ArticleContent[] = [
   // ===========================================================================
