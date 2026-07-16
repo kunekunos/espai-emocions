@@ -1,24 +1,15 @@
 "use client";
 
-import Image from "next/image";
 import { ArrowRight } from "lucide-react";
+import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { useLanguage } from "@/lib/i18n";
-import { articles } from "@/lib/articles";
-import { articlesPart2 } from "@/lib/articles-part2";
-import { articlesPart3 } from "@/lib/articles-part3";
-import { articlesPart4 } from "@/lib/articles-part4";
-import { articlesPart5 } from "@/lib/articles-part5";
-
-const allArticles = [...articles, ...articlesPart2, ...articlesPart3, ...articlesPart4, ...articlesPart5];
+import { articleMeta as allArticles } from "@/lib/article-meta";
 
 export function Blog() {
   const { t, lang } = useLanguage();
 
-  const blogArticles = [...allArticles]
-    .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime())
-    .slice(0, 3)
-    .map((a) => ({
+  const blogArticles = allArticles.slice(0, 3).map((a) => ({
     slug: a.slug,
     category: lang === "CA" ? a.categoryCA : a.categoryES,
     title: lang === "CA" ? a.titleCA : a.titleES,
@@ -39,45 +30,34 @@ export function Blog() {
             <Reveal key={article.slug} delay={i * 100}>
               <a
                 href={`/blog/${article.slug}`}
-                className="block bg-card rounded-2xl overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 border border-border/40 group h-full"
+                className="block bg-card rounded-2xl overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 border border-border/40 group p-8 h-full"
               >
-                <div className="relative w-full aspect-[16/9] overflow-hidden bg-muted">
-                  <Image
-                    src={`/blog/${article.slug}.webp`}
-                    alt={article.title}
-                    fill
-                    sizes="(max-width: 768px) 100vw, 33vw"
-                    className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  />
-                </div>
-                <div className="p-6">
-                  <span className="text-xs text-primary font-medium uppercase tracking-wide">
-                    {article.category}
-                  </span>
-                  <h3 className="text-lg font-heading text-foreground mt-3 mb-3 group-hover:text-primary transition-colors leading-snug">
-                    {article.title}
-                  </h3>
-                  <p className="text-sm text-foreground/70 leading-relaxed mb-4 line-clamp-2">
-                    {article.excerpt}
-                  </p>
-                  <span className="inline-flex items-center gap-1 text-sm text-primary font-medium">
-                    {t("blog.readmore")}
-                    <ArrowRight className="size-3.5" />
-                  </span>
-                </div>
+                <span className="text-xs text-primary font-medium uppercase tracking-wide">
+                  {article.category}
+                </span>
+                <h3 className="text-xl font-heading text-foreground mt-3 mb-3 group-hover:text-primary transition-colors">
+                  {article.title}
+                </h3>
+                <p className="text-sm text-foreground/70 leading-relaxed mb-4">
+                  {article.excerpt}
+                </p>
+                <span className="inline-flex items-center gap-1 text-sm text-primary font-medium">
+                  {t("blog.readmore")}
+                  <ArrowRight className="size-3.5" />
+                </span>
               </a>
             </Reveal>
           ))}
         </div>
 
         <Reveal className="text-center mt-12" delay={300}>
-          <a
+          <Link
             href="/blog"
             className="inline-flex items-center gap-2 text-base font-medium text-primary hover:text-primary/80 transition-colors"
           >
             {t("blog.seeall")}
             <ArrowRight className="size-4" />
-          </a>
+          </Link>
         </Reveal>
       </div>
     </section>
