@@ -1,6 +1,7 @@
 "use client";
 
 import { useParams } from "next/navigation";
+import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
@@ -75,9 +76,9 @@ export default function BlogArticlePage() {
             <p className="text-foreground/70 mb-8">
               {lang === "CA" ? "Article no trobat" : "Artículo no encontrado"}
             </p>
-            <a href="/blog" className="text-primary hover:text-primary/80">
+            <Link href="/blog" className="text-primary hover:text-primary/80">
               ← {lang === "CA" ? "Tornar al blog" : "Volver al blog"}
-            </a>
+            </Link>
           </div>
         </main>
         <Footer />
@@ -140,13 +141,13 @@ export default function BlogArticlePage() {
       <main className="pt-20">
         <article className="py-16 px-6 sm:px-8 lg:px-12">
           <div className="mx-auto max-w-3xl">
-            <a
+            <Link
               href="/blog"
               className="inline-flex items-center gap-2 text-sm text-primary hover:text-primary/80 transition-colors mb-8"
             >
               <ArrowLeft className="size-4" />
               {backText}
-            </a>
+            </Link>
 
             <Reveal>
               <span className="text-xs text-primary font-medium uppercase tracking-wide">
@@ -172,12 +173,12 @@ export default function BlogArticlePage() {
             <Reveal delay={300}>
               <div className="mt-16 pt-8 border-t border-border/40 text-center">
                 <p className="text-foreground/70 mb-6">{ctaText}</p>
-                <a
+                <Link
                   href="/#contacte"
                   className="inline-flex items-center rounded-xl bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:brightness-105 transition-all duration-300"
                 >
                   {lang === "CA" ? "Demana una cita" : "Pide una cita"}
-                </a>
+                </Link>
               </div>
             </Reveal>
           </div>
