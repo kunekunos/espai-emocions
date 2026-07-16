@@ -1,8 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
 import { Menu, X, Globe } from "lucide-react";
+import Link from "next/link";
 import { useLanguage } from "@/lib/i18n";
 
 export function Navbar() {
@@ -10,29 +10,28 @@ export function Navbar() {
   const { lang, toggleLang, t } = useLanguage();
 
   const navLinks = [
-    { label: t("nav.qui-som"), href: "/#qui-som" },
-    { label: t("nav.serveis"), href: "/#serveis" },
-    { label: t("nav.enfocament"), href: "/#enfocament" },
-    { label: t("nav.blog"), href: "/#blog" },
-    { label: t("nav.contacte"), href: "/#contacte" },
+    { label: t("nav.qui-som"), href: "#qui-som" },
+    { label: t("nav.serveis"), href: "#serveis" },
+    { label: t("nav.enfocament"), href: "#enfocament" },
+    { label: t("nav.blog"), href: "#blog" },
+    { label: t("nav.contacte"), href: "#contacte" },
   ];
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border/40">
       <nav className="container mx-auto flex items-center justify-between py-3 px-6">
-        <a href="/" className="flex items-center gap-2">
-          <Image
-            src="/images/logo.webp"
+        <Link href="/" className="flex items-center gap-2">
+          <img
+            src="/images/logo.png"
             alt="Espai Emocions"
             width={160}
             height={32}
             className="h-8 w-auto"
-            priority
           />
           <span className="font-heading text-lg font-medium text-foreground tracking-tight">
             Espai Emocions
           </span>
-        </a>
+        </Link>
 
         {/* Desktop nav */}
         <div className="hidden md:flex items-center gap-6">
@@ -46,7 +45,7 @@ export function Navbar() {
             </a>
           ))}
           <a
-            href="/#contacte"
+            href="#contacte"
             className="bg-primary text-primary-foreground px-5 py-2.5 rounded-xl text-sm font-medium hover:brightness-105 transition-all duration-300"
           >
             {t("nav.cta")}
@@ -86,7 +85,7 @@ export function Navbar() {
               </a>
             ))}
             <a
-              href="/#contacte"
+              href="#contacte"
               className="bg-primary text-primary-foreground px-5 py-2.5 rounded-xl text-sm font-medium text-center"
               onClick={() => setOpen(false)}
             >
