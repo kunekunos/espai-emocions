@@ -3,6 +3,7 @@
 import { Heart, Users, Brain, Sprout, ArrowRight } from "lucide-react";
 import { Reveal } from "@/components/Reveal";
 import { useLanguage } from "@/lib/i18n";
+import { trackCtaClick } from "@/lib/analytics";
 
 export function Serveis() {
   const { t } = useLanguage();
@@ -48,6 +49,7 @@ export function Serveis() {
         <Reveal className="text-center mt-12" delay={200}>
           <a
             href="#contacte"
+            onClick={() => trackCtaClick("services")}
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-4 rounded-xl font-medium hover:brightness-105 transition-all duration-300"
           >
             {t("serveis.cta")}
