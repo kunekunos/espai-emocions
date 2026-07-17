@@ -15,7 +15,9 @@ function extractMeta(file) {
 const meta = [
   ...extractMeta('src/lib/articles.ts'),
   ...extractMeta('src/lib/articles-part2.ts'),
-  ...extractMeta('src/lib/articles-part3.ts')
+  ...extractMeta('src/lib/articles-part3.ts'),
+  ...extractMeta('src/lib/articles-part4.ts'),
+  ...extractMeta('src/lib/articles-part5.ts')
 ];
 
 const seen = new Set();
@@ -23,7 +25,7 @@ const unique = meta.filter(a => {
   if (seen.has(a.slug)) return false;
   seen.add(a.slug);
   return true;
-});
+}).sort((a, b) => b.datePublished.localeCompare(a.datePublished));
 
 const output = `// Metadatos ligeros de articulos para el blog listing (sin contenido de bloques).
 // Generado automaticamente. No editar manualmente.

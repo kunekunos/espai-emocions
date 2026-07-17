@@ -1786,7 +1786,7 @@ export const articlesPart2: ArticleContent[] = [
       {
         type: "paragraph",
         text:
-          "Si allò que has llegit aquí et ressona, el més senzill és donar un primer pas concret. Pots escriure'ns a /contacte i t'orientem sense compromís. Respondem en menys de 24 hores.",
+          "Si allò que has llegit aquí et ressona, el més senzill és donar un primer pas concret. Pots escriure'ns i la Carmen o l'Esteve atendran personalment la teva consulta dins l'horari del centre.",
       },
       {
         type: "heading",
@@ -1915,7 +1915,7 @@ export const articlesPart2: ArticleContent[] = [
       {
         type: "paragraph",
         text:
-          "Si lo que leíste aquí te resuena, lo más sencillo es dar un primer paso concreto. Puedes escribirnos en /contacto y te orientamos sin compromiso. Respondemos en menos de 24 horas.",
+          "Si lo que has leído aquí te resuena, el paso más sencillo es escribirnos. Carmen o Esteve atenderán personalmente tu consulta dentro del horario del centro.",
       },
       {
         type: "heading",

@@ -13,17 +13,27 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
-    "slug": "psicologo-para-mayores",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a persones majors: per què l'edat canvia el tipus d'acompanyament",
-    "titleES": "Psicólogo para personas mayores: por qué la edad cambia el tipo de acompañamiento",
-    "excerptCA": "La psicologia amb persones majors no és una adaptació de la teràpia d'adults: té les seves pròpies necessitats. Dol, aïllament, cronificació de malalties, pèrdua de rol social i por a la dependència són realitats específiques que un psicòleg ha de saber treballar sense infantilitzar ni patologitzar el procés d'envellir. Aquí expliquem què busca una persona gran en un psicòleg i com treballem aquest perfil des d'Espai Emocions.",
-    "excerptES": "La psicología con personas mayores no es una adaptación de la terapia de adultos: tiene necesidades propias. Duelo, aislamiento, cronificación de enfermedades, pérdida de rol social y miedo a la dependencia son realidades específicas que un psicólogo debe saber trabajar sin infantizar ni patologizar el proceso de envejecer. Aquí explicamos qué busca una persona mayor en un psicólogo y cómo trabajamos este perfil desde Espai Emocions.",
-    "datePublished": "2026-07-14"
+    "slug": "seguro-privado-cubre-psicologia-barcelona",
+    "categoryCA": "Psicologia a Barcelona",
+    "categoryES": "Psicología en Barcelona",
+    "titleCA": "El segur privat cobreix la psicologia a Barcelona?",
+    "titleES": "¿Cubre el seguro privado la psicología en Barcelona?",
+    "excerptCA": "Depèn de la pòlissa, però en general la cobertura és limitada: nombre de sessions restringit, psicòlegs d'un quadre tancat i sovint copagament. Aquí expliquem què cobreix realment cada companyia, què has de mirar a la teva pòlissa i quan val la pena anar per via privada.",
+    "excerptES": "Depende de la póliza, pero en general la cobertura es limitada: número de sesiones restringido, psicólogos de un cuadro cerrado y a menudo copago. Aquí explicamos qué cubre realmente cada compañía, qué tienes que mirar en tu póliza y cuándo compensa ir por vía privada.",
+    "datePublished": "2026-07-17"
   },
   {
-    "slug": "cambiar-psicologo-no-encaixo",
+    "slug": "setting-terapeutico-por-que-importa-espacio",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "El setting terapèutic: per què importa l'espai on es fa la teràpia",
+    "titleES": "El setting terapéutico: por qué importa el espacio donde se hace la terapia",
+    "excerptCA": "El setting terapèutic és l'espai físic i el marc on es desenvolupa la sessió. No és un detall estètic: influeix directament en la capacitat d'obrir-se, de concentrar-se i de fer el treball emocional. En aquest article expliquem què fa que un espai sigui terapèutic i què busquem en el nostre centre a Barcelona.",
+    "excerptES": "El setting terapéutico es el espacio físico y el marco donde se desarrolla la sesión. No es un detalle estético: influye directamente en la capacidad de abrirse, de concentrarse y de hacer el trabajo emocional. En este artículo explicamos qué hace que un espacio sea terapéutico y qué buscamos en nuestro centro de Barcelona.",
+    "datePublished": "2026-07-16"
+  },
+  {
+    "slug": "cambiar-psicologo-no-encajo",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
     "titleCA": "Puc canviar de psicòleg si no encaixo?",
@@ -93,6 +103,146 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-07-07"
   },
   {
+    "slug": "donde-estamos-como-llegar-espai-emocions",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "On som i com arribar a Espai Emocions",
+    "titleES": "Dónde estamos y cómo llegar a Espai Emocions",
+    "excerptCA": "Espai Emocions és al carrer Indústria 220, al barri del Clot, entre La Sagrera i el Poblenou. S'hi arriba en metro en menys de cinc minuts des de Clot, en bus amb diverses línies que creuen la Gran Via i en bici per carrils gairebé continus des de l'Eixample. La zona és tranquil·la, amb aparcament de pagament en superfície i parkings propers si vas en cotxe.",
+    "excerptES": "Espai Emocions está en la calle Indústria 220, en el barrio del Clot, entre La Sagrera y el Poblenou. Se llega en metro en menos de cinco minutos desde Clot, en bus con varias líneas que cruzan la Gran Via y en bici por carriles prácticamente continuos desde el Eixample. La zona es tranquila, con aparcamiento de pago en superficie y parkings cercanos si vienes en coche.",
+    "datePublished": "2026-07-06"
+  },
+  {
+    "slug": "necesito-psicologo-como-saberlo",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Com saber si necessito un psicòleg? Senyals clares",
+    "titleES": "¿Cómo saber si necesito un psicólogo? Señales claras",
+    "excerptCA": "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment de forma sostinguda, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si \\",
+    "excerptES": "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento de forma sostenida, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si \\",
+    "datePublished": "2026-07-05"
+  },
+  {
+    "slug": "psicologo-para-academicos",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a acadèmics: el cost emocional d'investigar i ensenyar",
+    "titleES": "Psicólogo para académicos: el coste emocional de investigar y enseñar",
+    "excerptCA": "Doctorands, postdocs i professors universitaris enfronten inseguretat laboral, pressió publicitària i aïllament. Què buscar en un psicòleg que conegui el món acadèmic.",
+    "excerptES": "Doctorandos, postdocs y profesores universitarios enfrentan inseguridad laboral, presión publicitaria y aislamiento. Qué buscar en un psicólogo que conozca el mundo académico.",
+    "datePublished": "2026-07-03"
+  },
+  {
+    "slug": "modelos-terapia-cual-te-conviene",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Quins models de teràpia existeixen i quin t'escau?",
+    "titleES": "¿Qué modelos de terapia existen y cuál te conviene?",
+    "excerptCA": "Cognitiu-conductual, humanista, psicodinàmica, sistèmica, EMDR: què és cada model, en què es diferencia i com s'elegeix l'adequat per al teu cas. Guia clara i sense tecnicismes.",
+    "excerptES": "Cognitivo-conductual, humanista, psicodinámica, sistémica, EMDR: qué es cada modelo, en qué se diferencia y cómo se elige el adecuado para tu caso. Guía clara y sin tecnicismos.",
+    "datePublished": "2026-07-02"
+  },
+  {
+    "slug": "recursos-salud-mental-gratuitos-barcelona",
+    "categoryCA": "Psicologia a Barcelona",
+    "categoryES": "Psicología en Barcelona",
+    "titleCA": "Recursos de salut mental gratuits a Barcelona: guia pràctica",
+    "titleES": "Recursos de salud mental gratuitos en Barcelona: guía práctica",
+    "excerptCA": "On trobar atenció psicològica gratuita o de baix cost a Barcelona: sanitat pública, unitats de salut mental, recursos municipals i associacions sense ànim de lucre.",
+    "excerptES": "Dónde encontrar atención psicológica gratuita o de bajo coste en Barcelona: sanidad pública, unidades de salud mental, recursos municipales y asociaciones sin ánimo de lucro.",
+    "datePublished": "2026-07-01"
+  },
+  {
+    "slug": "confidencialidad-psicologia",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "Confidencialitat en psicologia: què cobreix i com es garanteix",
+    "titleES": "Confidencialidad en psicología: qué cubre y cómo se garantiza",
+    "excerptCA": "Què protegeix el secret professional en psicologia, quan es pot trencar i com es garanteix la confidencialitat en un centre com Espai Emocions. Guia clara i pràctica.",
+    "excerptES": "Qué protege el secreto profesional en psicología, cuándo puede romperse y cómo se garantiza la confidencialidad en un centro como Espai Emocions. Guía clara y práctica.",
+    "datePublished": "2026-06-30"
+  },
+  {
+    "slug": "tdah-adultos-como-reconocerlo",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "TDAH en adults: senyals que passen desapercebudes",
+    "titleES": "TDAH en adultos: señales que pasan desapercibidas",
+    "excerptCA": "El TDAH en adults no sempre es diagnostica a la infància. Senyals freqüents, per què passa desapercebut i com s'aborda des de la psicologia a Barcelona.",
+    "excerptES": "El TDAH en adultos no siempre se diagnostica en la infancia. Señales frecuentes, por qué pasa desapercibido y cómo se aborda desde la psicología en Barcelona.",
+    "datePublished": "2026-06-29"
+  },
+  {
+    "slug": "psicologo-para-cuidadores",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a cuidadors: el desgast de cuidar altres",
+    "titleES": "Psicólogo para cuidadores: el desgaste de cuidar a otros",
+    "excerptCA": "Qui cura un familiar dependent necessita un psicòleg que entengui el seu context. Desgast del cuidador, culpa i què buscar en un professional.",
+    "excerptES": "Quien cuida a un familiar con discapacidad o a un padre mayor necesita un psicólogo que entienda el desgaste del cuidador. Cómo trabajamos con este perfil en Espai Emocions.",
+    "datePublished": "2026-06-28"
+  },
+  {
+    "slug": "cuantas-sesiones-psicologia-necesito",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Quantes sessions de psicologia necessito?",
+    "titleES": "¿Cuántas sesiones de psicología necesito?",
+    "excerptCA": "No existeix un nombre fixat de sessions de psicologia. La durada d'un procés terapèutic depèn del motiu de consulta, la intensitat del problema i els objectius que et plantegis. Com a orientació, un procés breu sol moure's entre 6 i 12 sessions, un intermedi entre 3 i 6 mesos, i els processos més profunds poden allargar-se un any o més. Allò decisiu no és la xifra, sinó saber per què s'allarga o s'escurça.",
+    "excerptES": "No existe un número fijo de sesiones de psicología. La duración de un proceso terapéutico depende del motivo de consulta, la intensidad del problema y los objetivos que te plantees. Como orientación, un proceso breve suele moverse entre 6 y 12 sesiones, uno intermedio entre 3 y 6 meses, y los procesos más profundos pueden prolongarse un año o más. Lo decisivo no es la cifra, sino saber por qué se alarga o se acorta.",
+    "datePublished": "2026-06-27"
+  },
+  {
+    "slug": "elegir-psicologo-barcelona",
+    "categoryCA": "Psicologia a Barcelona",
+    "categoryES": "Psicología en Barcelona",
+    "titleCA": "Com triar un psicòleg a Barcelona: guia pràctica",
+    "titleES": "Cómo elegir un psicólogo en Barcelona: guía práctica",
+    "excerptCA": "Per triar un psicòleg a Barcelona, fixa't en tres coses: formació acreditada, experiència en el teu motiu de consulta i encaix personal. La ciutat té centenars de professionals, i el preu o la ubicació no basten per decidir. Allò que marca la diferència és que el psicòleg sàpiga treballar el teu tipus de problema i que et sentis còmode amb la seva forma d'acompanyar-te.",
+    "excerptES": "Para elegir un psicólogo en Barcelona, fíjate en tres cosas: formación acreditada, experiencia en tu motivo de consulta y encaje personal. La ciudad tiene cientos de profesionales, y el precio o la ubicación no bastan para decidir. Lo que marca la diferencia es que el psicólogo sepa trabajar tu tipo de problema y que te sientas cómodo con su forma de acompañarte.",
+    "datePublished": "2026-06-26"
+  },
+  {
+    "slug": "primera-sesion-psicologia",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "Com és la primera sessió de psicologia?",
+    "titleES": "¿Cómo es la primera sesión de psicología?",
+    "excerptCA": "La primera sessió de psicologia és una entrevista d'avaluació. No esperis exercicis, ni tècniques, ni solucions màgiques. Serveix perquè el psicòleg entengui la teva situació, escolti allò que et porta i comenci a esbossar un pla de treball. Dura entre 50 i 60 minuts, i al seu terme sabràs quins passos seguir.",
+    "excerptES": "La primera sesión de psicología es una entrevista de evaluación. No esperes ejercicios, ni técnicas, ni soluciones mágicas. Sirve para que el psicólogo entienda tu situación, escuche lo que te trae y empiece a esbozar un plan de trabajo. Dura entre 50 y 60 minutos, y a su término sabrás qué pasos seguir.",
+    "datePublished": "2026-06-25"
+  },
+  {
+    "slug": "psicologo-o-coach-diferencias",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Psicòleg o coach: quin necessites?",
+    "titleES": "Psicólogo o coach: ¿cuál necesitas?",
+    "excerptCA": "Diferències reals entre psicòleg i coach: formació, regulació, quan triar cadascun i per què començar per una valoració clínica si tens dubtes.",
+    "excerptES": "Diferencias reales entre psicólogo y coach: formación, regulación, cuándo elegir cada uno y por qué empezar por una valoración clínica si tienes dudas.",
+    "datePublished": "2026-06-24"
+  },
+  {
+    "slug": "psicologo-para-sanitarios",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a sanitaris: com gestionar el desgast professional",
+    "titleES": "Psicólogo para sanitarios: cómo gestionar el desgaste profesional",
+    "excerptCA": "Per què metges, infermeres i dentistes necessiten un psicòleg que entengui el seu context. Desgast per empatia, burnout sanitari i què buscar en un professional.",
+    "excerptES": "Por qué médicos, enfermeras y dentistas necesitan un psicólogo que entienda su contexto. Desgaste por empatía, burnout sanitario y qué buscar en un profesional.",
+    "datePublished": "2026-06-23"
+  },
+  {
+    "slug": "terapia-online-vs-presencial",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Teràpia online vs presencial: quina et convé més?",
+    "titleES": "Terapia online vs presencial: ¿cuál es mejor para ti?",
+    "excerptCA": "Diferències reals entre teràpia online i presencial: qualitat, preu, confidencialitat i quan triar cadascuna. Guia pràctica per decidir.",
+    "excerptES": "Diferencias reales entre terapia online y presencial: calidad, precio, confidencialidad y cuándo elegir cada una. Guía práctica para decidir.",
+    "datePublished": "2026-06-20"
+  },
+  {
     "slug": "5-claves-gestionar-ansiedad",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
@@ -101,16 +251,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptCA": "Eines pràctiques per gestionar l'ansietat en la teva vida quotidiana. Tècniques de respiració, pensament i autocuidació que pots començar a fer servir avui.",
     "excerptES": "Herramientas prácticas para manejar la ansiedad en tu vida cotidiana. Técnicas de respiración, pensamiento, y autocuidado que puedes empezar a usar hoy.",
     "datePublished": "2026-05-01"
-  },
-  {
-    "slug": "adiccion-pornografia-tratamiento",
-    "categoryCA": "Addiccions",
-    "categoryES": "Adicciones",
-    "titleCA": "Addicció a la pornografia: senyals i tractament",
-    "titleES": "Adicción a la Pornografía: Señales y Tratamiento",
-    "excerptCA": "Com reconèixer quan el consum de pornografia es converteix en un problema i quins passos prendre per recuperar-se. Tractament confidencial a Barcelona.",
-    "excerptES": "Cómo reconocer cuando el consumo de pornografía se convierte en un problema y qué pasos tomar para recuperarse. Tratamiento confidencial en Barcelona.",
-    "datePublished": "2026-04-25"
   },
   {
     "slug": "ansiedad-alto-funcionamiento",
@@ -143,156 +283,6 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-05-01"
   },
   {
-    "slug": "confidencialidad-psicologia",
-    "categoryCA": "El centre",
-    "categoryES": "El centro",
-    "titleCA": "Confidencialitat en psicologia: què cobreix i com es garanteix",
-    "titleES": "Confidencialidad en psicología: qué cubre y cómo se garantiza",
-    "excerptCA": "Què protegeix el secret professional en psicologia, quan es pot trencar i com es garanteix la confidencialitat en un centre com Espai Emocions. Guia clara i pràctica.",
-    "excerptES": "Qué protege el secreto profesional en psicología, cuándo puede romperse y cómo se garantiza la confidencialidad en un centro como Espai Emocions. Guía clara y práctica.",
-    "datePublished": "2026-06-30"
-  },
-  {
-    "slug": "cuantas-sesiones-psicologia-necesito",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Quantes sessions de psicologia necessito?",
-    "titleES": "¿Cuántas sesiones de psicología necesito?",
-    "excerptCA": "No existeix un nombre fixat de sessions de psicologia. La durada d'un procés terapèutic depèn del motiu de consulta, la intensitat del problema i els objectius que et plantegis. Com a orientació, un procés breu sol moure's entre 6 i 12 sessions, un intermedi entre 3 i 6 mesos, i els processos més profunds poden allargar-se un any o més. Allò decisiu no és la xifra, sinó saber per què s'allarga o s'escurça.",
-    "excerptES": "No existe un número fijo de sesiones de psicología. La duración de un proceso terapéutico depende del motivo de consulta, la intensidad del problema y los objetivos que te plantees. Como orientación, un proceso breve suele moverse entre 6 y 12 sesiones, uno intermedio entre 3 y 6 meses, y los procesos más profundos pueden prolongarse un año o más. Lo decisivo no es la cifra, sino saber por qué se alarga o se acorta.",
-    "datePublished": "2026-06-27"
-  },
-  {
-    "slug": "diferencias-psicologo-psiquiatra",
-    "categoryCA": "General",
-    "categoryES": "General",
-    "titleCA": "Diferències entre Psicòleg i Psiquiatre: quin necessites?",
-    "titleES": "Diferencias entre Psicólogo y Psiquiatra: ¿Cuál necesitas?",
-    "excerptCA": "Una guia clara per entendre les diferències entre psicòleg i psiquiatre, què estudia cadascun, quins tractaments ofereixen i quan cal acudir a cadascun.",
-    "excerptES": "Una guía clara para entender las diferencias entre psicólogo y psiquiatra, qué estudia cada uno, qué tratamientos ofrecen, y cuándo acudir a cada uno.",
-    "datePublished": "2026-04-18"
-  },
-  {
-    "slug": "donde-estamos-como-llegar-espai-emocions",
-    "categoryCA": "El centre",
-    "categoryES": "El centro",
-    "titleCA": "On som i com arribar a Espai Emocions",
-    "titleES": "Dónde estamos y cómo llegar a Espai Emocions",
-    "excerptCA": "Espai Emocions és al carrer Indústria 220, al barri del Clot, entre La Sagrera i el Poblenou. S'hi arriba en metro en menys de cinc minuts des de Clot, en bus amb diverses línies que creuen la Gran Via i en bici per carrils gairebé continus des de l'Eixample. La zona és tranquil·la, amb aparcament de pagament en superfície i parkings propers si vas en cotxe.",
-    "excerptES": "Espai Emocions está en la calle Indústria 220, en el barrio del Clot, entre La Sagrera y el Poblenou. Se llega en metro en menos de cinco minutos desde Clot, en bus con varias líneas que cruzan la Gran Via y en bici por carriles prácticamente continuos desde el Eixample. La zona es tranquila, con aparcamiento de pago en superficie y parkings cercanos si vienes en coche.",
-    "datePublished": "2026-07-06"
-  },
-  {
-    "slug": "elegir-psicologo-barcelona",
-    "categoryCA": "Psicologia a Barcelona",
-    "categoryES": "Psicología en Barcelona",
-    "titleCA": "Com triar un psicòleg a Barcelona: guia pràctica",
-    "titleES": "Cómo elegir un psicólogo en Barcelona: guía práctica",
-    "excerptCA": "Per triar un psicòleg a Barcelona, fixa't en tres coses: formació acreditada, experiència en el teu motiu de consulta i encaix personal. La ciutat té centenars de professionals, i el preu o la ubicació no basten per decidir. Allò que marca la diferència és que el psicòleg sàpiga treballar el teu tipus de problema i que et sentis còmode amb la seva forma d'acompanyar-te.",
-    "excerptES": "Para elegir un psicólogo en Barcelona, fíjate en tres cosas: formación acreditada, experiencia en tu motivo de consulta y encaje personal. La ciudad tiene cientos de profesionales, y el precio o la ubicación no bastan para decidir. Lo que marca la diferencia es que el psicólogo sepa trabajar tu tipo de problema y que te sientas cómodo con su forma de acompañarte.",
-    "datePublished": "2026-06-26"
-  },
-  {
-    "slug": "hombres-psicologo-normal",
-    "categoryCA": "Homes",
-    "categoryES": "Hombres",
-    "titleCA": "És normal que un home vagi al psicòleg?",
-    "titleES": "¿Es normal que un hombre vaya al psicólogo?",
-    "excerptCA": "Trencant mites sobre la salut mental masculina. Per què buscar ajuda psicològica és un acte de valentia, no de debilitat. Psicòleg per a homes Barcelona.",
-    "excerptES": "Rompiendo mitos sobre la salud mental masculina. Por qué buscar ayuda psicológica es un acto de valentía, no de debilidad. Psicólogo para hombres Barcelona.",
-    "datePublished": "2026-04-28"
-  },
-  {
-    "slug": "modelos-terapia-cual-te-conviene",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Quins models de teràpia existeixen i quin t'escau?",
-    "titleES": "¿Qué modelos de terapia existen y cuál te conviene?",
-    "excerptCA": "Cognitiu-conductual, humanista, psicodinàmica, sistèmica, EMDR: què és cada model, en què es diferencia i com s'elegeix l'adequat per al teu cas. Guia clara i sense tecnicismes.",
-    "excerptES": "Cognitivo-conductual, humanista, psicodinámica, sistémica, EMDR: qué es cada modelo, en qué se diferencia y cómo se elige el adecuado para tu caso. Guía clara y sin tecnicismos.",
-    "datePublished": "2026-07-02"
-  },
-  {
-    "slug": "necesito-psicologo-como-saberlo",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Com saber si necessito un psicòleg? Senyals clares",
-    "titleES": "¿Cómo saber si necesito un psicólogo? Señales claras",
-    "excerptCA": "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment de forma sostinguda, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si \\",
-    "excerptES": "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento de forma sostenida, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si \\",
-    "datePublished": "2026-07-05"
-  },
-  {
-    "slug": "precio-psicologo-barcelona",
-    "categoryCA": "Informació",
-    "categoryES": "Info",
-    "titleCA": "Quant costa un psicòleg a Barcelona? Guia 2026",
-    "titleES": "¿Cuánto cuesta un psicólogo en Barcelona? Guía 2026",
-    "excerptCA": "Preus de teràpia psicològica a Barcelona. Què influeix en el cost, rangs de preus, i com triar el psicòleg adequat segons el teu pressupost.",
-    "excerptES": "Precios de terapia psicológica en Barcelona. Qué influye en el coste, rangos de precios, y cómo elegir el psicólogo adecuado según tu presupuesto.",
-    "datePublished": "2026-04-20"
-  },
-  {
-    "slug": "primera-sesion-psicologia",
-    "categoryCA": "El centre",
-    "categoryES": "El centro",
-    "titleCA": "Com és la primera sessió de psicologia?",
-    "titleES": "¿Cómo es la primera sesión de psicología?",
-    "excerptCA": "La primera sessió de psicologia és una entrevista d'avaluació. No esperis exercicis, ni tècniques, ni solucions màgiques. Serveix perquè el psicòleg entengui la teva situació, escolti allò que et porta i comenci a esbossar un pla de treball. Dura entre 50 i 60 minuts, i al seu terme sabràs quins passos seguir.",
-    "excerptES": "La primera sesión de psicología es una entrevista de evaluación. No esperes ejercicios, ni técnicas, ni soluciones mágicas. Sirve para que el psicólogo entienda tu situación, escuche lo que te trae y empiece a esbozar un plan de trabajo. Dura entre 50 y 60 minutos, y a su término sabrás qué pasos seguir.",
-    "datePublished": "2026-06-25"
-  },
-  {
-    "slug": "psicologo-o-coach-diferencias",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Psicòleg o coach: quin necessites?",
-    "titleES": "Psicólogo o coach: ¿cuál necesitas?",
-    "excerptCA": "Diferències reals entre psicòleg i coach: formació, regulació, quan triar cadascun i per què començar per una valoració clínica si tens dubtes.",
-    "excerptES": "Diferencias reales entre psicólogo y coach: formación, regulación, cuándo elegir cada uno y por qué empezar por una valoración clínica si tienes dudas.",
-    "datePublished": "2026-06-24"
-  },
-  {
-    "slug": "psicologo-para-academicos",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a acadèmics: el cost emocional d'investigar i ensenyar",
-    "titleES": "Psicólogo para académicos: el coste emocional de investigar y enseñar",
-    "excerptCA": "Doctorands, postdocs i professors universitaris enfronten inseguretat laboral, pressió publicitària i aïllament. Què buscar en un psicòleg que conegui el món acadèmic.",
-    "excerptES": "Doctorandos, postdocs y profesores universitarios enfrentan inseguridad laboral, presión publicitaria y aislamiento. Qué buscar en un psicólogo que conozca el mundo académico.",
-    "datePublished": "2026-07-03"
-  },
-  {
-    "slug": "psicologo-para-cuidadores",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a cuidadors: el desgast de cuidar altres",
-    "titleES": "Psicólogo para cuidadores: el desgaste de cuidar a otros",
-    "excerptCA": "Qui cura un familiar dependent necessita un psicòleg que entengui el seu context. Desgast del cuidador, culpa i què buscar en un professional.",
-    "excerptES": "Quien cuida a un familiar con discapacidad o a un padre mayor necesita un psicólogo que entienda el desgaste del cuidador. Cómo trabajamos con este perfil en Espai Emocions.",
-    "datePublished": "2026-06-28"
-  },
-  {
-    "slug": "psicologo-para-sanitarios",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a sanitaris: com gestionar el desgast professional",
-    "titleES": "Psicólogo para sanitarios: cómo gestionar el desgaste profesional",
-    "excerptCA": "Per què metges, infermeres i dentistes necessiten un psicòleg que entengui el seu context. Desgast per empatia, burnout sanitari i què buscar en un professional.",
-    "excerptES": "Por qué médicos, enfermeras y dentistas necesitan un psicólogo que entienda su contexto. Desgaste por empatía, burnout sanitario y qué buscar en un profesional.",
-    "datePublished": "2026-06-23"
-  },
-  {
-    "slug": "recursos-salud-mental-gratuitos-barcelona",
-    "categoryCA": "Psicologia a Barcelona",
-    "categoryES": "Psicología en Barcelona",
-    "titleCA": "Recursos de salut mental gratuits a Barcelona: guia pràctica",
-    "titleES": "Recursos de salud mental gratuitos en Barcelona: guía práctica",
-    "excerptCA": "On trobar atenció psicològica gratuita o de baix cost a Barcelona: sanitat pública, unitats de salut mental, recursos municipals i associacions sense ànim de lucre.",
-    "excerptES": "Dónde encontrar atención psicológica gratuita o de bajo coste en Barcelona: sanidad pública, unidades de salud mental, recursos municipales y asociaciones sin ánimo de lucro.",
-    "datePublished": "2026-07-01"
-  },
-  {
     "slug": "rumiacion-ansiosa",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
@@ -313,14 +303,34 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-05-01"
   },
   {
-    "slug": "tdah-adultos-como-reconocerlo",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "TDAH en adults: senyals que passen desapercebudes",
-    "titleES": "TDAH en adultos: señales que pasan desapercibidas",
-    "excerptCA": "El TDAH en adults no sempre es diagnostica a la infància. Senyals freqüents, per què passa desapercebut i com s'aborda des de la psicologia a Barcelona.",
-    "excerptES": "El TDAH en adultos no siempre se diagnostica en la infancia. Señales frecuentes, por qué pasa desapercibido y cómo se aborda desde la psicología en Barcelona.",
-    "datePublished": "2026-06-29"
+    "slug": "terapia-parejas-barcelona",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Teràpia de parella a Barcelona: recupera la connexió amb la teva parella",
+    "titleES": "Terapia de Pareja en Barcelona: Recupera la Conexión con tu Pareja",
+    "excerptCA": "Sents que la vostra comunicació s'ha trencat? La teràpia de parella pot ajudar-te a reconstruir el vincle i trobar solucions reals.",
+    "excerptES": "¿Sientes que vuestra comunicación se ha roto? La terapia de pareja puede ayudarte a reconstruir el vínculo y encontrar soluciones reales.",
+    "datePublished": "2026-05-01"
+  },
+  {
+    "slug": "hombres-psicologo-normal",
+    "categoryCA": "Homes",
+    "categoryES": "Hombres",
+    "titleCA": "És normal que un home vagi al psicòleg?",
+    "titleES": "¿Es normal que un hombre vaya al psicólogo?",
+    "excerptCA": "Trencant mites sobre la salut mental masculina. Per què buscar ajuda psicològica és un acte de valentia, no de debilitat. Psicòleg per a homes Barcelona.",
+    "excerptES": "Rompiendo mitos sobre la salud mental masculina. Por qué buscar ayuda psicológica es un acto de valentía, no de debilidad. Psicólogo para hombres Barcelona.",
+    "datePublished": "2026-04-28"
+  },
+  {
+    "slug": "adiccion-pornografia-tratamiento",
+    "categoryCA": "Addiccions",
+    "categoryES": "Adicciones",
+    "titleCA": "Addicció a la pornografia: senyals i tractament",
+    "titleES": "Adicción a la Pornografía: Señales y Tratamiento",
+    "excerptCA": "Com reconèixer quan el consum de pornografia es converteix en un problema i quins passos prendre per recuperar-se. Tractament confidencial a Barcelona.",
+    "excerptES": "Cómo reconocer cuando el consumo de pornografía se convierte en un problema y qué pasos tomar para recuperarse. Tratamiento confidencial en Barcelona.",
+    "datePublished": "2026-04-25"
   },
   {
     "slug": "terapia-humanista-como-funciona",
@@ -333,23 +343,23 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-04-22"
   },
   {
-    "slug": "terapia-online-vs-presencial",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Teràpia online vs presencial: quina et convé més?",
-    "titleES": "Terapia online vs presencial: ¿cuál es mejor para ti?",
-    "excerptCA": "Diferències reals entre teràpia online i presencial: qualitat, preu, confidencialitat i quan triar cadascuna. Guia pràctica per decidir.",
-    "excerptES": "Diferencias reales entre terapia online y presencial: calidad, precio, confidencialidad y cuándo elegir cada una. Guía práctica para decidir.",
-    "datePublished": "2026-06-20"
+    "slug": "precio-psicologo-barcelona",
+    "categoryCA": "Informació",
+    "categoryES": "Info",
+    "titleCA": "Quant costa un psicòleg a Barcelona? Guia 2026",
+    "titleES": "¿Cuánto cuesta un psicólogo en Barcelona? Guía 2026",
+    "excerptCA": "Preus de teràpia psicològica a Barcelona. Què influeix en el cost, rangs de preus, i com triar el psicòleg adequat segons el teu pressupost.",
+    "excerptES": "Precios de terapia psicológica en Barcelona. Qué influye en el coste, rangos de precios, y cómo elegir el psicólogo adecuado según tu presupuesto.",
+    "datePublished": "2026-04-20"
   },
   {
-    "slug": "terapia-parejas-barcelona",
-    "categoryCA": "Parella",
-    "categoryES": "Pareja",
-    "titleCA": "Teràpia de parella a Barcelona: recupera la connexió amb la teva parella",
-    "titleES": "Terapia de Pareja en Barcelona: Recupera la Conexión con tu Pareja",
-    "excerptCA": "Sents que la vostra comunicació s'ha trencat? La teràpia de parella pot ajudar-te a reconstruir el vincle i trobar solucions reals.",
-    "excerptES": "¿Sientes que vuestra comunicación se ha roto? La terapia de pareja puede ayudarte a reconstruir el vínculo y encontrar soluciones reales.",
-    "datePublished": "2026-05-01"
+    "slug": "diferencias-psicologo-psiquiatra",
+    "categoryCA": "General",
+    "categoryES": "General",
+    "titleCA": "Diferències entre Psicòleg i Psiquiatre: quin necessites?",
+    "titleES": "Diferencias entre Psicólogo y Psiquiatra: ¿Cuál necesitas?",
+    "excerptCA": "Una guia clara per entendre les diferències entre psicòleg i psiquiatre, què estudia cadascun, quins tractaments ofereixen i quan cal acudir a cadascun.",
+    "excerptES": "Una guía clara para entender las diferencias entre psicólogo y psiquiatra, qué estudia cada uno, qué tratamientos ofrecen, y cuándo acudir a cada uno.",
+    "datePublished": "2026-04-18"
   }
 ];
