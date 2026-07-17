@@ -2,6 +2,7 @@
 
 import { Reveal } from "@/components/Reveal";
 import { useLanguage } from "@/lib/i18n";
+import { trackCtaClick } from "@/lib/analytics";
 
 export function Enfocament() {
   const { t } = useLanguage();
@@ -46,6 +47,7 @@ export function Enfocament() {
         <Reveal className="text-center mt-12" delay={300}>
           <a
             href="#contacte"
+            onClick={() => trackCtaClick("approach")}
             className="inline-flex items-center rounded-xl bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:brightness-105 transition-all duration-300"
           >
             {t("enfocament.cta")}
