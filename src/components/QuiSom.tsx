@@ -37,6 +37,13 @@ export function QuiSom() {
               <p className="text-sm text-foreground/60 mb-4">
                 {t("quisom.esteve.specs")}
               </p>
+              <CredentialList
+                items={[
+                  t("quisom.esteve.credential1"),
+                  t("quisom.esteve.credential2"),
+                  t("quisom.esteve.credential3"),
+                ]}
+              />
               <p className="text-foreground/70 leading-relaxed max-w-md">
                 {t("quisom.esteve.bio")}
               </p>
@@ -46,7 +53,7 @@ export function QuiSom() {
           {/* Carmen */}
           <Reveal delay={200}>
             <div className="flex flex-col items-center text-center">
-              <div className="w-full max-w-sm aspect-square rounded-2xl overflow-hidden mb-6 shadow-lg">
+              <div className="w-full max-w-sm aspect-[4/3] rounded-2xl overflow-hidden mb-6 shadow-lg">
                 <img
                   src="/images/carmen.webp"
                   alt={t("quisom.carmen.name")}
@@ -57,9 +64,17 @@ export function QuiSom() {
                 {t("quisom.carmen.name")}
               </h3>
               <p className="text-primary text-sm mb-1">{t("quisom.carmen.role")}</p>
-              <p className="text-foreground/50 text-sm mb-4">
+              <p className="text-foreground/50 text-sm mb-4">{t("quisom.carmen.col")}</p>
+              <p className="text-sm text-foreground/60 mb-4">
                 {t("quisom.carmen.specs")}
               </p>
+              <CredentialList
+                items={[
+                  t("quisom.carmen.credential1"),
+                  t("quisom.carmen.credential2"),
+                  t("quisom.carmen.credential3"),
+                ]}
+              />
               <p className="text-foreground/70 leading-relaxed max-w-md">
                 {t("quisom.carmen.bio")}
               </p>
@@ -70,3 +85,16 @@ export function QuiSom() {
     </section>
   );
 }
+
+function CredentialList({ items }: { items: string[] }) {
+  return (
+    <ul className="mb-5 w-full max-w-md divide-y divide-border/50 rounded-2xl bg-muted/40 px-5 text-left">
+      {items.map((item) => (
+        <li key={item} className="py-3 text-sm leading-relaxed text-foreground/75">
+          {item}
+        </li>
+      ))}
+    </ul>
+  );
+}
+
