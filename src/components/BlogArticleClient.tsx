@@ -6,6 +6,7 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { Reveal } from "@/components/Reveal";
 import { useLanguage } from "@/lib/i18n";
+import { trackCtaClick } from "@/lib/analytics";
 import type { ArticleMeta } from "@/lib/article-meta";
 import type { ContentBlock, ArticleContent } from "@/lib/articles";
 
@@ -108,6 +109,7 @@ export function BlogArticleClient({
                 <p className="text-foreground/70 mb-6">{ctaText}</p>
                 <Link
                   href="/#contacte"
+                  onClick={() => trackCtaClick("blog_article")}
                   className="inline-flex items-center rounded-xl bg-primary text-primary-foreground px-8 py-4 text-base font-medium hover:brightness-105 transition-all duration-300"
                 >
                   {lang === "CA" ? "Sol·licita una primera visita" : "Solicita una primera visita"}
