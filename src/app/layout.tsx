@@ -93,7 +93,7 @@ const localBusinessJsonLd = {
     "Centre de psicologia a Sant Pau – Dos de Maig, Barcelona. T'acompanyem a retrobar el teu equilibri emocional, al teu ritme.",
   url: siteUrl,
   image: `${siteUrl}/images/hero-despatx.webp`,
-  telephone: "+34630643243",
+  telephone: "+34614629670",
   email: "eplanaso@gmail.com",
   priceRange: "€€",
   address: {
