@@ -2,6 +2,7 @@
 
 import { useReveal } from "@/hooks/useReveal";
 import { useLanguage } from "@/lib/i18n";
+import { trackCtaClick } from "@/lib/analytics";
 
 export function Hero() {
   const { ref, visible } = useReveal<HTMLDivElement>();
@@ -43,6 +44,7 @@ export function Hero() {
           <div className="flex flex-wrap gap-4">
             <a
               href="#contacte"
+              onClick={() => trackCtaClick("hero")}
               className="inline-block bg-primary text-primary-foreground px-8 py-4 rounded-xl font-medium text-lg hover:brightness-105 transition-all duration-300"
             >
               {t("hero.cta1")}
@@ -54,6 +56,9 @@ export function Hero() {
               {t("hero.cta2")}
             </a>
           </div>
+          <p className="mt-5 max-w-lg text-sm leading-relaxed text-foreground/70">
+            {t("hero.reassurance")}
+          </p>
         </div>
       </div>
     </section>
