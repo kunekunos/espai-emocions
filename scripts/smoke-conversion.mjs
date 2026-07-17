@@ -50,7 +50,7 @@ async function run() {
   const home = await request("/");
   const homeHtml = await home.text();
   assert(home.status === 200, "Inicio responde 200");
-  assert(/wa\.me\/34630643243/.test(homeHtml), "WhatsApp real está disponible");
+  assert(/wa\.me\/34614629670/.test(homeHtml), "WhatsApp real está disponible");
   assert(!/<form[\s>]/i.test(homeHtml), "El formulario permanece desactivado sin configuración legal");
   assert(!/(menos de 24|menys de 24)/i.test(homeHtml), "No se promete respuesta en menos de 24 horas");
 
