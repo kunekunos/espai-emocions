@@ -53,6 +53,7 @@ async function run() {
   assert(/wa\.me\/34614629670/.test(homeHtml), "WhatsApp real está disponible");
   assert(!/<form[\s>]/i.test(homeHtml), "El formulario permanece desactivado sin configuración legal");
   assert(!/(menos de 24|menys de 24)/i.test(homeHtml), "No se promete respuesta en menos de 24 horas");
+  assert(/30 minuts sense cost/i.test(homeHtml), "La conversación informativa reduce la incertidumbre antes del contacto");
 
   const article = await request("/blog/setting-terapeutico-por-que-importa-espacio");
   assert(article.status === 200, "Artículo nuevo responde 200");
