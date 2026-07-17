@@ -5,6 +5,14 @@ type LeadEvent = {
   requestId?: string;
 };
 
+export type CtaPlacement =
+  | "header"
+  | "header_mobile"
+  | "hero"
+  | "services"
+  | "approach"
+  | "blog_article";
+
 declare global {
   interface Window {
     gtag?: (...args: unknown[]) => void;
@@ -30,7 +38,7 @@ export function trackContactClick(channel: "whatsapp" | "phone" | "email") {
 }
 
 
-export function trackCtaClick(placement: "hero") {
+export function trackCtaClick(placement: CtaPlacement) {
   if (typeof window === "undefined") return;
   window.gtag?.("event", "cta_click", {
     placement,
