@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Menu, X, Globe } from "lucide-react";
 import Link from "next/link";
 import { useLanguage } from "@/lib/i18n";
+import { trackCtaClick } from "@/lib/analytics";
 
 export function Navbar() {
   const [open, setOpen] = useState(false);
@@ -46,6 +47,7 @@ export function Navbar() {
           ))}
           <Link
             href="/#contacte"
+            onClick={() => trackCtaClick("header")}
             className="bg-primary text-primary-foreground px-5 py-2.5 rounded-xl text-sm font-medium hover:brightness-105 transition-all duration-300"
           >
             {t("nav.cta")}
@@ -87,7 +89,10 @@ export function Navbar() {
             <Link
               href="/#contacte"
               className="bg-primary text-primary-foreground px-5 py-2.5 rounded-xl text-sm font-medium text-center"
-              onClick={() => setOpen(false)}
+              onClick={() => {
+                trackCtaClick("header_mobile");
+                setOpen(false);
+              }}
             >
               {t("nav.cta")}
             </Link>
