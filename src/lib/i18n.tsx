@@ -27,6 +27,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "hero.subtitle": "No estàs sol/a en això. T'acompanyem a retrobar el teu equilibri emocional, al teu ritme. Psicòlegs a Sant Pau, Barcelona.",
     "hero.cta1": "Sol·licita una primera visita",
     "hero.cta2": "Coneix-nos",
+    "hero.reassurance": "Si ho necessites, abans de començar podem fer una conversa informativa de 30 minuts sense cost.",
     // Qui som
     "quisom.title": "Qui som",
     "quisom.subtitle": "Els dos socis fundadors d'Espai Emocions, el teu centre de psicologia a Sant Pau – Dos de Maig, Barcelona.",
@@ -102,6 +103,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "hero.subtitle": "No estás solo/a en esto. Te acompañamos a recuperar tu equilibrio emocional, a tu ritmo. Psicólogos en Sant Pau, Barcelona.",
     "hero.cta1": "Solicita una primera visita",
     "hero.cta2": "Conócenos",
+    "hero.reassurance": "Si lo necesitas, antes de empezar podemos hacer una conversación informativa de 30 minutos sin coste.",
     // Qui som
     "quisom.title": "Quiénes somos",
     "quisom.subtitle": "Los dos socios fundadores de Espai Emocions, tu centro de psicología en Sant Pau – Dos de Maig, Barcelona.",
