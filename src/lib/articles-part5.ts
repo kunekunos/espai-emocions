@@ -364,7 +364,7 @@ export const articlesPart5: ArticleContent[] = [
       },
       {
         type: "paragraph",
-        text: "Si estàs considerant començar un procés terapèutic i vols conèixer el nostre espai de primera mà, pots sol·licitar una primera sessió a través de la nostra pàgina de contacte. Crec que veure el setting en persona ajuda a decidir si és el lloc adequat per fer aquest treball.",
+        text: "Si estàs considerant començar un procés terapèutic i vols conèixer el nostre espai de primera mà, pots sol·licitar una primera sessió a través de la nostra pàgina de contacte. Creiem que veure el setting en persona ajuda a decidir si és el lloc adequat per fer aquest treball.",
       },
     ],
     blocksES: [
@@ -440,6 +440,264 @@ export const articlesPart5: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si estás considerando empezar un proceso terapéutico y quieres conocer nuestro espacio de primera mano, puedes solicitar una primera sesión a través de nuestra página de contacto. Creemos que ver el setting en persona ayuda a decidir si es el lugar adecuado para hacer este trabajo.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------------------------
+  // 3. seguro-privado-cubre-psicologia-barcelona (Pilar 5: Psicología en Barcelona)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "seguro-privado-cubre-psicologia-barcelona",
+    categoryCA: "Psicologia a Barcelona",
+    categoryES: "Psicología en Barcelona",
+    titleCA: "El segur privat cobreix la psicologia a Barcelona?",
+    titleES: "¿Cubre el seguro privado la psicología en Barcelona?",
+    excerptCA:
+      "Depèn de la pòlissa, però en general la cobertura és limitada: nombre de sessions restringit, psicòlegs d'un quadre tancat i sovint copagament. Aquí expliquem què cobreix realment cada companyia, què has de mirar a la teva pòlissa i quan val la pena anar per via privada.",
+    excerptES:
+      "Depende de la póliza, pero en general la cobertura es limitada: número de sesiones restringido, psicólogos de un cuadro cerrado y a menudo copago. Aquí explicamos qué cubre realmente cada compañía, qué tienes que mirar en tu póliza y cuándo compensa ir por vía privada.",
+    datePublished: "2026-07-17",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La resposta curta és: algunes pòlisses sí, altres no, i gairebé mai amb les condicions que la persona espera. La majoria d'assegurances privades a Espanya ofereixen alguna cobertura de psicologia, però acostuma a ser parcial —nombre de sessions limitat, llista tancada de professionals i, sovint, un copagament per sessió. La cobertura completa i lliure elecció de professional són rares.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: convé mirar la lletra petita de la pòlissa abans de suposar res. Si la cobertura existeix, sol ser útil per començar; si no n'hi ha o és molt limitada, la via privada ofereix més flexibilitat de sessions, elecció de professional i ritme de treball. A Espai Emocions atenem les dues opcions i t'ajudem a valorar què et convé segons el teu cas.",
+      },
+      {
+        type: "heading",
+        text: "Què cobreix realment una pòlissa privada",
+      },
+      {
+        type: "paragraph",
+        text: "Cada companyia —Adeslas, Sanitas, Asisa, Mapfre, Allianz, DKV, entre d'altres— dissenya els seus propis productes, i la cobertura varia fins i tot dins de la mateixa asseguradora segons el nivell de pòlissa contractat. Malgrat aquesta variabilitat, hi ha tres elements que defineixen el rang real de cobertura:",
+      },
+      {
+        type: "list",
+        items: [
+          "Nombre de sessions per any. Moltes pòlisses cobreixen entre 8 i 20 sessions anuals de psicologia. A partir d'aquest límit, la persona assumeix el cost complet. Per a processos de durada mitjana o llarga (ansietat recurrent, dol, dificultats de llarga data), això sol ser insuficient.",
+          "Quadre de professionals. La companyia té una llista tancada de psicòlegs concertats. Per utilitzar la cobertura has d'anar a un d'aquests professionals, no al que tu tries. Això vol dir perdre el control sobre qui t'acompanya —un factor, com vam veure, clau per a l'encaix terapèutic.",
+          "Copagament. Moltes pòlisses no cobreixen el 100% per sessió: apliquen un copagament fix (per exemple, 10-15 €) que la persona paga cada visita. No és molt, però suma en processos llargs.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha, a més, un factor que no sempre s'explica amb claredat: la derivació. En algunes companyies, per accedir a psicologia has de passar primer per la medicina de família de l'asseguradora, que avalua i deriva. Això allarga el temps d'espera i condiciona el motiu de consulta que arribarà al psicòleg.",
+      },
+      {
+        type: "heading",
+        text: "Què has de mirar a la teva pòlissa",
+      },
+      {
+        type: "paragraph",
+        text: "Abans de suposar que la teva assegurança cobreix psicologia, verifica quatre dades al contracte o a l'app de la companyia:",
+      },
+      {
+        type: "list",
+        items: [
+          "Garantia de psicologia. Confirma que la pòlissa la inclou. En els productes bàsics de moltes companyies no ve per defecte; és un complement opcional.",
+          "Límit anual de sessions. Mira el nombre exacte i si es renova per any natural o per any de contracte.",
+          "Quadre mèdic disponible a Barcelona. Comprova quants psicòlegs hi ha a la teva zona i, sobretot, si en queda algun amb places disponibles. En algunes companyies el quadre és tan reduït que les places estan saturades durant mesos.",
+          "Règim de copagament i autorització prèvia. Confirma si has de demanar autorització abans de cada visita i quina quantitat pagues tu per sessió.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Quan compensa usar la cobertura del segur",
+      },
+      {
+        type: "paragraph",
+        text: "Utilitzar la cobertura té sentit en situacions concretes. Si el motiu de consulta és circumscrit —una situació puntual que es pot treballar en 8-12 sessions—, el límit de la pòlissa pot ser suficient i l'estalvi econòmic compensa la pèrdua d'elecció de professional. La cobertura també és útil per fer una primera valoració: algunes companyies ofereixen una o dues sessions d'avaluació que et permeten orientar-te encara que després continuïs per la via privada.",
+      },
+      {
+        type: "paragraph",
+        text: "També pot ser una opció vàlida quan el pressupost és un condicionant ferm i el quadre de la companyia té algun professional disponible a curt termini. En aquest cas, val la pena començar i, si l'encaix no funciona, valorar el canvi dins o fora del quadre.",
+      },
+      {
+        type: "heading",
+        text: "Quan compensa anar per la via privada",
+      },
+      {
+        type: "paragraph",
+        text: "La via privada deixa de tenir sentit per al pressupost, però guanya en tot el demés: elecció de professional, nombre de sessions sense sostre, ritme adaptat al procés i continuïtat garantida. Concretament, recomanem la via privada quan:",
+      },
+      {
+        type: "list",
+        items: [
+          "El motiu de consulta és complex o de llarga durada. Processos com trauma, dificultats de llarga data, problemes de relació o problemes profunds de autoestima solen requerir més de 20 sessions. Cap pòlissa cobrirà aquest recorregut complet.",
+          "Vols triar el teu psicòleg. Si l'encaix et importa —i hauria d'importar-te—, triar tu mateix el professional és el camí. En un centre amb equip com Espai Emocions pots fer una primera sessió i, si cal, canviar dins del mateix centre sense perdre context.",
+          "Necessites flexibilitat d'horari o modalitat. Els professionals del quadre d'asseguradores solen tenir agendas saturades i poca disponibilitat de sessions online o de vespre. La via privada ofereix més marge d'adaptació.",
+          "Vols continuïtat sense interrupcions. Amb la cobertura, quan s'acaba el límit de sessions has de decidir entre pagar tu el 100% amb aquest mateix professional o canviar. La via privada elimina aquest tall.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Com combinar cobertura i via privada",
+      },
+      {
+        type: "paragraph",
+        text: "No és una decisió tot o res. Una estratègia que veiem sovint és començar amb la cobertura del segur per fer la valoració inicial i les primeres sessions, i continuar per la via privada quan el procés requereix més profunditat. Això redueix el cost de les primeres sessions i garanteix, a partir d'un cert punt, llibertat de professional i de ritme.",
+      },
+      {
+        type: "paragraph",
+        text: "Si trieu aquesta via, val la pena portar al primer psicòleg privat un breu resum del que s'ha treballat amb la cobertura —motiu de consulta, sessions fetes, objectius— per no començar en blanc. No cal un informe formal; amb una descripció honesta n'hi ha prou.",
+      },
+      {
+        type: "heading",
+        text: "Què fem a Espai Emocions",
+      },
+      {
+        type: "paragraph",
+        text: "El nostre centre, a Barcelona, treballa principalment per la via privada. Això ens permet oferir el que considerem clínicament necessari: elecció de professional, nombre de sessions sense sostre, continuïtat i flexibilitat de modalitat. Per a persones que tenen cobertura de segur i volen començar amb nosaltres, oferim una primera sessió d'avaluació per orientar el cas i, si convé, planificar la continuïtat per via privada. Pots sol·licitar-la a la nostra pàgina de contacte.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Todas las pólizas de Adeslas, Sanitas o Asisa cubren psicología?",
+            answer:
+              "No. La cobertura depende del producto concreto y del nivel contratado. En muchas aseguradoras la psicología es un complemento opcional o solo está en pólizas medias o altas. Antes de dar por hecho que estás cubierto, revisa la garantía de psicología en tu contrato o en la app de la compañía.",
+          },
+          {
+            question: "¿Puedo ir al psicólogo que yo quiera y que me lo reembolse el seguro?",
+            answer:
+              "Solo en pólizas de reembolso, que son minoritarias y más caras. En la modalidad más común (cuadro médico cerrado) debes elegir entre los psicólogos concertados de la compañía. Si quieres elegir libremente al profesional, la vía privada es la opción que te da ese control.",
+          },
+          {
+            question: "¿Qué pasa si agoto las sesiones que cubre mi seguro y quiero seguir?",
+            answer:
+              "A partir del límite anual de tu póliza, las sesiones adicionales las pagas tú al precio completo del profesional del cuadro. En ese punto suele compensar valorar la vía privada, donde tienes libertad de profesional y no hay techo de sesiones. Muchas personas hacen esta transición sin perder el contexto del trabajo previo.",
+          },
+          {
+            question: "¿La psicología en la sanidad pública de Barcelona es una alternativa real?",
+            answer:
+              "La red pública de salud mental existe y es gratuita, pero el tiempo de espera puede ser de semanas o meses y el seguimiento suele ser breve y orientado a urgencias. Para procesos de profundidad media o larga, la vía privada —con o sin seguro— ofrece mejor continuidad. Puedes leer nuestra comparativa sobre psicología pública vs. privada en Barcelona para decidir.",
+          },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La respuesta corta es: algunas pólizas sí, otras no, y casi nunca en las condiciones que la persona espera. La mayoría de seguros privados en España ofrecen alguna cobertura de psicología, pero suele ser parcial —número de sesiones limitado, lista cerrada de profesionales y, a menudo, un copago por sesión—. La cobertura completa y libre elección de profesional son raras.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: conviene mirar la letra pequeña de la póliza antes de suponer nada. Si la cobertura existe, suele ser útil para empezar; si no la hay o es muy limitada, la vía privada ofrece más flexibilidad de sesiones, elección de profesional y ritmo de trabajo. En Espai Emocions atendemos ambas opciones y te ayudamos a valorar qué te conviene según tu caso.",
+      },
+      {
+        type: "heading",
+        text: "Qué cubre realmente una póliza privada",
+      },
+      {
+        type: "paragraph",
+        text: "Cada compañía —Adeslas, Sanitas, Asisa, Mapfre, Allianz, DKV, entre otras— diseña sus propios productos, y la cobertura varía incluso dentro de la misma aseguradora según el nivel de póliza contratado. A pesar de esta variabilidad, hay tres elementos que definen el rango real de cobertura:",
+      },
+      {
+        type: "list",
+        items: [
+          "Número de sesiones por año. Muchas pólizas cubren entre 8 y 20 sesiones anuales de psicología. A partir de ese límite, la persona asume el coste completo. Para procesos de duración media o larga (ansiedad recurrente, duelo, dificultades de larga data), esto suele ser insuficiente.",
+          "Cuadro de profesionales. La compañía tiene una lista cerrada de psicólogos concertados. Para usar la cobertura tienes que acudir a uno de estos profesionales, no al que tú eliges. Eso significa perder el control sobre quién te acompaña —un factor, como vimos, clave para el encaje terapéutico.",
+          "Copago. Muchas pólizas no cubren el 100% por sesión: aplican un copago fijo (por ejemplo, 10-15 €) que la persona paga en cada visita. No es mucho, pero suma en procesos largos.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Hay, además, un factor que no siempre se explica con claridad: la derivación. En algunas compañías, para acceder a psicología tienes que pasar primero por el médico de familia de la aseguradora, que evalúa y deriva. Esto alarga el tiempo de espera y condiciona el motivo de consulta que llegará al psicólogo.",
+      },
+      {
+        type: "heading",
+        text: "Qué tienes que mirar en tu póliza",
+      },
+      {
+        type: "paragraph",
+        text: "Antes de suponer que tu seguro cubre psicología, verifica cuatro datos en el contrato o en la app de la compañía:",
+      },
+      {
+        type: "list",
+        items: [
+          "Garantía de psicología. Confirma que la póliza la incluye. En los productos básicos de muchas compañías no viene por defecto; es un complemento opcional.",
+          "Límite anual de sesiones. Mira el número exacto y si se renueva por año natural o por año de contrato.",
+          "Cuadro médico disponible en Barcelona. Comprueba cuántos psicólogos hay en tu zona y, sobre todo, si queda alguno con plazas disponibles. En algunas compañías el cuadro es tan reducido que las plazas están saturadas durante meses.",
+          "Régimen de copago y autorización previa. Confirma si tienes que pedir autorización antes de cada visita y qué cantidad pagas tú por sesión.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Cuándo compensa usar la cobertura del seguro",
+      },
+      {
+        type: "paragraph",
+        text: "Usar la cobertura tiene sentido en situaciones concretas. Si el motivo de consulta es circunscrito —una situación puntual que se puede trabajar en 8-12 sesiones—, el límite de la póliza puede ser suficiente y el ahorro económico compensa la pérdida de elección de profesional. La cobertura también es útil para hacer una primera valoración: algunas compañías ofrecen una o dos sesiones de evaluación que te permiten orientarte aunque luego sigas por la vía privada.",
+      },
+      {
+        type: "paragraph",
+        text: "También puede ser una opción válida cuando el presupuesto es un condicionante firme y el cuadro de la compañía tiene algún profesional disponible a corto plazo. En ese caso, vale la pena empezar y, si el encaje no funciona, valorar el cambio dentro o fuera del cuadro.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo compensa ir por la vía privada",
+      },
+      {
+        type: "paragraph",
+        text: "La vía privada pierde sentido para el bolsillo, pero gana en todo lo demás: elección de profesional, número de sesiones sin techo, ritmo adaptado al proceso y continuidad garantizada. Concretamente, recomendamos la vía privada cuando:",
+      },
+      {
+        type: "list",
+        items: [
+          "El motivo de consulta es complejo o de larga duración. Procesos como trauma, dificultades de larga data, problemas de relación o problemas profundos de autoestima suelen requerir más de 20 sesiones. Ninguna póliza cubrirá ese recorrido completo.",
+          "Quieres elegir a tu psicólogo. Si el encaje te importa —y debería importarte—, elegir tú mismo al profesional es el camino. En un centro con equipo como Espai Emocions puedes hacer una primera sesión y, si hace falta, cambiar dentro del mismo centro sin perder contexto.",
+          "Necesitas flexibilidad de horario o modalidad. Los profesionales del cuadro de aseguradoras suelen tener agendas saturadas y poca disponibilidad de sesiones online o de tarde. La vía privada ofrece más margen de adaptación.",
+          "Quieres continuidad sin interrupciones. Con la cobertura, cuando se acaba el límite de sesiones tienes que decidir entre pagar tú el 100% con ese mismo profesional o cambiar. La vía privada elimina ese corte.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Cómo combinar cobertura y vía privada",
+      },
+      {
+        type: "paragraph",
+        text: "No es una decisión todo o nada. Una estrategia que vemos a menudo es empezar con la cobertura del seguro para hacer la valoración inicial y las primeras sesiones, y continuar por la vía privada cuando el proceso requiere más profundidad. Esto reduce el coste de las primeras sesiones y garantiza, a partir de cierto punto, libertad de profesional y de ritmo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si eliges esta vía, vale la pena llevar al primer psicólogo privado un breve resumen de lo que se ha trabajado con la cobertura —motivo de consulta, sesiones hechas, objetivos— para no empezar en blanco. No hace falta un informe formal; con una descripción honesta basta.",
+      },
+      {
+        type: "heading",
+        text: "Qué hacemos en Espai Emocions",
+      },
+      {
+        type: "paragraph",
+        text: "Nuestro centro, en Barcelona, trabaja principalmente por la vía privada. Esto nos permite ofrecer lo que consideramos clínicamente necesario: elección de profesional, número de sesiones sin techo, continuidad y flexibilidad de modalidad. Para personas que tienen cobertura de seguro y quieren empezar con nosotros, ofrecemos una primera sesión de evaluación para orientar el caso y, si conviene, planificar la continuidad por vía privada. Puedes solicitarla en nuestra página de contacto.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Todas las pólizas de Adeslas, Sanitas o Asisa cubren psicología?",
+            answer:
+              "No. La cobertura depende del producto concreto y del nivel contratado. En muchas aseguradoras la psicología es un complemento opcional o solo está en pólizas medias o altas. Antes de dar por hecho que estás cubierto, revisa la garantía de psicología en tu contrato o en la app de la compañía.",
+          },
+          {
+            question: "¿Puedo ir al psicólogo que yo quiera y que me lo reembolse el seguro?",
+            answer:
+              "Solo en pólizas de reembolso, que son minoritarias y más caras. En la modalidad más común (cuadro médico cerrado) debes elegir entre los psicólogos concertados de la compañía. Si quieres elegir libremente al profesional, la vía privada es la opción que te da ese control.",
+          },
+          {
+            question: "¿Qué pasa si agoto las sesiones que cubre mi seguro y quiero seguir?",
+            answer:
+              "A partir del límite anual de tu póliza, las sesiones adicionales las pagas tú al precio completo del profesional del cuadro. En ese punto suele compensar valorar la vía privada, donde tienes libertad de profesional y no hay techo de sesiones. Muchas personas hacen esta transición sin perder el contexto del trabajo previo.",
+          },
+          {
+            question: "¿La psicología en la sanidad pública de Barcelona es una alternativa real?",
+            answer:
+              "La red pública de salud mental existe y es gratuita, pero el tiempo de espera puede ser de semanas o meses y el seguimiento suele ser breve y orientado a urgencias. Para procesos de profundidad media o larga, la vía privada —con o sin seguro— ofrece mejor continuidad. Puedes leer nuestra comparativa sobre psicología pública vs. privada en Barcelona para decidir.",
+          },
+        ],
       },
     ],
   },
