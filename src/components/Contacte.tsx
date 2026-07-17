@@ -143,7 +143,7 @@ export function Contacte() {
 
   useEffect(() => setAcquisition(captureAcquisition()), []);
 
-  const whatsappUrl = `https://wa.me/34630643243?text=${encodeURIComponent(copy.whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/34614629670?text=${encodeURIComponent(copy.whatsappMessage)}`;
   const inputClass = "w-full rounded-xl border border-border bg-background px-5 py-3.5 text-foreground focus:outline-none focus:border-primary focus:ring-1 focus:ring-primary transition-colors";
 
   function update<K extends keyof FormState>(key: K, value: FormState[K]) {
@@ -249,7 +249,7 @@ export function Contacte() {
                   <a href={whatsappUrl} onClick={() => trackContactClick("whatsapp")} className="flex items-center justify-center gap-2 rounded-xl bg-primary px-6 py-3.5 font-medium text-primary-foreground transition-all hover:brightness-105">
                     <MessageCircle className="size-5" />{copy.whatsapp}
                   </a>
-                  <a href="tel:+34630643243" onClick={() => trackContactClick("phone")} className="flex items-center justify-center gap-2 rounded-xl border border-primary px-6 py-3.5 font-medium text-primary transition-colors hover:bg-primary/10">
+                  <a href="tel:+34614629670" onClick={() => trackContactClick("phone")} className="flex items-center justify-center gap-2 rounded-xl border border-primary px-6 py-3.5 font-medium text-primary transition-colors hover:bg-primary/10">
                     <Phone className="size-5" />{copy.call}
                   </a>
                   <a href="mailto:eplanaso@gmail.com" onClick={() => trackContactClick("email")} className="flex items-center justify-center gap-2 px-6 py-2 text-sm font-medium text-foreground/70 transition-colors hover:text-primary">
@@ -265,10 +265,10 @@ export function Contacte() {
               <p>{t("contacte.adress.value")}<br />{t("contacte.adress.city")}</p>
             </ContactItem>
             <ContactItem icon={<MessageCircle className="size-5 text-primary" />} title="WhatsApp">
-              <a href={whatsappUrl} onClick={() => trackContactClick("whatsapp")} className="hover:text-primary">+34 630 643 243</a>
+              <a href={whatsappUrl} onClick={() => trackContactClick("whatsapp")} className="hover:text-primary">+34 614 629 670</a>
             </ContactItem>
             <ContactItem icon={<Phone className="size-5 text-primary" />} title={t("contacte.phone.title")}>
-              <a href="tel:+34630643243" onClick={() => trackContactClick("phone")} className="hover:text-primary">+34 630 643 243</a>
+              <a href="tel:+34614629670" onClick={() => trackContactClick("phone")} className="hover:text-primary">+34 614 629 670</a>
             </ContactItem>
             <ContactItem icon={<Mail className="size-5 text-primary" />} title={t("contacte.email.title")}>
               <a href="mailto:eplanaso@gmail.com" onClick={() => trackContactClick("email")} className="hover:text-primary">eplanaso@gmail.com</a>
