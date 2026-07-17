@@ -86,6 +86,21 @@ async function run() {
   assert(sitemapXml.includes("setting-terapeutico-por-que-importa-espacio"), "Sitemap incluye artículos nuevos");
   assert(sitemapXml.includes("seguro-privado-cubre-psicologia-barcelona"), "Sitemap conserva el artículo añadido en main");
   assert(!sitemapXml.includes("psicologo-para-mayores"), "Sitemap excluye el slug antiguo");
+
+
+  const instagramEntry = await request("/instagram", { redirect: "manual" });
+  assert(instagramEntry.status === 307, "Instagram redirige temporalmente");
+  assert(
+    /utm_source=instagram.*utm_campaign=profile/.test(instagramEntry.headers.get("location") ?? ""),
+    "Instagram conserva la atribución UTM",
+  );
+
+  const youtubeEntry = await request("/youtube", { redirect: "manual" });
+  assert(youtubeEntry.status === 307, "YouTube redirige temporalmente");
+  assert(
+    /utm_source=youtube.*utm_campaign=channel/.test(youtubeEntry.headers.get("location") ?? ""),
+    "YouTube conserva la atribución UTM",
+  );
 }
 
 try {
