@@ -1,7 +1,7 @@
 "use client";
 
 import { FormEvent, useEffect, useState } from "react";
-import { Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
+import { Check, Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import { useLanguage } from "@/lib/i18n";
 import { trackContactClick, trackGenerateLead } from "@/lib/analytics";
 
@@ -70,6 +70,12 @@ const COPY = {
     error: "No hem pogut enviar la sol·licitud. Torna-ho a provar o contacta amb el centre per WhatsApp o telèfon.",
     chooseChannel: "Tria com prefereixes contactar-nos",
     chooseChannelText: "La Carmen o l'Esteve atendran personalment la teva consulta.",
+    reassuranceTitle: "Pots començar sense tenir-ho tot clar",
+    reassuranceItems: [
+      "Conversa informativa de 30 minuts sense cost, si la necessites.",
+      "La Carmen o l'Esteve t'atendran personalment.",
+      "Sessions presencials a Barcelona o online.",
+    ],
     whatsapp: "Escriu-nos per WhatsApp",
     call: "Truca'ns",
     write: "Escriu-nos per correu",
@@ -96,6 +102,12 @@ const COPY = {
     error: "No hemos podido enviar la solicitud. Inténtalo de nuevo o contacta con el centro por WhatsApp o teléfono.",
     chooseChannel: "Elige cómo prefieres contactarnos",
     chooseChannelText: "Carmen o Esteve atenderán personalmente tu consulta.",
+    reassuranceTitle: "Puedes empezar sin tenerlo todo claro",
+    reassuranceItems: [
+      "Conversación informativa de 30 minutos sin coste, si la necesitas.",
+      "Carmen o Esteve te atenderán personalmente.",
+      "Sesiones presenciales en Barcelona u online.",
+    ],
     whatsapp: "Escríbenos por WhatsApp",
     call: "Llámanos",
     write: "Escríbenos por correo",
@@ -183,6 +195,17 @@ export function Contacte() {
 
         <div className="grid md:grid-cols-2 gap-12">
           <div>
+            <div className="mb-6 rounded-2xl bg-primary/8 p-5 sm:p-6">
+              <p className="font-heading text-xl text-foreground">{copy.reassuranceTitle}</p>
+              <ul className="mt-4 space-y-3">
+                {copy.reassuranceItems.map((item) => (
+                  <li key={item} className="flex items-start gap-3 text-sm leading-relaxed text-foreground/75">
+                    <Check className="mt-0.5 size-4 shrink-0 text-primary" aria-hidden="true" />
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
             {formEnabled ? (
               <form onSubmit={handleSubmit} className="space-y-5">
                 <p className="text-sm leading-relaxed text-foreground/70">{copy.intro}</p>
