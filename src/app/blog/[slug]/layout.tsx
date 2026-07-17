@@ -1,11 +1,5 @@
 import type { Metadata } from "next";
-import { articles } from "@/lib/articles";
-import { articlesPart2 } from "@/lib/articles-part2";
-import { articlesPart3 } from "@/lib/articles-part3";
-import { articlesPart4 } from "@/lib/articles-part4";
-import { articlesPart5 } from "@/lib/articles-part5";
-
-const allArticles = [...articles, ...articlesPart2, ...articlesPart3, ...articlesPart4, ...articlesPart5];
+import { allArticles } from "@/lib/all-articles";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -15,7 +9,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!article) {
     return {
-      title: "Article no trobat",
+      title: "Página no encontrada",
+      robots: { index: false, follow: false },
     };
   }
 

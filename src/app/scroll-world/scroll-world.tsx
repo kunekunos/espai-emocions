@@ -322,7 +322,7 @@ export default function ScrollWorld() {
         <section className="scene-section" data-scene="3">
           <div className="scene-content">
             <div className="eyebrow">Després de la sessió</div>
-            <h2 className="headline">I els pensaments s'ordenen</h2>
+            <h2 className="headline">I els pensaments s&apos;ordenen</h2>
             <p className="body-text">
               Surts per la porta i el cap pesa una mica menys. Els fils
               embolicats troben el seu lloc. No és màgia, és psicologia. Un pas

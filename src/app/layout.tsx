@@ -1,18 +1,22 @@
 import type { Metadata } from "next";
-import { Instrument_Sans, Fraunces } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import { LanguageProvider } from "@/lib/i18n";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 
-const instrumentSans = Instrument_Sans({
+const instrumentSans = localFont({
+  src: "./fonts/InstrumentSans-latin.woff2",
   variable: "--font-instrument-sans",
-  subsets: ["latin"],
+  weight: "400 700",
+  style: "normal",
   display: "swap",
 });
 
-const fraunces = Fraunces({
+const fraunces = localFont({
+  src: "./fonts/Fraunces-latin.woff2",
   variable: "--font-fraunces",
-  subsets: ["latin"],
+  weight: "100 900",
+  style: "normal",
   display: "swap",
 });
 
