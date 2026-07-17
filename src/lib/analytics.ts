@@ -29,3 +29,11 @@ export function trackContactClick(channel: "whatsapp" | "phone" | "email") {
   });
 }
 
+
+export function trackCtaClick(placement: "hero") {
+  if (typeof window === "undefined") return;
+  window.gtag?.("event", "cta_click", {
+    placement,
+    destination: "contact_section",
+  });
+}
