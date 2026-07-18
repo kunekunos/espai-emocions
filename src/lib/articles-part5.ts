@@ -5,7 +5,213 @@ import type { ArticleContent } from "./articles";
 
 export const articlesPart5: ArticleContent[] = [
   // ---------------------------------------------------------------------------
-  // 1. cambiar-psicologo-no-encajo (Pilar 1: ¿Cómo funciona la terapia?)
+  // 1. cuanto-dura-una-terapia (Pilar 1: ¿Cómo funciona la terapia?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "cuanto-dura-una-terapia",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "Quant dura una teràpia? Factors que determinen el nombre de sessions",
+    titleES: "¿Cuánto dura una terapia? Factores que determinan el número de sesiones",
+    excerptCA:
+      "No hi ha una resposta única. La durada d'una teràpia depèn del motiu de consulta, la profunditat del treball, la freqüència de les sessions i l'evolució de cada persona. Aquí expliquem quins rangs són habituals, què marca la diferència entre un procés breu i un de llarg, i quan té sentit plantejar l'alta.",
+    excerptES:
+      "No hay una respuesta única. La duración de una terapia depende del motivo de consulta, la profundidad del trabajo, la frecuencia de las sesiones y la evolución de cada persona. Aquí explicamos qué rangos son habituales, qué marca la diferencia entre un proceso breve y uno largo, y cuándo tiene sentido plantear el alta.",
+    datePublished: "2026-07-18",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "No hi ha una resposta única a la pregunta de quant dura una teràpia. Depèn del motiu de consulta, de la profunditat del treball que es vulgui fer, de la freqüència de les sessions i de l'evolució de cada persona. Donar un número tancat abans de començar és enganyós: el procés es va ajustant a mesura que avança.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: una teràpia breu pot durar entre 8 i 20 sessions (uns 2-5 mesos), una teràpia de profunditat mitjana entre 6 i 12 mesos, i un procés llarg o de creixement personal pot estendre's més enllà d'un any. Aquests rangs són orientatius. El que determina realment la durada no és un calendari, sinó si el procés segueix sent útil.",
+      },
+      {
+        type: "heading",
+        text: "Per què no es pot dir un nombre de sessions abans de començar",
+      },
+      {
+        type: "paragraph",
+        text: "Quan algú ens pregunta quant durarà la seva teràpia, la resposta honesta és: \"ho sabrem millor a partir de la tercera o quarta sessió\". La primera entrevista recull el motiu de consulta i formula una hipòtesi de treball, però no permet preveure amb precisió quant de temps caldrà. La velocitat de canvi depèn de factors que només es veuen un cop el procés està en marxa: la motivació real, el suport extern, la implicació entre sessions, la complexitat del que hi ha darrere del símptoma.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això, els professionals seriosos no comprometen un nombre tancat de sessions en la primera visita. Qui ofereix \"curar la teva ansietat en 5 sessions\" està venent una promesa que la clínica no pot sostendre. La teràpia no és un procés industrial: és un acompanyament adaptat a una persona concreta.",
+      },
+      {
+        type: "heading",
+        text: "Rangs orientatius segons el tipus de procés",
+      },
+      {
+        type: "paragraph",
+        text: "Encara que no hi hagi xifres tancades, sí que existeixen rangs raonables segons el que es treballa. Aquests són els més habituals en la nostra pràctica clínica:",
+      },
+      {
+        type: "list",
+        items: [
+          "Procés breu (8-20 sessions, 2-5 mesos): adequat per a dificultats puntuals —una situació estressant concreta, una pèrdua recent, un canvi difícil d'assumir— on l'objectiu és entendre el que passa, recuperar recursos i tornar al funcionament habitual.",
+          "Procés de profunditat mitjana (20-50 sessions, 6-12 mesos): adequat quan el que porta la persona té arrels més llargues —patrons de relació repetitius, dificultats d'autoestima de fa anys, reaccions emocionals que no acaben de comprendre's— i cal treballar tant el símptoma com el que hi ha sota.",
+          "Procés llarg o de creixement (més de 50 sessions, més d'un any): adequat per a processos de canvi profund de personalitat, histories complexes o treball sostenut de creixement personal. La durada aquí no és un problema a resoldre: és la condició perquè el canvi arribi a on ha d'arribar.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Aquests rangs no són categories tancades. Una teràpia que comença com a breu pot, a mesura que avança, revelar que convé anar més fons. I una teràpia de profunditat pot, un cop resolt el nucli del problema, convertir-se en un seguiment puntual cada mes o cada trimestre.",
+      },
+      {
+        type: "heading",
+        text: "Quins factors allarguen o escurcen el procés",
+      },
+      {
+        type: "paragraph",
+        text: "Més enllà del motiu de consulta, hi ha factors pràctics que canvien molt la durada real d'una teràpia:",
+      },
+      {
+        type: "list",
+        items: [
+          "Freqüència de sessions. La teràpia setmanal és el ritme estàndard i el que millor sosté el procés. Anar cada dues setmanes alenteix; anar un cop al mes converteix la teràpia en un seguiment, no un treball actiu.",
+          "Implicació entre sessions. La teràpia no es fa a la consulta: es fa a la vida. Qui reflexiona, prova el que s'ha parlat i observa el que passa entre sessió i sessió avança més ràpid que qui deixa tot el treball per a la següent visita.",
+          "Suport extern. Tenir una xarxa d'amistat, família o parella que acompanya el procés facilita el canvi. Qui està molt aïllat necessita sovint més temps, perquè la teràpia ha de cobrir també part d'aquest espai.",
+          "Complexitat del context. Una situació laboral tòxica, un entorn familiar advers o una crisi financera sostenida pot allargar el procés, no perquè la teràpia vagi malament, sinó perquè el context genera pressió constant.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Quan té sentit plantejar l'alta",
+      },
+      {
+        type: "paragraph",
+        text: "L'alta no és un tall sobtat. És una decisió compartida que es va preparant. Tenim clar que un procés està arribant al seu punt natural d'alta quan:",
+      },
+      {
+        type: "list",
+        items: [
+          "El motiu de consulta inicial s'ha resolt o ha perdut pes. Allò que portava la persona ja no li resta qualitat de vida de forma significativa.",
+          "La persona ha incorporat els recursos. No només se sent millor: sap què fer quan el símptoma o la situació reapareix, i ho prova abans de demanar ajuda.",
+          "Es pot espaiar les sessions sense perdre el treball. Anar de setmanal a quinzenal, i després a mensual, és un bon test: si el canvi se sosté, el procés està madur per tancar.",
+          "Hi ha una sensació compartida de tancament. Tant la persona com el professional perceben que el que calia treballar s'ha treballat.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Quan aquests elements coincideixen, proposem espaiar les sessions i planificar l'alta de forma gradual. Si mesos després reapareix el motiu de consulta o n'apareix un de nou, la porta queda oberta: sovint basta unes poques sessions de revisió perquè la persona retrobi el treball fet.",
+      },
+      {
+        type: "heading",
+        text: "Una distinció útil: teràpia curta no és teràpia incompleta",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una idea estesa que \"una bona teràpia ha de durar anys\". No és cert. Una teràpia breu, ben feta, pot ser tan vàlida com una de llarga si resol el que es proposava resoldre. El que defineix una bona teràpia no és la durada, sinó si el procés ha permès a la persona entendre's, recuperar recursos i viure amb menys sofriment i més llibertat.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això, a Espai Emocions no allarguem els processos. Avaluem amb cada persona, cada cert temps, si la teràpia segueix sent útil i cap a on va. Si ja no ho és, proposem tancar. Si cal més temps, l'expliquem i el treballem. L'objectiu no és omplir sessions: és que la persona se surti millor de com va entrar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si tens dubtes sobre quant podria durar el teu procés concret, el més útil és fer una primera sessió d'avaluació. Amb la informació del teu motiu de consulta, el professional podrà donar-te una estimació molt més ajustada que cap generalitat. Pots sol·licitar-la a la nostra pàgina de contacte.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "No hay una respuesta única a la pregunta de cuánto dura una terapia. Depende del motivo de consulta, de la profundidad del trabajo que se quiera hacer, de la frecuencia de las sesiones y de la evolución de cada persona. Dar un número cerrado antes de empezar es engañoso: el proceso se va ajustando a medida que avanza.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: una terapia breve puede durar entre 8 y 20 sesiones (unos 2-5 meses), una terapia de profundidad media entre 6 y 12 meses, y un proceso largo o de crecimiento personal puede extenderse más allá de un año. Estos rangos son orientativos. Lo que determina realmente la duración no es un calendario, sino si el proceso sigue siendo útil.",
+      },
+      {
+        type: "heading",
+        text: "Por qué no se puede decir un número de sesiones antes de empezar",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando alguien nos pregunta cuánto durará su terapia, la respuesta honesta es: \"lo sabremos mejor a partir de la tercera o cuarta sesión\". La primera entrevista recoge el motivo de consulta y formula una hipótesis de trabajo, pero no permite prever con precisión cuánto tiempo hará falta. La velocidad de cambio depende de factores que solo se ven una vez el proceso está en marcha: la motivación real, el apoyo externo, la implicación entre sesiones, la complejidad de lo que hay detrás del síntoma.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso, los profesionales serios no comprometen un número cerrado de sesiones en la primera visita. Quien ofrece \"curar tu ansiedad en 5 sesiones\" está vendiendo una promesa que la clínica no puede sostener. La terapia no es un proceso industrial: es un acompañamiento adaptado a una persona concreta.",
+      },
+      {
+        type: "heading",
+        text: "Rangos orientativos según el tipo de proceso",
+      },
+      {
+        type: "paragraph",
+        text: "Aunque no haya cifras cerradas, sí existen rangos razonables según lo que se trabaja. Estos son los más habituales en nuestra práctica clínica:",
+      },
+      {
+        type: "list",
+        items: [
+          "Proceso breve (8-20 sesiones, 2-5 meses): adecuado para dificultades puntuales —una situación estresante concreta, una pérdida reciente, un cambio difícil de asumir— donde el objetivo es entender lo que pasa, recuperar recursos y volver al funcionamiento habitual.",
+          "Proceso de profundidad media (20-50 sesiones, 6-12 meses): adecuado cuando lo que trae la persona tiene raíces más largas —patrones de relación repetitivos, dificultades de autoestima de hace años, reacciones emocionales que no terminan de comprenderse— y hay que trabajar tanto el síntoma como lo que hay debajo.",
+          "Proceso largo o de crecimiento (más de 50 sesiones, más de un año): adecuado para procesos de cambio profundo de personalidad, historias complejas o trabajo sostenido de crecimiento personal. La duración aquí no es un problema a resolver: es la condición para que el cambio llegue a donde tiene que llegar.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Estos rangos no son categorías cerradas. Una terapia que empieza como breve puede, a medida que avanza, revelar que conviene ir más hondo. Y una terapia de profundidad puede, una vez resuelto el núcleo del problema, convertirse en un seguimiento puntual cada mes o cada trimestre.",
+      },
+      {
+        type: "heading",
+        text: "Qué factores alargan o acortan el proceso",
+      },
+      {
+        type: "paragraph",
+        text: "Más allá del motivo de consulta, hay factores prácticos que cambian mucho la duración real de una terapia:",
+      },
+      {
+        type: "list",
+        items: [
+          "Frecuencia de sesiones. La terapia semanal es el ritmo estándar y el que mejor sostiene el proceso. Ir cada dos semanas ralentiza; ir una vez al mes convierte la terapia en un seguimiento, no un trabajo activo.",
+          "Implicación entre sesiones. La terapia no se hace en la consulta: se hace en la vida. Quien reflexiona, prueba lo que se ha hablado y observa lo que pasa entre sesión y sesión avanza más rápido que quien deja todo el trabajo para la siguiente visita.",
+          "Apoyo externo. Tener una red de amistad, familia o pareja que acompaña el proceso facilita el cambio. Quien está muy aislado necesita a menudo más tiempo, porque la terapia tiene que cubrir también parte de ese espacio.",
+          "Complejidad del contexto. Una situación laboral tóxica, un entorno familiar adverso o una crisis financiera sostenida puede alargar el proceso, no porque la terapia vaya mal, sino porque el contexto genera presión constante.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Cuándo tiene sentido plantear el alta",
+      },
+      {
+        type: "paragraph",
+        text: "El alta no es un corte súbito. Es una decisión compartida que se va preparando. Tenemos claro que un proceso está llegando a su punto natural de alta cuando:",
+      },
+      {
+        type: "list",
+        items: [
+          "El motivo de consulta inicial se ha resuelto o ha perdido peso. Aquello que traía la persona ya no le resta calidad de vida de forma significativa.",
+          "La persona ha incorporado los recursos. No solo se siente mejor: sabe qué hacer cuando el síntoma o la situación reaparece, y lo prueba antes de pedir ayuda.",
+          "Se pueden espaciar las sesiones sin perder el trabajo. Pasar de semanal a quincenal, y luego a mensual, es un buen test: si el cambio se sostiene, el proceso está maduro para cerrar.",
+          "Hay una sensación compartida de cierre. Tanto la persona como el profesional perciben que lo que había que trabajar se ha trabajado.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Cuando estos elementos coinciden, proponemos espaciar las sesiones y planificar el alta de forma gradual. Si meses después reaparece el motivo de consulta o aparece uno nuevo, la puerta queda abierta: a menudo bastan unas pocas sesiones de repaso para que la persona recupere el trabajo hecho.",
+      },
+      {
+        type: "heading",
+        text: "Una distinción útil: terapia corta no es terapia incompleta",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una idea extendida de que \"una buena terapia debe durar años\". No es cierto. Una terapia breve, bien hecha, puede ser tan válida como una larga si resuelve lo que se proponía resolver. Lo que define una buena terapia no es la duración, sino si el proceso ha permitido a la persona entenderse, recuperar recursos y vivir con menos sufrimiento y más libertad.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso, en Espai Emocions no alargamos los procesos. Evaluamos con cada persona, cada cierto tiempo, si la terapia sigue siendo útil y hacia dónde va. Si ya no lo es, proponemos cerrar. Si hace falta más tiempo, lo explicamos y lo trabajamos. El objetivo no es llenar sesiones: es que la persona salga mejor de como entró.",
+      },
+      {
+        type: "paragraph",
+        text: "Si tienes dudas sobre cuánto podría durar tu proceso concreto, lo más útil es hacer una primera sesión de evaluación. Con la información de tu motivo de consulta, el profesional podrá darte una estimación mucho más ajustada que cualquier generalidad. Puedes solicitarla en nuestra página de /contacto.",
+      },
+    ],
+  },
+  // ---------------------------------------------------------------------------
   // ---------------------------------------------------------------------------
   {
     slug: "cambiar-psicologo-no-encajo",
