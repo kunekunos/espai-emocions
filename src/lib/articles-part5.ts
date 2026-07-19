@@ -5,213 +5,7 @@ import type { ArticleContent } from "./articles";
 
 export const articlesPart5: ArticleContent[] = [
   // ---------------------------------------------------------------------------
-  // 1. cuanto-dura-una-terapia (Pilar 1: ¿Cómo funciona la terapia?)
-  // ---------------------------------------------------------------------------
-  {
-    slug: "cuanto-dura-una-terapia",
-    categoryCA: "Com funciona la teràpia",
-    categoryES: "Cómo funciona la terapia",
-    titleCA: "Quant dura una teràpia? Factors que determinen el nombre de sessions",
-    titleES: "¿Cuánto dura una terapia? Factores que determinan el número de sesiones",
-    excerptCA:
-      "No hi ha una resposta única. La durada d'una teràpia depèn del motiu de consulta, la profunditat del treball, la freqüència de les sessions i l'evolució de cada persona. Aquí expliquem quins rangs són habituals, què marca la diferència entre un procés breu i un de llarg, i quan té sentit plantejar l'alta.",
-    excerptES:
-      "No hay una respuesta única. La duración de una terapia depende del motivo de consulta, la profundidad del trabajo, la frecuencia de las sesiones y la evolución de cada persona. Aquí explicamos qué rangos son habituales, qué marca la diferencia entre un proceso breve y uno largo, y cuándo tiene sentido plantear el alta.",
-    datePublished: "2026-07-18",
-    blocksCA: [
-      {
-        type: "paragraph",
-        text: "No hi ha una resposta única a la pregunta de quant dura una teràpia. Depèn del motiu de consulta, de la profunditat del treball que es vulgui fer, de la freqüència de les sessions i de l'evolució de cada persona. Donar un número tancat abans de començar és enganyós: el procés es va ajustant a mesura que avança.",
-      },
-      {
-        type: "paragraph",
-        text: "Resum de la resposta: una teràpia breu pot durar entre 8 i 20 sessions (uns 2-5 mesos), una teràpia de profunditat mitjana entre 6 i 12 mesos, i un procés llarg o de creixement personal pot estendre's més enllà d'un any. Aquests rangs són orientatius. El que determina realment la durada no és un calendari, sinó si el procés segueix sent útil.",
-      },
-      {
-        type: "heading",
-        text: "Per què no es pot dir un nombre de sessions abans de començar",
-      },
-      {
-        type: "paragraph",
-        text: "Quan algú ens pregunta quant durarà la seva teràpia, la resposta honesta és: \"ho sabrem millor a partir de la tercera o quarta sessió\". La primera entrevista recull el motiu de consulta i formula una hipòtesi de treball, però no permet preveure amb precisió quant de temps caldrà. La velocitat de canvi depèn de factors que només es veuen un cop el procés està en marxa: la motivació real, el suport extern, la implicació entre sessions, la complexitat del que hi ha darrere del símptoma.",
-      },
-      {
-        type: "paragraph",
-        text: "Per això, els professionals seriosos no comprometen un nombre tancat de sessions en la primera visita. Qui ofereix \"curar la teva ansietat en 5 sessions\" està venent una promesa que la clínica no pot sostendre. La teràpia no és un procés industrial: és un acompanyament adaptat a una persona concreta.",
-      },
-      {
-        type: "heading",
-        text: "Rangs orientatius segons el tipus de procés",
-      },
-      {
-        type: "paragraph",
-        text: "Encara que no hi hagi xifres tancades, sí que existeixen rangs raonables segons el que es treballa. Aquests són els més habituals en la nostra pràctica clínica:",
-      },
-      {
-        type: "list",
-        items: [
-          "Procés breu (8-20 sessions, 2-5 mesos): adequat per a dificultats puntuals —una situació estressant concreta, una pèrdua recent, un canvi difícil d'assumir— on l'objectiu és entendre el que passa, recuperar recursos i tornar al funcionament habitual.",
-          "Procés de profunditat mitjana (20-50 sessions, 6-12 mesos): adequat quan el que porta la persona té arrels més llargues —patrons de relació repetitius, dificultats d'autoestima de fa anys, reaccions emocionals que no acaben de comprendre's— i cal treballar tant el símptoma com el que hi ha sota.",
-          "Procés llarg o de creixement (més de 50 sessions, més d'un any): adequat per a processos de canvi profund de personalitat, histories complexes o treball sostenut de creixement personal. La durada aquí no és un problema a resoldre: és la condició perquè el canvi arribi a on ha d'arribar.",
-        ],
-      },
-      {
-        type: "paragraph",
-        text: "Aquests rangs no són categories tancades. Una teràpia que comença com a breu pot, a mesura que avança, revelar que convé anar més fons. I una teràpia de profunditat pot, un cop resolt el nucli del problema, convertir-se en un seguiment puntual cada mes o cada trimestre.",
-      },
-      {
-        type: "heading",
-        text: "Quins factors allarguen o escurcen el procés",
-      },
-      {
-        type: "paragraph",
-        text: "Més enllà del motiu de consulta, hi ha factors pràctics que canvien molt la durada real d'una teràpia:",
-      },
-      {
-        type: "list",
-        items: [
-          "Freqüència de sessions. La teràpia setmanal és el ritme estàndard i el que millor sosté el procés. Anar cada dues setmanes alenteix; anar un cop al mes converteix la teràpia en un seguiment, no un treball actiu.",
-          "Implicació entre sessions. La teràpia no es fa a la consulta: es fa a la vida. Qui reflexiona, prova el que s'ha parlat i observa el que passa entre sessió i sessió avança més ràpid que qui deixa tot el treball per a la següent visita.",
-          "Suport extern. Tenir una xarxa d'amistat, família o parella que acompanya el procés facilita el canvi. Qui està molt aïllat necessita sovint més temps, perquè la teràpia ha de cobrir també part d'aquest espai.",
-          "Complexitat del context. Una situació laboral tòxica, un entorn familiar advers o una crisi financera sostenida pot allargar el procés, no perquè la teràpia vagi malament, sinó perquè el context genera pressió constant.",
-        ],
-      },
-      {
-        type: "heading",
-        text: "Quan té sentit plantejar l'alta",
-      },
-      {
-        type: "paragraph",
-        text: "L'alta no és un tall sobtat. És una decisió compartida que es va preparant. Tenim clar que un procés està arribant al seu punt natural d'alta quan:",
-      },
-      {
-        type: "list",
-        items: [
-          "El motiu de consulta inicial s'ha resolt o ha perdut pes. Allò que portava la persona ja no li resta qualitat de vida de forma significativa.",
-          "La persona ha incorporat els recursos. No només se sent millor: sap què fer quan el símptoma o la situació reapareix, i ho prova abans de demanar ajuda.",
-          "Es pot espaiar les sessions sense perdre el treball. Anar de setmanal a quinzenal, i després a mensual, és un bon test: si el canvi se sosté, el procés està madur per tancar.",
-          "Hi ha una sensació compartida de tancament. Tant la persona com el professional perceben que el que calia treballar s'ha treballat.",
-        ],
-      },
-      {
-        type: "paragraph",
-        text: "Quan aquests elements coincideixen, proposem espaiar les sessions i planificar l'alta de forma gradual. Si mesos després reapareix el motiu de consulta o n'apareix un de nou, la porta queda oberta: sovint basta unes poques sessions de revisió perquè la persona retrobi el treball fet.",
-      },
-      {
-        type: "heading",
-        text: "Una distinció útil: teràpia curta no és teràpia incompleta",
-      },
-      {
-        type: "paragraph",
-        text: "Hi ha una idea estesa que \"una bona teràpia ha de durar anys\". No és cert. Una teràpia breu, ben feta, pot ser tan vàlida com una de llarga si resol el que es proposava resoldre. El que defineix una bona teràpia no és la durada, sinó si el procés ha permès a la persona entendre's, recuperar recursos i viure amb menys sofriment i més llibertat.",
-      },
-      {
-        type: "paragraph",
-        text: "Per això, a Espai Emocions no allarguem els processos. Avaluem amb cada persona, cada cert temps, si la teràpia segueix sent útil i cap a on va. Si ja no ho és, proposem tancar. Si cal més temps, l'expliquem i el treballem. L'objectiu no és omplir sessions: és que la persona se surti millor de com va entrar.",
-      },
-      {
-        type: "paragraph",
-        text: "Si tens dubtes sobre quant podria durar el teu procés concret, el més útil és fer una primera sessió d'avaluació. Amb la informació del teu motiu de consulta, el professional podrà donar-te una estimació molt més ajustada que cap generalitat. Pots sol·licitar-la a la nostra pàgina de contacte.",
-      },
-    ],
-    blocksES: [
-      {
-        type: "paragraph",
-        text: "No hay una respuesta única a la pregunta de cuánto dura una terapia. Depende del motivo de consulta, de la profundidad del trabajo que se quiera hacer, de la frecuencia de las sesiones y de la evolución de cada persona. Dar un número cerrado antes de empezar es engañoso: el proceso se va ajustando a medida que avanza.",
-      },
-      {
-        type: "paragraph",
-        text: "Resumen de la respuesta: una terapia breve puede durar entre 8 y 20 sesiones (unos 2-5 meses), una terapia de profundidad media entre 6 y 12 meses, y un proceso largo o de crecimiento personal puede extenderse más allá de un año. Estos rangos son orientativos. Lo que determina realmente la duración no es un calendario, sino si el proceso sigue siendo útil.",
-      },
-      {
-        type: "heading",
-        text: "Por qué no se puede decir un número de sesiones antes de empezar",
-      },
-      {
-        type: "paragraph",
-        text: "Cuando alguien nos pregunta cuánto durará su terapia, la respuesta honesta es: \"lo sabremos mejor a partir de la tercera o cuarta sesión\". La primera entrevista recoge el motivo de consulta y formula una hipótesis de trabajo, pero no permite prever con precisión cuánto tiempo hará falta. La velocidad de cambio depende de factores que solo se ven una vez el proceso está en marcha: la motivación real, el apoyo externo, la implicación entre sesiones, la complejidad de lo que hay detrás del síntoma.",
-      },
-      {
-        type: "paragraph",
-        text: "Por eso, los profesionales serios no comprometen un número cerrado de sesiones en la primera visita. Quien ofrece \"curar tu ansiedad en 5 sesiones\" está vendiendo una promesa que la clínica no puede sostener. La terapia no es un proceso industrial: es un acompañamiento adaptado a una persona concreta.",
-      },
-      {
-        type: "heading",
-        text: "Rangos orientativos según el tipo de proceso",
-      },
-      {
-        type: "paragraph",
-        text: "Aunque no haya cifras cerradas, sí existen rangos razonables según lo que se trabaja. Estos son los más habituales en nuestra práctica clínica:",
-      },
-      {
-        type: "list",
-        items: [
-          "Proceso breve (8-20 sesiones, 2-5 meses): adecuado para dificultades puntuales —una situación estresante concreta, una pérdida reciente, un cambio difícil de asumir— donde el objetivo es entender lo que pasa, recuperar recursos y volver al funcionamiento habitual.",
-          "Proceso de profundidad media (20-50 sesiones, 6-12 meses): adecuado cuando lo que trae la persona tiene raíces más largas —patrones de relación repetitivos, dificultades de autoestima de hace años, reacciones emocionales que no terminan de comprenderse— y hay que trabajar tanto el síntoma como lo que hay debajo.",
-          "Proceso largo o de crecimiento (más de 50 sesiones, más de un año): adecuado para procesos de cambio profundo de personalidad, historias complejas o trabajo sostenido de crecimiento personal. La duración aquí no es un problema a resolver: es la condición para que el cambio llegue a donde tiene que llegar.",
-        ],
-      },
-      {
-        type: "paragraph",
-        text: "Estos rangos no son categorías cerradas. Una terapia que empieza como breve puede, a medida que avanza, revelar que conviene ir más hondo. Y una terapia de profundidad puede, una vez resuelto el núcleo del problema, convertirse en un seguimiento puntual cada mes o cada trimestre.",
-      },
-      {
-        type: "heading",
-        text: "Qué factores alargan o acortan el proceso",
-      },
-      {
-        type: "paragraph",
-        text: "Más allá del motivo de consulta, hay factores prácticos que cambian mucho la duración real de una terapia:",
-      },
-      {
-        type: "list",
-        items: [
-          "Frecuencia de sesiones. La terapia semanal es el ritmo estándar y el que mejor sostiene el proceso. Ir cada dos semanas ralentiza; ir una vez al mes convierte la terapia en un seguimiento, no un trabajo activo.",
-          "Implicación entre sesiones. La terapia no se hace en la consulta: se hace en la vida. Quien reflexiona, prueba lo que se ha hablado y observa lo que pasa entre sesión y sesión avanza más rápido que quien deja todo el trabajo para la siguiente visita.",
-          "Apoyo externo. Tener una red de amistad, familia o pareja que acompaña el proceso facilita el cambio. Quien está muy aislado necesita a menudo más tiempo, porque la terapia tiene que cubrir también parte de ese espacio.",
-          "Complejidad del contexto. Una situación laboral tóxica, un entorno familiar adverso o una crisis financiera sostenida puede alargar el proceso, no porque la terapia vaya mal, sino porque el contexto genera presión constante.",
-        ],
-      },
-      {
-        type: "heading",
-        text: "Cuándo tiene sentido plantear el alta",
-      },
-      {
-        type: "paragraph",
-        text: "El alta no es un corte súbito. Es una decisión compartida que se va preparando. Tenemos claro que un proceso está llegando a su punto natural de alta cuando:",
-      },
-      {
-        type: "list",
-        items: [
-          "El motivo de consulta inicial se ha resuelto o ha perdido peso. Aquello que traía la persona ya no le resta calidad de vida de forma significativa.",
-          "La persona ha incorporado los recursos. No solo se siente mejor: sabe qué hacer cuando el síntoma o la situación reaparece, y lo prueba antes de pedir ayuda.",
-          "Se pueden espaciar las sesiones sin perder el trabajo. Pasar de semanal a quincenal, y luego a mensual, es un buen test: si el cambio se sostiene, el proceso está maduro para cerrar.",
-          "Hay una sensación compartida de cierre. Tanto la persona como el profesional perciben que lo que había que trabajar se ha trabajado.",
-        ],
-      },
-      {
-        type: "paragraph",
-        text: "Cuando estos elementos coinciden, proponemos espaciar las sesiones y planificar el alta de forma gradual. Si meses después reaparece el motivo de consulta o aparece uno nuevo, la puerta queda abierta: a menudo bastan unas pocas sesiones de repaso para que la persona recupere el trabajo hecho.",
-      },
-      {
-        type: "heading",
-        text: "Una distinción útil: terapia corta no es terapia incompleta",
-      },
-      {
-        type: "paragraph",
-        text: "Hay una idea extendida de que \"una buena terapia debe durar años\". No es cierto. Una terapia breve, bien hecha, puede ser tan válida como una larga si resuelve lo que se proponía resolver. Lo que define una buena terapia no es la duración, sino si el proceso ha permitido a la persona entenderse, recuperar recursos y vivir con menos sufrimiento y más libertad.",
-      },
-      {
-        type: "paragraph",
-        text: "Por eso, en Espai Emocions no alargamos los procesos. Evaluamos con cada persona, cada cierto tiempo, si la terapia sigue siendo útil y hacia dónde va. Si ya no lo es, proponemos cerrar. Si hace falta más tiempo, lo explicamos y lo trabajamos. El objetivo no es llenar sesiones: es que la persona salga mejor de como entró.",
-      },
-      {
-        type: "paragraph",
-        text: "Si tienes dudas sobre cuánto podría durar tu proceso concreto, lo más útil es hacer una primera sesión de evaluación. Con la información de tu motivo de consulta, el profesional podrá darte una estimación mucho más ajustada que cualquier generalidad. Puedes solicitarla en nuestra página de /contacto.",
-      },
-    ],
-  },
-  // ---------------------------------------------------------------------------
+  // 1. cambiar-psicologo-no-encajo (Pilar 1: ¿Cómo funciona la terapia?)
   // ---------------------------------------------------------------------------
   {
     slug: "cambiar-psicologo-no-encajo",
@@ -570,7 +364,7 @@ export const articlesPart5: ArticleContent[] = [
       },
       {
         type: "paragraph",
-        text: "Si estàs considerant començar un procés terapèutic i vols conèixer el nostre espai de primera mà, pots sol·licitar una primera sessió a través de la nostra pàgina de contacte. Creiem que veure el setting en persona ajuda a decidir si és el lloc adequat per fer aquest treball.",
+        text: "Si estàs considerant començar un procés terapèutic i vols conèixer el nostre espai de primera mà, pots sol·licitar una primera sessió a través de la nostra pàgina de contacte. Crec que veure el setting en persona ajuda a decidir si és el lloc adequat per fer aquest treball.",
       },
     ],
     blocksES: [
@@ -651,136 +445,129 @@ export const articlesPart5: ArticleContent[] = [
   },
 
   // ---------------------------------------------------------------------------
-  // 3. seguro-privado-cubre-psicologia-barcelona (Pilar 5: Psicología en Barcelona)
+  // 3. psicologo-para-adolescentes (Pilar 2 — Psicólogo por nicho: adolescentes)
   // ---------------------------------------------------------------------------
   {
-    slug: "seguro-privado-cubre-psicologia-barcelona",
-    categoryCA: "Psicologia a Barcelona",
-    categoryES: "Psicología en Barcelona",
-    titleCA: "El segur privat cobreix la psicologia a Barcelona?",
-    titleES: "¿Cubre el seguro privado la psicología en Barcelona?",
+    slug: "psicologo-para-adolescentes",
+    categoryCA: "Psicòleg per nínxol",
+    categoryES: "Psicólogo por nicho",
+    titleCA: "Psicòleg per a adolescents: per què l'adolescència necessita un acompanyament específic",
+    titleES: "Psicólogo para adolescentes: por qué la adolescencia necesita un acompañamiento específico",
     excerptCA:
-      "Depèn de la pòlissa, però en general la cobertura és limitada: nombre de sessions restringit, psicòlegs d'un quadre tancat i sovint copagament. Aquí expliquem què cobreix realment cada companyia, què has de mirar a la teva pòlissa i quan val la pena anar per via privada.",
+      "L'adolescència no és una versió reduïda de l'edat adulta: és una etapa amb necessitats, ritmes i llenguatges propis. La identitat encara s'està formant, la relació amb les famílies canvia i el grup d'iguals guanya pes. Un psicòleg per a adolescents ha de conèixer aquest context, parlar amb el jove sense tractar-lo com a infant ni com a adult, i coordinar-se amb la família quan cal sense violar la confidencialitat. Aquí expliquem què busca un adolescent en un psicòleg i com treballem aquest perfil des d'Espai Emocions.",
     excerptES:
-      "Depende de la póliza, pero en general la cobertura es limitada: número de sesiones restringido, psicólogos de un cuadro cerrado y a menudo copago. Aquí explicamos qué cubre realmente cada compañía, qué tienes que mirar en tu póliza y cuándo compensa ir por vía privada.",
-    datePublished: "2026-07-17",
+      "La adolescencia no es una versión reducida de la edad adulta: es una etapa con necesidades, ritmos y lenguajes propios. La identidad aún se está formando, la relación con las familias cambia y el grupo de iguales gana peso. Un psicólogo para adolescentes tiene que conocer este contexto, hablar con el joven sin tratarlo como a un niño ni como a un adulto, y coordinarse con la familia cuando hace falta sin violar la confidencialidad. Aquí explicamos qué busca un adolescente en un psicólogo y cómo trabajamos este perfil desde Espai Emocions.",
+    datePublished: "2026-07-19",
     blocksCA: [
       {
         type: "paragraph",
-        text: "La resposta curta és: algunes pòlisses sí, altres no, i gairebé mai amb les condicions que la persona espera. La majoria d'assegurances privades a Espanya ofereixen alguna cobertura de psicologia, però acostuma a ser parcial —nombre de sessions limitat, llista tancada de professionals i, sovint, un copagament per sessió. La cobertura completa i lliure elecció de professional són rares.",
+        text: "L'adolescència és una etapa amb necessitats psicològiques pròpies, i un psicòleg per a adolescents ha de conèixer-les per acompanyar bé el jove. No es tracta d'aplicar la teràpia d'adults amb un to més suau, ni d'usar els recursos de la psicologia infantil: l'adolescent està en un punt intermedi, i això exigeix un enfocament específic.",
       },
       {
         type: "paragraph",
-        text: "Resum de la resposta: convé mirar la lletra petita de la pòlissa abans de suposar res. Si la cobertura existeix, sol ser útil per començar; si no n'hi ha o és molt limitada, la via privada ofereix més flexibilitat de sessions, elecció de professional i ritme de treball. A Espai Emocions atenem les dues opcions i t'ajudem a valorar què et convé segons el teu cas.",
+        text: "Resum de la resposta: un psicòleg per a adolescents ha de saber combinar tècniques d'avaluació i intervenció adaptades a l'edat, mantenir un marc de confidencialitat que respecti l'autonomia creixent del jove i coordinar-se amb la família i, de vegades, amb el centre educatiu, sense que el adolescent se senti infantilitzat ni traït.",
       },
       {
         type: "heading",
-        text: "Què cobreix realment una pòlissa privada",
+        text: "Per què l'adolescència no és \"psicologia d'adults en petit\"",
       },
       {
         type: "paragraph",
-        text: "Cada companyia —Adeslas, Sanitas, Asisa, Mapfre, Allianz, DKV, entre d'altres— dissenya els seus propis productes, i la cobertura varia fins i tot dins de la mateixa asseguradora segons el nivell de pòlissa contractat. Malgrat aquesta variabilitat, hi ha tres elements que defineixen el rang real de cobertura:",
+        text: "L'adolescent no és un adult jove ni un infant gran. El cervell encara s'està desenvolupant —especialment el còrtex prefrontal, responsable de la planificació i la regulació d'impulsos—, la identitat està en construcció i el grup d'iguals ha passat a un primer pla que abans ocupava la família. Tot això fa que el jove percebi, es relacioni i prengui decisions de manera diferent.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, això es tradueix en coses concretes. L'adolescent pot arribar-hi arrossegat pels pares, sense haver demanat ell ajuda, i la primera tasca del psicòleg és crear un espai on pugui parlar sense sentir-se jutjat. La relació terapèutica ha de construir-se des de la confiança, no des de l'autoritat. Un professional que es limiti a donar consells o a repetir el que diuen els pares perd ràpidament la credibilitat davant el jove.",
+      },
+      {
+        type: "heading",
+        text: "Què busca un adolescent en un psicòleg",
+      },
+      {
+        type: "paragraph",
+        text: "Quan un jove arriba a consulta, el que necessita no és sempre el que els pares descriuen. Els motius de consulta més freqüents en aquesta edat inclouen dificultats amb el grup d'iguals, pressió acadèmica, conflictes familiars, canvis d'humor sostinguts, por al futur o, cada vegada més, malestar lligat a les xarxes socials i a la imatge corporativa. El psicòleg ha de saber arribar a aquestes qüestions sense menystenir-les.",
       },
       {
         type: "list",
         items: [
-          "Nombre de sessions per any. Moltes pòlisses cobreixen entre 8 i 20 sessions anuals de psicologia. A partir d'aquest límit, la persona assumeix el cost complet. Per a processos de durada mitjana o llarga (ansietat recurrent, dol, dificultats de llarga data), això sol ser insuficient.",
-          "Quadre de professionals. La companyia té una llista tancada de psicòlegs concertats. Per utilitzar la cobertura has d'anar a un d'aquests professionals, no al que tu tries. Això vol dir perdre el control sobre qui t'acompanya —un factor, com vam veure, clau per a l'encaix terapèutic.",
-          "Copagament. Moltes pòlisses no cobreixen el 100% per sessió: apliquen un copagament fix (per exemple, 10-15 €) que la persona paga cada visita. No és molt, però suma en processos llargs.",
+          "Que se l'escolti sense pressa. L'adolescent nota ràpidament quan l'adult té pressa per arribar a una conclusió. Un psicòleg que escolta de veritat genera un espai on el jove pot pensar en veu alta.",
+          "Que no se'l tracti com a un infant. El llenguatge, el to i les dinàmiques han de reconèixer la seva autonomia creixent. L'ús de materials adaptats —com escala d'autoinform o qüestionaris breus— ajuda, però el que marca la diferència és l'actitud.",
+          "Confidencialitat real. El jove ha de saber que el que diu a la sala no es retransmet als pares, excepte en els límits ètics i legals. Sense aquesta garantia, no hi ha obertura.",
+          "Coordinació amb la família quan ajuda, no quan controla. Involucrar els pares té sentit quan acompanya el procés; convertir-los en informadors del que es diu a sessió el trenca.",
         ],
       },
       {
+        type: "heading",
+        text: "Com treballem amb adolescents a Espai Emocions",
+      },
+      {
         type: "paragraph",
-        text: "Hi ha, a més, un factor que no sempre s'explica amb claredat: la derivació. En algunes companyies, per accedir a psicologia has de passar primer per la medicina de família de l'asseguradora, que avalua i deriva. Això allarga el temps d'espera i condiciona el motiu de consulta que arribarà al psicòleg.",
+        text: "Al nostre equip, l'acompanyament d'adolescents comença per una entrevista inicial amb la família i el jove plegats, on escoltem tant el motiu de consulta que porten els pares com la visió que en té el mateix adolescent. Moltes vegades, els dos relats no coincideixen, i aquesta diferència ja és informació clínica rellevant.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir d'aquí, proposem un pla que pot incloure sessions individuals amb el jove, sessions de coordinació amb la família a intervals acordats i, quan cal, contacte amb el centre educatiu o amb altres professionals que l'atenguin. Tot això es fa amb transparència cap al jove: el que es comparteix, amb qui i per què es decideix amb ell, no sobre ell.",
+      },
+      {
+        type: "paragraph",
+        text: "Els models d'intervenció que utilitzem —teràpia cognitiu-conductual, humanista i enfocaments sistèmics— s'adapten a l'edat i al motiu. Pots conèixer més sobre aquests models en el nostre article sobre quins models de teràpia existeixen.",
       },
       {
         type: "heading",
-        text: "Què has de mirar a la teva pòlissa",
+        text: "El paper de les famílies",
       },
       {
         type: "paragraph",
-        text: "Abans de suposar que la teva assegurança cobreix psicologia, verifica quatre dades al contracte o a l'app de la companyia:",
+        text: "Treballar amb un adolescent gairebé sempre implica, d'alguna manera, treballar amb la família. Això no vol dir fer teràpia familiar sistemàtica: vol dir mantenir una coordinació que permeti als pares entendre què passa, ajustar expectatives i recolzar el procés des de casa.",
+      },
+      {
+        type: "paragraph",
+        text: "És freqüent que els pares arribin amb por, culpa o frustració. També necessiten orientació: com parlar amb el fill, com posar límits sense trencar el vincle, quan donar espai i quan intervenir. El nostre equip pot oferir aquesta orientació com a part del procés, sempre amb el consentiment del jove quan es tracta d'informació que afecta la seva intim.",
+      },
+      {
+        type: "heading",
+        text: "Quan convé buscar un psicòleg per a un adolescent",
+      },
+      {
+        type: "paragraph",
+        text: "No tot canvi d'humor ni tot tancament és motiu de consulta: l'adolescència porta oscil·lacions normals. Conviene buscar un professional quan els senyals es mantenen setmanes, interfereixen en la vida quotidiana del jove o generen preocupació sostinguda en la família.",
       },
       {
         type: "list",
         items: [
-          "Garantia de psicologia. Confirma que la pòlissa la inclou. En els productes bàsics de moltes companyies no ve per defecte; és un complement opcional.",
-          "Límit anual de sessions. Mira el nombre exacte i si es renova per any natural o per any de contracte.",
-          "Quadre mèdic disponible a Barcelona. Comprova quants psicòlegs hi ha a la teva zona i, sobretot, si en queda algun amb places disponibles. En algunes companyies el quadre és tan reduït que les places estan saturades durant mesos.",
-          "Règim de copagament i autorització prèvia. Confirma si has de demanar autorització abans de cada visita i quina quantitat pagues tu per sessió.",
+          "Canvis sostinguts d'humor —tristesa, irritabilitat o apatia— que duren més de dues setmanes i no es expliquen per un esdeveniment concret.",
+          "Aïllament social que es manté: el jove deixa de fer activitats que abans li agradaven i es tanca a la seva habitació de forma sistemàtica.",
+          "Caiguda brusca del rendiment acadèmic o rebuig escolar que no respon a mesures puntuals des de casa.",
+          "Senyals d'ansietat que limiten la vida del jove —por a sortir, evitació social, queixes somàtiques recurrents—.",
+          "Comentaris o conductes que fan sospitar risc per a la seva seguretat o la seva salut.",
         ],
       },
       {
-        type: "heading",
-        text: "Quan compensa usar la cobertura del segur",
-      },
-      {
         type: "paragraph",
-        text: "Utilitzar la cobertura té sentit en situacions concretes. Si el motiu de consulta és circumscrit —una situació puntual que es pot treballar en 8-12 sessions—, el límit de la pòlissa pot ser suficient i l'estalvi econòmic compensa la pèrdua d'elecció de professional. La cobertura també és útil per fer una primera valoració: algunes companyies ofereixen una o dues sessions d'avaluació que et permeten orientar-te encara que després continuïs per la via privada.",
-      },
-      {
-        type: "paragraph",
-        text: "També pot ser una opció vàlida quan el pressupost és un condicionant ferm i el quadre de la companyia té algun professional disponible a curt termini. En aquest cas, val la pena començar i, si l'encaix no funciona, valorar el canvi dins o fora del quadre.",
-      },
-      {
-        type: "heading",
-        text: "Quan compensa anar per la via privada",
-      },
-      {
-        type: "paragraph",
-        text: "La via privada deixa de tenir sentit per al pressupost, però guanya en tot el demés: elecció de professional, nombre de sessions sense sostre, ritme adaptat al procés i continuïtat garantida. Concretament, recomanem la via privada quan:",
-      },
-      {
-        type: "list",
-        items: [
-          "El motiu de consulta és complex o de llarga durada. Processos com trauma, dificultats de llarga data, problemes de relació o problemes profunds de autoestima solen requerir més de 20 sessions. Cap pòlissa cobrirà aquest recorregut complet.",
-          "Vols triar el teu psicòleg. Si l'encaix et importa —i hauria d'importar-te—, triar tu mateix el professional és el camí. En un centre amb equip com Espai Emocions pots fer una primera sessió i, si cal, canviar dins del mateix centre sense perdre context.",
-          "Necessites flexibilitat d'horari o modalitat. Els professionals del quadre d'asseguradores solen tenir agendas saturades i poca disponibilitat de sessions online o de vespre. La via privada ofereix més marge d'adaptació.",
-          "Vols continuïtat sense interrupcions. Amb la cobertura, quan s'acaba el límit de sessions has de decidir entre pagar tu el 100% amb aquest mateix professional o canviar. La via privada elimina aquest tall.",
-        ],
-      },
-      {
-        type: "heading",
-        text: "Com combinar cobertura i via privada",
-      },
-      {
-        type: "paragraph",
-        text: "No és una decisió tot o res. Una estratègia que veiem sovint és començar amb la cobertura del segur per fer la valoració inicial i les primeres sessions, i continuar per la via privada quan el procés requereix més profunditat. Això redueix el cost de les primeres sessions i garanteix, a partir d'un cert punt, llibertat de professional i de ritme.",
-      },
-      {
-        type: "paragraph",
-        text: "Si trieu aquesta via, val la pena portar al primer psicòleg privat un breu resum del que s'ha treballat amb la cobertura —motiu de consulta, sessions fetes, objectius— per no començar en blanc. No cal un informe formal; amb una descripció honesta n'hi ha prou.",
-      },
-      {
-        type: "heading",
-        text: "Què fem a Espai Emocions",
-      },
-      {
-        type: "paragraph",
-        text: "El nostre centre, a Barcelona, treballa principalment per la via privada. Això ens permet oferir el que considerem clínicament necessari: elecció de professional, nombre de sessions sense sostre, continuïtat i flexibilitat de modalitat. Per a persones que tenen cobertura de segur i volen començar amb nosaltres, oferim una primera sessió d'avaluació per orientar el cas i, si convé, planificar la continuïtat per via privada. Pots sol·licitar-la a la nostra pàgina de contacte.",
+        text: "Si reconeixes algun d'aquests senyals, és preferible consultar abans que esperar. Un procés terapèutic ben orientat en l'adolescència pot prevenir cronificacions que anys després costen molt més de treballar. Pots sol·licitar una primera sessió a la nostra pàgina de contacte, on el nostre equip valorarà el cas i orientarà els passos següents.",
       },
       {
         type: "faq",
         items: [
           {
-            question: "¿Todas las pólizas de Adeslas, Sanitas o Asisa cubren psicología?",
+            question: "¿A partir de qué edad se puede ir al psicólogo sin consentimiento de los padres?",
             answer:
-              "No. La cobertura depende del producto concreto y del nivel contratado. En muchas aseguradoras la psicología es un complemento opcional o solo está en pólizas medias o altas. Antes de dar por hecho que estás cubierto, revisa la garantía de psicología en tu contrato o en la app de la compañía.",
+              "En España, la mayoría de edad sanitaria se alcanza a los 18 años. A partir de los 16, algunos profesionales y centros aceptan que el adolescente acuda por iniciativa propia, pero la práctica habitual es contar con la familia, al menos en la primera sesión, para garantizar un contexto seguro. En casos de riesgo o conflicto familiar grave, el psicólogo valora cómo proceder dentro del marco ético y legal.",
           },
           {
-            question: "¿Puedo ir al psicólogo que yo quiera y que me lo reembolse el seguro?",
+            question: "¿El psicólogo le cuenta a los padres todo lo que dice el adolescente en sesión?",
             answer:
-              "Solo en pólizas de reembolso, que son minoritarias y más caras. En la modalidad más común (cuadro médico cerrado) debes elegir entre los psicólogos concertados de la compañía. Si quieres elegir libremente al profesional, la vía privada es la opción que te da ese control.",
+              "No. La confidencialidad es un pilar del trabajo con adolescentes. Lo que el joven explica en sesión se mantiene reservado, salvo en los límites que marca la deontología profesional: riesgo para la seguridad del propio adolescente o de terceros. La coordinación con la familia se hace acordando con el joven qué se comparte, para que el proceso no se rompa.",
           },
           {
-            question: "¿Qué pasa si agoto las sesiones que cubre mi seguro y quiero seguir?",
+            question: "¿Cuánto dura un proceso terapéutico con un adolescente?",
             answer:
-              "A partir del límite anual de tu póliza, las sesiones adicionales las pagas tú al precio completo del profesional del cuadro. En ese punto suele compensar valorar la vía privada, donde tienes libertad de profesional y no hay techo de sesiones. Muchas personas hacen esta transición sin perder el contexto del trabajo previo.",
+              "Depende del motivo de consulta y de cómo evoluciona el joven. Algunos procesos se resuelven en seis a diez sesiones; otros, especialmente cuando hay vulnerabilidad de fondo o conflicto familiar, pueden prolongarse varios meses. Lo importante es revisar el avance de forma periódica y ajustar el plan, no fijar un número cerrado de sesiones desde el inicio.",
           },
           {
-            question: "¿La psicología en la sanidad pública de Barcelona es una alternativa real?",
+            question: "¿Y si el adolescente no quiere ir al psicólogo?",
             answer:
-              "La red pública de salud mental existe y es gratuita, pero el tiempo de espera puede ser de semanas o meses y el seguimiento suele ser breve y orientado a urgencias. Para procesos de profundidad media o larga, la vía privada —con o sin seguro— ofrece mejor continuidad. Puedes leer nuestra comparativa sobre psicología pública vs. privada en Barcelona para decidir.",
+              "Es una situación frecuente. Forzar rara vez funciona a medio plazo. Cuando el joven se resiste, conviene indagar por qué: miedo, desconfianza, sensación de castigo. A veces, una primera sesión con la familia, sin compromiso de continuar, ayuda a que el adolescente decida con más información. Un profesional con experiencia en esta edad sabe presentar la terapia como una herramienta, no como una sanción.",
           },
         ],
       },
@@ -788,120 +575,113 @@ export const articlesPart5: ArticleContent[] = [
     blocksES: [
       {
         type: "paragraph",
-        text: "La respuesta corta es: algunas pólizas sí, otras no, y casi nunca en las condiciones que la persona espera. La mayoría de seguros privados en España ofrecen alguna cobertura de psicología, pero suele ser parcial —número de sesiones limitado, lista cerrada de profesionales y, a menudo, un copago por sesión—. La cobertura completa y libre elección de profesional son raras.",
+        text: "La adolescencia es una etapa con necesidades psicológicas propias, y un psicólogo para adolescentes tiene que conocerlas para acompañar bien al joven. No se trata de aplicar la terapia de adultos con un tono más suave, ni de usar los recursos de la psicología infantil: el adolescente está en un punto intermedio, y eso exige un enfoque específico.",
       },
       {
         type: "paragraph",
-        text: "Resumen de la respuesta: conviene mirar la letra pequeña de la póliza antes de suponer nada. Si la cobertura existe, suele ser útil para empezar; si no la hay o es muy limitada, la vía privada ofrece más flexibilidad de sesiones, elección de profesional y ritmo de trabajo. En Espai Emocions atendemos ambas opciones y te ayudamos a valorar qué te conviene según tu caso.",
+        text: "Resumen de la respuesta: un psicólogo para adolescentes tiene que saber combinar técnicas de evaluación e intervención adaptadas a la edad, mantener un marco de confidencialidad que respete la autonomía creciente del joven y coordinarse con la familia y, a veces, con el centro educativo, sin que el adolescente se sienta infantizado ni traicionado.",
       },
       {
         type: "heading",
-        text: "Qué cubre realmente una póliza privada",
+        text: "Por qué la adolescencia no es \"psicología de adultos en pequeño\"",
       },
       {
         type: "paragraph",
-        text: "Cada compañía —Adeslas, Sanitas, Asisa, Mapfre, Allianz, DKV, entre otras— diseña sus propios productos, y la cobertura varía incluso dentro de la misma aseguradora según el nivel de póliza contratado. A pesar de esta variabilidad, hay tres elementos que definen el rango real de cobertura:",
+        text: "El adolescente no es un adulto joven ni un niño mayor. El cerebro aún se está desarrollando —especialmente el córtex prefrontal, responsable de la planificación y la regulación de impulsos—, la identidad está en construcción y el grupo de iguales ha pasado a un primer plano que antes ocupaba la familia. Todo esto hace que el joven perciba, se relacione y tome decisiones de manera diferente.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, esto se traduce en cosas concretas. El adolescente puede llegar arrastrado por los padres, sin haber pedido él ayuda, y la primera tarea del psicólogo es crear un espacio donde pueda hablar sin sentirse juzgado. La relación terapéutica tiene que construirse desde la confianza, no desde la autoridad. Un profesional que se limita a dar consejos o a repetir lo que dicen los padres pierde rápidamente la credibilidad ante el joven.",
+      },
+      {
+        type: "heading",
+        text: "Qué busca un adolescente en un psicólogo",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando un joven llega a consulta, lo que necesita no es siempre lo que los padres describen. Los motivos de consulta más frecuentes en esta edad incluyen dificultades con el grupo de iguales, presión académica, conflictos familiares, cambios de humor sostenidos, miedo al futuro o, cada vez más, malestar ligado a las redes sociales y a la imagen corporal. El psicólogo tiene que saber llegar a estas cuestiones sin minusvalorarlas.",
       },
       {
         type: "list",
         items: [
-          "Número de sesiones por año. Muchas pólizas cubren entre 8 y 20 sesiones anuales de psicología. A partir de ese límite, la persona asume el coste completo. Para procesos de duración media o larga (ansiedad recurrente, duelo, dificultades de larga data), esto suele ser insuficiente.",
-          "Cuadro de profesionales. La compañía tiene una lista cerrada de psicólogos concertados. Para usar la cobertura tienes que acudir a uno de estos profesionales, no al que tú eliges. Eso significa perder el control sobre quién te acompaña —un factor, como vimos, clave para el encaje terapéutico.",
-          "Copago. Muchas pólizas no cubren el 100% por sesión: aplican un copago fijo (por ejemplo, 10-15 €) que la persona paga en cada visita. No es mucho, pero suma en procesos largos.",
+          "Que se le escuche sin prisa. El adolescente nota rápidamente cuando el adulto tiene prisa por llegar a una conclusión. Un psicólogo que escucha de verdad genera un espacio donde el joven puede pensar en voz alta.",
+          "Que no se le trate como a un niño. El lenguaje, el tono y las dinámicas tienen que reconocer su autonomía creciente. El uso de materiales adaptados —como escalas de autoinforme o cuestionarios breves— ayuda, pero lo que marca la diferencia es la actitud.",
+          "Confidencialidad real. El joven tiene que saber que lo que dice en la sala no se retransmite a los padres, salvo en los límites éticos y legales. Sin esa garantía, no hay apertura.",
+          "Coordinación con la familia cuando ayuda, no cuando controla. Involucrar a los padres tiene sentido cuando acompaña el proceso; convertirlos en informantes de lo que se dice en sesión lo rompe.",
         ],
       },
       {
+        type: "heading",
+        text: "Cómo trabajamos con adolescentes en Espai Emocions",
+      },
+      {
         type: "paragraph",
-        text: "Hay, además, un factor que no siempre se explica con claridad: la derivación. En algunas compañías, para acceder a psicología tienes que pasar primero por el médico de familia de la aseguradora, que evalúa y deriva. Esto alarga el tiempo de espera y condiciona el motivo de consulta que llegará al psicólogo.",
+        text: "En nuestro equipo, el acompañamiento de adolescentes comienza por una entrevista inicial con la familia y el joven juntos, donde escuchamos tanto el motivo de consulta que traen los padres como la visión que tiene el propio adolescente. Muchas veces, los dos relatos no coinciden, y esa diferencia ya es información clínica relevante.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir de ahí, proponemos un plan que puede incluir sesiones individuales con el joven, sesiones de coordinación con la familia a intervalos acordados y, cuando hace falta, contacto con el centro educativo o con otros profesionales que le atiendan. Todo esto se hace con transparencia hacia el joven: lo que se comparte, con quién y por qué se decide con él, no sobre él.",
+      },
+      {
+        type: "paragraph",
+        text: "Los modelos de intervención que utilizamos —terapia cognitivo-conductual, humanista y enfoques sistémicos— se adaptan a la edad y al motivo. Puedes conocer más sobre estos modelos en nuestro artículo sobre qué modelos de terapia existen.",
       },
       {
         type: "heading",
-        text: "Qué tienes que mirar en tu póliza",
+        text: "El papel de las familias",
       },
       {
         type: "paragraph",
-        text: "Antes de suponer que tu seguro cubre psicología, verifica cuatro datos en el contrato o en la app de la compañía:",
+        text: "Trabajar con un adolescente casi siempre implica, de alguna manera, trabajar con la familia. Esto no significa hacer terapia familiar sistemática: significa mantener una coordinación que permita a los padres entender qué pasa, ajustar expectativas y apoyar el proceso desde casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Es frecuente que los padres lleguen con miedo, culpa o frustración. También necesitan orientación: cómo hablar con el hijo, cómo poner límites sin romper el vínculo, cuándo dar espacio y cuándo intervenir. Nuestro equipo puede ofrecer esa orientación como parte del proceso, siempre con el consentimiento del joven cuando se trata de información que afecta a su intimidad.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene buscar un psicólogo para un adolescente",
+      },
+      {
+        type: "paragraph",
+        text: "No todo cambio de humor ni todo cierre es motivo de consulta: la adolescencia trae oscilaciones normales. Conviene buscar un profesional cuando las señales se mantienen semanas, interfieren en la vida diaria del joven o generan preocupación sostenida en la familia.",
       },
       {
         type: "list",
         items: [
-          "Garantía de psicología. Confirma que la póliza la incluye. En los productos básicos de muchas compañías no viene por defecto; es un complemento opcional.",
-          "Límite anual de sesiones. Mira el número exacto y si se renueva por año natural o por año de contrato.",
-          "Cuadro médico disponible en Barcelona. Comprueba cuántos psicólogos hay en tu zona y, sobre todo, si queda alguno con plazas disponibles. En algunas compañías el cuadro es tan reducido que las plazas están saturadas durante meses.",
-          "Régimen de copago y autorización previa. Confirma si tienes que pedir autorización antes de cada visita y qué cantidad pagas tú por sesión.",
+          "Cambios sostenidos de humor —tristeza, irritabilidad o apatía— que duran más de dos semanas y no se explican por un evento concreto.",
+          "Aislamiento social que se mantiene: el joven deja de hacer actividades que antes le gustaban y se encierra en su habitación de forma sistemática.",
+          "Caída brusca del rendimiento académico o rechazo escolar que no responde a medidas puntuales desde casa.",
+          "Señales de ansiedad que limitan la vida del joven —miedo a salir, evitación social, quejas somáticas recurrentes—.",
+          "Comentarios o conductas que hagan sospechar riesgo para su seguridad o su salud.",
         ],
       },
       {
-        type: "heading",
-        text: "Cuándo compensa usar la cobertura del seguro",
-      },
-      {
         type: "paragraph",
-        text: "Usar la cobertura tiene sentido en situaciones concretas. Si el motivo de consulta es circunscrito —una situación puntual que se puede trabajar en 8-12 sesiones—, el límite de la póliza puede ser suficiente y el ahorro económico compensa la pérdida de elección de profesional. La cobertura también es útil para hacer una primera valoración: algunas compañías ofrecen una o dos sesiones de evaluación que te permiten orientarte aunque luego sigas por la vía privada.",
-      },
-      {
-        type: "paragraph",
-        text: "También puede ser una opción válida cuando el presupuesto es un condicionante firme y el cuadro de la compañía tiene algún profesional disponible a corto plazo. En ese caso, vale la pena empezar y, si el encaje no funciona, valorar el cambio dentro o fuera del cuadro.",
-      },
-      {
-        type: "heading",
-        text: "Cuándo compensa ir por la vía privada",
-      },
-      {
-        type: "paragraph",
-        text: "La vía privada pierde sentido para el bolsillo, pero gana en todo lo demás: elección de profesional, número de sesiones sin techo, ritmo adaptado al proceso y continuidad garantizada. Concretamente, recomendamos la vía privada cuando:",
-      },
-      {
-        type: "list",
-        items: [
-          "El motivo de consulta es complejo o de larga duración. Procesos como trauma, dificultades de larga data, problemas de relación o problemas profundos de autoestima suelen requerir más de 20 sesiones. Ninguna póliza cubrirá ese recorrido completo.",
-          "Quieres elegir a tu psicólogo. Si el encaje te importa —y debería importarte—, elegir tú mismo al profesional es el camino. En un centro con equipo como Espai Emocions puedes hacer una primera sesión y, si hace falta, cambiar dentro del mismo centro sin perder contexto.",
-          "Necesitas flexibilidad de horario o modalidad. Los profesionales del cuadro de aseguradoras suelen tener agendas saturadas y poca disponibilidad de sesiones online o de tarde. La vía privada ofrece más margen de adaptación.",
-          "Quieres continuidad sin interrupciones. Con la cobertura, cuando se acaba el límite de sesiones tienes que decidir entre pagar tú el 100% con ese mismo profesional o cambiar. La vía privada elimina ese corte.",
-        ],
-      },
-      {
-        type: "heading",
-        text: "Cómo combinar cobertura y vía privada",
-      },
-      {
-        type: "paragraph",
-        text: "No es una decisión todo o nada. Una estrategia que vemos a menudo es empezar con la cobertura del seguro para hacer la valoración inicial y las primeras sesiones, y continuar por la vía privada cuando el proceso requiere más profundidad. Esto reduce el coste de las primeras sesiones y garantiza, a partir de cierto punto, libertad de profesional y de ritmo.",
-      },
-      {
-        type: "paragraph",
-        text: "Si eliges esta vía, vale la pena llevar al primer psicólogo privado un breve resumen de lo que se ha trabajado con la cobertura —motivo de consulta, sesiones hechas, objetivos— para no empezar en blanco. No hace falta un informe formal; con una descripción honesta basta.",
-      },
-      {
-        type: "heading",
-        text: "Qué hacemos en Espai Emocions",
-      },
-      {
-        type: "paragraph",
-        text: "Nuestro centro, en Barcelona, trabaja principalmente por la vía privada. Esto nos permite ofrecer lo que consideramos clínicamente necesario: elección de profesional, número de sesiones sin techo, continuidad y flexibilidad de modalidad. Para personas que tienen cobertura de seguro y quieren empezar con nosotros, ofrecemos una primera sesión de evaluación para orientar el caso y, si conviene, planificar la continuidad por vía privada. Puedes solicitarla en nuestra página de contacto.",
+        text: "Si reconoces alguna de estas señales, es preferible consultar antes que esperar. Un proceso terapéutico bien orientado en la adolescencia puede prevenir cronificaciones que años después cuestan mucho más de trabajar. Puedes solicitar una primera sesión en nuestra página de contacto, donde nuestro equipo valorará el caso y orientará los pasos siguientes.",
       },
       {
         type: "faq",
         items: [
           {
-            question: "¿Todas las pólizas de Adeslas, Sanitas o Asisa cubren psicología?",
+            question: "¿A partir de qué edad se puede ir al psicólogo sin consentimiento de los padres?",
             answer:
-              "No. La cobertura depende del producto concreto y del nivel contratado. En muchas aseguradoras la psicología es un complemento opcional o solo está en pólizas medias o altas. Antes de dar por hecho que estás cubierto, revisa la garantía de psicología en tu contrato o en la app de la compañía.",
+              "En España, la mayoría de edad sanitaria se alcanza a los 18 años. A partir de los 16, algunos profesionales y centros aceptan que el adolescente acuda por iniciativa propia, pero la práctica habitual es contar con la familia, al menos en la primera sesión, para garantizar un contexto seguro. En casos de riesgo o conflicto familiar grave, el psicólogo valora cómo proceder dentro del marco ético y legal.",
           },
           {
-            question: "¿Puedo ir al psicólogo que yo quiera y que me lo reembolse el seguro?",
+            question: "¿El psicólogo le cuenta a los padres todo lo que dice el adolescente en sesión?",
             answer:
-              "Solo en pólizas de reembolso, que son minoritarias y más caras. En la modalidad más común (cuadro médico cerrado) debes elegir entre los psicólogos concertados de la compañía. Si quieres elegir libremente al profesional, la vía privada es la opción que te da ese control.",
+              "No. La confidencialidad es un pilar del trabajo con adolescentes. Lo que el joven explica en sesión se mantiene reservado, salvo en los límites que marca la deontología profesional: riesgo para la seguridad del propio adolescente o de terceros. La coordinación con la familia se hace acordando con el joven qué se comparte, para que el proceso no se rompa.",
           },
           {
-            question: "¿Qué pasa si agoto las sesiones que cubre mi seguro y quiero seguir?",
+            question: "¿Cuánto dura un proceso terapéutico con un adolescente?",
             answer:
-              "A partir del límite anual de tu póliza, las sesiones adicionales las pagas tú al precio completo del profesional del cuadro. En ese punto suele compensar valorar la vía privada, donde tienes libertad de profesional y no hay techo de sesiones. Muchas personas hacen esta transición sin perder el contexto del trabajo previo.",
+              "Depende del motivo de consulta y de cómo evoluciona el joven. Algunos procesos se resuelven en seis a diez sesiones; otros, especialmente cuando hay vulnerabilidad de fondo o conflicto familiar, pueden prolongarse varios meses. Lo importante es revisar el avance de forma periódica y ajustar el plan, no fijar un número cerrado de sesiones desde el inicio.",
           },
           {
-            question: "¿La psicología en la sanidad pública de Barcelona es una alternativa real?",
+            question: "¿Y si el adolescente no quiere ir al psicólogo?",
             answer:
-              "La red pública de salud mental existe y es gratuita, pero el tiempo de espera puede ser de semanas o meses y el seguimiento suele ser breve y orientado a urgencias. Para procesos de profundidad media o larga, la vía privada —con o sin seguro— ofrece mejor continuidad. Puedes leer nuestra comparativa sobre psicología pública vs. privada en Barcelona para decidir.",
+              "Es una situación frecuente. Forzar rara vez funciona a medio plazo. Cuando el joven se resiste, conviene indagar por qué: miedo, desconfianza, sensación de castigo. A veces, una primera sesión con la familia, sin compromiso de continuar, ayuda a que el adolescente decida con más información. Un profesional con experiencia en esta edad sabe presentar la terapia como una herramienta, no como una sanción.",
           },
         ],
       },
