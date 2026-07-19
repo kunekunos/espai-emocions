@@ -13,17 +13,27 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
-    "slug": "cuanto-dura-una-terapia",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Quant dura una teràpia? Factors que determinen el nombre de sessions",
-    "titleES": "¿Cuánto dura una terapia? Factores que determinan el número de sesiones",
-    "excerptCA": "No hi ha una resposta única. La durada d'una teràpia depèn del motiu de consulta, la profunditat del treball, la freqüència de les sessions i l'evolució de cada persona. Aquí expliquem quins rangs són habituals, què marca la diferència entre un procés breu i un de llarg, i quan té sentit plantejar l'alta.",
-    "excerptES": "No hay una respuesta única. La duración de una terapia depende del motivo de consulta, la profundidad del trabajo, la frecuencia de las sesiones y la evolución de cada persona. Aquí explicamos qué rangos son habituales, qué marca la diferencia entre un proceso breve y uno largo, y cuándo tiene sentido plantear el alta.",
-    "datePublished": "2026-07-18"
+    "slug": "psicologo-para-adolescentes",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a adolescents: per què l'adolescència necessita un acompanyament específic",
+    "titleES": "Psicólogo para adolescentes: por qué la adolescencia necesita un acompañamiento específico",
+    "excerptCA": "L'adolescència no és una versió reduïda de l'edat adulta: és una etapa amb necessitats, ritmes i llenguatges propis. La identitat encara s'està formant, la relació amb les famílies canvia i el grup d'iguals guanya pes. Un psicòleg per a adolescents ha de conèixer aquest context, parlar amb el jove sense tractar-lo com a infant ni com a adult, i coordinar-se amb la família quan cal sense violar la confidencialitat. Aquí expliquem què busca un adolescent en un psicòleg i com treballem aquest perfil des d'Espai Emocions.",
+    "excerptES": "La adolescencia no es una versión reducida de la edad adulta: es una etapa con necesidades, ritmos y lenguajes propios. La identidad aún se está formando, la relación con las familias cambia y el grupo de iguales gana peso. Un psicólogo para adolescentes tiene que conocer este contexto, hablar con el joven sin tratarlo como a un niño ni como a un adulto, y coordinarse con la familia cuando hace falta sin violar la confidencialidad. Aquí explicamos qué busca un adolescente en un psicólogo y cómo trabajamos este perfil desde Espai Emocions.",
+    "datePublished": "2026-07-19"
   },
   {
-    "slug": "cambiar-psicologo-no-encajo",
+    "slug": "psicologo-para-mayores",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a persones majors: per què l'edat canvia el tipus d'acompanyament",
+    "titleES": "Psicólogo para personas mayores: por qué la edad cambia el tipo de acompañamiento",
+    "excerptCA": "La psicologia amb persones majors no és una adaptació de la teràpia d'adults: té les seves pròpies necessitats. Dol, aïllament, cronificació de malalties, pèrdua de rol social i por a la dependència són realitats específiques que un psicòleg ha de saber treballar sense infantilitzar ni patologitzar el procés d'envellir. Aquí expliquem què busca una persona gran en un psicòleg i com treballem aquest perfil des d'Espai Emocions.",
+    "excerptES": "La psicología con personas mayores no es una adaptación de la terapia de adultos: tiene necesidades propias. Duelo, aislamiento, cronificación de enfermedades, pérdida de rol social y miedo a la dependencia son realidades específicas que un psicólogo debe saber trabajar sin infantizar ni patologizar el proceso de envejecer. Aquí explicamos qué busca una persona mayor en un psicólogo y cómo trabajamos este perfil desde Espai Emocions.",
+    "datePublished": "2026-07-14"
+  },
+  {
+    "slug": "cambiar-psicologo-no-encaixo",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
     "titleCA": "Puc canviar de psicòleg si no encaixo?",
