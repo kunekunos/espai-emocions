@@ -882,4 +882,250 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 5. anular-reprogramar-sesion-psicologia (Pilar 4: El centro)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "anular-reprogramar-sesion-psicologia",
+    categoryCA: "El centre",
+    categoryES: "El centro",
+    titleCA: "Puc anular o reprogramar una sessió de psicologia?",
+    titleES: "¿Puedo anular o reprogramar una sesión de psicología?",
+    excerptCA:
+      "Sí, pots anular o reprogramar una sessió sempre que avisis amb antelació suficient. La majoria de centres, inclòs el nostre, tenen una política de cancel·lació raonable que protegeix tant la persona que consulta com el professional que reserva un espai. Aquí expliquem quant de marge cal per canviar una sessió, què passa quan avisis tard i com gestionem nosaltres les reprogramacions a Espai Emocions.",
+    excerptES:
+      "Sí, puedes anular o reprogramar una sesión siempre que avises con antelación suficiente. La mayoría de centros, incluido el nuestro, tienen una política de cancelación razonable que protege tanto a la persona que consulta como al profesional que reserva un espacio. Aquí explicamos cuánto margen hace falta para cambiar una sesión, qué pasa cuando avisas tarde y cómo gestionamos nosotros las reprogramaciones en Espai Emocions.",
+    datePublished: "2026-07-21",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Sí, pots anular o reprogramar una sessió de psicologia. No és un tràmit complicat ni una excepció: forma part del funcionament habitual de qualsevol consulta. La psicologia clínica treballa amb una agenda d'hores reservades, igual que qualsevol altre professional sanitari, i el marge d'avís serveix perquè aquest espai pugui reorganitzar-se i no es quedi buit.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la pràctica habitual és demanar un avís de com a mínim 24 hores per anul·lar o canviar una sessió sense cost. Si avises amb menys marge, alguns centres apliquen un càrrec parcial o cobren la sessió. A Espai Emocions treballem amb aquesta mateixa lògica: demanem que ens avisis com més aviat millor i, sempre que sigui possible, busquem una alternativa per reposar la sessió dins de la mateixa setmana.",
+      },
+      {
+        type: "heading",
+        text: "Per què hi ha una política de cancel·lació",
+      },
+      {
+        type: "paragraph",
+        text: "Quan reserves una hora, el psicòlog deixa de disposar d'aquesta franja per a altres persones. A diferència d'un comerç, on l'estoc es pot reventar, el temps d'un professional no es pot recuperar: una hora buida a les 18h del dimarts ja no es pot oferir a algú altre amb poc marge. La política de cancel·lació no és una penalització, és una manera de garantir que l'agenda funcioni per a tothom.",
+      },
+      {
+        type: "paragraph",
+        text: "Això també té una funció clínica. La regularitat és un dels factors que més influeix en el progrés terapèutic. Quan les sessions es mantenen setmana rere setmana amb un ritme estable, el procés avança amb més força. Les cancel·lacions repetides o els canvis constants, en canvi, poden ser una senyal —a vegades inconscient— de resistència al treball, i convé parlar-ne a la consulta.",
+      },
+      {
+        type: "heading",
+        text: "Quin marge d'avís es considera raonable",
+      },
+      {
+        type: "paragraph",
+        text: "El costum estès a la sanitat privada és demanar un avís de 24 hores. Això vol dir que si tens sessió el dimecres a les 17h, cal avisar el dimarts abans de les 17h per anul·lar o reprogramar sense cost. Amb aquest marge, el centre té temps d'oferir l'hora a una altra persona que la necessiti.",
+      },
+      {
+        type: "list",
+        items: [
+          "Més de 24 hores d'avís: la sessió es reprograma o s'anula sense cost, i l'hora es pot reutilitzar.",
+          "Entre 12 i 24 hores: alguns centres accepten el canvi depenent de la disponibilitat; d'altres apliquen un càrrec reduït.",
+          "Menys de 12 hores o avís el mateix dia: la sessió sol computar-se com a realitzada, perquè ja no hi ha manera de reposar-la.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes franges són una guia general. Cada centre concret pot ajustar-les, i convé conèixer les condicions exactes en el moment de reservar la primera sessió. A Espai Emocions expliquem la nostra política de forma transparent, perquè sàpigues què esperar des del primer moment.",
+      },
+      {
+        type: "heading",
+        text: "Quan avisis tard, i s'aplica un càrrec",
+      },
+      {
+        type: "paragraph",
+        text: "Si avises fora de marge, la majoria de centres cobren la sessió o apliquen un càrrec. Aquesta mesura no busca castigar, sinó cobrir el temps reservat i el cost d'una sala que s'ha mantingut disponible. En el nostre cas, valorem cada situació de forma individual: una incidència puntual justificada no es gestiona igual que una absència recurrent sense avís.",
+      },
+      {
+        type: "paragraph",
+        text: "El que sí que convé saber és que, quan una persona acumula diverses cancel·lacions tardanes, el procés terapèutic es ressent. No només pel ritme trencat: també perquè pot ser una senyal que alguna cosa del procés cal revisar. En aquestes situacions, el psicòleg sol proposar parlar-ne abans de seguir reservant hores que no es fan servir.",
+      },
+      {
+        type: "heading",
+        text: "Com reprogramar bé",
+      },
+      {
+        type: "paragraph",
+        text: "La manera més senzilla de reprogramar és avisar amb el marge establert i proposar una hora alternativa dins de la mateixa setmana o la següent. Com més aviat avisis, més opcions tindrà el centre per oferir-te un espai. Si saps amb uns dies d'antelació que no podràs assistir —per un viatge, una feina, una cita mèdica—, enviar un missatge dilluns o dimarts facilita molt la reprogramació.",
+      },
+      {
+        type: "paragraph",
+        text: "També ajuda ser flexible amb les alternatives. Si el teu horari habitual és el dimecres a la tarda, però aquesta setmana no pots, acceptar un divendres al matí o un dilluns a primera hora permet mantenir el ritme sense saltar-se una setmana sencera. La constància importa més que el dia concret.",
+      },
+      {
+        type: "heading",
+        text: "Què passa amb les sessions online",
+      },
+      {
+        type: "paragraph",
+        text: "Les sessions per videocris apliquen la mateixa lògica. Tot i que no hi ha desplaçament físic, l'hora continua reservada per al professional i cal el mateix marge d'avís. Pot consultar el nostre article sobre teràpia online vs. presencial per entendre les diferències pràctiques entre els dos formats.",
+      },
+      {
+        type: "paragraph",
+        text: "L'avantatge de l'online és que, en alguns casos, una incidència de darrera hora —un fill malalt, un imprevist laboral— es pot resoldre canviant la modalitat de presencial a videocris, sempre que el professional ho accepti i el motiu de consulta ho permeti. És una opció que val la pena comentar si la teva agenda és variable.",
+      },
+      {
+        type: "heading",
+        text: "Com gestionem les reprogramacions a Espai Emocions",
+      },
+      {
+        type: "paragraph",
+        text: "Al nostre centre, la persona de referència per a la teva agenda és el teu psicòleg o la nostra administració. Treballem amb un sistema d'avís senzill: pots comunicar la cancel·lació o el canvi per missatge o per correu, i et respondem amb alternatives per reposar l'hora. No cal justificar el motiu de la cancel·lació, encara que, si és una situació que afecta el procés terapèutic, pot ser útil compartir-ho.",
+      },
+      {
+        type: "paragraph",
+        text: "La nostra política concreta és un avís de 24 hores per anul·lar sense cost. Per sota d'aquest marge, valorem cada cas. La nostra prioritat no és cobrar una sessió que no s'ha fet, sinó garantir que l'agenda funcioni i que el procés de cada persona es mantingui amb el ritme necessari. Si tens dubtes sobre la nostra política o necessites reprogramar una hora, pots escriure'ns a la nostra pàgina de contacte.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto tiempo tengo para cancelar una sesión sin coste?",
+            answer:
+              "Lo habitual es un aviso de al menos 24 horas. Si avisas con ese margen, la sesión se reprograma o anula sin coste y el centro puede reutilizar el hueco. Por debajo de 24 horas, muchos centros aplican un cargo parcial o computan la sesión como realizada. En Espai Emocions explicamos nuestra política concreta en la primera sesión, para que sepas qué esperar desde el inicio.",
+          },
+          {
+            question: "¿Tengo que justificar por qué anulo una sesión?",
+            answer:
+              "No. No hace falta explicar el motivo de la cancelación. Si se trata de una incidencia puntual, basta con avisar. Ahora bien, si la cancelación tiene que ver con el propio proceso terapéutico —miedo a un tema, sensación de estancamiento, incomodidad con algo trabajado—, sí conviene compartirlo, porque esa información ayuda al psicólogo a ajustar el trabajo y a cuidar el proceso.",
+          },
+          {
+            question: "¿Qué pasa si cancelo varias veces seguidas?",
+            answer:
+              "Cuando se acumulan varias cancelaciones tardías o cambios constantes, el profesional suele proponer una conversación para entender qué está pasando. A veces es solo un periodo de agenda complicada; otras veces es una señal de resistencia o de algo del proceso que conviene revisar. En cualquier caso, lo importante es no dejar pasar la situación: hablarla permite ajustar el ritmo o, si hace falta, replantear el plan de trabajo.",
+          },
+          {
+            question: "¿Puedo cambiar una sesión presencial por online si no puedo desplazarme?",
+            answer:
+              "En muchos casos, sí, siempre que el profesional lo valore y el motivo de consulta lo permita. Para sesiones puntuales en las que un imprevisto impide venir al centro, pasar a formato vídeo permite mantener el ritmo sin perder la sesión. Conviene avisar cuanto antes y acordar el cambio con el psicólogo, que confirmará si esa sesión en concreto es adecuada para hacerla online.",
+          },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Sí, puedes anular o reprogramar una sesión de psicología. No es un trámite complicado ni una excepción: forma parte del funcionamiento habitual de cualquier consulta. La psicología clínica trabaja con una agenda de horas reservadas, igual que cualquier otro profesional sanitario, y el margen de aviso sirve para que ese espacio pueda reorganizarse y no se quede vacío.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la práctica habitual es pedir un aviso de al menos 24 horas para anular o cambiar una sesión sin coste. Si avisas con menos margen, algunos centros aplican un cargo parcial o cobran la sesión. En Espai Emocions trabajamos con esta misma lógica: pedimos que nos avises cuanto antes y, siempre que sea posible, buscamos una alternativa para reponer la sesión dentro de la misma semana.",
+      },
+      {
+        type: "heading",
+        text: "Por qué existe una política de cancelación",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando reservas una hora, el psicólogo deja de disponer de esa franja para otras personas. A diferencia de un comercio, donde el stock se puede reponer, el tiempo de un profesional no se puede recuperar: una hora vacía a las 18h del martes ya no se puede ofrecer a otra persona con poco margen. La política de cancelación no es una penalización, es una manera de garantizar que la agenda funcione para todos.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto también tiene una función clínica. La regularidad es uno de los factores que más influye en el progreso terapéutico. Cuando las sesiones se mantienen semana tras semana con un ritmo estable, el proceso avanza con más fuerza. Las cancelaciones repetidas o los cambios constantes, en cambio, pueden ser una señal —a veces inconsciente— de resistencia al trabajo, y conviene hablarlo en consulta.",
+      },
+      {
+        type: "heading",
+        text: "Qué margen de aviso se considera razonable",
+      },
+      {
+        type: "paragraph",
+        text: "La costumbre extendida en la sanidad privada es pedir un aviso de 24 horas. Esto significa que si tienes sesión el miércoles a las 17h, hace falta avisar el martes antes de las 17h para anular o reprogramar sin coste. Con ese margen, el centro tiene tiempo de ofrecer la hora a otra persona que la necesite.",
+      },
+      {
+        type: "list",
+        items: [
+          "Más de 24 horas de aviso: la sesión se reprograma o se anula sin coste, y la hora se puede reutilizar.",
+          "Entre 12 y 24 horas: algunos centros aceptan el cambio dependiendo de la disponibilidad; otros aplican un cargo reducido.",
+          "Menos de 12 horas o aviso el mismo día: la sesión suele computarse como realizada, porque ya no hay manera de reponerla.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Estas franjas son una guía general. Cada centro concreto puede ajustarlas, y conviene conocer las condiciones exactas en el momento de reservar la primera sesión. En Espai Emocions explicamos nuestra política de forma transparente, para que sepas qué esperar desde el primer momento.",
+      },
+      {
+        type: "heading",
+        text: "Cuando avisas tarde, y se aplica un cargo",
+      },
+      {
+        type: "paragraph",
+        text: "Si avisas fuera de margen, la mayoría de centros cobran la sesión o aplican un cargo. Esta medida no busca castigar, sino cubrir el tiempo reservado y el coste de una sala que se ha mantenido disponible. En nuestro caso, valoramos cada situación de forma individual: una incidencia puntual justificada no se gestiona igual que una ausencia recurrente sin aviso.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que sí conviene saber es que, cuando una persona acumula varias cancelaciones tardías, el proceso terapéutico se resiente. No solo por el ritmo roto: también porque puede ser una señal de que algo del proceso hace falta revisar. En estas situaciones, el psicólogo suele proponer hablarlo antes de seguir reservando horas que no se usan.",
+      },
+      {
+        type: "heading",
+        text: "Cómo reprogramar bien",
+      },
+      {
+        type: "paragraph",
+        text: "La manera más sencilla de reprogramar es avisar con el margen establecido y proponer una hora alternativa dentro de la misma semana o la siguiente. Cuanto antes avises, más opciones tendrá el centro para ofrecerte un espacio. Si sabes con unos días de antelación que no podrás asistir —por un viaje, un trabajo, una cita médica—, enviar un mensaje el lunes o el martes facilita mucho la reprogramación.",
+      },
+      {
+        type: "paragraph",
+        text: "También ayuda ser flexible con las alternativas. Si tu horario habitual es el miércoles por la tarde, pero esta semana no puedes, aceptar un viernes por la mañana o un lunes a primera hora permite mantener el ritmo sin saltarse una semana entera. La constancia importa más que el día concreto.",
+      },
+      {
+        type: "heading",
+        text: "Qué pasa con las sesiones online",
+      },
+      {
+        type: "paragraph",
+        text: "Las sesiones por videollamada aplican la misma lógica. Aunque no hay desplazamiento físico, la hora sigue reservada para el profesional y hace falta el mismo margen de aviso. Puedes consultar nuestro artículo sobre terapia online vs. presencial para entender las diferencias prácticas entre los dos formatos.",
+      },
+      {
+        type: "paragraph",
+        text: "La ventaja de lo online es que, en algunos casos, una incidencia de última hora —un hijo enfermo, un imprevisto laboral— se puede resolver cambiando la modalidad de presencial a videollamada, siempre que el profesional lo acepte y el motivo de consulta lo permita. Es una opción que vale la pena comentar si tu agenda es variable.",
+      },
+      {
+        type: "heading",
+        text: "Cómo gestionamos las reprogramaciones en Espai Emocions",
+      },
+      {
+        type: "paragraph",
+        text: "En nuestro centro, la persona de referencia para tu agenda es tu psicólogo o nuestra administración. Trabajamos con un sistema de aviso sencillo: puedes comunicar la cancelación o el cambio por mensaje o por correo, y te respondemos con alternativas para reponer la hora. No hace falta justificar el motivo de la cancelación, aunque, si se trata de una situación que afecta al proceso terapéutico, puede ser útil compartirlo.",
+      },
+      {
+        type: "paragraph",
+        text: "Nuestra política concreta es un aviso de 24 horas para anular sin coste. Por debajo de ese margen, valoramos cada caso. Nuestra prioridad no es cobrar una sesión que no se ha hecho, sino garantizar que la agenda funcione y que el proceso de cada persona se mantenga con el ritmo necesario. Si tienes dudas sobre nuestra política o necesitas reprogramar una hora, puedes escribirnos en nuestra página de contacto.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto tiempo tengo para cancelar una sesión sin coste?",
+            answer:
+              "Lo habitual es un aviso de al menos 24 horas. Si avisas con ese margen, la sesión se reprograma o anula sin coste y el centro puede reutilizar el hueco. Por debajo de 24 horas, muchos centros aplican un cargo parcial o computan la sesión como realizada. En Espai Emocions explicamos nuestra política concreta en la primera sesión, para que sepas qué esperar desde el inicio.",
+          },
+          {
+            question: "¿Tengo que justificar por qué anulo una sesión?",
+            answer:
+              "No. No hace falta explicar el motivo de la cancelación. Si se trata de una incidencia puntual, basta con avisar. Ahora bien, si la cancelación tiene que ver con el propio proceso terapéutico —miedo a un tema, sensación de estancamiento, incomodidad con algo trabajado—, sí conviene compartirlo, porque esa información ayuda al psicólogo a ajustar el trabajo y a cuidar el proceso.",
+          },
+          {
+            question: "¿Qué pasa si cancelo varias veces seguidas?",
+            answer:
+              "Cuando se acumulan varias cancelaciones tardías o cambios constantes, el profesional suele proponer una conversación para entender qué está pasando. A veces es solo un periodo de agenda complicada; otras veces es una señal de resistencia o de algo del proceso que conviene revisar. En cualquier caso, lo importante es no dejar pasar la situación: hablarla permite ajustar el ritmo o, si hace falta, replantear el plan de trabajo.",
+          },
+          {
+            question: "¿Puedo cambiar una sesión presencial por online si no puedo desplazarme?",
+            answer:
+              "En muchos casos, sí, siempre que el profesional lo valore y el motivo de consulta lo permita. Para sesiones puntuales en las que un imprevisto impide venir al centro, pasar a formato vídeo permite mantener el ritmo sin perder la sesión. Conviene avisar cuanto antes y acordar el cambio con el psicólogo, que confirmará si esa sesión en concreto es adecuada para hacerla online.",
+          },
+        ],
+      },
+    ],
+  },
 ];
