@@ -687,4 +687,199 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. es-normal-estar-irritable-todo-el-tiempo (Pilar 3: ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "es-normal-estar-irritable-todo-el-tiempo",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA: "És normal estar irritable tot el temps?",
+    titleES: "¿Es normal estar irritable todo el tiempo?",
+    excerptCA:
+      "Tots ens sentim irritables algun dia. Però quan la irritabilitat es converteix en un estat gairebé permanent, quan qualsevol cosa genera una resposta desproporcionada i l'entorn comença a patir-ne, convé aturar-se a entendre què hi ha darrere. Aquí expliquem què és normal, què no ho és i quan convé buscar un psicòleg.",
+    excerptES:
+      "Todos nos sentimos irritables algún día. Pero cuando la irritabilidad se convierte en un estado casi permanente, cuando cualquier cosa genera una respuesta desproporcionada y el entorno empieza a sufrirla, conviene detenerse a entender qué hay detrás. Aquí explicamos qué es normal, qué no lo es y cuándo conviene buscar un psicólogo.",
+    datePublished: "2026-07-20",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Sentir irritabilitat de manera puntual és completament normal. El que no és normal és que aquesta irritabilitat s'instal·li com un estat gairebé permanent, que qualsevol contrarietat la dispari i que les persones del voltant comencin a caminar sobre ous per no provocar-la. Quan això passa, la irritabilitat deixa de ser una reacció i es converteix en un senyal que alguna cosa més fonda necessita atenció.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la irritabilitat persistent no és un defecte de caràcter ni una qüestió de «caràcter fort». Sol ser la punta visible d'alguna cosa que està passant per sota —estrès sostingut, sobrecàrrega, un quadre d'ansietat, un procés depressiu, problemes de son, dificultats no resoltes—. Si fa setmanes que et sents irritable gairebé cada dia i això afecta la teva relació amb els altres o la teva qualitat de vida, convé consultar amb un psicòleg per entendre-ne la causa i treballar-la.",
+      },
+      {
+        type: "heading",
+        text: "Què entenem per «irritabilitat normal»",
+      },
+      {
+        type: "paragraph",
+        text: "La irritabilitat és una resposta emocional natural. Tots la sentim quan estem cansats, quan dormim malament, quan passem per un dia complicat o quan algú ens frustra. És un estat passatger: arriba, dura unes hores o un parell de dies, i després es dissipa. No impedeix funcionar amb normalitat, ni fa mal a les persones del voltant de forma sistemàtica.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquests casos, no cal buscar un psicòleg. Descansar, ajustar la càrrega de feina o parlar amb algú proper sol ser suficient per recuperar l'equilibri. La irritabilitat normal és una reacció a una circumstància concreta i minva quan la circumstància canvia o es gestiona.",
+      },
+      {
+        type: "heading",
+        text: "Quan la irritabilitat deixa de ser normal",
+      },
+      {
+        type: "paragraph",
+        text: "El problema apareix quan la irritabilitat es manté setmanes, no respon a les circumstàncies i s'instal·la com un to vital. La persona se la troba al matí en llevar-se, l'acompanya durant el dia i dificulta gaudir de coses que abans li agradaven. Aquesta irritabilitat no és una reacció: és un estat.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha senyals que ajuden a distingir quan convé prestar-hi atenció:",
+      },
+      {
+        type: "list",
+        items: [
+          "La irritabilitat dura més de dues o tres setmanes i no millora amb el descans o amb canvis en la rutina.",
+          "La resposta a contrarietats petites és desproporcionada: un retard, una pregunta o un soroll basten per generar una reacció molt intensa.",
+          "Les persones del voltant expressen que fa temps que no et veuen bé o que eviten parlar amb tu per por de generar conflicte.",
+          "Acompanyen altres senyals: dificultat per dormir, cansament que no marxa, pèrdua d'interès, pensaments negatius recurrents o sensació de no poder desconectar.",
+          "La irritabilitat interfereix en la feina, en les relacions o en la vida quotidiana d'una forma que comences a reconèixer com a problemàtica.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Què pot haver darrere d'una irritabilitat persistent",
+      },
+      {
+        type: "paragraph",
+        text: "La irritabilitat no és un diagnòstic: és un símptoma. Pot tenir origen en situacions molt diferents, i la feina del psicòleg és ajudar a identificar què l'està generant en cada cas. Les causes més freqüents que trobem en la nostra pràctica clínica són:",
+      },
+      {
+        type: "list",
+        items: [
+          "Estrès sostingut o sobrecàrrega: quan les exigències —laborals, familiars, econòmiques— superen els recursos de la persona durant setmanes o mesos, el sistema nerviós queda en estat d'alerta. La irritabilitat n'és una expressió directa.",
+          "Ansietat: l'ansietat mantenida genera tensió interna que sovint es manifesta com a irritabilitat. La persona se sent «a punt de saltar» sense saber ben bé per què.",
+          "Procés depressiu: la depressió no sempre es presenta com a tristesa. En adults, i especialment en homes, pot manifestar-se principalment com a irritabilitat, hostilitat o desconnectivitat.",
+          "Problemes de son: dormir malament de forma sostinguda té un impacte directe sobre la regulació emocional. Una persona crònicament cansada té molta menys capacitat per tolerar la frustració.",
+          "Dificultats no resoltes: situacions personals que s'han aparcades —duels, conflictes relacionals, decisions pendents— poden generar un fons de tensió que es filtra a través de la irritabilitat.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Per què és útil buscar un psicòleg",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes persones arriben a consulta dient: «No sé què em passa, m'ho premo tot malament». Aquesta frase és el punt de partida perfecte. La irritabilitat persistent és una informació valuosa: indica que alguna cosa necessita ser atesa, i la teràpia és un espai per fer-ho amb acompanyament professional.",
+      },
+      {
+        type: "paragraph",
+        text: "En la primera sessió, el psicòleg recull el motiu de consulta, fa una història clínica i comença a identificar possibles factors. A partir d'aquí, es proposa un pla de treball adaptat a la situació. Aquest pla pot incloure tècniques de regulació emocional, estratègies per gestionar l'estrès, treball sobre les dificultats de fons i, si cal, coordinació amb altres professionals —per exemple, per descartar causes mèdiques o valorar un abordatge conjunt amb psiquiatria—.",
+      },
+      {
+        type: "paragraph",
+        text: "L'objectiu no és «deixar de sentir». És entendre què sents, per què ho sents i aprendre a gestionar-ho de manera que no es converteixi en un patró que faci mal a un mateix i als altres. La irritabilitat gestionada no desapareix sempre: la majoria de vegades es converteix en un senyal que es pot escoltar i atendre abans que exploti.",
+      },
+      {
+        type: "heading",
+        text: "I si no estic segur de necessitar-ho?",
+      },
+      {
+        type: "paragraph",
+        text: "És freqüent dubtar. Moltes persones resten importància a la irritabilitat durant mesos perquè la confonen amb «forma de ser» o amb «el caràcter que tinc». Però la irritabilitat persistent no és un tret de personalitat: és una resposta que indica que alguna cosa està demanant atenció. Si fa setmanes que la notes i t'afecta, una sessió de valoració pot ajudar a entendre si convé iniciar un procés.",
+      },
+      {
+        type: "paragraph",
+        text: "No cal estar en crisi per buscar ajuda. De fet, treballar la irritabilitat abans que es converteixi en un problema més gran és una decisió pràctica: permet recuperar la calma, millorar les relacions i entendre's millor un mateix. Si vols parlar amb el nostre equip, pots sol·licitar una primera sessió a la nostra pàgina de contacte.Valorarem el teu cas i t'orientarem sobre els passos a seguir.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Sentir irritabilidad de manera puntual es completamente normal. Lo que no es normal es que esa irritabilidad se instale como un estado casi permanente, que cualquier contrariedad la dispare y que las personas del entorno empiecen a caminar sobre cáscaras de huevo para no provocarla. Cuando eso ocurre, la irritabilidad deja de ser una reacción y se convierte en una señal de que algo más profundo necesita atención.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la irritabilidad persistente no es un defecto de carácter ni una cuestión de «temperamento fuerte». Suele ser la punta visible de algo que está pasando por debajo —estrés sostenido, sobrecarga, un cuadro de ansiedad, un proceso depresivo, problemas de sueño, dificultades no resueltas—. Si llevas semanas sintiéndote irritable casi cada día y eso afecta a tu relación con los demás o a tu calidad de vida, conviene consultar con un psicólogo para entender la causa y trabajarla.",
+      },
+      {
+        type: "heading",
+        text: "Qué entendemos por «irritabilidad normal»",
+      },
+      {
+        type: "paragraph",
+        text: "La irritabilidad es una respuesta emocional natural. Todos la sentimos cuando estamos cansados, cuando dormimos mal, cuando pasamos por un día complicado o cuando alguien nos frustra. Es un estado pasajero: llega, dura unas horas o un par de días, y luego se disipa. No impide funcionar con normalidad, ni hace daño a las personas del entorno de forma sistemática.",
+      },
+      {
+        type: "paragraph",
+        text: "En estos casos, no hace falta buscar un psicólogo. Descansar, ajustar la carga de trabajo o hablar con alguien cercano suele ser suficiente para recuperar el equilibrio. La irritabilidad normal es una reacción a una circunstancia concreta y disminuye cuando la circunstancia cambia o se gestiona.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo la irritabilidad deja de ser normal",
+      },
+      {
+        type: "paragraph",
+        text: "El problema aparece cuando la irritabilidad se mantiene semanas, no responde a las circunstancias y se instala como un tono vital. La persona se la encuentra al levantarse por la mañana, la acompaña durante el día y dificulta disfrutar de cosas que antes le gustaban. Esta irritabilidad no es una reacción: es un estado.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay señales que ayudan a distinguir cuándo conviene prestarle atención:",
+      },
+      {
+        type: "list",
+        items: [
+          "La irritabilidad dura más de dos o tres semanas y no mejora con el descanso o con cambios en la rutina.",
+          "La respuesta a contrariedades pequeñas es desproporcionada: un retraso, una pregunta o un ruido bastan para generar una reacción muy intensa.",
+          "Las personas del entorno expresan que hace tiempo que no te ven bien o que evitan hablar contigo por miedo a generar conflicto.",
+          "Se acompañan otras señales: dificultad para dormir, cansancio que no se va, pérdida de interés, pensamientos negativos recurrentes o sensación de no poder desconectar.",
+          "La irritabilidad interfiere en el trabajo, en las relaciones o en la vida cotidiana de una forma que empiezas a reconocer como problemática.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Qué puede haber detrás de una irritabilidad persistente",
+      },
+      {
+        type: "paragraph",
+        text: "La irritabilidad no es un diagnóstico: es un síntoma. Puede tener origen en situaciones muy diferentes, y la tarea del psicólogo es ayudar a identificar qué la está generando en cada caso. Las causas más frecuentes que encontramos en nuestra práctica clínica son:",
+      },
+      {
+        type: "list",
+        items: [
+          "Estrés sostenido o sobrecarga: cuando las exigencias —laborales, familiares, económicas— superan los recursos de la persona durante semanas o meses, el sistema nervioso queda en estado de alerta. La irritabilidad es una expresión directa de eso.",
+          "Ansiedad: la ansiedad mantenida genera tensión interna que a menudo se manifiesta como irritabilidad. La persona se siente «a punto de saltar» sin saber muy bien por qué.",
+          "Proceso depresivo: la depresión no siempre se presenta como tristeza. En adultos, y especialmente en hombres, puede manifestarse principalmente como irritabilidad, hostilidad o desconexión.",
+          "Problemas de sueño: dormir mal de forma sostenida tiene un impacto directo sobre la regulación emocional. Una persona crónicamente cansada tiene mucha menos capacidad para tolerar la frustración.",
+          "Dificultades no resueltas: situaciones personales que se han aparcado —duelos, conflictos relacionales, decisiones pendientes— pueden generar un fondo de tensión que se filtra a través de la irritabilidad.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Por qué es útil buscar un psicólogo",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas personas llegan a consulta diciendo: «No sé qué me pasa, me lo tomo todo mal». Esa frase es el punto de partida perfecto. La irritabilidad persistente es una información valiosa: indica que algo necesita ser atendido, y la terapia es un espacio para hacerlo con acompañamiento profesional.",
+      },
+      {
+        type: "paragraph",
+        text: "En la primera sesión, el psicólogo recoge el motivo de consulta, hace una historia clínica y empieza a identificar posibles factores. A partir de ahí, se propone un plan de trabajo adaptado a la situación. Ese plan puede incluir técnicas de regulación emocional, estrategias para gestionar el estrés, trabajo sobre las dificultades de fondo y, si es necesario, coordinación con otros profesionales —por ejemplo, para descartar causas médicas o valorar un abordaje conjunto con psiquiatría—.",
+      },
+      {
+        type: "paragraph",
+        text: "El objetivo no es «dejar de sentir». Es entender qué sientes, por qué lo sientes y aprender a gestionarlo de manera que no se convierta en un patrón que haga daño a uno mismo y a los demás. La irritabilidad gestionada no desaparece siempre: la mayoría de veces se convierte en una señal que se puede escuchar y atender antes de que explote.",
+      },
+      {
+        type: "heading",
+        text: "Y si no estoy seguro de necesitarlo",
+      },
+      {
+        type: "paragraph",
+        text: "Es frecuente dudar. Muchas personas restan importancia a la irritabilidad durante meses porque la confunden con «forma de ser» o con «el carácter que tengo». Pero la irritabilidad persistente no es un rasgo de personalidad: es una respuesta que indica que algo está pidiendo atención. Si llevas semanas notándola y te afecta, una sesión de valoración puede ayudar a entender si conviene iniciar un proceso.",
+      },
+      {
+        type: "paragraph",
+        text: "No hace falta estar en crisis para buscar ayuda. De hecho, trabajar la irritabilidad antes de que se convierta en un problema más grande es una decisión práctica: permite recuperar la calma, mejorar las relaciones y entenderse mejor a uno mismo. Si quieres hablar con nuestro equipo, puedes solicitar una primera sesión en nuestra página de contacto. Valoraremos tu caso y te orientaremos sobre los pasos a seguir.",
+      },
+    ],
+  },
 ];
