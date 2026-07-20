@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "anular-reprogramar-sesion-psicologia",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "Puc anular o reprogramar una sessió de psicologia?",
+    "titleES": "¿Puedo anular o reprogramar una sesión de psicología?",
+    "excerptCA": "Sí, pots anular o reprogramar una sessió sempre que avisis amb antelació suficient. La majoria de centres, inclòs el nostre, tenen una política de cancel·lació raonable que protegeix tant la persona que consulta com el professional que reserva un espai. Aquí expliquem quant de marge cal per canviar una sessió, què passa quan avisis tard i com gestionem nosaltres les reprogramacions a Espai Emocions.",
+    "excerptES": "Sí, puedes anular o reprogramar una sesión siempre que avises con antelación suficiente. La mayoría de centros, incluido el nuestro, tienen una política de cancelación razonable que protege tanto a la persona que consulta como al profesional que reserva un espacio. Aquí explicamos cuánto margen hace falta para cambiar una sesión, qué pasa cuando avisas tarde y cómo gestionamos nosotros las reprogramaciones en Espai Emocions.",
+    "datePublished": "2026-07-21"
+  },
+  {
     "slug": "psicologo-para-adolescentes",
     "categoryCA": "Psicòleg per nínxol",
     "categoryES": "Psicólogo por nicho",
