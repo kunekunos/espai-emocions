@@ -1128,4 +1128,241 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 6. seguro-medico-psicologia-barcelona (Pilar 5: Psicología en Barcelona)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "seguro-medico-psicologia-barcelona",
+    categoryCA: "Psicologia a Barcelona",
+    categoryES: "Psicología en Barcelona",
+    titleCA: "Cobreix el segur mèdic la psicologia a Barcelona?",
+    titleES: "¿Cubre el seguro médico la psicología en Barcelona?",
+    excerptCA:
+      "La majoria d'assegurances mèdiques a Barcelona ofereixen algun tipus de cobertura de psicologia, però amb limitacions: nombre de sessions tancat, copagament i quadre mèdic restringit. Aquí expliquem com funciona cada modalitat, quines diferències hi ha entre companyies i què convé saber abans de decidir si utilitzar el segur o anar a la sanitat privada per compte propi.",
+    excerptES:
+      "La mayoría de seguros médicos en Barcelona ofrecen algún tipo de cobertura de psicología, pero con limitaciones: número de sesiones cerrado, copago y cuadro médico restringido. Aquí explicamos cómo funciona cada modalidad, qué diferencias hay entre compañías y qué conviene saber antes de decidir si usar el seguro o acudir a la sanidad privada por cuenta propia.",
+    datePublished: "2026-07-22",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Sí, la majoria d'assegurances mèdiques a Barcelona inclouen la psicologia dins de la seva cobertura, però amb condicions. L'atenció no és il·limitada ni gratuïta en tots els casos: hi sol haver un nombre tancat de sessions per any, un copagament per visita i un quadre mèdic concret de psicòlegs adherits. Entendre com funciona aquesta cobertura evita sorpreses i ajuda a decidir si convé fer-la servir o cercar un psicòleg privat per compte propi.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: les assegurances mèdiques cobreixen psicologia, però amb límits. Si el motiu de consulta és puntual i encaixa amb un professional del quadre mèdic, pot ser una bona opció. Si busques continuïtat, especialització o triar professional, la sanitat privada per compte propi sol ser més adequada. A Espai Emocions no treballem amb asseguradores: som un centre privat, i això té implicacions que expliquem més avall.",
+      },
+      {
+        type: "heading",
+        text: "Quins tipus de cobertura existeixen",
+      },
+      {
+        type: "paragraph",
+        text: "No tots els segurs cobreixen la psicologia de la mateixa manera. Les modalitats més habituals a Barcelona són:",
+      },
+      {
+        type: "list",
+        items: [
+          "Cobertura amb copagament. Pagues una part de cada sessió (entre 5 i 20 € segons la pòlissa) i la companyia abona la resta. És la modalitat més freqüent en els segurs de salut estàndard.",
+          "Reemborsament de despeses. Pagues la sessió sencera al psicòleg privat que triïs i la companyia et retorna un percentatge (habitualment entre el 60 i el 80 %) fins a un màxim anual. Opció més flexible però més costosa a la pràctica.",
+          "Quadre mèdic tancat. Només pots anar als psicòlegs que figuren al llistat de la companyia. Si cap d'ells encaixa amb el teu motiu de consulta o amb la zona que et convé, la cobertura perd valor.",
+          "Packs de sessions. Algunes asseguradores ofereixen un nombre tancat de sessions per any (entre 4 i 10) sense copagament. Superat aquest límit, la resta es paga íntegrament.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes modalitats no són excloents: algunes pòlisses combinen copagament amb un límit de sessions, o permeten reemborsament només per a determinades especialitats. Conviene revisar les condicions específiques del teu contracte abans de demanar cita.",
+      },
+      {
+        type: "heading",
+        text: "Quantes sessions cobreixen, en realitat",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest és el punt on més persones es troben amb una sorpresa. Un procés terapèutic habitual per a un malestar moderat —per exemple, un quadre d'ansietat o un dol— sol requerir entre 8 i 15 sessions. Els packs que ofereixen les asseguradores acostumen a ser de 4 a 10 sessions per any. És a dir, la cobertura cobreix la fase inicial, però no tot el procés.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan s'acaba el límit, tens dues opcions: continuar amb el mateix psicòleg pagant íntegrament la sessió, o aturar el procés. Aturar-lo a mig camí és precisament el que més convé evitar: els avenços parcials es perden si no es consoliden. Aquesta limitació és una de les raons principals per les quals moltes persones, un cop iniciat el procés, opten per la sanitat privada des del començament.",
+      },
+      {
+        type: "heading",
+        text: "El quadre mèdic i la llibertat de tria",
+      },
+      {
+        type: "paragraph",
+        text: "El quadre mèdic d'una asseguradora és un llistat tancat de professionals. No pots triar psicòleg lliurement: tries entre els que figuren. Això té tres implicacions pràctiques que convé pesar:",
+      },
+      {
+        type: "list",
+        items: [
+          "Especialització. No tots els psicòlegs del quadre treballen tots els motius de consulta. Si necessites un perfil específic —per exemple, un psicòleg per a sanitaris o per a adolescents— pot ser que cap professional del llistat el tingui.",
+          "Encaix personal. L'encaix entre persona i psicòleg és un dels factors més decisius de l'èxit terapèutic. Limitar la tria a un quadre mèdic redueix la probabilitat de trobar aquest encaix. Pots llegir més sobre aquest punt en el nostre article sobre canviar de psicòleg.",
+          "Ubicació. Els professionals del quadre no estan repartits per tota Barcelona. Si vius en un barri amb poca presència d'aquesta companyia, pots haver de desplaçar-te lluny. La nostra guia per barris et pot ajudar a valorar aquest aspecte.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Això no vol dir que el quadre mèdic sigui una mala opció. Molts psicòlegs adherits són professionals sòlids. Vol dir que la tria és més acotada i que, abans d'usar la cobertura, convé verificar si hi ha algú que encaixi amb el que necessites.",
+      },
+      {
+        type: "heading",
+        text: "Sanitat pública, assegurança o privat: tres camins diferents",
+      },
+      {
+        type: "paragraph",
+        text: "A Barcelona hi ha tres vies d'accés a la psicologia, i cadascuna té el seu perfil. La sanitat pública és gratuïta però amb llistes d'espera i un enfocament limitat a la urgència. L'assegurança mèdica ofereix rapidesa i un cost reduït per sessió, però amb els límits que ja hem explicat. La sanitat privada per compte propi aporta continuïtat, llibertat de tria i especialització, a canvi d'un cost íntegre.",
+      },
+      {
+        type: "paragraph",
+        text: "La tria entre les tres depèn del motiu de consulta, del pressupost i de la urgència. Per a un procés curt i ben delimitat, l'assegurança pot ser suficient. Per a un procés de fons o amb necessitats específiques, la privada sol donar més marge. Pots aprofundir en aquestes diferències en el nostre article sobre psicologia pública o privada a Barcelona.",
+      },
+      {
+        type: "heading",
+        text: "Per què Espai Emocions no treballa amb asseguradores",
+      },
+      {
+        type: "paragraph",
+        text: "Al nostre centre no treballem amb asseguradores mèdiques. No és una decisió comercial: és una decisió clínica. Treballar amb una asseguradora implica acceptar condicions que, en la nostra experiència, limiten la qualitat del procés: nombre de sessions tancat, interferència en la planificació del tractament i un quadre de professionals que no sempre permet derivar dins del centre a la persona més adequada per a cada cas.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar com a centre privat ens permet dur la sessió setmanal que el procés necessita, ajustar el ritme a cada persona i coordinar-nos en equip quan convé. El cost d'una sessió privada a Barcelona es mou en un rang que pots consultar a la nostra guia de preus, i és un cost que moltes persones assumeixen per la diferència de continuïtat i de tria.",
+      },
+      {
+        type: "heading",
+        text: "Com decidir segons la teva situació",
+      },
+      {
+        type: "paragraph",
+        text: "Si tens una assegurança mèdica i et preguntes si fer-la servir per començar un procés terapèutic, aquestes tres preguntes et poden ajudar a decidir:",
+      },
+      {
+        type: "list",
+        items: [
+          "El meu motiu de consulta és puntual o de fons? Si és puntual —una situació acotada que espera resoldre's en poques sessions— l'assegurança pot ser una bona via. Si és un procés de fons, valora si la cobertura cobrirà tot el recorregut.",
+          "Hi ha un psicòleg del quadre que encaixi amb el que necessito? Revisa el llistat i comprova especialització, ubicació i disponibilitat. Si no hi ha cap perfil adequat, la cobertura perd sentit.",
+          "Quan s'acabi el límit de sessions, vull continuar amb aquest professional? Si la resposta és sí, calcula el cost total considerant que, un cop acabada la cobertura, pagareu la sessió sencera.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "En qualsevol dels casos, el primer pas no és triar modalitat sinó tenir una primera sessió d'avaluació. Allà es delimita el motiu de consulta, s'estima el nombre de sessions que el procés pot requerir i es valora si l'encaix amb el professional és bo. Aquesta primera sessió és el moment idoni per comparar opcions i decidir amb informació real, no amb suposicions.",
+      },
+      {
+        type: "paragraph",
+        text: "Si vols fer una primera sessió amb el nostre equip, pots escriure'ns a /contacto. També pots consultar els nostres serveis o la nostra pàgina sobre com triar psicòleg a Barcelona per tenir més elements abans de decidir.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Sí, la mayoría de seguros médicos en Barcelona incluyen la psicología dentro de su cobertura, pero con condiciones. La atención no es ilimitada ni gratuita en todos los casos: suele haber un número cerrado de sesiones por año, un copago por visita y un cuadro médico concreto de psicólogos adheridos. Entender cómo funciona esta cobertura evita sorpresas y ayuda a decidir si conviene usarla o buscar un psicólogo privado por cuenta propia.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: los seguros médicos cubren psicología, pero con límites. Si el motivo de consulta es puntual y encaja con un profesional del cuadro médico, puede ser una buena opción. Si buscas continuidad, especialización o elegir profesional, la sanidad privada por cuenta propia suele ser más adecuada. En Espai Emocions no trabajamos con aseguradoras: somos un centro privado, y eso tiene implicaciones que explicamos más abajo.",
+      },
+      {
+        type: "heading",
+        text: "Qué tipos de cobertura existen",
+      },
+      {
+        type: "paragraph",
+        text: "No todos los seguros cubren la psicología de la misma manera. Las modalidades más habituales en Barcelona son:",
+      },
+      {
+        type: "list",
+        items: [
+          "Cobertura con copago. Pagas una parte de cada sesión (entre 5 y 20 € según la póliza) y la compañía abona el resto. Es la modalidad más frecuente en los seguros de salud estándar.",
+          "Reembolso de gastos. Pagas la sesión entera al psicólogo privado que elijas y la compañía te devuelve un porcentaje (habitualmente entre el 60 y el 80 %) hasta un máximo anual. Opción más flexible pero más costosa en la práctica.",
+          "Cuadro médico cerrado. Solo puedes acudir a los psicólogos que figuran en el listado de la compañía. Si ninguno encaja con tu motivo de consulta o con la zona que te conviene, la cobertura pierde valor.",
+          "Packs de sesiones. Algunas aseguradoras ofrecen un número cerrado de sesiones por año (entre 4 y 10) sin copago. Superado este límite, el resto se paga íntegramente.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Estas modalidades no son excluyentes: algunas pólizas combinan copago con un límite de sesiones, o permiten reembolso solo para determinadas especialidades. Conviene revisar las condiciones específicas de tu contrato antes de pedir cita.",
+      },
+      {
+        type: "heading",
+        text: "Cuántas sesiones cubren, en realidad",
+      },
+      {
+        type: "paragraph",
+        text: "Este es el punto en el que más personas se encuentran con una sorpresa. Un proceso terapéutico habitual para un malestar moderado —por ejemplo, un cuadro de ansiedad o un duelo— suele requerir entre 8 y 15 sesiones. Los packs que ofrecen las aseguradoras suelen ser de 4 a 10 sesiones por año. Es decir, la cobertura cubre la fase inicial, pero no todo el proceso.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando se acaba el límite, tienes dos opciones: continuar con el mismo psicólogo pagando íntegramente la sesión, o detener el proceso. Detenerlo a medio camino es precisamente lo que más conviene evitar: los avances parciales se pierden si no se consolidan. Esta limitación es una de las razones principales por las que muchas personas, una vez iniciado el proceso, optan por la sanidad privada desde el principio.",
+      },
+      {
+        type: "heading",
+        text: "El cuadro médico y la libertad de elección",
+      },
+      {
+        type: "paragraph",
+        text: "El cuadro médico de una aseguradora es un listado cerrado de profesionales. No puedes elegir psicólogo libremente: eliges entre los que figuran. Eso tiene tres implicaciones prácticas que conviene sopesar:",
+      },
+      {
+        type: "list",
+        items: [
+          "Especialización. No todos los psicólogos del cuadro trabajan todos los motivos de consulta. Si necesitas un perfil específico —por ejemplo, un psicólogo para sanitarios o para adolescentes— puede que ningún profesional del listado lo tenga.",
+          "Encaje personal. El encaje entre persona y psicólogo es uno de los factores más decisivos del éxito terapéutico. Limitar la elección a un cuadro médico reduce la probabilidad de encontrar ese encaje. Puedes leer más sobre este punto en nuestro artículo sobre cambiar de psicólogo.",
+          "Ubicación. Los profesionales del cuadro no están repartidos por toda Barcelona. Si vives en un barrio con poca presencia de esa compañía, puedes tener que desplazarte lejos. Nuestra guía por barrios te puede ayudar a valorar este aspecto.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Esto no significa que el cuadro médico sea una mala opción. Muchos psicólogos adheridos son profesionales sólidos. Significa que la elección es más acotada y que, antes de usar la cobertura, conviene verificar si hay alguien que encaje con lo que necesitas.",
+      },
+      {
+        type: "heading",
+        text: "Sanidad pública, seguro o privado: tres caminos diferentes",
+      },
+      {
+        type: "paragraph",
+        text: "En Barcelona hay tres vías de acceso a la psicología, y cada una tiene su perfil. La sanidad pública es gratuita pero con listas de espera y un enfoque limitado a la urgencia. El seguro médico ofrece rapidez y un coste reducido por sesión, pero con los límites que ya hemos explicado. La sanidad privada por cuenta propia aporta continuidad, libertad de elección y especialización, a cambio de un coste íntegro.",
+      },
+      {
+        type: "paragraph",
+        text: "La elección entre las tres depende del motivo de consulta, del presupuesto y de la urgencia. Para un proceso corto y bien delimitado, el seguro puede ser suficiente. Para un proceso de fondo o con necesidades específicas, la privada suele dar más margen. Puedes profundizar en estas diferencias en nuestro artículo sobre psicología pública o privada en Barcelona.",
+      },
+      {
+        type: "heading",
+        text: "Por qué Espai Emocions no trabaja con aseguradoras",
+      },
+      {
+        type: "paragraph",
+        text: "En nuestro centro no trabajamos con aseguradoras médicas. No es una decisión comercial: es una decisión clínica. Trabajar con una aseguradora implica aceptar condiciones que, en nuestra experiencia, limitan la calidad del proceso: número de sesiones cerrado, interferencia en la planificación del tratamiento y un cuadro de profesionales que no siempre permite derivar dentro del centro a la persona más adecuada para cada caso.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar como centro privado nos permite llevar la sesión semanal que el proceso necesita, ajustar el ritmo a cada persona y coordinarnos en equipo cuando conviene. El coste de una sesión privada en Barcelona se mueve en un rango que puedes consultar en nuestra guía de precios, y es un coste que muchas personas asumen por la diferencia de continuidad y de elección.",
+      },
+      {
+        type: "heading",
+        text: "Cómo decidir según tu situación",
+      },
+      {
+        type: "paragraph",
+        text: "Si tienes un seguro médico y te preguntas si usarlo para empezar un proceso terapéutico, estas tres preguntas te pueden ayudar a decidir:",
+      },
+      {
+        type: "list",
+        items: [
+          "¿Mi motivo de consulta es puntual o de fondo? Si es puntual —una situación acotada que espera resolverse en pocas sesiones— el seguro puede ser una buena vía. Si es un proceso de fondo, valora si la cobertura cubrirá todo el recorrido.",
+          "¿Hay un psicólogo del cuadro que encaje con lo que necesito? Revisa el listado y comprueba especialización, ubicación y disponibilidad. Si no hay ningún perfil adecuado, la cobertura pierde sentido.",
+          "Cuando se acabe el límite de sesiones, ¿quiero continuar con ese profesional? Si la respuesta es sí, calcula el coste total considerando que, una vez acabada la cobertura, pagarás la sesión entera.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "En cualquiera de los casos, el primer paso no es elegir modalidad sino tener una primera sesión de evaluación. Allí se delimita el motivo de consulta, se estima el número de sesiones que el proceso puede requerir y se valora si el encaje con el profesional es bueno. Esa primera sesión es el momento idóneo para comparar opciones y decidir con información real, no con suposiciones.",
+      },
+      {
+        type: "paragraph",
+        text: "Si quieres hacer una primera sesión con nuestro equipo, puedes escribirnos en /contacto. También puedes consultar nuestros servicios o nuestra página sobre cómo elegir psicólogo en Barcelona para tener más elementos antes de decidir.",
+      },
+    ],
+  },
 ];
