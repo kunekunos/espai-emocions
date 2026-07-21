@@ -33,16 +33,6 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-07-21"
   },
   {
-    "slug": "psicologo-para-adolescentes",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a adolescents: per què l'adolescència necessita un acompanyament específic",
-    "titleES": "Psicólogo para adolescentes: por qué la adolescencia necesita un acompañamiento específico",
-    "excerptCA": "L'adolescència no és una versió reduïda de l'edat adulta: és una etapa amb necessitats, ritmes i llenguatges propis. La identitat encara s'està formant, la relació amb les famílies canvia i el grup d'iguals guanya pes. Un psicòleg per a adolescents ha de conèixer aquest context, parlar amb el jove sense tractar-lo com a infant ni com a adult, i coordinar-se amb la família quan cal sense violar la confidencialitat. Aquí expliquem què busca un adolescent en un psicòleg i com treballem aquest perfil des d'Espai Emocions.",
-    "excerptES": "La adolescencia no es una versión reducida de la edad adulta: es una etapa con necesidades, ritmos y lenguajes propios. La identidad aún se está formando, la relación con las familias cambia y el grupo de iguales gana peso. Un psicólogo para adolescentes tiene que conocer este contexto, hablar con el joven sin tratarlo como a un niño ni como a un adulto, y coordinarse con la familia cuando hace falta sin violar la confidencialidad. Aquí explicamos qué busca un adolescente en un psicólogo y cómo trabajamos este perfil desde Espai Emocions.",
-    "datePublished": "2026-07-19"
-  },
-  {
     "slug": "psicologo-para-mayores",
     "categoryCA": "Psicòleg per nínxol",
     "categoryES": "Psicólogo por nicho",
