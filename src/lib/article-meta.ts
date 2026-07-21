@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "seguro-medico-psicologia-barcelona",
+    "categoryCA": "Psicologia a Barcelona",
+    "categoryES": "Psicología en Barcelona",
+    "titleCA": "Cobreix el segur mèdic la psicologia a Barcelona?",
+    "titleES": "¿Cubre el seguro médico la psicología en Barcelona?",
+    "excerptCA": "La majoria d'assegurances mèdiques a Barcelona ofereixen algun tipus de cobertura de psicologia, però amb limitacions: nombre de sessions tancat, copagament i quadre mèdic restringit. Aquí expliquem com funciona cada modalitat, quines diferències hi ha entre companyies i què convé saber abans de decidir si utilitzar el segur o anar a la sanitat privada per compte propi.",
+    "excerptES": "La mayoría de seguros médicos en Barcelona ofrecen algún tipo de cobertura de psicología, pero con limitaciones: número de sesiones cerrado, copago y cuadro médico restringido. Aquí explicamos cómo funciona cada modalidad, qué diferencias hay entre compañías y qué conviene saber antes de decidir si usar el seguro o acudir a la sanidad privada por cuenta propia.",
+    "datePublished": "2026-07-22"
+  },
+  {
     "slug": "anular-reprogramar-sesion-psicologia",
     "categoryCA": "El centre",
     "categoryES": "El centro",
