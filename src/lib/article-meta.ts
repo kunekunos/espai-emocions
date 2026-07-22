@@ -163,6 +163,16 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-05-01"
   },
   {
+    "slug": "crisis-vital-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Crisi vital a l'edat adulta: quan la vida demana un replantejament",
+    "titleES": "Crisis vital en la edad adulta: cuando la vida pide un replanteamiento",
+    "excerptCA": "Arribar als 35 o als 45 i sentir que res encaixa com abans no és necessàriament un símptoma. Pot ser una crisi vital: un moment en què la vida, tal com estava muntada, deixa de sostenir-se. Aquí expliquem què és una crisi vital, com distingir-la d'un estat depresiu i quin paper pot tenir la teràpia en aquest trànsit.",
+    "excerptES": "Llegar a los 35 o a los 45 y sentir que nada encaja como antes no es necesariamente un síntoma. Puede ser una crisis vital: un momento en que la vida, tal como estaba montada, deja de sostenerse. Aquí explicamos qué es una crisis vital, cómo distinguirla de un estado depresivo y qué papel puede tener la terapia en ese tránsito.",
+    "datePublished": "2026-07-22"
+  },
+  {
     "slug": "confidencialidad-psicologia",
     "categoryCA": "El centre",
     "categoryES": "El centro",

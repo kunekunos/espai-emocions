@@ -1121,4 +1121,218 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 4. crisis-vital-edad-adulta (Pilar: Cambios vitales / Crisis existenciales)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "crisis-vital-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA:
+      "Crisi vital a l'edat adulta: quan la vida demana un replantejament",
+    titleES:
+      "Crisis vital en la edad adulta: cuando la vida pide un replanteamiento",
+    excerptCA:
+      "Arribar als 35 o als 45 i sentir que res encaixa com abans no és necessàriament un símptoma. Pot ser una crisi vital: un moment en què la vida, tal com estava muntada, deixa de sostenir-se. Aquí expliquem què és una crisi vital, com distingir-la d'un estat depresiu i quin paper pot tenir la teràpia en aquest trànsit.",
+    excerptES:
+      "Llegar a los 35 o a los 45 y sentir que nada encaja como antes no es necesariamente un síntoma. Puede ser una crisis vital: un momento en que la vida, tal como estaba montada, deja de sostenerse. Aquí explicamos qué es una crisis vital, cómo distinguirla de un estado depresivo y qué papel puede tener la terapia en ese tránsito.",
+    datePublished: "2026-07-22",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un moment, sovint entre els 35 i els 50 anys, en què la vida tal com estava muntada deixa de sostenir-se. No sempre hi ha un fet concret que ho dispari: de vegades és una pèrdua, un canvi de feina o una ruptura; d'altres, és una sensació difusa que allò que fins ara donava sentit ja no ho dóna. La feina segueix, la rutina segueix, però per dins alguna cosa s'ha mogut i no acaba de tornar al seu lloc.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: una crisi vital no és una malaltia ni un fracàs. És un punt d'inflexió en què els recursos (psicològics, relacionals, de sentit) que la persona havia fet servir fins ara deixen de ser suficients. Distingir-la d'un estat depresiu és important, perquè canvia l'enfocament: no es tracta de suprimir un símptoma, sinó d'acompanyar un procés de madurez.",
+      },
+      {
+        type: "heading",
+        text: "Què entenem per crisi vital",
+      },
+      {
+        type: "paragraph",
+        text: "Una crisi vital és un moment en què la coherència interna —l'alineació entre el que un sent, pensa, fa i valora— es trenca o es qüestiona de forma profunda. No és un mal dia ni una mala temporada. És un trànsit en què la persona descobreix que les eines amb què s'ha construït la seva vida fins ara ja no li serveixen per a la pregunta que ara té al davant.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta pregunta pot prendre moltes formes. Per què faig el que faig? Amb qui vull compartir la vida? Què vol dir, avui, ser responsable? Què és el que realment m'importa, quan deixo de mirar el que els altres esperen de mi? Són preguntes que no tenien urgència als 25 anys i que, en aquesta etapa, tornen amb un pes nou.",
+      },
+      {
+        type: "heading",
+        text: "Per què apareixen sovint en aquesta franja d'edat",
+      },
+      {
+        type: "paragraph",
+        text: "Entre els 30 i els 55 anys coincideixen diverses coses. La majoria de decisions que estructuraven la vida —estudis, parella, feina, potser paternitat o maternitat— ja estan preses i en marxa. Però el costat que no es preveia també arriba: les decisions preses fa anys ara pesen, els projectes que eren futur són present, i la pregunta ja no és \\\"què vull ser\\\", sinó \\\"què faig amb el que ja soc\\\".",
+      },
+      {
+        type: "paragraph",
+        text: "A això s'hi sumen canvis reals: pares que envelleixen, fills que creixen, relacions que es desgasten, cossos que canvien, feines que perden sentit o que canvien de mans. El context no és el mateix que fa deu anys, i la persona tampoc. Quan la diferència entre la vida que es viu i la vida que es vol viure es fa gran, la crisi apareix com a senyal, no com a fallo.",
+      },
+      {
+        type: "heading",
+        text: "Com distingir una crisi vital d'un estat depresiu",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta distinció és delicada, perquè els símptomes es solapen. En tots dos casos hi pot haver tristesa, desconnectament, pèrdua d'interès, fatiga, dificultat per concentrar-se. La diferència no està tant en els símptomes com en el que hi ha darrere.",
+      },
+      {
+        type: "paragraph",
+        text: "En una crisi vital, el malestar sol anar acompanyat d'una pregunta: \\\"és això tot?\\\", \\\"estic vivint la vida que vull?\\\". Hi ha un moviment intern, encara que sigui confús, cap a un canvi. La persona encara pot sentir desig, curiositat o ràbia; el que ha perdut no és la capacitat de sentir, sinó la direcció.",
+      },
+      {
+        type: "paragraph",
+        text: "En un estat depresiu, en canvi, el que s'esvaeix és la pròpia capacitat de moure's. La pregunta no és \\\"què vull?\\\", sinó que, sovint, no hi ha pregunta: hi ha buit, lentitud, i una sensació que res té sentit, ni tan sols allò que abans importava. La energia per preguntar-se i per respondre està minvada.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta distinció no és taxativa. Una crisi vital mal acompanyada pot derivar en un estat depresiu, i un estat depresiu pot començar amb un sentiment de crisi. Per això no convé auto-diagnosticar-se: una valoració clínica seria ajuda a orientar el procés, i la teràpia pot ajustar l'enfocament segons el que la persona porta.",
+      },
+      {
+        type: "heading",
+        text: "Què demana una crisi vital",
+      },
+      {
+        type: "paragraph",
+        text: "Una crisi vital no demana ser resolta ràpidament. Demana ser escoltada. Saltar-se-la amb una decisió precipitada —deixar la feina, trencar la parella, canviar de ciutat— pot ser un alleujament a curt termini i un desastre a mitjà. Però tampoc es tracta d'aguantar i esperar que passi. La crisi demana un treball: posar paraules al que sents, entendre quines parts de la teva vida ja no encaixen amb el que ara vals, i decidir des d'allí què cal canviar i què cal acceptar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest treball és difícil de fer sol. No per falta de intel·ligència, sinó perquè les pròpies preguntes, quan són profundes, es queden cegues: la persona no veu el que veu, perquè forma part del que mira. Un acompanyament terapèutic ofereix un mirall que no està immers en la mateixa història, i que pot ajudar a veure amb més claredat què es mou.",
+      },
+      {
+        type: "heading",
+        text: "Quin paper pot tenir la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia, en una crisi vital, no consisteix a donar respostes. Consisteix a crear les condicions perquè la persona pugui fer-se les preguntes que ha estat evitant, sense que aquestes preguntes la tombin. El psicòleg no diu què cal fer; ajuda a desplegar el que la persona ja sent, però no aconsegueix articular sola.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest procés s'identifiquen les parts que entren en conflicte: la part que vol seguretat i la part que vol canvi, la part que va prendre decisions fa anys i la part que avui les qüestiona, la part que cuida els altres i la part que es sent descuidada. La crisi vital és, sovint, el moment en què aquestes parts, que havien coexistit en silenci, comencen a parlar entre elles. La teràpia dóna un lloc perquè aquesta conversa es faci sense que la vida es trenqui pel camí.",
+      },
+      {
+        type: "paragraph",
+        text: "El resultat no és una vida nova. És una vida amb més coherència: decisions més alineades amb el que la persona avui és i val, i una major capacitat de sostenir la complexitat sense que aquesta la paralitzi. Això és madurez, no transformació instantània.",
+      },
+      {
+        type: "heading",
+        text: "Quan convé buscar ajuda",
+      },
+      {
+        type: "paragraph",
+        text: "No tota crisi vital necessita teràpia. Hi ha crisis que la persona pot acompanyar amb la seva xarxa, amb escriptura, amb temps, amb converses amb persones de confiança. Però convé buscar ajuda quan el malestar es prolonga setmanes o mesos sense moviment, quan apareixen símptomes depressius clars (insomni, pèrdua de pes, anhedonia, idees de mort), quan la persona es queda encallada en un bucle de rumiació o quan comença a prendre decisions importants des de la urgència.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoc cal esperar a estar malament. Moltes persones acudeixen a teràpia no perquè no puguin funcionar, sinó perquè volen fer aquest treball amb acompanyament, i això és tan legítim com acudir quan la situació ja és insostenible. La primera sessió d'avaluació serveix per orientar: ajudar a entendre si el que es viu és una crisi, un estat depresiu o una altra cosa, i quin enfocament pot ajudar. Pots sol·licitar-la a la nostra pàgina de contacte.",
+      },
+      {
+        type: "paragraph",
+        text: "Una crisi vital, acompanyada, pot ser un dels moments més productius de la vida adulta. No perquè produeixi un canvi espectacular, sinó perquè permet revisar, amb temps i amb suport, el que fins ara s'havia viscut en automàtic. I d'aquesta revisió surt, sovint, una vida que es sent més pròpia.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un momento, a menudo entre los 35 y los 50 años, en que la vida tal como estaba montada deja de sostenerse. No siempre hay un hecho concreto que lo dispare: a veces es una pérdida, un cambio de trabajo o una ruptura; otras, es una sensación difusa de que aquello que hasta ahora daba sentido ya no lo da. El trabajo sigue, la rutina sigue, pero por dentro algo se ha movido y no termina de volver a su sitio.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: una crisis vital no es una enfermedad ni un fracaso. Es un punto de inflexión en que los recursos (psicológicos, relacionales, de sentido) que la persona había usado hasta ahora dejan de ser suficientes. Distinguirla de un estado depresivo es importante, porque cambia el enfoque: no se trata de suprimir un síntoma, sino de acompañar un proceso de madurez.",
+      },
+      {
+        type: "heading",
+        text: "Qué entendemos por crisis vital",
+      },
+      {
+        type: "paragraph",
+        text: "Una crisis vital es un momento en que la coherencia interna —la alineación entre lo que uno siente, piensa, hace y valora— se rompe o se cuestiona de forma profunda. No es un mal día ni una mala temporada. Es un tránsito en que la persona descubre que las herramientas con las que se ha construido su vida hasta ahora ya no le sirven para la pregunta que ahora tiene delante.",
+      },
+      {
+        type: "paragraph",
+        text: "Esa pregunta puede tomar muchas formas. ¿Por qué hago lo que hago? ¿Con quién quiero compartir la vida? ¿Qué significa, hoy, ser responsable? ¿Qué es lo que realmente me importa, cuando dejo de mirar lo que los demás esperan de mí? Son preguntas que no tenían urgencia a los 25 años y que, en esta etapa, vuelven con un peso nuevo.",
+      },
+      {
+        type: "heading",
+        text: "Por qué aparecen a menudo en esta franja de edad",
+      },
+      {
+        type: "paragraph",
+        text: "Entre los 30 y los 55 años coinciden varias cosas. La mayoría de decisiones que estructuraban la vida —estudios, pareja, trabajo, quizá paternidad o maternidad— ya están tomadas y en marcha. Pero el lado que no se prevía también llega: las decisiones tomadas hace años ahora pesan, los proyectos que eran futuro son presente, y la pregunta ya no es \\\"qué quiero ser\\\", sino \\\"qué hago con lo que ya soy\\\".",
+      },
+      {
+        type: "paragraph",
+        text: "A esto se suman cambios reales: padres que envejecen, hijos que crecen, relaciones que se desgastan, cuerpos que cambian, trabajos que pierden sentido o que cambian de manos. El contexto no es el mismo que hace diez años, y la persona tampoco. Cuando la diferencia entre la vida que se vive y la vida que se quiere vivir se hace grande, la crisis aparece como señal, no como fallo.",
+      },
+      {
+        type: "heading",
+        text: "Cómo distinguir una crisis vital de un estado depresivo",
+      },
+      {
+        type: "paragraph",
+        text: "Esta distinción es delicada, porque los síntomas se solapan. En ambos casos puede haber tristeza, desánimo, pérdida de interés, fatiga, dificultad para concentrarse. La diferencia no está tanto en los síntomas como en lo que hay detrás.",
+      },
+      {
+        type: "paragraph",
+        text: "En una crisis vital, el malestar suele ir acompañado de una pregunta: \\\"¿es esto todo?\\\", \\\"¿estoy viviendo la vida que quiero?\\\". Hay un movimiento interno, aunque sea confuso, hacia un cambio. La persona aún puede sentir deseo, curiosidad o rabia; lo que ha perdido no es la capacidad de sentir, sino la dirección.",
+      },
+      {
+        type: "paragraph",
+        text: "En un estado depresivo, en cambio, lo que se desvanece es la propia capacidad de moverse. La pregunta no es \\\"¿qué quiero?\\\", sino que, a menudo, no hay pregunta: hay vacío, lentitud, y una sensación de que nada tiene sentido, ni siquiera lo que antes importaba. La energía para preguntarse y para responder está mermada.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta distinción no es taxativa. Una crisis vital mal acompañada puede derivar en un estado depresivo, y un estado depresivo puede empezar con un sentimiento de crisis. Por eso no conviene autodiagnosticarse: una valoración clínica seria ayuda a orientar el proceso, y la terapia puede ajustar el enfoque según lo que la persona traiga.",
+      },
+      {
+        type: "heading",
+        text: "Qué pide una crisis vital",
+      },
+      {
+        type: "paragraph",
+        text: "Una crisis vital no pide ser resuelta rápidamente. Pide ser escuchada. Saltársela con una decisión precipitada —dejar el trabajo, romper la pareja, cambiar de ciudad— puede ser un alivio a corto plazo y un desastre a medio. Pero tampoco se trata de aguantar y esperar que pase. La crisis pide un trabajo: poner palabras a lo que se siente, entender qué partes de la vida ya no encajan con lo que ahora se valora, y decidir desde ahí qué hay que cambiar y qué hay que aceptar.",
+      },
+      {
+        type: "paragraph",
+        text: "Ese trabajo es difícil de hacer solo. No por falta de inteligencia, sino porque las propias preguntas, cuando son profundas, se quedan ciegas: la persona no ve lo que ve, porque forma parte de lo que mira. Un acompañamiento terapéutico ofrece un espejo que no está inmerso en la misma historia, y que puede ayudar a ver con más claridad qué se mueve.",
+      },
+      {
+        type: "heading",
+        text: "Qué papel puede tener la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia, en una crisis vital, no consiste en dar respuestas. Consiste en crear las condiciones para que la persona pueda hacerse las preguntas que ha estado evitando, sin que esas preguntas la tumben. El psicólogo no dice qué hay que hacer; ayuda a desplegar lo que la persona ya siente, pero no logra articular sola.",
+      },
+      {
+        type: "paragraph",
+        text: "En ese proceso se identifican las partes que entran en conflicto: la parte que quiere seguridad y la parte que quiere cambio, la parte que tomó decisiones hace años y la parte que hoy las cuestiona, la parte que cuida a los demás y la parte que se siente descuidada. La crisis vital es, a menudo, el momento en que esas partes, que habían coexistido en silencio, empiezan a hablar entre ellas. La terapia da un lugar para que esa conversación se haga sin que la vida se rompa por el camino.",
+      },
+      {
+        type: "paragraph",
+        text: "El resultado no es una vida nueva. Es una vida con más coherencia: decisiones más alineadas con lo que la persona hoy es y valora, y una mayor capacidad de sostener la complejidad sin que esta la paralice. Eso es madurez, no transformación instantánea.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene buscar ayuda",
+      },
+      {
+        type: "paragraph",
+        text: "No toda crisis vital necesita terapia. Hay crisis que la persona puede acompañar con su red, con escritura, con tiempo, con conversaciones con personas de confianza. Pero conviene buscar ayuda cuando el malestar se prolonga semanas o meses sin movimiento, cuando aparecen síntomas depresivos claros (insomnio, pérdida de peso, anhedonia, ideas de muerte), cuando la persona se queda atascada en un bucle de rumiación o cuando empieza a tomar decisiones importantes desde la urgencia.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoco hace falta esperar a estar mal. Muchas personas acuden a terapia no porque no puedan funcionar, sino porque quieren hacer este trabajo con acompañamiento, y eso es tan legítimo como acudir cuando la situación ya es insostenible. La primera sesión de evaluación sirve para orientar: ayudar a entender si lo que se vive es una crisis, un estado depresivo u otra cosa, y qué enfoque puede ayudar. Puedes solicitarla en nuestra página de contacto.",
+      },
+      {
+        type: "paragraph",
+        text: "Una crisis vital, acompañada, puede ser uno de los momentos más productivos de la vida adulta. No porque produzca un cambio espectacular, sino porque permite revisar, con tiempo y con apoyo, lo que hasta ahora se había vivido en automático. Y de esa revisión sale, a menudo, una vida que se siente más propia.",
+      },
+    ],
+  },
 ];
