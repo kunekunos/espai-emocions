@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "psicologo-para-personas-divorciadas",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a persones divorciades: quan la vida es reorganitza a els quaranta",
+    "titleES": "Psicólogo para personas divorciadas: cuando la vida se reorganiza a los cuarenta",
+    "excerptCA": "Una divorci a l'edat adulta no és només el final d'una relació: és una reorganització de la identitat, dels ritmes i dels vincles. Qui creiem ser dins d'una parella no és qui som sense ella, i aquesta pregunta —qui sóc ara— treu la qualitat del procés. Aquí expliquem què aporta un psicòleg quan el que necessites no és tècniques, sinó acompanyar aquesta reconstrucció amb temps i profunditat.",
+    "excerptES": "Un divorcio en la edad adulta no es solo el final de una relación: es una reorganización de la identidad, de los ritmos y de los vínculos. Quien creíamos ser dentro de una pareja no es quien somos sin ella, y esa pregunta —quién soy ahora— define la calidad del proceso. Aquí explicamos qué aporta un psicólogo cuando lo que necesitas no son técnicas, sino acompañar esta reconstrucción con tiempo y profundidad.",
+    "datePublished": "2026-07-23"
+  },
+  {
     "slug": "seguro-medico-psicologia-barcelona",
     "categoryCA": "Psicologia a Barcelona",
     "categoryES": "Psicología en Barcelona",

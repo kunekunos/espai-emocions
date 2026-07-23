@@ -1335,4 +1335,167 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 7. psicologo-para-personas-divorciadas (Pilar 2 — Psicólogo por nicho: personas divorciadas)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "psicologo-para-personas-divorciadas",
+    categoryCA: "Psicòleg per nínxol",
+    categoryES: "Psicólogo por nicho",
+    titleCA: "Psicòleg per a persones divorciades: quan la vida es reorganitza a els quaranta",
+    titleES: "Psicólogo para personas divorciadas: cuando la vida se reorganiza a los cuarenta",
+    excerptCA:
+      "Una divorci a l'edat adulta no és només el final d'una relació: és una reorganització de la identitat, dels ritmes i dels vincles. Qui creiem ser dins d'una parella no és qui som sense ella, i aquesta pregunta —qui sóc ara— treu la qualitat del procés. Aquí expliquem què aporta un psicòleg quan el que necessites no és tècniques, sinó acompanyar aquesta reconstrucció amb temps i profunditat.",
+    excerptES:
+      "Un divorcio en la edad adulta no es solo el final de una relación: es una reorganización de la identidad, de los ritmos y de los vínculos. Quien creíamos ser dentro de una pareja no es quien somos sin ella, y esa pregunta —quién soy ahora— define la calidad del proceso. Aquí explicamos qué aporta un psicólogo cuando lo que necesitas no son técnicas, sino acompañar esta reconstrucción con tiempo y profundidad.",
+    datePublished: "2026-07-23",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "El divorci és una de les crisis vitals més freqüents a l'edat adulta, i una de les menys enteses. Socialment es llegeix com un esdeveniment legal i logístic —repartir coses, canviar de domicili, signar papers—, però per qui el viu és, sobretot, una reorganització interior. No es perd només una parella: es perd una manera d'existir, uns ritmes compartits, una història que es deia \"nosaltres\" i que de cop passa a dir-se \"jo\".",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: un psicòleg no serveix per \"superar\" el divorci ràpidament ni per empenyor-te a estar bé. Serveix per acompanyar un procés que, com tot procés de madurea, necessita temps, paraula i context. Quan el que es mou són qüestions d'identitat i de vincle, la rapidesa no és virtut: la profunditat sí.",
+      },
+      {
+        type: "heading",
+        text: "El divorci com a pregunta sobre la identitat",
+      },
+      {
+        type: "paragraph",
+        text: "Dins d'una relació llarga es construeix, sense adonar-nos-en, una identitat compartida. Hi ha decisions que es prenen com a parella, ritmes que s'ajusten l'un a l'altre, amistats que són dels dos, maneres de passar el cap de setmana que ja no es qüestionen. Quan la relació acaba, tot això queda en suspens. No és només que la persona se senti trista: és que no sap ben bé què li agrada, què vol fer amb el seu temps, amb qui vol estar, quins són els seus valors quan ningú els negocia amb ningú.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta pregunta —qui sóc ara, sense aquesta relació— és el cor del procés. I no es resol amb una resposta nova que substitueixi l'antiga. Es resol a poc a poc, provant, equivocant-se, tornant a provar. La persona reapren a habitar la seva pròpia autonomia, que potser feia anys que no exercia plenament.",
+      },
+      {
+        type: "heading",
+        text: "El dol no és lineal, i això no és un problema",
+      },
+      {
+        type: "paragraph",
+        text: "Un error freqüent és creure que el dol per un divorci hauria de seguir un calendari: tres mesos de tristesa, sis mesos de readaptació, un any i ja està. La realitat és molt més atropellada. Hi ha dies en què la persona se sent alleujada —fins i tot contenta— i dies en què la tristesa la tomba sense avís. Hi ha moments de ràbia cap a l'exparella i moments de tendresa recordant moments bons. Tot això forma part del procés, no són senyals que alguna cosa vagi malament.",
+      },
+      {
+        type: "paragraph",
+        text: "El que sí convé observar és quan el dol es queda encallat. Quan setmanes o mesos després la persona no pot pensar en res més, quan la ràbia no baixa, quan el sentiment de fracàs —cap a un mateix o cap a l'altre— es cronifica i comença a organitzar tota la seva visió del món. En aquests casos, un acompanyament terapèutic no accelera el dol: l'ajuda a fer-se sense que es quedi encallat.",
+      },
+      {
+        type: "heading",
+        text: "Què aporta un psicòleg que la xarxa no",
+      },
+      {
+        type: "paragraph",
+        text: "Les amistats i la família són imprescindibles en un divorci. Però tenen un límit: estan involucrades. Opinen, prenen partit, es preocupen, volen que estiguis bé i de vegades et pressionen sense voler perquè superis el que per elles és evident que has de superar. Un psicòleg no està involucrat en la teva història. No és amic, ni jutge, ni advocat. És un professional que acompanya sense agenda pròpia sobre què hauries de fer amb la teva vida.",
+      },
+      {
+        type: "paragraph",
+        text: "Això permet una cosa que amb la xarxa és difícil: dir en veu alta allò que no s'atreveixes a dir enlloc més. Els dubtes sobre si vas fer bé o malament, la por de no tornar a estimar o, al contrari, les ganes de fer-ho massa de pressa, la vergonya de reconèixer que una part de tu se sent alleujada. Quan aquestes parts poden parlar sense ser jutjades, el procés avança. Quan queden amagades, es queden operant de sota i revenen més tard.",
+      },
+      {
+        type: "heading",
+        text: "El context dels quaranta i cinquanta",
+      },
+      {
+        type: "paragraph",
+        text: "El divorci a els quaranta o cinquanta té una textura particular. Sovint arriba després de molts anys de relació, quan la història compartida és llarga i els vincles —fills si n'hi ha, famílies extenses, patrimoni, projectes— són nombrosos. La persona ja no és la que va iniciar la relació, i això és exactament el que fa el procés interessant i dur alhora: no es tracta de tornar a un punt de partida, perquè aquell punt ja no existeix.",
+      },
+      {
+        type: "paragraph",
+        text: "A aquesta edat, a més, el divorci coincideix sovint amb altres canvis —professions, cures de pares grans, preguntes sobre el propòsit vital— que no es poden separar del que passa a la parella. La feina terapèutica és, en bona part, posar en context tot això: entendre com s'enllaça el que es viu a la relació amb el que es viu a la feina, a la família, a la pròpia maduresa. Per això serveix un professional que vegi el conjunt i no només la crisi concreta.",
+      },
+      {
+        type: "heading",
+        text: "Quan convé buscar ajuda i quan no",
+      },
+      {
+        type: "paragraph",
+        text: "No tot divorci necessita teràpia. Moltes persones travessen aquest procés amb la seva xarxa, amb temps i amb una capacitat personal sostinguda per reflexionar. No fa falta professionalitzar un dol que pot fer-se en companyia. Però convé buscar ajuda quan el malestar es prolonga sense moviment, quan apareixen senyals depressius clars —insomni que no cedeix, pèrdua de pes, anhedonia, idees de mort—, quan la rumiació sobre el passat no para o quan la persona comença a prendre decisions importants des de la urgència.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoc cal esperar a estar malament. Hi ha persones que acudeixen a teràpia no perquè no puguin sostenir-se, sinó perquè volen fer aquest procés amb acompanyament, i això és tan legítim com acudir quan la situació ja és insostenible. La primera sessió d'avaluació serveix per orientar: ajudar a entendre en quin moment del procés es troba la persona i quin enfocament pot ajudar-la. Podeu sol·licitar-la a la nostra pàgina de contacte.",
+      },
+      {
+        type: "paragraph",
+        text: "Un divorci, ben acompanyat, pot ser un d'aquests moments en què la vida adulta fa un gir profund i necessari. No perquè produeixi una vida nova i immaculada, sinó perquè permet revisar, amb temps i amb suport, identitats i vincles que feia anys que es vivien en automàtic. D'aquesta revisió sol sortir una persona més coherent amb el que avui és i valora, i això, a aquesta edat, no és poc.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El divorcio es una de las crisis vitales más frecuentes en la edad adulta, y una de las menos entendidas. Socialmente se lee como un acontecimiento legal y logístico —repartir cosas, cambiar de domicilio, firmar papeles—, pero para quien lo vive es, sobre todo, una reorganización interior. No se pierde solo una pareja: se pierde una manera de existir, unos ritmos compartidos, una historia que se decía \"nosotros\" y que de golpe pasa a decirse \"yo\".",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: un psicólogo no sirve para \"superar\" el divorcio rápidamente ni para empujarte a estar bien. Sirve para acompañar un proceso que, como todo proceso de madurez, necesita tiempo, palabra y contexto. Cuando lo que se mueve son cuestiones de identidad y de vínculo, la rapidez no es virtud: la profundidad sí.",
+      },
+      {
+        type: "heading",
+        text: "El divorcio como pregunta sobre la identidad",
+      },
+      {
+        type: "paragraph",
+        text: "Dentro de una relación larga se construye, sin darnos cuenta, una identidad compartida. Hay decisiones que se toman como pareja, ritmos que se ajustan el uno al otro, amistades que son de los dos, maneras de pasar el fin de semana que ya no se cuestionan. Cuando la relación termina, todo esto queda en suspenso. No es solo que la persona se sienta triste: es que no sabe muy bien qué le gusta, qué quiere hacer con su tiempo, con quién quiere estar, cuáles son sus valores cuando nadie los negocia con nadie.",
+      },
+      {
+        type: "paragraph",
+        text: "Esa pregunta —quién soy ahora, sin esta relación— es el centro del proceso. Y no se resuelve con una respuesta nueva que sustituya a la antigua. Se resuelve poco a poco, probando, equivocándose, volviendo a probar. La persona reaprende a habitar su propia autonomía, que quizá hacía años que no ejercía plenamente.",
+      },
+      {
+        type: "heading",
+        text: "El duelo no es lineal, y eso no es un problema",
+      },
+      {
+        type: "paragraph",
+        text: "Un error frecuente es creer que el duelo por un divorcio debería seguir un calendario: tres meses de tristeza, seis meses de readaptación, un año y ya. La realidad es mucho más atropellada. Hay días en que la persona se siente aliviada —incluso contenta— y días en que la tristeza la tumba sin aviso. Hay momentos de rabia hacia la expareja y momentos de ternura recordando cosas buenas. Todo esto forma parte del proceso, no son señales de que algo vaya mal.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que sí conviene observar es cuando el duelo se queda encallado. Cuando semanas o meses después la persona no puede pensar en otra cosa, cuando la rabia no baja, cuando el sentimiento de fracaso —hacia uno mismo o hacia el otro— se cronifica y empieza a organizar toda su visión del mundo. En estos casos, un acompañamiento terapéutico no acelera el duelo: lo ayuda a hacerse sin que se quede atascado.",
+      },
+      {
+        type: "heading",
+        text: "Qué aporta un psicólogo que la red no",
+      },
+      {
+        type: "paragraph",
+        text: "Las amistades y la familia son imprescindibles en un divorcio. Pero tienen un límite: están involucradas. Opinan, toman partido, se preocupan, quieren que estés bien y a veces te presionan sin querer para que superes lo que para ellas es evidente que tienes que superar. Un psicólogo no está involucrado en tu historia. No es amigo, ni juez, ni abogado. Es un profesional que acompaña sin agenda propia sobre qué deberías hacer con tu vida.",
+      },
+      {
+        type: "paragraph",
+        text: "Eso permite algo que con la red es difícil: decir en voz alta aquello que no te atreves a decir en ningún otro sitio. Las dudas sobre si hiciste bien o mal, el miedo a no volver a querer o, al contrario, las ganas de hacerlo demasiado rápido, la vergüenza de reconocer que una parte de ti se siente aliviada. Cuando esas partes pueden hablar sin ser juzgadas, el proceso avanza. Cuando quedan escondidas, se quedan operando por debajo y reaparecen más tarde.",
+      },
+      {
+        type: "heading",
+        text: "El contexto de los cuarenta y los cincuenta",
+      },
+      {
+        type: "paragraph",
+        text: "El divorcio a los cuarenta o cincuenta tiene una textura particular. A menudo llega después de muchos años de relación, cuando la historia compartida es larga y los vínculos —hijos si los hay, familias extensas, patrimonio, proyectos— son numerosos. La persona ya no es la que inició la relación, y eso es exactamente lo que hace el proceso interesante y duro a la vez: no se trata de volver a un punto de partida, porque ese punto ya no existe.",
+      },
+      {
+        type: "paragraph",
+        text: "A esta edad, además, el divorcio coincide a menudo con otros cambios —profesionales, cuidados de padres mayores, preguntas sobre el propósito vital— que no se pueden separar de lo que ocurre en la pareja. El trabajo terapéutico es, en buena parte, poner en contexto todo esto: entender cómo se enlaza lo que se vive en la relación con lo que se vive en el trabajo, en la familia, en la propia madurez. Por eso sirve un profesional que vea el conjunto y no solo la crisis concreta.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene buscar ayuda y cuándo no",
+      },
+      {
+        type: "paragraph",
+        text: "No todo divorcio necesita terapia. Muchas personas atraviesan este proceso con su red, con tiempo y con una capacidad personal sostenida para reflexionar. No hace falta profesionalizar un duelo que puede hacerse en compañía. Pero conviene buscar ayuda cuando el malestar se prolonga sin movimiento, cuando aparecen señales depresivas claras —insomnio que no cede, pérdida de peso, anhedonia, ideas de muerte—, cuando la rumiación sobre el pasado no para o cuando la persona empieza a tomar decisiones importantes desde la urgencia.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoco hace falta esperar a estar mal. Hay personas que acuden a terapia no porque no puedan sostenerse, sino porque quieren hacer este proceso con acompañamiento, y eso es tan legítimo como acudir cuando la situación ya es insostenible. La primera sesión de evaluación sirve para orientar: ayudar a entender en qué momento del proceso se encuentra la persona y qué enfoque puede ayudarla. Puedes solicitarla en nuestra página de contacto.",
+      },
+      {
+        type: "paragraph",
+        text: "Un divorcio, bien acompañado, puede ser uno de esos momentos en que la vida adulta da un giro profundo y necesario. No porque produzca una vida nueva e immaculada, sino porque permite revisar, con tiempo y con apoyo, identidades y vínculos que hacía años que se vivían en automático. De esa revisión suele salir una persona más coherente con lo que hoy es y valora, y eso, a esta edad, no es poco.",
+      },
+    ],
+  },
 ];
