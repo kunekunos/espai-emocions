@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "perfeccionismo-paraliza-adultos",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan el perfeccionisme deixa d'empènyer i comença a paralitzar",
+    "titleES": "Cuando el perfeccionismo deja de empujar y empieza a paralizar",
+    "excerptCA":
+      "El perfeccionisme ha funcionat durant anys com un motor: t'ha portat lluny, t'ha fet fiable, t'ha donat reconeixement. Però hi ha un moment en què aquest mateix motor canvia de signe. Ja no empeny: paralitza. Les decisions s'eternitzen, els projectes no surten perquè mai estan prou a punt, i el cansament de sostenir un estàndard impossible comença a passar factura. Aquí expliquem per què el perfeccionisme es tomba contra qui el porta i quan convé buscar acompanyament.",
+    "excerptES":
+      "El perfeccionismo ha funcionado durante años como un motor: te ha llevado lejos, te ha hecho fiable, te ha dado reconocimiento. Pero hay un momento en que ese mismo motor cambia de signo. Ya no empuja: paraliza. Las decisiones se eternizan, los proyectos no salen porque nunca están lo bastante listos, y el cansancio de sostener un estándar imposible empieza a pasar factura. Aquí explicamos por qué el perfeccionismo se vuelve contra quien lo carga y cuándo conviene buscar acompañamiento.",
+    "datePublished": "2026-07-24"
+  },
+  {
     "slug": "psicologo-para-personas-divorciadas",
     "categoryCA": "Psicòleg per nínxol",
     "categoryES": "Psicólogo por nicho",

@@ -1498,4 +1498,238 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 8. perfeccionismo-paraliza-adultos (Pilar 3: ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "perfeccionismo-paraliza-adultos",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA: "Quan el perfeccionisme deixa d'empènyer i comença a paralitzar",
+    titleES: "Cuando el perfeccionismo deja de empujar y empieza a paralizar",
+    excerptCA:
+      "El perfeccionisme ha funcionat durant anys com un motor: t'ha portat lluny, t'ha fet fiable, t'ha donat reconeixement. Però hi ha un moment en què aquest mateix motor canvia de signe. Ja no empeny: paralitza. Les decisions s'eternitzen, els projectes no surten perquè mai estan prou a punt, i el cansament de sostenir un estàndard impossible comença a passar factura. Aquí expliquem per què el perfeccionisme es tomba contra qui el porta i quan convé buscar acompanyament.",
+    excerptES:
+      "El perfeccionismo ha funcionado durante años como un motor: te ha llevado lejos, te ha hecho fiable, te ha dado reconocimiento. Pero hay un momento en que ese mismo motor cambia de signo. Ya no empuja: paraliza. Las decisiones se eternizan, los proyectos no salen porque nunca están lo bastante listos, y el cansancio de sostener un estándar imposible empieza a pasar factura. Aquí explicamos por qué el perfeccionismo se vuelve contra quien lo carga y cuándo conviene buscar acompañamiento.",
+    datePublished: "2026-07-24",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "El perfeccionisme té mala reputació, i en part és injust. Durant anys funciona com un motor: t'ha portat lluny, t'ha fet fiable, t'ha donat reconeixement. Les persones perfeccionistes solen ser bones professionals, bones companyes, persones en qui es pot confiar. El problema no és el perfeccionisme en si, sinó el moment —i sol arribar— en què aquest motor canvia de signe i ja no empeny: paralitza.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: el perfeccionisme es torna un problema quan l'estàndard que has definit com a acceptable queda tan per sobre del que qualsevol persona pot sostenir de manera continuada que comences a no lliurar, a no decidir o a no descansar. Si fa mesos que arrossegues sensació d'insuficiència, que els teus projectes no surten perquè «encara no estan a punt» o que descansar et genera culpa, convé aturar-se a entendre què hi ha darrere.",
+      },
+      {
+        type: "heading",
+        text: "El perfeccionisme no és vanitat: és por amb bona presentació",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les confusions més freqüents és pensar que el perfeccionisme és una qüestió d'orgull o d'ambició desmesurada. Rarament ho és. La majoria de persones perfeccionistes que veiem a consulta no busquen l'excel·lència per vanitat: busquen evitar l'error perquè l'error, en algun moment de la seva història, va tenir conseqüències. Va significar decebre algú important, perdre un vincle, sentir-se inadequada o exposar una vulnerabilitat que no podia sostenir-se.",
+      },
+      {
+        type: "paragraph",
+        text: "El perfeccionisme, entès així, no és un tret de caràcter: és una estratègia que la persona va desenvolupar en un context concret per sentir-se segura. Funciona durant anys perquè l'entorn recompensa els resultats impecables i no pregunta pel cost. Però el cost hi és, i sol aparèixer en forma de cansament crònic, dificultat per gaudir del que s'ha aconseguit i sensació de viure en estat d'alerta permanent.",
+      },
+      {
+        type: "heading",
+        text: "Com es nota que el motor s'ha girat",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha senyals que indiquen que el perfeccionisme ha deixat d'empenyer i ha començat a frenar. No sempre són evidents, perquè la persona segueix sent vista —des de fora— com algú competent i funcionant. Però per dins l'experiència és una altra:",
+      },
+      {
+        type: "list",
+        items: [
+          "No comences coses que vols fer perquè «encara no estic prou preparat». La preparació es torna un fi en si mateixa i el projecte no engega mai.",
+          "Trigues molt a decidir coses importants. Qualsevol opció té un marge d'error, i aquest marge és el que no pots tolerar.",
+          "Descansar et genera culpa. El temps lliure no se sent com a tal: se sent com a temps que hauries d'estar aprofitant.",
+          "Revises obsessivament el que fas. Correus que trigues una hora a enviar, documents que rellegeixes quatre vegades, converses que prepares com si fossin un examen.",
+          "Et costa rebre crítiques, fins i tot constructives. Una observació benigna pot activar una resposta emocional desproporcionada, perquè toca una ferida que no té a veure amb la feina sinó amb la suficiència personal.",
+          "Has deixat de gaudir del que abans t'agradava. L'afició també es converteix en una cosa on «hauria de ser millor».",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes algunes d'aquestes senyals i fa setmanes o mesos que les arrossegues, no és una qüestió de voluntat ni d'organització. És un senyal que l'estratègia que has portat tota la vida per mantenir-te segur i ser valorat està començant a funcionar en contra teva.",
+      },
+      {
+        type: "heading",
+        text: "Per què apareix ara i no abans",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes persones arriben als trenta o als quaranta sense haver tingut mai problemes amb el seu perfeccionisme. L'han portat com qui porta un pes que es pot sostenir. Però alguna cosa canvia: potser un ascens que multiplica les responsabilitats, potser un fill o una filla que posa en qüestió el control, potser una crisi vital que reorganitza les prioritats, potser simplement l'edat i el cansament acumulat.",
+      },
+      {
+        type: "paragraph",
+        text: "El que canvia no és la persona: és el context. L'estratègia perfeccionista funcionava quan l'entorn era previsible i l'esforç tenia un sostre assumible. Quan la vida es fa més complexa —més responsabilitats, menys control, més incertesa— aquell sostre deixa de ser assolible i l'estratègia es tomba contra qui l'usa. És com un mecanisme de defensa que va ser útil i que ara, en un context diferent, genera més malestar que el que protegeix.",
+      },
+      {
+        type: "heading",
+        text: "El problema no és l'estàndard: és el que hi ha darrere",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar el perfeccionisme no consisteix a «baixar el listó» ni a conformar-se amb resultats mediocres. Això seria una simplificació que la majoria de persones perfeccionistes rebutgen —i amb raó, perquè valoren el ben fet i no volen renunciar-hi. El treball terapèutic va en una altra direcció: ajudar a entendre què hi ha darrere de la necessitat d'impecabilitat.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan la impecabilitat és l'única forma que la persona coneix de sentir-se segura i valorada, qualsevol error es viu com una amenaça a la pròpia identitat. No és «he fet malament això», és «soc una persona que fa les coses malament». Aquesta fusió entre fer i ser és el nucli del problema. Trencar-la no vol dir deixar de fer les coses bé: vol dir que el valor personal deixi de dependre enterament del resultat.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest treball no es fa en una sessió ni amb un exercici. Es fa explorant la història: on va aprendre la persona que estimar-se depenia de rendir, quins vincles van transmetre aquest missatge, quines experiències van reforçar la idea que l'error tenia conseqüències relacionals. La comprensió d'aquesta història permet, amb temps, desaprendre el que va ser útil i ja no ho és.",
+      },
+      {
+        type: "heading",
+        text: "La paradoxa de rendir menys per viure més",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les coses que més costa a les persones perfeccionistes és acceptar que, per sostenir una vida adulta amb profunditat, cal aprendre a tolerar el «prou bé» en algunes àrees. No és un exercici de baixa autoestima: és un exercici de realisme i de maduresa. Cap persona pot sostenir l'excel·lència simultàniament en la feina, la família, la parella, la salut i la vida social. Intentar-ho no produeix excel·lència: produeix esgotament i, paradoxalment, menys qualitat en tot.",
+      },
+      {
+        type: "paragraph",
+        text: "Aprendre a decidir on posar l'energia —i on no— forma part d'un procés de maduresa que té més a veure amb la coherència interna que amb l'eficiència. Es tracta de deixar que les pròpies values, i no la por a decebre, orientin les decisions. Això permet descansar sense culpa, començar projectes sense tenir-ho tot resolt i rebre una crítica sense que el món s'esquerdi.",
+      },
+      {
+        type: "heading",
+        text: "Quan convé buscar acompanyament",
+      },
+      {
+        type: "paragraph",
+        text: "No tot perfeccionisme necessita teràpia. Hi ha persones que, en adonar-se del patró, poden ajustar-lo amb canvis de rutina, amb lectura o amb converses amb persones properes. Però convé buscar un psicòleg quan el patró està afectant la salut —insomni, cansament crònic, tensió física—, quan està bloquejant decisions importants de la vida, quan impedeix gaudir del que s'ha aconseguit o quan se sent, des de fa temps, que es viu en estat d'alerta sense poder baixar la guàrdia.",
+      },
+      {
+        type: "paragraph",
+        text: "També convé si el perfeccionisme conviu amb un estat depresiu o amb ansietat sostinguda. En aquests casos, no es tracta només d'un patró de treball: hi ha un malestar emocional que necessita atenció específica. La teràpia no promet eliminar el perfeccionisme —ni faria falta, perquè la part sana d'aspirar al ben fet té valor—, sinó ajudar a distingir entre la part que empeny i la part que paralitza, i deixar que la primera es quedi i la segona es transformi.",
+      },
+      {
+        type: "heading",
+        text: "Un procés, no una correcció",
+      },
+      {
+        type: "paragraph",
+        text: "El perfeccionisme no es corregeix com un mal hàbit. Forma part de la forma en què la persona ha après de relacionar-se amb el món, i canviar-lo implica tocar qüestions d'identitat, d'història i de vincles. Per això convé un acompanyament professional que ajudi a fer aquest recorregut amb temps i profunditat, no amb pressa ni amb un objectiu de resultat que —paradoxalment— reproduiria el mateix patró que es vol treballar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si et reconeixes en el que hem descrit i vols explorar-ho, pots sol·licitar una primera sessió a la nostra pàgina de contacte. Acompanyar aquest procés és una de les coses que fem a Espai Emocions: ajudar a desmuntar, amb respecte i sense pressa, els mecanismes que van ser útils i que ara limiten, perquè la persona pugui viure amb més coherència i menys cost.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El perfeccionismo tiene mala reputación, y en parte es injusto. Durante años funciona como un motor: te ha llevado lejos, te ha hecho fiable, te ha dado reconocimiento. Las personas perfeccionistas suelen ser buenos profesionales, buenas compañeras, personas en quienes se puede confiar. El problema no es el perfeccionismo en sí, sino el momento —y suele llegar— en que ese motor cambia de signo y ya no empuja: paraliza.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: el perfeccionismo se vuelve un problema cuando el estándar que has definido como aceptable queda tan por encima de lo que cualquier persona puede sostener de manera continuada que empiezas a no entregar, a no decidir o a no descansar. Si hace meses que arrastras sensación de insuficiencia, que tus proyectos no salen porque «aún no están listos» o que descansar te genera culpa, conviene detenerse a entender qué hay detrás.",
+      },
+      {
+        type: "heading",
+        text: "El perfeccionismo no es vanidad: es miedo con buena presentación",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las confusiones más frecuentes es pensar que el perfeccionismo es una cuestión de orgullo o de ambición desmedida. Rara vez lo es. La mayoría de personas perfeccionistas que vemos en consulta no buscan la excelencia por vanidad: buscan evitar el error porque el error, en algún momento de su historia, tuvo consecuencias. Significó decepcionar a alguien importante, perder un vínculo, sentirse inadecuada o exponer una vulnerabilidad que no podía sostenerse.",
+      },
+      {
+        type: "paragraph",
+        text: "El perfeccionismo, entendido así, no es un rasgo de carácter: es una estrategia que la persona desarrolló en un contexto concreto para sentirse segura. Funciona durante años porque el entorno recompensa los resultados impecables y no pregunta por el coste. Pero el coste está, y suele aparecer en forma de cansancio crónico, dificultad para disfrutar de lo conseguido y sensación de vivir en estado de alerta permanente.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se nota que el motor se ha girado",
+      },
+      {
+        type: "paragraph",
+        text: "Hay señales que indican que el perfeccionismo ha dejado de empujar y ha empezado a frenar. No siempre son evidentes, porque la persona sigue siendo vista —desde fuera— como alguien competente y en funcionamiento. Pero por dentro la experiencia es otra:",
+      },
+      {
+        type: "list",
+        items: [
+          "No comienzas cosas que quieres hacer porque «aún no estoy lo bastante preparado». La preparación se convierte en un fin en sí misma y el proyecto no arranca nunca.",
+          "Tardas mucho en decidir cosas importantes. Cualquier opción tiene un margen de error, y ese margen es lo que no puedes tolerar.",
+          "Descansar te genera culpa. El tiempo libre no se siente como tal: se siente como tiempo que deberías estar aprovechando.",
+          "Revisas obsesivamente lo que haces. Correos que tardas una hora en enviar, documentos que relees cuatro veces, conversaciones que preparas como si fueran un examen.",
+          "Te cuesta recibir críticas, incluso constructivas. Una observación benigna puede activar una respuesta emocional desproporcionada, porque toca una herida que no tiene que ver con el trabajo sino con la suficiencia personal.",
+          "Has dejado de disfrutar de lo que antes te gustaba. La afición también se convierte en algo donde «debería ser mejor».",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces algunas de estas señales y hace semanas o meses que las arrastras, no es una cuestión de voluntad ni de organización. Es una señal de que la estrategia que has llevado toda la vida para mantenerte seguro y ser valorado está empezando a funcionar en tu contra.",
+      },
+      {
+        type: "heading",
+        text: "Por qué aparece ahora y no antes",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas personas llegan a los treinta o los cuarenta sin haber tenido nunca problemas con su perfeccionismo. Lo han llevado como quien lleva un peso que se puede sostener. Pero algo cambia: quizá un ascenso que multiplica las responsabilidades, quizá un hijo o una hija que pone en cuestión el control, quizá una crisis vital que reorganiza las prioridades, quizá simplemente la edad y el cansancio acumulado.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que cambia no es la persona: es el contexto. La estrategia perfeccionista funcionaba cuando el entorno era previsible y el esfuerzo tenía un techo asumible. Cuando la vida se hace más compleja —más responsabilidades, menos control, más incertidumbre— ese techo deja de ser alcanzable y la estrategia se vuelve contra quien la usa. Es como un mecanismo de defensa que fue útil y que ahora, en un contexto distinto, genera más malestar del que protege.",
+      },
+      {
+        type: "heading",
+        text: "El problema no es el estándar: es lo que hay detrás",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar el perfeccionismo no consiste en «bajar el listón» ni en conformarse con resultados mediocres. Eso sería una simplificación que la mayoría de personas perfeccionistas rechazan —y con razón, porque valoran lo bien hecho y no quieren renunciar a ello. El trabajo terapéutico va en otra dirección: ayudar a entender qué hay detrás de la necesidad de impecabilidad.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando la impecabilidad es la única forma que la persona conoce de sentirse segura y valorada, cualquier error se vive como una amenaza a la propia identidad. No es «he hecho mal esto», es «soy una persona que hace las cosas mal». Esa fusión entre hacer y ser es el núcleo del problema. Romperla no significa dejar de hacer las cosas bien: significa que el valor personal deje de depender enteramente del resultado.",
+      },
+      {
+        type: "paragraph",
+        text: "Este trabajo no se hace en una sesión ni con un ejercicio. Se hace explorando la historia: dónde aprendió la persona que quererse dependía de rendir, qué vínculos transmitieron ese mensaje, qué experiencias reforzaron la idea de que el error tenía consecuencias relacionales. La comprensión de esa historia permite, con tiempo, desaprender lo que fue útil y ya no lo es.",
+      },
+      {
+        type: "heading",
+        text: "La paradoja de rendir menos para vivir más",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las cosas que más cuesta a las personas perfeccionistas es aceptar que, para sostener una vida adulta con profundidad, hace falta aprender a tolerar el «suficientemente bien» en algunas áreas. No es un ejercicio de baja autoestima: es un ejercicio de realismo y de madurez. Ninguna persona puede sostener la excelencia simultáneamente en el trabajo, la familia, la pareja, la salud y la vida social. Intentarlo no produce excelencia: produce agotamiento y, paradójicamente, menos calidad en todo.",
+      },
+      {
+        type: "paragraph",
+        text: "Aprender a decidir dónde poner la energía —y dónde no— forma parte de un proceso de madurez que tiene más que ver con la coherencia interna que con la eficiencia. Se trata de dejar que los propios valores, y no el miedo a decepcionar, orienten las decisiones. Eso permite descansar sin culpa, empezar proyectos sin tenerlo todo resuelto y recibir una crítica sin que el mundo se agriete.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene buscar acompañamiento",
+      },
+      {
+        type: "paragraph",
+        text: "No todo perfeccionismo necesita terapia. Hay personas que, al darse cuenta del patrón, pueden ajustarlo con cambios de rutina, con lectura o con conversaciones con personas cercanas. Pero conviene buscar un psicólogo cuando el patrón está afectando la salud —insomnio, cansancio crónico, tensión física—, cuando está bloqueando decisiones importantes de la vida, cuando impide disfrutar de lo conseguido o cuando se siente, desde hace tiempo, que se vive en estado de alerta sin poder bajar la guardia.",
+      },
+      {
+        type: "paragraph",
+        text: "También conviene si el perfeccionismo convive con un estado depresivo o con ansiedad sostenida. En estos casos, no se trata solo de un patrón de trabajo: hay un malestar emocional que necesita atención específica. La terapia no promete eliminar el perfeccionismo —ni haría falta, porque la parte sana de aspirar a lo bien hecho tiene valor—, sino ayudar a distinguir entre la parte que empuja y la parte que paraliza, y dejar que la primera se quede y la segunda se transforme.",
+      },
+      {
+        type: "heading",
+        text: "Un proceso, no una corrección",
+      },
+      {
+        type: "paragraph",
+        text: "El perfeccionismo no se corrige como un mal hábito. Forma parte de la manera en que la persona ha aprendido a relacionarse con el mundo, y cambiarlo implica tocar cuestiones de identidad, de historia y de vínculos. Por eso conviene un acompañamiento profesional que ayude a hacer este recorrido con tiempo y profundidad, no con prisa ni con un objetivo de resultado que —paradójicamente— reproduciría el mismo patrón que se quiere trabajar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te reconoces en lo que hemos descrito y quieres explorarlo, puedes solicitar una primera sesión en nuestra página de contacto. Acompañar este proceso es una de las cosas que hacemos en Espai Emocions: ayudar a desmontar, con respeto y sin prisa, los mecanismos que fueron útiles y que ahora limitan, para que la persona pueda vivir con más coherencia y menos coste.",
+      },
+    ],
+  },
 ];
