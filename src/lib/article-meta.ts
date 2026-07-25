@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "malestar-sin-nombre-cuando-algo-no-encaixa",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan alguna cosa no encaixa però no saps dir què: el malestar sense nom",
+    "titleES": "Cuando algo no encaja pero no sabes decir qué: el malestar sin nombre",
+    "excerptCA":
+      "Hi ha un tipus de malestar que no encaixa en cap categoria clara. No és tristesa, no és ansietat, no és una crisi. És una sensació difusa: alguna cosa no funciona, però no saps dir què. Aquest article explora què és aquest malestar sense nom, per què apareix sovint a la maduresa adulta i quan té sentit buscar acompanyament encara que no tinguis una queixa definida per explicar.",
+    "excerptES":
+      "Hay un tipo de malestar que no encaja en ninguna categoría clara. No es tristeza, no es ansiedad, no es una crisis. Es una sensación difusa: algo no funciona, pero no sabes decir qué. Este artículo explora qué es ese malestar sin nombre, por qué aparece a menudo en la madurez adulta y cuándo tiene sentido buscar acompañamiento aunque no tengas una queja definida que explicar.",
+    "datePublished": "2026-07-25"
+  },
+  {
     "slug": "perfeccionismo-paraliza-adultos",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",

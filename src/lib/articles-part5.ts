@@ -1732,4 +1732,213 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 9. malestar-sin-nombre-cuando-algo-no-encaixa (Pilar 3: ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "malestar-sin-nombre-cuando-algo-no-encaixa",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA:
+      "Quan alguna cosa no encaixa però no saps dir què: el malestar sense nom",
+    titleES:
+      "Cuando algo no encaja pero no sabes decir qué: el malestar sin nombre",
+    excerptCA:
+      "Hi ha un tipus de malestar que no encaixa en cap categoria clara. No és tristesa, no és ansietat, no és una crisi. És una sensació difusa: alguna cosa no funciona, però no saps dir què. Aquest article explora què és aquest malestar sense nom, per què apareix sovint a la maduresa adulta i quan té sentit buscar acompanyament encara que no tinguis una queixa definida per explicar.",
+    excerptES:
+      "Hay un tipo de malestar que no encaja en ninguna categoría clara. No es tristeza, no es ansiedad, no es una crisis. Es una sensación difusa: algo no funciona, pero no sabes decir qué. Este artículo explora qué es ese malestar sin nombre, por qué aparece a menudo en la madurez adulta y cuándo tiene sentido buscar acompañamiento aunque no tengas una queja definida que explicar.",
+    datePublished: "2026-07-25",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un tipus de malestar que no encaixa enlloc. No és tristesa —o no només—. No és ansietat —o no del tot—. No és una crisi, perquè no ha passat res que la justifiqui. És una sensació difusa, persistent, que de vegades apareix al matí en despertar i de vegades s'instal·la a la tarda, i que costa de descriure perquè no té la nitidesa d'un símptoma. És més aviat la sensació que alguna cosa no encaixa, que la vida —tal com està muntada— ja no sosté com abans.",
+      },
+      {
+        type: "paragraph",
+        text: "Les persones que arriben a consulta amb aquest estat sovint comencen dient: «No sé ben bé per què vinc. No és res greu. Suposo que em passa alguna cosa, però no sabria dir-te què». Aquesta frase és més habitual del que sembla. I el fet de no poder posar nom al que es sent no vol dir que no hi hagi res a treballar. De vegades és justament al revés: el que no té nom és el que més cal mirar.",
+      },
+      {
+        type: "heading",
+        text: "Un malestar que no és símptoma",
+      },
+      {
+        type: "paragraph",
+        text: "La psicologia clínica té eines per descriure estats definits: un episodi depressiu, un trastorn d'ansietat, un dol, una crisi de pànic. Aquestes categories són útils i necessàries, però no cobreixen tot el malestar humà. Existeix una zona àmplia on la persona no encaixa en cap etiqueta i, malgrat això, se sent malament. Funciona, treballa, manté els seus vincles, i per dins arrossegues una sensació de desconnexió o de buit que no aconsegueix explicar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest malestar sense nom sol aparèixer en moments concrets de la vida adulta. A la trentena, quan les decisions que es van prendre amb pressió comencen a pesar. A la quarantena, quan la vida que es va construir ja no respon a la persona que s'ha anat sent. O en trànsits més subtils: després d'aconseguir un objectiu llargament perseguit, després de sortir d'una relació, després d'un canvi de feina que en principi era positiu. El context exterior no explica el que passa per dins.",
+      },
+      {
+        type: "heading",
+        text: "Per què costa tant de posar paraules",
+      },
+      {
+        type: "paragraph",
+        text: "El malestar sense nom és difícil d'expressar perquè no està lligat a un esdeveniment concret. Quan algú ha perdut una feina o ha trencat una relació, sap què li fa mal. La pèrdua dóna un marc, un vocabulari, una narrativa. En canvi, quan no hi ha un fet que ho dispari, la persona no sap per on començar a explicar-ho, i de vegades arriba a dubtar de si té dret a sentir-se malament. «No em queixo de res», és una frase recurrent. «Tinc una bona vida, no hauria d'estar així».",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta dificultat té un costat enganyós: com que el malestar no es pot explicar amb claredat, moltes persones triguen anys a buscar ajuda. Es diuen que passarà, que és una mala època, que és cansament. I el temps passa, i la sensació no se'n va del tot —a vegades s'atenua, a vegades torna—, i la persona s'acostuma a conviure-hi com qui s'acostuma a un soroll de fons. Però conviure amb una cosa no vol dir haver-la resolt.",
+      },
+      {
+        type: "heading",
+        text: "El que sol haver-hi sota la superfície",
+      },
+      {
+        type: "paragraph",
+        text: "Quan aquest malestar s'explora en teràpia, sovint apareixen temes que no tenien espai per manifestar-se d'una altra manera. Una identitat construïda sobre el que els altres esperaven. Una manera de relacionar-se que va funcionar durant anys i que ara deixa buit. Valors que es van posar en pausa i que, amb el temps, reclamen la seva presència. Parts de la pròpia història que es van deixar de banda i que tornen en forma d'inquietud sense forma.",
+      },
+      {
+        type: "paragraph",
+        text: "El malestar sense nom no sempre amaga un trauma. De vegades amaga una desconnexió entre la vida que es viu i la vida que tindria sentit viure. No és una patologia: és un senyal. El cos i l'ànim assenyalant que alguna cosa de la pròpia existència necessita atenció. Ignorar aquest senyal no el fa desaparèixer: el fa cronificar en forma d'irritabilitat, de desconnexió, d'un cansament que no marxa amb descans.",
+      },
+      {
+        type: "heading",
+        text: "És motiu suficient per anar a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les preguntes més habituals en la primera sessió és: «És motiu suficient per venir a teràpia, això?». La resposta és sí. No cal tenir un diagnòstic, una crisi, ni una queixa clara per buscar acompanyament. La teràpia no és només per a les situacions greus: també és per als moments en què una persona sent que alguna cosa no encaixa i vol entendre què és, abans que es converteixi en un problema més gran.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, treballar aquest tipus de malestar abans que cristal·litzi té un avantatge: encara no s'ha acumulat la càrrega d'anys d'arrossegar-lo. La persona arriba amb una certa curiositat, amb ganes de comprendre, i el procés sol ser més fluid que quan el malestar ja ha pres forma de símptoma. No es tracta de patologizar una sensació: es tracta de donar-li paraules i veure què hi ha sota.",
+      },
+      {
+        type: "heading",
+        text: "El valor de posar nom",
+      },
+      {
+        type: "paragraph",
+        text: "Part del que fa la teràpia en aquests casos no és donar una explicació tècnica, sinó ajudar a trobar paraules per a alguna cosa que fins ara només era sensació. No es tracta d'etiquetar, sinó de comprendre. Quan una persona aconsegueix dir «el que em passa és que fa anys que vivo orientat al que esperaven de mi, i no ho havia vist», alguna cosa canvia. No perquè la frase sigui una resposta, sinó perquè obre un camí que fins ara era invisible.",
+      },
+      {
+        type: "paragraph",
+        text: "Posar nom no equival a resoldre. Equival a començar a poder pensar el que fins ara només es patia. I pensar, en el context segur d'una relació terapèutica, permet moure's, prendre decisions, ajustar el rumb. El malestar sense nom no es tracta d'eliminar-lo: es tracta d'escoltar el que estava intentant dir, i donar-li un lloc en la pròpia història.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "És normal sentir-se així sense un motiu clar?",
+            answer:
+              "Sí. El malestar sense nom és una experiència habitual en l'edat adulta, especialment en moments de canvi intern, encara que no hi hagi un fet extern que el dispari. No tenir un motiu concret no vol dir que el que sents no sigui real ni que no mereixi atenció.",
+          },
+          {
+            question:
+              "Com distingeixo això d'un estat depresiu?",
+            answer:
+              "El malestar sense nom no necessàriament implica pèrdua d'interès, fatiga sostinguda ni alteració del son i la gana —trets que solen presentar-se en un estat depresiu. Però la frontera no sempre és nítida, i per això convé que un professional valori la situació. No has de saber diagnosticar-te: la funció de la primera sessió és precisament ajudar a entendre què tens davant.",
+          },
+          {
+            question:
+              "Val la pena anar al psicòleg si no sé explicar el que em passa?",
+            answer:
+              "Sí. No necessites arribar amb una queixa formulada. Moltes persones comencen un procés amb la única certesa que alguna cosa no encaixa. Trobar paraules per al que es sent forma part de la feina terapèutica, no un requisit previ per accedir-hi.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si fa temps que arrossegues una sensació que no saps explicar i vols comprendre-la, pots sol·licitar una primera sessió a la nostra pàgina de contacte. A Espai Emocions acompanyem processos que no sempre comencen amb una queixa clara: de vegades comencen amb una pregunta —i amb la voluntat de no deixar-la sense resposta.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un tipo de malestar que no encaja en ninguna parte. No es tristeza —o no solo—. No es ansiedad —o no del todo—. No es una crisis, porque no ha ocurrido nada que la justifique. Es una sensación difusa, persistente, que a veces aparece por la mañana al despertar y a veces se instala por la tarde, y que cuesta de describir porque no tiene la nitidez de un síntoma. Es más bien la sensación de que algo no encaja, de que la vida —tal como está montada— ya no sostiene como antes.",
+      },
+      {
+        type: "paragraph",
+        text: "Las personas que llegan a consulta con este estado suelen empezar diciendo: «No sé muy bien por qué vengo. No es nada grave. Supongo que me pasa algo, pero no sabría decirte qué». Esta frase es más habitual de lo que parece. Y el hecho de no poder poner nombre a lo que se siente no significa que no haya nada que trabajar. A veces es justo al revés: lo que no tiene nombre es lo que más hace falta mirar.",
+      },
+      {
+        type: "heading",
+        text: "Un malestar que no es síntoma",
+      },
+      {
+        type: "paragraph",
+        text: "La psicología clínica tiene herramientas para describir estados definidos: un episodio depresivo, un trastorno de ansiedad, un duelo, una crisis de pánico. Esas categorías son útiles y necesarias, pero no cubren todo el malestar humano. Existe una zona amplia donde la persona no encaja en ninguna etiqueta y, sin embargo, se siente mal. Funciona, trabaja, mantiene sus vínculos, y por dentro arrastra una sensación de desconexión o de vacío que no logra explicar.",
+      },
+      {
+        type: "paragraph",
+        text: "Este malestar sin nombre suele aparecer en momentos concretos de la vida adulta. En los treinta, cuando las decisiones que se tomaron con presión empiezan a pesar. En los cuarenta, cuando la vida que se construyó ya no responde a la persona que se ha ido siendo. O en tránsitos más sutiles: después de conseguir un objetivo largamente perseguido, después de salir de una relación, después de un cambio de trabajo que en principio era positivo. El contexto exterior no explica lo que pasa por dentro.",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta tanto poner palabras",
+      },
+      {
+        type: "paragraph",
+        text: "El malestar sin nombre es difícil de expresar porque no está ligado a un acontecimiento concreto. Cuando alguien ha perdido un trabajo o ha roto una relación, sabe qué le duele. La pérdida da un marco, un vocabulario, una narrativa. En cambio, cuando no hay un hecho que lo dispare, la persona no sabe por dónde empezar a explicarlo, y a veces llega a dudar de si tiene derecho a sentirse mal. «No me quejo de nada», es una frase recurrente. «Tengo una buena vida, no debería estar así».",
+      },
+      {
+        type: "paragraph",
+        text: "Esta dificultad tiene un lado engañoso: como el malestar no se puede explicar con claridad, muchas personas tardan años en buscar ayuda. Se dicen que pasará, que es una mala época, que es cansancio. Y el tiempo pasa, y la sensación no se va del todo —a veces se atenúa, a veces vuelve—, y la persona se acostumbra a convivir con ella como quien se acostumbra a un ruido de fondo. Pero convivir con algo no significa haberlo resuelto.",
+      },
+      {
+        type: "heading",
+        text: "Lo que suele haber bajo la superficie",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando este malestar se explora en terapia, a menudo aparecen temas que no tenían espacio para manifestarse de otra manera. Una identidad construida sobre lo que los demás esperaban. Una forma de relacionarse que funcionó durante años y que ahora deja vacío. Valores que se pusieron en pausa y que, con el tiempo, reclaman su presencia. Partes de la propia historia que se dejaron a un lado y que vuelven en forma de inquietud sin forma.",
+      },
+      {
+        type: "paragraph",
+        text: "El malestar sin nombre no siempre esconde un trauma. A veces esconde una desconexión entre la vida que se vive y la vida que tendría sentido vivir. No es una patología: es una señal. El cuerpo y el ánimo señalando que algo de la propia existencia necesita atención. Ignorar esa señal no la hace desaparecer: la cronifica en forma de irritabilidad, de desconexión, de un cansancio que no se va con descanso.",
+      },
+      {
+        type: "heading",
+        text: "¿Es motivo suficiente para ir a terapia?",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las preguntas más habituales en la primera sesión es: «¿Es motivo suficiente para venir a terapia, esto?». La respuesta es sí. No hace falta tener un diagnóstico, una crisis, ni una queja clara para buscar acompañamiento. La terapia no es solo para las situaciones graves: también es para los momentos en que una persona siente que algo no encaja y quiere entender qué es, antes de que se convierta en un problema mayor.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, trabajar este tipo de malestar antes de que cristalice tiene una ventaja: todavía no se ha acumulado la carga de años de arrastrarlo. La persona llega con cierta curiosidad, con ganas de comprender, y el proceso suele ser más fluido que cuando el malestar ya ha tomado forma de síntoma. No se trata de patologizar una sensación: se trata de darle palabras y ver qué hay debajo.",
+      },
+      {
+        type: "heading",
+        text: "El valor de poner nombre",
+      },
+      {
+        type: "paragraph",
+        text: "Parte de lo que hace la terapia en estos casos no es dar una explicación técnica, sino ayudar a encontrar palabras para algo que hasta ahora solo era sensación. No se trata de etiquetar, sino de comprender. Cuando una persona consigue decir «lo que me pasa es que hace años que vivo orientado a lo que esperaban de mí, y no lo había visto», algo cambia. No porque la frase sea una respuesta, sino porque abre un camino que hasta ahora era invisible.",
+      },
+      {
+        type: "paragraph",
+        text: "Poner nombre no equivale a resolver. Equivale a empezar a poder pensar lo que hasta ahora solo se padecía. Y pensar, en el contexto seguro de una relación terapéutica, permite moverse, tomar decisiones, ajustar el rumbo. El malestar sin nombre no se trata de eliminarlo: se trata de escuchar lo que estaba intentando decir, y darle un lugar en la propia historia.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal sentirse así sin un motivo claro?",
+            answer:
+              "Sí. El malestar sin nombre es una experiencia habitual en la edad adulta, especialmente en momentos de cambio interno, aunque no haya un hecho externo que lo dispare. No tener un motivo concreto no significa que lo que sientes no sea real ni que no merezca atención.",
+          },
+          {
+            question: "¿Cómo distingo esto de un estado depresivo?",
+            answer:
+              "El malestar sin nombre no implica necesariamente pérdida de interés, fatiga sostenida ni alteración del sueño y el apetito —rasgos que suelen presentarse en un estado depresivo—. Pero la frontera no siempre es nítida, y por eso conviene que un profesional valore la situación. No tienes que saber diagnosticarte: la función de la primera sesión es precisamente ayudar a entender qué tienes delante.",
+          },
+          {
+            question:
+              "¿Vale la pena ir al psicólogo si no sé explicar lo que me pasa?",
+            answer:
+              "Sí. No necesitas llegar con una queja formulada. Muchas personas comienzan un proceso con la única certeza de que algo no encaja. Encontrar palabras para lo que se siente forma parte del trabajo terapéutico, no un requisito previo para acceder a él.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas tiempo arrastrando una sensación que no sabes explicar y quieres comprenderla, puedes solicitar una primera sesión en nuestra página de contacto. En Espai Emocions acompañamos procesos que no siempre empiezan con una queja clara: a veces empiezan con una pregunta —y con la voluntad de no dejarla sin respuesta.",
+      },
+    ],
+  },
 ];
