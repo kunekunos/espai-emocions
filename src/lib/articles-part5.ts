@@ -1941,4 +1941,216 @@ export const articlesPart5: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 10. soledad-edad-adulta-sentirse-solo (Pilar 3: ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "soledad-edad-adulta-sentirse-solo",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "La soledat a l'edat adulta: quan estar sol no és el mateix que sentir-se sol",
+    titleES: "La soledad en la edad adulta: cuando estar solo no es lo mismo que sentirse solo",
+    excerptCA:
+      "La soledat és una de les experiències més comunes a l'edat adulta i, alhora, una de les més difícils de nombrar. No sempre coincideix amb l'aïllament: es pot estar envoltat de gent i sentir-se sol, o estar a soles i no sentir-se sol. Aquest article explora què hi ha darrere d'aquesta soledat que apareix als quaranta o als cinquanta, per què no és un fracàs social i quan convé acompanyar-la en teràpia.",
+    excerptES:
+      "La soledad es una de las experiencias más comunes en la edad adulta y, a la vez, una de las más difíciles de nombrar. No siempre coincide con el aislamiento: se puede estar rodeado de gente y sentirse solo, o estar a solas y no sentirse solo. Este artículo explora qué hay detrás de esa soledad que aparece a los cuarenta o a los cincuenta, por qué no es un fracaso social y cuándo conviene acompañarla en terapia.",
+    datePublished: "2026-07-26",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La soledat és una de les experiències més comunes a l'edat adulta i, alhora, una de les més difícils de nombrar. No sempre coincideix amb l'aïllament: es pot estar envoltat de gent i sentir-se sol, o estar a soles i no sentir-se sol. Aquesta diferència —entre la soledat com a fet i la soledat com a sensació— és el punt de partida per entendre què ens passa quan apareix, de vegades sense avisar, als quaranta o als cinquanta.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum: la soledat a l'edat adulta no és un fracàs social ni un símptoma d'alguna cosa trencada. Sol ser el senyal que alguna cosa en la manera de vincular-se ha deixat de sostenir: relacions que s'han buidat de contingut, un sentit que s'ha perdut, una identitat que ha canviat. Acompanyar-la en teràpia no consisteix a omplir un buit, sinó a entendre què està demanant i quines parts de la pròpia història demanen ser escoltades.",
+      },
+      {
+        type: "heading",
+        text: "La soledat que no es veu",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una soledat visible —la de qui viu sol, ha perdut algú o s'ha traslladat a una ciutat nova— i una altra que no es veu. Aquesta segona és la més freqüent a la consulta. La persona manté la seva feina, la seva parella, les seves amistats, i tanmateix descriu una sensació de llunyania, com si alguna cosa intermèdia s'hagués interposat entre ella i els altres. Les conversacions li ressonen menys, els plans li costen més, i hi ha un punt on la connexió que abans semblava natural ara requereix esforç.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta soledat invisible és difícil d'explicar fora, perquè no hi ha un fet que la justifiqui. Qui la viu sap que no s'hauria de queixar —té gent al voltant— i tanmateix no la pot evitar. Per això és una de les experiències que més es callen.",
+      },
+      {
+        type: "heading",
+        text: "Per què apareix a la maduresa",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresa adulta porta canvis silenciosos a la xarxa de vincles. Els amics dels vint es dispersen. La parella, si n'hi ha, entra en fases menys narratives i més quotidianes. Els fills, si n'hi ha, creixen i necessiten una altra presència. Els pares envellixen. La feina pot donar estabilitat però també consumir l'espai que abans es dedicava a cultivar relacions. Poc a poc, sense un moment clar, la xarxa s'aprima.",
+      },
+      {
+        type: "paragraph",
+        text: "A això s'hi suma un canvi intern. Als quaranta o cinquanta, moltes persones revisen què han fet amb la seva vida, amb qui l'han compartida i si les eleccions d'abans continuen sent vàlides. Aquesta revisió no és una crisi necessàriament: és un moviment natural de maduresa. Però en fer-se, apareixen preguntes sobre a qui es pertany realment, quins vincles sostenen i quins només es mantenen per costum. I aquestes preguntes, quan no troben interlocutor, generen soledat.",
+      },
+      {
+        type: "heading",
+        text: "Soledat escollida i soledat patida",
+      },
+      {
+        type: "paragraph",
+        text: "No tota soledat fa mal. Hi ha una soledat que es busca —el temps a soles per descansar, pensar, recuperar contacte amb un mateix— i que és necessària per a la salut emocional. Reconèixer-la com a alguna cosa pròpia, no com a manca, forma part de la maduresa. Una persona que no pot estar sola sol dependre dels altres per regular-se, i aquesta dependència també és una forma de soledat, encara que es visqui en companyia.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema apareix quan la soledat no s'escull i, sobretot, quan no es pot nombrar. La soledat patida s'instal·la com un to de fons: la persona segueix funcionant, però amb una sensació de desconnexió que no millora amb més plans ni amb més gent. Allà és on la quantitat de vincles no resol res; el que falta no és presència, sinó qualitat de relació.",
+      },
+      {
+        type: "heading",
+        text: "El que la soledat intenta dir",
+      },
+      {
+        type: "paragraph",
+        text: "La soledat, com altres experiències difícils, no és només un símptoma que cal treure. Sol estar senyalant alguna cosa. De vegades indica que una part de la persona ha deixat de tenir veu en les seves relacions: hi ha temes que no es poden tocar, emocions que no caben, una manera de ser que s'ha anat reprimint per encaixar. La soledat apareix quan aquesta part, callada durant anys, comença a demanar espai.",
+      },
+      {
+        type: "paragraph",
+        text: "Altres vegades senyala un desajust entre la vida que es té i la que tindria sentit viure. No en el sentit de canviar-ho tot, sinó en el de reconèixer que algunes eleccions —una feina, una relació, una manera d'estar— ja no representen el que un és avui. La soledat, en aquests casos, és la distància entre qui s'ha estat i qui s'està sent.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar-la en teràpia no consisteix a diagnosticar-la com a problema i buscar-ne solució, sinó a escoltar el que intenta dir. Moltes vegades, quan se li dona paraula, la sensació de soledat canvia de caràcter: deixa de ser buit i es converteix en informació sobre un mateix.",
+      },
+      {
+        type: "heading",
+        text: "Quan convé buscar acompanyament",
+      },
+      {
+        type: "paragraph",
+        text: "La soledat no sempre requereix intervenció. Apareix i passa, com altres emocions, i el temps o un canvi de context la suavitza. Però quan es manté setmanes o mesos, quan comença a tenyir la majoria de moments —fins i tot els que abans eren plaents— i quan s'acompanya de pèrdua d'interès, cansament o sensació de desconnexió d'un mateix, convé aturar-se a mirar-la amb ajuda.",
+      },
+      {
+        type: "paragraph",
+        text: "Un psicòleg no omplirà la soledat —no és la seva funció, i no seria possible—, però sí que ajudarà a entendre-la: a distingir quina part té a veure amb el context, quina amb la història personal i quina amb la manera de relacionar-se que s'ha construït. De vegades el canvi consisteix a cuidar de forma diferent els vincles que ja existeixen; altres, a permetre's buscar-ne de nous; altres, a reconciliar-se amb una soledat que espanta perquè no s'ha après a habitar-la.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Sentir soledat estant en parella és normal?",
+            answer:
+              "Sí. La soledat dins d'una relació és una de les més freqüents i, sovint, de les més callades. No significa que la parella estigui malament necessàriament, però sí que alguna cosa en la qualitat de la connexió s'ha debilitat. Parlar-ne, sigui en teràpia individual o de parella, sol ser més útil que callar-ho per por de reconèixer-ho.",
+          },
+          {
+            question: "Anar a més esdeveniments o conèixer gent nova resol la soledat?",
+            answer:
+              "No sempre. La soledat que es pateix a l'edat adulta rarament es resol només amb quantitat de contacte. Si la sensació de desconnexió ve de dins —de parts d'un que no tenen veu, d'un desajust amb la pròpia vida—, afegir plans pot fins i tot amplificar-la. Treballar què hi ha a sota sol ser més eficaç que multiplicar l'activitat.",
+          },
+          {
+            question: "La soledat és senyal de depressió?",
+            answer:
+              "Pot formar part d'un estat depressiu, però no ho és per si sola. La soledat és una experiència humana, no un diagnòstic. Si s'acompanya de pèrdua sostinguda d'interès, cansament que no cedeix, alteració del son o pensaments negatius recurrents, convé una valoració professional per entendre què hi ha davant. No has de saber classificar-ho: això és una de les coses que ajuda a aclarir una primera sessió.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si fa temps que sents una soledat que no s'explica només per quanta gent tens al voltant, i vols entendre-la millor, pots sol·licitar una primera sessió a la nostra pàgina de contacte. A Espai Emocions acompanyem processos on el que falta no és soroll, sinó profunditat —i on aprendre a estar amb un mateix és part del camí.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La soledad es una de las experiencias más comunes en la edad adulta y, a la vez, una de las más difíciles de nombrar. No siempre coincide con el aislamiento: se puede estar rodeado de gente y sentirse solo, o estar a solas y no sentirse solo. Esa diferencia —entre la soledad como hecho y la soledad como sensación— es el punto de partida para entender qué nos pasa cuando aparece, a veces sin avisar, a los cuarenta o a los cincuenta.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen: la soledad en la edad adulta no es un fracaso social ni un síntoma de algo roto. Suele ser la señal de que algo en la manera de vincularse ha dejado de sostener: relaciones que se vaciaron de contenido, un sentido que se perdió, una identidad que cambió. Acompañarla en terapia no consiste en llenar un vacío, sino en entender qué está pidiendo y qué partes de la propia historia piden ser escuchadas.",
+      },
+      {
+        type: "heading",
+        text: "La soledad que no se ve",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una soledad visible —la de quien vive solo, ha perdido a alguien o se ha mudado a una ciudad nueva— y otra que no se ve. Esta segunda es la más frecuente en la consulta. La persona mantiene su trabajo, su pareja, sus amistades, y sin embargo describe una sensación de lejanía, como si algo intermedio se hubiera interpuesto entre ella y los demás. Las conversaciones le resuenan menos, los planes le cuestan más, y hay un punto donde la conexión que antes parecía natural ahora requiere esfuerzo.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta soledad invisible es difícil de explicar fuera, porque no hay un hecho que la justifique. Quien la vive sabe que no debería quejarse —tiene gente a su alrededor— y sin embargo no puede evitarla. Por eso es una de las experiencias que más se callan.",
+      },
+      {
+        type: "heading",
+        text: "Por qué aparece en la madurez",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez adulta trae consigo cambios silenciosos en la red de vínculos. Los amigos de los veinte se dispersan. La pareja, si la hay, entra en fases menos narrativas y más cotidianas. Los hijos, si los hay, crecen y necesitan otra presencia. Los padres envejecen. El trabajo puede dar estabilidad pero también consumir el espacio que antes se dedicaba a cultivar relaciones. Poco a poco, sin un momento claro, la red se adelgaza.",
+      },
+      {
+        type: "paragraph",
+        text: "A esto se suma un cambio interno. A los cuarenta o cincuenta, muchas personas revisan qué han hecho con su vida, con quién la han compartido y si las elecciones de antes siguen siendo válidas. Esa revisión no es una crisis necesariamente: es un movimiento natural de madurez. Pero al hacerse, aparecen preguntas sobre a quién se pertenece realmente, qué vínculos sostienen y cuáles solo se mantienen por costumbre. Y esas preguntas, cuando no encuentran interlocutor, generan soledad.",
+      },
+      {
+        type: "heading",
+        text: "Soledad elegida y soledad sufrida",
+      },
+      {
+        type: "paragraph",
+        text: "No toda soledad duele. Hay una soledad que se busca —el tiempo a solas para descansar, pensar, recuperar contacto con uno mismo— y que es necesaria para la salud emocional. Reconocerla como algo propio, no como carencia, forma parte de la madurez. Una persona que no puede estar sola suele depender de los demás para regularse, y esa dependencia también es una forma de soledad, aunque se viva en compañía.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema aparece cuando la soledad no se elige y, sobre todo, cuando no se puede nombrar. La soledad sufrida se instala como un tono de fondo: la persona sigue funcionando, pero con una sensación de desconexión que no mejora con más planes ni con más gente. Ahí es donde la cantidad de vínculos no resuelve nada; lo que falta no es presencia, sino calidad de relación.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la soledad intenta decir",
+      },
+      {
+        type: "paragraph",
+        text: "La soledad, como otras experiencias difíciles, no es solo un síntoma que hay que quitar. Suele estar señalando algo. A veces indica que una parte de la persona ha dejado de tener voz en sus relaciones: hay temas que no se pueden tocar, emociones que no caben, una manera de ser que se ha ido reprimiendo para encajar. La soledad aparece cuando esa parte, callada durante años, empieza a pedir espacio.",
+      },
+      {
+        type: "paragraph",
+        text: "Otras veces señala un desajuste entre la vida que se tiene y la que tendría sentido vivir. No en el sentido de cambiarlo todo, sino en el de reconocer que algunas elecciones —un trabajo, una relación, un modo de estar— ya no representan lo que uno es hoy. La soledad, en estos casos, es la distancia entre quien se ha sido y quien se está siendo.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajarla en terapia no consiste en diagnosticarla como problema y buscarle solución, sino en escuchar lo que intenta decir. Muchas veces, cuando se le da palabra, la sensación de soledad cambia de carácter: deja de ser vacío y se convierte en información sobre uno mismo.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene buscar acompañamiento",
+      },
+      {
+        type: "paragraph",
+        text: "La soledad no siempre requiere intervención. Aparece y pasa, como otras emociones, y el tiempo o un cambio de contexto la suaviza. Pero cuando se mantiene semanas o meses, cuando empieza a teñir la mayoría de momentos —incluso los que antes eran placenteros— y cuando se acompaña de pérdida de interés, cansancio o sensación de desconexión de uno mismo, conviene pararse a mirarla con ayuda.",
+      },
+      {
+        type: "paragraph",
+        text: "Un psicólogo no va a llenar la soledad —no es su función, y no sería posible—, pero sí va a ayudar a entenderla: a distinguir qué parte tiene que ver con el contexto, qué parte con la historia personal y qué parte con la forma de relacionarse que se ha construido. A veces el cambio consiste en cuidar de forma distinta los vínculos que ya existen; otras, en permitirse buscar otros nuevos; otras, en reconciliarse con una soledad que asusta porque no se ha aprendido a habitarla.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Sentir soledad estando en pareja es normal?",
+            answer:
+              "Sí. La soledad dentro de una relación es una de las más frecuentes y, a menudo, de las más calladas. No significa que la pareja esté mal necesariamente, pero sí que algo en la calidad de la conexión se ha debilitado. Hablarlo, sea en terapia individual o de pareja, suele ser más útil que callarlo por miedo a reconocerlo.",
+          },
+          {
+            question: "¿Ir a más eventos o conocer gente nueva resuelve la soledad?",
+            answer:
+              "No siempre. La soledad que se sufre en la edad adulta rara vez se resuelve solo con cantidad de contacto. Si la sensación de desconexión viene de dentro —de partes de uno que no tienen voz, de un desajuste con la propia vida—, añadir planes puede incluso amplificarla. Trabajar qué hay debajo suele ser más eficaz que multiplicar la actividad.",
+          },
+          {
+            question: "¿La soledad es señal de depresión?",
+            answer:
+              "Puede formar parte de un estado depresivo, pero no lo es por sí sola. La soledad es una experiencia humana, no un diagnóstico. Si se acompaña de pérdida sostenida de interés, cansancio que no cede, alteración del sueño o pensamientos negativos recurrents, conviene una valoración profesional para entender qué hay delante. No tienes que saber clasificarlo: esa es una de las cosas que ayuda a clarificar una primera sesión.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas tiempo sintiendo una soledad que no se explica solo por cuánta gente tienes alrededor, y quieres entenderla mejor, puedes solicitar una primera sesión en nuestra página de contacto. En Espai Emocions acompañamos procesos donde lo que falta no es ruido, sino profundidad —y donde aprender a estar con uno mismo es parte del camino.",
+      },
+    ],
+  },
 ];

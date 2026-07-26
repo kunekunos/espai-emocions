@@ -25,6 +25,18 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-07-25"
   },
   {
+    "slug": "soledad-edad-adulta-sentirse-solo",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "La soledat a l'edat adulta: quan estar sol no és el mateix que sentir-se sol",
+    "titleES": "La soledad en la edad adulta: cuando estar solo no es lo mismo que sentirse solo",
+    "excerptCA":
+      "La soledat és una de les experiències més comunes a l'edat adulta i, alhora, una de les més difícils de nombrar. No sempre coincideix amb l'aïllament: es pot estar envoltat de gent i sentir-se sol, o estar a soles i no sentir-se sol. Aquest article explora què hi ha darrere d'aquesta soledat que apareix als quaranta o als cinquanta, per què no és un fracàs social i quan convé acompanyar-la en teràpia.",
+    "excerptES":
+      "La soledad es una de las experiencias más comunes en la edad adulta y, a la vez, una de las más difíciles de nombrar. No siempre coincide con el aislamiento: se puede estar rodeado de gente y sentirse solo, o estar a solas y no sentirse solo. Este artículo explora qué hay detrás de esa soledad que aparece a los cuarenta o a los cincuenta, por qué no es un fracaso social y cuándo conviene acompañarla en terapia.",
+    "datePublished": "2026-07-26"
+  },
+  {
     "slug": "perfeccionismo-paraliza-adultos",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
