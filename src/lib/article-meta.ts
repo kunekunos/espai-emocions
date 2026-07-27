@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "cuerpo-dice-cabeza-calla-somatizar-tension",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan el cos diu el que el cap calla: somatitzar la tensió emocional",
+    "titleES": "Cuando el cuerpo dice lo que la cabeza calla: somatizar la tensión emocional",
+    "excerptCA":
+      "Hi ha malestars que no arriben a la paraula. Es queden al cos: un coll que no es deixa anar, un estómac que es tanca, una tensió que no marxa amb el descans. Somatitzar no és exagerar ni imaginar: és la manera com l'organisme expressa el que la consciència encara no ha pogut processar. Aquí expliquem com funciona aquesta relació entre cos i emoció, per què no és una qüestió de voluntat i quan convé acompanyar-la en teràpia.",
+    "excerptES":
+      "Hay malestares que no llegan a la palabra. Se quedan en el cuerpo: un cuello que no se suelta, un estómago que se cierra, una tensión que no se va con el descanso. Somatizar no es exagerar ni imaginar: es la forma en que el organismo expresa lo que la conciencia aún no ha podido procesar. Aquí explicamos cómo funciona esta relación entre cuerpo y emoción, por qué no es una cuestión de voluntad y cuándo conviene acompañarla en terapia.",
+    "datePublished": "2026-07-27"
+  },
+  {
     "slug": "malestar-sin-nombre-cuando-algo-no-encaixa",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
