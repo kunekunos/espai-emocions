@@ -279,4 +279,242 @@ export const articlesPart6: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 2. identidad-edad-adulta-no-reconoces (Pilar: Cambios vitales / Identidad)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "identidad-edad-adulta-no-reconoces",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Quan no et reconeixes: la pregunta per la identitat a l'edat adulta",
+    titleES: "Cuando no te reconoces: la pregunta por la identidad en la edad adulta",
+    excerptCA:
+      "Hi ha un tipus de malestar que no s'assembla a la tristesa ni a l'ansietat. És una sensació de no reconèixer-se: la persona que ets en allò visible ja no coincideix amb la que ets en allò que no es veu. Aquí explorem què és la pregunta per la identitat a l'edat adulta, per què apareix amb freqüència entre els 35 i els 55, i com pot ajudar la teràpia a recórrer-la sense que et tombi.",
+    excerptES:
+      "Hay un tipo de malestar que no se parece a la tristeza ni a la ansiedad. Es una sensación de no reconocerse: la persona que eres en lo visible ya no coincidece con la que eres en lo que no se ve. Aquí exploramos qué es la pregunta por la identidad en la edad adulta, por qué aparece con frecuencia entre los 35 y los 55, y cómo puede ayudar la terapia a recorrerla sin que te derrumbe.",
+    datePublished: "2026-07-28",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un tipus de malestar que no s'assembla a la tristesa ni a l'ansietat. No té la textura del dol ni la urgència del pànic. És més subtil: una sensació de no reconèixer-se. Mires la teva vida des de fora i reconeixes que és teva —la signatura, el nom, la història—, però alguna cosa en tu no es reconeix dins d'ella. No és que no sàpigues qui ets. És que la persona que ets en allò visible ja no coincideix amb la que ets en allò que no es veu.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la identitat adulta no és una cosa que es construeix una vegada i es manté intacta. Es reconfigura al llarg de la vida, i hi ha moments —sovint entre els 35 i els 55— en què la distància entre el que un ha arribat a ser i el que un reconeix com a propi es fa gran. Això no és una crisi d'ego ni un capritx: és un procés de maduresa que demana ser acompanyat.",
+      },
+      {
+        type: "heading",
+        text: "Allò que solíem anomenar identitat",
+      },
+      {
+        type: "paragraph",
+        text: "La identitat no és un concepte abstracte. És la resposta, més o menys estable, a la pregunta de qui ets. I aquesta resposta, a l'edat adulta, sol estar feta de capes: la feina que fas, les relacions que sostens, els valors que dius seguir, la història que expliques sobre tu. Durant anys, aquestes capes funcionen. Et donen continuïtat, et donen lloc, et donen una manera de moure't pel món sense haver de preguntar-te cada matí qui ets.",
+      },
+      {
+        type: "paragraph",
+        text: "Però la identitat construïda sobre capes externes té un límit. Quan les capes canvien —la feina perd sentit, la relació es reconfigura, els fills creixen, els pares envelleixen— allò que quedava a sota queda exposat. I de vegades el que queda no s'assembla al que estava al damunt.",
+      },
+      {
+        type: "heading",
+        text: "Quan els rols deixen de sostenir",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les formes més freqüents en què apareix la pregunta per la identitat és a través dels rols. Durant anys, ser algú es confon amb fer alguna cosa: ser professional, ser parella, ser pare o mare, ser el que resol, el que cuida, el que aguanta. Els rols són útils: donen estructura, donen reconeixement, donen una manera de pertànyer. Però no són la persona.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema apareix quan la persona i el rol s'han fusionat tant que, quan el rol canvia o s'afluixa, la persona no sap què queda. Això passa amb la paternitat quan els fills se'n van, amb la feina quan es jubila o es perd, amb la parella quan es reorganitza. No és només una pèrdua de funció: és una pèrdua de referent intern. «Qui soc sense això» deixa de ser una pregunta retòrica i esdevé urgent.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre identitat i autoestima",
+      },
+      {
+        type: "paragraph",
+        text: "Convenç distingir aquests dos conceptes, perquè sovint es confonen. L'autoestima és la valoració que una persona fa de si mateixa: quant es considera valuosa, quant es respecta. La identitat és la resposta a la pregunta de qui és un. Pots tenir una autoestima sana i, alhora, una identitat confusa. Pots saber que vals i, tot i això, no saber qui ets sense el context que et definia.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta distinció importa perquè el treball terapèutic és diferent en cada cas. Treballar l'autoestima implica revisar la relació amb el judici, amb el mereixement, amb la veu crítica interna. Treballar la identitat implica explorar què hi ha sota dels rols, quins valors són genuïnament propis i quins van ser adoptats per encaixar, quines parts d'un mateix han estat silenciades esperant el seu torn.",
+      },
+      {
+        type: "heading",
+        text: "Per què costa tant la pregunta",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta per la identitat incomoda perquè implica revisar decisions que ja estan preses. No és neutral preguntar-se «és això el que volia ser?», perquè la resposta pot ser que no, i llavors què. La incomoditat no ve de la pregunta sinó del que la pregunta podria desencadenar. Per això moltes persones l'aparcen: la converteixen en una qüestió pendent que s'atendrà quan hi hagi temps, quan els fills siguin més grans, quan la feina s'assuavi.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema d'aparcar-la és que, mentrestant, la distància entre la vida que es viu i la persona que s'és segueix creixent. I aquesta distància té costos: cansament sense causa clara, desconnexió, sensació d'anar en pilot automàtic, irritabilitat. No sempre es reconeix que aquests símptomes venen d'un problema d'identitat. De vegades s'atribueixen a l'estrès, a l'edat, a una mala temporada. Però quan duren mesos i no cedeixen, convé mirar més fondo.",
+      },
+      {
+        type: "heading",
+        text: "Allò que la teràpia pot aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no resol la identitat des de fora. No consisteix que el psicòleg et digui qui ets ni que descobreixis una essència oculta que estava esperant ser revelada. Consisteix a crear les condicions perquè puguis mirar la teva vida amb més honestedat, sense que aquesta mirada et tombi.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest espai es poden explorar preguntes que en un altre context serien impensables. Quines de les decisions que estructuren la meva vida les vaig prendre jo, i quines les vaig prendre perquè era el que s'esperava? Quines parts de mi he deixat fora per encaixar, i quin cost té això? Què canviaria si deixés de definir-me pel que faig i comencés a definir-me pel que valoro?",
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes preguntes no busquen respostes definitives. Busquen obrir un espai que la vida adulta, amb el seu ritme i les seves exigències, sol tancar. I en aquest espai, sovint, la persona comença a reconèixer-se: no com algú nou, sinó com algú que era allà però que no tenia lloc.",
+      },
+      {
+        type: "heading",
+        text: "Un procés, no una revelació",
+      },
+      {
+        type: "paragraph",
+        text: "La identitat no es troba de cop. Es recupera, o es reconstrueix, al llarg d'un procés que té els seus propis temps. Hi ha sessions en què alguna cosa s'aclareix, i setmanes en què res sembla moure's. Això no és manca de progrés: és la naturalesa del treball. La identitat profunda no es construeix amb la velocitat amb què es prenen decisions professionals. Necessita temps, i l'acompanyament terapèutic serveix, entre altres coses, per sostenir aquest temps sense que la urgència l'interrompi.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És el mateix una crisi d'identitat que una crisi vital?",
+            answer:
+              "No exactament, encara que se solapen. Una crisi vital és un moment en què la vida tal com estava muntada deixa de sostenir-se. La crisi d'identitat és més específica: és la pregunta per qui s'és, amb o sense canvis externs. Pots tenir una crisi vital sense que la identitat estigui en qüestió, i pots tenir una crisi d'identitat sense que res extern hagi canviat. A la pràctica, sovint van juntes, però el focus del treball terapèutic és diferent en cada cas.",
+          },
+          {
+            question: "Com sé si el que em passa és un problema d'identitat o simplement estic cansat?",
+            answer:
+              "El cansament puntual es recupera amb descans. El cansament que ve d'una desalineació profunda no. Si després de descansar, de canviar de rutina o de tenir un bon període, la sensació de no reconèixer-te torna, convé considerar que no és només esgotament. Un psicòleg pot ajudar a distingir entre el que és cansament, el que és estrès i el que és una pregunta d'identitat que està demanant espai.",
+          },
+          {
+            question: "La teràpia em dirà qui soc?",
+            answer:
+              "No. La teràpia no consisteix que algú et digui qui ets. Consisteix a crear les condicions perquè tu puguis mirar-ho amb més claredat. El psicòleg acompanya el procés, ajuda a formular preguntes, aporta perspectiva, però la resposta és teva. La identitat no es rep des de fora: es reconeix des de dins. L'acompanyament professional facilita aquest reconeixement, però no el substitueix.",
+          },
+          {
+            question: "No és tard als 45 per replantejar-se qui és un?",
+            answer:
+              "No. És un moment freqüent per plantejar-se aquesta pregunta. La identitat no es tanca als 30 ni als 40. Es reconfigura al llarg de la vida, i els processos de maduresa segueixen actius mentre vivim. Qüestionar-se qui s'és als 45 no és començar de zero: és revisar, amb l'experiència acumulada, allò que ja s'ha construït. Sovint és un procés més ric que el dels 20, perquè hi ha més història amb què treballar.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si fa temps que sents que no et reconeixes en la vida que tens, no és un símptoma rar ni un luxe existencial. És un senyal que alguna cosa important s'està movent, i que aquest moviment necessita atenció. Pots sol·licitar una primera sessió a la nostra pàgina de contacte. A Espai Emocions acompanyem processos on la pregunta per la identitat es treballa amb temps, profunditat i respecte, perquè reconèixer-se no és un objectiu estètic: és la condició perquè la vida que vius se senti teva.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un tipo de malestar que no se parece a la tristeza ni a la ansiedad. No tiene la textura del duelo ni la urgencia del pánico. Es más sutil: una sensación de no reconocerse. Miras tu vida desde fuera y reconoces que es tuya —la firma, el nombre, la historia—, pero algo en ti no se reconoce dentro de ella. No es que no sepas quién eres. Es que la persona que eres en lo visible ya no coincide con la que eres en lo que no se ve.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la identidad adulta no es algo que se construye una vez y se mantiene intacto. Se reconfigura a lo largo de la vida, y hay momentos —a menudo entre los 35 y los 55— en que la distancia entre lo que uno ha llegado a ser y lo que uno reconoce como propio se hace grande. Esto no es una crisis de ego ni un capricho: es un proceso de madurez que pide ser acompañado.",
+      },
+      {
+        type: "heading",
+        text: "Lo que solemos llamar identidad",
+      },
+      {
+        type: "paragraph",
+        text: "La identidad no es un concepto abstracto. Es la respuesta, más o menos estable, a la pregunta de quién eres. Y esa respuesta, en la edad adulta, suele estar hecha de capas: el trabajo que haces, las relaciones que sostienes, los valores que dices seguir, la historia que cuentas sobre ti. Por años, esas capas funcionan. Te dan continuidad, te dan lugar, te dan un modo de moverte por el mundo sin tener que preguntarte cada mañana quién eres.",
+      },
+      {
+        type: "paragraph",
+        text: "Pero la identidad construida sobre capas externas tiene un límite. Cuando las capas cambian —el trabajo pierde sentido, la relación se reconfigura, los hijos crecen, los padres envejecen— lo que quedaba debajo queda expuesto. Y a veces lo que queda no se parece a lo que estaba encima.",
+      },
+      {
+        type: "heading",
+        text: "Cuando los roles dejan de sostener",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las formas más frecuentes en que aparece la pregunta por la identidad es a través de los roles. Durante años, ser alguien se confunde con hacer algo: ser profesional, ser pareja, ser padre o madre, ser el que resuelve, el que cuida, el que aguanta. Los roles son útiles: dan estructura, dan reconocimiento, dan una manera de pertenecer. Pero no son la persona.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema aparece cuando la persona y el rol se han fusionado tanto que, cuando el rol cambia o se afloja, la persona no sabe qué queda. Esto pasa con la paternidad cuando los hijos se van, con el trabajo cuando se jubila o se pierde, con la pareja cuando se reorganiza. No es solo una pérdida de función: es una pérdida de referente interno. «Quién soy sin esto» deja de ser una pregunta retórica y se vuelve urgente.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre identidad y autoestima",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene distinguir estos dos conceptos, porque a menudo se confunden. La autoestima es la valoración que una persona hace de sí misma: cuánto se considera valiosa, cuánto se respeta. La identidad es la respuesta a la pregunta de quién es uno. Puedes tener una autoestima sana y, al mismo tiempo, una identidad confusa. Puedes saber que vales y, aun así, no saber quién eres sin el contexto que te definía.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta distinción importa porque el trabajo terapéutico es diferente en cada caso. Trabajar la autoestima implica revisar la relación con el juicio, con el merecimiento, con la voz crítica interna. Trabajar la identidad implica explorar qué hay debajo de los roles, qué valores son genuinamente propios y cuáles fueron adoptados para encajar, qué partes de uno han estado silenciadas esperando su turno.",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta tanto la pregunta",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta por la identidad incomoda porque implica revisar decisiones que ya están tomadas. No es neutral preguntarse «¿es esto lo que quería ser?», porque la respuesta puede ser que no, y entonces ¿qué? La incomodidad no viene de la pregunta sino de lo que la pregunta podría desencadenar. Por eso muchas personas la aparcan: la convierten en una cuestión pendiente que se atenderá cuando haya tiempo, cuando los hijos sean mayores, cuando el trabajo calme.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema de aparcarla es que, mientras tanto, la distancia entre la vida que se vive y la persona que se es sigue creciendo. Y esa distancia tiene costes: cansancio sin causa clara, desconexión, sensación de ir en piloto automático, irritabilidad. No siempre se reconoce que estos síntomas vienen de un problema de identidad. A veces se atribuyen al estrés, a la edad, a una mala temporada. Pero cuando duran meses y no ceden, conviene mirar más hondo.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la terapia puede aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no resuelve la identidad desde fuera. No consiste en que el psicólogo te diga quién eres ni en que descubras una esencia oculta que estaba esperando ser revelada. Consiste en crear las condiciones para que puedas mirar tu vida con más honestidad, sin que esa mirada te derrumbe.",
+      },
+      {
+        type: "paragraph",
+        text: "En ese espacio se pueden explorar preguntas que en otro contexto serían impensables. ¿Cuáles de las decisiones que estructuran mi vida las tomé yo, y cuáles las tomé porque era lo que se esperaba? ¿Qué partes de mí he dejado fuera para encajar, y qué coste tiene eso? ¿Qué cambiaría si dejara de definirme por lo que hago y empezara a definirme por lo que valoro?",
+      },
+      {
+        type: "paragraph",
+        text: "Estas preguntas no buscan respuestas definitivas. Buscan abrir un espacio que la vida adulta, con su ritmo y sus exigencias, suele cerrar. Y en ese espacio, a menudo, la persona empieza a reconocerse: no como alguien nuevo, sino como alguien que estaba ahí pero que no tenía lugar.",
+      },
+      {
+        type: "heading",
+        text: "Un proceso, no una revelación",
+      },
+      {
+        type: "paragraph",
+        text: "La identidad no se encuentra de golpe. Se recupera, o se reconstruye, a lo largo de un proceso que tiene tiempos propios. Hay sesiones en las que algo se clarifica, y semanas en las que nada parece moverse. Eso no es falta de progreso: es la naturaleza del trabajo. La identidad profunda no se construye con la velocidad con la que se toman decisiones profesionales. Necesita tiempo, y el acompañamiento terapéutico sirve, entre otras cosas, para sostener ese tiempo sin que la urgencia lo interrumpa.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es lo mismo una crisis de identidad que una crisis vital?",
+            answer:
+              "No exactamente, aunque se solapan. Una crisis vital es un momento en que la vida tal como estaba montada deja de sostenerse. La crisis de identidad es más específica: es la pregunta por quién se es, con o sin cambios externos. Puedes tener una crisis vital sin que la identidad esté en cuestión, y puedes tener una crisis de identidad sin que nada externo haya cambiado. En la práctica, a menudo van juntas, pero el foco del trabajo terapéutico es distinto en cada caso.",
+          },
+          {
+            question: "¿Cómo sé si lo que me pasa es un problema de identidad o simplemente estoy cansado?",
+            answer:
+              "El cansancio puntual se recupera con descanso. El cansancio que viene de una desalineación profunda no. Si después de descansar, de cambiar de rutina o de tener un buen período, la sensación de no reconocerte vuelve, conviene considerar que no es solo agotamiento. Un psicólogo puede ayudar a distinguir entre lo que es cansancio, lo que es estrés y lo que es una pregunta de identidad que está pidiendo espacio.",
+          },
+          {
+            question: "¿La terapia me dirá quién soy?",
+            answer:
+              "No. La terapia no consiste en que alguien te diga quién eres. Consiste en crear las condiciones para que tú puedas mirarlo con más claridad. El psicólogo acompaña el proceso, ayuda a formular preguntas, aporta perspectiva, pero la respuesta es tuya. La identidad no se recibe desde fuera: se reconoce desde dentro. El acompañamiento profesional facilita ese reconocimiento, pero no lo sustituye.",
+          },
+          {
+            question: "¿No es tarde a los 45 para replantearse quién es uno?",
+            answer:
+              "No. Es un momento frecuente para plantearse esa pregunta. La identidad no se cierra a los 30 ni a los 40. Se reconfigura a lo largo de la vida, y los procesos de madurez siguen activos mientras vivimos. Cuestionarse quién se es a los 45 no es empezar de cero: es revisar, con la experiencia acumulada, lo que ya se ha construido. A menudo es un proceso más rico que el de los 20, porque hay más historia con la que trabajar.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas tiempo sintiendo que no te reconoces en la vida que tienes, no es un síntoma raro ni un lujo existencial. Es una señal de que algo importante se está moviendo, y que ese movimiento necesita atención. Puedes solicitar una primera sesión en nuestra página de contacto. En Espai Emocions acompañamos procesos donde la pregunta por la identidad se trabaja con tiempo, profundidad y respeto, porque reconocerse no es un objetivo estético: es la condición para que la vida que vives se sienta tuya.",
+      },
+    ],
+  },
 ];

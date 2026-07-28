@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "identidad-edad-adulta-no-reconoces",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Quan no et reconeixes: la pregunta per la identitat a l'edat adulta",
+    "titleES": "Cuando no te reconoces: la pregunta por la identidad en la edad adulta",
+    "excerptCA":
+      "Hi ha un tipus de malestar que no s'assembla a la tristesa ni a l'ansietat. És una sensació de no reconèixer-se: la persona que ets en allò visible ja no coincideix amb la que ets en allò que no es veu. Aquí explorem què és la pregunta per la identitat a l'edat adulta, per què apareix amb freqüència entre els 35 i els 55, i com pot ajudar la teràpia a recórrer-la sense que et tombi.",
+    "excerptES":
+      "Hay un tipo de malestar que no se parece a la tristeza ni a la ansiedad. Es una sensación de no reconocerse: la persona que eres en lo visible ya no coincidece con la que eres en lo que no se ve. Aquí exploramos qué es la pregunta por la identidad en la edad adulta, por qué aparece con frecuencia entre los 35 y los 55, y cómo puede ayudar la terapia a recorrerla sin que te derrumbe.",
+    "datePublished": "2026-07-28"
+  },
+  {
     "slug": "cuerpo-dice-cabeza-calla-somatizar-tension",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
