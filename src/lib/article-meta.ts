@@ -25,6 +25,18 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-07-28"
   },
   {
+    "slug": "pedir-ayuda-adultos-competentes",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan has estat qui sosté: la dificultat de demanar ajuda a l'edat adulta",
+    "titleES": "Cuando has sido quien sostiene: la dificultad de pedir ayuda en la edad adulta",
+    "excerptCA":
+      "Hi ha persones que porten anys sent qui resol, qui aguanta, qui organitza. Ho fan bé, i això es nota. Però un dia descobreixen que no saben demanar ajuda —ni identificar-la com a necessitat— perquè la seva identitat s'ha construït al voltant de sostenir, no de ser sostingut. Aquest article explora per què costa tant demanar ajuda a la maduresa adulta, quin preu té la competència quan es converteix en trincher a, i com pot ajudar la teràpia a reprendre una habilitat que no és un luxe: una condició per seguir.",
+    "excerptES":
+      "Hay personas que llevan años siendo quien resuelve, quien aguanta, quien organiza. Lo hacen bien, y eso se nota. Pero un día descubren que no saben pedir ayuda —ni identificarla como necesidad— porque su identidad se ha construido alrededor de sostener, no de ser sostenido. Este artículo explora por qué cuesta tanto pedir ayuda en la madurez adulta, qué precio tiene la competencia cuando se convierte en trinchera, y cómo puede ayudar la terapia a recuperar una habilidad que no es un lujo: una condición para seguir.",
+    "datePublished": "2026-07-29"
+  },
+  {
     "slug": "cuerpo-dice-cabeza-calla-somatizar-tension",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",

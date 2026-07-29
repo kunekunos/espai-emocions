@@ -517,4 +517,210 @@ export const articlesPart6: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 3. pedir-ayuda-adultos-competentes (Pilar: ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "pedir-ayuda-adultos-competentes",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA: "Quan has estat qui sosté: la dificultat de demanar ajuda a l'edat adulta",
+    titleES: "Cuando has sido quien sostiene: la dificultad de pedir ayuda en la edad adulta",
+    excerptCA:
+      "Hi ha persones que porten anys sent qui resol, qui aguanta, qui organitza. Ho fan bé, i això es nota. Però un dia descobreixen que no saben demanar ajuda —ni identificar-la com a necessitat— perquè la seva identitat s'ha construït al voltant de sostenir, no de ser sostingut. Aquest article explora per què costa tant demanar ajuda a la maduresa adulta, quin preu té la competència quan es converteix en trincher a, i com pot ajudar la teràpia a reprendre una habilitat que no és un luxe: una condició per seguir.",
+    excerptES:
+      "Hay personas que llevan años siendo quien resuelve, quien aguanta, quien organiza. Lo hacen bien, y eso se nota. Pero un día descubren que no saben pedir ayuda —ni identificarla como necesidad— porque su identidad se ha construido alrededor de sostener, no de ser sostenido. Este artículo explora por qué cuesta tanto pedir ayuda en la madurez adulta, qué precio tiene la competencia cuando se convierte en trinchera, y cómo puede ayudar la terapia a recuperar una habilidad que no es un lujo: una condición para seguir.",
+    datePublished: "2026-07-29",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un tipus de persona que no acostuma a arribar a consulta fins tard. No és perquè no ho necessiti: és perquè porta anys sent qui resol. És la persona a qui els altres acudeixen quan alguna cosa falla, qui organitza, qui conté, qui aguant a. Ho fa bé, i això li ha donat lloc, reconeixement i una manera d'estar al món. Però un dia —potser després d'una temporada difícil, potser després d'una crisi que no s'esperava— descobreix que no sap demanar ajuda. I no només no sap com fer-ho: no sap identificar que la necessita.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la dificultat de demanar ajuda no és un defecte de caràcter ni una qüestió d'orgull superficial. És el resultat d'una identitat construïda al voltant de la competència i la responsabilitat. Quan ser qui sosté s'ha convertit en la manera de ser un, demanar ajuda se sent com una amenaça a la pròpia coherència. La teràpia no consisteix a convèncer la persona que necessita ajuda: consisteix a crear un espai on ser sostingut no equivalgui a deixar de ser qui és.",
+      },
+      {
+        type: "heading",
+        text: "La identitat del qui sosté",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes adultes no es reconeixen en la imatge d'algú que «necessita ajuda». No és que es considerin superiors: és que la seva identitat s'ha construït al voltant de la funció de sostenir. Han estat qui organitza la família, qui porta la feina endavant, qui conté la parella, qui escolta les amigues, qui resol les crises dels altres. Aquesta funció, amb el temps, deixa de ser una cosa que fan per ser una cosa que són. I quan la funció i la identitat es fusionen, demanar ajuda deixa de ser una acció puntual i es converteix en una amenaça al sentit de qui s'és.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica una paradoxa freqüent: persones que recomanen teràpia als altres amb naturalitat, que llegeixen sobre psicologia amb interès, que fins i tot acompanyen amics a buscar professional, però que no aconsegueixen fer el mateix per si mateixes. Potser ho intenten: llegeixen, mediten, fan exercici, parlen amb algú de confiança. Però hi ha un límit que no creuen, un llindar on la gestió autònoma ja no basta però demanar ajuda encara se sent impossible.",
+      },
+      {
+        type: "heading",
+        text: "Per què demanar ajuda se sent com un fracàs",
+      },
+      {
+        type: "paragraph",
+        text: "El motiu no és l'orgull. És una confusió més fonda entre competència i valor personal. Si has après, des de fa dècades, que el teu valor està en la teva capacitat de sostenir els altres i avançar malgrat tot, demanar ajuda activa una pregunta que espanta: «si no puc amb això, qui soc?». La pregunta no és conscient. No es formula així. Es presenta com una sensació: incòmode, vergonya, una veu que diu «no és per tant», «altres ho porten pitjor», «ja trobaré la manera».",
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes frases no són excuses. Són el llenguatge d'una part que creu que la seva funció és la seva identitat. Aquesta part no està mentint: està protegint una imatge de si mateixa que ha funcionat molt de temps. La dificultat de demanar ajuda no ve de no voler: ve de no poder sense que alguna cosa internament es trenqui.",
+      },
+      {
+        type: "heading",
+        text: "El preu de la competència com a trincher a",
+      },
+      {
+        type: "paragraph",
+        text: "La competència, quan funciona bé, és un recurs. Però quan es converteix en l'únic recurs, també és una trincher a: protegeix, però aïlla. La persona que sempre pot amb tot no rep el mateix que la persona que de vegades no pot. Els altres assumeixen que està bé, que ho gestionarà, que ja avisarà si necessita res. I ella, mentrestant, no avisa perquè aviar se sent com una debilitat.",
+      },
+      {
+        type: "paragraph",
+        text: "El cost és silenciós. Apareix com a cansament que no marxa, com a irritabilitat que no encaixa amb la imatge de qui sempre està bé, com a sensació de solitud rodejat de gent. Apareix, sobretot, com una distància creixent entre el que la persona mostra i el que sent. I aquesta distància, sostinguda anys, és una de les formes més comunes de malestar que veiem a consulta: no una crisi espectacular, sinó un desgast lent que un dia ja no es pot dissimular.",
+      },
+      {
+        type: "heading",
+        text: "El que canvia quan es pot demanar",
+      },
+      {
+        type: "paragraph",
+        text: "Demanar ajuda no és un acte puntual que es resol amb decisió. És una habilitat que s'ha de recuperar, i en alguns casos, construir per primera vegada. No es tracta d'aprendre a dependre dels altres per a tot: es tracta de tornar a tenir opció. La persona que no sap demanar ajuda no és autònoma: està atrapada en una autonomia que ja no és elecció, sinó necessitat.",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia, en aquest sentit, no és només un lloc on es rep ajuda. És un lloc on es pot practicar demanar-la sense que això impliqui perdre res. El psicòleg no jutja la competència de qui consulta, ni la hi treu. La relació terapèutica permet, setmana rere setmana, experienciar que ser sostingut no és el contrari de ser fort. És una altra forma de maduresa.",
+      },
+      {
+        type: "heading",
+        text: "Un procés que no es resol amb decisió",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes persones arriben a consulta dient «ja sé que hauria d'haver vingut abans». Aquesta frase és real, però també és part del problema: suposa que la dificultat era de decisió, quan era d'identitat. No es tracta d'haver decidit no demanar ajuda: es tracta d'una part que creia que demanar-la era impossible sense perdre's. La teràpia treballa amb aquesta part, no contra ella. No la convenç: li dona un altre lloc on estar.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Si sóc una persona competent i gestiono bé la meva vida, necessito realment un psicòleg?",
+            answer:
+              "La competència no és un motiu per no anar a teràpia, de la mateixa manera que no és un motiu per no anar al metge. Moltes persones que arriben a consulta són competentes, responsables i autònomes. La qüestió no és si pots amb la vida: és a quin preu, durant quant de temps, i si aquest preu és sostenible. La teràpia no està reservada per a qui no pot: està per a qui vol entendre com està carregant el que carrega.",
+          },
+          {
+            question: "Demanar ajuda significa que no sóc tan fort com creia?",
+            answer:
+              "No. La força no s'oposa a la vulnerabilitat: s'oposa a la rigidesa. Demanar ajuda no és una prova de feblesa, és una prova de flexibilitat. La persona que pot demanar ajuda té més recursos, no menys, perquè pot rebre dels altres sense que això li faci perdre el sentit de si mateixa. La dificultat per demanar ajuda no és fortalesa: és una forma d'aïllament que, amb el temps, gasta.",
+          },
+          {
+            question: "Com sé si el que em passa és prou important per anar a teràpia?",
+            answer:
+              "No hi ha un llindar objectiu. La pregunta no és «és prou greu?», és «està interferint, durent o pesant d'una manera que ja no vols sostenir sola?». Si fa mesos que arrossegues alguna cosa que no acaba de marxar, si tens la sensació d'anar en pilot automàtic, si el cansament no respon al descans o si sents que la distància entre el que mostres i el que sents va creixent, té sentit considerar-ho. No necessites tenir una queixa definida per començar.",
+          },
+          {
+            question: "No és tard per començar teràpia quan ja portes anys així?",
+            answer:
+              "No. De fet, és freqüent. Les persones que arriben després de molt temps de gestió autònoma solen tenir una capacitat de reflexió i una història amb què treballar que fan el procés més ric, no menys. Començar tard no és un problema: és una manera de començar. El que importa no és quant de temps has esperat, sinó si vols, ara, donar-te un espai on no hagis de sostenir-ho tot.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si portes anys sent qui sosté i sents que ja no pots seguir aquest ritme sense que alguna cosa cedeixi, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem persones que han estat molt competents molt de temps i que, un dia, necessiten un lloc on no haver de ser-ho. Demanar ajuda no és el contrari de la maduresa: forma part d'ella.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un tipo de persona que no suele llegar a consulta hasta tarde. No es porque no lo necesite: es porque lleva años siendo quien resuelve. Es la persona a la que los demás acuden cuando algo falla, quien organiza, quien contiene, quien aguanta. Lo hace bien, y eso le ha dado lugar, reconocimiento y una manera de estar en el mundo. Pero un día —quizás después de una temporada difícil, quizás después de una crisis que no se esperaba— descubre que no sabe pedir ayuda. Y no solo no sabe cómo hacerlo: no sabe identificar que la necesita.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la dificultad de pedir ayuda no es un defecto de carácter ni una cuestión de orgullo superficial. Es el resultado de una identidad construida alrededor de la competencia y la responsabilidad. Cuando ser quien sostiene se ha convertido en la manera de ser uno, pedir ayuda se siente como una amenaza a la propia coherencia. La terapia no consiste en convencer a la persona de que necesita ayuda: consiste en crear un espacio donde ser sostenido no equivalga a dejar de ser quien es.",
+      },
+      {
+        type: "heading",
+        text: "La identidad del que sostiene",
+      },
+      {
+        type: "paragraph",
+        text: "Muchos adultos no se reconocen en la imagen de alguien que «necesita ayuda». No es que se consideren superiores: es que su identidad se ha construido alrededor de la función de sostener. Han sido quien organiza la familia, quien lleva el trabajo adelante, quien contiene a la pareja, quien escucha a las amigas, quien resuelve las crisis de los demás. Esa función, con el tiempo, deja de ser algo que hacen para ser algo que son. Y cuando la función y la identidad se fusionan, pedir ayuda deja de ser una acción puntual y se convierte en una amenaza al sentido de quién se es.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica una paradoja frecuente: personas que recomiendan terapia a otros con naturalidad, que leen sobre psicología con interés, que incluso acompañan a amigos a buscar profesional, pero que no consiguen hacer lo mismo por sí mismas. Quizás lo intentan: leen, meditan, hacen ejercicio, hablan con alguien de confianza. Pero hay un límite que no cruzan, un umbral donde la gestión autónoma ya no basta pero pedir ayuda aún se siente imposible.",
+      },
+      {
+        type: "heading",
+        text: "Por qué pedir ayuda se siente como un fracaso",
+      },
+      {
+        type: "paragraph",
+        text: "El motivo no es el orgullo. Es una confusión más honda entre competencia y valor personal. Si has aprendido, desde hace décadas, que tu valor está en tu capacidad de sostener a los demás y avanzar a pesar de todo, pedir ayuda activa una pregunta que asusta: «si no puedo con esto, ¿quién soy?». La pregunta no es consciente. No se formula así. Se presenta como una sensación: incomodidad, vergüenza, una voz que dice «no es para tanto», «otros lo llevan peor», «ya encontraré la manera».",
+      },
+      {
+        type: "paragraph",
+        text: "Esas frases no son excusas. Son el lenguaje de una parte que cree que su función es su identidad. Esa parte no está mintiendo: está protegiendo una imagen de sí misma que ha funcionado mucho tiempo. La dificultad de pedir ayuda no viene de no querer: viene de no poder sin que algo internamente se rompa.",
+      },
+      {
+        type: "heading",
+        text: "El precio de la competencia como trinchera",
+      },
+      {
+        type: "paragraph",
+        text: "La competencia, cuando funciona bien, es un recurso. Pero cuando se convierte en el único recurso, también es una trinchera: protege, pero aísla. La persona que siempre puede con todo no recibe lo mismo que la persona que a veces no puede. Los demás asumen que está bien, que lo gestionará, que ya avisará si necesita algo. Y ella, mientras tanto, no avisa porque avisar se siente como una debilidad.",
+      },
+      {
+        type: "paragraph",
+        text: "El coste es silencioso. Aparece como cansancio que no se va, como irritabilidad que no encaja con la imagen de quien siempre está bien, como sensación de soledad rodeado de gente. Aparece, sobre todo, como una distancia creciente entre lo que la persona muestra y lo que siente. Y esa distancia, sostenida años, es una de las formas más comunes de malestar que vemos en consulta: no una crisis espectacular, sino un desgaste lento que un día ya no se puede disimular.",
+      },
+      {
+        type: "heading",
+        text: "Lo que cambia cuando se puede pedir",
+      },
+      {
+        type: "paragraph",
+        text: "Pedir ayuda no es un acto puntual que se resuelve con decisión. Es una habilidad que hay que recuperar, y en algunos casos, construir por primera vez. No se trata de aprender a depender de los demás para todo: se trata de volver a tener opción. La persona que no sabe pedir ayuda no es autónoma: está atrapada en una autonomía que ya no es elección, sino necesidad.",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia, en este sentido, no es solo un lugar donde se recibe ayuda. Es un lugar donde se puede practicar pedirla sin que eso implique perder nada. El psicólogo no juzga la competencia de quien consulta, ni se la quita. La relación terapéutica permite, semana tras semana, experimentar que ser sostenido no es lo contrario de ser fuerte. Es otra forma de madurez.",
+      },
+      {
+        type: "heading",
+        text: "Un proceso que no se resuelve con decisión",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas personas llegan a consulta diciendo «ya sé que debería haber venido antes». Esa frase es real, pero también es parte del problema: supone que la dificultad era de decisión, cuando era de identidad. No se trata de haber decidido no pedir ayuda: se trata de una parte que creía que pedirla era imposible sin perderse. La terapia trabaja con esa parte, no contra ella. No la convence: le da otro lugar donde estar.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Si soy una persona competente y gestiono bien mi vida, ¿necesito realmente un psicólogo?",
+            answer:
+              "La competencia no es un motivo para no ir a terapia, de la misma manera que no es un motivo para no ir al médico. Muchas personas que llegan a consulta son competentes, responsables y autónomas. La cuestión no es si puedes con la vida: es a qué precio, durante cuánto tiempo, y si ese precio es sostenible. La terapia no está reservada para quien no puede: está para quien quiere entender cómo está cargando lo que carga.",
+          },
+          {
+            question: "¿Pedir ayuda significa que no soy tan fuerte como creía?",
+            answer:
+              "No. La fuerza no se opone a la vulnerabilidad: se opone a la rigidez. Pedir ayuda no es una prueba de debilidad, es una prueba de flexibilidad. La persona que puede pedir ayuda tiene más recursos, no menos, porque puede recibir de los demás sin que eso le haga perder el sentido de sí misma. La dificultad para pedir ayuda no es fortaleza: es una forma de aislamiento que, con el tiempo, gasta.",
+          },
+          {
+            question: "¿Cómo sé si lo que me pasa es bastante importante para ir a terapia?",
+            answer:
+              "No hay un umbral objetivo. La pregunta no es «¿es bastante grave?», es «¿está interfiriendo, durando o pesando de una manera que ya no quieres sostener sola?». Si llevas meses arrastrando algo que no acaba de irse, si tienes la sensación de ir en piloto automático, si el cansancio no responde al descanso o si sientes que la distancia entre lo que muestras y lo que sientes va creciendo, tiene sentido considerarlo. No necesitas tener una queja definida para empezar.",
+          },
+          {
+            question: "¿No es tarde para empezar terapia cuando ya llevas años así?",
+            answer:
+              "No. De hecho, es frecuente. Las personas que llegan después de mucho tiempo de gestión autónoma suelen tener una capacidad de reflexión y una historia con la que trabajar que hacen el proceso más rico, no menos. Empezar tarde no es un problema: es una manera de empezar. Lo que importa no es cuánto tiempo has esperado, sino si quieres, ahora, darte un espacio donde no tengas que sostenerlo todo.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas años siendo quien sostiene y sientes que ya no puedes seguir este ritmo sin que algo ceda, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos a personas que han sido muy competentes mucho tiempo y que, un día, necesitan un lugar donde no tener que serlo. Pedir ayuda no es lo contrario de la madurez: forma parte de ella.",
+      },
+    ],
+  },
 ];
