@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "duelo-vida-que-no-fue",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "El dol per la vida que no ha estat: quan el que no va passar també pesa",
+    "titleES": "El duelo por la vida que no fue: cuando lo que no pasó también pesa",
+    "excerptCA":
+      "Hi ha un tipus de dol que no es fa per algú que se'n va, sinó per una vida que no va arribar a ser. La relació que no va durar, els fills que no van arribar, la carrera que no es va triar, la ciutat on no es va quedar. No sempre té un nom clar, però pesa. Aquí explorem què és aquest dol per la vida que no ha estat, per què apareix amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-lo sense que es converteixi en ressentiment.",
+    "excerptES":
+      "Hay un tipo de duelo que no se hace por alguien que se va, sino por una vida que no llegó a ser. La relación que no duró, los hijos que no llegaron, la carrera que no se eligió, la ciudad donde no se quedó. No siempre tiene un nombre claro, pero pesa. Aquí exploramos qué es este duelo por la vida que no fue, por qué aparece con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlo sin que se convierta en resentimiento.",
+    "datePublished": "2026-07-30"
+  },
+  {
     "slug": "identidad-edad-adulta-no-reconoces",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
