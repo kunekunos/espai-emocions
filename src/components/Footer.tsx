@@ -29,6 +29,18 @@ export function Footer() {
           {lang === "CA" ? "Privacitat del formulari" : "Privacidad del formulario"}
         </Link>
         <p className="text-xs text-foreground/40">{t("footer.copy")}</p>
+        <div className="mt-4 pt-4 border-t border-border/20">
+          <a
+            href="https://planadecursach.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-xs text-foreground/50 transition-colors hover:text-primary hover:underline"
+          >
+            {lang === "CA"
+              ? "Plana de Cursach — Psicologia i psicoteràpia"
+              : "Plana de Cursach — Psicología y psicoterapia"}
+          </a>
+        </div>
       </div>
     </footer>
   );
