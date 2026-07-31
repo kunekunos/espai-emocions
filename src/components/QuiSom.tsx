@@ -88,7 +88,7 @@ export function QuiSom() {
 
 function CredentialList({ items }: { items: string[] }) {
   return (
-    <ul className="mb-5 w-full max-w-md divide-y divide-border/50 rounded-2xl bg-muted/40 px-5 text-left">
+    <ul className="mb-5 w-full max-w-md divide-y divide-border/50 rounded-2xl bg-muted/40 px-6 py-2 text-center">
       {items.map((item) => (
         <li key={item} className="py-3 text-sm leading-relaxed text-foreground/75">
           {item}
