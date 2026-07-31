@@ -981,4 +981,250 @@ export const articlesPart6: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 5. culpa-que-no-descansa-adultos (Pilar 3: ¿Necesito un psicólogo?)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "culpa-que-no-descansa-adultos",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA:
+      "La culpa que no descansa: quan sentir-se responsable es converteix en càrrega",
+    titleES:
+      "La culpa que no descansa: cuando sentirse responsable se convierte en carga",
+    excerptCA:
+      "Hi ha una culpa que no es correspon amb res concret que hagis fet malament. És una sensació difusa, un fons de compte pendent. Et sents responsable dels pares que envelleixen, de la parella que no està bé, dels fills encara que ja siguin adults, de decisions que vas prendre i de les que no vas prendre. I aquesta responsabilitat, que en el seu moment va ser un signe de maduresa, s'ha tornat una càrrega que no es baixa. Aquí explorem què és aquesta culpa crònica, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a distingir el que és teu del que no ho és.",
+    excerptES:
+      "Hay una culpa que no se corresponde con nada concreto que hayas hecho mal. Es una sensación difusa, un fondo de cuenta pendiente. Te sientes responsable de tus padres que envejecen, de tu pareja que no está bien, de tus hijos aunque ya sean adultos, de decisiones que tomaste y de las que no tomaste. Y esa responsabilidad, que en su momento fue un signo de madurez, se ha vuelto una carga que no se baja. Aquí exploramos qué es esa culpa crónica, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a distinguir lo que es tuyo de lo que no lo es.",
+    datePublished: "2026-07-31",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una culpa que no es correspon amb res concret que hagis fet malament. És una sensació difusa, un fons de compte pendent que no saps amb qui. Et sents responsable —dels teus pares que envelleixen, de la teva parella que no està bé, dels teus fills encara que ja siguin adults, d'amigues que no truques, de decisions que vas prendre i de les que no vas prendre. I aquesta responsabilitat, que en el seu moment va ser un signe de maduresa, s'ha convertit en una càrrega que no es baixa.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la culpa crònica no és sempre el resultat d'una falta comesa. Sovint és una manera de seguir sostenint el que ja no es pot sostenir, una forma de continuar en relació amb el que fa mal sense haver de soltar-ho. Reconèixer-la no és justificar-se: és començar a distingir entre responsabilitat sana i responsabilitat que s'ha tornat trinxera.",
+      },
+      {
+        type: "heading",
+        text: "Allò que solíem anomenar culpa",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa, en la seva forma més simple, és el senyal que hem fet alguna cosa que va en contra del que valorem. És útil quan és precisa: et diu on has fallat, et mou a reparar i, quan es repara, se'n va. Aquesta culpa té data i motiu. No és la que ens ocupa aquí.",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa que ens ocupa és una altra. No té un esdeveniment clar. És un estat, no un episodi. Apareix com un soroll de fons que s'activa sense motiu concret: quan descanses, quan dius que no, quan alguna cosa et va bé, quan una amiga no està bé i tu sí. És una culpa que no es repara perquè no senyala una falta concreta: senyala una manera d'estar al món en què la responsabilitat s'ha tornat el mode per defecte de relacionar-se amb tot.",
+      },
+      {
+        type: "heading",
+        text: "Quan la responsabilitat deixa de ser virtut",
+      },
+      {
+        type: "paragraph",
+        text: "La responsabilitat és un dels pilars de la maduresa adulta. Sostenir el que et correspon, cuidar qui tens al voltant, complir el que compromets: tot això dóna estructura i sentit. Però la responsabilitat sana té un límit: sap on acaba el teu i comença el dels altres. Quan aquest límit es difumina, la virtut es converteix en pes.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha adultes que han après, des de ben aviat, que el seu valor depèn del que sostenen. Sovint va ser un aprenentatge silenciós: una família on un va haver de créixer abans d'hora, una relació on l'equilibri es va trencar i algú va haver de compensar, un context on mostrar dificultat no era segur. En aquest aprenentatge, la responsabilitat no va ser una elecció: va ser una condició de pertinença. I quan aquesta condició s'interioritza, la culpa apareix cada cop que la responsabilitat es relaxa.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica una paradoxa freqüent: persones que se senten culpables per descansar, per no estar disponibles, per no haver fet prou —fins i tot quan han fet més que la majoria—. La culpa no mesura el que han fet: mesura la distància entre el que estan fent i el que la seva part interna creu que haurien d'estar fent. I aquesta part, formada fa temps, creu que mai no és prou.",
+      },
+      {
+        type: "heading",
+        text: "La culpa com a forma de control",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un aspecte de la culpa crònica que convé anomenar: funciona com una forma de control. No de l'exterior: del propi malestar. Sentir-se culpable dóna la il·lusió que, si un hagués fet alguna cosa diferent, les coses estarien millor. És una manera de seguir tenint incidència sobre el que ja no depèn d'un. I per això és tan difícil soltar-la: soltar la culpa significa acceptar que hi ha coses que no es poden canviar, ni sentint-se més responsable.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica per què la culpa augmenta just quan augmenten les coses que escapen al control: un pare que es posa malalt, un fill que pateix, una relació que es trenca. La culpa apareix com a resposta a la impotència: converteix el dolor de no poder en la sensació d'haver pogut i no haver-ho fet. És més suportable sentir-se culpable que sentir-se impotent. Però aquesta transacció té un cost.",
+      },
+      {
+        type: "heading",
+        text: "Distingir culpa de responsabilitat",
+      },
+      {
+        type: "paragraph",
+        text: "Un dels treballs més útils que pot fer la teràpia és ajudar a distingir entre culpa i responsabilitat. Sovint es confonen: la culpa se sent com a responsabilitat amplificada, i la responsabilitat es confon amb culpa que no es nomena. Però no són el mateix.",
+      },
+      {
+        type: "paragraph",
+        text: "La responsabilitat mira endavant: què puc fer ara amb el que tinc. La culpa mira enrere: què hauria d'haver fet perquè això no estigués així. La responsabilitat es pot assumir sense castigar-se; la culpa, sostinguda, castiga sense resoldre. Totes dues poden coexistir, però quan la culpa ocupa tot l'espai, la responsabilitat —la que de veritat mou les coses— queda desplaçada.",
+      },
+      {
+        type: "heading",
+        text: "Allò que la teràpia pot aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no consisteix a convèncer ningú que no té motius per sentir-se culpable. Algunes persones sí que en tenen, i negar-ho no ajuda. El que fa la teràpia és crear un espai on la culpa pugui mirar-se de prop, sense que la mirada la faci créixer. De vegades, mirar-la amb companyia permet veure el que no es veia sol: que la culpa no senyala una falta, sinó una manera antiga de voler continuar sent fidel a alguna cosa o a algú.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest espai també es poden revisar les decisions reals. Hi ha culpes que amaguen responsabilitats concretes que convé assumir: no tot és culpa neuròtica. Distingir entre el que efectivament estava a les teves mans i el que no forma part del treball. I, amb el temps, el que era un pes sord es pot convertir en un criteri més fi per decidir on posar l'energia i on soltar.",
+      },
+      {
+        type: "heading",
+        text: "Un alleujament que no és fugida",
+      },
+      {
+        type: "paragraph",
+        text: "Soltar la culpa no és evadir la responsabilitat: és retornar-li la seva mida. La persona que deixa de carregar una culpa que no li correspon no es torna menys responsable: es torna més lliure per respondre al que sí que li toca. La diferència és subtil, però canvia la vida. No és el mateix actuar des de la culpa, que empeny a compensar sense direcció, que actuar des d'una responsabilitat serena, que tria on i com intervenir.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "Sentir-me culpable vol dir que soc responsable del que passa?",
+            answer:
+              "No necessàriament. La culpa i la responsabilitat no són sinònims. La responsabilitat es refereix al que efectivament va estar o està a les teves mans; la culpa és una emoció que pot senyalar això, però també pot senyalar una altra cosa: una manera antiga de sostenir-te, un intent de mantenir control sobre el que no l'admet. Distingir una de l'altra forma part del treball terapèutic.",
+          },
+          {
+            question:
+              "És egoista deixar de sentir-me culpable pels meus pares o la meva parella?",
+            answer:
+              "No. Deixar de sentir culpa no equival a deixar de cuidar. Sovint, qui solta una culpa que no li correspon cuida millor, perquè ho fa des d'una posició més serena i no des de la compensació. La culpa sostinguda no cuida ningú: gasta qui la carrega i, amb el temps, endureix la relació.",
+          },
+          {
+            question:
+              "Com sé si la meva culpa és «normal» o convé treballar-la en teràpia?",
+            answer:
+              "Una pista és la durada i la proporció. Si la culpa apareix després d'alguna cosa concreta i s'alleuja en reparar o assumir, està complint la seva funció. Si és un fons constant, si apareix sense motiu clar, si no cedeix tot i fer més del que humanament se't pot demanar, o si et castiga més del que et mou, convé mirar-la amb acompanyament.",
+          },
+          {
+            question: "La teràpia em traurà la responsabilitat?",
+            answer:
+              "No. La teràpia no treu responsabilitat: l'ordena. Ajuda a veure què és teu i què no, què pots assumir i què no, i a soltar el que portes sense que et correspongui. El resultat no és una persona menys responsable, sinó una persona que respon millor perquè no està esgotada d'entrada.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si portes temps carregant una culpa que no troba reparació, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos on la culpa es mira amb temps i sense judici, perquè soltar el que no és teu no és fugir de la responsabilitat: és la condició per sostenir el que sí que ho és.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una culpa que no se corresponde con nada concreto que hayas hecho mal. Es una sensación difusa, un fondo de cuenta pendiente que no sabes con quién. Te sientes responsable —de tus padres que envejecen, de tu pareja que no está bien, de tus hijos aunque ya sean adultos, de amigos que no llamas, de decisiones que tomaste y de las que no tomaste. Y esa responsabilidad, que en su momento fue un signo de madurez, se ha convertido en una carga que no se baja.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la culpa crónica no es siempre el resultado de una falta cometida. A menudo es una manera de seguir sosteniendo lo que ya no se puede sostener, una forma de permanecer en relación con lo que duele sin tener que soltarlo. Reconocerla no es justificarse: es empezar a distinguir entre responsabilidad sana y responsabilidad que se ha vuelto trinchera.",
+      },
+      {
+        type: "heading",
+        text: "Lo que solemos llamar culpa",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa, en su forma más simple, es la señal de que hemos hecho algo que va en contra de lo que valoramos. Es útil cuando es precisa: te dice dónde has fallado, te mueve a reparar y, cuando se repara, se va. Esa culpa tiene fecha y motivo. No es la que nos ocupa aquí.",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa que nos ocupa es otra. No tiene un acontecimiento claro. Es un estado, no un episodio. Aparece como un ruido de fondo que se activa sin motivo concreto: cuando descansas, cuando dices que no, cuando algo te sale bien, cuando un amigo no está bien y tú sí. Es una culpa que no se repara porque no señala una falta concreta: señala una manera de estar en el mundo en la que la responsabilidad se ha vuelto el modo por defecto de relacionarse con todo.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la responsabilidad deja de ser virtud",
+      },
+      {
+        type: "paragraph",
+        text: "La responsabilidad es uno de los pilares de la madurez adulta. Sostener lo que te corresponde, cuidar a quien te rodea, cumplir lo que comprometes: todo eso da estructura y sentido. Pero la responsabilidad sana tiene un límite: sabe dónde acaba lo tuyo y empieza lo ajeno. Cuando ese límite se difumina, la virtud se convierte en peso.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay adultos que han aprendido, desde temprano, que su valor depende de lo que sostienen. A menudo fue un aprendizaje silencioso: una familia donde uno tuvo que crecer antes de tiempo, una relación donde el equilibrio se rompió y alguien tuvo que compensar, un contexto donde mostrar dificultad no era seguro. En ese aprendizaje, la responsabilidad no fue una elección: fue una condición de pertenencia. Y cuando esa condición se interioriza, la culpa aparece cada vez que la responsabilidad se relaja.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica una paradoja frecuente: personas que se sienten culpables por descansar, por no estar disponibles, por no haber hecho suficiente —incluso cuando han hecho más que la mayoría—. La culpa no mide lo que han hecho: mide la distancia entre lo que están haciendo y lo que su parte interna cree que deberían estar haciendo. Y esa parte, formada hace tiempo, cree que nunca es suficiente.",
+      },
+      {
+        type: "heading",
+        text: "La culpa como forma de control",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un aspecto de la culpa crónica que conviene nombrar: funciona como una forma de control. No del exterior: del propio malestar. Sentirse culpable da la ilusión de que, si uno hubiera hecho algo distinto, las cosas estarían mejor. Es una manera de seguir teniendo incidencia sobre lo que ya no depende de uno. Y por eso es tan difícil soltarla: soltar la culpa significa aceptar que hay cosas que no se pueden cambiar, ni siquiera siendo más responsable.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica por qué la culpa aumenta justo cuando aumentan las cosas que escapan al control: un padre que enferma, un hijo que sufre, una relación que se rompe. La culpa aparece como respuesta a la impotencia: convierte el dolor de no poder en la sensación de haber podido y no haberlo hecho. Es más soportable sentirse culpable que sentirse impotente. Pero esa transacción tiene un coste.",
+      },
+      {
+        type: "heading",
+        text: "Distinguir culpa de responsabilidad",
+      },
+      {
+        type: "paragraph",
+        text: "Uno de los trabajos más útiles que puede hacer la terapia es ayudar a distinguir entre culpa y responsabilidad. A menudo se confunden: la culpa se siente como responsabilidad amplificada, y la responsabilidad se confunde con culpa que no se nombra. Pero no son lo mismo.",
+      },
+      {
+        type: "paragraph",
+        text: "La responsabilidad mira hacia adelante: qué puedo hacer ahora con lo que tengo. La culpa mira hacia atrás: qué debí haber hecho para que esto no estuviera así. La responsabilidad se puede asumir sin castigarse; la culpa, sostenida, castiga sin resolver. Ambas pueden coexistir, pero cuando la culpa ocupa todo el espacio, la responsabilidad —la que de verdad mueve las cosas— queda desplazada.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la terapia puede aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no consiste en convencer a nadie de que no tiene motivos para sentirse culpable. Algunas personas sí tienen motivos, y negarlos no ayuda. Lo que hace la terapia es crear un espacio donde la culpa pueda mirarse de cerca, sin que la mirada la haga crecer. A veces, mirarla con compañía permite ver lo que no se veía solo: que la culpa no señala una falta, sino una manera antigua de querer seguir siendo fiel a algo o a alguien.",
+      },
+      {
+        type: "paragraph",
+        text: "En ese espacio también se pueden revisar las decisiones reales. Hay culpas que esconden responsabilidades concretas que conviene asumir: no todo es culpa neurótica. Distinguir entre lo que efectivamente estuvo en tus manos y lo que no es parte del trabajo. Y, con el tiempo, lo que era un peso sordo puede convertirse en un criterio más fino para decidir dónde poner la energía y dónde soltar.",
+      },
+      {
+        type: "heading",
+        text: "Un alivio que no es huida",
+      },
+      {
+        type: "paragraph",
+        text: "Soltar la culpa no es evadir la responsabilidad: es devolverle su tamaño. La persona que deja de cargar una culpa que no le corresponde no se vuelve menos responsable: se vuelve más libre para responder a lo que sí le toca. La diferencia es sutil, pero cambia la vida. No es lo mismo actuar desde la culpa, que empuja a compensar sin dirección, que actuar desde una responsabilidad serena, que elige dónde y cómo intervenir.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Sentirme culpable significa que soy responsable de lo que pasa?",
+            answer:
+              "No necesariamente. La culpa y la responsabilidad no son sinónimos. La responsabilidad se refiere a lo que efectivamente estuvo o está en tus manos; la culpa es una emoción que puede señalar eso, pero también puede señalar algo distinto: una manera antigua de sostenerte, un intento de mantener control sobre lo que no lo admite. Distinguir una de otra es parte del trabajo terapéutico.",
+          },
+          {
+            question:
+              "¿Es egoísta dejar de sentirme culpable por mis padres o mi pareja?",
+            answer:
+              "No. Dejar de sentir culpa no equivale a dejar de cuidar. A menudo, quien suelta una culpa que no le corresponde cuida mejor, porque lo hace desde una posición más serena y no desde la compensación. La culpa sostenida no cuida a nadie: gasta a quien la carga y, con el tiempo, endurece la relación.",
+          },
+          {
+            question:
+              "¿Cómo sé si mi culpa es «normal» o conviene trabajarla en terapia?",
+            answer:
+              "Una pista es la duración y la proporción. Si la culpa aparece tras algo concreto y se alivia al reparar o asumir, está cumpliendo su función. Si es un fondo constante, si aparece sin motivo claro, si no cede aunque hagas más de lo que humanamente se te puede pedir, o si te castiga más de lo que te mueve, conviene mirarla con acompañamiento.",
+          },
+          {
+            question: "¿La terapia me quitará la responsabilidad?",
+            answer:
+              "No. La terapia no quita responsabilidad: la ordena. Ayuda a ver qué es tuyo y qué no, qué puedes asumir y qué no, y a soltar lo que llevas sin que te corresponda. El resultado no es una persona menos responsable, sino una persona que responde mejor porque no está agotada de antemano.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas tiempo cargando una culpa que no encuentra reparación, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos donde la culpa se mira con tiempo y sin juicio, porque soltar lo que no es tuyo no es huir de la responsabilidad: es la condición para sostener lo que sí lo es.",
+      },
+    ],
+  },
 ];

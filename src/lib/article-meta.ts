@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "culpa-que-no-descansa-adultos",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "La culpa que no descansa: quan sentir-se responsable es converteix en càrrega",
+    "titleES": "La culpa que no descansa: cuando sentirse responsable se convierte en carga",
+    "excerptCA":
+      "Hi ha una culpa que no es correspon amb res concret que hagis fet malament. És una sensació difusa, un fons de compte pendent. Et sents responsable dels pares que envelleixen, de la parella que no està bé, dels fills encara que ja siguin adults, de decisions que vas prendre i de les que no vas prendre. I aquesta responsabilitat, que en el seu moment va ser un signe de maduresa, s'ha tornat una càrrega que no es baixa. Aquí explorem què és aquesta culpa crònica, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a distingir el que és teu del que no ho és.",
+    "excerptES":
+      "Hay una culpa que no se corresponde con nada concreto que hayas hecho mal. Es una sensación difusa, un fondo de cuenta pendiente. Te sientes responsable de tus padres que envejecen, de tu pareja que no está bien, de tus hijos aunque ya sean adultos, de decisiones que tomaste y de las que no tomaste. Y esa responsabilidad, que en su momento fue un signo de madurez, se ha vuelto una carga que no se baja. Aquí exploramos qué es esa culpa crónica, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a distinguir lo que es tuyo de lo que no lo es.",
+    "datePublished": "2026-07-31"
+  },
+  {
     "slug": "duelo-vida-que-no-fue",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
