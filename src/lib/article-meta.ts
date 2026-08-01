@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "paralisis-decision-adulta-cuando-elegir-agota",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Quan elegir esgota: la paralisi decisions a l'edat adulta",
+    "titleES": "Cuando elegir agota: la paralisis de las decisiones en la edad adulta",
+    "excerptCA": "Hi ha un tipus de cansament que no ve de fer massa coses, sinó de no poder decidir. Cada decisió important —canviar de feina, sortir d'una relació, tornar a començar— sembla exigir una certesa que no arriba. I mentre la decisió es demora, la vida avança en pilot automàtic. Aquí explorem per què costa tant decidir a la maduresa adulta, què hi té a veure la por a equivocar-se i com pot ajudar la teràpia a recuperar la capacitat d'elegir sense que això es converteixi en una nova càrrega.",
+    "excerptES": "Hay un tipo de cansancio que no viene de hacer demasiadas cosas, sino de no poder decidir. Cada decisión importante —cambiar de trabajo, salir de una relación, volver a empezar— parece exigir una certeza que no llega. Y mientras la decisión se demora, la vida avanza en piloto automático. Aquí exploramos por qué cuesta tanto decidir en la madurez adulta, qué tiene que ver el miedo a equivocarse y cómo puede ayudar la terapia a recuperar la capacidad de elegir sin que eso se convierta en una nueva carga.",
+    "datePublished": "2026-08-01"
+  },
+  {
     "slug": "culpa-que-no-descansa-adultos",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
