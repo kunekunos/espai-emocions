@@ -40,3 +40,4 @@ Thumbs.db
 *.log
 *.bak
 *.tmp
+.env*.local

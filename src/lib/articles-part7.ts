@@ -291,4 +291,252 @@ export const articlesPart7: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 2. amistad-cuarenta-relaciones-transforman-madurez (Pilar: Problemas relacionales / Cambios vitales)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "amistad-cuarenta-relaciones-transforman-madurez",
+    categoryCA: "Problemes relacionals",
+    categoryES: "Problemas relacionales",
+    titleCA:
+      "Quan l'amistat canvia als quaranta: relacions que es transformen a la maduresa",
+    titleES:
+      "Cuando la amistad cambia a los cuarenta: relaciones que se transforman en la madurez",
+    excerptCA:
+      "Hi ha pèrdues que no es fan per la mort ni per una baralla, sinó pel silenci. Un dia t'adones que fa mesos que no parles amb algú que era fonamental, i no hi ha un motiu concret: hi ha una distància que s'ha instal·lat sense avisar. Aquest article explora per què les amistats es transformen a la maduresa adulta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest dol particular —el de relacions que no acaben però ja no són el que eren.",
+    excerptES:
+      "Hay pérdidas que no se hacen por la muerte ni por una pelea, sino por el silencio. Un día te das cuenta de que hace meses que no hablas con alguien que era fundamental, y no hay un motivo concreto: hay una distancia que se ha instalado sin avisar. Este artículo explora por qué las amistades se transforman en la madurez adulta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer este duelo particular —el de relaciones que no terminan pero ya no son lo que eran.",
+    datePublished: "2026-08-02",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha pèrdues que no es fan per la mort ni per una baralla. Es fan pel silenci. Un dia t'adones que fa mesos que no parles amb algú que durant anys va ser fonamental, i no hi ha un motiu concret que ho expliqui. No hi ha hagut un conflicte, no hi ha hagut un moment. Hi ha una distància que s'ha instal·lat sense avisar, com s'instal·len moltes coses a la maduresa: a poc a poc, sense que cap gest ho marqui.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: les amistats es transformen al llarg de la vida, i aquesta transformació no és un fracàs ni un símptoma de deteriorament. És un procés que té a veure amb la identitat, els valors i el context de cada moment. A la maduresa adulta, canviar per dins fa que algunes relacions ja no encaixin com abans. La teràpia pot ajudar a acompanyar aquest trànsit sense convertir-lo en culpa ni en idealització del que va ser.",
+      },
+      {
+        type: "heading",
+        text: "L'amistat dels vint i l'amistat dels quaranta no són la mateixa",
+      },
+      {
+        type: "paragraph",
+        text: "Als vint, l'amistat es construeix per proximitat. Comparteixes pis, facultat, primeres feines, nits llargues. La intensitat del contacte fa que el vincle sembli sòlid, i de vegades ho és. Però també és un vincle que depèn en gran mesura de les circumstàncies: quan les circumstàncies canvien —cadascú va per un lloc, apareixen parelles, feines que ocupen el cap de setmana—, la relació queda exposada al que realment la sostenia.",
+      },
+      {
+        type: "paragraph",
+        text: "Als quaranta o als cinquanta, l'amistat ja no es basa tant en la proximitat com en la coherència. Et relaciones amb persones amb qui pots parlar del que realment et preocupa, amb qui no has de representar res, amb qui la conversa té profunditat sense esforç. I aquest canvi de criteri —de la quantitat de temps compartit a la qualitat de la connexió— fa que algunes amistats es mantinguin i d'altres, simplement, es dilueixin.",
+      },
+      {
+        type: "heading",
+        text: "Quan els valors es separen",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les raons més freqüents —i menys reconegudes— per les quals les amistats es transformen a la maduresa té a veure amb els valors. No parlem de grans divergències ètiques, sinó d'algo més subtil: la manera com cada persona entén la vida, el que considera important, el que dona per fet. Als vint, aquestes diferències quedaven diluïdes per la intensitat compartida. Als quaranta, emergeixen, perquè cadascú ha anat prenent decisions —o no prenent-les— que revelen cap a on s'orienta.",
+      },
+      {
+        type: "paragraph",
+        text: "No és que un amic hagi millorat i l'altre empitjorat. És que les trajectòries s'han separat, i allò que abans unia —els mateixos referents, les mateixes prioritats, el mateix sentit de l'humor— ja no opera de la mateixa manera. Ho notes en les trobades: la conversa és amable, però hi ha un fons de desconnexió que no es solventa amb més trobades. I aquesta desconnexió no és un error: és la senyal que les dues persones ja no són exactament les que eren.",
+      },
+      {
+        type: "heading",
+        text: "El dol per relacions que no acaben",
+      },
+      {
+        type: "paragraph",
+        text: "El que fa especialment difícil aquest procés és que no hi ha un moment de tancament. Quan una relació amorosa acaba, hi ha una conversa, una decisió, un llindar. Quan una amistat es transforma, sovint no hi ha res d'això. La relació no es declara acabada: simplement es va buidant, i les dues parts ho saben sense dir-ho. I aquesta manca de ritual fa que el dol sigui més confús.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha persones que senten, davant aquesta pèrdua silenciosa, una culpa particular. Pensen que haurien d'haver fet més, que haurien d'haver trucat més, que haurien d'haver insistit. Però sovint el que passa no és falta d'esforç: és que la relació, en la seva forma anterior, ja no té lloc. Intentar sostenir-la per inèrcia pot convertir les trobades en un exercici de nostalgia que fa més mal que la distància.",
+      },
+      {
+        type: "heading",
+        text: "La identitat que canvia, els vincles que s'ajusten",
+      },
+      {
+        type: "paragraph",
+        text: "A la maduresa adulta, la identitat es reconfigura. Ho sabem pel que fa a la feina o a la parella, però ho sabem menys pel que fa a les amistats. I, tanmateix, les amistats són un dels àmbits on aquesta reconfiguració es fa més visible. Quan una persona canvia —què valora, què vol, què ja no tolera, quin ritme necessita—, algunes relacions ja no encaixen amb la persona que és ara. I això no és una traïció a la història compartida: és la conseqüència natural d'haver crescut.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema apareix quan aquest creixement es viu amb culpa. Hi ha adults que mantenen relacions que ja no els nodreixen per lleialtat al que van ser, per por de reconèixer que ja no són la mateixa persona, per no ferir algú que els importa. I aquesta lleialtat, que en el seu moment va ser un valor, es torna una càrrega: una forma de sostenir una versió de tu mateix que ja no existeix per no defraudar.",
+      },
+      {
+        type: "heading",
+        text: "No és abandonar: és reorganitzar",
+      },
+      {
+        type: "paragraph",
+        text: "Convé distingir entre abandonar una relació i reorganitzar-la. Abandonar implicaria trencar un vincle amb descuit o sense reconèixer el que va significar. Reorganitzar implicaria acceptar que la relació ja no és el que era, i trobar una manera de mantenir-la —si es manté— que sigui honesta amb el present, no fidel a un passat que ja no opera.",
+      },
+      {
+        type: "paragraph",
+        text: "Algunes amistats es transformen en relacions menys freqüents però igualment valuoses: no necessites veure-us cada setmana per saber que l'altre hi és. D'altres es converteixen en records estimats que ja no tenen continuïtat, i això també és legítim. I algunes, les menys, necessiten un acomiadament explícit —una conversa on es reconeix que el que hi havia ja no hi és— perquè el silenci no pesi més que les paraules.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et dirà quines amistats has de mantenir i quines has de deixar anar. No és una qüestió que es resolgui amb un criteri extern. El que la teràpia sí pot fer és ajudar-te a mirar aquest procés sense culpa, a distingir entre el que és un canvi natural i el que és una evitació, i a reconèixer què necessites de les teves relacions ara —no fa vint anys, sinó avui.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar aquest tema en teràpia implica, sovint, revisar la relació que tens amb la teva pròpia història: amb la persona que eres, amb les eleccions que vas fer, amb el que has deixat anar per arribar on ets. I implica, també, poder sentir el dolor del que es transforma sense convertir-lo en un judici sobre qui eres o qui ets. La maduresa també és això: poder doler-se del que canvia sense deixar de moure's.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "És normal perdre amistats als quaranta?",
+            answer:
+              "Sí, i és més freqüent del que sembla. La transformació de les amistats a la maduresa no és un símptoma de deteriorament social: és la conseqüència natural que les persones canvien, els valors es reorganitzen i els contextos es modifiquen. El que no és saludable és viure aquest procés amb culpa o negar-lo. Poder reconèixer que algunes relacions ja no són el que eren —i que això forma part de la vida— és un senyal de maduresa, no de fracàs.",
+          },
+          {
+            question:
+              "Com sé si una amistat s'està transformant o si sóc jo qui s'està aïllant?",
+            answer:
+              "És una distinció important. La transformació d'una amistat és un procés que involucra les dues parts: la relació canvia perquè les dues persones han canviat. L'aïllament, en canvi, és un retirar-se de les relacions en general, sovint vinculat a un estat depresiu o a una dificultat relacional més àmplia. Si notes que et distancies d'una amistat concreta però mantens altres vincles sòlids, probablement és transformació. Si et distancies de tothom, convé mirar-ho amb més atenció, i un psicòleg pot ajudar a distingir.",
+          },
+          {
+            question:
+              "He d'insistir per mantenir una amistat que sento que s'està refredant?",
+            answer:
+              "No hi ha una resposta única. Depèn de què hi hagi darrere del refredament. Si és una qüestió pràctica —falta de temps, rutines canviades—, insistir pot ajudar. Si és una desconnexió més fonda —valors que s'han separat, maneres de viure que ja no encaixen—, insistir pot convertir la relació en una obligació que fa més mal que bé. La pregunta útil no és «he d'insistir?» sinó «què necessito d'aquesta relació ara, i és possible amb aquesta persona?».",
+          },
+          {
+            question:
+              "Tinc culpa per no haver trucat a un amic en molt de temps. Què faig?",
+            answer:
+              "La culpa sovint ve de comparar el que sents ara amb el que senties abans, i de jutjar el present amb el patró del passat. Si vols recuperar el contacte, pots fer-ho sense gran explicació: una trucada, un missatge. I si, en fer-ho, descobreixes que la connexió ja no hi és de la mateixa manera, també és vàlid reconèixer-ho. La culpa no restaura la relació: només et manté en una posició de deute que no correspon al que realment està passant.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sents que algunes relacions importants s'estan transformant i el procés et genera confusió, culpa o tristesa, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos on els vincles i la identitat es treballen junts —no perquè t'indiquem què fer amb cada relació, sinó perquè puguis fer-ho amb més claredat i menys pes.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay pérdidas que no se hacen por la muerte ni por una pelea. Se hacen por el silencio. Un día te das cuenta de que hace meses que no hablas con alguien que durante años fue fundamental, y no hay un motivo concreto que lo explique. No ha habido un conflicto, no ha habido un momento. Hay una distancia que se ha instalado sin avisar, como se instalan muchas cosas en la madurez: poco a poco, sin que ningún gesto lo marque.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: las amistades se transforman a lo largo de la vida, y esa transformación no es un fracaso ni un síntoma de deterioro. Es un proceso que tiene que ver con la identidad, los valores y el contexto de cada momento. En la madurez adulta, cambiar por dentro hace que algunas relaciones ya no encajen como antes. La terapia puede ayudar a acompañar este tránsito sin convertirlo en culpa ni en idealización de lo que fue.",
+      },
+      {
+        type: "heading",
+        text: "La amistad de los veinte y la amistad de los cuarenta no son la misma",
+      },
+      {
+        type: "paragraph",
+        text: "A los veinte, la amistad se construye por proximidad. Compartes piso, facultad, primeros trabajos, noches largas. La intensidad del contacto hace que el vínculo parezca sólido, y a veces lo es. Pero también es un vínculo que depende en gran medida de las circunstancias: cuando las circunstancias cambian —cada uno va por un lado, aparecen parejas, trabajos que ocupan el fin de semana—, la relación queda expuesta a lo que realmente la sostenía.",
+      },
+      {
+        type: "paragraph",
+        text: "A los cuarenta o a los cincuenta, la amistad ya no se basa tanto en la proximidad como en la coherencia. Te relacionas con personas con las que puedes hablar de lo que realmente te preocupa, con las que no tienes que representar nada, con las que la conversación tiene profundidad sin esfuerzo. Y ese cambio de criterio —de la cantidad de tiempo compartido a la calidad de la conexión— hace que algunas amistades se mantengan y otras, simplemente, se diluyan.",
+      },
+      {
+        type: "heading",
+        text: "Cuando los valores se separan",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las razones más frecuentes —y menos reconocidas— por las que las amistades se transforman en la madurez tiene que ver con los valores. No hablamos de grandes divergencias éticas, sino de algo más sutil: la manera en que cada persona entiende la vida, lo que considera importante, lo que da por hecho. A los veinte, esas diferencias quedaban diluidas por la intensidad compartida. A los cuarenta, emergen, porque cada uno ha ido tomando decisiones —o no tomándolas— que revelan hacia dónde se orienta.",
+      },
+      {
+        type: "paragraph",
+        text: "No es que un amigo haya mejorado y el otro empeorado. Es que las trayectorias se han separado, y aquello que antes unía —los mismos referentes, las mismas prioridades, el mismo sentido del humor— ya no opera de la misma manera. Lo notas en los encuentros: la conversación es amable, pero hay un fondo de desconexión que no se soluciona con más encuentros. Y esa desconexión no es un error: es la señal de que las dos personas ya no son exactamente las que eran.",
+      },
+      {
+        type: "heading",
+        text: "El duelo por relaciones que no terminan",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que hace especialmente difícil este proceso es que no hay un momento de cierre. Cuando una relación amorosa termina, hay una conversación, una decisión, un umbral. Cuando una amistad se transforma, a menudo no hay nada de eso. La relación no se declara acabada: simplemente se va vaciando, y las dos partes lo saben sin decirlo. Y esa falta de ritual hace que el duelo sea más confuso.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay personas que sienten, ante esta pérdida silenciosa, una culpa particular. Piensan que deberían haber hecho más, que deberían haber llamado más, que deberían haber insistido. Pero a menudo lo que pasa no es falta de esfuerzo: es que la relación, en su forma anterior, ya no tiene lugar. Intentar sostenerla por inercia puede convertir los encuentros en un ejercicio de nostalgia que hace más daño que la distancia.",
+      },
+      {
+        type: "heading",
+        text: "La identidad que cambia, los vínculos que se ajustan",
+      },
+      {
+        type: "paragraph",
+        text: "En la madurez adulta, la identidad se reconfigura. Lo sabemos respecto al trabajo o a la pareja, pero lo sabemos menos respecto a las amistades. Y, sin embargo, las amistades son uno de los ámbitos donde esa reconfiguración se hace más visible. Cuando una persona cambia —qué valora, qué quiere, qué ya no tolera, qué ritmo necesita—, algunas relaciones ya no encajan con la persona que es ahora. Y eso no es una traición a la historia compartida: es la consecuencia natural de haber crecido.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema aparece cuando ese crecimiento se vive con culpa. Hay adultos que mantienen relaciones que ya no les nutren por lealtad a lo que fueron, por miedo a reconocer que ya no son la misma persona, por no herir a alguien que les importa. Y esa lealtad, que en su momento fue un valor, se vuelve una carga: una forma de sostener una versión de ti mismo que ya no existe para no defraudar.",
+      },
+      {
+        type: "heading",
+        text: "No es abandonar: es reorganizar",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene distinguir entre abandonar una relación y reorganizarla. Abandonar implicaría romper un vínculo con descuido o sin reconocer lo que significó. Reorganizar implicaría aceptar que la relación ya no es lo que era, y encontrar una manera de mantenerla —si se mantiene— que sea honesta con el presente, no fiel a un pasado que ya no opera.",
+      },
+      {
+        type: "paragraph",
+        text: "Algunas amistades se transforman en relaciones menos frecuentes pero igualmente valiosas: no necesitas verse cada semana para saber que el otro está. Otras se convierten en recuerdos queridos que ya no tienen continuidad, y eso también es legítimo. Y algunas, las menos, necesitan una despedida explícita —una conversación donde se reconoce que lo que había ya no está— para que el silencio no pese más que las palabras.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te dirá qué amistades debes mantener y cuáles dejar ir. No es una cuestión que se resuelva con un criterio externo. Lo que la terapia sí puede hacer es ayudarte a mirar este proceso sin culpa, a distinguir entre lo que es un cambio natural y lo que es una evitación, y a reconocer qué necesitas de tus relaciones ahora —no hace veinte años, sino hoy.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar este tema en terapia implica, a menudo, revisar la relación que tienes con tu propia historia: con la persona que eras, con las elecciones que tomaste, con lo que has soltado para llegar a donde estás. Y implica, también, poder sentir el dolor de lo que se transforma sin convertirlo en un juicio sobre quién eras o quién eres. La madurez también es eso: poder dolerse de lo que cambia sin dejar de moverse.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Es normal perder amistades a los cuarenta?",
+            answer:
+              "Sí, y es más frecuente de lo que parece. La transformación de las amistades en la madurez no es un síntoma de deterioro social: es la consecuencia natural de que las personas cambian, los valores se reorganizan y los contextos se modifican. Lo que no es saludable es vivir este proceso con culpa o negarlo. Poder reconocer que algunas relaciones ya no son lo que eran —y que eso forma parte de la vida— es una señal de madurez, no de fracaso.",
+          },
+          {
+            question:
+              "¿Cómo sé si una amistad se está transformando o soy yo que me estoy aislando?",
+            answer:
+              "Es una distinción importante. La transformación de una amistad es un proceso que involucra a las dos partes: la relación cambia porque las dos personas han cambiado. El aislamiento, en cambio, es un retirarse de las relaciones en general, a menudo vinculado a un estado depresivo o a una dificultad relacional más amplia. Si notas que te distancias de una amistad concreta pero mantienes otros vínculos sólidos, probablemente es transformación. Si te distancias de todos, conviene mirarlo con más atención, y un psicólogo puede ayudar a distinguir.",
+          },
+          {
+            question:
+              "¿Debo insistir para mantener una amistad que siento que se está enfriando?",
+            answer:
+              "No hay una respuesta única. Depende de qué haya detrás del enfriamiento. Si es una cuestión práctica —falta de tiempo, rutinas cambiadas—, insistir puede ayudar. Si es una desconexión más honda —valores que se han separado, formas de vivir que ya no encajan—, insistir puede convertir la relación en una obligación que hace más daño que bien. La pregunta útil no es «¿debo insistir?» sino «¿qué necesito de esta relación ahora, y es posible con esta persona?».",
+          },
+          {
+            question:
+              "Siento culpa por no haber llamado a un amigo en mucho tiempo. ¿Qué hago?",
+            answer:
+              "La culpa a menudo viene de comparar lo que sientes ahora con lo que sentías antes, y de juzgar el presente con el patrón del pasado. Si quieres recuperar el contacto, puedes hacerlo sin gran explicación: una llamada, un mensaje. Y si, al hacerlo, descubres que la conexión ya no está de la misma manera, también es válido reconocerlo. La culpa no restaura la relación: solo te mantiene en una posición de deuda que no corresponde a lo que realmente está pasando.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sientes que algunas relaciones importantes se están transformando y el proceso te genera confusión, culpa o tristeza, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos donde los vínculos y la identidad se trabajan juntos —no porque te indiquemos qué hacer con cada relación, sino para que puedas hacerlo con más claridad y menos peso.",
+      },
+    ],
+  },
 ];

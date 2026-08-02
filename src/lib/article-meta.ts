@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "amistad-cuarenta-relaciones-transforman-madurez",
+    "categoryCA": "Problemes relacionals",
+    "categoryES": "Problemas relacionales",
+    "titleCA": "Quan l'amistat canvia als quaranta: relacions que es transformen a la maduresa",
+    "titleES": "Cuando la amistad cambia a los cuarenta: relaciones que se transforman en la madurez",
+    "excerptCA":
+      "Hi ha pèrdues que no es fan per la mort ni per una baralla, sinó pel silenci. Un dia t'adones que fa mesos que no parles amb algú que era fonamental, i no hi ha un motiu concret: hi ha una distància que s'ha instal·lat sense avisar. Aquest article explora per què les amistats es transformen a la maduresa adulta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest dol particular —el de relacions que no acaben però ja no són el que eren.",
+    "excerptES":
+      "Hay pérdidas que no se hacen por la muerte ni por una pelea, sino por el silencio. Un día te das cuenta de que hace meses que no hablas con alguien que era fundamental, y no hay un motivo concreto: hay una distancia que se ha instalado sin avisar. Este artículo explora por qué las amistades se transforman en la madurez adulta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer este duelo particular —el de relaciones que no terminan pero ya no son lo que eran.",
+    "datePublished": "2026-08-02"
+  },
+  {
     "slug": "paralisis-decision-adulta-cuando-elegir-agota",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
