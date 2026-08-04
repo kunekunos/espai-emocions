@@ -539,4 +539,234 @@ export const articlesPart7: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 3. discutir-sin-romper-conflicto-pareja (Pilar 1: Relacions de parella)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "discutir-sin-romper-conflicto-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "Discutir sense trencar: per què el conflicte no és el que danya la parella",
+    titleES:
+      "Discutir sin romper: por qué el conflicto no es lo que daña la pareja",
+    excerptCA:
+      "Hi ha parelles que no discuteixen mai. I això, que semblaria un signe de salut, de vegades és el contrari. El conflicte no és el que danya la relació: ho fa la manera com es viu, o la impossibilitat de viure'l. Aquí explorem per què discutir bé és una habilitat que es construeix, què diferencia una discussió que acosta d'una que fereix, i com pot ajudar la teràpia de parella a transformar el conflicte en un espai de coneixement mutu.",
+    excerptES:
+      "Hay parejas que no discuten nunca. Y eso, que parecería un signo de salud, a veces es lo contrario. El conflicto no es lo que daña la relación: lo hace la forma en que se vive, o la imposibilidad de vivirlo. Aquí exploramos por qué discutir bien es una habilidad que se construye, qué diferencia una discusión que acerca de una que hiere, y cómo puede ayudar la terapia de pareja a transformar el conflicto en un espacio de conocimiento mutuo.",
+    datePublished: "2026-08-05",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha parelles que no discuteixen mai. Ho diuen gairebé amb orgull, com si el silenci fos una prova de solidesa. I, tanmateix, quan una parella no discuteix mai, convé preguntar-se què està passant: no sempre és senyal que tot va bé. De vegades és senyal que alguna cosa no s'està dient.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: el conflicte no és el que danya una relació. El que danya és la manera com es viu el conflicte —o la impossibilitat de viure'l—. Discutir bé és una habilitat que es construeix amb temps, i moltes parelles la perden o mai la van desenvolupar. La teràpia de parella pot ajudar a transformar el conflicte en un espai de coneixement mutu, no en un camp de batalla.",
+      },
+      {
+        type: "heading",
+        text: "Allò que anomenem discutir",
+      },
+      {
+        type: "paragraph",
+        text: "Convé distingir entre dues coses que solem confondre. Discutir és exposar un desacord, una incomoditat, una diferència. No requereix crits, ni insults, ni amenaces. És un intercanvi on cada part diu el que pensa i el que sent, i on l'altra part escolta —no per respondre, sinó per comprendre.",
+      },
+      {
+        type: "paragraph",
+        text: "Barallar-se, en canvi, és una altra cosa. Barallar-se és buscar guanyar, buscar tenir raó, buscar que l'altre cedeixi. En una baralla, la relació queda en segon pla: el que importa és el resultat. I una parella que es baralla sol pensar que està discutint, quan en realitat està lliurant una guerra menor on algú ha de perdre perquè l'altre guanyi.",
+      },
+      {
+        type: "paragraph",
+        text: "La distinció no és semàntica: és estructural. Discutir busca trobada; barallar-se busca victòria. I moltes parelles no discuteixen perquè han après que qualsevol desacord es converteix en baralla, així que eviten el desacord. Però no eviten el problema: només eviten la manera com el problema surt a la llum.",
+      },
+      {
+        type: "heading",
+        text: "Quan no discutir és el problema",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un tipus de parella que funciona, aparentment, sense fricció. No discuteix, no s'enfronta, no planteja allò que la incomoda. Cadascú fa la seva vida, els compromisos compartits es compleixen, i la convivència transcorre amb una cortesia que podria ser pau o podria ser distància.",
+      },
+      {
+        type: "paragraph",
+        text: "El que sovint hi ha sota d'aquesta superfície llisa no és harmonia: és evitació. Una o ambdues parts han decidit que és més fàcil callar que obrir un tema que probablement acabarà malament. Han après que plantejar el que els passa genera més tensió que la que ja tenen, així que ho absorbeixen. I el que s'absorbeix sense processar-se no desapareix: s'acumula.",
+      },
+      {
+        type: "paragraph",
+        text: "El cost de l'evitació és silenciós però real. Quan una parella deixa de discutir, no és que hagi deixat de tenir diferències: és que ha deixat de tenir un lloc on posar-les. I sense aquest lloc, les diferències es transformen. Es converteixen en ressentiment sord, en distància que creix sense que ningú la senyali, o en una sensació de viure al costat d'algú amb qui ja no es comparteix allò important.",
+      },
+      {
+        type: "paragraph",
+        text: "La paradoxa és que moltes parelles acudeixen a teràpia dient «ja no ens entenem», quan en realitat el que ha passat és que van deixar d'intentar entendre's fa temps. No va ser una ruptura: va ser un abandonament progressiu de l'espai on la comprensió era possible.",
+      },
+      {
+        type: "heading",
+        text: "El que fa que una discussió danyi o acosti",
+      },
+      {
+        type: "paragraph",
+        text: "Una discussió pot ser destructiva o constructiva, i la diferència no està en el tema sinó en la forma. Hi ha parelles que discuteixen sobre diners, sobre el temps, sobre la família, i en surten més a prop. I hi ha parelles que discuteixen sobre el mateix i en surten més lluny. El que marca la diferència no és què es diu, sinó com es diu i des d'on.",
+      },
+      {
+        type: "paragraph",
+        text: "Una discussió que acosta té certes qualitats. Ambdues parts poden estar molestes, però no es destrueixen. Hi ha espai per dir «això em fa mal» sense que l'altre ho interpreti com un atac. Hi ha escolta, encara que sigui difícil. I hi ha un punt on es reconeix que la persona que es té al davant no és l'enemic: és algú amb qui es comparteix una vida i que també està, a la seva manera, intentant sostenir-la.",
+      },
+      {
+        type: "paragraph",
+        text: "Una discussió que fereix té altres qualitats. Es busca tenir raó com a forma de protegir-se. S'usen arguments que se sap que fan mal. Es treuen temes del passat com a munició. I, sobretot, es perd de vista que la persona de l'altra banda no és un adversari: és la persona que es va elegir.",
+      },
+      {
+        type: "paragraph",
+        text: "No es tracta de discutir sense emocions. Les emocions són part del conflicte, i pretendre racionalitzar-les és una altra forma d'evitació. Es tracta de poder estar molest sense que la molèstia es converteixi en crueltat. I això, que sembla simple, no ho és: requereix una regulació que molts mai van aprendre, perquè en les famílies on van créixer no es va modelar.",
+      },
+      {
+        type: "heading",
+        text: "El conflicte com a informació",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una idea que canvia la manera d'entendre les discussions: el conflicte és informació. No és una fallada del sistema, no és una senyal que la relació va malament. És informació sobre allò que cada part necessita, allò que no funciona, allò que s'ha acumulat sense dirse.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan una parella entén que discutir no és una amenaça sinó un canal, el conflicte perd part de la seva càrrega. No desapareix el malestar d'estar en desacord, però es redueix la por que el desacord significui alguna cosa catastròfica. I això permet entrar en la discussió amb una altra posició: no a defensar-se, sinó a entendre què està passant.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no significa que totes les discussions siguin útils. Hi ha discussions repetitives que no porten enlloc, bucles on les mateixes paraules es diuen de les mateixes maneres i on el resultat és sempre el mateix. Aquestes discussions no són informació: són patró. I els patrons, a diferència de la informació, no es resolen repetint-los.",
+      },
+      {
+        type: "heading",
+        text: "Allò que la teràpia de parella pot aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia de parella no consisteix a ensenyar a discutir amb unes regles. No és un manual de comunicació on s'aprèn a fer servir «jo sento» en lloc de «tu sempre». Aquestes tècniques poden ajudar momentàniament, però no toquen el que hi ha a sota: per què aquesta parella no pot discrepar sense que alguna cosa es trenqui.",
+      },
+      {
+        type: "paragraph",
+        text: "El que la teràpia sí pot fer és ajudar a entendre què fa que el conflicte sigui tan difícil de sostenir. De vegades té a veure amb la història de cada part: amb allò que es va aprendre sobre l'enfadament, sobre la vulnerabilitat, sobre allò que passa quan es diu el que un pensa. De vegades té a veure amb el patró que la parella ha construït sense adonar-se'n: un cicle on un persegueix i l'altre es retira, on un es queixa i l'altre es defensa, on ambdós callen i ningú comença.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar això en teràpia implica, sovint, mirar no només allò que es discuteix sinó allò que s'evita discutir. Hi ha parelles que es barallen constantment sobre temes petits i mai toquen els grans, perquè els grans espanten més. I hi ha parelles que no es barallen mai perquè tocar qualsevol tema obre un front que no saben tancar. En ambdós casos, el treball terapèutic consisteix a crear un espai on allò que no s'ha pogut dir trobi lloc.",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresa d'una parella no es mesura per quant discuteix. Es mesura per la capacitat d'estar en desacord sense que el desacord es converteixi en distància permanent, per la possibilitat de dir allò que fa mal sense que es trenqui el vincle, i per la voluntat de seguir mirant-se fins i tot quan mirar-se és incòmode. I aquesta capacitat, quan no està, es pot construir. No sempre sola. De vegades es necessita un espai on retrobar la manera de parlar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si sents que a la teva parella costa discrepar sense que alguna cosa es trenqui, o que fa temps que no es diu allò important, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos de parella on el conflicte es treballa com a part del vincle, no com el seu enemic.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay parejas que no discuten nunca. Lo dicen casi con orgullo, como si el silencio fuera una prueba de solidez. Y, sin embargo, cuando una pareja nunca discute, conviene preguntarse qué está pasando: no siempre es señal de que todo va bien. A veces es señal de que algo no se está diciendo.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: el conflicto no es lo que daña una relación. Lo que daña es la forma en que se vive el conflicto —o la imposibilidad de vivirlo—. Discutir bien es una habilidad que se construye con tiempo, y muchas parejas la pierden o nunca la desarrollaron. La terapia de pareja puede ayudar a transformar el conflicto en un espacio de conocimiento mutuo, no en un campo de batalla.",
+      },
+      {
+        type: "heading",
+        text: "Lo que llamamos discutir",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene distinguir entre dos cosas que solemos confundir. Discutir es exponer un desacuerdo, una incomodidad, una diferencia. No requiere gritos, ni insultos, ni amenazas. Es un intercambio donde cada parte dice lo que piensa y lo que siente, y donde la otra parte escucha —no para responder, sino para comprender.",
+      },
+      {
+        type: "paragraph",
+        text: "Pelear, en cambio, es otra cosa. Pelear es buscar ganar, buscar tener razón, buscar que el otro ceda. En una pelea, la relación queda en segundo plano: lo que importa es el resultado. Y una pareja que pelea suele pensar que está discutiendo, cuando en realidad está librando una guerra menor donde alguien tiene que perder para que el otro gane.",
+      },
+      {
+        type: "paragraph",
+        text: "La distinción no es semántica: es estructural. Discutir busca encuentro; pelear busca victoria. Y muchas parejas no discuten porque han aprendido que cualquier desacuerdo se convierte en pelea, así que evitan el desacuerdo. Pero no evitan el problema: solo evitan la forma en que el problema sale a la luz.",
+      },
+      {
+        type: "heading",
+        text: "Cuando no discutir es el problema",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un tipo de pareja que funciona, aparentemente, sin fricción. No discute, no se enfrenta, no plantea lo que le incomoda. Cada uno hace su vida, los compromisos compartidos se cumplen, y la convivencia transcurre con una cortesía que podría ser paz o podría ser distancia.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que a menudo hay debajo de esa superficie lisa no es armonía: es evitación. Una o ambas partes han decidido que es más fácil callar que abrir un tema que probablemente terminará mal. Han aprendido que plantear lo que les pasa genera más tensión que la que ya tienen, así que lo absorben. Y lo que se absorbe sin procesarse no desaparece: se acumula.",
+      },
+      {
+        type: "paragraph",
+        text: "El coste de la evitación es silencioso pero real. Cuando una pareja deja de discutir, no es que haya dejado de tener diferencias: es que ha dejado de tener un lugar donde ponerlas. Y sin ese lugar, las diferencias se transforman. Se vuelven resentimiento sordo, distancia que crece sin que nadie la señale, o una sensación de vivir junto a alguien con quien ya no se comparte lo importante.",
+      },
+      {
+        type: "paragraph",
+        text: "La paradoja es que muchas parejas acuden a terapia diciendo «ya no nos entendemos», cuando en realidad lo que ha pasado es que dejaron de intentar entenderse hace tiempo. No fue una ruptura: fue un abandono progresivo del espacio donde la comprensión era posible.",
+      },
+      {
+        type: "heading",
+        text: "Lo que hace que una discusión dañe o acerque",
+      },
+      {
+        type: "paragraph",
+        text: "Una discusión puede ser destructiva o constructiva, y la diferencia no está en el tema sino en la forma. Hay parejas que discuten sobre dinero, sobre el tiempo, sobre la familia, y salen más cerca. Y hay parejas que discuten sobre lo mismo y salen más lejos. Lo que marca la diferencia no es qué se dice, sino cómo se dice y desde dónde.",
+      },
+      {
+        type: "paragraph",
+        text: "Una discusión que acerca tiene ciertas cualidades. Ambas partes pueden estar molestas, pero no se destruyen. Hay espacio para decir «esto me duele» sin que el otro lo interprete como un ataque. Hay escucha, aunque sea difícil. Y hay un punto donde se reconoce que la persona que se tiene delante no es el enemigo: es alguien con quien se comparte una vida y que también está, a su manera, tratando de sostenerla.",
+      },
+      {
+        type: "paragraph",
+        text: "Una discusión que hiere tiene otras cualidades. Se busca tener razón como forma de protegerse. Se usan argumentos que se sabe que duelen. Se sacan temas del pasado como munición. Y, sobre todo, se pierde de vista que la persona del otro lado no es un adversario: es la persona que se eligió.",
+      },
+      {
+        type: "paragraph",
+        text: "No se trata de discutir sin emociones. Las emociones son parte del conflicto, y pretender racionalizarlas es otra forma de evitación. Se trata de poder estar molesto sin que la molestia se convierta en crueldad. Y eso, que parece simple, no lo es: requiere una regulación que muchos nunca aprendieron, porque en las familias donde crecieron no se modeló.",
+      },
+      {
+        type: "heading",
+        text: "El conflicto como información",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una idea que cambia la manera de entender las discusiones: el conflicto es información. No es un fallo del sistema, no es una señal de que la relación va mal. Es información sobre lo que cada parte necesita, lo que no está funcionando, lo que se ha acumulado sin decirse.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando una pareja entiende que discutir no es una amenaza sino un canal, el conflicto pierde parte de su carga. No desaparece el malestar de estar en desacuerdo, pero se reduce el miedo a que el desacuerdo signifique algo catastrofico. Y eso permite entrar en la discusión con otra posición: no a defenderse, sino a entender qué está pasando.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto no significa que todas las discusiones sean útiles. Hay discusiones repetitivas que no llevan a ninguna parte, bucles donde las mismas palabras se dicen de las mismas formas y donde el resultado es siempre el mismo. Esas discusiones no son información: son patrón. Y los patrones, a diferencia de la información, no se resuelven repitiéndolos.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la terapia de pareja puede aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia de pareja no consiste en enseñar a discutir con unas reglas. No es un manual de comunicación donde se aprende a usar «yo siento» en lugar de «tú siempre». Esas técnicas pueden ayudar momentáneamente, pero no tocan lo que hay debajo: por qué esa pareja no puede discrepar sin que se rompa algo.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que la terapia sí puede hacer es ayudar a entender qué hace que el conflicto sea tan difícil de sostener. A veces tiene que ver con la historia de cada parte: con lo que se aprendió sobre el enfado, sobre la vulnerabilidad, sobre lo que pasa cuando se dice lo que uno piensa. A veces tiene que ver con el patrón que la pareja ha construido sin darse cuenta: un ciclo donde uno persigue y el otro se retira, donde uno se queja y el otro se defiende, donde ambos callan y nadie empieza.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar esto en terapia implica, a menudo, mirar no solo lo que se discute sino lo que se evita discutir. Hay parejas que pelean constantemente sobre temas pequeños y nunca tocan los grandes, porque los grandes asustan más. Y hay parejas que no pelean nunca porque tocar cualquier tema abre un frente que no saben cerrar. En ambos casos, el trabajo terapéutico consiste en crear un espacio donde lo que no se ha podido decir encuentre lugar.",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez de una pareja no se mide por cuánto discute. Se mide por la capacidad de estar en desacuerdo sin que el desacuerdo se convierta en distancia permanente, por la posibilidad de decir lo que duele sin que se rompa el vínculo, y por la voluntad de seguir mirándose incluso cuando mirarse es incómodo. Y esa capacidad, cuando no está, se puede construir. No siempre sola. A veces se necesita un espacio donde reencontrar la manera de hablar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si sientes que en tu pareja cuesta discrepar sin que algo se rompa, o que hace tiempo que no se dice lo importante, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de pareja donde el conflicto se trabaja como parte del vínculo, no como su enemigo.",
+      },
+    ],
+  },
 ];

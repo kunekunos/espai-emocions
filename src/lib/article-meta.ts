@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "discutir-sin-romper-conflicto-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Discutir sense trencar: per què el conflicte no és el que danya la parella",
+    "titleES": "Discutir sin romper: por qué el conflicto no es lo que daña la pareja",
+    "excerptCA":
+      "Hi ha parelles que no discuteixen mai. I això, que semblaria un signe de salut, de vegades és el contrari. El conflicte no és el que danya la relació: ho fa la manera com es viu, o la impossibilitat de viure'l. Aquí explorem per què discutir bé és una habilitat que es construeix, què diferencia una discussió que acosta d'una que fereix, i com pot ajudar la teràpia de parella a transformar el conflicte en un espai de coneixement mutu.",
+    "excerptES":
+      "Hay parejas que no discuten nunca. Y eso, que parecería un signo de salud, a veces es lo contrario. El conflicto no es lo que daña la relación: lo hace la forma en que se vive, o la imposibilidad de vivirlo. Aquí exploramos por qué discutir bien es una habilidad que se construye, qué diferencia una discusión que acerca de una que hiere, y cómo puede ayudar la terapia de pareja a transformar el conflicto en un espacio de conocimiento mutuo.",
+    "datePublished": "2026-08-05"
+  },
+  {
     "slug": "amistad-cuarenta-relaciones-transforman-madurez",
     "categoryCA": "Problemes relacionals",
     "categoryES": "Problemas relacionales",
