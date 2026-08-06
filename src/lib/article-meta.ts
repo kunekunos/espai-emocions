@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "padres-envejecen-duelo-anticipatorio-adultos",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Quan els pares envelleixen: el dol anticipatori i el canvi de rols a la maduresa adulta",
+    "titleES": "Cuando los padres envejecen: el duelo anticipatorio y el cambio de roles en la madurez adulta",
+    "excerptCA":
+      "Hi ha un moment en què adones que els teus pares ja no són els que sostenien. Són els que necessiten ser sostinguts. Aquest canvi, que sembla pràctic, és en realitat un terratrèmol d'identitat: el de deixar de ser fill per convertir-te en cuidador dels qui et van criar. Aquí explorem què és el dol anticipatori, per què el canvi de rols amb els pares és una de les transicions més complexes de la maduresa adulta i com pot ajudar la teràpia a recórrer-la sense que la culpa o la tristesa et tombin.",
+    "excerptES":
+      "Hay un momento en que te das cuenta de que tus padres ya no son quienes sostenían. Son quienes necesitan ser sostenidos. Este cambio, que parece práctico, es en realidad un terremoto de identidad: el de dejar de ser hijo para convertirte en cuidador de quienes te criaron. Aquí exploramos qué es el duelo anticipatorio, por qué el cambio de roles con los padres es una de las transiciones más complejas de la madurez adulta y cómo puede ayudar la terapia a recorrerla sin que la culpa o la tristeza te derrumben.",
+    "datePublished": "2026-08-06"
+  },
+  {
     "slug": "discutir-sin-romper-conflicto-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

@@ -769,4 +769,284 @@ export const articlesPart7: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 4. padres-envejecen-duelo-anticipatorio-adultos (Pilar: Cambios vitales / Procesos de madurez)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "padres-envejecen-duelo-anticipatorio-adultos",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA:
+      "Quan els pares envelleixen: el dol anticipatori i el canvi de rols a la maduresa adulta",
+    titleES:
+      "Cuando los padres envejecen: el duelo anticipatorio y el cambio de roles en la madurez adulta",
+    excerptCA:
+      "Hi ha un moment en què adones que els teus pares ja no són els que sostenien. Són els que necessiten ser sostinguts. Aquest canvi, que sembla pràctic, és en realitat un terratrèmol d'identitat: el de deixar de ser fill per convertir-te en cuidador dels qui et van criar. Aquí explorem què és el dol anticipatori, per què el canvi de rols amb els pares és una de les transicions més complexes de la maduresa adulta i com pot ajudar la teràpia a recórrer-la sense que la culpa o la tristesa et tombin.",
+    excerptES:
+      "Hay un momento en que te das cuenta de que tus padres ya no son quienes sostenían. Son quienes necesitan ser sostenidos. Este cambio, que parece práctico, es en realidad un terremoto de identidad: el de dejar de ser hijo para convertirte en cuidador de quienes te criaron. Aquí exploramos qué es el duelo anticipatorio, por qué el cambio de roles con los padres es una de las transiciones más complejas de la madurez adulta y cómo puede ayudar la terapia a recorrerla sin que la culpa o la tristeza te derrumben.",
+    datePublished: "2026-08-06",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un moment, sovint discret, en què alguna cosa canvia. No és un diagnòstic ni una caiguda: és un gest que costa més, una decisió que ja no s'agafa sola, una mirada que demana ajuda on abans demanava que no te n'immiscis. I en aquest moment, encara que no sàpigues nombrar-ho, alguna cosa ha canviat: els teus pares ja no són els que sostenien. Són els que comencen a necessitar que els sostinguis.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: el procés d'envelliment dels pares activa una transició d'identitat profunda en qui és fill o filla. No és només una qüestió pràctica de cura: és un dol anticipatori, un canvi de rols i una reorganització de la relació que pot generar culpa, tristesa i sobrecàrrega. La teràpia no resol l'enveelliment ni evita la pèrdua, però pot ajudar a recórrer aquest trànsit amb més claredat, distingint el que és teu del que no ho és, i sostenint el que ve sense que et tombi.",
+      },
+      {
+        type: "heading",
+        text: "El canvi que no te diu el seu nom",
+      },
+      {
+        type: "paragraph",
+        text: "Quan una parella acaba o una feina es perd, hi ha un esdeveniment que marca el tall. Quan els pares envelleixen, en canvi, no hi ha un moment. Hi ha una sèrie de petites pèrdues que s'acumulen sense ritme: la conducció que es deixa, la casa que ja no es pot sostenir sola, la memòria que falla en coses petites, la salut que es fa fràgil. Cap d'aquestes pèrdues és catastrofica per si mateixa, però juntes dibuixen una trajectòria que no es pot ignorar.",
+      },
+      {
+        type: "paragraph",
+        text: "I això fa que el procés sigui especialment difícil de processar. Perquè els duels que tenen un moment es poden acomiadar. Els duels que es reparteixen en anys de petites pèrdues no tenen un ritual, no tenen un tancament, no tenen un punt on dir «aquí comença el dol». Queden en una zona intermèdia on saps que alguna cosa s'està perdent però no pots fer el dol perquè la persona encara hi és. I aquesta zona intermèdia té un nom: dol anticipatori.",
+      },
+      {
+        type: "heading",
+        text: "Què és el dol anticipatori",
+      },
+      {
+        type: "paragraph",
+        text: "El dol anticipatori és el procés d'elaboració d'una pèrdua que encara no s'ha consumat. És el dolor de veure com algú que estimes es va fent més fràgil, més dependent, més a prop d'un final que no saps quan arribarà però saps que arribarà. I és un dol perfectament legítim, encara que sovint es viu amb culpa: «Com puc estar de dol si el meu pare encara hi és?». Aquesta culpa neix d'un malentès: creure que el dol només comença quan la persona mor. Però el dol comença molt abans, quan percebes que la relació amb qui estimes està canviant d'una manera que no es pot revertir.",
+      },
+      {
+        type: "paragraph",
+        text: "El dol anticipatori no és ingratitude ni pessimisme. És la resposta emocional natural a una pèrdua progressiva. I reconeix-lo —anomenar-lo, donar-li espai— no accelerar la pèrdua: la fa més suportable, perquè permet processar el que està passant en lloc d'absorbir-ho en silenci.",
+      },
+      {
+        type: "heading",
+        text: "El canvi de rols: deixar de ser fill",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les coses més complexes d'aquest procés és que no és només una pèrdua: és un canvi de rols. Tota la vida, els teus pares han estat els qui sostenien, els qui decidien, els qui et contenien. Tu eres el fill, fins i tot als quaranta o als cinquanta. I de cop, sense que ningú t'ho anunciï, et converteixes en qui sosté, qui decideix, qui conté. No és un canvi que es faci amb una conversa: és un canvi que es va instal·lant, sessió a sessió de la vida, fins que un dia t'adones que fa temps que no ets només el fill.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest canvi pot ser profundament desconcertant. Hi ha persones que, en convertir-se en cuidadores dels seus pares, senten que perden l'últim lloc on podien ser fills. L'últim espai on algú els sostenia incondicionalment, on podien deixar-se caure, on no havien de ser competents. I quan aquest espai desapareix, la solitud que emergeix no és la del cuidador: és la del fill que ja no té on ser-ho.",
+      },
+      {
+        type: "heading",
+        text: "La culpa del fill que no arriba a tot",
+      },
+      {
+        type: "paragraph",
+        text: "Gairebé totes les persones que acompanyen el seus pares en el procés d'enveelliment passen, en algun moment, per una culpa particular. La culpa de no fer prou. La culpa de no tenir temps. La culpa de sentir irritació quan la cura es torna pesada. La culpa de desitjar, en alguns moments, que el procés acabés. Aquesta culpa no és un símptoma de falta d'amor: és el senyal que estàs carregant una responsabilitat real que té límits reals, i que aquests límits xoquen amb el que senties que havies de poder donar.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una diferència entre responsabilitat i tot. Pots ser responsable dels teus pares sense haver de ser-ho tot per a ells. Pots estimar-los sense absorbir totes les seves necessitats. I aprendre a sostenir aquesta diferència —responsabilitat sí, tot no— és una de les tasques més importants d'aquesta etapa. No és un retret: és una condició per sostenir el procés sense que et tombi.",
+      },
+      {
+        type: "heading",
+        text: "La relació que es reorganitza",
+      },
+      {
+        type: "paragraph",
+        text: "El canvi de rols no significa que la relació amb els teus pares desaparegui. Significa que es reorganitza. I aquesta reorganització, sovint, implica converses que no s'han tingut mai. Converses sobre què volen ells per a aquesta etapa, quines decisions mèdiques prefereixen, com volen viure, què esperen de tu i què no esperen. Converses que costen, perquè toquen la fragilitat i perquè ningú les ha modelat. Però converses que, quan es tenen, alleugen un pes que sense elles es carrega en silenci.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades, aquestes converses no són possibles: perquè els pares no volen, perquè la seva salut no ho permet, perquè la relació va ser difícil i el cuidado es fa des d'un lloc complicat. En aquests casos, la reorganització no és amb ells: és amb tu mateix, amb la història que vas tenir, amb el que vols donar i el que pots donar, i amb el dol d'una relació que potser no va ser la que volies.",
+      },
+      {
+        type: "heading",
+        text: "Quan la història pesa",
+      },
+      {
+        type: "paragraph",
+        text: "No tothom arribà a aquesta etapa amb una relació amorosa i tranquil·la amb els seus pares. Hi ha persones que acompanyen pares amb qui van tenir una història difícil: absència, control, fredor, conflicte. I en aquests casos, el procés d'enveelliment activa una doble pèrdua: la del pare que es fa fràgil i la de la relació que mai va ser el que necessitaves. La tristesa no és només pel que s'està perdent: és pel que mai es va tenir, i que ja no tindrà temps de ser.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta és una de les versions més complexes del dol anticipatori: la que no és només per la persona que se'n va, sinó per la relació que no va arribar a ser. I aquest dol, sovint, no té reconeixement social. Ningú t'acompanya pel dol d'un pare amb qui no parlaves. Però existeix, i pesa, i convé mirar-lo perquè si no es mira, es transforma en ressentiment sord o en una culpa que no s'entén.",
+      },
+      {
+        type: "heading",
+        text: "El que la teràpia pot aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no pot aturar el temps ni revertir el enveelliment. El que pot fer és oferir un espai on mirar aquest procés amb temps i profunditat, sense la pressió de tenir que resoldre'l per als altres. Un espai on ser fill, on ser cuidador, on ser ambdues coses alhora i sentir el pes de cadascuna. Un espai on la culpa pugui aparèixer sense que es converteixi en judici, i on la tristesa pugui tenir lloc sense que es converteixi en depressió.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar aquest procés en teràpia implica, sovint, revisar la història de la relació amb els pares: el que va ser, el que no va ser, el que encara pots donar i el que ja no tens per donar. Implica distingir entre el que és responsabilitat teva i el que no ho és, i aprendre a sostenir aquesta línia sense culpa. I implica, també, preparar-te per al que vindrà: no per evitar-lo, sinó per arribar-hi amb recursos, amb suports i amb una relació interna amb els teus pares que et permeti enfrontar la pèrdua sense que et destrueixi.",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresa, en aquesta etapa, no és deixar de sentir. És poder sentir el que pesa sense que el pes et tombi, i poder donar el que pots sense que la culpa et faci creure que hauries de donar més. És reconèixer que acompanyar els pares que envelleixen és una de les tasques més complexes de la vida adulta, i que no tenir-la sola no és debilitat: és una forma de cuidar-te per poder seguir cuidant.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "És normal sentir tristesa pel enveelliment dels meus pares si encara són vius?",
+            answer:
+              "Sí. El que sents és dol anticipatori, i és una resposta emocional legítima davant una pèrdua progressiva. No cal que la persona hagi mort per començar a doler's: el dol comença quan percebes que la relació està canviant d'una manera que no es pot revertir. Sentir tristesa no és ingratitude ni pessimisme: és la forma com el teu sistema emocional processa una transformació que també et toca a tu.",
+          },
+          {
+            question:
+              "Com gestiono la culpa de no poder fer tot el que els meus pares necessiten?",
+            answer:
+              "La culpa sol venir de confondre responsabilitat amb tot. Pots ser responsable dels teus pares sense haver de ser-ho tot per a ells. Identificar què pots donar realment —temps, recursos, coordinació, presència— i què no pots donar, i acceptar aquest límit sense jutjar-te, és part del procés. La culpa no et fa millor fill: et fa un fill més cansat. Aprendre a sostenir el límit és una forma de cuidar-los i de cuidar-te.",
+          },
+          {
+            question:
+              "Tinc una relació difícil amb els meus pares. És normal sentir més dol per la relació que no vaig tenir que pel que s'està perdent?",
+            answer:
+              "Sí, i és més freqüent del que sembla. Quan la història amb els pares va ser complicada, el enveelliment activa una doble pèrdua: la del pare que es fa fràgil i la de la relació que mai va ser el que necessitaves. Aquest dol, sovint no reconegut, pesa perquè toca el que no va haver-hi i ja no hi haurà temps de ser. Mirar-ho amb companyia pot ajudar a processar-ho sense que es converteixi en ressentiment o en una culpa que no s'entén.",
+          },
+          {
+            question:
+              "Què faig si sento que perdo l'últim lloc on podia ser fill?",
+            answer:
+              "Aquesta sensació és una de les més profundes d'aquesta etapa. Convertir-te en qui sosté els teus pares pot fer-te sentir que perds l'últim espai on algú et sostenia incondicionalment. No és un sentiment a corregir: és una pèrdua a reconèixer. La teràpia pot oferir un espai on ser fill on la vida ja no te'n dóna, on deixar caure el pes del cuidador i reconèixer el que estàs perdent sense haver de sostenir-ho tot en silenci.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si estàs acompanyant el enveelliment dels teus pares i el procés et genera tristesa, culpa, sobrecàrrega o confusió, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem aquestes transicions amb el temps i la profunditat que necessiten —no perquè t'ensenyem a cuidar els teus pares, sinó perquè puguis fer-ho sense perdre't en el camí.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un momento, a menudo discreto, en que algo cambia. No es un diagnóstico ni una caída: es un gesto que cuesta más, una decisión que ya no se toma sola, una mirada que pide ayuda donde antes pedía que no te metieras. Y en ese momento, aunque no sepas nombrarlo, algo ha cambiado: tus padres ya no son quienes sostenían. Son quienes empiezan a necesitar que los sostengas.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: el proceso de envejecimiento de los padres activa una transición de identidad profunda en quien es hijo o hija. No es solo una cuestión práctica de cuidado: es un duelo anticipatorio, un cambio de roles y una reorganización de la relación que puede generar culpa, tristeza y sobrecarga. La terapia no resuelve el envejecimiento ni evita la pérdida, pero puede ayudar a recorrer este tránsito con más claridad, distinguiendo lo que es tuyo de lo que no lo es, y sosteniendo lo que viene sin que te derrumbe.",
+      },
+      {
+        type: "heading",
+        text: "El cambio que no se dice su nombre",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando una pareja termina o un trabajo se pierde, hay un evento que marca el corte. Cuando los padres envejecen, en cambio, no hay un momento. Hay una serie de pequeñas pérdidas que se acumulan sin ritmo: la conducción que se deja, la casa que ya no se puede sostener sola, la memoria que falla en cosas pequeñas, la salud que se vuelve frágil. Ninguna de estas pérdidas es catastrófica por sí misma, pero juntas dibujan una trayectoria que no se puede ignorar.",
+      },
+      {
+        type: "paragraph",
+        text: "Y eso hace que el proceso sea especialmente difícil de procesar. Porque los duelos que tienen un momento se pueden despedir. Los duelos que se reparten en años de pequeñas pérdidas no tienen un ritual, no tienen un cierre, no tienen un punto donde decir «aquí empieza el duelo». Quedan en una zona intermedia donde sabes que algo se está perdiendo pero no puedes hacer el duelo porque la persona aún está. Y esa zona intermedia tiene un nombre: duelo anticipatorio.",
+      },
+      {
+        type: "heading",
+        text: "Qué es el duelo anticipatorio",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo anticipatorio es el proceso de elaboración de una pérdida que aún no se ha consumado. Es el dolor de ver cómo alguien a quien quieres se va volviendo más frágil, más dependiente, más cerca de un final que no sabes cuándo llegará pero sabes que llegará. Y es un duelo perfectamente legítimo, aunque a menudo se vive con culpa: «¿Cómo puedo estar de duelo si mi padre aún está?». Esa culpa nace de un malentendido: creer que el duelo solo comienza cuando la persona muere. Pero el duelo comienza mucho antes, cuando percibes que la relación con quien amas está cambiando de una manera que no se puede revertir.",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo anticipatorio no es ingratitud ni pesimismo. Es la respuesta emocional natural a una pérdida progresiva. Y reconocerlo —nombrarlo, darle espacio— no acelera la pérdida: la hace más soportable, porque permite procesar lo que está pasando en lugar de absorberlo en silencio.",
+      },
+      {
+        type: "heading",
+        text: "El cambio de roles: dejar de ser hijo",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las cosas más complejas de este proceso es que no es solo una pérdida: es un cambio de roles. Toda la vida, tus padres han sido quienes sostenían, quienes decidían, quienes te contenían. Tú eras el hijo, incluso a los cuarenta o a los cincuenta. Y de pronto, sin que nadie te lo anunciara, te conviertes en quien sostiene, quien decide, quien contiene. No es un cambio que se haga con una conversa: es un cambio que se va instalando, sesión a sesión de la vida, hasta que un día te das cuenta de que hace tiempo que no eres solo el hijo.",
+      },
+      {
+        type: "paragraph",
+        text: "Este cambio puede ser profundamente desconcertante. Hay personas que, al convertirse en cuidadoras de sus padres, sienten que pierden el último lugar donde podían ser hijos. El último espacio donde alguien los sostenía incondicionalmente, donde podían dejarse caer, donde no tenían que ser competentes. Y cuando ese espacio desaparece, la soledad que emerge no es la del cuidador: es la del hijo que ya no tiene dónde serlo.",
+      },
+      {
+        type: "heading",
+        text: "La culpa del hijo que no llega a todo",
+      },
+      {
+        type: "paragraph",
+        text: "Casi todas las personas que acompañan a sus padres en el proceso de envejecimiento pasan, en algún momento, por una culpa particular. La culpa de no hacer suficiente. La culpa de no tener tiempo. La culpa de sentir irritación cuando el cuidado se vuelve pesado. La culpa de desear, en algunos momentos, que el proceso terminara. Esta culpa no es un síntoma de falta de amor: es la señal de que estás cargando una responsabilidad real que tiene límites reales, y que esos límites chocan con lo que sentías que debías poder dar.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una diferencia entre responsabilidad y todo. Puedes ser responsable de tus padres sin tener que serlo todo para ellos. Puedes amarlos sin absorber todas sus necesidades. Y aprender a sostener esa diferencia —responsabilidad sí, todo no— es una de las tareas más importantes de esta etapa. No es un reproche: es una condición para sostener el proceso sin que te derrumbe.",
+      },
+      {
+        type: "heading",
+        text: "La relación que se reorganiza",
+      },
+      {
+        type: "paragraph",
+        text: "El cambio de roles no significa que la relación con tus padres desaparezca. Significa que se reorganiza. Y esta reorganización, a menudo, implica conversaciones que no se han tenido nunca. Conversaciones sobre qué quieren ellos para esta etapa, qué decisiones médicas prefieren, cómo quieren vivir, qué esperan de ti y qué no esperan. Conversaciones que cuestan, porque tocan la fragilidad y porque nadie las modeló. Pero conversaciones que, cuando se tienen, alivian un peso que sin ellas se carga en silencio.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, estas conversaciones no son posibles: porque los padres no quieren, porque su salud no lo permite, porque la relación fue difícil y el cuidado se hace desde un lugar complicado. En estos casos, la reorganización no es con ellos: es contigo mismo, con la historia que tuviste, con lo que quieres dar y lo que puedes dar, y con el duelo de una relación que quizá no fue la que querías.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la historia pesa",
+      },
+      {
+        type: "paragraph",
+        text: "No todo el mundo llega a esta etapa con una relación amorosa y tranquila con sus padres. Hay personas que acompañan a padres con quienes tuvieron una historia difícil: ausencia, control, frialdad, conflicto. Y en estos casos, el proceso de envejecimiento activa una doble pérdida: la del padre que se vuelve frágil y la de la relación que nunca fue lo que necesitabas. La tristeza no es solo por lo que se está perdiendo: es por lo que nunca se tuvo, y que ya no tendrá tiempo de ser.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta es una de las versiones más complejas del duelo anticipatorio: la que no es solo por la persona que se va, sino por la relación que no llegó a ser. Y este duelo, a menudo, no tiene reconocimiento social. Nadie te acompaña por el duelo de un padre con quien no hablabas. Pero existe, y pesa, y conviene mirarlo porque si no se mira, se transforma en resentimiento sordo o en una culpa que no se entiende.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la terapia puede aportar",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no puede detener el tiempo ni revertir el envejecimiento. Lo que sí puede hacer es ofrecer un espacio donde mirar este proceso con tiempo y profundidad, sin la presión de tener que resolverlo para los demás. Un espacio donde ser hijo, donde ser cuidador, donde ser ambas cosas a la vez y sentir el peso de cada una. Un espacio donde la culpa pueda aparecer sin que se convierta en juicio, y donde la tristeza pueda tener lugar sin que se convierta en depresión.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar este proceso en terapia implica, a menudo, revisar la historia de la relación con los padres: lo que fue, lo que no fue, lo que aún puedes dar y lo que ya no tienes para dar. Implica distinguir entre lo que es responsabilidad tuya y lo que no lo es, y aprender a sostener esa línea sin culpa. E implica, también, prepararte para lo que vendrá: no para evitarlo, sino para llegar con recursos, con apoyos y con una relación interna con tus padres que te permita afrontar la pérdida sin que te destruya.",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez, en esta etapa, no es dejar de sentir. Es poder sentir lo que pesa sin que el peso te derrumbe, y poder dar lo que puedes sin que la culpa te haga creer que deberías dar más. Es reconocer que acompañar a los padres que envejecen es una de las tareas más complejas de la vida adulta, y que no tenerla sola no es debilidad: es una forma de cuidarte para poder seguir cuidando.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Es normal sentir tristeza por el envejecimiento de mis padres si aún están vivos?",
+            answer:
+              "Sí. Lo que sientes es duelo anticipatorio, y es una respuesta emocional legítima ante una pérdida progresiva. No hace falta que la persona haya muerto para empezar a dolerse: el duelo comienza cuando percibes que la relación está cambiando de una manera que no se puede revertir. Sentir tristeza no es ingratitud ni pesimismo: es la forma en que tu sistema emocional procesa una transformación que también te afecta a ti.",
+          },
+          {
+            question:
+              "¿Cómo gestiono la culpa de no poder hacer todo lo que mis padres necesitan?",
+            answer:
+              "La culpa suele venir de confundir responsabilidad con todo. Puedes ser responsable de tus padres sin tener que serlo todo para ellos. Identificar qué puedes dar realmente —tiempo, recursos, coordinación, presencia— y qué no puedes dar, y aceptar ese límite sin juzgarte, es parte del proceso. La culpa no te hace mejor hijo: te hace un hijo más cansado. Aprender a sostener el límite es una forma de cuidarlos y de cuidarte.",
+          },
+          {
+            question:
+              "Tengo una relación difícil con mis padres. ¿Es normal sentir más duelo por la relación que no tuve que por lo que se está perdiendo?",
+            answer:
+              "Sí, y es más frecuente de lo que parece. Cuando la historia con los padres fue complicada, el envejecimiento activa una doble pérdida: la del padre que se vuelve frágil y la de la relación que nunca fue lo que necesitabas. Este duelo, a menudo no reconocido, pesa porque toca lo que no hubo y ya no habrá tiempo de ser. Mirarlo con compañía puede ayudar a procesarlo sin que se convierta en resentimiento o en una culpa que no se entiende.",
+          },
+          {
+            question:
+              "¿Qué hago si siento que pierdo el último lugar donde podía ser hijo?",
+            answer:
+              "Esta sensación es una de las más profundas de esta etapa. Convertirte en quien sostiene a tus padres puede hacerte sentir que pierdes el último espacio donde alguien te sostenía incondicionalmente. No es un sentimiento a corregir: es una pérdida a reconocer. La terapia puede ofrecer un espacio donde ser hijo donde la vida ya no te lo permite, donde dejar caer el peso del cuidador y reconocer lo que estás perdiendo sin tener que sostenerlo todo en silencio.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si estás acompañando el envejecimiento de tus padres y el proceso te genera tristeza, culpa, sobrecarga o confusión, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos estas transiciones con el tiempo y la profundidad que necesitan —no porque te enseñemos a cuidar a tus padres, sino para que puedas hacerlo sin perderte en el camino.",
+      },
+    ],
+  },
 ];
