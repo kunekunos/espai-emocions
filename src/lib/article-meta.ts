@@ -533,5 +533,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptCA": "Sents que la vostra comunicació s'ha trencat? La teràpia de parella pot ajudar-te a reconstruir el vincle i trobar solucions reals.",
     "excerptES": "¿Sientes que vuestra comunicación se ha roto? La terapia de pareja puede ayudarte a reconstruir el vínculo y encontrar soluciones reales.",
     "datePublished": "2026-05-01"
+  },
+  {
+    "slug": "logro-que-no-llena-cuando-llegar-no-es-suficiente",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Quan arribar no basta: el buit que apareix després d'assolir el que es perseguia",
+    "titleES": "Cuando llegar no basta: el vacío que aparece después de conseguir lo que se perseguía",
+    "excerptCA":
+      "Hi ha un moment, sobretot entre els 35 i els 50, en què arribes on volies arribar i descobreixes que no omple. La feina, la casa, la relació, el reconeixement: tot està més o menys on t'havies proposat portar-ho. I, tanmateix, en lloc de tranquil·litat, apareix una pregunta incòmoda: «¿i això és tot?». Aquest article explora per què l'assoliment no sempre coincideix amb la satisfacció, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest buit que no és un error: és una pregunta.",
+    "excerptES":
+      "Hay un momento, sobre todo entre los 35 y los 50, en que llegas a donde querías llegar y descubres que no llena. El trabajo, la casa, la relación, el reconocimiento: todo está más o menos donde te habías propuesto llevarlo. Y, sin embargo, en lugar de tranquilidad, aparece una pregunta incómoda: «¿y esto es todo?». Este artículo explora por qué el logro no siempre coincide con la satisfacción, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer ese vacío que no es un error: es una pregunta.",
+    "datePublished": "2026-08-07"
   }
 ];

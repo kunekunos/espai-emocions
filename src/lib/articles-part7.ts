@@ -1049,4 +1049,276 @@ export const articlesPart7: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 5. logro-que-no-llena-cuando-llegar-no-es-suficiente (Pilar: Identidad / Madurez)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "logro-que-no-llena-cuando-llegar-no-es-suficiente",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "Quan arribar no basta: el buit que apareix després d'assolir el que es perseguia",
+    titleES:
+      "Cuando llegar no basta: el vacío que aparece después de conseguir lo que se perseguía",
+    excerptCA:
+      "Hi ha un moment, sobretot entre els 35 i els 50, en què arribes on volies arribar i descobreixes que no omple. La feina, la casa, la relació, el reconeixement: tot està més o menys on t'havies proposat portar-ho. I, tanmateix, en lloc de tranquil·litat, apareix una pregunta incòmoda: «¿i això és tot?». Aquest article explora per què l'assoliment no sempre coincideix amb la satisfacció, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest buit que no és un error: és una pregunta.",
+    excerptES:
+      "Hay un momento, sobre todo entre los 35 y los 50, en que llegas a donde querías llegar y descubres que no llena. El trabajo, la casa, la relación, el reconocimiento: todo está más o menos donde te habías propuesto llevarlo. Y, sin embargo, en lugar de tranquilidad, aparece una pregunta incómoda: «¿y esto es todo?». Este artículo explora por qué el logro no siempre coincide con la satisfacción, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer ese vacío que no es un error: es una pregunta.",
+    datePublished: "2026-08-07",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una experiència que costa de explicar perquè, vista des de fora, no té sentit. Tens el que et vas proposar tenir. La feina que volies, la casa que volies, la parella o el projecte o el reconeixement que volies. Potser no tot alhora, però prou coses. I un dia, sense que passi res dolent, descobreixes que no omple. No estàs trist en el sentit clàssic. No estàs en crisi. Estàs en un lloc més confús: en el lloc on arribar no ha resultat ser el que es pensava que seria.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: el buit que apareix després d'assolir el que es perseguia no és un símptoma d'ingratitud ni de fracàs. És un fenomen que apareix quan la identitat s'ha construït al voltant de la recerca —la persecució d'una meta— i la meta s'ha complert. Arribar canvia la relació amb tu mateix, perquè allò que et definia era el fet de caminar cap a alguna cosa, i ara cal trobar una altra manera de sostenir-te. La teràpia pot ajudar a mirar aquest buit sense presses ni condemnes, i a descobrir què necessites ara que ja no és arribar.",
+      },
+      {
+        type: "heading",
+        text: "La promesa del logro i el seu silenci",
+      },
+      {
+        type: "paragraph",
+        text: "La cultura que ens enveta parla del logro com si fos una resposta. Treballa dur, persisteix, supera obstacles, i arribaràs. I quan arribis, diu la promesa, vindrà la satisfacció. És una idea tan estesa que poques persones la qüestionen fins que l'experimenten en primera persona. Arriben on es proposaven, esperen sentir el que la promesa els havia dit que sentirien, i el que apareix no coincideix. A vegades apareix alleujament: «gràcies, ja hi som». A vegades apareix un buit sobtat, com si el motor que ho movia tot s'apagués d'un cop. I a vegades apareix una inquietud sorda que no se sap anomenar.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no vol dir que l'assoliment no serveixi per a res. Vol dir que la satisfacció que promet no sempre ve amb l'assoliment, i que la relació entre aconseguir i sentir-te bé és més complexa del que ens van vendre. La confusió no és un error teu: és el resultat d'un malentesos cultural que confon objectius amb sentit.",
+      },
+      {
+        type: "heading",
+        text: "Quan la identitat es construeix sobre la recerca",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes persones arriben a la maduresa adulta havent construït la seva identitat al voltant d'un objectiu. Potser era una carrera professional, potser era una xarxa de relacions sòlida, potser era uns ingressos, potser era un estatus, potser era una certa manera de viure. Durant anys, aquest objectiu ha estat el motor que donava sentit a les decisions, que justificava els sacrificis, que organitzava els dies. La identitat no era «qui sóc» sinó «qui vaig sentint ser».",
+      },
+      {
+        type: "paragraph",
+        text: "Quan l'objectiu s'acompleix, aquesta identitat es queda sense terra. No és que deixis de ser qui eres: és que la manera de ser-ho —la persecució, el camí, la tensió cap endavant— ja no opera. I allò que et sostenia des de fora (la meta que t'esperava) ja no hi és per sostenir-te. Queden tu i la pregunta de què vols fer ara amb això que has aconseguit, una pregunta que poques persones es fan quan encara estan en plena recerca perquè semblaria una distracció.",
+      },
+      {
+        type: "heading",
+        text: "El buit no és absència: és presència d'una pregunta",
+      },
+      {
+        type: "paragraph",
+        text: "El que anomenem buit, sovint, no és una manca. És una pregunta que ha començat a tenir espai. Durant anys, la pregunta «què vull?» tenia una resposta clara i externa: aquell ascens, aquella relació, aquella casa, aquell reconeixement. Quan la resposta ja no és externa perquè ja s'ha complert, la pregunta es queda sola amb tu, i potser per primera vegada en molt de temps no hi ha res que la distregui.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica per què el buit pot aparèixer precisament quan tot està bé. No és que hi falti alguna cosa: és que per fi hi ha prou silenci perquè la pregunta que portaves dins pugui sentir-se. I aquesta pregunta no sempre és agradable. Pot ser «aquesta vida és la que volia, o és la que em vaig proposar aconseguir sense preguntar-me si la volia?». Pot ser «què hi ha aquí per a mi, més enllà d'haver-ho aconseguit?». Pot ser «i si això no era el que em faltava?».",
+      },
+      {
+        type: "heading",
+        text: "Per què costa tant dir-ho en veu alta",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les coses que fa difícil aquest buit és que costa compartir-lo. Dir «he aconseguit el que volia i no em sento com em pensava que em sentiria» sona, des de fora, com un luxe: un problema de qui ja ha resolt els bàsics. I, de vegades, la mateixa persona que ho sent no gosa dir-ho perquè tem que soni a ingratitud, a capritx de qui no sap valorar el que té.",
+      },
+      {
+        type: "paragraph",
+        text: "Però el buit no és un capritx. És una experiència interna que té a veure amb la identitat i el sentit, no amb els recursos materials. Una persona pot tenir tot el que culturalment es considera èxit i sentir, alhora, que allò no coincideix amb la seva experiència interna. I callar-ho no el fa més agraït: el fa més sol, perquè carrega una pregunta que no pot compartir sense sentir-se mal explicat.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre objectius i valors",
+      },
+      {
+        type: "paragraph",
+        text: "Una distinció que ajuda: els objectius són punts d'arribada. Els valors són direccions. Un objectiu es compleix o no es compleix, i quan es compleix, deixa de ser motor. Un valor no es compleix: es practica, es viu, es posa en joc cada dia. La coherència no ve d'assolir objectius: ve de viure alineat amb valors que reconeixes com a teus.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan una persona ha construït la seva vida sobre objectius sense connectar-los amb valors, l'assoliment pot revelar aquesta desconexió. No és que els objectius estiguin malament: és que no eren prou, i no se sabia. El buit que apareix llavors no és un error: és la primera oportunitat de mirar què hi ha sota els objectius, què volies realment quan volies allò, i quins valors pots fer servir com a brúixola ara que arribar ja no és el que et defineix.",
+      },
+      {
+        type: "heading",
+        text: "El que no és aquest buit",
+      },
+      {
+        type: "paragraph",
+        text: "Convé distingir aquest buit d'altres experiències que s'hi assemblen. No és depressió, encara que comparteixi algun tret: el buit del logro no és una tristesa sostinguda ni una pèrdua de capacitat de gaudir. És més aviat una desorientació, una sensació d'haver perdut un horitzó sense que n'aparegui un de nou. Tampoc és ingratitud: pots valorar profundament el que tens i, alhora, sentir que això no coincideix amb el que esperaves sentir. I no és necessàriament un senyal que la vida sigui dolenta: pot ser, paradoxalment, que estàs prou bé per primera vegada per poder mirar aquesta pregunta a la cara.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et donarà una nova meta per substituir la que s'ha complert. Ni et dirà que has de sentir-te bé perquè ja ho tens tot. El que pot fer és oferir un espai on mirar aquest buit sense presses, sense condemnes i sense la pressió d'haver de solucionar-lo de pressa. Un espai on la pregunta «què vull ara» pugui existir sense que la resposta hagi d'arribar immediatament.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar aquest procés implica, sovint, revisar la teva història: què et vas proposar, per què, què esperaves que passés dins teu quan arribessis, i què has descobert en el camí. Implica, també, mirar la relació entre la persona que perseguia i la persona que ha arribat, i preguntar-te si són la mateixa o si, en algun moment del camí, et vas anar transformant sense adonar-te'n. I implica, sobretot, recuperar el contacte amb valors que no depenguin de l'assoliment: maneres de viure que et sustenin tant si arribes com si no, tant si tens com si estàs en camí.",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresa, en aquest punt, no és tenir resolt el buit. És poder habitar-lo sense que et tombi, i deixar que la pregunta que habita dins trobi, amb temps i companyia, una resposta que no sigui una altra meta sinó una manera de viure més honesta amb qui ets ara.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "És normal sentir buit després d'assolir una meta important?",
+            answer:
+              "Sí, i és més freqüent del que sembla. No és un símptoma d'ingratitud ni de fracàs: és una resposta natural quan la identitat s'ha construït al voltant de la recerca i la recerca s'ha complert. El buit no significa que l'assoliment no serveixi: significa que l'assoliment, per si sol, no basta per donar sentit, i que cal mirar què hi ha sota per trobar una altra manera de sostenir-se. Una persona que pot reconèixer això no és un ingrata: és una persona que està creixent.",
+          },
+          {
+            question:
+              "Com distingeixo aquest buit d'un estat depresiu?",
+            answer:
+              "El buit del logro és una desorientació: has perdut un horitzó i encara no n'ha aparegut un de nou. Una persona amb aquest buit pot gaudir de coses, pot connectar amb altres i pot mantenir el seu funcionament; el que li costa és trobar sentit a allò que abans el tenia. Un estat depresiu, en canvi, afecta de manera més àmplia: hi ha tristesa sostinguda, pèrdua de capacitat de gaudir, retracció de relacions i deteriorament del funcionament diari. Si tens dubtes, un psicòleg pot ajudar a distingir, perquè la diferència no sempre és clara des de dins.",
+          },
+          {
+            question:
+              "He de canviar alguna cosa important per sortir d'aquest buit?",
+            answer:
+              "No necessàriament. A vegades el buit revela que alguna cosa no encaixa i cal fer un canvi. Altres vegades, el canvi no és extern: és intern. Consisteix a trobar una altra manera d'habitar allò que ja tens, una manera més connectada amb els teus valors i menys dependent de l'assoliment com a font de sentit. La teràpia pot ajudar a distingir quin dels dos casos és el teu, sense que la resposta hagi de ser «canvia-ho tot» ni «aguanta-ho tal com està».",
+          },
+          {
+            question:
+              "Això vol dir que no hauria de plantejar-me objectius?",
+            answer:
+              "No. Els objectius són eines vàlides: donen direcció, estructuren els dies, poden generar creixement. La qüestió no és si tenir-ne, sinó quin lloc ocupen en la teva identitat. Quan els objectius són punts d'arribada connectats amb valors que reconeixes com a teus, l'assoliment no deixen buit: deixa una sensació de coherència. Quan els objectius són el sostén de la identitat, arribar-hi revela que allò que sostenia ja no opera. No es tracta de deixar d'assolir: es tracta de no demanar a l'assoliment el que no pot donar.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si has arribat on et vas proposar arribar i, en lloc de tranquil·litat, trobes una pregunta que no saps respondre, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos on el sentit es treballa amb temps i profunditat —no perquè t'indiquem què fer amb allò que has aconseguit, sinó perquè puguis habitar-ho amb més coherència i menys buit.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una experiencia que cuesta de explicar porque, vista desde fuera, no tiene sentido. Tienes lo que te propusiste tener. El trabajo que querías, la casa que querías, la pareja o el proyecto o el reconocimiento que querías. Quizá no todo a la vez, pero bastantes cosas. Y un día, sin que pase nada malo, descubres que no llena. No estás triste en el sentido clásico. No estás en crisis. Estás en un lugar más confuso: en el lugar donde llegar no ha resultado ser lo que se pensaba que sería.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: el vacío que aparece después de conseguir lo que se perseguía no es un síntoma de ingratitud ni de fracaso. Es un fenómeno que aparece cuando la identidad se ha construido alrededor de la búsqueda —la persecución de una meta— y la meta se ha cumplido. Llegar cambia la relación contigo mismo, porque aquello que te definía era el hecho de caminar hacia algo, y ahora hay que encontrar otra manera de sostenerse. La terapia puede ayudar a mirar este vacío sin prisas ni condenas, y a descubrir qué necesitas ahora que ya no es llegar.",
+      },
+      {
+        type: "heading",
+        text: "La promesa del logro y su silencio",
+      },
+      {
+        type: "paragraph",
+        text: "La cultura que nos rodea habla del logro como si fuera una respuesta. Trabaja duro, persiste, supera obstáculos, y llegarás. Y cuando llegues, dice la promesa, vendrá la satisfacción. Es una idea tan extendida que pocas personas la cuestionan hasta que la experimentan en primera persona. Llegan a donde se proponían, esperan sentir lo que la promesa les había dicho que sentirían, y lo que aparece no coincide. A veces aparece alivio: «gracias, ya estamos». A veces aparece un vacío repentino, como si el motor que lo movía todo se apagara de golpe. Y a veces aparece una inquietud sorda que no se sabe nombrar.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto no significa que el logro no sirva para nada. Significa que la satisfacción que promete no siempre viene con el logro, y que la relación entre conseguir y sentirte bien es más compleja de lo que nos vendieron. La confusión no es un error tuyo: es el resultado de un malentendido cultural que confunde objetivos con sentido.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la identidad se construye sobre la búsqueda",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas personas llegan a la madurez adulta habiendo construido su identidad alrededor de un objetivo. Quizá era una carrera profesional, quizá era una red de relaciones sólida, quizá era unos ingresos, quizá era un estatus, quizá era una cierta manera de vivir. Durante años, ese objetivo ha sido el motor que daba sentido a las decisiones, que justificaba los sacrificios, que organizaba los días. La identidad no era «quién soy» sino «quién voy siendo».",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando el objetivo se cumple, esa identidad se queda sin suelo. No es que dejes de ser quien eras: es que la manera de serlo —la persecución, el camino, la tensión hacia delante— ya no opera. Y aquello que te sostenía desde fuera (la meta que te esperaba) ya no está para sostenerte. Quedan tú y la pregunta de qué quieres hacer ahora con eso que has conseguido, una pregunta que pocas personas se hacen cuando aún están en plena búsqueda porque parecería una distracción.",
+      },
+      {
+        type: "heading",
+        text: "El vacío no es ausencia: es presencia de una pregunta",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que llamamos vacío, a menudo, no es una falta. Es una pregunta que ha empezado a tener espacio. Durante años, la pregunta «¿qué quiero?» tenía una respuesta clara y externa: aquel ascenso, aquella relación, aquella casa, aquel reconocimiento. Cuando la respuesta ya no es externa porque ya se ha cumplido, la pregunta se queda sola contigo, y quizá por primera vez en mucho tiempo no hay nada que la distraiga.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica por qué el vacío puede aparecer precisamente cuando todo está bien. No es que falte algo: es que por fin hay suficiente silencio para que la pregunta que llevabas dentro pueda sentirse. Y esa pregunta no siempre es agradable. Puede ser «¿esta vida es la que quería, o es la que me propuse conseguir sin preguntarme si la quería?». Puede ser «¿qué hay aquí para mí, más allá de haberlo conseguido?». Puede ser «¿y si esto no era lo que me faltaba?».",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta tanto decirlo en voz alta",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las cosas que hace difícil este vacío es que cuesta compartirlo. Decir «he conseguido lo que quería y no me siento como pensaba que me sentiría» suena, desde fuera, como un lujo: un problema de quien ya ha resuelto los básicos. Y, a veces, la misma persona que lo siente no se atreve a decirlo porque teme que suene a ingratitud, a capricho de quien no sabe valorar lo que tiene.",
+      },
+      {
+        type: "paragraph",
+        text: "Pero el vacío no es un capricho. Es una experiencia interna que tiene que ver con la identidad y el sentido, no con los recursos materiales. Una persona puede tener todo lo que culturalmente se considera éxito y sentir, a la vez, que aquello no coincide con su experiencia interna. Y callarlo no le hace más agradecido: le hace más solo, porque carga una pregunta que no puede compartir sin sentirse mal explicado.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre objetivos y valores",
+      },
+      {
+        type: "paragraph",
+        text: "Una distinción que ayuda: los objetivos son puntos de llegada. Los valores son direcciones. Un objetivo se cumple o no se cumple, y cuando se cumple, deja de ser motor. Un valor no se cumple: se practica, se vive, se pone en juego cada día. La coherencia no viene de conseguir objetivos: viene de vivir alineado con valores que reconoces como tuyos.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando una persona ha construido su vida sobre objetivos sin conectarlos con valores, el logro puede revelar esa desconexión. No es que los objetivos estén mal: es que no eran suficientes, y no se sabía. El vacío que aparece entonces no es un error: es la primera oportunidad de mirar qué hay debajo de los objetivos, qué querías realmente cuando querías aquello, y qué valores puedes usar como brújula ahora que llegar ya no es lo que te define.",
+      },
+      {
+        type: "heading",
+        text: "Lo que no es este vacío",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene distinguir este vacío de otras experiencias que se le parecen. No es depresión, aunque comparta algún rasgo: el vacío del logro no es una tristeza sostenida ni una pérdida de capacidad de disfrutar. Es más bien una desorientación, una sensación de haber perdido un horizonte sin que aparezca uno nuevo. Tampoco es ingratitud: puedes valorar profundamente lo que tienes y, a la vez, sentir que eso no coincide con lo que esperabas sentir. Y no es necesariamente una señal de que la vida esté mal: puede ser, paradójicamente, que estás lo suficientemente bien por primera vez para poder mirar esta pregunta a la cara.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te dará una nueva meta para sustituir la que se ha cumplido. Ni te dirá que debes sentirte bien porque ya lo tienes todo. Lo que puede hacer es ofrecer un espacio donde mirar este vacío sin prisas, sin condenas y sin la presión de tener que solucionarlo rápido. Un espacio donde la pregunta «¿qué quiero ahora?» pueda existir sin que la respuesta tenga que llegar inmediatamente.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar este proceso implica, a menudo, revisar tu historia: qué te propusiste, por qué, qué esperabas que pasara dentro de ti cuando llegaras, y qué has descubierto en el camino. Implica, también, mirar la relación entre la persona que perseguía y la persona que ha llegado, y preguntarte si son la misma o si, en algún momento del camino, te fuiste transformando sin darte cuenta. E implica, sobre todo, recuperar el contacto con valores que no dependan del logro: maneras de vivir que te sostengan tanto si llegas como si no, tanto si tienes como si estás en camino.",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez, en este punto, no es tener resuelto el vacío. Es poder habitarlo sin que te derrumbe, y dejar que la pregunta que habita dentro encuentre, con tiempo y compañía, una respuesta que no sea otra meta sino una manera de vivir más honesta con quien eres ahora.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Es normal sentir vacío después de alcanzar una meta importante?",
+            answer:
+              "Sí, y es más frecuente de lo que parece. No es un síntoma de ingratitud ni de fracaso: es una respuesta natural cuando la identidad se ha construido alrededor de la búsqueda y la búsqueda se ha cumplido. El vacío no significa que el logro no sirva: significa que el logro, por sí solo, no basta para dar sentido, y que hay que mirar qué hay debajo para encontrar otra manera de sostenerse. Una persona que puede reconocer esto no es una ingrata: es una persona que está creciendo.",
+          },
+          {
+            question:
+              "¿Cómo distingo este vacío de un estado depresivo?",
+            answer:
+              "El vacío del logro es una desorientación: has perdido un horizonte y aún no ha aparecido uno nuevo. Una persona con este vacío puede disfrutar de cosas, puede conectar con otros y puede mantener su funcionamiento; lo que le cuesta es encontrar sentido a aquello que antes lo tenía. Un estado depresivo, en cambio, afecta de manera más amplia: hay tristeza sostenida, pérdida de capacidad de disfrutar, retracción de relaciones y deterioro del funcionamiento diario. Si tienes dudas, un psicólogo puede ayudar a distinguir, porque la diferencia no siempre es clara desde dentro.",
+          },
+          {
+            question:
+              "¿Tengo que cambiar algo importante para salir de este vacío?",
+            answer:
+              "No necesariamente. A veces el vacío revela que algo no encaja y hay que hacer un cambio. Otras veces, el cambio no es externo: es interno. Consiste en encontrar otra manera de habitar lo que ya tienes, una manera más conectada con tus valores y menos dependiente del logro como fuente de sentido. La terapia puede ayudar a distinguir cuál de los dos casos es el tuyo, sin que la respuesta tenga que ser «cámbialo todo» ni «aguantarlo tal como está».",
+          },
+          {
+            question:
+              "¿Esto significa que no debería plantearme objetivos?",
+            answer:
+              "No. Los objetivos son herramientas válidas: dan dirección, estructuran los días, pueden generar crecimiento. La cuestión no es si tenerlos, sino qué lugar ocupan en tu identidad. Cuando los objetivos son puntos de llegada conectados con valores que reconoces como tuyos, el logro no deja vacío: deja una sensación de coherencia. Cuando los objetivos son el sostén de la identidad, llegar a ellos revela que aquello que sostenía ya no opera. No se trata de dejar de lograr: se trata de no pedirle al logro lo que no puede dar.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si has llegado a donde te propusiste llegar y, en lugar de tranquilidad, encuentras una pregunta que no sabes responder, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos donde el sentido se trabaja con tiempo y profundidad —no porque te indiquemos qué hacer con aquello que has conseguido, sino para que puedas habitarlo con más coherencia y menos vacío.",
+      },
+    ],
+  },
 ];
