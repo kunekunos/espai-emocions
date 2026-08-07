@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { allArticles } from "@/lib/all-articles";
+import { landings } from "@/lib/landings";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const siteUrl = "https://espaiemocions.es";
@@ -26,5 +27,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticPages, ...blogPages];
+  const landingPages: MetadataRoute.Sitemap = landings.map((landing) => ({
+    url: `${siteUrl}/${landing.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
+  return [...staticPages, ...landingPages, ...blogPages];
 }
