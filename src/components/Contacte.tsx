@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useEffect, useState } from "react";
+import Link from "next/link";
 import { Check, Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import { useLanguage } from "@/lib/i18n";
 import { trackContactClick, trackGenerateLead } from "@/lib/analytics";
@@ -254,7 +255,7 @@ export function Contacte() {
                 </div>
                 <label className="flex items-start gap-3 text-sm leading-relaxed text-foreground/70">
                   <input type="checkbox" className="mt-1 size-4 accent-primary" required checked={form.consent} onChange={(event) => update("consent", event.target.checked)} />
-                  <span>{copy.consent} <a href="/privacidad" className="underline underline-offset-2 hover:text-primary">{copy.privacy}</a>. *</span>
+                  <span>{copy.consent} <Link href="/privacidad" className="underline underline-offset-2 hover:text-primary">{copy.privacy}</Link>. *</span>
                 </label>
                 <button type="submit" disabled={status === "sending"} className="w-full rounded-xl bg-primary px-8 py-3.5 text-base font-medium text-primary-foreground hover:brightness-105 transition-all duration-300 disabled:cursor-wait disabled:opacity-60">
                   {status === "sending" ? copy.sending : copy.submit}
