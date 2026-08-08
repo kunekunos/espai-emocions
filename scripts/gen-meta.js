@@ -12,13 +12,16 @@ function extractMeta(file) {
   }));
 }
 
-const meta = [
-  ...extractMeta('src/lib/articles.ts'),
-  ...extractMeta('src/lib/articles-part2.ts'),
-  ...extractMeta('src/lib/articles-part3.ts'),
-  ...extractMeta('src/lib/articles-part4.ts'),
-  ...extractMeta('src/lib/articles-part5.ts')
-];
+const articleFiles = fs
+  .readdirSync('src/lib')
+  .filter(file => /^articles(?:-part\d+)?\.ts$/.test(file))
+  .sort((a, b) => {
+    const partA = a === 'articles.ts' ? 1 : Number(a.match(/part(\d+)/)?.[1]);
+    const partB = b === 'articles.ts' ? 1 : Number(b.match(/part(\d+)/)?.[1]);
+    return partA - partB;
+  });
+
+const meta = articleFiles.flatMap(file => extractMeta(`src/lib/${file}`));
 
 const seen = new Set();
 const unique = meta.filter(a => {

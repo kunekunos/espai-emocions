@@ -13,15 +13,33 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan tot costa més: els estats depressius a l'edat adulta",
+    "titleES": "Cuando todo cuesta más: los estados depresivos en la edad adulta",
+    "excerptCA": "No sempre és tristesa. De vegades és un apagament: allò que t'interessava ja no t'interessa, allò que et donava energia ara et pesa, i el futur que abans projectaves s'ha tornat una idea neutra. Els estats depressius a l'edat adulta rarament coincideixen amb la imatge que en tenim. Aquí explorem com es presenten realment, per què apareixen amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-los sense que es converteixin en una identitat.",
+    "excerptES": "No siempre es tristeza. A veces es un apagamiento: lo que te interesaba ya no te interesa, lo que te daba energía ahora te pesa, y el futuro que antes proyectabas se ha vuelto una idea neutra. Los estados depresivos en la edad adulta raramente coinciden con la imagen que tenemos de ellos. Aquí exploramos cómo se presentan realmente, por qué aparecen con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlos sin que se conviertan en una identidad.",
+    "datePublished": "2026-08-09"
+  },
+  {
+    "slug": "logro-que-no-llena-cuando-llegar-no-es-suficiente",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Quan arribar no basta: el buit que apareix després d'assolir el que es perseguia",
+    "titleES": "Cuando llegar no basta: el vacío que aparece después de conseguir lo que se perseguía",
+    "excerptCA": "Hi ha un moment, sobretot entre els 35 i els 50, en què arribes on volies arribar i descobreixes que no omple. La feina, la casa, la relació, el reconeixement: tot està més o menys on t'havies proposat portar-ho. I, tanmateix, en lloc de tranquil·litat, apareix una pregunta incòmoda: «¿i això és tot?». Aquest article explora per què l'assoliment no sempre coincideix amb la satisfacció, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest buit que no és un error: és una pregunta.",
+    "excerptES": "Hay un momento, sobre todo entre los 35 y los 50, en que llegas a donde querías llegar y descubres que no llena. El trabajo, la casa, la relación, el reconocimiento: todo está más o menos donde te habías propuesto llevarlo. Y, sin embargo, en lugar de tranquilidad, aparece una pregunta incómoda: «¿y esto es todo?». Este artículo explora por qué el logro no siempre coincide con la satisfacción, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer ese vacío que no es un error: es una pregunta.",
+    "datePublished": "2026-08-07"
+  },
+  {
     "slug": "padres-envejecen-duelo-anticipatorio-adultos",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
     "titleCA": "Quan els pares envelleixen: el dol anticipatori i el canvi de rols a la maduresa adulta",
     "titleES": "Cuando los padres envejecen: el duelo anticipatorio y el cambio de roles en la madurez adulta",
-    "excerptCA":
-      "Hi ha un moment en què adones que els teus pares ja no són els que sostenien. Són els que necessiten ser sostinguts. Aquest canvi, que sembla pràctic, és en realitat un terratrèmol d'identitat: el de deixar de ser fill per convertir-te en cuidador dels qui et van criar. Aquí explorem què és el dol anticipatori, per què el canvi de rols amb els pares és una de les transicions més complexes de la maduresa adulta i com pot ajudar la teràpia a recórrer-la sense que la culpa o la tristesa et tombin.",
-    "excerptES":
-      "Hay un momento en que te das cuenta de que tus padres ya no son quienes sostenían. Son quienes necesitan ser sostenidos. Este cambio, que parece práctico, es en realidad un terremoto de identidad: el de dejar de ser hijo para convertirte en cuidador de quienes te criaron. Aquí exploramos qué es el duelo anticipatorio, por qué el cambio de roles con los padres es una de las transiciones más complejas de la madurez adulta y cómo puede ayudar la terapia a recorrerla sin que la culpa o la tristeza te derrumben.",
+    "excerptCA": "Hi ha un moment en què adones que els teus pares ja no són els que sostenien. Són els que necessiten ser sostinguts. Aquest canvi, que sembla pràctic, és en realitat un terratrèmol d'identitat: el de deixar de ser fill per convertir-te en cuidador dels qui et van criar. Aquí explorem què és el dol anticipatori, per què el canvi de rols amb els pares és una de les transicions més complexes de la maduresa adulta i com pot ajudar la teràpia a recórrer-la sense que la culpa o la tristesa et tombin.",
+    "excerptES": "Hay un momento en que te das cuenta de que tus padres ya no son quienes sostenían. Son quienes necesitan ser sostenidos. Este cambio, que parece práctico, es en realidad un terremoto de identidad: el de dejar de ser hijo para convertirte en cuidador de quienes te criaron. Aquí exploramos qué es el duelo anticipatorio, por qué el cambio de roles con los padres es una de las transiciones más complejas de la madurez adulta y cómo puede ayudar la terapia a recorrerla sin que la culpa o la tristeza te derrumben.",
     "datePublished": "2026-08-06"
   },
   {
@@ -30,10 +48,8 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "Pareja",
     "titleCA": "Discutir sense trencar: per què el conflicte no és el que danya la parella",
     "titleES": "Discutir sin romper: por qué el conflicto no es lo que daña la pareja",
-    "excerptCA":
-      "Hi ha parelles que no discuteixen mai. I això, que semblaria un signe de salut, de vegades és el contrari. El conflicte no és el que danya la relació: ho fa la manera com es viu, o la impossibilitat de viure'l. Aquí explorem per què discutir bé és una habilitat que es construeix, què diferencia una discussió que acosta d'una que fereix, i com pot ajudar la teràpia de parella a transformar el conflicte en un espai de coneixement mutu.",
-    "excerptES":
-      "Hay parejas que no discuten nunca. Y eso, que parecería un signo de salud, a veces es lo contrario. El conflicto no es lo que daña la relación: lo hace la forma en que se vive, o la imposibilidad de vivirlo. Aquí exploramos por qué discutir bien es una habilidad que se construye, qué diferencia una discusión que acerca de una que hiere, y cómo puede ayudar la terapia de pareja a transformar el conflicto en un espacio de conocimiento mutuo.",
+    "excerptCA": "Hi ha parelles que no discuteixen mai. I això, que semblaria un signe de salut, de vegades és el contrari. El conflicte no és el que danya la relació: ho fa la manera com es viu, o la impossibilitat de viure'l. Aquí explorem per què discutir bé és una habilitat que es construeix, què diferencia una discussió que acosta d'una que fereix, i com pot ajudar la teràpia de parella a transformar el conflicte en un espai de coneixement mutu.",
+    "excerptES": "Hay parejas que no discuten nunca. Y eso, que parecería un signo de salud, a veces es lo contrario. El conflicto no es lo que daña la relación: lo hace la forma en que se vive, o la imposibilidad de vivirlo. Aquí exploramos por qué discutir bien es una habilidad que se construye, qué diferencia una discusión que acerca de una que hiere, y cómo puede ayudar la terapia de pareja a transformar el conflicto en un espacio de conocimiento mutuo.",
     "datePublished": "2026-08-05"
   },
   {
@@ -42,18 +58,16 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "Problemas relacionales",
     "titleCA": "Quan l'amistat canvia als quaranta: relacions que es transformen a la maduresa",
     "titleES": "Cuando la amistad cambia a los cuarenta: relaciones que se transforman en la madurez",
-    "excerptCA":
-      "Hi ha pèrdues que no es fan per la mort ni per una baralla, sinó pel silenci. Un dia t'adones que fa mesos que no parles amb algú que era fonamental, i no hi ha un motiu concret: hi ha una distància que s'ha instal·lat sense avisar. Aquest article explora per què les amistats es transformen a la maduresa adulta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest dol particular —el de relacions que no acaben però ja no són el que eren.",
-    "excerptES":
-      "Hay pérdidas que no se hacen por la muerte ni por una pelea, sino por el silencio. Un día te das cuenta de que hace meses que no hablas con alguien que era fundamental, y no hay un motivo concreto: hay una distancia que se ha instalado sin avisar. Este artículo explora por qué las amistades se transforman en la madurez adulta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer este duelo particular —el de relaciones que no terminan pero ya no son lo que eran.",
+    "excerptCA": "Hi ha pèrdues que no es fan per la mort ni per una baralla, sinó pel silenci. Un dia t'adones que fa mesos que no parles amb algú que era fonamental, i no hi ha un motiu concret: hi ha una distància que s'ha instal·lat sense avisar. Aquest article explora per què les amistats es transformen a la maduresa adulta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest dol particular —el de relacions que no acaben però ja no són el que eren.",
+    "excerptES": "Hay pérdidas que no se hacen por la muerte ni por una pelea, sino por el silencio. Un día te das cuenta de que hace meses que no hablas con alguien que era fundamental, y no hay un motivo concreto: hay una distancia que se ha instalado sin avisar. Este artículo explora por qué las amistades se transforman en la madurez adulta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer este duelo particular —el de relaciones que no terminan pero ya no son lo que eran.",
     "datePublished": "2026-08-02"
   },
   {
     "slug": "paralisis-decision-adulta-cuando-elegir-agota",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
-    "titleCA": "Quan elegir esgota: la paralisi decisions a l'edat adulta",
-    "titleES": "Cuando elegir agota: la paralisis de las decisiones en la edad adulta",
+    "titleCA": "Quan elegir esgota: la paràlisi decisions a l'edat adulta",
+    "titleES": "Cuando elegir agota: la parálisis de las decisiones en la edad adulta",
     "excerptCA": "Hi ha un tipus de cansament que no ve de fer massa coses, sinó de no poder decidir. Cada decisió important —canviar de feina, sortir d'una relació, tornar a començar— sembla exigir una certesa que no arriba. I mentre la decisió es demora, la vida avança en pilot automàtic. Aquí explorem per què costa tant decidir a la maduresa adulta, què hi té a veure la por a equivocar-se i com pot ajudar la teràpia a recuperar la capacitat d'elegir sense que això es converteixi en una nova càrrega.",
     "excerptES": "Hay un tipo de cansancio que no viene de hacer demasiadas cosas, sino de no poder decidir. Cada decisión importante —cambiar de trabajo, salir de una relación, volver a empezar— parece exigir una certeza que no llega. Y mientras la decisión se demora, la vida avanza en piloto automático. Aquí exploramos por qué cuesta tanto decidir en la madurez adulta, qué tiene que ver el miedo a equivocarse y cómo puede ayudar la terapia a recuperar la capacidad de elegir sin que eso se convierta en una nueva carga.",
     "datePublished": "2026-08-01"
@@ -64,10 +78,8 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "¿Necesito un psicólogo?",
     "titleCA": "La culpa que no descansa: quan sentir-se responsable es converteix en càrrega",
     "titleES": "La culpa que no descansa: cuando sentirse responsable se convierte en carga",
-    "excerptCA":
-      "Hi ha una culpa que no es correspon amb res concret que hagis fet malament. És una sensació difusa, un fons de compte pendent. Et sents responsable dels pares que envelleixen, de la parella que no està bé, dels fills encara que ja siguin adults, de decisions que vas prendre i de les que no vas prendre. I aquesta responsabilitat, que en el seu moment va ser un signe de maduresa, s'ha tornat una càrrega que no es baixa. Aquí explorem què és aquesta culpa crònica, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a distingir el que és teu del que no ho és.",
-    "excerptES":
-      "Hay una culpa que no se corresponde con nada concreto que hayas hecho mal. Es una sensación difusa, un fondo de cuenta pendiente. Te sientes responsable de tus padres que envejecen, de tu pareja que no está bien, de tus hijos aunque ya sean adultos, de decisiones que tomaste y de las que no tomaste. Y esa responsabilidad, que en su momento fue un signo de madurez, se ha vuelto una carga que no se baja. Aquí exploramos qué es esa culpa crónica, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a distinguir lo que es tuyo de lo que no lo es.",
+    "excerptCA": "Hi ha una culpa que no es correspon amb res concret que hagis fet malament. És una sensació difusa, un fons de compte pendent. Et sents responsable dels pares que envelleixen, de la parella que no està bé, dels fills encara que ja siguin adults, de decisions que vas prendre i de les que no vas prendre. I aquesta responsabilitat, que en el seu moment va ser un signe de maduresa, s'ha tornat una càrrega que no es baixa. Aquí explorem què és aquesta culpa crònica, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a distingir el que és teu del que no ho és.",
+    "excerptES": "Hay una culpa que no se corresponde con nada concreto que hayas hecho mal. Es una sensación difusa, un fondo de cuenta pendiente. Te sientes responsable de tus padres que envejecen, de tu pareja que no está bien, de tus hijos aunque ya sean adultos, de decisiones que tomaste y de las que no tomaste. Y esa responsabilidad, que en su momento fue un signo de madurez, se ha vuelto una carga que no se baja. Aquí exploramos qué es esa culpa crónica, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a distinguir lo que es tuyo de lo que no lo es.",
     "datePublished": "2026-07-31"
   },
   {
@@ -76,23 +88,9 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "Cambios vitales",
     "titleCA": "El dol per la vida que no ha estat: quan el que no va passar també pesa",
     "titleES": "El duelo por la vida que no fue: cuando lo que no pasó también pesa",
-    "excerptCA":
-      "Hi ha un tipus de dol que no es fa per algú que se'n va, sinó per una vida que no va arribar a ser. La relació que no va durar, els fills que no van arribar, la carrera que no es va triar, la ciutat on no es va quedar. No sempre té un nom clar, però pesa. Aquí explorem què és aquest dol per la vida que no ha estat, per què apareix amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-lo sense que es converteixi en ressentiment.",
-    "excerptES":
-      "Hay un tipo de duelo que no se hace por alguien que se va, sino por una vida que no llegó a ser. La relación que no duró, los hijos que no llegaron, la carrera que no se eligió, la ciudad donde no se quedó. No siempre tiene un nombre claro, pero pesa. Aquí exploramos qué es este duelo por la vida que no fue, por qué aparece con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlo sin que se convierta en resentimiento.",
+    "excerptCA": "Hi ha un tipus de dol que no es fa per algú que se'n va, sinó per una vida que no va arribar a ser. La relació que no va durar, els fills que no van arribar, la carrera que no es va triar, la ciutat on no es va quedar. No sempre té un nom clar, però pesa. Aquí explorem què és aquest dol per la vida que no ha estat, per què apareix amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-lo sense que es converteixi en ressentiment.",
+    "excerptES": "Hay un tipo de duelo que no se hace por alguien que se va, sino por una vida que no llegó a ser. La relación que no duró, los hijos que no llegaron, la carrera que no se eligió, la ciudad donde no se quedó. No siempre tiene un nombre claro, pero pesa. Aquí exploramos qué es este duelo por la vida que no fue, por qué aparece con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlo sin que se convierta en resentimiento.",
     "datePublished": "2026-07-30"
-  },
-  {
-    "slug": "identidad-edad-adulta-no-reconoces",
-    "categoryCA": "Canvis vitals",
-    "categoryES": "Cambios vitales",
-    "titleCA": "Quan no et reconeixes: la pregunta per la identitat a l'edat adulta",
-    "titleES": "Cuando no te reconoces: la pregunta por la identidad en la edad adulta",
-    "excerptCA":
-      "Hi ha un tipus de malestar que no s'assembla a la tristesa ni a l'ansietat. És una sensació de no reconèixer-se: la persona que ets en allò visible ja no coincideix amb la que ets en allò que no es veu. Aquí explorem què és la pregunta per la identitat a l'edat adulta, per què apareix amb freqüència entre els 35 i els 55, i com pot ajudar la teràpia a recórrer-la sense que et tombi.",
-    "excerptES":
-      "Hay un tipo de malestar que no se parece a la tristeza ni a la ansiedad. Es una sensación de no reconocerse: la persona que eres en lo visible ya no coincidece con la que eres en lo que no se ve. Aquí exploramos qué es la pregunta por la identidad en la edad adulta, por qué aparece con frecuencia entre los 35 y los 55, y cómo puede ayudar la terapia a recorrerla sin que te derrumbe.",
-    "datePublished": "2026-07-28"
   },
   {
     "slug": "pedir-ayuda-adultos-competentes",
@@ -100,11 +98,19 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "¿Necesito un psicólogo?",
     "titleCA": "Quan has estat qui sosté: la dificultat de demanar ajuda a l'edat adulta",
     "titleES": "Cuando has sido quien sostiene: la dificultad de pedir ayuda en la edad adulta",
-    "excerptCA":
-      "Hi ha persones que porten anys sent qui resol, qui aguanta, qui organitza. Ho fan bé, i això es nota. Però un dia descobreixen que no saben demanar ajuda —ni identificar-la com a necessitat— perquè la seva identitat s'ha construït al voltant de sostenir, no de ser sostingut. Aquest article explora per què costa tant demanar ajuda a la maduresa adulta, quin preu té la competència quan es converteix en trincher a, i com pot ajudar la teràpia a reprendre una habilitat que no és un luxe: una condició per seguir.",
-    "excerptES":
-      "Hay personas que llevan años siendo quien resuelve, quien aguanta, quien organiza. Lo hacen bien, y eso se nota. Pero un día descubren que no saben pedir ayuda —ni identificarla como necesidad— porque su identidad se ha construido alrededor de sostener, no de ser sostenido. Este artículo explora por qué cuesta tanto pedir ayuda en la madurez adulta, qué precio tiene la competencia cuando se convierte en trinchera, y cómo puede ayudar la terapia a recuperar una habilidad que no es un lujo: una condición para seguir.",
+    "excerptCA": "Hi ha persones que porten anys sent qui resol, qui aguanta, qui organitza. Ho fan bé, i això es nota. Però un dia descobreixen que no saben demanar ajuda —ni identificar-la com a necessitat— perquè la seva identitat s'ha construït al voltant de sostenir, no de ser sostingut. Aquest article explora per què costa tant demanar ajuda a la maduresa adulta, quin preu té la competència quan es converteix en trincher a, i com pot ajudar la teràpia a reprendre una habilitat que no és un luxe: una condició per seguir.",
+    "excerptES": "Hay personas que llevan años siendo quien resuelve, quien aguanta, quien organiza. Lo hacen bien, y eso se nota. Pero un día descubren que no saben pedir ayuda —ni identificarla como necesidad— porque su identidad se ha construido alrededor de sostener, no de ser sostenido. Este artículo explora por qué cuesta tanto pedir ayuda en la madurez adulta, qué precio tiene la competencia cuando se convierte en trinchera, y cómo puede ayudar la terapia a recuperar una habilidad que no es un lujo: una condición para seguir.",
     "datePublished": "2026-07-29"
+  },
+  {
+    "slug": "identidad-edad-adulta-no-reconoces",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Quan no et reconeixes: la pregunta per la identitat a l'edat adulta",
+    "titleES": "Cuando no te reconoces: la pregunta por la identidad en la edad adulta",
+    "excerptCA": "Hi ha un tipus de malestar que no s'assembla a la tristesa ni a l'ansietat. És una sensació de no reconèixer-se: la persona que ets en allò visible ja no coincideix amb la que ets en allò que no es veu. Aquí explorem què és la pregunta per la identitat a l'edat adulta, per què apareix amb freqüència entre els 35 i els 55, i com pot ajudar la teràpia a recórrer-la sense que et tombi.",
+    "excerptES": "Hay un tipo de malestar que no se parece a la tristeza ni a la ansiedad. Es una sensación de no reconocerse: la persona que eres en lo visible ya no coincidece con la que eres en lo que no se ve. Aquí exploramos qué es la pregunta por la identidad en la edad adulta, por qué aparece con frecuencia entre los 35 y los 55, y cómo puede ayudar la terapia a recorrerla sin que te derrumbe.",
+    "datePublished": "2026-07-28"
   },
   {
     "slug": "cuerpo-dice-cabeza-calla-somatizar-tension",
@@ -112,23 +118,9 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "¿Necesito un psicólogo?",
     "titleCA": "Quan el cos diu el que el cap calla: somatitzar la tensió emocional",
     "titleES": "Cuando el cuerpo dice lo que la cabeza calla: somatizar la tensión emocional",
-    "excerptCA":
-      "Hi ha malestars que no arriben a la paraula. Es queden al cos: un coll que no es deixa anar, un estómac que es tanca, una tensió que no marxa amb el descans. Somatitzar no és exagerar ni imaginar: és la manera com l'organisme expressa el que la consciència encara no ha pogut processar. Aquí expliquem com funciona aquesta relació entre cos i emoció, per què no és una qüestió de voluntat i quan convé acompanyar-la en teràpia.",
-    "excerptES":
-      "Hay malestares que no llegan a la palabra. Se quedan en el cuerpo: un cuello que no se suelta, un estómago que se cierra, una tensión que no se va con el descanso. Somatizar no es exagerar ni imaginar: es la forma en que el organismo expresa lo que la conciencia aún no ha podido procesar. Aquí explicamos cómo funciona esta relación entre cuerpo y emoción, por qué no es una cuestión de voluntad y cuándo conviene acompañarla en terapia.",
+    "excerptCA": "Hi ha malestars que no arriben a la paraula. Es queden al cos: un coll que no es deixa anar, un estómac que es tanca, una tensió que no marxa amb el descans. Somatitzar no és exagerar ni imaginar: és la manera com l'organisme expressa el que la consciència encara no ha pogut processar. Aquí expliquem com funciona aquesta relació entre cos i emoció, per què no és una qüestió de voluntat i quan convé acompanyar-la en teràpia.",
+    "excerptES": "Hay malestares que no llegan a la palabra. Se quedan en el cuerpo: un cuello que no se suelta, un estómago que se cierra, una tensión que no se va con el descanso. Somatizar no es exagerar ni imaginar: es la forma en que el organismo expresa lo que la conciencia aún no ha podido procesar. Aquí explicamos cómo funciona esta relación entre cuerpo y emoción, por qué no es una cuestión de voluntad y cuándo conviene acompañarla en terapia.",
     "datePublished": "2026-07-27"
-  },
-  {
-    "slug": "malestar-sin-nombre-cuando-algo-no-encaixa",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Quan alguna cosa no encaixa però no saps dir què: el malestar sense nom",
-    "titleES": "Cuando algo no encaja pero no sabes decir qué: el malestar sin nombre",
-    "excerptCA":
-      "Hi ha un tipus de malestar que no encaixa en cap categoria clara. No és tristesa, no és ansietat, no és una crisi. És una sensació difusa: alguna cosa no funciona, però no saps dir què. Aquest article explora què és aquest malestar sense nom, per què apareix sovint a la maduresa adulta i quan té sentit buscar acompanyament encara que no tinguis una queixa definida per explicar.",
-    "excerptES":
-      "Hay un tipo de malestar que no encaja en ninguna categoría clara. No es tristeza, no es ansiedad, no es una crisis. Es una sensación difusa: algo no funciona, pero no sabes decir qué. Este artículo explora qué es ese malestar sin nombre, por qué aparece a menudo en la madurez adulta y cuándo tiene sentido buscar acompañamiento aunque no tengas una queja definida que explicar.",
-    "datePublished": "2026-07-25"
   },
   {
     "slug": "soledad-edad-adulta-sentirse-solo",
@@ -136,11 +128,19 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "Cambios vitales",
     "titleCA": "La soledat a l'edat adulta: quan estar sol no és el mateix que sentir-se sol",
     "titleES": "La soledad en la edad adulta: cuando estar solo no es lo mismo que sentirse solo",
-    "excerptCA":
-      "La soledat és una de les experiències més comunes a l'edat adulta i, alhora, una de les més difícils de nombrar. No sempre coincideix amb l'aïllament: es pot estar envoltat de gent i sentir-se sol, o estar a soles i no sentir-se sol. Aquest article explora què hi ha darrere d'aquesta soledat que apareix als quaranta o als cinquanta, per què no és un fracàs social i quan convé acompanyar-la en teràpia.",
-    "excerptES":
-      "La soledad es una de las experiencias más comunes en la edad adulta y, a la vez, una de las más difíciles de nombrar. No siempre coincide con el aislamiento: se puede estar rodeado de gente y sentirse solo, o estar a solas y no sentirse solo. Este artículo explora qué hay detrás de esa soledad que aparece a los cuarenta o a los cincuenta, por qué no es un fracaso social y cuándo conviene acompañarla en terapia.",
+    "excerptCA": "La soledat és una de les experiències més comunes a l'edat adulta i, alhora, una de les més difícils de nombrar. No sempre coincideix amb l'aïllament: es pot estar envoltat de gent i sentir-se sol, o estar a soles i no sentir-se sol. Aquest article explora què hi ha darrere d'aquesta soledat que apareix als quaranta o als cinquanta, per què no és un fracàs social i quan convé acompanyar-la en teràpia.",
+    "excerptES": "La soledad es una de las experiencias más comunes en la edad adulta y, a la vez, una de las más difíciles de nombrar. No siempre coincide con el aislamiento: se puede estar rodeado de gente y sentirse solo, o estar a solas y no sentirse solo. Este artículo explora qué hay detrás de esa soledad que aparece a los cuarenta o a los cincuenta, por qué no es un fracaso social y cuándo conviene acompañarla en terapia.",
     "datePublished": "2026-07-26"
+  },
+  {
+    "slug": "malestar-sin-nombre-cuando-algo-no-encaixa",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan alguna cosa no encaixa però no saps dir què: el malestar sense nom",
+    "titleES": "Cuando algo no encaja pero no sabes decir qué: el malestar sin nombre",
+    "excerptCA": "Hi ha un tipus de malestar que no encaixa en cap categoria clara. No és tristesa, no és ansietat, no és una crisi. És una sensació difusa: alguna cosa no funciona, però no saps dir què. Aquest article explora què és aquest malestar sense nom, per què apareix sovint a la maduresa adulta i quan té sentit buscar acompanyament encara que no tinguis una queixa definida per explicar.",
+    "excerptES": "Hay un tipo de malestar que no encaja en ninguna categoría clara. No es tristeza, no es ansiedad, no es una crisis. Es una sensación difusa: algo no funciona, pero no sabes decir qué. Este artículo explora qué es ese malestar sin nombre, por qué aparece a menudo en la madurez adulta y cuándo tiene sentido buscar acompañamiento aunque no tengas una queja definida que explicar.",
+    "datePublished": "2026-07-25"
   },
   {
     "slug": "perfeccionismo-paraliza-adultos",
@@ -148,10 +148,8 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "¿Necesito un psicólogo?",
     "titleCA": "Quan el perfeccionisme deixa d'empènyer i comença a paralitzar",
     "titleES": "Cuando el perfeccionismo deja de empujar y empieza a paralizar",
-    "excerptCA":
-      "El perfeccionisme ha funcionat durant anys com un motor: t'ha portat lluny, t'ha fet fiable, t'ha donat reconeixement. Però hi ha un moment en què aquest mateix motor canvia de signe. Ja no empeny: paralitza. Les decisions s'eternitzen, els projectes no surten perquè mai estan prou a punt, i el cansament de sostenir un estàndard impossible comença a passar factura. Aquí expliquem per què el perfeccionisme es tomba contra qui el porta i quan convé buscar acompanyament.",
-    "excerptES":
-      "El perfeccionismo ha funcionado durante años como un motor: te ha llevado lejos, te ha hecho fiable, te ha dado reconocimiento. Pero hay un momento en que ese mismo motor cambia de signo. Ya no empuja: paraliza. Las decisiones se eternizan, los proyectos no salen porque nunca están lo bastante listos, y el cansancio de sostener un estándar imposible empieza a pasar factura. Aquí explicamos por qué el perfeccionismo se vuelve contra quien lo carga y cuándo conviene buscar acompañamiento.",
+    "excerptCA": "El perfeccionisme ha funcionat durant anys com un motor: t'ha portat lluny, t'ha fet fiable, t'ha donat reconeixement. Però hi ha un moment en què aquest mateix motor canvia de signe. Ja no empeny: paralitza. Les decisions s'eternitzen, els projectes no surten perquè mai estan prou a punt, i el cansament de sostenir un estàndard impossible comença a passar factura. Aquí expliquem per què el perfeccionisme es tomba contra qui el porta i quan convé buscar acompanyament.",
+    "excerptES": "El perfeccionismo ha funcionado durante años como un motor: te ha llevado lejos, te ha hecho fiable, te ha dado reconocimiento. Pero hay un momento en que ese mismo motor cambia de signo. Ya no empuja: paraliza. Las decisiones se eternizan, los proyectos no salen porque nunca están lo bastante listos, y el cansancio de sostener un estándar imposible empieza a pasar factura. Aquí explicamos por qué el perfeccionismo se vuelve contra quien lo carga y cuándo conviene buscar acompañamiento.",
     "datePublished": "2026-07-24"
   },
   {
@@ -175,6 +173,16 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-07-22"
   },
   {
+    "slug": "crisis-vital-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Crisi vital a l'edat adulta: quan la vida demana un replantejament",
+    "titleES": "Crisis vital en la edad adulta: cuando la vida pide un replanteamiento",
+    "excerptCA": "Arribar als 35 o als 45 i sentir que res encaixa com abans no és necessàriament un símptoma. Pot ser una crisi vital: un moment en què la vida, tal com estava muntada, deixa de sostenir-se. Aquí expliquem què és una crisi vital, com distingir-la d'un estat depresiu i quin paper pot tenir la teràpia en aquest trànsit.",
+    "excerptES": "Llegar a los 35 o a los 45 y sentir que nada encaja como antes no es necesariamente un síntoma. Puede ser una crisis vital: un momento en que la vida, tal como estaba montada, deja de sostenerse. Aquí explicamos qué es una crisis vital, cómo distinguirla de un estado depresivo y qué papel puede tener la terapia en ese tránsito.",
+    "datePublished": "2026-07-22"
+  },
+  {
     "slug": "anular-reprogramar-sesion-psicologia",
     "categoryCA": "El centre",
     "categoryES": "El centro",
@@ -183,6 +191,26 @@ export const articleMeta: ArticleMeta[] = [
     "excerptCA": "Sí, pots anular o reprogramar una sessió sempre que avisis amb antelació suficient. La majoria de centres, inclòs el nostre, tenen una política de cancel·lació raonable que protegeix tant la persona que consulta com el professional que reserva un espai. Aquí expliquem quant de marge cal per canviar una sessió, què passa quan avisis tard i com gestionem nosaltres les reprogramacions a Espai Emocions.",
     "excerptES": "Sí, puedes anular o reprogramar una sesión siempre que avises con antelación suficiente. La mayoría de centros, incluido el nuestro, tienen una política de cancelación razonable que protege tanto a la persona que consulta como al profesional que reserva un espacio. Aquí explicamos cuánto margen hace falta para cambiar una sesión, qué pasa cuando avisas tarde y cómo gestionamos nosotros las reprogramaciones en Espai Emocions.",
     "datePublished": "2026-07-21"
+  },
+  {
+    "slug": "es-normal-estar-irritable-todo-el-tiempo",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "És normal estar irritable tot el temps?",
+    "titleES": "¿Es normal estar irritable todo el tiempo?",
+    "excerptCA": "Tots ens sentim irritables algun dia. Però quan la irritabilitat es converteix en un estat gairebé permanent, quan qualsevol cosa genera una resposta desproporcionada i l'entorn comença a patir-ne, convé aturar-se a entendre què hi ha darrere. Aquí expliquem què és normal, què no ho és i quan convé buscar un psicòleg.",
+    "excerptES": "Todos nos sentimos irritables algún día. Pero cuando la irritabilidad se convierte en un estado casi permanente, cuando cualquier cosa genera una respuesta desproporcionada y el entorno empieza a sufrirla, conviene detenerse a entender qué hay detrás. Aquí explicamos qué es normal, qué no lo es y cuándo conviene buscar un psicólogo.",
+    "datePublished": "2026-07-20"
+  },
+  {
+    "slug": "setting-terapeutico-por-que-importa-espacio",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "El setting terapèutic: per què importa l'espai on es fa la teràpia",
+    "titleES": "El setting terapéutico: por qué importa el espacio donde se hace la terapia",
+    "excerptCA": "El setting terapèutic és l'espai físic i el marc on es desenvolupa la sessió. No és un detall estètic: influeix directament en la capacitat d'obrir-se, de concentrar-se i de fer el treball emocional. En aquest article expliquem què fa que un espai sigui terapèutic i què busquem en el nostre centre a Barcelona.",
+    "excerptES": "El setting terapéutico es el espacio físico y el marco donde se desarrolla la sesión. No es un detalle estético: influye directamente en la capacidad de abrirse, de concentrarse y de hacer el trabajo emocional. En este artículo explicamos qué hace que un espacio sea terapéutico y qué buscamos en nuestro centro de Barcelona.",
+    "datePublished": "2026-07-16"
   },
   {
     "slug": "psicologo-para-mayores",
@@ -195,7 +223,7 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-07-14"
   },
   {
-    "slug": "cambiar-psicologo-no-encaixo",
+    "slug": "cambiar-psicologo-no-encajo",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
     "titleCA": "Puc canviar de psicòleg si no encaixo?",
@@ -265,6 +293,146 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-07-07"
   },
   {
+    "slug": "donde-estamos-como-llegar-espai-emocions",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "On som i com arribar a Espai Emocions",
+    "titleES": "Dónde estamos y cómo llegar a Espai Emocions",
+    "excerptCA": "Espai Emocions és al carrer Indústria 220, al barri del Clot, entre La Sagrera i el Poblenou. S'hi arriba en metro en menys de cinc minuts des de Clot, en bus amb diverses línies que creuen la Gran Via i en bici per carrils gairebé continus des de l'Eixample. La zona és tranquil·la, amb aparcament de pagament en superfície i parkings propers si vas en cotxe.",
+    "excerptES": "Espai Emocions está en la calle Indústria 220, en el barrio del Clot, entre La Sagrera y el Poblenou. Se llega en metro en menos de cinco minutos desde Clot, en bus con varias líneas que cruzan la Gran Via y en bici por carriles prácticamente continuos desde el Eixample. La zona es tranquila, con aparcamiento de pago en superficie y parkings cercanos si vienes en coche.",
+    "datePublished": "2026-07-06"
+  },
+  {
+    "slug": "necesito-psicologo-como-saberlo",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Com saber si necessito un psicòleg? Senyals clares",
+    "titleES": "¿Cómo saber si necesito un psicólogo? Señales claras",
+    "excerptCA": "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment de forma sostinguda, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si \\",
+    "excerptES": "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento de forma sostenida, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si \\",
+    "datePublished": "2026-07-05"
+  },
+  {
+    "slug": "psicologo-para-academicos",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a acadèmics: el cost emocional d'investigar i ensenyar",
+    "titleES": "Psicólogo para académicos: el coste emocional de investigar y enseñar",
+    "excerptCA": "Doctorands, postdocs i professors universitaris enfronten inseguretat laboral, pressió publicitària i aïllament. Què buscar en un psicòleg que conegui el món acadèmic.",
+    "excerptES": "Doctorandos, postdocs y profesores universitarios enfrentan inseguridad laboral, presión publicitaria y aislamiento. Qué buscar en un psicólogo que conozca el mundo académico.",
+    "datePublished": "2026-07-03"
+  },
+  {
+    "slug": "modelos-terapia-cual-te-conviene",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Quins models de teràpia existeixen i quin t'escau?",
+    "titleES": "¿Qué modelos de terapia existen y cuál te conviene?",
+    "excerptCA": "Cognitiu-conductual, humanista, psicodinàmica, sistèmica, EMDR: què és cada model, en què es diferencia i com s'elegeix l'adequat per al teu cas. Guia clara i sense tecnicismes.",
+    "excerptES": "Cognitivo-conductual, humanista, psicodinámica, sistémica, EMDR: qué es cada modelo, en qué se diferencia y cómo se elige el adecuado para tu caso. Guía clara y sin tecnicismos.",
+    "datePublished": "2026-07-02"
+  },
+  {
+    "slug": "recursos-salud-mental-gratuitos-barcelona",
+    "categoryCA": "Psicologia a Barcelona",
+    "categoryES": "Psicología en Barcelona",
+    "titleCA": "Recursos de salut mental gratuits a Barcelona: guia pràctica",
+    "titleES": "Recursos de salud mental gratuitos en Barcelona: guía práctica",
+    "excerptCA": "On trobar atenció psicològica gratuita o de baix cost a Barcelona: sanitat pública, unitats de salut mental, recursos municipals i associacions sense ànim de lucre.",
+    "excerptES": "Dónde encontrar atención psicológica gratuita o de bajo coste en Barcelona: sanidad pública, unidades de salud mental, recursos municipales y asociaciones sin ánimo de lucro.",
+    "datePublished": "2026-07-01"
+  },
+  {
+    "slug": "confidencialidad-psicologia",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "Confidencialitat en psicologia: què cobreix i com es garanteix",
+    "titleES": "Confidencialidad en psicología: qué cubre y cómo se garantiza",
+    "excerptCA": "Què protegeix el secret professional en psicologia, quan es pot trencar i com es garanteix la confidencialitat en un centre com Espai Emocions. Guia clara i pràctica.",
+    "excerptES": "Qué protege el secreto profesional en psicología, cuándo puede romperse y cómo se garantiza la confidencialidad en un centro como Espai Emocions. Guía clara y práctica.",
+    "datePublished": "2026-06-30"
+  },
+  {
+    "slug": "tdah-adultos-como-reconocerlo",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "TDAH en adults: senyals que passen desapercebudes",
+    "titleES": "TDAH en adultos: señales que pasan desapercibidas",
+    "excerptCA": "El TDAH en adults no sempre es diagnostica a la infància. Senyals freqüents, per què passa desapercebut i com s'aborda des de la psicologia a Barcelona.",
+    "excerptES": "El TDAH en adultos no siempre se diagnostica en la infancia. Señales frecuentes, por qué pasa desapercibido y cómo se aborda desde la psicología en Barcelona.",
+    "datePublished": "2026-06-29"
+  },
+  {
+    "slug": "psicologo-para-cuidadores",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a cuidadors: el desgast de cuidar altres",
+    "titleES": "Psicólogo para cuidadores: el desgaste de cuidar a otros",
+    "excerptCA": "Qui cura un familiar dependent necessita un psicòleg que entengui el seu context. Desgast del cuidador, culpa i què buscar en un professional.",
+    "excerptES": "Quien cuida a un familiar con discapacidad o a un padre mayor necesita un psicólogo que entienda el desgaste del cuidador. Cómo trabajamos con este perfil en Espai Emocions.",
+    "datePublished": "2026-06-28"
+  },
+  {
+    "slug": "cuantas-sesiones-psicologia-necesito",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Quantes sessions de psicologia necessito?",
+    "titleES": "¿Cuántas sesiones de psicología necesito?",
+    "excerptCA": "No existeix un nombre fixat de sessions de psicologia. La durada d'un procés terapèutic depèn del motiu de consulta, la intensitat del problema i els objectius que et plantegis. Com a orientació, un procés breu sol moure's entre 6 i 12 sessions, un intermedi entre 3 i 6 mesos, i els processos més profunds poden allargar-se un any o més. Allò decisiu no és la xifra, sinó saber per què s'allarga o s'escurça.",
+    "excerptES": "No existe un número fijo de sesiones de psicología. La duración de un proceso terapéutico depende del motivo de consulta, la intensidad del problema y los objetivos que te plantees. Como orientación, un proceso breve suele moverse entre 6 y 12 sesiones, uno intermedio entre 3 y 6 meses, y los procesos más profundos pueden prolongarse un año o más. Lo decisivo no es la cifra, sino saber por qué se alarga o se acorta.",
+    "datePublished": "2026-06-27"
+  },
+  {
+    "slug": "elegir-psicologo-barcelona",
+    "categoryCA": "Psicologia a Barcelona",
+    "categoryES": "Psicología en Barcelona",
+    "titleCA": "Com triar un psicòleg a Barcelona: guia pràctica",
+    "titleES": "Cómo elegir un psicólogo en Barcelona: guía práctica",
+    "excerptCA": "Per triar un psicòleg a Barcelona, fixa't en tres coses: formació acreditada, experiència en el teu motiu de consulta i encaix personal. La ciutat té centenars de professionals, i el preu o la ubicació no basten per decidir. Allò que marca la diferència és que el psicòleg sàpiga treballar el teu tipus de problema i que et sentis còmode amb la seva forma d'acompanyar-te.",
+    "excerptES": "Para elegir un psicólogo en Barcelona, fíjate en tres cosas: formación acreditada, experiencia en tu motivo de consulta y encaje personal. La ciudad tiene cientos de profesionales, y el precio o la ubicación no bastan para decidir. Lo que marca la diferencia es que el psicólogo sepa trabajar tu tipo de problema y que te sientas cómodo con su forma de acompañarte.",
+    "datePublished": "2026-06-26"
+  },
+  {
+    "slug": "primera-sesion-psicologia",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "Com és la primera sessió de psicologia?",
+    "titleES": "¿Cómo es la primera sesión de psicología?",
+    "excerptCA": "La primera sessió de psicologia és una entrevista d'avaluació. No esperis exercicis, ni tècniques, ni solucions màgiques. Serveix perquè el psicòleg entengui la teva situació, escolti allò que et porta i comenci a esbossar un pla de treball. Dura entre 50 i 60 minuts, i al seu terme sabràs quins passos seguir.",
+    "excerptES": "La primera sesión de psicología es una entrevista de evaluación. No esperes ejercicios, ni técnicas, ni soluciones mágicas. Sirve para que el psicólogo entienda tu situación, escuche lo que te trae y empiece a esbozar un plan de trabajo. Dura entre 50 y 60 minutos, y a su término sabrás qué pasos seguir.",
+    "datePublished": "2026-06-25"
+  },
+  {
+    "slug": "psicologo-o-coach-diferencias",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Psicòleg o coach: quin necessites?",
+    "titleES": "Psicólogo o coach: ¿cuál necesitas?",
+    "excerptCA": "Diferències reals entre psicòleg i coach: formació, regulació, quan triar cadascun i per què començar per una valoració clínica si tens dubtes.",
+    "excerptES": "Diferencias reales entre psicólogo y coach: formación, regulación, cuándo elegir cada uno y por qué empezar por una valoración clínica si tienes dudas.",
+    "datePublished": "2026-06-24"
+  },
+  {
+    "slug": "psicologo-para-sanitarios",
+    "categoryCA": "Psicòleg per nínxol",
+    "categoryES": "Psicólogo por nicho",
+    "titleCA": "Psicòleg per a sanitaris: com gestionar el desgast professional",
+    "titleES": "Psicólogo para sanitarios: cómo gestionar el desgaste profesional",
+    "excerptCA": "Per què metges, infermeres i dentistes necessiten un psicòleg que entengui el seu context. Desgast per empatia, burnout sanitari i què buscar en un professional.",
+    "excerptES": "Por qué médicos, enfermeras y dentistas necesitan un psicólogo que entienda su contexto. Desgaste por empatía, burnout sanitario y qué buscar en un profesional.",
+    "datePublished": "2026-06-23"
+  },
+  {
+    "slug": "terapia-online-vs-presencial",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Teràpia online vs presencial: quina et convé més?",
+    "titleES": "Terapia online vs presencial: ¿cuál es mejor para ti?",
+    "excerptCA": "Diferències reals entre teràpia online i presencial: qualitat, preu, confidencialitat i quan triar cadascuna. Guia pràctica per decidir.",
+    "excerptES": "Diferencias reales entre terapia online y presencial: calidad, precio, confidencialidad y cuándo elegir cada una. Guía práctica para decidir.",
+    "datePublished": "2026-06-20"
+  },
+  {
     "slug": "5-claves-gestionar-ansiedad",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
@@ -273,16 +441,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptCA": "Eines pràctiques per gestionar l'ansietat en la teva vida quotidiana. Tècniques de respiració, pensament i autocuidació que pots començar a fer servir avui.",
     "excerptES": "Herramientas prácticas para manejar la ansiedad en tu vida cotidiana. Técnicas de respiración, pensamiento, y autocuidado que puedes empezar a usar hoy.",
     "datePublished": "2026-05-01"
-  },
-  {
-    "slug": "adiccion-pornografia-tratamiento",
-    "categoryCA": "Addiccions",
-    "categoryES": "Adicciones",
-    "titleCA": "Addicció a la pornografia: senyals i tractament",
-    "titleES": "Adicción a la Pornografía: Señales y Tratamiento",
-    "excerptCA": "Com reconèixer quan el consum de pornografia es converteix en un problema i quins passos prendre per recuperar-se. Tractament confidencial a Barcelona.",
-    "excerptES": "Cómo reconocer cuando el consumo de pornografía se convierte en un problema y qué pasos tomar para recuperarse. Tratamiento confidencial en Barcelona.",
-    "datePublished": "2026-04-25"
   },
   {
     "slug": "ansiedad-alto-funcionamiento",
@@ -315,166 +473,6 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-05-01"
   },
   {
-    "slug": "crisis-vital-edad-adulta",
-    "categoryCA": "Canvis vitals",
-    "categoryES": "Cambios vitales",
-    "titleCA": "Crisi vital a l'edat adulta: quan la vida demana un replantejament",
-    "titleES": "Crisis vital en la edad adulta: cuando la vida pide un replanteamiento",
-    "excerptCA": "Arribar als 35 o als 45 i sentir que res encaixa com abans no és necessàriament un símptoma. Pot ser una crisi vital: un moment en què la vida, tal com estava muntada, deixa de sostenir-se. Aquí expliquem què és una crisi vital, com distingir-la d'un estat depresiu i quin paper pot tenir la teràpia en aquest trànsit.",
-    "excerptES": "Llegar a los 35 o a los 45 y sentir que nada encaja como antes no es necesariamente un síntoma. Puede ser una crisis vital: un momento en que la vida, tal como estaba montada, deja de sostenerse. Aquí explicamos qué es una crisis vital, cómo distinguirla de un estado depresivo y qué papel puede tener la terapia en ese tránsito.",
-    "datePublished": "2026-07-22"
-  },
-  {
-    "slug": "confidencialidad-psicologia",
-    "categoryCA": "El centre",
-    "categoryES": "El centro",
-    "titleCA": "Confidencialitat en psicologia: què cobreix i com es garanteix",
-    "titleES": "Confidencialidad en psicología: qué cubre y cómo se garantiza",
-    "excerptCA": "Què protegeix el secret professional en psicologia, quan es pot trencar i com es garanteix la confidencialitat en un centre com Espai Emocions. Guia clara i pràctica.",
-    "excerptES": "Qué protege el secreto profesional en psicología, cuándo puede romperse y cómo se garantiza la confidencialidad en un centro como Espai Emocions. Guía clara y práctica.",
-    "datePublished": "2026-06-30"
-  },
-  {
-    "slug": "cuantas-sesiones-psicologia-necesito",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Quantes sessions de psicologia necessito?",
-    "titleES": "¿Cuántas sesiones de psicología necesito?",
-    "excerptCA": "No existeix un nombre fixat de sessions de psicologia. La durada d'un procés terapèutic depèn del motiu de consulta, la intensitat del problema i els objectius que et plantegis. Com a orientació, un procés breu sol moure's entre 6 i 12 sessions, un intermedi entre 3 i 6 mesos, i els processos més profunds poden allargar-se un any o més. Allò decisiu no és la xifra, sinó saber per què s'allarga o s'escurça.",
-    "excerptES": "No existe un número fijo de sesiones de psicología. La duración de un proceso terapéutico depende del motivo de consulta, la intensidad del problema y los objetivos que te plantees. Como orientación, un proceso breve suele moverse entre 6 y 12 sesiones, uno intermedio entre 3 y 6 meses, y los procesos más profundos pueden prolongarse un año o más. Lo decisivo no es la cifra, sino saber por qué se alarga o se acorta.",
-    "datePublished": "2026-06-27"
-  },
-  {
-    "slug": "diferencias-psicologo-psiquiatra",
-    "categoryCA": "General",
-    "categoryES": "General",
-    "titleCA": "Diferències entre Psicòleg i Psiquiatre: quin necessites?",
-    "titleES": "Diferencias entre Psicólogo y Psiquiatra: ¿Cuál necesitas?",
-    "excerptCA": "Una guia clara per entendre les diferències entre psicòleg i psiquiatre, què estudia cadascun, quins tractaments ofereixen i quan cal acudir a cadascun.",
-    "excerptES": "Una guía clara para entender las diferencias entre psicólogo y psiquiatra, qué estudia cada uno, qué tratamientos ofrecen, y cuándo acudir a cada uno.",
-    "datePublished": "2026-04-18"
-  },
-  {
-    "slug": "donde-estamos-como-llegar-espai-emocions",
-    "categoryCA": "El centre",
-    "categoryES": "El centro",
-    "titleCA": "On som i com arribar a Espai Emocions",
-    "titleES": "Dónde estamos y cómo llegar a Espai Emocions",
-    "excerptCA": "Espai Emocions és al carrer Indústria 220, al barri del Clot, entre La Sagrera i el Poblenou. S'hi arriba en metro en menys de cinc minuts des de Clot, en bus amb diverses línies que creuen la Gran Via i en bici per carrils gairebé continus des de l'Eixample. La zona és tranquil·la, amb aparcament de pagament en superfície i parkings propers si vas en cotxe.",
-    "excerptES": "Espai Emocions está en la calle Indústria 220, en el barrio del Clot, entre La Sagrera y el Poblenou. Se llega en metro en menos de cinco minutos desde Clot, en bus con varias líneas que cruzan la Gran Via y en bici por carriles prácticamente continuos desde el Eixample. La zona es tranquila, con aparcamiento de pago en superficie y parkings cercanos si vienes en coche.",
-    "datePublished": "2026-07-06"
-  },
-  {
-    "slug": "elegir-psicologo-barcelona",
-    "categoryCA": "Psicologia a Barcelona",
-    "categoryES": "Psicología en Barcelona",
-    "titleCA": "Com triar un psicòleg a Barcelona: guia pràctica",
-    "titleES": "Cómo elegir un psicólogo en Barcelona: guía práctica",
-    "excerptCA": "Per triar un psicòleg a Barcelona, fixa't en tres coses: formació acreditada, experiència en el teu motiu de consulta i encaix personal. La ciutat té centenars de professionals, i el preu o la ubicació no basten per decidir. Allò que marca la diferència és que el psicòleg sàpiga treballar el teu tipus de problema i que et sentis còmode amb la seva forma d'acompanyar-te.",
-    "excerptES": "Para elegir un psicólogo en Barcelona, fíjate en tres cosas: formación acreditada, experiencia en tu motivo de consulta y encaje personal. La ciudad tiene cientos de profesionales, y el precio o la ubicación no bastan para decidir. Lo que marca la diferencia es que el psicólogo sepa trabajar tu tipo de problema y que te sientas cómodo con su forma de acompañarte.",
-    "datePublished": "2026-06-26"
-  },
-  {
-    "slug": "hombres-psicologo-normal",
-    "categoryCA": "Homes",
-    "categoryES": "Hombres",
-    "titleCA": "És normal que un home vagi al psicòleg?",
-    "titleES": "¿Es normal que un hombre vaya al psicólogo?",
-    "excerptCA": "Trencant mites sobre la salut mental masculina. Per què buscar ajuda psicològica és un acte de valentia, no de debilitat. Psicòleg per a homes Barcelona.",
-    "excerptES": "Rompiendo mitos sobre la salud mental masculina. Por qué buscar ayuda psicológica es un acto de valentía, no de debilidad. Psicólogo para hombres Barcelona.",
-    "datePublished": "2026-04-28"
-  },
-  {
-    "slug": "modelos-terapia-cual-te-conviene",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Quins models de teràpia existeixen i quin t'escau?",
-    "titleES": "¿Qué modelos de terapia existen y cuál te conviene?",
-    "excerptCA": "Cognitiu-conductual, humanista, psicodinàmica, sistèmica, EMDR: què és cada model, en què es diferencia i com s'elegeix l'adequat per al teu cas. Guia clara i sense tecnicismes.",
-    "excerptES": "Cognitivo-conductual, humanista, psicodinámica, sistémica, EMDR: qué es cada modelo, en qué se diferencia y cómo se elige el adecuado para tu caso. Guía clara y sin tecnicismos.",
-    "datePublished": "2026-07-02"
-  },
-  {
-    "slug": "necesito-psicologo-como-saberlo",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Com saber si necessito un psicòleg? Senyals clares",
-    "titleES": "¿Cómo saber si necesito un psicólogo? Señales claras",
-    "excerptCA": "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment de forma sostinguda, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si \\",
-    "excerptES": "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento de forma sostenida, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si \\",
-    "datePublished": "2026-07-05"
-  },
-  {
-    "slug": "precio-psicologo-barcelona",
-    "categoryCA": "Informació",
-    "categoryES": "Info",
-    "titleCA": "Quant costa un psicòleg a Barcelona? Guia 2026",
-    "titleES": "¿Cuánto cuesta un psicólogo en Barcelona? Guía 2026",
-    "excerptCA": "Preus de teràpia psicològica a Barcelona. Què influeix en el cost, rangs de preus, i com triar el psicòleg adequat segons el teu pressupost.",
-    "excerptES": "Precios de terapia psicológica en Barcelona. Qué influye en el coste, rangos de precios, y cómo elegir el psicólogo adecuado según tu presupuesto.",
-    "datePublished": "2026-04-20"
-  },
-  {
-    "slug": "primera-sesion-psicologia",
-    "categoryCA": "El centre",
-    "categoryES": "El centro",
-    "titleCA": "Com és la primera sessió de psicologia?",
-    "titleES": "¿Cómo es la primera sesión de psicología?",
-    "excerptCA": "La primera sessió de psicologia és una entrevista d'avaluació. No esperis exercicis, ni tècniques, ni solucions màgiques. Serveix perquè el psicòleg entengui la teva situació, escolti allò que et porta i comenci a esbossar un pla de treball. Dura entre 50 i 60 minuts, i al seu terme sabràs quins passos seguir.",
-    "excerptES": "La primera sesión de psicología es una entrevista de evaluación. No esperes ejercicios, ni técnicas, ni soluciones mágicas. Sirve para que el psicólogo entienda tu situación, escuche lo que te trae y empiece a esbozar un plan de trabajo. Dura entre 50 y 60 minutos, y a su término sabrás qué pasos seguir.",
-    "datePublished": "2026-06-25"
-  },
-  {
-    "slug": "psicologo-o-coach-diferencias",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Psicòleg o coach: quin necessites?",
-    "titleES": "Psicólogo o coach: ¿cuál necesitas?",
-    "excerptCA": "Diferències reals entre psicòleg i coach: formació, regulació, quan triar cadascun i per què començar per una valoració clínica si tens dubtes.",
-    "excerptES": "Diferencias reales entre psicólogo y coach: formación, regulación, cuándo elegir cada uno y por qué empezar por una valoración clínica si tienes dudas.",
-    "datePublished": "2026-06-24"
-  },
-  {
-    "slug": "psicologo-para-academicos",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a acadèmics: el cost emocional d'investigar i ensenyar",
-    "titleES": "Psicólogo para académicos: el coste emocional de investigar y enseñar",
-    "excerptCA": "Doctorands, postdocs i professors universitaris enfronten inseguretat laboral, pressió publicitària i aïllament. Què buscar en un psicòleg que conegui el món acadèmic.",
-    "excerptES": "Doctorandos, postdocs y profesores universitarios enfrentan inseguridad laboral, presión publicitaria y aislamiento. Qué buscar en un psicólogo que conozca el mundo académico.",
-    "datePublished": "2026-07-03"
-  },
-  {
-    "slug": "psicologo-para-cuidadores",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a cuidadors: el desgast de cuidar altres",
-    "titleES": "Psicólogo para cuidadores: el desgaste de cuidar a otros",
-    "excerptCA": "Qui cura un familiar dependent necessita un psicòleg que entengui el seu context. Desgast del cuidador, culpa i què buscar en un professional.",
-    "excerptES": "Quien cuida a un familiar con discapacidad o a un padre mayor necesita un psicólogo que entienda el desgaste del cuidador. Cómo trabajamos con este perfil en Espai Emocions.",
-    "datePublished": "2026-06-28"
-  },
-  {
-    "slug": "psicologo-para-sanitarios",
-    "categoryCA": "Psicòleg per nínxol",
-    "categoryES": "Psicólogo por nicho",
-    "titleCA": "Psicòleg per a sanitaris: com gestionar el desgast professional",
-    "titleES": "Psicólogo para sanitarios: cómo gestionar el desgaste profesional",
-    "excerptCA": "Per què metges, infermeres i dentistes necessiten un psicòleg que entengui el seu context. Desgast per empatia, burnout sanitari i què buscar en un professional.",
-    "excerptES": "Por qué médicos, enfermeras y dentistas necesitan un psicólogo que entienda su contexto. Desgaste por empatía, burnout sanitario y qué buscar en un profesional.",
-    "datePublished": "2026-06-23"
-  },
-  {
-    "slug": "recursos-salud-mental-gratuitos-barcelona",
-    "categoryCA": "Psicologia a Barcelona",
-    "categoryES": "Psicología en Barcelona",
-    "titleCA": "Recursos de salut mental gratuits a Barcelona: guia pràctica",
-    "titleES": "Recursos de salud mental gratuitos en Barcelona: guía práctica",
-    "excerptCA": "On trobar atenció psicològica gratuita o de baix cost a Barcelona: sanitat pública, unitats de salut mental, recursos municipals i associacions sense ànim de lucre.",
-    "excerptES": "Dónde encontrar atención psicológica gratuita o de bajo coste en Barcelona: sanidad pública, unidades de salud mental, recursos municipales y asociaciones sin ánimo de lucro.",
-    "datePublished": "2026-07-01"
-  },
-  {
     "slug": "rumiacion-ansiosa",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
@@ -495,14 +493,34 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-05-01"
   },
   {
-    "slug": "tdah-adultos-como-reconocerlo",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "TDAH en adults: senyals que passen desapercebudes",
-    "titleES": "TDAH en adultos: señales que pasan desapercibidas",
-    "excerptCA": "El TDAH en adults no sempre es diagnostica a la infància. Senyals freqüents, per què passa desapercebut i com s'aborda des de la psicologia a Barcelona.",
-    "excerptES": "El TDAH en adultos no siempre se diagnostica en la infancia. Señales frecuentes, por qué pasa desapercibido y cómo se aborda desde la psicología en Barcelona.",
-    "datePublished": "2026-06-29"
+    "slug": "terapia-parejas-barcelona",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Teràpia de parella a Barcelona: recupera la connexió amb la teva parella",
+    "titleES": "Terapia de Pareja en Barcelona: Recupera la Conexión con tu Pareja",
+    "excerptCA": "Sents que la vostra comunicació s'ha trencat? La teràpia de parella pot ajudar-te a reconstruir el vincle i trobar solucions reals.",
+    "excerptES": "¿Sientes que vuestra comunicación se ha roto? La terapia de pareja puede ayudarte a reconstruir el vínculo y encontrar soluciones reales.",
+    "datePublished": "2026-05-01"
+  },
+  {
+    "slug": "hombres-psicologo-normal",
+    "categoryCA": "Homes",
+    "categoryES": "Hombres",
+    "titleCA": "És normal que un home vagi al psicòleg?",
+    "titleES": "¿Es normal que un hombre vaya al psicólogo?",
+    "excerptCA": "Trencant mites sobre la salut mental masculina. Per què buscar ajuda psicològica és un acte de valentia, no de debilitat. Psicòleg per a homes Barcelona.",
+    "excerptES": "Rompiendo mitos sobre la salud mental masculina. Por qué buscar ayuda psicológica es un acto de valentía, no de debilidad. Psicólogo para hombres Barcelona.",
+    "datePublished": "2026-04-28"
+  },
+  {
+    "slug": "adiccion-pornografia-tratamiento",
+    "categoryCA": "Addiccions",
+    "categoryES": "Adicciones",
+    "titleCA": "Addicció a la pornografia: senyals i tractament",
+    "titleES": "Adicción a la Pornografía: Señales y Tratamiento",
+    "excerptCA": "Com reconèixer quan el consum de pornografia es converteix en un problema i quins passos prendre per recuperar-se. Tractament confidencial a Barcelona.",
+    "excerptES": "Cómo reconocer cuando el consumo de pornografía se convierte en un problema y qué pasos tomar para recuperarse. Tratamiento confidencial en Barcelona.",
+    "datePublished": "2026-04-25"
   },
   {
     "slug": "terapia-humanista-como-funciona",
@@ -515,47 +533,23 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-04-22"
   },
   {
-    "slug": "terapia-online-vs-presencial",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Teràpia online vs presencial: quina et convé més?",
-    "titleES": "Terapia online vs presencial: ¿cuál es mejor para ti?",
-    "excerptCA": "Diferències reals entre teràpia online i presencial: qualitat, preu, confidencialitat i quan triar cadascuna. Guia pràctica per decidir.",
-    "excerptES": "Diferencias reales entre terapia online y presencial: calidad, precio, confidencialidad y cuándo elegir cada una. Guía práctica para decidir.",
-    "datePublished": "2026-06-20"
+    "slug": "precio-psicologo-barcelona",
+    "categoryCA": "Informació",
+    "categoryES": "Info",
+    "titleCA": "Quant costa un psicòleg a Barcelona? Guia 2026",
+    "titleES": "¿Cuánto cuesta un psicólogo en Barcelona? Guía 2026",
+    "excerptCA": "Preus de teràpia psicològica a Barcelona. Què influeix en el cost, rangs de preus, i com triar el psicòleg adequat segons el teu pressupost.",
+    "excerptES": "Precios de terapia psicológica en Barcelona. Qué influye en el coste, rangos de precios, y cómo elegir el psicólogo adecuado según tu presupuesto.",
+    "datePublished": "2026-04-20"
   },
   {
-    "slug": "terapia-parejas-barcelona",
-    "categoryCA": "Parella",
-    "categoryES": "Pareja",
-    "titleCA": "Teràpia de parella a Barcelona: recupera la connexió amb la teva parella",
-    "titleES": "Terapia de Pareja en Barcelona: Recupera la Conexión con tu Pareja",
-    "excerptCA": "Sents que la vostra comunicació s'ha trencat? La teràpia de parella pot ajudar-te a reconstruir el vincle i trobar solucions reals.",
-    "excerptES": "¿Sientes que vuestra comunicación se ha roto? La terapia de pareja puede ayudarte a reconstruir el vínculo y encontrar soluciones reales.",
-    "datePublished": "2026-05-01"
-  },
-  {
-    "slug": "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Quan tot costa més: els estats depressius a l'edat adulta",
-    "titleES": "Cuando todo cuesta más: los estados depresivos en la edad adulta",
-    "excerptCA":
-      "No sempre és tristesa. De vegades és un apagament: allò que t'interessava ja no t'interessa, allò que et donava energia ara et pesa, i el futur que abans projectaves s'ha tornat una idea neutra. Els estats depressius a l'edat adulta rarament coincideixen amb la imatge que en tenim. Aquí explorem com es presenten realment, per què apareixen amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-los sense que es converteixin en una identitat.",
-    "excerptES":
-      "No siempre es tristeza. A veces es un apagamiento: lo que te interesaba ya no te interesa, lo que te daba energía ahora te pesa, y el futuro que antes proyectabas se ha vuelto una idea neutra. Los estados depresivos en la edad adulta raramente coinciden con la imagen que tenemos de ellos. Aquí exploramos cómo se presentan realmente, por qué aparecen con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlos sin que se conviertan en una identidad.",
-    "datePublished": "2026-08-09"
-  },
-  {
-    "slug": "logro-que-no-llena-cuando-llegar-no-es-suficiente",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "Quan arribar no basta: el buit que apareix després d'assolir el que es perseguia",
-    "titleES": "Cuando llegar no basta: el vacío que aparece después de conseguir lo que se perseguía",
-    "excerptCA":
-      "Hi ha un moment, sobretot entre els 35 i els 50, en què arribes on volies arribar i descobreixes que no omple. La feina, la casa, la relació, el reconeixement: tot està més o menys on t'havies proposat portar-ho. I, tanmateix, en lloc de tranquil·litat, apareix una pregunta incòmoda: «¿i això és tot?». Aquest article explora per què l'assoliment no sempre coincideix amb la satisfacció, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest buit que no és un error: és una pregunta.",
-    "excerptES":
-      "Hay un momento, sobre todo entre los 35 y los 50, en que llegas a donde querías llegar y descubres que no llena. El trabajo, la casa, la relación, el reconocimiento: todo está más o menos donde te habías propuesto llevarlo. Y, sin embargo, en lugar de tranquilidad, aparece una pregunta incómoda: «¿y esto es todo?». Este artículo explora por qué el logro no siempre coincide con la satisfacción, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer ese vacío que no es un error: es una pregunta.",
-    "datePublished": "2026-08-07"
+    "slug": "diferencias-psicologo-psiquiatra",
+    "categoryCA": "General",
+    "categoryES": "General",
+    "titleCA": "Diferències entre Psicòleg i Psiquiatre: quin necessites?",
+    "titleES": "Diferencias entre Psicólogo y Psiquiatra: ¿Cuál necesitas?",
+    "excerptCA": "Una guia clara per entendre les diferències entre psicòleg i psiquiatre, què estudia cadascun, quins tractaments ofereixen i quan cal acudir a cadascun.",
+    "excerptES": "Una guía clara para entender las diferencias entre psicólogo y psiquiatra, qué estudia cada uno, qué tratamientos ofrecen, y cuándo acudir a cada uno.",
+    "datePublished": "2026-04-18"
   }
 ];
