@@ -535,6 +535,18 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-05-01"
   },
   {
+    "slug": "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan tot costa més: els estats depressius a l'edat adulta",
+    "titleES": "Cuando todo cuesta más: los estados depresivos en la edad adulta",
+    "excerptCA":
+      "No sempre és tristesa. De vegades és un apagament: allò que t'interessava ja no t'interessa, allò que et donava energia ara et pesa, i el futur que abans projectaves s'ha tornat una idea neutra. Els estats depressius a l'edat adulta rarament coincideixen amb la imatge que en tenim. Aquí explorem com es presenten realment, per què apareixen amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-los sense que es converteixin en una identitat.",
+    "excerptES":
+      "No siempre es tristeza. A veces es un apagamiento: lo que te interesaba ya no te interesa, lo que te daba energía ahora te pesa, y el futuro que antes proyectabas se ha vuelto una idea neutra. Los estados depresivos en la edad adulta raramente coinciden con la imagen que tenemos de ellos. Aquí exploramos cómo se presentan realmente, por qué aparecen con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlos sin que se conviertan en una identidad.",
+    "datePublished": "2026-08-09"
+  },
+  {
     "slug": "logro-que-no-llena-cuando-llegar-no-es-suficiente",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
