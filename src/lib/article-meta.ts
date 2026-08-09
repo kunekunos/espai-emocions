@@ -551,5 +551,51 @@ export const articleMeta: ArticleMeta[] = [
     "excerptCA": "Una guia clara per entendre les diferències entre psicòleg i psiquiatre, què estudia cadascun, quins tractaments ofereixen i quan cal acudir a cadascun.",
     "excerptES": "Una guía clara para entender las diferencias entre psicólogo y psiquiatra, qué estudia cada uno, qué tratamientos ofrecen, y cuándo acudir a cada uno.",
     "datePublished": "2026-04-18"
+  },
+  {
+    "slug": "terapia-parejas-barcelona",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Teràpia de parella a Barcelona: recupera la connexió amb la teva parella",
+    "titleES": "Terapia de Pareja en Barcelona: Recupera la Conexión con tu Pareja",
+    "excerptCA": "Sents que la vostra comunicació s'ha trencat? La teràpia de parella pot ajudar-te a reconstruir el vincle i trobar solucions reals.",
+    "excerptES": "¿Sientes que vuestra comunicación se ha roto? La terapia de pareja puede ayudarte a reconstruir el vínculo y encontrar soluciones reales.",
+    "datePublished": "2026-05-01"
+  },
+  {
+    "slug": "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan tot costa més: els estats depressius a l'edat adulta",
+    "titleES": "Cuando todo cuesta más: los estados depresivos en la edad adulta",
+    "excerptCA":
+      "No sempre és tristesa. De vegades és un apagament: allò que t'interessava ja no t'interessa, allò que et donava energia ara et pesa, i el futur que abans projectaves s'ha tornat una idea neutra. Els estats depressius a l'edat adulta rarament coincideixen amb la imatge que en tenim. Aquí explorem com es presenten realment, per què apareixen amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-los sense que es converteixin en una identitat.",
+    "excerptES":
+      "No siempre es tristeza. A veces es un apagamiento: lo que te interesaba ya no te interesa, lo que te daba energía ahora te pesa, y el futuro que antes proyectabas se ha vuelto una idea neutra. Los estados depresivos en la edad adulta raramente coinciden con la imagen que tenemos de ellos. Aquí exploramos cómo se presentan realmente, por qué aparecen con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlos sin que se conviertan en una identidad.",
+    "datePublished": "2026-08-09"
+  },
+  {
+    "slug": "logro-que-no-llena-cuando-llegar-no-es-suficiente",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Quan arribar no basta: el buit que apareix després d'assolir el que es perseguia",
+    "titleES": "Cuando llegar no basta: el vacío que aparece después de conseguir lo que se perseguía",
+    "excerptCA":
+      "Hi ha un moment, sobretot entre els 35 i els 50, en què arribes on volies arribar i descobreixes que no omple. La feina, la casa, la relació, el reconeixement: tot està més o menys on t'havies proposat portar-ho. I, tanmateix, en lloc de tranquil·litat, apareix una pregunta incòmoda: «¿i això és tot?». Aquest article explora per què l'assoliment no sempre coincideix amb la satisfacció, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest buit que no és un error: és una pregunta.",
+    "excerptES":
+      "Hay un momento, sobre todo entre los 35 y los 50, en que llegas a donde querías llegar y descubres que no llena. El trabajo, la casa, la relación, el reconocimiento: todo está más o menos donde te habías propuesto llevarlo. Y, sin embargo, en lugar de tranquilidad, aparece una pregunta incómoda: «¿y esto es todo?». Este artículo explora por qué el logro no siempre coincide con la satisfacción, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer ese vacío que no es un error: es una pregunta.",
+    "datePublished": "2026-08-07"
+  },
+  {
+    "slug": "el-vinculo-terapeutico-por-que-la-relacion-importa",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "El vincle terapèutic: per què la relació amb el teu psicòleg canvia el procés",
+    "titleES": "El vínculo terapéutico: por qué la relación con tu psicólogo cambia el proceso",
+    "excerptCA":
+      "Quan pensem en teràpia, pensem en tècniques, en enfocaments, en el que es diu a la sessió. Però sota tot això hi ha alguna cosa menys visible i més decisiva: el vincle terapèutic, la qualitat de la relació entre qui consulta i qui acompanya. No és un detall secundari ni un element decoratiu: és el sòl sobre el qual es recolza tot el procés. Aquí explorem per què la relació amb el teu psicòleg importa tant, què la fa bona i com saber si aquesta relació t'està servint.",
+    "excerptES":
+      "Cuando pensamos en terapia, pensamos en técnicas, en enfoques, en lo que se dice en la sesión. Pero debajo de todo eso hay algo menos visible y más decisivo: el vínculo terapéutico, la calidad de la relación entre quien consulta y quien acompaña. No es un detalle secundario ni un elemento decorativo: es el suelo sobre el que se apoya todo el proceso. Aquí exploramos por qué la relación con tu psicólogo importa tanto, qué la hace buena y cómo saber si esa relación te está sirviendo.",
+    "datePublished": "2026-08-09"
   }
 ];

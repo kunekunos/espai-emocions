@@ -91,7 +91,7 @@ export const articlesPart8: ArticleContent[] = [
       },
       {
         type: "paragraph",
-        text: "Un estat depresiu és diferent. No sempre té un motiu únic i identificable: de vegades apareix després d'un esdeveniment, però altres vegades s'instal·la sense que hi hagi res concret que l'explichi. No ve i se'n va: es queda. I no afecta només l'estat d'ànim: afecta la manera com penses, com et relaciones, com veus el futur i com et veus a tu mateix. Quan aquest estat dura setmanes i comença a limitar la teva capacitat de viure com voldries, té sentit mirar-lo amb ajuda.",
+        text: "Un estat depresiu és diferent. No sempre té un motiu únic i identificable: de vegades apareix després d'un esdeveniment, però altres vegades s'instal·la sense que hi hagi res concret que l'expliqui. No ve i se'n va: es queda. I no afecta només l'estat d'ànim: afecta la manera com penses, com et relates, com veus el futur i com et veus a tu mateix. Quan aquest estat dura setmanes i comença a limitar la teva capacitat de viure com voldries, té sentit mirar-lo amb ajuda.",
       },
       {
         type: "heading",
@@ -304,6 +304,302 @@ export const articlesPart8: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si sientes que todo cuesta más de lo que debería costar, que lo que antes tenía color lo ha perdido, o que llevas semanas funcionando sin sentirte presente en tu propia vida, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos en estados depresivos con tiempo y profundidad —no para darte una respuesta rápida, sino para ayudarte a comprender qué necesitas ahora y a recuperar el contacto con aquello que te pertenece.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------------------------
+  // 2. el-vinculo-terapeutico-por-que-la-relacion-importa (Pilar: Cómo funciona la terapia / Vínculo)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "el-vinculo-terapeutico-por-que-la-relacion-importa",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA:
+      "El vincle terapèutic: per què la relació amb el teu psicòleg canvia el procés",
+    titleES:
+      "El vínculo terapéutico: por qué la relación con tu psicólogo cambia el proceso",
+    excerptCA:
+      "Quan pensem en teràpia, pensem en tècniques, en enfocaments, en el que es diu a la sessió. Però sota tot això hi ha alguna cosa menys visible i més decisiva: el vincle terapèutic, la qualitat de la relació entre qui consulta i qui acompanya. No és un detall secundari ni un element decoratiu: és el sòl sobre el qual es recolza tot el procés. Aquí explorem per què la relació amb el teu psicòleg importa tant, què la fa bona i com saber si aquesta relació t'està servint.",
+    excerptES:
+      "Cuando pensamos en terapia, pensamos en técnicas, en enfoques, en lo que se dice en la sesión. Pero debajo de todo eso hay algo menos visible y más decisivo: el vínculo terapéutico, la calidad de la relación entre quien consulta y quien acompaña. No es un detalle secundario ni un elemento decorativo: es el suelo sobre el que se apoya todo el proceso. Aquí exploramos por qué la relación con tu psicólogo importa tanto, qué la hace buena y cómo saber si esa relación te está sirviendo.",
+    datePublished: "2026-08-09",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quan algú busca un psicòleg, sol tenir al cap una pregunta pràctica: quina tècnica utilitza, quin enfocament segueix, quant costa, quant dura. Aquestes preguntes tenen sentit. Però hi ha una altra pregunta, més difícil de formular i sovint més decisiva, que queda fora de la llista: «hi encaixo amb aquesta persona?». No és una qüestió de simpatia ni de compatibilitat d'aficions. És una qüestió de vincle —la qualitat de la relació que es construeix entre qui consulta i qui acompanya— i té més pes del que sembla.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: el vincle terapèutic no és un detall secundari. És el sòl sobre el qual es recolza tot el procés. Sense una relació de confiança, de seguretat i de respecte, les tècniques perden gran part de la seva capacitat. La investigació en psicoteràpia ho confirma de manera sostinguda des de fa dècades: el factor comú que més explica els canvis en teràpia no és el model concret que s'aplica, sinó la qualitat de la relació entre pacient i terapeuta. Això no vol dir que la tècnica no importi: vol dir que sense vincle, la tècnica no basta.",
+      },
+      {
+        type: "heading",
+        text: "Què és exactament el vincle terapèutic",
+      },
+      {
+        type: "paragraph",
+        text: "El vincle terapèutic és la relació professional que es construeix entre tu i el teu psicòleg al llarg del procés. No és amistat, ni amor, ni dependència. És una relació amb un propòsit: que tu puguis mirar el que et porta amb llibertat, sense jutjar-te ni amagar-te, i que puguis fer-ho acompanyat per algú que et percep amb respecte i amb criteri.",
+      },
+      {
+        type: "paragraph",
+        text: "Té tres components que es teixeixen al llarg del temps. El primer és la confiança: la sensació que pots dir el que penses sense que es trenqui res, que el que comparteixes no serà utilitzat contra tu i que el teu psicòleg està de la teva banda sense deixar de ser honest. El segon és la seguretat: la percepció que en aquesta relació no hi ha perill, que pots equivocar-te, dubtar, contradir-te o callar sense que això canviï la manera com el teu psicòleg et mira. El tercer és el respecte pel teu ritme: la convicció que el procés avança al teu pas, no al del professional.",
+      },
+      {
+        type: "heading",
+        text: "Per què la qualitat del vincle canvia el procés",
+      },
+      {
+        type: "paragraph",
+        text: "Podria semblar que el vincle és el que fa que la teràpia sigui agradable, i que la feina real la fan les tècniques. Però la realitat és una altra. Moltes de les coses que necessiten ser dites en teràpia —dols, pors, conflictes no resolts, parts d'un mateix que no es reconeixen, decisions que pesen— no es diuen si no hi ha seguretat. I no es diuen de veritat si la persona sent que ha de protegir la imatge que el terapeuta es fa d'ella.",
+      },
+      {
+        type: "paragraph",
+        text: "Això significa que un vincle sòlid no fa la teràpia més còmoda: la fa possible. Quan la relació és bona, pots arribar a llocs on no arribaries sol, perquè hi ha algú al costat la presència del qual et permet sostendre el que apareix. Quan la relació no ho és, la teràpia es queda a la superfície: es parla, s'analitza, es reflexiona, però no es toca el fons. I el fons, sovint, és el que portava la persona a buscar ajuda.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un segon aspecte menys visible. La relació terapèutica és, per a moltes persones, una de les poques relacions adultes en què poden experimentar ser vistes sense condicions. Això, en si mateix, canvia coses. Hi ha persones que no han tingut mai una relació així, o que fa anys que no la tenen, i descobreixen que la experiència de ser escoltades amb atenció sostinguda i sense judici obra un efecte que no esperaven: els permet començar a escoltar-se a ells mateixos amb una mica més de suavitat.",
+      },
+      {
+        type: "heading",
+        text: "El vincle no es construeix d'un dia per l'altre",
+      },
+      {
+        type: "paragraph",
+        text: "Una idea freqüent és que l'encaix terapèutic es nota de seguida: primeres sessions, primera impressió, i ja saps. De vegades passa així, i és una bona senyal. Però no sempre. El vincle terapèutic és una relació que es construeix amb el temps, com qualsevol relació que valgui la pena. Les primeres sessions serveixen per conèixer-se, per mirar-se, per veure si hi ha un espai on les dues parts poden treballar juntes. I això no sempre es resol en la primera visita.",
+      },
+      {
+        type: "paragraph",
+        text: "És normal que al principi hi hagi una certa cautela. Que no sàpigues què dir, que et costi obrir-te, que tinguis la sensació d'estar provant el terreny. Aquesta cautela no vol dir que el vincle no funcioni: vol dir que està en construcció. El que sí que convé mirar és la direcció: al cap d'unes sessions, sents que el terreny és més ferm, o sents que no?",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha moments del procés en què el vincle es posa a prova. Quan apareixen temes difícils, quan sents que el terapeuta et diu alguna cosa que no vols sentir, quan hi ha un malentès o un desajustament. Aquests moments no són failures del vincle: són el lloc on es forja. La manera com es gestionen les friccions dins de la relació terapèutica és una de les eines més potents del procés, perquè permet veure en viu com gestioneu els conflictes les dues parts, i perquè aquesta experiència es pot traslladar a les relacions de fora.",
+      },
+      {
+        type: "heading",
+        text: "Què fa que un vincle sigui bo",
+      },
+      {
+        type: "paragraph",
+        text: "No hi ha una llista tancada, però hi ha algunes qualitats que apareixen amb freqüència quan el vincle funciona. La primera és la sensació de ser comprés, no només escoltat: que el teu psicòleg capta el que dius i també el que no dius, el que hi ha entre línies. La segona és la llibertat per dir el que penses de la relació mateixa: poder dir «avui no m'ha arribat» o «no estic d'acord amb això que m'has dit» sense que això creï tensió. La tercera és la percepció que el teu psicòleg no té una agenda oculta: no t'empeny cap a una conclusió que ell té, sinó que t'acompanya cap a la teva.",
+      },
+      {
+        type: "paragraph",
+        text: "A tot això s'hi suma una qualitat més subtil: la coherència. Quan el que diu el teu psicòleg encaixa amb el que fa, quan les seves paraules i la seva manera d'estar amb tu són consistents, el vincle guanya solidesa. Quan hi ha dissonància —el que diu una cosa i la manera com ho diu en diu una altra— la confiança es debilita, encara que no sàpigues dir per què.",
+      },
+      {
+        type: "heading",
+        text: "Com saber si el vincle t'està servint",
+      },
+      {
+        type: "paragraph",
+        text: "És una pregunta bona, i no sempre fàcil de respondre des de dins. Algunes senyals que ajuden: després de les sessions, sents que has pogut mirar alguna cosa amb una mica més de claredat, encara que hagi estat difícil? Pots dir al teu psicòleg el que et passa per la sessió mateixa, incloent-hi el que t'incomoda d'ell? Sents que el procés avança, encara que a poc a poc, o tens la sensació d'estar girant en cercle sense moure't?",
+      },
+      {
+        type: "paragraph",
+        text: "Cap d'aquestes preguntes té una resposta única. Però la direcció general sí que és clara: un bon vincle no es reconeix perquè la teràpia sigui fàcil, sinó perquè et permet arribar a llocs que sol no arribaries. Si portes setmanes o mesos i sents que la relació no t'obri res, que t'has d'esforçar per ser com el terapeuta espera que siguis, o que la sessió és un tràmit que no deixa petjada, val la pena mirar-ho. No necessàriament vol dir que estiguis en el lloc equivocat: pot vol dir que cal parlar del que està passant entre els dos. I això, en una bona relació terapèutica, forma part de la feina.",
+      },
+      {
+        type: "heading",
+        text: "El vincle no és dependència",
+      },
+      {
+        type: "paragraph",
+        text: "Una preocupació que apareix sovint és la por a dependre del psicòleg. És una preocupació raonable, i convé aclarir-la. Un vincle terapèutic sa no busca que necessitis al teu terapeuta per sempre: busca que, a través de la relació amb ell, desenvolupis més capacitat per estar amb tu mateix. L'objectiu no és que et quedis: és que avancis.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha moments del procés en què la relació amb el psicòleg és un suport important, i això forma part de la feina. Però a mesura que el procés avança, la persona hauria de sentir que els seus recursos interns creixen, que els canvis no depenen exclusivament de la presència del terapeuta i que la vida fora de la sessió es va sentint més pròpia. Si això no passa, és una senyal per mirar.",
+      },
+      {
+        type: "heading",
+        text: "El vincle com a model",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una funció del vincle terapèutic que rarament s'esmenta però que té un pes real: la funció de model. La relació amb el teu psicòleg és, per a moltes persones, una experiència de com poden ser les relacions quan es viuen amb atenció, respecte i coherència. I aquesta experiència, sostinguda en el temps, canvia la idea que un mateix té del que és possible en les seves relacions de fora.",
+      },
+      {
+        type: "paragraph",
+        text: "No és que la teràpia et faci amics nous ni que et resolgui els teus vincles. És que la experiència d'una relació ben construïda et mostra un nivell de qualitat que pots començar a buscar, a oferir i a reconèixer en altres llocs. Aquest trasllat, quan es produeix, és una de les transformacions més profundes que pot oferir un procés terapèutic.",
+      },
+      {
+        type: "paragraph",
+        text: "El vincle terapèutic, en definitiva, no és un accessori. És el lloc on es fa possible la feina. Si estàs considerant començar un procés, o si ja l'has començat i vols mirar si la relació amb el teu psicòleg t'està servint, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions treballem des de la convicció que la qualitat de la relació és el primer ingredient del procés: sense un vincle sòlid, no hi ha tècnica que basti.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "Com sé si tinc bon encaix amb el meu psicòleg?",
+            answer:
+              "L'encaix no sempre és evident des de la primera sessió, i això és normal. El que convé mirar és la direcció al llarg de les primeres sessions: sents que pots dir el que penses sense haver de protegir la imatge que el terapeuta es fa de tu? Sents que et comprèn, no només t'escolta? Pots parlar del que passa entre vosaltres a la sessió mateixa? Si després de diverses sessions la resposta a aquestes preguntes és «no» de manera sostinguda, val la pena mirar-ho, i si cal, considerar un canvi.",
+          },
+          {
+            question:
+              "És normal sentir-se dependent del psicòleg al principi?",
+            answer:
+              "Hi pot haver una fase en què la relació amb el psicòleg és un suport important, i això forma part del procés. Però la dependència no és l'objectiu. A mesura que el procés avança, hauries de sentir que els teus recursos interns creixen i que els canvis no depenen exclusivament de la sessió. Si portes molt de temps i sents que no pots avançar sense el terapeuta, és una senyal per parlar-ne dins de la mateixa teràpia.",
+          },
+          {
+            question:
+              "El vincle importa més que la tècnica?",
+            answer:
+              "No es tracta d'una competició entre vincle i tècnica: tots dos són necessaris. La investigació en psicoteràpia mostra que el factor comú que més explica els canvis és la qualitat de la relació, però això no vol dir que la tècnica no importi. Vol dir que sense un vincle sòlid, la tècnica perd gran part de la seva capacitat. L'ideal és un procés on el vincle i la tècnica es complementin.",
+          },
+          {
+            question:
+              "Puc parlar amb el meu psicòleg dels problemes que tinc amb ell?",
+            answer:
+              "Sí, i és una bona senyal que ho facis. Els moments de fricció o de desajustament dins de la relació terapèutica no són failures: són el lloc on el vincle es forja. Poder dir al teu psicòleg el que t'incomoda de la relació mateixa, i que ell ho rebi sense posar-se a la defensiva, és una de les eines més potents del procés. Si el teu psicòleg no pot rebre aquesta mena de feedback, és una senyal per mirar.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si estàs considerant començar un procés terapèutic i vols comprovar si l'encaix amb el nostre estil d'acompanyament és el que necessites, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions entenem que el vincle no és un detall: és el primer ingredient. Sense una relació sòlida, no hi ha tècnica que basti.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Cuando alguien busca un psicólogo, suele tener en mente una pregunta práctica: qué técnica utiliza, qué enfoque sigue, cuánto cuesta, cuánto dura. Esas preguntas tienen sentido. Pero hay otra pregunta, más difícil de formular y a menudo más decisiva, que queda fuera de la lista: «¿encajo con esta persona?». No es una cuestión de simpatía ni de compatibilidad de aficiones. Es una cuestión de vínculo —la calidad de la relación que se construye entre quien consulta y quien acompaña— y tiene más peso del que parece.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: el vínculo terapéutico no es un detalle secundario. Es el suelo sobre el que se apoya todo el proceso. Sin una relación de confianza, de seguridad y de respeto, las técnicas pierden gran parte de su capacidad. La investigación en psicoterapia lo confirma de manera sostenida desde hace décadas: el factor común que más explica los cambios en terapia no es el modelo concreto que se aplica, sino la calidad de la relación entre paciente y terapeuta. Esto no significa que la técnica no importe: significa que sin vínculo, la técnica no basta.",
+      },
+      {
+        type: "heading",
+        text: "Qué es exactamente el vínculo terapéutico",
+      },
+      {
+        type: "paragraph",
+        text: "El vínculo terapéutico es la relación profesional que se construye entre tú y tu psicólogo a lo largo del proceso. No es amistad, ni amor, ni dependencia. Es una relación con un propósito: que tú puedas mirar lo que te trae con libertad, sin juzgarte ni esconderte, y que puedas hacerlo acompañado por alguien que te percibe con respeto y con criterio.",
+      },
+      {
+        type: "paragraph",
+        text: "Tiene tres componentes que se tejen a lo largo del tiempo. El primero es la confianza: la sensación de que puedes decir lo que piensas sin que se rompa nada, de que lo que compartes no será utilizado contra ti y de que tu psicólogo está de tu lado sin dejar de ser honesto. El segundo es la seguridad: la percepción de que en esta relación no hay peligro, de que puedes equivocarte, dudar, contradecirte o callar sin que eso cambie la manera como tu psicólogo te mira. El tercero es el respeto por tu ritmo: la convicción de que el proceso avanza a tu paso, no al del profesional.",
+      },
+      {
+        type: "heading",
+        text: "Por qué la calidad del vínculo cambia el proceso",
+      },
+      {
+        type: "paragraph",
+        text: "Podría parecer que el vínculo es lo que hace que la terapia sea agradable, y que el trabajo real lo hacen las técnicas. Pero la realidad es otra. Muchas de las cosas que necesitan ser dichas en terapia —duelos, miedos, conflictos no resueltos, partes de uno mismo que no se reconocen, decisiones que pesan— no se dicen si no hay seguridad. Y no se dicen de verdad si la persona siente que tiene que proteger la imagen que el terapeuta se hace de ella.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto significa que un vínculo sólido no hace que la terapia sea más cómoda: la hace posible. Cuando la relación es buena, puedes llegar a lugares donde no llegarías solo, porque hay alguien al lado cuya presencia te permite sostener lo que aparece. Cuando la relación no lo es, la terapia se queda en la superficie: se habla, se analiza, se reflexiona, pero no se toca el fondo. Y el fondo, a menudo, es lo que llevaba a la persona a buscar ayuda.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un segundo aspecto menos visible. La relación terapéutica es, para muchas personas, una de las pocas relaciones adultas en las que pueden experimentar ser vistas sin condiciones. Eso, en sí mismo, cambia cosas. Hay personas que no han tenido nunca una relación así, o que hace años que no la tienen, y descubren que la experiencia de ser escuchadas con atención sostenida y sin juicio produce un efecto que no esperaban: les permite empezar a escucharse a sí mismas con un poco más de suavidad.",
+      },
+      {
+        type: "heading",
+        text: "El vínculo no se construye de un día para otro",
+      },
+      {
+        type: "paragraph",
+        text: "Una idea frecuente es que el encaje terapéutico se nota enseguida: primeras sesiones, primera impresión, y ya sabes. A veces ocurre así, y es una buena señal. Pero no siempre. El vínculo terapéutico es una relación que se construye con el tiempo, como cualquier relación que valga la pena. Las primeras sesiones sirven para conocerse, para mirarse, para ver si hay un espacio donde las dos partes pueden trabajar juntas. Y eso no siempre se resuelve en la primera visita.",
+      },
+      {
+        type: "paragraph",
+        text: "Es normal que al principio haya una cierta cautela. Que no sepas qué decir, que te cueste abrirte, que tengas la sensación de estar tanteando el terreno. Esa cautela no significa que el vínculo no funcione: significa que está en construcción. Lo que sí conviene mirar es la dirección: después de unas sesiones, ¿sientes que el terreno es más firme, o sientes que no?",
+      },
+      {
+        type: "paragraph",
+        text: "Hay momentos del proceso en los que el vínculo se pone a prueba. Cuando aparecen temas difíciles, cuando sientes que el terapeuta te dice algo que no quieres escuchar, cuando hay un malentendido o un desajuste. Esos momentos no son fallos del vínculo: son el lugar donde se forja. La manera como se gestionan las fricciones dentro de la relación terapéutica es una de las herramientas más potentes del proceso, porque permite ver en vivo cómo gestionáis los conflictos las dos partes, y porque esa experiencia se puede trasladar a las relaciones de fuera.",
+      },
+      {
+        type: "heading",
+        text: "Qué hace que un vínculo sea bueno",
+      },
+      {
+        type: "paragraph",
+        text: "No hay una lista cerrada, pero hay algunas cualidades que aparecen con frecuencia cuando el vínculo funciona. La primera es la sensación de ser comprendido, no solo escuchado: que tu psicólogo capta lo que dices y también lo que no dices, lo que hay entre líneas. La segunda es la libertad para decir lo que piensas de la relación misma: poder decir «hoy no me ha llegado» o «no estoy de acuerdo con esto que me has dicho» sin que eso cree tensión. La tercera es la percepción de que tu psicólogo no tiene una agenda oculta: no te empuja hacia una conclusión que él tiene, sino que te acompaña hacia la tuya.",
+      },
+      {
+        type: "paragraph",
+        text: "A todo esto se suma una cualidad más sutil: la coherencia. Cuando lo que dice tu psicólogo encaja con lo que hace, cuando sus palabras y su manera de estar contigo son consistentes, el vínculo gana solidez. Cuando hay disonancia —lo que dice una cosa y la manera como lo dice dice otra— la confianza se debilita, aunque no sepas decir por qué.",
+      },
+      {
+        type: "heading",
+        text: "Cómo saber si el vínculo te está sirviendo",
+      },
+      {
+        type: "paragraph",
+        text: "Es una buena pregunta, y no siempre fácil de responder desde dentro. Algunas señales que ayudan: después de las sesiones, ¿sientes que has podido mirar algo con un poco más de claridad, aunque haya sido difícil? ¿Puedes decirle a tu psicólogo lo que te pasa por la sesión misma, incluyendo lo que te incomoda de él? ¿Sientes que el proceso avanza, aunque sea despacio, o tienes la sensación de estar girando en círculo sin moverte?",
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna de estas preguntas tiene una respuesta única. Pero la dirección general sí es clara: un buen vínculo no se reconoce porque la terapia sea fácil, sino porque te permite llegar a lugares donde no llegarías solo. Si llevas semanas o meses y sientes que la relación no te abre nada, que tienes que esforzarte por ser como el terapeuta espera que seas, o que la sesión es un trámite que no deja huella, vale la pena mirarlo. No necesariamente significa que estés en el lugar equivocado: puede significar que hace falta hablar de lo que está pasando entre los dos. Y eso, en una buena relación terapéutica, forma parte del trabajo.",
+      },
+      {
+        type: "heading",
+        text: "El vínculo no es dependencia",
+      },
+      {
+        type: "paragraph",
+        text: "Una preocupación que aparece a menudo es el miedo a depender del psicólogo. Es una preocupación razonable, y conviene aclararla. Un vínculo terapéutico sano no busca que necesites a tu terapeuta para siempre: busca que, a través de la relación con él, desarrolles más capacidad para estar contigo mismo. El objetivo no es que te quedes: es que avances.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay momentos del proceso en los que la relación con el psicólogo es un apoyo importante, y eso forma parte del trabajo. Pero a medida que el proceso avanza, la persona debería sentir que sus recursos internos crecen, que los cambios no dependen exclusivamente de la presencia del terapeuta y que la vida fuera de la sesión se va sintiendo más propia. Si eso no ocurre, es una señal para mirar.",
+      },
+      {
+        type: "heading",
+        text: "El vínculo como modelo",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una función del vínculo terapéutico que raramente se menciona pero que tiene un peso real: la función de modelo. La relación con tu psicólogo es, para muchas personas, una experiencia de cómo pueden ser las relaciones cuando se viven con atención, respeto y coherencia. Y esa experiencia, sostenida en el tiempo, cambia la idea que uno mismo tiene de lo que es posible en sus relaciones de fuera.",
+      },
+      {
+        type: "paragraph",
+        text: "No es que la terapia te haga amigos nuevos ni que te resuelva tus vínculos. Es que la experiencia de una relación bien construida te muestra un nivel de calidad que puedes empezar a buscar, a ofrecer y a reconocer en otros lugares. Ese traslado, cuando se produce, es una de las transformaciones más profundas que puede ofrecer un proceso terapéutico.",
+      },
+      {
+        type: "paragraph",
+        text: "El vínculo terapéutico, en definitiva, no es un accesorio. Es el lugar donde se hace posible el trabajo. Si estás considerando empezar un proceso, o si ya lo has empezado y quieres mirar si la relación con tu psicólogo te está sirviendo, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions trabajamos desde la convicción de que la calidad de la relación es el primer ingrediente del proceso: sin un vínculo sólido, no hay técnica que baste.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Cómo sé si tengo buen encaje con mi psicólogo?",
+            answer:
+              "El encaje no siempre es evidente desde la primera sesión, y eso es normal. Lo que conviene mirar es la dirección a lo largo de las primeras sesiones: ¿sientes que puedes decir lo que piensas sin tener que proteger la imagen que el terapeuta se hace de ti? ¿Sientes que te comprende, no solo te escucha? ¿Puedes hablar de lo que pasa entre vosotros en la sesión misma? Si después de varias sesiones la respuesta a estas preguntas es «no» de manera sostenida, vale la pena mirarlo, y si hace falta, considerar un cambio.",
+          },
+          {
+            question:
+              "¿Es normal sentirse dependiente del psicólogo al principio?",
+            answer:
+              "Puede haber una fase en la que la relación con el psicólogo es un apoyo importante, y eso forma parte del proceso. Pero la dependencia no es el objetivo. A medida que el proceso avanza, deberías sentir que tus recursos internos crecen y que los cambios no dependen exclusivamente de la sesión. Si llevas mucho tiempo y sientes que no puedes avanzar sin el terapeuta, es una señal para hablarlo dentro de la propia terapia.",
+          },
+          {
+            question:
+              "¿El vínculo importa más que la técnica?",
+            answer:
+              "No se trata de una competición entre vínculo y técnica: ambos son necesarios. La investigación en psicoterapia muestra que el factor común que más explica los cambios es la calidad de la relación, pero eso no significa que la técnica no importe. Significa que sin un vínculo sólido, la técnica pierde gran parte de su capacidad. Lo ideal es un proceso donde el vínculo y la técnica se complementen.",
+          },
+          {
+            question:
+              "¿Puedo hablar con mi psicólogo de los problemas que tengo con él?",
+            answer:
+              "Sí, y es una buena señal que lo hagas. Los momentos de fricción o de desajuste dentro de la relación terapéutica no son fallos: son el lugar donde el vínculo se forja. Poder decirle a tu psicólogo lo que te incomoda de la relación misma, y que él lo reciba sin ponerse a la defensiva, es una de las herramientas más potentes del proceso. Si tu psicólogo no puede recibir ese tipo de feedback, es una señal para mirar.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si estás considerando empezar un proceso terapéutico y quieres comprobar si el encaje con nuestro estilo de acompañamiento es lo que necesitas, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions entendemos que el vínculo no es un detalle: es el primer ingrediente. Sin una relación sólida, no hay técnica que baste.",
       },
     ],
   },
