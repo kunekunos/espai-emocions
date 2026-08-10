@@ -603,4 +603,298 @@ export const articlesPart8: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 3. ira-tardia-edad-adulta-cuando-lo-que-no-se-dijo-vuelve (Pilar: ¿Necesito un psicólogo? / Problemas relacionales)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "ira-tardia-edad-adulta-cuando-lo-que-no-se-dijo-vuelve",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA:
+      "La ira tardana: quan allò que no es va dir torna anys després",
+    titleES:
+      "La ira tardía: cuando lo que no se dijo vuelve años después",
+    excerptCA:
+      "Hi ha un tipus d'ira que no apareix com a explosió, sinó com a distància, irritabilitat o cansament. És la ira que no es va poder expressar a temps: amb els pares, amb una parella anterior, amb un context que no deixava marge. I que, anys després, torna —no sempre amb el seu nom, gairebé sempre disfressada d'altres coses. Aquí explorem què és aquesta ira tardana, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a integrar-la sense que es converteixi ni en rancor ni en culpa.",
+    excerptES:
+      "Hay un tipo de ira que no aparece como explosión, sino como distancia, irritabilidad o cansancio. Es la ira que no se pudo expresar a tiempo: con los padres, con una pareja anterior, con un contexto que no dejaba margen. Y que, años después, vuelve —no siempre con su nombre, casi siempre disfrazada de otras cosas. Aquí exploramos qué es esa ira tardía, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a integrarla sin que se convierta ni en rencor ni en culpa.",
+    datePublished: "2026-08-10",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quan pensem en la ira, pensem en crits, en portes que es tanquen, en alguna cosa que es trenca. Però hi ha una altra forma d'ira, més silenciosa i sovint més antiga, que no es presenta així. Es presenta com a distància: amb algú amb qui ja no parles com abans, amb un tema que evites sistemàticament, amb una relació que s'ha anat buidant sense que hi hagi hagut una baralla que ho expliqui. O com a irritabilitat: aquesta impaciència que t'envaeix sense motiu clar, aquesta sensació de tenir menys marge, de tolerar menys allò que abans toleraves. O com a cansament: un esgotament que no ve de fer massa coses, sinó de portar anys sostenint alguna cosa que no s'ha pogut dir.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: aquesta ira que apareix tard no és un defecte de caràcter ni un fracàs d'autocontrol. És, moltes vegades, el retorn d'allò que no es va poder expressar quan calia. La ira que no troba paraula a temps no desapareix: s'emmagatzema, es transformar, i anys després es presenta disfressada. La feina terapèutica no consisteix a eliminar-la ni a justificar-la: consisteix a mirar-la, comprendre d'on ve i què necessita, i trobar la manera de integrar-la en la teva història sense que et defineixi.",
+      },
+      {
+        type: "heading",
+        text: "Una ira que no sempre es reconeix com a tal",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les primeres dificultats amb la ira tardana és que la persona que la porta sovint no la identifica com a ira. Ha après, durant anys, que enfadar-se no estava bé, que no servia, que feia mal, que era inadequat. I ha anat tancant aquesta porta fins al punt de no reconèixer la pròpia ràbia quan la sent. Però la ràbia no desapareix perquè no la miris: canvia de forma.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes són algunes de les formes que adopta amb freqüència:",
+      },
+      {
+        type: "list",
+        items: [
+          "Distància progressiva amb persones properes —no per una baralla, sinó per un silenci que s'ha fet costum",
+          "Irritabilitat que no et representa: coses petites et treuen de poltre, i després no saps per què",
+          "Cansament crònic que no s'explica pel descans: una sensació de portar un pes que no saps anomenar",
+          "Sarcasme o ironia que no reconeixes com a teva: la ràbia es filtra per la broma",
+          "Dificultat per gaudir de coses que abans agradaven: un fons gris que no se'n va",
+          "Sensació de no estar present, com si estiguessis a un pam de la teva pròpia vida",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Cap d'aquests senyals, per separat, vol dir que estiguis enredat en una ira tardana. Però quan diversos coincideixen, i sobretot quan coincideixen amb una història en què aprendre a no enfadar-se va ser una necessitat, té sentit mirar-los junts.",
+      },
+      {
+        type: "heading",
+        text: "D'on ve: la ira que no es va poder dir",
+      },
+      {
+        type: "paragraph",
+        text: "La ira tardana té, gairebé sempre, una història darrere. I aquesta història sol tenir a veure amb un context en què expressar el que senties no era possible. Pot ser una família on enfadar-se estava prohibit —on la ira es vivia com a perillosa, com a traïció, com a alguna cosa que trenca el vincle. Pot ser una relació de parella on la ràbia d'una de les parts ocupava tot l'espai i la teva no tenia lloc. Pot ser un entorn professional on queixar-se significava quedar-se fora. En tots aquests casos, la persona va aprendre una cosa: que la seva ira no cabia, i que per sostenir la relació o el context, havia de guardar-la.",
+      },
+      {
+        type: "paragraph",
+        text: "Guardar la ira no és neutral. Té un cost, i aquest cost es paga en energia, en cos, en disponibilitat per a la vida. La persona que porta anys contenint una ràbia que no ha pogut expressar està, d'alguna manera, sostenint un pes constant sense baixar-lo. I com més temps passa, més difícil és reconèixer-lo, perquè s'ha tornat part del paisatge: ja no saps que el portes, perquè mai has estat sense ell.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta és una de les raons per les quals la ira tardana apareix amb força a la maduresa adulta. Als quaranta o als cinquanta, una persona pot portar dècades contenint. I arriba un moment —sovint un canvi de context, una pèrdua, una crisi, o simplement l'acumulació— en què aquesta contenció comença a fallar. La ràbia, que ha estat anys sota terra, comença a filtrar-se per les esquerdes.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre ràbia sana i ira que s'ha arraconat",
+      },
+      {
+        type: "paragraph",
+        text: "És una distinció important, i no sempre fàcil de fer des de dins. La ràbia, en la seva forma sana, és una emoció que té una funció: senyalar que alguna cosa està malament, que un límit s'ha creuat, que una necessitat no està sent atesa. Ve, es sent, es processa i, amb el temps, es modula. La ràbia sana no és un problema: és informació.",
+      },
+      {
+        type: "paragraph",
+        text: "La ira que s'ha arraconat és diferent. No va ser sentida quan va aparèixer, i per això no va poder ser processada. No ve ara com a senyal: ve com a acumulació. I no afecta només el moment: afecta la manera com veus la persona amb qui està associada, com veus les relacions en general i, de vegades, com et veus a tu mateix. Aquesta ira, quan dura anys i es presenta tard, ja no informa sobre una situació concreta: parla d'una història sencera de coses que no es van poder dir.",
+      },
+      {
+        type: "heading",
+        text: "Per què costa tant mirar-la",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha diverses raons per les quals la ira tardana és tan difícil de mirar. La primera és que, per a moltes persones, la ira s'associa amb alguna cosa que fa mal. Qui va aprendre que enfadar-se era perillós —perquè trenca vincles, perquè genera resposta agressiva, perquè no és «correcte»— no deixa fàcilment que aquesta emoció surti, encara que ja no estigui en aquell context. La segona és que la ira tardana sovint està dirigida cap a persones amb qui el vincle és important: pares que van fer el que van poder però que també van ferir, parelles amb qui ja no s'està però el compte no es va tancar. Reconèixer la ràbia cap a aquestes persones pot sentir-se com una traïció.",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera raó és la culpa. La ira tardana conviu sovint amb una culpa que diu: «no hauria d'estar enfadat», «ja és aigua passada», «tenir rancor no em fa bé». I aquesta culpa, que té una funció en el seu origen —mantenir el vincle, evitar el conflicte—, acaba funcionant com una segona capa de contenció: la primera va guardar la ira, la culpa manté la ira guardada.",
+      },
+      {
+        type: "heading",
+        text: "El que no és la ira tardana",
+      },
+      {
+        type: "paragraph",
+        text: "Conveni aclarir-ho: reconèixer una ira tardana no vol dir convertir-la en ressentiment. No vol dir quedar-se atrapat en ella, ni fer-la servir per justificar una postura permanent contra algú. I no vol dir, tampoc, que la solució sigui confrontar a qui sigui que la va generar, anys després i sigui quin sigui el context. La integració de la ira no té com a objectiu la confrontació: té com a objectiu la llibertat. La llibertat de deixar de portar un pes que ja no et correspon, de poder relacionar-te amb les persones des d'un lloc més net, de deixar de sostenir un compte que fa temps que està tancat però que el cos encara no sap que ho està.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et dirà amb qui t'hauries d'enfadar ni què hauries de dir-li. El que pot fer és oferir un espai on mirar aquesta ira sense que et tombi, sense que la culpa la torni a enterrar, i sense que es converteixi en un relat permanent de greuges. Un espai on la pregunta no sigui «està bé que senti això?» —la resposta sempre és sí— sinó «què necessita aquesta part de mi que ha estat anys callada?».",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar la ira tardana implica, sovint, donar-li paraula a una emoció que no en va tenir. Implica mirar què va passar en aquell context on no podies enfadar-te, què va significar per a tu guardar-ho, i quin preu has pagat per anys de contenció. I implica, sobretot, distingir entre la ira que encara té sentit —perquè la situació continua— i la ira que és només memòria, que necessita ser reconeguda i després soltada.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta feina no és còmoda ni ràpida. Però té un efecte alliberador: la persona que pot mirar la seva ira tardana i integrar-la descobreix que ja no necessita sostenir-la. I el que s'hi guanya no és només tranquil·litat: és presència. La ira que s'ha guardat anys ocupa espai —espai que, un cop alliberat, queda disponible per a altres coses: per a relacions més vives, per a projectes que s'havien quedat aturats, per a una manera d'estar amb un mateix que no requereix tant d'esforç.",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresz, en aquest punt, no és no enfadar-se mai. És poder reconèixer la ira quan apareix —tard o d'hora—, mirar-la sense avergonyir-se'n, i deixar-la anar on correspon. No com un defecte que cal ocultar, sinó com una part de la teva història que també mereix ser vista.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "Com sé si el que sento és ira o simplement cansament o depressió?",
+            answer:
+              "La distinció no sempre és clara, i això és normal: la ira reprimida pot presentar-se com a cansament, com a distància o com a fons gris, formes que també són pròpies dels estats depressius. Un indici que pot orientar és la presència d'una història en què aprendre a no enfadar-se va ser necessari —una família on la ira no era admissible, una relació on la teva ràbia no tenia lloc. Si aquesta història hi és, i les manifestacions coincideixen, té sentit mirar-ho amb ajuda. La valoració professional pot ajudar a distingir què hi ha sota.",
+          },
+          {
+            question:
+              "Si reconeixo la ira cap als meus pares, vol dir que els he de confrontar?",
+            answer:
+              "No necessàriament. La integració de la ira tardana no té com a objectiu la confrontació: té com a objectiu la llibertat. Hi ha casos en què parlar amb la persona implicada té sentit i ajuda, i altres en què no és possible, no és desitjable o no canviaria res. El que importa no és tant què facis cap a fora, sinó què passi cap a dins: deixar de portar un pes que ja no et correspon. La teràpia pot ajudar a decidir què té sentit en el teu cas concret.",
+          },
+          {
+            question:
+              "Tinc rancor o és una emoció legítima?",
+            answer:
+              "La línia entre rancor i ira legítima no sempre és fàcil de tramar. El rancor és una ira que s'ha quedat fixa, que ja no processa i que es converteix en una postura permanent. La ira legítima és una emoció que informa sobre alguna cosa que va estar malament i que necessita ser reconeguda. La teràpia ajuda a distingir entre les dues: no per jutjar el que sents, sinó per mirar si el que portes serveix per a alguna cosa o si ja només pesa.",
+          },
+          {
+            question:
+              "És massa tard per mirar aquestes coses després de tants anys?",
+            answer:
+              "No. La ira tardana pot aparèixer als quaranta, als cinquanta o més enllà, i això no és un signe de que s'hi ha arribat tard: és un signe que el context ha canviat i que ara hi ha marge per mirar-la. Moltes persones descobreixen, a la maduresa, que per primera vegada tenen l'espai i els recursos per processar coses que no van poder processar abans. La teràpia no té un termini de caducitat.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sents que portes anys una ira que no has pogut mirar, que la teva relació amb certes persones està travada per un compte que no es tanca, o que el cansament o la distància que sents no tenen una explicació clara, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem adults que porten anys contenint el que no es va poder dir, amb temps i profunditat —no per donar-te una resposta, sinó per ajudar-te a trobar la teva.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Cuando pensamos en la ira, pensamos en gritos, en puertas que se cierran, en algo que se rompe. Pero hay otra forma de ira, más silenciosa y a menudo más antigua, que no se presenta así. Se presenta como distancia: con alguien con quien ya no hablas como antes, con un tema que evitas sistemáticamente, con una relación que se ha ido vaciando sin que haya habido una pelea que lo explique. O como irritabilidad: esa impaciencia que te invade sin motivo claro, esa sensación de tener menos margen, de tolerar menos lo que antes tolerabas. O como cansancio: un agotamiento que no viene de hacer demasiadas cosas, sino de llevar años sosteniendo algo que no se ha podido decir.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: esa ira que aparece tarde no es un defecto de carácter ni un fracaso de autocontrol. Es, muchas veces, el retorno de aquello que no se pudo expresar cuando tocaba. La ira que no encuentra palabra a tiempo no desaparece: se almacena, se transforma, y años después se presenta disfrazada. El trabajo terapéutico no consiste en eliminarla ni en justificarla: consiste en mirarla, comprender de dónde viene y qué necesita, y encontrar la manera de integrarla en tu historia sin que te defina.",
+      },
+      {
+        type: "heading",
+        text: "Una ira que no siempre se reconoce como tal",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las primeras dificultades con la ira tardía es que la persona que la lleva a menudo no la identifica como ira. Ha aprendido, durante años, que enfadarse no estaba bien, que no servía, que hacía daño, que era inadecuado. Y ha ido cerrando esa puerta hasta el punto de no reconocer la propia rabia cuando la siente. Pero la rabia no desaparece porque no la mires: cambia de forma.",
+      },
+      {
+        type: "paragraph",
+        text: "Estas son algunas de las formas que adopta con frecuencia:",
+      },
+      {
+        type: "list",
+        items: [
+          "Distancia progresiva con personas cercanas —no por una pelea, sino por un silencio que se ha hecho costumbre",
+          "Irritabilidad que no te representa: cosas pequeñas te sacan de quicio, y luego no sabes por qué",
+          "Cansancio crónico que no se explica con el descanso: una sensación de llevar un peso que no sabes nombrar",
+          "Sarcasmo o ironía que no reconoces como tuya: la rabia se filtra por la broma",
+          "Dificultad para disfrutar de cosas que antes gustaban: un fondo gris que no se va",
+          "Sensación de no estar presente, como si estuvieras a un palmo de tu propia vida",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna de estas señales, por separado, significa que estés enredado en una ira tardía. Pero cuando varias coinciden, y sobre todo cuando coinciden con una historia en la que aprender a no enfadarse fue una necesidad, tiene sentido mirarlas juntas.",
+      },
+      {
+        type: "heading",
+        text: "De dónde viene: la ira que no se pudo decir",
+      },
+      {
+        type: "paragraph",
+        text: "La ira tardía tiene, casi siempre, una historia detrás. Y esa historia suele tener que ver con un contexto en el que expresar lo que sentías no era posible. Puede ser una familia donde enfadarse estaba prohibido —donde la ira se vivía como peligrosa, como traición, como algo que rompe el vínculo. Puede ser una relación de pareja donde la rabia de una de las partes ocupaba todo el espacio y la tuya no tenía lugar. Puede ser un entorno profesional donde quejarse significaba quedarte fuera. En todos estos casos, la persona aprendió una cosa: que su ira no cabía, y que para sostener la relación o el contexto, tenía que guardarla.",
+      },
+      {
+        type: "paragraph",
+        text: "Guardar la ira no es neutral. Tiene un coste, y ese coste se paga en energía, en cuerpo, en disponibilidad para la vida. La persona que lleva años conteniendo una rabia que no ha podido expresar está, de alguna manera, sosteniendo un peso constante sin bajarlo. Y cuanto más tiempo pasa, más difícil es reconocerlo, porque se ha vuelto parte del paisaje: ya no sabes que lo llevas, porque nunca has estado sin él.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta es una de las razones por las que la ira tardía aparece con fuerza en la madurez adulta. A los cuarenta o a los cincuenta, una persona puede llevar décadas conteniendo. Y llega un momento —a menudo un cambio de contexto, una pérdida, una crisis, o simplemente la acumulación— en el que esa contención empieza a fallar. La rabia, que ha estado años bajo tierra, empieza a filtrarse por las grietas.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre rabia sana e ira que se ha arrinconado",
+      },
+      {
+        type: "paragraph",
+        text: "Es una distinción importante, y no siempre fácil de hacer desde dentro. La rabia, en su forma sana, es una emoción que tiene una función: señalar que algo está mal, que un límite se ha cruzado, que una necesidad no está siendo atendida. Viene, se siente, se procesa y, con el tiempo, se modula. La rabia sana no es un problema: es información.",
+      },
+      {
+        type: "paragraph",
+        text: "La ira que se ha arrinconado es diferente. No fue sentida cuando apareció, y por eso no pudo ser procesada. No viene ahora como señal: viene como acumulación. Y no afecta solo al momento: afecta a la manera como ves a la persona con quien está asociada, como ves las relaciones en general y, a veces, como te ves a ti mismo. Esa ira, cuando dura años y se presenta tarde, ya no informa sobre una situación concreta: habla de una historia entera de cosas que no se pudieron decir.",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta tanto mirarla",
+      },
+      {
+        type: "paragraph",
+        text: "Hay varias razones por las que la ira tardía es tan difícil de mirar. La primera es que, para muchas personas, la ira se asocia con algo que hace daño. Quien aprendió que enfadarse era peligroso —porque rompe vínculos, porque genera respuesta agresiva, porque no es «correcto»— no deja fácilmente que esa emoción salga, aunque ya no esté en ese contexto. La segunda es que la ira tardía a menudo está dirigida hacia personas con quien el vínculo es importante: padres que hicieron lo que pudieron pero que también hirieron, parejas con quien ya no se está pero la cuenta no se cerró. Reconocer la rabia hacia esas personas puede sentirse como una traición.",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera razón es la culpa. La ira tardía convive a menudo con una culpa que dice: «no debería estar enfadado», «ya es agua pasada», «tener rencor no me hace bien». Y esa culpa, que tiene una función en su origen —mantener el vínculo, evitar el conflicto—, acaba funcionando como una segunda capa de contención: la primera guardó la ira, la culpa mantiene la ira guardada.",
+      },
+      {
+        type: "heading",
+        text: "Lo que no es la ira tardía",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene aclararlo: reconocer una ira tardía no significa convertirla en resentimiento. No significa quedar atrapado en ella, ni usarla para justificar una postura permanente contra alguien. Y no significa, tampoco, que la solución sea confrontar a quien sea que la generó, años después y sea cual sea el contexto. La integración de la ira no tiene como objetivo la confrontación: tiene como objetivo la libertad. La libertad de dejar de llevar un peso que ya no te corresponde, de poder relacionarte con las personas desde un lugar más limpio, de dejar de sostener una cuenta que hace tiempo está cerrada pero que el cuerpo aún no sabe que lo está.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te dirá con quién deberías enfadarte ni qué deberías decirle. Lo que puede hacer es ofrecer un espacio donde mirar esa ira sin que te derrumbe, sin que la culpa la vuelva a enterrar, y sin que se convierta en un relato permanente de agravios. Un espacio donde la pregunta no sea «¿está bien que sienta esto?» —la respuesta siempre es sí— sino «¿qué necesita esta parte de mí que ha estado años callada?».",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar la ira tardía implica, a menudo, darle palabra a una emoción que no la tuvo. Implica mirar qué pasó en aquel contexto donde no podías enfadarte, qué significó para ti guardarlo, y qué precio has pagado por años de contención. E implica, sobre todo, distinguir entre la ira que sigue teniendo sentido —porque la situación continúa— y la ira que es solo memoria, que necesita ser reconocida y luego soltada.",
+      },
+      {
+        type: "paragraph",
+        text: "Este trabajo no es cómodo ni rápido. Pero tiene un efecto liberador: la persona que puede mirar su ira tardía e integrarla descubre que ya no necesita sostenerla. Y lo que se gana no es solo tranquilidad: es presencia. La ira que se ha guardado durante años ocupa espacio —espacio que, una vez liberado, queda disponible para otras cosas: para relaciones más vivas, para proyectos que se habían quedado parados, para una manera de estar contigo mismo que no requiere tanto esfuerzo.",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez, en este punto, no es no enfadarse nunca. Es poder reconocer la ira cuando aparece —tarde o pronto—, mirarla sin avergonzarte de ella, y dejarla ir donde corresponde. No como un defecto que hay que ocultar, sino como una parte de tu historia que también merece ser vista.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Cómo sé si lo que siento es ira o simplemente cansancio o depresión?",
+            answer:
+              "La distinción no siempre es clara, y eso es normal: la ira reprimida puede presentarse como cansancio, como distancia o como fondo gris, formas que también son propias de los estados depresivos. Un indicio que puede orientar es la presencia de una historia en la que aprender a no enfadarse fue necesario —una familia donde la ira no era admisible, una relación donde tu rabia no tenía lugar. Si esa historia está, y las manifestaciones coinciden, tiene sentido mirarlo con ayuda. La valoración profesional puede ayudar a distinguir qué hay debajo.",
+          },
+          {
+            question:
+              "Si reconozco la ira hacia mis padres, ¿significa que tengo que confrontarlos?",
+            answer:
+              "No necesariamente. La integración de la ira tardía no tiene como objetivo la confrontación: tiene como objetivo la libertad. Hay casos en los que hablar con la persona implicada tiene sentido y ayuda, y otros en los que no es posible, no es deseable o no cambiaría nada. Lo que importa no es tanto qué hagas hacia fuera, sino qué pase hacia dentro: dejar de llevar un peso que ya no te corresponde. La terapia puede ayudar a decidir qué tiene sentido en tu caso concreto.",
+          },
+          {
+            question:
+              "¿Tengo rencor o es una emoción legítima?",
+            answer:
+              "La línea entre rencor e ira legítima no siempre es fácil de trazar. El rencor es una ira que se ha quedado fijada, que ya no procesa y que se convierte en una postura permanente. La ira legítima es una emoción que informa sobre algo que estuvo mal y que necesita ser reconocida. La terapia ayuda a distinguir entre las dos: no para juzgar lo que sientes, sino para mirar si lo que llevas sirve para algo o si ya solo pesa.",
+          },
+          {
+            question:
+              "¿Es demasiado tarde para mirar estas cosas después de tantos años?",
+            answer:
+              "No. La ira tardía puede aparecer a los cuarenta, a los cincuenta o más allá, y eso no es un signo de que se ha llegado tarde: es un signo de que el contexto ha cambiado y de que ahora hay margen para mirarla. Muchas personas descubren, en la madurez, que por primera vez tienen el espacio y los recursos para procesar cosas que no pudieron procesar antes. La terapia no tiene fecha de caducidad.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sientes que llevas años una ira que no has podido mirar, que tu relación con ciertas personas está trabada por una cuenta que no se cierra, o que el cansancio o la distancia que sientes no tienen una explicación clara, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos a adultos que llevan años conteniendo lo que no se pudo decir, con tiempo y profundidad —no para darte una respuesta, sino para ayudarte a encontrar la tuya.",
+      },
+    ],
+  },
 ];

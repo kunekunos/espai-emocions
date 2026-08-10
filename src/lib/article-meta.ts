@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "ira-tardia-edad-adulta-cuando-lo-que-no-se-dijo-vuelve",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "La ira tardana: quan allò que no es va dir torna anys després",
+    "titleES": "La ira tardía: cuando lo que no se dijo vuelve años después",
+    "excerptCA": "Hi ha un tipus d'ira que no apareix com a explosió, sinó com a distància, irritabilitat o cansament. És la ira que no es va poder expressar a temps: amb els pares, amb una parella anterior, amb un context que no deixava marge. I que, anys després, torna —no sempre amb el seu nom, gairebé sempre disfressada d'altres coses. Aquí explorem què és aquesta ira tardana, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a integrar-la sense que es converteixi ni en rancor ni en culpa.",
+    "excerptES": "Hay un tipo de ira que no aparece como explosión, sino como distancia, irritabilidad o cansancio. Es la ira que no se pudo expresar a tiempo: con los padres, con una pareja anterior, con un contexto que no dejaba margen. Y que, años después, vuelve —no siempre con su nombre, casi siempre disfrazada de otras cosas. Aquí exploramos qué es esa ira tardía, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a integrarla sin que se convierta ni en rencor ni en culpa.",
+    "datePublished": "2026-08-10"
+  },
+  {
     "slug": "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
