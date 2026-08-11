@@ -897,4 +897,259 @@ export const articlesPart8: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. pareja-como-espejo-lo-que-no-queremos-ver (Pilar: Pareja / Identidad)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "pareja-como-espejo-lo-que-no-queremos-ver",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "La parella com a mirall: quan allò que més et molesta d'ella parla de tu",
+    titleES:
+      "La pareja como espejo: cuando lo que más te molesta de ella habla de ti",
+    excerptCA:
+      "Hi ha coses de la teva parella que et toquen d'una manera que no s'explica només per allò que fa. Una observació que et fereix més del que hauria, un gest que et produeix una resposta desproporcionada, una manera de ser que et treu de polleguera sense que sàpigues dir per què. I de vegades, si t'atures a mirar amb una mica de calma, descobreixes que aquestes mateixes coses apunten a alguna part de tu que no has volgut veure. La parella no és només un vincle: és un mirall. Aquí explorem per què allò que més ens costa de qui tenim al costat sol revelar alguna cosa sobre nosaltres, i com pot ajudar la teràpia a mirar-ho sense que es converteixi en culpa.",
+    excerptES:
+      "Hay cosas de tu pareja que te tocan de un modo que no se explica solo por lo que ella hace. Una observación que te hiere más de lo que debería, un gesto que te produce una respuesta desproporcionada, una manera de ser que te saca de quicio sin que sepas decir por qué. Y a veces, si te detienes a mirar con un poco de calma, descubres que esas mismas cosas apuntan a alguna parte de ti que no has querido ver. La pareja no es solo un vínculo: es un espejo. Aquí exploramos por qué lo que más nos cuesta de quien tenemos al lado suele revelar algo sobre nosotros, y cómo puede ayudar la terapia a mirarlo sin que se convierta en culpa.",
+    datePublished: "2026-08-11",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha coses de la teva parella que et toquen d'una manera que no s'explica només per allò que fa. Una observació que et fereix més del que hauria, un gest que et produeix una resposta desproporcionada, una manera de ser que et treu de polleguera sense que sàpigues dir per què. I de vegades, si t'atures a mirar amb una mica de calma, descobreixes que aquestes mateixes coses apunten a alguna part de tu que no has volgut veure.",
+      },
+      {
+        type: "paragraph",
+        text: "La parella no és només un vincle: és un mirall. No és una frase poètica ni una idea bona per a una conversa: és una experiència que moltes persones reconeixen quan s'aturen a mirar el que els passa a dins de la relació. Allò que més et costa de qui tens al costat té, sovint, una relació estreta amb allò que més et costa de veure de tu mateix. Aquí explorem per què funciona així, què vol dir mirar-s'ho sense que es converteixi en culpa, i com pot ajudar la teràpia a fer d'aquest mirall un espai de coneixement i no de judici.",
+      },
+      {
+        type: "heading",
+        text: "El mirall que no demanem",
+      },
+      {
+        type: "paragraph",
+        text: "Quan entres en una relació de parella, no esperes que et mostrin parts de tu que preferiries no conèixer. Espereu companyia, suport, desig, una vida en comú. I, de fet, tot això hi és. Però hi ha una altra cosa que també hi és, i que ningú anuncia abans d'entrar: la possibilitat que l'altra persona esdevingui un mirall de les teves pròpies parts no reconegudes.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no passa perquè la parella faci res malament. Passa per la proximitat. Una relació estreta posa en contacte maneres de ser, de reaccionar, de relacionar-se que, en altres contextos, queden dissimulades. Allà on amb un company de feina pots mantenir una distància, amb la parella no. I aquesta falta de distància fa que emergerixin coses que tu mateix no sabies que hi eren.",
+      },
+      {
+        type: "heading",
+        text: "Allò que més et costa i què sol parlar de tu",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un patró que apareix amb freqüència. Allò que més et costa de l'altra persona —no allò que no t'agrada en abstracte, sinó allò que et toca de veritat— sol tenir una relació amb alguna cosa que no has mirat de tu mateix. No sempre és la mateixa cosa: de vegades és una part que has reprimit, de vegades una part que no has desenvolupat, de vegades una ferida antiga que s'obre quan el context la toca.",
+      },
+      {
+        type: "paragraph",
+        text: "Un exemple: et molesta que la teva parella no prengui decisions. Et sembla que ho deixa tot a les teves mans, que no s'implica, que fuig de la responsabilitat. I és veritat que això genera una càrrega real per a tu. Però si t'atures a mirar, potser descobreixes que tu has construït la teva identitat al voltant de ser qui decideix, qui organitza, qui sosté. I que allò que et molesta de l'altra persona no és només el que fa: és el que no fas tu. El teu propi costat que no ha après a delegar, a no sostenir-ho tot, a deixar espai perquè un altre ocupi el lloc que tu no soltes.",
+      },
+      {
+        type: "paragraph",
+        text: "Un altre exemple: et fereix que la teva parella es distanciï quan hi ha conflicte. Sent que es tanca, que no es queda a mirar-ho amb tu. I, de nou, això genera un dolor real. Però potser hi ha una part teva que no suporta la distància perquè no va aprendre a estar amb el conflicte sense que li confirmés que està sola. La ferida de l'altre obre la teva. No perquè una cosa justifiqui l'altra, sinó perquè les dues coincideixen.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre responsabilitat i culpa",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí convé fer una distinció. Reconèixer que el que et molesta de la teva parella té a veure amb tu no és acceptar que el que fa ella estigui bé, ni que el que sents sigui culpa teva. No es tracta de responsabilitzar-te del comportament de l'altra persona ni de justificar allò que et fereix. Es tracta d'una altra cosa: d'entendre que la relació té dues cares, i que la teva cara també té una història.",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa no ajuda. No ajuda a la relació ni a tu. Però la responsabilitat sí: la responsabilitat de mirar què hi ha de teu en allò que es repeteix, què portes tu a la dinàmica, quina part de la teva història s'està activant. Aquesta mirada no és un judici: és un moviment cap a la coherència. Perquè una cosa és dir «tot és culpa meva» —que no és veritat— i una altra és dir «hi ha alguna cosa meva que no he mirat i que està funcionant aquí».",
+      },
+      {
+        type: "heading",
+        text: "Quan el mirall es fa insuportable",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un moment en què el mirall es fa difícil de suportar. És quan allò que la parella et mostra de tu mateix coincideix amb alguna cosa que fa anys que no vols veure. En aquest punt, hi ha dues reaccions freqüents: o s'ataca el mirall —la parella—, o s'escapa de la relació. Les dues són maneres de no mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Atacar el mirall vol dir convertir el que fa l'altra persona en la causa de tot el que està malament. Si la relació no funciona, és per ella. Si et sents com et sents, és per ella. Aquesta postura, que de vegades es diu «és que no em deixa ser», té una part de veritat —les relacions sí que limiten i sí que configuren— però es queda curta. Perquè si el problema és tot de l'altre, no hi ha res a fer des de tu. I això, paradoxalment, és el que et manté atrapat.",
+      },
+      {
+        type: "paragraph",
+        text: "Escapar del mirall és una altra manera. Posar distància, buscar altres relacions, omplir la vida de coses per no estar amb la parella. No sempre es fa de manera evident: de vegades és un allunyament subtil, un anar-se'n posant excuses. Però el que s'evita, en ambdós casos, és el mateix: la mirada cap a dins.",
+      },
+      {
+        type: "heading",
+        text: "Què pot fer la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia, en aquest punt, no consisteix a dir-te què has de fer amb la teva relació. No es tracta de quedar-t'hi o de marxar, ni de canviar la teva parella ni de canviar-te tu per ella. Es tracta, més aviat, de crear un espai on mirar el que la relació està mostrant. Un espai on les parts que el mirall ha fet visibles puguin ser mirades sense vergonya, sense defensiva, sense la pressió d'haver de resoldre res de seguida.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar això implica, sovint, revisar la teva pròpia història. Entendre quines parts de tu van haver d'ocultar-se per adaptar-te, quines van quedar sense espai, quines ferides antigues s'activen quan algú et toca d'una manera determinada. Implica, també, mirar el teu paper en la dinàmica: no per culpa, sinó per coherència. Perquè la maduresa no és no tenir parts que fan nosa: és poder-les mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "I això, quan es fa en un espai que sosté, canvia la relació. No perquè canviï l'altra persona, sinó perquè canvia la manera com tu hi ets. Quan deixes de reaccionar automàticament i comences a poder mirar el que et passa, la parella deixa de ser només un mirall que fereix i esdevé un espai on tu i l'altra persona podeu reconèixer-vos —amb les dues cares, amb la complexitat, amb la humanitat que cadascú porta.",
+      },
+      {
+        type: "paragraph",
+        text: "La parella no és un mirall perquè sigui un problema. És un mirall perquè és un lloc on dues històries es troben. I quan aquestes històries es troben, les parts no mirades de cadascú tendeixen a sortir. No és un error: és el funcionament. El que facis amb el que el mirall et mostra ja és una altra qüestió. Però saber que hi és pot estalviar, a moltes relacions, anys de malentesos, de retrets i de distància que no eren necessaris.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "Reconèixer que el que em molesta de la meva parella té a veure amb mi significa que no puc queixar-me del que fa?",
+            answer:
+              "No. Reconèixer la teva part no invalida la legitimitat del que sents. Si la teva parella et fereix, et desplaça o et carrega de manera sostinguda, és real i té sentit parlar-ne. La mirada cap a tu no és una mirada que treu la de l'altra persona: és una mirada cap a dins. Les dues coses poden coexistir: pots mirar què hi ha teu en el que et toca i, alhora, sostenir el que necessites de l'altra persona.",
+          },
+          {
+            question:
+              "I si el que em mostra el mirall és alguna cosa que no vull canviar?",
+            answer:
+              "No tot el que el mirall mostra ha de canviar. Hi ha parts de tu que et pertanyen i que no tenen per què ser diferents. La qüestió no és canviar-te per encaixar: és saber què ets, què portes i com això entra en la dinàmica. A vegades, el que cal no és canviar una part teva, sinó deixar d'exigir que l'altra persona encaixi amb una part teva que tu mateix no vols mirar.",
+          },
+          {
+            question:
+              "La teràpia de parella serveix per a això o cal teràpia individual?",
+            answer:
+              "Depèn. La teràpia de parella pot ajudar a mirar la dinàmica entre els dos, a entendre com s'activa i a trobar maneres de gestionar-la. La teràpia individual pot ajudar a mirar les teves pròpies parts amb més temps i sense la pressió de la presència de l'altra persona. En molts casos, ambdues es complementen. Un professional pot ajudar a valorar què convé en cada moment.",
+          },
+          {
+            question:
+              "Aquesta idea del mirall no és una manera de carregar-ho tot a l'individu i deixar el context fora?",
+            answer:
+              "És una bona pregunta. El context —la relació, la història de cadascú, les circumstàncies— no es pot deixar fora. La idea del mirall no és una manera de dir que tot és responsabilitat teva: és una manera de dir que hi ha una part teva que està funcionant en el que vius, i que mirar-la et dona més marge del que et dona no fer-ho. La responsabilitat no és la culpa: és la possibilitat d'actuar sobre el que sí que depén de tu.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sents que la teva relació t'està mostrant coses que no saps on posar, que allò que et passa amb la teva parella té una profunditat que no arribes a comprendre sol, o que hi ha patrons que es repeteixen malgrat els esforços per canviar-los, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem adults i parelles que volen mirar el que la seva relació està revelant, amb temps i profunditat —no per donar-te una resposta, sinó per ajudar-te a trobar la teva.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay cosas de tu pareja que te tocan de un modo que no se explica solo por lo que ella hace. Una observación que te hiere más de lo que debería, un gesto que te produce una respuesta desproporcionada, una manera de ser que te saca de quicio sin que sepas decir por qué. Y a veces, si te detienes a mirar con un poco de calma, descubres que esas mismas cosas apuntan a alguna parte de ti que no has querido ver.",
+      },
+      {
+        type: "paragraph",
+        text: "La pareja no es solo un vínculo: es un espejo. No es una frase poética ni una idea buena para una conversa: es una experiencia que muchas personas reconocen cuando se detienen a mirar lo que les pasa dentro de la relación. Aquello que más te cuesta de quien tienes al lado tiene, a menudo, una relación estrecha con aquello que más te cuesta ver de ti mismo. Aquí exploramos por qué funciona así, qué significa mirarlo sin que se convierta en culpa, y cómo puede ayudar la terapia a hacer de ese espejo un espacio de conocimiento y no de juicio.",
+      },
+      {
+        type: "heading",
+        text: "El espejo que no pedimos",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando entras en una relación de pareja, no esperas que te muestren partes de ti que preferirías no conocer. Esperas compañía, apoyo, deseo, una vida en común. Y, de hecho, todo eso está. Pero hay otra cosa que también está, y que nadie anuncia antes de entrar: la posibilidad de que la otra persona se convierta en un espejo de tus propias partes no reconocidas.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto no ocurre porque la pareja haga nada mal. Ocurre por la cercanía. Una relación estrecha pone en contacto maneras de ser, de reaccionar, de relacionarse que, en otros contextos, quedan disimuladas. Donde con un compañero de trabajo puedes mantener una distancia, con la pareja no. Y esa falta de distancia hace que emerjan cosas que tú mismo no sabías que estaban.",
+      },
+      {
+        type: "heading",
+        text: "Lo que más te cuesta y lo que suele hablar de ti",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un patrón que aparece con frecuencia. Lo que más te cuesta de la otra persona —no lo que no te gusta en abstracto, sino lo que te toca de verdad— suele tener una relación con algo que no has mirado de ti mismo. No siempre es la misma cosa: a veces es una parte que has reprimido, a veces una parte que no has desarrollado, a veces una herida antigua que se abre cuando el contexto la toca.",
+      },
+      {
+        type: "paragraph",
+        text: "Un ejemplo: te molesta que tu pareja no tome decisiones. Te parece que lo deja todo en tus manos, que no se implica, que huye de la responsabilidad. Y es cierto que esto genera una carga real para ti. Pero si te detienes a mirar, quizá descubras que tú has construido tu identidad alrededor de ser quien decide, quien organiza, quien sostiene. Y que lo que te molesta de la otra persona no es solo lo que hace: es lo que no haces tú. Tu propio lado que no ha aprendido a delegar, a no sostenerlo todo, a dejar espacio para que otro ocupe el lugar que tú no sueltas.",
+      },
+      {
+        type: "paragraph",
+        text: "Otro ejemplo: te hiere que tu pareja se distancie cuando hay conflicto. Sientes que se cierra, que no se queda a mirarlo contigo. Y, de nuevo, eso genera un dolor real. Pero quizá haya una parte tuya que no soporta la distancia porque no aprendió a estar con el conflicto sin que le confirmara que está sola. La herida del otro abre la tuya. No porque una cosa justifique la otra, sino porque las dos coinciden.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre responsabilidad y culpa",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí conviene hacer una distinción. Reconocer que lo que te molesta de tu pareja tiene que ver contigo no es aceptar que lo que hace ella esté bien, ni que lo que sientes sea culpa tuya. No se trata de responsabilizarte del comportamiento de la otra persona ni de justificar aquello que te hiere. Se trata de otra cosa: de entender que la relación tiene dos caras, y que tu cara también tiene una historia.",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa no ayuda. No ayuda a la relación ni a ti. Pero la responsabilidad sí: la responsabilidad de mirar qué hay tuyo en lo que se repite, qué llevas tú a la dinámica, qué parte de tu historia se está activando. Esta mirada no es un juicio: es un movimiento hacia la coherencia. Porque una cosa es decir «todo es culpa mía» —que no es verdad— y otra es decir «hay algo mío que no he mirado y que está funcionando aquí».",
+      },
+      {
+        type: "heading",
+        text: "Cuando el espejo se hace insoportable",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un momento en que el espejo se hace difícil de soportar. Es cuando lo que la pareja te muestra de ti mismo coincide con algo que llevas años sin querer ver. En este punto, hay dos reacciones frecuentes: o se ataca el espejo —la pareja—, o se escapa de la relación. Las dos son maneras de no mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Atacar el espejo significa convertir lo que hace la otra persona en la causa de todo lo que está mal. Si la relación no funciona, es por ella. Si te sientes como te sientes, es por ella. Esta postura, que a veces se dice «es que no me deja ser», tiene una parte de verdad —las relaciones sí limitan y sí configuran— pero se queda corta. Porque si el problema es todo del otro, no hay nada que hacer desde ti. Y eso, paradójicamente, es lo que te mantiene atrapado.",
+      },
+      {
+        type: "paragraph",
+        text: "Escapar del espejo es otra manera. Poner distancia, buscar otras relaciones, llenar la vida de cosas para no estar con la pareja. No siempre se hace de manera evidente: a veces es un alejamiento sutil, un irse yendo poniendo excusas. Pero lo que se evita, en ambos casos, es lo mismo: la mirada hacia dentro.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede hacer la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia, en este punto, no consiste en decirte qué hacer con tu relación. No se trata de quedarte o de irte, ni de cambiar a tu pareja ni de cambiarte tú por ella. Se trata, más bien, de crear un espacio donde mirar lo que la relación está mostrando. Un espacio donde las partes que el espejo ha hecho visibles puedan ser miradas sin vergüenza, sin defensa, sin la presión de tener que resolver nada de inmediato.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar esto implica, a menudo, revisar tu propia historia. Entender qué partes de ti tuvieron que ocultarse para adaptarte, cuáles quedaron sin espacio, qué heridas antiguas se activan cuando alguien te toca de una manera determinada. Implica, también, mirar tu papel en la dinámica: no por culpa, sino por coherencia. Porque la madurez no es no tener partes que molestan: es poder mirarlas.",
+      },
+      {
+        type: "paragraph",
+        text: "Y eso, cuando se hace en un espacio que sostiene, cambia la relación. No porque cambie la otra persona, sino porque cambia el modo en que tú estás en ella. Cuando dejas de reaccionar automáticamente y empiezas a poder mirar lo que te pasa, la pareja deja de ser solo un espejo que hiere y se convierte en un espacio donde tú y la otra persona pueden reconocerse —con las dos caras, con la complejidad, con la humanidad que cada uno lleva.",
+      },
+      {
+        type: "paragraph",
+        text: "La pareja no es un espejo porque sea un problema. Es un espejo porque es un lugar donde dos historias se encuentran. Y cuando esas historias se encuentran, las partes no miradas de cada uno tienden a salir. No es un error: es el funcionamiento. Lo que hagas con lo que el espejo te muestra ya es otra cuestión. Pero saber que está ahí puede ahorrar, a muchas relaciones, años de malentendidos, de reproches y de distancia que no eran necesarios.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Reconocer que lo que me molesta de mi pareja tiene que ver conmigo significa que no puedo quejarme de lo que hace?",
+            answer:
+              "No. Reconocer tu parte no invalida la legitimidad de lo que sientes. Si tu pareja te hiere, te desplaza o te carga de manera sostenida, es real y tiene sentido hablarlo. La mirada hacia ti no es una mirada que quita la de la otra persona: es una mirada hacia dentro. Las dos cosas pueden coexistir: puedes mirar qué hay tuyo en lo que te toca y, al mismo tiempo, sostener lo que necesitas de la otra persona.",
+          },
+          {
+            question:
+              "¿Y si lo que me muestra el espejo es algo que no quiero cambiar?",
+            answer:
+              "No todo lo que el espejo muestra tiene que cambiar. Hay partes de ti que te pertenecen y que no tienen por qué ser diferentes. La cuestión no es cambiarte para encajar: es saber qué eres, qué llevas y cómo eso entra en la dinámica. A veces, lo que hace falta no es cambiar una parte tuya, sino dejar de exigir que la otra persona encaje con una parte tuya que tú mismo no quieres mirar.",
+          },
+          {
+            question:
+              "¿La terapia de pareja sirve para esto o hace falta terapia individual?",
+            answer:
+              "Depende. La terapia de pareja puede ayudar a mirar la dinámica entre los dos, a entender cómo se activa y a encontrar formas de gestionarla. La terapia individual puede ayudar a mirar tus propias partes con más tiempo y sin la presión de la presencia de la otra persona. En muchos casos, ambas se complementan. Un profesional puede ayudar a valorar qué conviene en cada momento.",
+          },
+          {
+            question:
+              "¿Esta idea del espejo no es una manera de cargarlo todo al individuo y dejar el contexto fuera?",
+            answer:
+              "Es una buena pregunta. El contexto —la relación, la historia de cada uno, las circunstancias— no se puede dejar fuera. La idea del espejo no es una manera de decir que todo es tu responsabilidad: es una manera de decir que hay una parte tuya que está funcionando en lo que vives, y que mirarla te da más margen del que te da no hacerlo. La responsabilidad no es la culpa: es la posibilidad de actuar sobre lo que sí depende de ti.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sientes que tu relación te está mostrando cosas que no sabes dónde poner, que lo que te pasa con tu pareja tiene una profundidad que no logras comprender solo, o que hay patrones que se repiten a pesar de los esfuerzos por cambiarlos, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos a adultos y parejas que quieren mirar lo que su relación está revelando, con tiempo y profundidad —no para darte una respuesta, sino para ayudarte a encontrar la tuya.",
+      },
+    ],
+  },
 ];

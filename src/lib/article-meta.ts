@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "pareja-como-espejo-lo-que-no-queremos-ver",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "La parella com a mirall: quan allò que més et molesta d'ella parla de tu",
+    "titleES": "La pareja como espejo: cuando lo que más te molesta de ella habla de ti",
+    "excerptCA": "Hi ha coses de la teva parella que et toquen d'una manera que no s'explica només per allò que fa. Una observació que et fereix més del que hauria, un gest que et produeix una resposta desproporcionada, una manera de ser que et treu de polleguera sense que sàpigues dir per què. I de vegades, si t'atures a mirar amb una mica de calma, descobreixes que aquestes mateixes coses apunten a alguna part de tu que no has volgut veure. La parella no és només un vincle: és un mirall. Aquí explorem per què allò que més ens costa de qui tenim al costat sol revelar alguna cosa sobre nosaltres, i com pot ajudar la teràpia a mirar-ho sense que es converteixi en culpa.",
+    "excerptES": "Hay cosas de tu pareja que te tocan de un modo que no se explica solo por lo que ella hace. Una observación que te hiere más de lo que debería, un gesto que te produce una respuesta desproporcionada, una manera de ser que te saca de quicio sin que sepas decir por qué. Y a veces, si te detienes a mirar con un poco de calma, descubres que esas mismas cosas apuntan a alguna parte de ti que no has querido ver. La pareja no es solo un vínculo: es un espejo. Aquí exploramos por qué lo que más nos cuesta de quien tenemos al lado suele revelar algo sobre nosotros, y cómo puede ayudar la terapia a mirarlo sin que se convierta en culpa.",
+    "datePublished": "2026-08-11"
+  },
+  {
     "slug": "ira-tardia-edad-adulta-cuando-lo-que-no-se-dijo-vuelve",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
