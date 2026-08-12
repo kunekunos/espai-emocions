@@ -1152,4 +1152,235 @@ export const articlesPart8: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 5. cuando-parar-da-miedo-el-descanso-que-no-llega (Pilar: ¿Necesito un psicólogo? / Ansiedad)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "cuando-parar-da-miedo-el-descanso-que-no-llega",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA:
+      "Quan parar fa por: el descans que no arriba",
+    titleES:
+      "Cuando parar da miedo: el descanso que no llega",
+    excerptCA:
+      "Hi ha persones que no descansen, però no per manca de temps. Tenen el cap de setmana lliure, les vacances promeses, el diumenge a la tarda sense plans. I, tanmateix, no poden parar. Quan ho intenten, apareix una inquietud que no se sap explicar: una ansietat difusa, una sensació de no estar fent el que haurien, un fons de culpa que no encaixa amb res concret. Aquí explorem per què per a certes persones parar és més difícil que seguir, què hi té a veure la identitat construïda al voltant del fer, i com pot ajudar la teràpia a recuperar el descans sense que es converteixi en una confrontació amb tot allò que s'ha anat posposant.",
+    excerptES:
+      "Hay personas que no descansan, pero no por falta de tiempo. Tienen el fin de semana libre, las vacaciones prometidas, el domingo por la tarde sin planes. Y, sin embargo, no pueden parar. Cuando lo intentan, aparece una inquietud que no se sabe explicar: una ansiedad difusa, una sensación de no estar haciendo lo que deberían, un fondo de culpa que no encaja con nada concreto. Aquí exploramos por qué para ciertas personas parar es más difícil que seguir, qué tiene que ver la identidad construida alrededor del hacer, y cómo puede ayudar la terapia a recuperar el descanso sin que se convierta en una confrontación con todo aquello que se ha ido posponiendo.",
+    datePublished: "2026-08-12",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "No és que no tinguis temps. Tens el dissabte al matí sense res obligat, el diumenge a la tarda sense plans, uns dies de festa acumulats que no has agafat. I, tanmateix, quan arriben aquests espais, no els pots habitar. Comences a pensar en el que tens pendent, en el que hauries d'aprofitar, en allò que altres fan amb el seu temps lliure i tu no. O, senzillament, t'asseus i al cap de deu minuts ja estàs una altra vegada dempeus, buscant alguna cosa per fer —sense saber ben bé què.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta escena és més freqüent del que sembla. Hi ha persones que porten anys sense poder descansar de veritat, i no és perquè la vida no els ho permeti: és perquè alguna cosa dins seu no ho permet. El descans, que hauria ser el moment de reposar, es converteix en un espai d'inquietud. I aquesta inquietud, sostinguda en el temps, esgota tant o més que el propi cansament.",
+      },
+      {
+        type: "heading",
+        text: "El descans com a confrontació",
+      },
+      {
+        type: "paragraph",
+        text: "Per comprendre per què costa tant parar, cal mirar què passa quan ho fas. Quan t'atures, l'activitat que havia estat ocupant la teva atenció deixa de fer-ho. I en aquest silenci apareixen coses que el moviment mantenia a ratlla: preguntes que havies evitat, emocions que havies postergat, una sensació de buit que no sempre saps d'on ve. El descans, per a certes persones, no és un espai neutre: és un espai on tot allò que s'ha anat ajornant demana el seu lloc.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica per què, quan intentes parar, apareix una ansietat que no encaixa amb la situació. No hi ha cap amenaça real, cap urgència objectiva. Però el cos i la ment reaccionen com si n'hi hagués una. I aquesta reacció no és un error: és la manera com l'organisme ha après a protegir-se de quedar-se quiet. Perquè quedar-se quiet, en algun moment de la teva història, va deixar de ser segur.",
+      },
+      {
+        type: "heading",
+        text: "La identitat construïda al voltant del fer",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una segona raó, més subtil, que explica aquesta dificultat. Per a moltes persones adultes, la identitat s'ha construït al voltant del fer: ser qui resol, qui avança, qui sosté, qui produeix. La vàlua personal s'ha associat, durant anys, a la capacitat de mantenir-se en moviment. I quan aquesta manera de funcionar ha funcionat —quan t'ha portat lluny, quan t'ha donat reconeixement, quan t'ha permès sentir-te útil—, es converteix en una cosa més que un hàbit: es converteix en la manera com et reconeixes.",
+      },
+      {
+        type: "paragraph",
+        text: "Parar, en aquest context, no és només deixar de fer coses. És deixar de ser, provisionalment, la persona que saps ser. I això genera una pregunta incòmoda: si no estic fent res, qui sóc? Si no estic resolent, avançant, sostenint, què queda? La inquietud que apareix quan no pots parar no és només ansietat per l'activitat interrompuda: és, moltes vegades, una pregunta d'identitat que el moviment havia permès no fer-se.",
+      },
+      {
+        type: "heading",
+        text: "El que el cos sap i el cap evita",
+      },
+      {
+        type: "paragraph",
+        text: "Val la pena aturar-se en una cosa que sovint es passa per alt. El cos també hi té la seva part. Hi ha persones que porten anys amb un nivell d'activació alt —un fons de tensió que ja no perceben com a tal perquè s'ha convertit en el seu estat habitual. Quan intenten descansar, el cos no sap baixar d'aquest nivell. La respiració no es calma, els muscles no es deixen anar, la ment no canvia de velocitat. I aquesta impossibilitat de relaxar-se no és una qüestió de voluntat: és el resultat d'un aprenentatge sostingut durant anys.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això, dir-se a un mateix «relaxa't» o «gaudeix del descans» no serveix. La persona ja sap que hauria de descansar. El que no sap és com fer-ho, perquè els mecanismes que li permetrien baixar la guàrdia estan bloquejats. I forçar-los, com s'ha descobert moltes vegades, genera exactament el contrari: més tensió, més frustració, més sensació de no poder fer el que sembla tan senzill.",
+      },
+      {
+        type: "heading",
+        text: "La culpa de no poder descansar",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un ingredient que complica tot plegat: la culpa. Qui no pot parar sovint se sent culpable per no poder-ho fer. Veus altres persones que gaudeixen del seu temps lliure, que es queden al sofà sense remordiment, que es permeten no fer res. I et compares, i et jutges. «Per què no puc jo?», «quina mena de persona no sap descansar?». I aquesta culpa, en lloc d'ajudar-te a parar, fa exactament el contrari: t'engega una altra vegada, perquè almenys fent alguna cosa no has de mirar aquesta pregunta.",
+      },
+      {
+        type: "paragraph",
+        text: "És un cercle curiós: la impossibilitat de descansar genera culpa, la culpa genera més activitat, l'activitat manté allunyat el descans. I el cercle, sostingut anys, es tanca de manera que ja no es veu. Es confon amb la manera de ser: «soc així», «no sé estar-me quiet», «no m'agrada no fer res». Però aquesta manera de ser no és una essència: és una resposta que en algun moment va tenir sentit i que ja no el té, o no del tot.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et donarà una tècnica per relaxar-te en cinc minuts. El que pot fer és oferir un espai on mirar el que hi ha darrere d'aquesta impossibilitat de parar. On comprendre de què s'està protegint la teva manera de funcionar, què apareix quan t'atures i per què això genera tans. Un espai on la pregunta no sigui «com em relaxo» sinó «de què m'estic protegint quan no puc parar».",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar això implica, sovint, revisar la teva història. Entendre en quin moment aprendre a no parar va ser necessari —potser en un context on parar volia dir quedar exposat, potser en una època on l'activitat era l'única manera de sentir-te vàlid. Implica mirar la teva identitat i els teus valors: quines parts de tu han quedat associades al fer, i què passa amb elles quan no fas res. I implica, sobretot, recuperar una cosa que no és un luxe: la capacitat d'estar-te sense que estar-te et faci por.",
+      },
+      {
+        type: "paragraph",
+        text: "El descans, vist així, no és un premi que es guanya després d'haver fet prou. És una condició per seguir. I recuperar-lo no consisteix a trobar més temps lliure: consisteix a poder habitar el temps lliure que ja tens sense que aquest temps es converteixi en una confrontació amb tot allò que has anat ajornant. La maduresa, en aquest punt, no és no necessitar mai descansar: és poder descansar sense que descansar et tombi.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "És el mateix no poder descansar que tenir insomni?",
+            answer:
+              "No, encara que poden coexistir. L'insomni és una dificultat per dormir: el cos no aconsegueix regular el cicle de son. La impossibilitat de descansar és més ampla: pot aparèixer també de dia, en moments de lleure, en espais on no hi ha cap motiu per estar en alerta. Algunes persones dormen bé i, tanmateix, no poden descansar de dia. Altres presenten ambdues coses. La teràpia pot ajudar a comprendre què hi ha darrere de cada quadre.",
+          },
+          {
+            question:
+              "Si m'agrada estar ocupat, és necessàriament un problema?",
+            answer:
+              "No. Estar ocupat per elecció, gaudir del que fas i poder parar quan ho necessites és una cosa sana. El problema apareix quan no pots parar encara que ho vulguis, quan el descans genera ansietat o culpa, o quan l'activitat ha deixat de ser una elecció i s'ha convertit en una manera d'evitar quedar-te amb tu mateix. En aquest cas, val la pena mirar-ho.",
+          },
+          {
+            question:
+              "Això té a veure amb l'ansietat?",
+            answer:
+              "Sovint sí. La impossibilitat de descansar pot ser una manifestació d'ansietat, encara que no sempre es reconegui com a tal. L'ansietat no sempre es presenta com a por clara o com a preocupació identifiable: de vegades apareix com a inquietud, com a dificultat per estar quiet, com a necessitat de mantenir-se en moviment. Si aquesta inquietud és sostinguda i t'limita, té sentit buscar una valoració professional.",
+          },
+          {
+            question:
+              "Puc treballar-ho jo mateix o cal teràpia?",
+            answer:
+              "Algunes persones, en adonar-se del patró, poden començar a fer canvis per si mateixes: reservar espais de descans curts, observar què apareix quan paren, no jutjar-se. Però quan el patró és arrelat —quan porta anys instal·lat, quan està lligat a la identitat o a la història personal—, treballar-ho sol costa. La teràpia ofereix un espai on mirar el que hi ha sota amb temps i sense pressa, i on recuperar el descans no es converteixi en una altra tasca.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si portes temps sense poder descansar de veritat, si el temps lliure et genera més inquietud que calma, o si sospites que la teva manera de funcionar amaga alguna cosa que no has pogut mirar, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem persones adultes que volen comprendre per què no poden parar i recuperar el descans com un espai propi —no com un premi, sinó com una condició per seguir.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "No es que no tengas tiempo. Tienes el sábado por la mañana sin nada obligado, el domingo por la tarde sin planes, unos días de fiesta acumulados que no has cogido. Y, sin embargo, cuando llegan esos espacios, no puedes habitarlos. Empiezas a pensar en lo que tienes pendiente, en lo que deberías aprovechar, en aquello que otros hacen con su tiempo libre y tú no. O, sencillamente, te sientas y a los diez minutos ya estás otra vez de pie, buscando algo que hacer —sin saber muy bien qué.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta escena es más frecuente de lo que parece. Hay personas que llevan años sin poder descansar de verdad, y no es porque la vida no se lo permita: es porque algo dentro de ellas no lo permite. El descanso, que debería ser el momento de reposar, se convierte en un espacio de inquietud. Y esa inquietud, sostenida en el tiempo, agota tanto o más que el propio cansancio.",
+      },
+      {
+        type: "heading",
+        text: "El descanso como confrontación",
+      },
+      {
+        type: "paragraph",
+        text: "Para comprender por qué cuesta tanto parar, hay que mirar qué pasa cuando lo haces. Cuando te detienes, la actividad que había estado ocupando tu atención deja de hacerlo. Y en ese silencio aparecen cosas que el movimiento mantenía a raya: preguntas que habías evitado, emociones que habías pospuesto, una sensación de vacío que no siempre sabes de dónde viene. El descanso, para ciertas personas, no es un espacio neutro: es un espacio donde todo aquello que se ha ido aplazando pide su lugar.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica por qué, cuando intentas parar, aparece una ansiedad que no encaja con la situación. No hay ninguna amenaza real, ninguna urgencia objetiva. Pero el cuerpo y la mente reaccionan como si la hubiera. Y esa reacción no es un error: es la manera en que el organismo ha aprendido a protegerse de quedarse quieto. Porque quedarse quieto, en algún momento de tu historia, dejó de ser seguro.",
+      },
+      {
+        type: "heading",
+        text: "La identidad construida alrededor del hacer",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una segunda razón, más sutil, que explica esta dificultad. Para muchas personas adultas, la identidad se ha construido alrededor del hacer: ser quien resuelve, quien avanza, quien sostiene, quien produce. La valía personal se ha asociado, durante años, a la capacidad de mantenerse en movimiento. Y cuando esa manera de funcionar ha funcionado —cuando te ha llevado lejos, cuando te ha dado reconocimiento, cuando te ha permitido sentirte útil—, se convierte en algo más que un hábito: se convierte en la manera como te reconoces.",
+      },
+      {
+        type: "paragraph",
+        text: "Parar, en este contexto, no es solo dejar de hacer cosas. Es dejar de ser, provisionalmente, la persona que sabes ser. Y eso genera una pregunta incómoda: si no estoy haciendo nada, ¿quién soy? Si no estoy resolviendo, avanzando, sosteniendo, ¿qué queda? La inquietud que aparece cuando no puedes parar no es solo ansiedad por la actividad interrumpida: es, muchas veces, una pregunta de identidad que el movimiento había permitido no hacerse.",
+      },
+      {
+        type: "heading",
+        text: "Lo que el cuerpo sabe y la cabeza evita",
+      },
+      {
+        type: "paragraph",
+        text: "Vale la pena detenerse en algo que a menudo se pasa por alto. El cuerpo también tiene su parte. Hay personas que llevan años con un nivel de activación alto —un fondo de tensión que ya no perciben como tal porque se ha convertido en su estado habitual. Cuando intentan descansar, el cuerpo no sabe bajar de ese nivel. La respiración no se calma, los músculos no se sueltan, la mente no cambia de velocidad. Y esa imposibilidad de relajarse no es una cuestión de voluntad: es el resultado de un aprendizaje sostenido durante años.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso, decirse a uno mismo «relájate» o «disfruta del descanso» no sirve. La persona ya sabe que debería descansar. Lo que no sabe es cómo hacerlo, porque los mecanismos que le permitirían bajar la guardia están bloqueados. Y forzarlos, como se ha descubierto muchas veces, genera exactamente lo contrario: más tensión, más frustración, más sensación de no poder hacer lo que parece tan sencillo.",
+      },
+      {
+        type: "heading",
+        text: "La culpa de no poder descansar",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un ingrediente que complica todo esto: la culpa. Quien no puede parar a menudo se siente culpable por no poder hacerlo. Ves a otras personas que disfrutan de su tiempo libre, que se quedan en el sofá sin remordimiento, que se permiten no hacer nada. Y te comparas, y te juzgas. «¿Por qué no puedo yo?», «qué clase de persona no sabe descansar?». Y esa culpa, en lugar de ayudarte a parar, hace exactamente lo contrario: te enciende otra vez, porque al menos haciendo algo no tienes que mirar esa pregunta.",
+      },
+      {
+        type: "paragraph",
+        text: "Es un círculo curioso: la imposibilidad de descansar genera culpa, la culpa genera más actividad, la actividad mantiene alejado el descanso. Y el círculo, sostenido años, se cierra de manera que ya no se ve. Se confunde con la manera de ser: «soy así», «no sé estarme quieto», «no me gusta no hacer nada». Pero esa manera de ser no es una esencia: es una respuesta que en algún momento tuvo sentido y que ya no lo tiene, o no del todo.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te dará una técnica para relajarte en cinco minutos. Lo que puede hacer es ofrecer un espacio donde mirar lo que hay detrás de esa imposibilidad de parar. Donde comprender de qué se está protegiendo tu manera de funcionar, qué aparece cuando te detienes y por qué eso genera tanta inquietud. Un espacio donde la pregunta no sea «cómo me relajo» sino «de qué me estoy protegiendo cuando no puedo parar».",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar esto implica, a menudo, revisar tu historia. Entender en qué momento aprender a no parar fue necesario —quizá en un contexto donde parar significaba quedar expuesto, quizá en una época donde la actividad era la única manera de sentirte válido. Implica mirar tu identidad y tus valores: qué partes de ti han quedado asociadas al hacer, y qué pasa con ellas cuando no haces nada. E implica, sobre todo, recuperar algo que no es un lujo: la capacidad de estar contigo sin que estar contigo te dé miedo.",
+      },
+      {
+        type: "paragraph",
+        text: "El descanso, visto así, no es un premio que se gana después de haber hecho bastante. Es una condición para seguir. Y recuperarlo no consiste en encontrar más tiempo libre: consiste en poder habitar el tiempo libre que ya tienes sin que ese tiempo se convierta en una confrontación con todo aquello que has ido aplazando. La madurez, en este punto, no es no necesitar nunca descansar: es poder descansar sin que descansar te derrumbe.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Es lo mismo no poder descansar que tener insomnio?",
+            answer:
+              "No, aunque pueden coexistir. El insomnio es una dificultad para dormir: el cuerpo no consigue regular el ciclo de sueño. La imposibilidad de descansar es más amplia: puede aparecer también de día, en momentos de ocio, en espacios donde no hay ningún motivo para estar en alerta. Algunas personas duermen bien y, sin embargo, no pueden descansar de día. Otras presentan ambas cosas. La terapia puede ayudar a comprender qué hay detrás de cada cuadro.",
+          },
+          {
+            question:
+              "Si me gusta estar ocupado, ¿es necesariamente un problema?",
+            answer:
+              "No. Estar ocupado por elección, disfrutar de lo que haces y poder parar cuando lo necesitas es algo sano. El problema aparece cuando no puedes parar aunque quieras, cuando el descanso genera ansiedad o culpa, o cuando la actividad ha dejado de ser una elección y se ha convertido en una manera de evitar quedarte contigo mismo. En ese caso, vale la pena mirarlo.",
+          },
+          {
+            question:
+              "¿Esto tiene que ver con la ansiedad?",
+            answer:
+              "A menudo sí. La imposibilidad de descansar puede ser una manifestación de ansiedad, aunque no siempre se reconozca como tal. La ansiedad no siempre se presenta como miedo claro o como preocupación identificable: a veces aparece como inquietud, como dificultad para estar quieto, como necesidad de mantenerse en movimiento. Si esa inquietud es sostenida y te limita, tiene sentido buscar una valoración profesional.",
+          },
+          {
+            question:
+              "¿Puedo trabajarlo yo mismo o hace falta terapia?",
+            answer:
+              "Algunas personas, al darse cuenta del patrón, pueden empezar a hacer cambios por sí mismas: reservar espacios de descanso cortos, observar qué aparece cuando paran, no juzgarse. Pero cuando el patrón está arraigado —cuando lleva años instalado, cuando está ligado a la identidad o a la historia personal—, trabajarlo solo cuesta. La terapia ofrece un espacio donde mirar lo que hay debajo con tiempo y sin prisa, y donde recuperar el descanso no se convierta en otra tarea.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas tiempo sin poder descansar de verdad, si el tiempo libre te genera más inquietud que calma, o si sospechas que tu manera de funcionar esconde algo que no has podido mirar, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos a personas adultas que quieren comprender por qué no pueden parar y recuperar el descanso como un espacio propio —no como un premio, sino como una condición para seguir.",
+      },
+    ],
+  },
 ];

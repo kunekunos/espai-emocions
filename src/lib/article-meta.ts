@@ -617,5 +617,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Cuando pensamos en terapia, pensamos en técnicas, en enfoques, en lo que se dice en la sesión. Pero debajo de todo eso hay algo menos visible y más decisivo: el vínculo terapéutico, la calidad de la relación entre quien consulta y quien acompaña. No es un detalle secundario ni un elemento decorativo: es el suelo sobre el que se apoya todo el proceso. Aquí exploramos por qué la relación con tu psicólogo importa tanto, qué la hace buena y cómo saber si esa relación te está sirviendo.",
     "datePublished": "2026-08-09"
+  },
+  {
+    "slug": "cuando-parar-da-miedo-el-descanso-que-no-llega",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan parar fa por: el descans que no arriba",
+    "titleES": "Cuando parar da miedo: el descanso que no llega",
+    "excerptCA":
+      "Hi ha persones que no descansen, però no per manca de temps. Tenen el cap de setmana lliure, les vacances promeses, el diumenge a la tarda sense plans. I, tanmateix, no poden parar. Quan ho intenten, apareix una inquietud que no se sap explicar: una ansietat difusa, una sensació de no estar fent el que haurien, un fons de culpa que no encaixa amb res concret. Aquí explorem per què per a certes persones parar és més difícil que seguir, què hi té a veure la identitat construïda al voltant del fer, i com pot ajudar la teràpia a recuperar el descans sense que es converteixi en una confrontació amb tot allò que s'ha anat posposant.",
+    "excerptES":
+      "Hay personas que no descansan, pero no por falta de tiempo. Tienen el fin de semana libre, las vacaciones prometidas, el domingo por la tarde sin planes. Y, sin embargo, no pueden parar. Cuando lo intentan, aparece una inquietud que no se sabe explicar: una ansiedad difusa, una sensación de no estar haciendo lo que deberían, un fondo de culpa que no encaja con nada concreto. Aquí exploramos por qué para ciertas personas parar es más difícil que seguir, qué tiene que ver la identidad construida alrededor del hacer, y cómo puede ayudar la terapia a recuperar el descanso sin que se convierta en una confrontación con todo aquello que se ha ido posponiendo.",
+    "datePublished": "2026-08-12"
   }
 ];
