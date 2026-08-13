@@ -1383,4 +1383,276 @@ export const articlesPart8: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 6. rabia-que-se-vuelve-distancia (Pilar: Problemas relacionales / Silencio en pareja)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "rabia-que-se-vuelve-distancia",
+    categoryCA: "Problemes relacionals",
+    categoryES: "Problemas relacionales",
+    titleCA:
+      "Quan la ràbia es torna distància: el silenci que no és pau",
+    titleES:
+      "Cuando la rabia se vuelve distancia: el silencio que no es paz",
+    excerptCA:
+      "Hi ha un tipus de silenci a la parella que no neix de la calma, sinó d'una ràbia que no ha trobat on posar-se. No crida, no discuteix: es retira. I aquesta retirada, que de vegades sembla serenitat, és en realitat una manera de dir sense paraules allò que no s'ha pogut dir amb elles. Aquí explorem com la ràbia que no s'expressa es transforma en distància, per què aquest silenci pesa més que les paraules, i com pot ajudar la teràpia a desfer el nus sense que es converteixi ni en acusació ni en rendició.",
+    excerptES:
+      "Hay un tipo de silencio en la pareja que no nace de la calma, sino de una rabia que no ha encontrado dónde ponerse. No grita, no discute: se retira. Y esa retirada, que a veces parece serenidad, es en realidad una manera de decir sin palabras lo que no se ha podido decir con ellas. Aquí exploramos cómo la rabia que no se expresa se transforma en distancia, por qué ese silencio pesa más que las palabras, y cómo puede ayudar la terapia a deshacer el nudo sin que se convierta ni en acusación ni en rendición.",
+    datePublished: "2026-08-13",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha silencis a la parella que són pausa, i hi ha silencis que són porta tancada. La diferència no sempre es veu a primera vista: tots dos són quiet, tots dos treuen soroll del moment. Però un obre un espai per respirar i tornar a parlar, i l'altre tanca un espai per deixar de fer-ho. Aquest segon silenci, el que no és pau, és el que ens interessa aquí. I sol tenir, sota seu, una ràbia que no ha trobat on posar-se.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la ràbia que no es diu no desapareix. Es transforma. I una de les seves transformacions més freqüents a la parella és la distància: la retirada, el retall, el «ja en parlem després» que no arriba mai, el cos que es gira, la mirada que es desvia, la conversa que es queda a mig camí. Aquesta manera de distanciar-se no sempre és conscient, i poques vegades és estratègica. És la forma que troba l'organisme quan la ràbia no pot expressar-se amb paraules sense que això tingui un cost que la persona no se sent amb forces de pagar.",
+      },
+      {
+        type: "heading",
+        text: "La ràbia que no crida",
+      },
+      {
+        type: "paragraph",
+        text: "Quan pensem en ràbia, pensem en crits, en portes que es tanquen de cop, en arguments pujats de to. Aquesta és la ràbia visible, la que se sent, la que deixa petjada. Però hi ha una altra ràbia que no fa soroll. És la ràbia de qui ha arribat al límit del que pot sostenir i, en lloc d'explotar, s'apaga. És la ràbia freda, la que es retira en lloc de confrontar, la que abaixa la persiana per no haver de veure què hi ha darrere.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta forma de ràbia és més difícil de reconèixer, també per a qui la viu. La persona que es distancia pot pensar que està sent prudent, que evita un conflicte inútil, que necessita espai. I de vegades és veritat. Però altres vegades, el que anomena prudència és por: por de perdre el control si ho diu tot, por de ferir si es deixa portar, por que allò que digui no pugui desdir-se. Aleshores calla. I el que no diu es queda dins, i es transforma en distància.",
+      },
+      {
+        type: "heading",
+        text: "Per què la ràbia escoll callar",
+      },
+      {
+        type: "paragraph",
+        text: "La ràbia no sempre tria callar per covardia. De vegades tria callar perquè, en la història d'aquesta persona, expressar ràbia ha tingut un cost alt. Potser a la casa on va créixer, la ràbia no estava permesa: era castigada, ignorada o tornava com a culpa. Potser en una relació anterior, dir el que sentia va acabar malament. I la persona va aprendre, sense decidir-ho del tot, que la ràbia és perillosa: no perquè faci mal als altres, sinó perquè li fa mal a ella. Aleshores la gestiona retirant-se. La converteix en silenci.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema és que aquest silenci, que en el seu moment va ser una estratègia de supervivència, es queda com a hàbit. I quan es queda, comença a cobrar un preu que la persona no veu. Perquè la ràbia que es transforma en distància no desapareix: es queda, i anava carregant capes. Una capa de desconnexió amb la parella. Una capa de ressentiment que no s'explicita. Una capa de cansament, perquè sostenir el que no es diu costa energia. I, amb el temps, una capa de fredor, que no és manca d'amor sinó manca de paraules.",
+      },
+      {
+        type: "heading",
+        text: "El que viu l'altra part",
+      },
+      {
+        type: "paragraph",
+        text: "Mentre tot això passa per dins, l'altra persona de la parella ho nota sense que se li expliqui. Nota que alguna cosa ha canviat, que el to és més curt, que els plans es fan amb menys entusiasme, que el cos és el mateix però la presència és una mica més lluny. I no sap què fer amb això. Si pregunta, sovint rep un «no em passa res» que no acaba de quadrar. Si insisteix, pot generar una reacció de tancament encara més gran. I si no fa res, la distància s'instal·la com si fos un fet, una nova temperatura de la relació.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta dinàmica, sostinguda mesos o anys, és una de les formes més comunes d'erosió a la parella. No és dramàtica. No hi ha un abans i un després marcat per una baralla. Hi ha un abans i un després marcat per un silenci que es va fent més dens. I quan la parella arriba a teràpia, sovint el que porta no és la ràbia: és la distància. La ràbia fa temps que no se sent, i per això costa reconèixer-la com el que era: el motor d'una retirada que ja ningú recorda haver començat.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre espai i retirada",
+      },
+      {
+        type: "paragraph",
+        text: "Conveni aclarir-ho, perquè la línia és fina. Demanar espai en una relació no és el mateix que retirar-se en silenci. L'espai demanat té unes condicions: es diu, es posa un marc, es torna. És una pausa amb intenció. La retirada en silenci no es diu, no té marc i no sempre torna: de vegades es queda, i el que s'havia de dir es queda també. La diferència no és la distància física: és la intenció i la paraula que l'acompanya. Un espai demanat apropa, encara que sigui en absència. Una retirada silenciosa allunya, encara que els cossos segueixin a la mateixa habitació.",
+      },
+      {
+        type: "heading",
+        text: "Per què la ràbia es torna freda i no calenta",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una raó per la qual aquesta ràbia es presenta freda i no calenta. La ràbia calenta, la que s'expressa, té una qualitat: és visible, i per tant es pot treballar. Fins i tot quan és desproporcionada o mal canalitzada, deixa rastre, i el rastre permet respondre-hi. La ràbia freda no deixa rastre visible: deixa un buit. I el buit és més difícil de tractar, perquè no saps on és, ni què el va generar, ni quant fa que dura. Per això moltes parelles arriben a teràpia dient «ja no discutim, però també ja no ens diem res», sense adonar-se que l'absència de discussió pot ser, en si mateixa, la ràbia.",
+      },
+      {
+        type: "heading",
+        text: "La ràbia que es torna contra un mateix",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un altre destí freqüent per a aquesta ràbia que no es diu: tornar-se cap a dins. Quan la persona no pot dirigir-la cap a la parella, la dirigeix cap a ella mateixa. Es converteix en autocrítica, en sensació de no fer res bé, en una mena de fons de frustració que no té objecte concret. I aquest gir cap a dins fa que la distància amb la parella es confongui amb un problema d'autoestima, quan en realitat són dues cares d'un mateix moviment: el d'una ràbia que no ha trobat on posar-se.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica, de vegades, per què certs estats de baixa autestim dins d'una relació no milloren amb els ànims de l'altra persona. No milloren perquè el seu origen no és una manca de reconeixement extern: és una ràbia interna que la persona no s'ha permès sentir, i que, en no poder anar enfora, s'ha anat enfora tornant cap endins. Treballar-la, en teràpia, no consisteix a convèncer la persona que val més del que es pensa. Consisteix a ajudar-la a posar paraules a una ràbia que fa temps que s'ha callat, perquè aquesta ràbia pugui deixar de ser freda i començar a ser veritat.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia de parella, en aquestes situacions, no funciona explicant qui té raó i qui no. Funciona creant un marc on aquesta ràbia que fa temps que es calla pugui aparèixer sense que la relació es trenqui. Això requereix temps, perquè la persona que ha après a callar no comença a parlar perquè algú li digui que ho faci: comença quan percep que l'espai és prou segur per deixar anar el que porta anys sostenint.",
+      },
+      {
+        type: "paragraph",
+        text: "La feina del terapeuta, aquí, és doble. D'una banda, ajudar a qui calla a reconèixer que el que calla és ràbia, i no només cansament o desconnexió. De l'altra, ajudar a qui la rep a no interpretar el silenci com a desamor, sinó com a una ràbia que encara no ha trobat la seva paraula. Aquesta doble mirada, sostinguda amb temps i sense pressa, és el que permet que la distància comenci a tornar a ser proximitat —no perquè la ràbia desaparegui, sinó perquè, quan es diu, deixa de ser distància.",
+      },
+      {
+        type: "heading",
+        text: "El moment de mirar-ho",
+      },
+      {
+        type: "paragraph",
+        text: "No sempre és fàcil saber quan convé buscar ajuda. Hi ha un senyal que ajuda: quan el silenci entre vosaltres ja no és pausa, sinó costum. Quan fa setmanes o mesos que allò que hauria estat una conversa es queda en un intercanvi breu, i ningú dels dos sent la mancança amb prou força per trencar-la. Quan la distància no es viu com un espai que es tria, sinó com un terra que s'arrossega. En aquests moments, esperar que es resolgui sol no sol ser la millor estratègia. Sovint, el que necessita el silenci per deixar de ser-ho és un context que l'ajudi a parlar.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "Com sé si el silenci a la meva parella és espai o retirada?",
+            answer:
+              "La diferència no és la quietud: és la intenció i la paraula. Si el silenci ve acompanyat d'un «necesito una estona, després en parlem», és espai: té marc i té tornada. Si ve sense paraules i no té tornada prevista, si fa setmanes que dura i la persona no sembla capaç de trencar-lo, és més probable que sigui una retirada. No sempre és fàcil distingir-ho des de dins, i això és normal: quan ho sospites, té sentut parlar-ho amb la parella, i si no es pot, buscar acompanyament.",
+          },
+          {
+            question:
+              "És normal sentir ràbia cap a la parella i no poder expressar-la?",
+            answer:
+              "Sí, i és més freqüent del que sembla. La ràbia no sempre troba el moment, el to o el context adequats per expressar-se, i moltes persones han après a callar-la per por de ferir, de perdre el control o de generar un conflicte que no saben gestionar. Això no és un error personal: és una manera de protegir la relació. Però quan aquesta protecció es torna crònica, el preu és la distància. La teràpia pot ajudar a trobar una manera de dir la ràbia que no trenqui res, sinó que apropi.",
+          },
+          {
+            question:
+              "La teràpia de parella serveix si ja no discutim?",
+            answer:
+              "Sovint és precisament quan ja no es discuteix quan més sentit té buscar ajuda. L'absència de discussió no sempre és signe de salut: de vegades és signe que una de les parts ha deixat de intentar, o que ambdues han après a callar el que els fa mal. La teràpia, en aquests casos, no busca generar conflicte: busca crear un espai on el que fa temps que es calla pugui aparèixer amb seguretat, perquè la distància pugui deixar de ser la forma que ha pres la ràbia.",
+          },
+          {
+            question:
+              "Si sóc jo qui es distancia, què puc fer?",
+            answer:
+              "El primer és reconèixer que la distància pot ser ràbia, i no només cansament o desconnexió. Això no és fàcil de veure sol, perquè la ràbia freda es sent més aviat com a buidor que com a enuig. A partir d'aquí, el que ajuda és buscar un espai —terapèutic o no— on mirar què hi ha sota la retirada, què és allò que fa temps que no es diu, i per què no s'ha pogut dir. No es tracta de fer-ho tot d'una vegada: es tracta de començar a posar paraules a una ràbia que porta temps sent silenci.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si a la teva parella fa temps que el que hauria estat una conversa s'ha tornat silenci, i aquest silenci ja no sembla pausa sinó terreny, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem parelles que volen comprendre què hi ha sota la distància i recuperar la paraula com un espai compartit —no perquè la ràbia desaparegui, sinó perquè, quan es diu, deixa de ser freda i comença a ser veritat.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay silencios en la pareja que son pausa, y hay silencios que son puerta cerrada. La diferencia no siempre se ve a primera vista: ambos son quietos, ambos quitan ruido del momento. Pero uno abre un espacio para respirar y volver a hablar, y el otro cierra un espacio para dejar de hacerlo. Este segundo silencio, el que no es paz, es el que nos interesa aquí. Y suele tener, debajo, una rabia que no ha encontrado dónde ponerse.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la rabia que no se dice no desaparece. Se transforma. Y una de sus transformaciones más frecuentes en la pareja es la distancia: la retirada, el recorte, el «ya lo hablamos después» que no llega nunca, el cuerpo que se gira, la mirada que se desvía, la conversación que se queda a medio camino. Esta manera de distanciarse no siempre es consciente, y rara vez es estratégica. Es la forma que encuentra el organismo cuando la rabia no puede expresarse con palabras sin que eso tenga un coste que la persona no se siente con fuerzas de pagar.",
+      },
+      {
+        type: "heading",
+        text: "La rabia que no grita",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando pensamos en rabia, pensamos en gritos, en puertas que se cierran de golpe, en argumentos subidos de tono. Esa es la rabia visible, la que se oye, la que deja huella. Pero hay otra rabia que no hace ruido. Es la rabia de quien ha llegado al límite de lo que puede sostener y, en lugar de explotar, se apaga. Es la rabia fría, la que se retira en lugar de confrontar, la que baja la persiana para no tener que ver qué hay detrás.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta forma de rabia es más difícil de reconocer, también para quien la vive. La persona que se distancia puede pensar que está siendo prudente, que evita un conflicto inútil, que necesita espacio. Y a veces es verdad. Pero otras veces, lo que llama prudencia es miedo: miedo a perder el control si lo dice todo, miedo a herir si se deja llevar, miedo a que lo que diga no pueda desdecirse. Entonces calla. Y lo que no dice se queda dentro, y se transforma en distancia.",
+      },
+      {
+        type: "heading",
+        text: "Por qué la rabia elige callar",
+      },
+      {
+        type: "paragraph",
+        text: "La rabia no siempre elige callar por cobardía. A veces elige callar porque, en la historia de esa persona, expresar rabia ha tenido un coste alto. Quizá en la casa donde creció, la rabia no estaba permitida: era castigada, ignorada o devuelta como culpa. Quizá en una relación anterior, decir lo que sentía acabó mal. Y la persona aprendió, sin decidirlo del todo, que la rabia es peligrosa: no porque haga daño a los demás, sino porque le hace daño a ella. Entonces la gestiona retirándose. La convierte en silencio.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema es que ese silencio, que en su momento fue una estrategia de supervivencia, se queda como hábito. Y cuando se queda, empieza a cobrar un precio que la persona no ve. Porque la rabia que se transforma en distancia no desaparece: se queda, y va cargando capas. Una capa de desconexión con la pareja. Una capa de resentimiento que no se explicita. Una capa de cansancio, porque sostener lo que no se dice cuesta energía. Y, con el tiempo, una capa de frialdad, que no es falta de amor sino falta de palabras.",
+      },
+      {
+        type: "heading",
+        text: "Lo que vive la otra parte",
+      },
+      {
+        type: "paragraph",
+        text: "Mientras todo esto pasa por dentro, la otra persona de la pareja lo nota sin que se le explique. Nota que algo ha cambiado, que el tono es más corto, que los planes se hacen con menos entusiasmo, que el cuerpo es el mismo pero la presencia está un poco más lejos. Y no sabe qué hacer con eso. Si pregunta, suele recibir un «no me pasa nada» que no encaja del todo. Si insiste, puede generar una reacción de cierre aún mayor. Y si no hace nada, la distancia se instala como si fuera un hecho, una nueva temperatura de la relación.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta dinámica, sostenida meses o años, es una de las formas más comunes de erosión en la pareja. No es dramática. No hay un antes y un después marcado por una pelea. Hay un antes y un después marcado por un silencio que se va haciendo más denso. Y cuando la pareja llega a terapia, a menudo lo que trae no es la rabia: es la distancia. La rabia hace tiempo que no se siente, y por eso cuesta reconocerla como lo que era: el motor de una retirada que ya nadie recuerda haber empezado.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre espacio y retirada",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene aclararlo, porque la línea es fina. Pedir espacio en una relación no es lo mismo que retirarse en silencio. El espacio pedido tiene unas condiciones: se dice, se pone un marco, se vuelve. Es una pausa con intención. La retirada en silencio no se dice, no tiene marco y no siempre vuelve: a veces se queda, y lo que se tenía que decir se queda también. La diferencia no es la distancia física: es la intención y la palabra que la acompaña. Un espacio pedido acerca, aunque sea en ausencia. Una retirada silenciosa aleja, aunque los cuerpos sigan en la misma habitación.",
+      },
+      {
+        type: "heading",
+        text: "Por qué la rabia se vuelve fría y no caliente",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una razón por la que esta rabia se presenta fría y no caliente. La rabia caliente, la que se expresa, tiene una cualidad: es visible, y por tanto se puede trabajar. Incluso cuando es desproporcionada o mal canalizada, deja rastro, y el rastro permite responderle. La rabia fría no deja rastro visible: deja un vacío. Y el vacío es más difícil de tratar, porque no sabes dónde está, ni qué lo generó, ni cuánto hace que dura. Por eso muchas parejas llegan a terapia diciendo «ya no discutimos, pero también ya no nos decimos nada», sin darse cuenta de que la ausencia de discusión puede ser, en sí misma, la rabia.",
+      },
+      {
+        type: "heading",
+        text: "La rabia que se vuelve contra uno mismo",
+      },
+      {
+        type: "paragraph",
+        text: "Hay otro destino frecuente para esa rabia que no se dice: volverse hacia dentro. Cuando la persona no puede dirigirla hacia la pareja, la dirige hacia ella misma. Se convierte en autocrítica, en sensación de no hacer nada bien, en una especie de fondo de frustración que no tiene objeto concreto. Y ese giro hacia dentro hace que la distancia con la pareja se confunda con un problema de autoestima, cuando en realidad son dos caras de un mismo movimiento: el de una rabia que no ha encontrado dónde ponerse.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica, a veces, por qué ciertos estados de baja autoestima dentro de una relación no mejoran con los ánimos de la otra persona. No mejoran porque su origen no es una falta de reconocimiento externo: es una rabia interna que la persona no se ha permitido sentir, y que, al no poder ir hacia fuera, ha ido volviéndose hacia dentro. Trabajarla, en terapia, no consiste en convencer a la persona de que vale más de lo que se piensa. Consiste en ayudarla a poner palabras a una rabia que hace tiempo que se ha callado, para que esa rabia pueda dejar de ser fría y empezar a ser verdad.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia de pareja, en estas situaciones, no funciona explicando quién tiene razón y quién no. Funciona creando un marco donde esa rabia que hace tiempo que se calla pueda aparecer sin que la relación se rompa. Esto requiere tiempo, porque la persona que ha aprendido a callar no empieza a hablar porque alguien le diga que lo haga: empieza cuando percibe que el espacio es suficientemente seguro para dejar ir lo que lleva años sosteniendo.",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo del terapeuta, aquí, es doble. Por un lado, ayudar a quien calla a reconocer que lo que calla es rabia, y no solo cansancio o desconexión. Por otro, ayudar a quien la recibe a no interpretar el silencio como desamor, sino como una rabia que aún no ha encontrado su palabra. Esta doble mirada, sostenida con tiempo y sin prisa, es lo que permite que la distancia empiece a volver a ser proximidad —no porque la rabia desaparezca, sino porque, cuando se dice, deja de ser distancia.",
+      },
+      {
+        type: "heading",
+        text: "El momento de mirarlo",
+      },
+      {
+        type: "paragraph",
+        text: "No siempre es fácil saber cuándo conviene buscar ayuda. Hay una señal que ayuda: cuando el silencio entre vosotros ya no es pausa, sino costumbre. Cuando hace semanas o meses que lo que habría sido una conversación se queda en un intercambio breve, y ninguno de los dos siente la falta con suficiente fuerza para romperla. Cuando la distancia no se vive como un espacio que se elige, sino como un suelo que se arrastra. En esos momentos, esperar que se resuelva solo no suele ser la mejor estrategia. A menudo, lo que necesita el silencio para dejar de serlo es un contexto que lo ayude a hablar.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Cómo sé si el silencio en mi pareja es espacio o retirada?",
+            answer:
+              "La diferencia no es la quietud: es la intención y la palabra. Si el silencio viene acompañado de un «necesito un rato, después lo hablamos», es espacio: tiene marco y tiene vuelta. Si viene sin palabras y no tiene vuelta prevista, si lleva semanas durando y la persona no parece capaz de romperlo, es más probable que sea una retirada. No siempre es fácil distinguirlo desde dentro, y eso es normal: cuando lo sospechas, tiene sentido hablarlo con la pareja, y si no se puede, buscar acompañamiento.",
+          },
+          {
+            question:
+              "¿Es normal sentir rabia hacia la pareja y no poder expresarla?",
+            answer:
+              "Sí, y es más frecuente de lo que parece. La rabia no siempre encuentra el momento, el tono o el contexto adecuados para expresarse, y muchas personas han aprendido a callarla por miedo a herir, a perder el control o a generar un conflicte que no saben gestionar. Esto no es un error personal: es una manera de proteger la relación. Pero cuando esa protección se vuelve crónica, el precio es la distancia. La terapia puede ayudar a encontrar una manera de decir la rabia que no rompa nada, sino que acerque.",
+          },
+          {
+            question:
+              "¿La terapia de pareja sirve si ya no discutimos?",
+            answer:
+              "A menudo es precisamente cuando ya no se discute cuando más sentido tiene buscar ayuda. La ausencia de discusión no siempre es signo de salud: a veces es signo de que una de las partes ha dejado de intentar, o de que ambas han aprendido a callar lo que les duele. La terapia, en estos casos, no busca generar conflicto: busca crear un espacio donde lo que hace tiempo que se calla pueda aparecer con seguridad, para que la distancia pueda dejar de ser la forma que ha tomado la rabia.",
+          },
+          {
+            question:
+              "Si soy yo quien se distancia, ¿qué puedo hacer?",
+            answer:
+              "Lo primero es reconocer que la distancia puede ser rabia, y no solo cansancio o desconexión. Esto no es fácil de ver solo, porque la rabia fría se siente más bien como vacío que como enojo. A partir de ahí, lo que ayuda es buscar un espacio —terapéutico o no— donde mirar qué hay debajo de la retirada, qué es aquello que hace tiempo que no se dice, y por qué no se ha podido decir. No se trata de hacerlo todo de una vez: se trata de empezar a poner palabras a una rabia que lleva tiempo siendo silencio.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si en tu pareja hace tiempo que lo que habría sido una conversación se ha vuelto silencio, y ese silencio ya no parece pausa sino terreno, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos a parejas que quieren comprender qué hay debajo de la distancia y recuperar la palabra como un espacio compartido —no para que la rabia desaparezca, sino para que, cuando se dice, deja de ser fría y empieza a ser verdad.",
+      },
+    ],
+  },
 ];

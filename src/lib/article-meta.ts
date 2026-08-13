@@ -629,5 +629,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Hay personas que no descansan, pero no por falta de tiempo. Tienen el fin de semana libre, las vacaciones prometidas, el domingo por la tarde sin planes. Y, sin embargo, no pueden parar. Cuando lo intentan, aparece una inquietud que no se sabe explicar: una ansiedad difusa, una sensación de no estar haciendo lo que deberían, un fondo de culpa que no encaja con nada concreto. Aquí exploramos por qué para ciertas personas parar es más difícil que seguir, qué tiene que ver la identidad construida alrededor del hacer, y cómo puede ayudar la terapia a recuperar el descanso sin que se convierta en una confrontación con todo aquello que se ha ido posponiendo.",
     "datePublished": "2026-08-12"
+  },
+  {
+    "slug": "rabia-que-se-vuelve-distancia",
+    "categoryCA": "Problemes relacionals",
+    "categoryES": "Problemas relacionales",
+    "titleCA": "Quan la ràbia es torna distància: el silenci que no és pau",
+    "titleES": "Cuando la rabia se vuelve distancia: el silencio que no es paz",
+    "excerptCA":
+      "Hi ha un tipus de silenci a la parella que no neix de la calma, sinó d'una ràbia que no ha trobat on posar-se. No crida, no discuteix: es retira. I aquesta retirada, que de vegades sembla serenitat, és en realitat una manera de dir sense paraules allò que no s'ha pogut dir amb elles. Aquí explorem com la ràbia que no s'expressa es transforma en distància, per què aquest silenci pesa més que les paraules, i com pot ajudar la teràpia a desfer el nus sense que es converteixi ni en acusació ni en rendició.",
+    "excerptES":
+      "Hay un tipo de silencio en la pareja que no nace de la calma, sino de una rabia que no ha encontrado dónde ponerse. No grita, no discute: se retira. Y esa retirada, que a veces parece serenidad, es en realidad una manera de decir sin palabras lo que no se ha podido decir con ellas. Aquí exploramos cómo la rabia que no se expresa se transforma en distancia, por qué ese silencio pesa más que las palabras, y cómo puede ayudar la terapia a deshacer el nudo sin que se convierta ni en acusación ni en rendición.",
+    "datePublished": "2026-08-13"
   }
 ];
