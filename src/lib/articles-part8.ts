@@ -1655,4 +1655,298 @@ export const articlesPart8: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 7. lealtades-invisibles-que-heredamos-sin-saber (Pilar: Identidad / Valores / Madurez)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "lealtades-invisibles-que-heredamos-sin-saber",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "Les lleialtats invisibles que heretem sense saber-ho",
+    titleES:
+      "Las lealtades invisibles que heredamos sin saberlo",
+    excerptCA:
+      "Hi ha decisions que prenem a la vida adulta que no entenem del tot per què les prenem. Eleccions professionals, vincles que es repeteixen, límits que no gosem traspassar, certs temes que sempre queden fora de la conversa. De vegades no són nostres: són lleialtats invisibles, maneres de romandre fidel a una història, a una família o a una decisió que es va prendre fa temps sense que ho sabéssim. Aquí explorem què són aquestes lleialtats que no es veuen, com configuren la vida adulta i com pot ajudar la teràpia a mirar-les sense que es converteixin ni en traïció ni en renúncia.",
+    excerptES:
+      "Hay decisiones que tomamos en la vida adulta que no entendemos del todo por qué las tomamos. Elecciones profesionales, vínculos que se repiten, límites que no nos atrevemos a cruzar, ciertos temas que siempre quedan fuera de la conversación. A veces no son nuestras: son lealtades invisibles, maneras de permanecer fiel a una historia, a una familia o a una decisión que se tomó hace tiempo sin que lo supiéramos. Aquí exploramos qué son esas lealtades que no se ven, cómo configuran la vida adulta y cómo puede ayudar la terapia a mirarlas sin que se conviertan ni en traición ni en renuncia.",
+    datePublished: "2026-08-14",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una mena de decisions que prenem a la vida adulta que no acabem d'entendre. Eleccions professionals que no encaixen amb el que deia que volia, vincles que es repeteixen amb altres persones però amb el mateix patró, límits que no gos traspassar encara que ja no hi hagi raó per no fer-ho. I hi ha temes que, dins de la família, sempre queden fora de la conversa: certs dol que no es van fer, certs papers que no es van assignar, certs silencis que tothom respecta sense que ningú hagi decidit respectar-los. No sempre sabem per què. De vegades no és perquè no vulguem saber-ho: és perquè la resposta no és només nostra.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: moltes d'aquestes decisions, límits i silencis no neixen d'una elecció conscient. Neixen de lleialtats invisibles: maneres de romandre fidel a una història, a una família o a una decisió que es va prendre fa temps, sovint sense que ho sabéssim. Aquestes lleialtats no són necessàriament un problema: de vegades ens sostenen, ens donen un sentit de pertinença i un lloc en una història més gran. Però quan es queden sense ser mirades, poden començar a costar: ens lliguen a opcions que ja no ens representen, ens impedeixen fer dol d'allò que cal fer-ne, o ens mantenen en un paper que vam heretar i que ningú ens va preguntar si volíem fer nostre. La teràpia no consisteix a trencar aquestes lleialtats: consisteix a mirar-les, a comprendre què sostenen i a decidir, amb coherència, quines volem seguir sostenint i quines ja no.",
+      },
+      {
+        type: "heading",
+        text: "Què és una lleialtat invisible",
+      },
+      {
+        type: "paragraph",
+        text: "Una lleialtat invisible és un compromís que no es va prendre amb paraules. És una manera de romandre fidel a alguna cosa —una família, una història, una decisió d'algú altre, un paper que se'ns va assignar— sense que ningú ens hagi demanat explícitament que ho féssim. I, sovint, sense que nosaltres mateixos sapiguem que ho estem fent.",
+      },
+      {
+        type: "paragraph",
+        text: "El concepte ve de la teràpia familiar, però no cal conèixer la teoria per reconèixer el fenomen. Penseu en una persona que no pot gaudir d'un èxit professional perquè, en la seva família, ningú hi va arribar. O en algú que es queda en una relació que ja no li dóna res, perquè la seva mare es va quedar i no vol ser «menys». O en qui no es permet demanar ajuda perquè, en la casa on va créixer, demanar ajuda era un signe de feblesa que tenia conseqüències. Aquestes persones no estan seguint una ordre explícita. Estan sostenint una lleialtat: una manera de no trair allò que, sense dir-ho, es va donar per fet.",
+      },
+      {
+        type: "heading",
+        text: "Com es presenten a la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Les lleialtats invisibles rarament es presenten amb el seu nom. Es presenten com a «coses que així són», com a límits que no se sap d'on vénen, com a sensació de no tenir permís per a certes coses. Aquestes són algunes de les formes que prenen amb freqüència:",
+      },
+      {
+        type: "list",
+        items: [
+          "Limites que no se sap d'on vénen: «no puc canviar de feina», «no puc sortir d'aquesta relació», «no puc permetre'm descansar» — sense una raó concreta que ho expliqui",
+          "Vincles que es repeteixen: parelles, amistats o contextos laborals que, malgrat les diferències de superfície, reproduïxen un mateix patró",
+          "Temes que sempre queden fora: certs dol, certs conflictes, certs papers familiars que no es toquen, com si hi hagués un acord tàcit de no mirar-los",
+          "Sentiment de no tenir permís: una sensació difusa que certes opcions no són per a tu, encara que no hi hagi ningú prohibint-les",
+          "Culpa que no encaixa: un fons de culpa que apareix quan et permets coses que en la teva família no es permetien, encara que siguin saludables",
+          "Papers que no es van triar: ser qui sosté, qui resol, qui no demana, qui no falla — papers que es van assignar fa temps i que ja ningú recorda com van començar",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Cap d'aquests senyals, per separat, vol dir que estiguis sostenint una lleialtat invisible. Però quan diversos coincideixen, i sobretot quan apareixen en moments de canvi —canviar de feina, sortir d'una relació, començar un procés terapèutic—, té sentit mirar-los junts i preguntar-se de què són lleialtat.",
+      },
+      {
+        type: "heading",
+        text: "Per què són difícils de veure",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les característiques de les lleialtats invisibles és que no es veuen des de dins. No perquè siguin complicades, sinó perquè formen part del paisatge. Qui les porta no les sent com a eleccions: les sent com a part de qui és. I això és precisament el que les fa potents: perquè el que sentim com a part de la identitat rarament el qüestionem.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, aquestes lleialtats solen tenir una funció. Ens donen un lloc en una història, ens lliguen a les persones que estimem, ens protegeixen d'un dol que no sabríem fer. I aquesta funció és real: no es tracta d'ignorar-la. Es tracta de mirar si la funció que van tenir encara és la funció que necessiten tenir ara, o si ja no encaixa amb la vida que vols viure.",
+      },
+      {
+        type: "heading",
+        text: "El paper de la família i de la història",
+      },
+      {
+        type: "paragraph",
+        text: "No totes les lleialtats invisibles vénen de la família. Algunes vénen de decisions que vam prendre fa temps i que, sense adonar-nos-en, vam convertir en identitat. La decisió de no dependre de ningú, de no mostrar vulnerabilitat, de no aturar-se. En el seu moment, potser van ser necessàries. Però anys després, sostenides sense ser mirades, es converteixen en trinxeres: ens protegeixen d'alguna cosa que ja no ens amenaça, i alhora ens impedeixen arribar a certs llocs.",
+      },
+      {
+        type: "paragraph",
+        text: "Les que vénen de la família tenen una qualitat particular: no es van decidir. Es van heretar. I això vol dir que no les pots canviar només amb voluntat. Canviar-les, quan cal canviar-les, no és un acte de rebel·lió: és un acte de maduresa. I com tot acte de maduresa, no es fa d'un dia per l'altre, ni sense un cert dol.",
+      },
+      {
+        type: "heading",
+        text: "Mirar-les no és trair",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les resistències més fortes a mirar les lleialtats invisibles és la sensació que fer-ho és una traïció. Si reconec que la manera com la meva família va gestionar certs temes no em serveix, ¿estic traint la seva història? Si permeto el que ells no es van permetre, ¿estic dient que la seva vida va ser un error?",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta por té sentit, i convé no menystenir-la. Però la resposta és clara: mirar una lleialtat no és trair. És, de fet, l'acte contrari. És prendre's seriosament allò que es va heretar, prou seriosament per preguntar-se si encara serveix. Qui mira les lleialtats que porta no està rebutjant la seva història: l'està fent seva. Perquè heretar sense mirar no és fidelitat: és repetició. I la maduresa no consisteix a repetir el que es va rebre, sinó a decidir, amb coherència, què es vol sostenir i què es vol deixar.",
+      },
+      {
+        type: "heading",
+        text: "El dol que sovint acompanya",
+      },
+      {
+        type: "paragraph",
+        text: "Quan una persona comença a mirar les lleialtats invisibles que porta, sovint apareix una tristesa que no s'esperava. No és una tristesa per alguna cosa que ha perdut ara: és una tristesa per alguna cosa que, en un sentit, fa temps que no va poder ser. El permís que no es va tenir, el paper que no es va triar, la decisió que es va prendre per raons que no eren les pròpies. Aquesta tristesa no és un senyal que el procés vagi malament: és un senyal que s'està fent amb profunditat.",
+      },
+      {
+        type: "paragraph",
+        text: "Fer aquest dol no és quedar-se atrapat en el que no va poder ser. És, més aviat, el camí per poder avançar sense arrossegar res. Perquè la lleialtat que no es mira no desapareix: es queda, i es manifesta com a límits que no se sap d'on vénen, com a sensació de no tenir permís, com a una vida que es viu a un pam de distància d'un mateix. La lleialtat que es mira, en canvi, pot començar a ser una elecció —i les eleccions, a diferència de les herències, es poden sostenir amb coherència.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et dirà quines lleialtats has de trencar. No et donarà una llista de coses que has de deixar de sostenir. El que pot fer és oferir un espai on mirar, sense pressa i sense judici, les decisions, els límits i els silencis que portes sense saber per què. Un espai on la pregunta no sigui «què està malament en mi» sinó «de què sóc fidel, i aquesta fidelitat encara em serveix».",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta mirada, sostinguda amb temps, permet distingir el que és teu del que vas heretar. Permet fer el dol del que no va poder ser. I permet, sobretot, recuperar la capacitat d'elegir —no contra la teva història, sinó des d'ella. Perquè la maduresa no és alliberar-se de les lleialtats: és fer-les pròpies. I una lleialtat pròpia, elegida amb coherència, deixa de ser una trinxera i es converteix en un sòl.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "Com sé si estic sostenint una lleialtat invisible?",
+            answer:
+              "És difícil saber-ho des de dins, i això és normal. El que ajuda és mirar els límits que no saps d'on vénen: coses que sents que no pots fer, encara que no hi hagi una raó concreta, o temes que sempre queden fora de la conversa a la família. Si aquests límits apareixen sobretot en moments de canvi —canviar de feina, sortir d'una relació, començar un procés— i van acompanyats d'una culpa que no encaixa, té sentit mirar-los amb ajuda.",
+          },
+          {
+            question:
+              "Mirar aquestes lleialtats és trair la meva família?",
+            answer:
+              "No. Mirar una lleialtat no és rebutjar la teva història: és prendre-te-la seriosament. Heretar sense mirar no és fidelitat: és repetició. La maduresa consisteix a decidir, amb coherència, què vols seguir sostenint i què ja no et serveix. Això no trairà la teva família: la farà pròpia d'una manera que no ho era abans.",
+          },
+          {
+            question:
+              "Puc canviar aquestes lleialtats sol?",
+            answer:
+              "Algunes persones poden començar a mirar-les soles, sobretot quan són lleialtats a decisions pròpies. Però les que vénen de la família, i les que van acompanyades de dol, solen necessitar un espai on ser mirades amb ajuda. No perquè no puguis fer-ho sol: perquè aquestes lleialtats, per definició, no es veuen des de dins, i algú al costat pot ajudar a veure el que la pròpia mirada no arriba.",
+          },
+          {
+            question:
+              "Canviar una lleialtat invisible sempre implica dol?",
+            answer:
+              "No sempre, però sovint. Quan una lleialtat ha tingut una funció —donar pertinença, protegir d'un dol, lligar a les persones estimades—, deixar de sostenir-la pot obrir una tristesa que no s'esperava. Aquesta tristesa no és un senyal que el procés vagi malament: és el camí per poder avançar sense arrossegar res. La teràpia pot ajudar a recórrer aquest dol sense que es converteixi en estancament.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sents que portes decisions, límits o silencis que no saps d'on vénen, que certs temes sempre queden fora de la conversa, o que hi ha opcions que no et sents amb permís de prendre encara que no hi hagi res que t'ho impedeixi, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar les lleialtats que porten sense saber-ho —no per trencar-les, sinó per fer-les pròpies i recuperar la capacitat d'elegir amb coherència.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una clase de decisiones que tomamos en la vida adulta que no acabamos de entender. Elecciones profesionales que no encajan con lo que decía que quería, vínculos que se repiten con otras personas pero con el mismo patrón, límites que no me atrevo a cruzar aunque ya no haya razón para no hacerlo. Y hay temas que, dentro de la familia, siempre quedan fuera de la conversación: ciertos duelos que no se hicieron, ciertos papeles que no se asignaron, ciertos silencios que todos respetan sin que nadie haya decidido respetarlos. No siempre sabemos por qué. A veces no es porque no queramos saberlo: es porque la respuesta no es solo nuestra.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: muchas de esas decisiones, límites y silencios no nacen de una elección consciente. Nacen de lealtades invisibles: maneras de permanecer fiel a una historia, a una familia o a una decisión que se tomó hace tiempo, a menudo sin que lo supiéramos. Estas lealtades no son necesariamente un problema: a veces nos sostienen, nos dan un sentido de pertenencia y un lugar en una historia más grande. Pero cuando se quedan sin ser miradas, pueden empezar a costar: nos ligan a opciones que ya no nos representan, nos impiden hacer el duelo de lo que hay que hacerlo, o nos mantienen en un papel que heredamos y que nadie nos preguntó si queríamos hacer nuestro. La terapia no consiste en romper estas lealtades: consiste en mirarlas, comprender qué sostienen y decidir, con coherencia, cuáles queremos seguir sosteniendo y cuáles ya no.",
+      },
+      {
+        type: "heading",
+        text: "Qué es una lealtad invisible",
+      },
+      {
+        type: "paragraph",
+        text: "Una lealtad invisible es un compromiso que no se tomó con palabras. Es una manera de permanecer fiel a algo —una familia, una historia, una decisión de alguien otro, un papel que se nos asignó— sin que nadie nos haya pedido explícitamente que lo hiciéramos. Y, a menudo, sin que nosotros mismos sepamos que lo estamos haciendo.",
+      },
+      {
+        type: "paragraph",
+        text: "El concepto viene de la terapia familiar, pero no hace falta conocer la teoría para reconocer el fenómeno. Pensemos en una persona que no puede disfrutar de un éxito profesional porque, en su familia, nadie llegó ahí. O en alguien que se queda en una relación que ya no le da nada, porque su madre se quedó y no quiere ser «menos». O en quien no se permite pedir ayuda porque, en la casa donde creció, pedir ayuda era un signo de debilidad que tenía consecuencias. Estas personas no están siguiendo una orden explícita. Están sosteniendo una lealtad: una manera de no traicionar aquello que, sin decirlo, se dio por hecho.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se presentan en la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Las lealtades invisibles raramente se presentan con su nombre. Se presentan como «cosas que así son», como límites que no se sabe de dónde vienen, como sensación de no tener permiso para ciertas cosas. Estas son algunas de las formas que toman con frecuencia:",
+      },
+      {
+        type: "list",
+        items: [
+          "Límites que no se sabe de dónde vienen: «no puedo cambiar de trabajo», «no puedo salir de esta relación», «no puedo permitirme descansar» — sin una razón concreta que lo explique",
+          "Vínculos que se repiten: parejas, amistades o contextos laborales que, a pesar de las diferencias de superficie, reproducen un mismo patrón",
+          "Temas que siempre quedan fuera: ciertos duelos, ciertos conflictos, ciertos papeles familiares que no se tocan, como si hubiera un acuerdo tácito de no mirarlos",
+          "Sensación de no tener permiso: una sensación difusa de que ciertas opciones no son para ti, aunque no haya nadie prohibiéndolas",
+          "Culpa que no encaja: un fondo de culpa que aparece cuando te permites cosas que en tu familia no se permitían, aunque sean saludables",
+          "Papeles que no se eligieron: ser quien sostiene, quien resuelve, quien no pide, quien no falla — papeles que se asignaron hace tiempo y que ya nadie recuerda cómo empezaron",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna de estas señales, por separado, significa que estés sosteniendo una lealtad invisible. Pero cuando varias coinciden, y sobre todo cuando aparecen en momentos de cambio —cambiar de trabajo, salir de una relación, empezar un proceso terapéutico—, tiene sentido mirarlas juntas y preguntarse de qué son lealtad.",
+      },
+      {
+        type: "heading",
+        text: "Por qué son difíciles de ver",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las características de las lealtades invisibles es que no se ven desde dentro. No porque sean complicadas, sino porque forman parte del paisaje. Quien las lleva no las siente como elecciones: las siente como parte de quién es. Y eso es precisamente lo que las hace potentes: porque lo que sentimos como parte de la identidad raramente lo cuestionamos.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, estas lealtades suelen tener una función. Nos dan un lugar en una historia, nos ligan a las personas que amamos, nos protegen de un duelo que no sabríamos hacer. Y esa función es real: no se trata de ignorarla. Se trata de mirar si la función que tenían aún es la función que necesitan tener ahora, o si ya no encaja con la vida que quieres vivir.",
+      },
+      {
+        type: "heading",
+        text: "El papel de la familia y de la historia",
+      },
+      {
+        type: "paragraph",
+        text: "No todas las lealtades invisibles vienen de la familia. Algunas vienen de decisiones que tomamos hace tiempo y que, sin darnos cuenta, convertimos en identidad. La decisión de no depender de nadie, de no mostrar vulnerabilidad, de no detenerse. En su momento, quizá fueron necesarias. Pero años después, sostenidas sin ser miradas, se convierten en trincheras: nos protegen de algo que ya no nos amenaza, y al mismo tiempo nos impiden llegar a ciertos lugares.",
+      },
+      {
+        type: "paragraph",
+        text: "Las que vienen de la familia tienen una cualidad particular: no se decidieron. Se heredaron. Y eso significa que no las puedes cambiar solo con voluntad. Cambiarlas, cuando hace falta cambiarlas, no es un acto de rebelión: es un acto de madurez. Y como todo acto de madurez, no se hace de un día para otro, ni sin un cierto duelo.",
+      },
+      {
+        type: "heading",
+        text: "Mirarlas no es traicionar",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las resistencias más fuertes a mirar las lealtades invisibles es la sensación de que hacerlo es una traición. Si reconozco que la manera en que mi familia gestionó ciertos temas no me sirve, ¿estoy traicionando su historia? Si me permito lo que ellos no se permitieron, ¿estoy diciendo que su vida fue un error?",
+      },
+      {
+        type: "paragraph",
+        text: "Ese miedo tiene sentido, y conviene no minimizarlo. Pero la respuesta es clara: mirar una lealtad no es traicionar. Es, de hecho, lo contrario. Es tomarse en serio aquello que se heredó, lo bastante en serio como para preguntarse si aún sirve. Quien mira las lealtades que lleva no está rechazando su historia: la está haciendo suya. Porque heredar sin mirar no es fidelidad: es repetición. Y la madurez no consiste en repetir lo que se recibió, sino en decidir, con coherencia, qué se quiere sostener y qué se quiere dejar.",
+      },
+      {
+        type: "heading",
+        text: "El duelo que a menudo acompaña",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando una persona empieza a mirar las lealtades invisibles que lleva, a menudo aparece una tristeza que no se esperaba. No es una tristeza por algo que ha perdido ahora: es una tristeza por algo que, en un sentido, hace tiempo que no pudo ser. El permiso que no se tuvo, el papel que no se eligió, la decisión que se tomó por razones que no eran propias. Esta tristeza no es una señal de que el proceso vaya mal: es una señal de que se está haciendo con profundidad.",
+      },
+      {
+        type: "paragraph",
+        text: "Hacer ese duelo no es quedarse atrapado en lo que no pudo ser. Es, más bien, el camino para poder avanzar sin arrastrar nada. Porque la lealtad que no se mira no desaparece: se queda, y se manifiesta como límites que no se sabe de dónde vienen, como sensación de no tener permiso, como una vida que se vive a un palmo de distancia de uno mismo. La lealtad que se mira, en cambio, puede empezar a ser una elección —y las elecciones, a diferencia de las herencias, se pueden sostener con coherencia.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te dirá qué lealtades tienes que romper. No te dará una lista de cosas que tienes que dejar de sostener. Lo que puede hacer es ofrecer un espacio donde mirar, sin prisa y sin juicio, las decisiones, los límites y los silencios que llevas sin saber por qué. Un espacio donde la pregunta no sea «qué está mal en mí» sino «de qué soy fiel, y esta fidelidad aún me sirve».",
+      },
+      {
+        type: "paragraph",
+        text: "Esta mirada, sostenida con tiempo, permite distinguir lo que es tuyo de lo que heredaste. Permite hacer el duelo de lo que no pudo ser. Y permite, sobre todo, recuperar la capacidad de elegir —no contra tu historia, sino desde ella. Porque la madurez no es liberarse de las lealtades: es hacerlas propias. Y una lealtad propia, elegida con coherencia, deja de ser una trinchera y se convierte en un suelo.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Cómo sé si estoy sosteniendo una lealtad invisible?",
+            answer:
+              "Es difícil saberlo desde dentro, y eso es normal. Lo que ayuda es mirar los límites que no sabes de dónde vienen: cosas que sientes que no puedes hacer, aunque no haya una razón concreta, o temas que siempre quedan fuera de la conversación en la familia. Si esos límites aparecen sobre todo en momentos de cambio —cambiar de trabajo, salir de una relación, empezar un proceso— y van acompañados de una culpa que no encaja, tiene sentido mirarlos con ayuda.",
+          },
+          {
+            question:
+              "¿Mirar estas lealtades es traicionar a mi familia?",
+            answer:
+              "No. Mirar una lealtad no es rechazar tu historia: es tomártela en serio. Heredar sin mirar no es fidelidad: es repetición. La madurez consiste en decidir, con coherencia, qué quieres seguir sosteniendo y qué ya no te sirve. Eso no traiciona a tu familia: la hace propia de una manera que no lo era antes.",
+          },
+          {
+            question:
+              "¿Puedo cambiar estas lealtades solo?",
+            answer:
+              "Algunas personas pueden empezar a mirarlas solas, sobre todo cuando son lealtades a decisiones propias. Pero las que vienen de la familia, y las que van acompañadas de duelo, suelen necesitar un espacio donde ser miradas con ayuda. No porque no puedas hacerlo solo: porque estas lealtades, por definición, no se ven desde dentro, y alguien al lado puede ayudar a ver lo que la propia mirada no alcanza.",
+          },
+          {
+            question:
+              "¿Cambiar una lealtad invisible siempre implica duelo?",
+            answer:
+              "No siempre, pero a menudo. Cuando una lealtad ha tenido una función —dar pertenencia, proteger de un duelo, ligar a las personas amadas—, dejar de sostenerla puede abrir una tristeza que no se esperaba. Esta tristeza no es una señal de que el proceso vaya mal: es el camino para poder avanzar sin arrastrar nada. La terapia puede ayudar a recorrer ese duelo sin que se convierta en estancamiento.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sientes que llevas decisiones, límites o silencios que no sabes de dónde vienen, que ciertos temas siempre quedan fuera de la conversación, o que hay opciones que no te sientes con permiso de tomar aunque no haya nada que te lo impida, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar las lealtades que llevan sin saberlo —no para romperlas, sino para hacerlas propias y recuperar la capacidad de elegir con coherencia.",
+      },
+    ],
+  },
 ];

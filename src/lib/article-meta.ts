@@ -641,5 +641,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Hay un tipo de silencio en la pareja que no nace de la calma, sino de una rabia que no ha encontrado dónde ponerse. No grita, no discute: se retira. Y esa retirada, que a veces parece serenidad, es en realidad una manera de decir sin palabras lo que no se ha podido decir con ellas. Aquí exploramos cómo la rabia que no se expresa se transforma en distancia, por qué ese silencio pesa más que las palabras, y cómo puede ayudar la terapia a deshacer el nudo sin que se convierta ni en acusación ni en rendición.",
     "datePublished": "2026-08-13"
+  },
+  {
+    "slug": "lealtades-invisibles-que-heredamos-sin-saber",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Les lleialtats invisibles que heretem sense saber-ho",
+    "titleES": "Las lealtades invisibles que heredamos sin saberlo",
+    "excerptCA":
+      "Hi ha decisions que prenem a la vida adulta que no entenem del tot per què les prenem. Eleccions professionals, vincles que es repeteixen, límits que no gosem traspassar, certs temes que sempre queden fora de la conversa. De vegades no són nostres: són lleialtats invisibles, maneres de romandre fidel a una història, a una família o a una decisió que es va prendre fa temps sense que ho sabéssim. Aquí explorem què són aquestes lleialtats que no es veuen, com configuren la vida adulta i com pot ajudar la teràpia a mirar-les sense que es converteixin ni en traïció ni en renúncia.",
+    "excerptES":
+      "Hay decisiones que tomamos en la vida adulta que no entendemos del todo por qué las tomamos. Elecciones profesionales, vínculos que se repiten, límites que no nos atrevemos a cruzar, ciertos temas que siempre quedan fuera de la conversación. A veces no son nuestras: son lealtades invisibles, maneras de permanecer fiel a una historia, a una familia o a una decisión que se tomó hace tiempo sin que lo supiéramos. Aquí exploramos qué son esas lealtades que no se ven, cómo configuran la vida adulta y cómo puede ayudar la terapia a mirarlas sin que se conviertan ni en traición ni en renuncia.",
+    "datePublished": "2026-08-14"
   }
 ];
