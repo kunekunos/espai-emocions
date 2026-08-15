@@ -653,5 +653,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Hay decisiones que tomamos en la vida adulta que no entendemos del todo por qué las tomamos. Elecciones profesionales, vínculos que se repiten, límites que no nos atrevemos a cruzar, ciertos temas que siempre quedan fuera de la conversación. A veces no son nuestras: son lealtades invisibles, maneras de permanecer fiel a una historia, a una familia o a una decisión que se tomó hace tiempo sin que lo supiéramos. Aquí exploramos qué son esas lealtades que no se ven, cómo configuran la vida adulta y cómo puede ayudar la terapia a mirarlas sin que se conviertan ni en traición ni en renuncia.",
     "datePublished": "2026-08-14"
+  },
+  {
+    "slug": "verguenza-que-no-se-nombra-adultos",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La vergonya que no es nomena: quan semblar qui creus que hauries de ser t'esgota",
+    "titleES": "La vergüenza que no se nombra: cuando parecer quien crees que debes ser te agota",
+    "excerptCA":
+      "Hi ha un tipus de malestar que no es diu pel seu nom i, tanmateix, dirigeix moltes de les decisions que prens: què mostres de tu, què amagues, quines relacions permetes, què demanes i què calles. És la vergonya, aquella sensació de no estar a l'alçada —no d'alguna cosa que has fet, sinó del que ets. No és culpa, que diu «he fet alguna cosa malament»; és vergonya, que diu «estic malament». Aquí explorem com opera aquesta vergonya que no es nomena, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en veredicte ni en resignació.",
+    "excerptES":
+      "Hay un tipo de malestar que no se llama por su nombre y, sin embargo, dirige muchas de las decisiones que tomas: qué muestras de ti, qué escondes, qué relaciones permites, qué pides y qué callas. Es la vergüenza, esa sensación de no estar a la altura —no de algo que has hecho, sino de lo que eres. No es culpa, que dice «he hecho algo mal»; es vergüenza, que dice «estoy mal». Aquí exploramos cómo opera esta vergüenza que no se nombra, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a mirarla sin que se convierta ni en veredicto ni en resignación.",
+    "datePublished": "2026-08-15"
   }
 ];

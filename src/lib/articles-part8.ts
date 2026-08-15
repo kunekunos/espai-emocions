@@ -1945,7 +1945,246 @@ export const articlesPart8: ArticleContent[] = [
       },
       {
         type: "paragraph",
-        text: "Si sientes que llevas decisiones, límites o silencios que no sabes de dónde vienen, que ciertos temas siempre quedan fuera de la conversación, o que hay opciones que no te sientes con permiso de tomar aunque no haya nada que te lo impida, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar las lealtades que llevan sin saberlo —no para romperlas, sino para hacerlas propias y recuperar la capacidad de elegir con coherencia.",
+        text: "Si sientes que llevas decisiones, límites o silencios que no sabes de dónde vienen, ciertos temas siempre quedan fuera de la conversación, o que hay opciones que no te sientes con permiso de tomar aunque no haya nada que te lo impida, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar las lealtades que llevan sin saberlo —no para romperlas, sino para hacerlas propias y recuperar la capacidad de elegir con coherencia.",
+      },
+    ],
+  },
+  // ---------------------------------------------------------------------------
+  // 8. verguenza-que-no-se-nombra-adultos (Pilar: Identidad / la vergüenza silenciosa)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "verguenza-que-no-se-nombra-adultos",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "La vergonya que no es nomena: quan semblar qui creus que hauries de ser t'esgota",
+    titleES:
+      "La vergüenza que no se nombra: cuando parecer quien crees que debes ser te agota",
+    excerptCA:
+      "Hi ha un tipus de malestar que no es diu pel seu nom i, tanmateix, dirigeix moltes de les decisions que prens: què mostres de tu, què amagues, quines relacions permetes, què demanes i què calles. És la vergonya, aquella sensació de no estar a l'alçada —no d'alguna cosa que has fet, sinó del que ets. No és culpa, que diu «he fet alguna cosa malament»; és vergonya, que diu «estic malament». Aquí explorem com opera aquesta vergonya que no es nomena, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en veredicte ni en resignació.",
+    excerptES:
+      "Hay un tipo de malestar que no se llama por su nombre y, sin embargo, dirige muchas de las decisiones que tomas: qué muestras de ti, qué escondes, qué relaciones permites, qué pides y qué callas. Es la vergüenza, esa sensación de no estar a la altura —no de algo que has hecho, sino de lo que eres. No es culpa, que dice «he hecho algo mal»; es vergüenza, que dice «estoy mal». Aquí exploramos cómo opera esta vergüenza que no se nombra, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a mirarla sin que se convierta ni en veredicto ni en resignación.",
+    datePublished: "2026-08-15",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un tipus de malestar que no es diu pel seu nom i, tanmateix, dirigeix moltes de les decisions que prens. Apareix com a incomoditat en rebre un compliment, com a necessitat de justificar un descans, com a dificultat per demanar el que necessites encara que tinguis dret a fer-ho, com a sensació que en qualsevol moment algú descobrirà que no ets tan competent, tan interessant, tan preparat com sembla. No sempre ho reconeixes com a vergonya: ho anomenes timidesa, perfeccionisme, sensibilitat. Però a sota hi ha una mateixa pregunta, amb prou feines formulada: «¿sóc suficient?». Aquesta pregunta, quan se sosté anys en silenci, no desapareix: es torna el sòl sobre el qual camines.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: la vergonya no és el mateix que la culpa. La culpa diu «he fet alguna cosa malament»; la vergonya diu «estic malament». La primera apunta a una acció i admet reparació; la segona apunta a la persona i tendeix a amagar-se. La vergonya que no es nomena és una de les forces més silencioses que configuren la vida adulta: decideix quines parts de tu mostres, quines relacions permetes, què demanes i què calles. I, sobretot, t'empeny a construir una versió de tu mateix pensada per encaixar, no per ser. La teràpia no consisteix a convèncer-te que valds: consisteix a ajudar a mirar, amb temps i sense judici, d'on ve aquesta sensació i què necessita per deixar de dirigir des de les ombres.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre culpa i vergonya",
+      },
+      {
+        type: "paragraph",
+        text: "És la distinció més útil per començar a entendre el que et passa. La culpa és una resposta a alguna cosa concreta: una frase que vas dir de més, una decisió que va ferir algú, un compromís que no vas complir. Produeix incomoditat, però té un límit i un camí —demanar perdó, reparar, canviar—. La vergonya, en canvi, no té un fet clar on agafar-se. És més difusa, més total: no diu «he fet alguna cosa malament», diu «alguna cosa està malament en mi». Per això és tan difícil d'abordar: no hi ha un objecte sobre el qual actuar, hi ha una sensació que s'estén sobre tota la persona.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta diferència explica per què la culpa, encara que faci mal, sol moure les persones, mentre que la vergonya les frena. La culpa empeny a fer alguna cosa; la vergonya empeny a amagar-se. I amagar-se, sostingut durant anys, té un cost: vas perdent contacte amb parts de tu que no vas mostrar, vas construint una imatge cada vegada més pulida i més llunyana, i vas necessitant més esforç per sostenir la diferència entre qui sembles i qui et sents.",
+      },
+      {
+        type: "heading",
+        text: "Com es manifesta a la maduresa adulta",
+      },
+      {
+        type: "paragraph",
+        text: "La vergonya rarament es presenta com a vergonya. Es disfressa d'altres coses, i això és el que la fa difícil de reconèixer. A la maduresa adulta, quan ja portes anys funcionant, sol aparèixer d'aquestes formes:",
+      },
+      {
+        type: "list",
+        items: [
+          "Dificultat per rebre un compliment sense minimitzar-lo o desviar el tema",
+          "Necessitat de justificar el descans, com si no et mereixessis parar sense una raó que ho expliqui",
+          "Vergonya de demanar ajuda, fins i tot quan la necessites, perquè sembla equivalent a una confessió de fracàs",
+          "Sensació d'impostor: la por que descobreixin que no saps tant, no ho aguantes tan bé, no ho tens tan clar com sembles",
+          "Perfeccionisme que no busca l'excel·lència, sinó evitar l'exposició",
+          "Relacions en què mostres una versió reduïda de tu, i soledat que neix d'això: ningú et coneix del tot",
+          "Irritabilitat quan algú s'acosta a una part de tu que no havies decidit mostrar",
+        ],
+      },
+      {
+        type: "heading",
+        text: "D'on ve",
+      },
+      {
+        type: "paragraph",
+        text: "La vergonya no neix del no-res. Gairebé sempre té una història. A vegades ve de contextos on, de nen o de jove, vas aprendre que certes parts de tu no eren acceptables: la sensibilitat, la necessitat, la ràbia, la tristesa, l'entusiasme massa visible. No necessàriament per maltractament: a vegades per missatges subtils, repetits, que t'ensenyaven que encaixar requeria retallar.",
+      },
+      {
+        type: "paragraph",
+        text: "També pot venir de moments concrets on et vas sentir exposat, humiliat o rebutjat per mostrar alguna cosa real. Aquestes experiències deixen una marca que no s'esborra amb l'edat: es transformen en una vigilància constant, en una mena de guàrdia interior que s'assegura que no tornis a quedar-te sense protecció.",
+      },
+      {
+        type: "heading",
+        text: "El que sosté la vergonya: el semblar-nos",
+      },
+      {
+        type: "paragraph",
+        text: "El que manté viva la vergonya al llarg dels anys no és només el seu origen, sinó una decisió que es pren, moltes vegades sense adonar-se'n: la de construir una versió de tu pensada per als altres. Una versió que no molesta, que no necessita massa, que no decep. Aquesta versió funciona, durant un temps. Aconsegueix reconeixement, estabilitat, relacions. Però té un problema: no ets tu, o no ets tu del tot.",
+      },
+      {
+        type: "paragraph",
+        text: "I aquí apareix el cansament característic de la vergonya a la maduresa: no és el cansament de fer massa, és el cansament de sostenir una distància entre qui sembles i qui et sents. Aquesta distància, mantinguda anys, consumeix recursos. I un dia descobreixes que, encara que per fora tot encaixa, per dins hi ha una sensació de no ser conegut del tot, de que ningú vegi realment qui ets. No perquè els altres no vulguin, sinó perquè tu no t'has pogut mostrar.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et dirà que valds, ni intentarà convèncer-te amb arguments. Això, a més de no funcionar, seria una altra manera de saltar-se el que de veritat importa. El que pot fer és oferir un espai on mirar, sense pressa i sense judici, d'on ve aquesta sensació de no ser suficient. Un espai on la pregunta deixi de ser «¿sóc suficient?» i es converteixi en «¿per a qui he estat intentant ser-ho, i a quin preu?».",
+      },
+      {
+        type: "paragraph",
+        text: "Mirar la vergonya amb ajuda no l'elimina per decret: la desmunta. Permet distingir el que vas aprendre del que és teu, el que sostenies per lleialtat a una història del que vas escollir per tu. Permet, sobretot, assajar mostrar parts que havies deixat guardades, primer en la seguretat de la relació terapèutica i després, a poc a poc, en la resta de la vida. La maduresa no consisteix a no sentir vergonya: consisteix que la vergonya deixi de decidir per tu.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Com sé si el que sento és vergonya i no només inseguretat?",
+            answer:
+              "La inseguretat sol ser específica: dubtes sobre una tasca, una decisió, una situació. La vergonya és més àmplia: no apunta a alguna cosa que fas, sinó a alguna cosa que ets. Si el que sents no es calma quan fas bé la cosa concreta, sinó que es desplaça a una altra part, i si va acompanyat d'un impuls a amagar-te, té sentit pensar que és vergonya.",
+          },
+          {
+            question:
+              "¿Mirar la vergonya significa reviure el passat?",
+            answer:
+              "No. La teràpia no consisteix a repassar cada moment dolorós, sinó a comprendre com el que vas viure configura el que sents ara. A vegades cal mirar alguna cosa de l'origen; a vegades n'hi ha prou amb treballar com es manifesta avui. L'objectiu no és recordar més, sinó entendre millor.",
+          },
+          {
+            question:
+              "¿Puc treballar la vergonya sol?",
+            answer:
+              "Algunes persones poden començar a reconèixer-la soles, sobretot quan ja han intuir d'on ve. Però la vergonya té una particularitat: se sosté en el secret. El que no es mostra no es transforma. Per això, un espai on poder-la dir amb ajuda sol ser part del camí, no una drecera.",
+          },
+          {
+            question:
+              "¿Vergonya significa que alguna cosa em passa a mi com a persona?",
+            answer:
+              "No. La vergonya és una experiència, no una veritat sobre qui ets. Sentir vergonya no et defineix, de la mateixa manera que sentir por no et fa covard. La teràpia ajuda a separar la sensació del veredicte, perquè la vergonya deixi de funcionar com una sentència sobre la teva identitat.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes en el que expliques una sensació de no ser suficient que no es calma amb èxits, si et costa mostrar-te del tot o demanar el que necessites, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar la vergonya que porten sense anomenar-la —no per eliminar-la de cop, sinó perquè deixi de decidir per ells i recuperar la coherència entre qui sembles i qui ets.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un tipo de malestar que no se llama por su nombre y, sin embargo, dirige muchas de las decisiones que tomas. Aparece como incomodidad al recibir un cumplido, como necesidad de justificar un descanso, como dificultad para pedir lo que necesitas aunque tengas derecho a hacerlo, como sensación de que en cualquier momento alguien va a descubrir que no eres tan competente, tan interesante, tan preparado como parece. No siempre lo reconoces como vergüenza: lo llamas timidez, perfeccionismo, sensibilidad. Pero debajo hay una misma pregunta, apenas formulada: «¿soy suficiente?». Esta pregunta, cuando se sostiene años en silencio, no desaparece: se vuelve el suelo sobre el que caminas.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: la vergüenza no es lo mismo que la culpa. La culpa dice «he hecho algo mal»; la vergüenza dice «estoy mal». La primera apunta a una acción y admite reparación; la segunda apunta a la persona y tiende a esconderse. La vergüenza que no se nombra es una de las fuerzas más silenciosas que configuran la vida adulta: decide qué partes de ti muestras, qué relaciones permites, qué pides y qué callas. Y, sobre todo, te empuja a construir una versión de ti mismo pensada para encajar, no para ser. La terapia no consiste en convencerte de que vales: consiste en ayudar a mirar, con tiempo y sin juicio, de dónde viene esa sensación y qué necesita para dejar de dirigir desde las sombras.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre culpa y vergüenza",
+      },
+      {
+        type: "paragraph",
+        text: "Es la distinción más útil para empezar a entender lo que te pasa. La culpa es una respuesta a algo concreto: una frase que dijiste de más, una decisión que lastimó a alguien, un compromiso que no cumpliste. Produce incomodidad, pero tiene un límite y un camino —pedir perdón, reparar, cambiar—. La vergüenza, en cambio, no tiene un hecho claro al que agarrarse. Es más difusa, más total: no dice «hice algo mal», dice «algo está mal en mí». Por eso es tan difícil de abordar: no hay un objeto sobre el que actuar, hay una sensación que se extiende sobre toda la persona.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta diferencia explica por qué la culpa, aunque duela, suele mover a las personas, mientras que la vergüenza las frena. La culpa empuja a hacer algo; la vergüenza empuja a esconderse. Y esconderse, sostenido durante años, tiene un costo: vas perdiendo contacto con partes de ti que no mostraste, vas construyendo una imagen cada vez más pulida y más lejana, y vas necesitando más esfuerzo para sostener la diferencia entre quien pareces y quien te sientes.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se manifiesta en la madurez adulta",
+      },
+      {
+        type: "paragraph",
+        text: "La vergüenza rara vez se presenta como vergüenza. Se disfraza de otras cosas, y eso es lo que la hace difícil de reconocer. En la madurez adulta, cuando ya llevas años funcionando, suele aparecer de estas formas:",
+      },
+      {
+        type: "list",
+        items: [
+          "Dificultad para recibir un cumplido sin minimizarlo o desviar el tema",
+          "Necesidad de justificar el descanso, como si no merecieras parar sin una razón que lo explique",
+          "Vergüenza de pedir ayuda, incluso cuando la necesitas, porque parece equivalente a una confesión de fracaso",
+          "Sensación de impostor: el temor a que descubran que no sabes tanto, no lo aguantas tan bien, no lo tienes tan claro como pareces",
+          "Perfeccionismo que no busca la excelencia, sino evitar la exposición",
+          "Relaciones en las que muestras una versión reducida de ti, y soledad que nace de eso: nadie te conoce del todo",
+          "Irritabilidad cuando alguien se acerca a una parte de ti que no habías decidido mostrar",
+        ],
+      },
+      {
+        type: "heading",
+        text: "De dónde viene",
+      },
+      {
+        type: "paragraph",
+        text: "La vergüenza no nace de la nada. Casi siempre tiene una historia. A veces viene de contextos donde, de niño o de joven, aprendiste que ciertas partes de ti no eran aceptables: la sensibilidad, la necesidad, la rabia, la tristeza, el entusiasmo demasiado visible. No necesariamente por maltrato: a veces por mensajes sutiles, repetidos, que te enseñaron que encajar requería recortar.",
+      },
+      {
+        type: "paragraph",
+        text: "También puede venir de momentos concretos donde te sentiste expuesto, humillado o rechazado por mostrar algo real. Esas experiencias dejan una marca que no se borra con la edad: se transforman en una vigilancia constante, en una especie de guardia interior que se asegura de que no vuelvas a quedarte sin protección.",
+      },
+      {
+        type: "heading",
+        text: "Lo que sostiene la vergüenza: el parecernos",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que mantiene viva la vergüenza a lo largo de los años no es solo su origen, sino una decisión que se toma, muchas veces sin darse cuenta: la de construir una versión de ti pensada para los demás. Una versión que no molesta, que no necesita demasiado, que no decepciona. Esta versión funciona, durante un tiempo. Consigue reconocimiento, estabilidad, relaciones. Pero tiene un problema: no eres tú, o no eres tú del todo.",
+      },
+      {
+        type: "paragraph",
+        text: "Y ahí aparece el cansancio característico de la vergüenza en la madurez: no es el cansancio de hacer demasiado, es el cansancio de sostener una distancia entre quien pareces y quien te sientes. Esa distancia, mantenida años, consume recursos. Y un día descubres que, aunque por fuera todo encaja, por dentro hay una sensación de no ser conocido del todo, de que nadie vea realmente quién eres. No porque los demás no quieran, sino porque tú no has podido mostrarte.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te dirá que vales, ni intentará convencerte con argumentos. Eso, además de no funcionar, sería otra forma de saltarse lo que de verdad importa. Lo que puede hacer es ofrecer un espacio donde mirar, sin prisa y sin juicio, de dónde viene esa sensación de no ser suficiente. Un espacio donde la pregunta deje de ser «¿soy suficiente?» y se convierta en «¿para quién he estado intentando serlo, y a qué precio?».",
+      },
+      {
+        type: "paragraph",
+        text: "Mirar la vergüenza con ayuda no la elimina por decreto: la desmonta. Permite distinguir lo que aprendiste de lo que es tuyo, lo que sostenías por lealtad a una historia de lo que elegiste por ti. Permite, sobre todo, ensayar mostrar partes que habías dejado guardadas, primero en la seguridad de la relación terapéutica y luego, poco a poco, en el resto de la vida. La madurez no consiste en no sentir vergüenza: consiste en que la vergüenza deje de decidir por ti.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Cómo sé si lo que siento es vergüenza y no solo inseguridad?",
+            answer:
+              "La inseguridad suele ser específica: dudas sobre una tarea, una decisión, una situación. La vergüenza es más amplia: no apunta a algo que haces, sino a algo que eres. Si lo que sientes no se calma cuando haces bien la cosa concreta, sino que se desplaza a otra parte, y si va acompañado de un impulso a esconderte, tiene sentido pensar que es vergüenza.",
+          },
+          {
+            question:
+              "¿Mirar la vergüenza significa revivir el pasado?",
+            answer:
+              "No. La terapia no consiste en repasar cada momento doloroso, sino en comprender cómo lo que viviste configura lo que sientes ahora. A veces hace falta mirar algo del origen; a veces basta con trabajar cómo se manifiesta hoy. El objetivo no es recordar más, sino entender mejor.",
+          },
+          {
+            question:
+              "¿Puedo trabajar la vergüenza solo?",
+            answer:
+              "Algunas personas pueden empezar a reconocerla solas, sobre todo cuando ya han intuido de dónde viene. Pero la vergüenza tiene una particularidad: se sostiene en el secreto. Lo que no se muestra no se transforma. Por eso, un espacio donde poderla decir con ayuda suele ser parte del camino, no un atajo.",
+          },
+          {
+            question:
+              "¿Vergüenza significa que algo me pasa a mí como persona?",
+            answer:
+              "No. La vergüenza es una experiencia, no una verdad sobre quién eres. Sentir vergüenza no te define, del mismo modo que sentir miedo no te hace cobarde. La terapia ayuda a separar la sensación del veredicto, para que la vergüenza deje de funcionar como una sentencia sobre tu identidad.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces en lo que cuentas una sensación de no ser suficiente que no se calma con logros, si te cuesta mostrarte del todo o pedir lo que necesitas, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar la vergüenza que llevan sin nombrarla —no para eliminarla de golpe, sino para que deje de decidir por ellos y recuperar la coherencia entre quien pareces y quien eres.",
       },
     ],
   },
