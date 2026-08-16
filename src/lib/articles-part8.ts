@@ -2188,4 +2188,290 @@ export const articlesPart8: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 9. cuando-anorar-es-preguntar (Pilar: Cambios vitales / Nostalgia adulta)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "cuando-anorar-es-preguntar",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA:
+      "Quan enyorar és preguntar: la nostàlgia adulta que no és el que sembla",
+    titleES:
+      "Cuando añorar es preguntar: la nostalgia adulta que no es lo que parece",
+    excerptCA:
+      "Hi ha un tipus d'enyorament que no es correspon amb una pèrdua concreta. No enyores una persona que se'n va ni un lloc que vas deixar: enyores una manera d'estar-hi que ja no trobes. Aquesta nostàlgia, que sovint es confon amb melancolia o amb un desig de tornar enrere, és en realitat una pregunta. Pregunta quines parts de tu han quedat fora del camí mentre anaves construint la vida que tens. Aquí explorem què hi ha darrere d'aquest enyorament que apareix entre els trenta i els cinquanta, per què no és un senyal de regressió i com pot ajudar la teràpia a convertir-lo en una pregunta amb resposta.",
+    excerptES:
+      "Hay un tipo de añoranza que no se corresponde con una pérdida concreta. No añoras a una persona que se fue ni a un lugar que dejaste: añoras una manera de estar que ya no encuentras. Esta nostalgia, que a menudo se confunde con melancolía o con un deseo de volver atrás, es en realidad una pregunta. Pregunta qué partes de ti han quedado fuera del camino mientras ibas construyendo la vida que tienes. Aquí exploramos qué hay detrás de ese añoramiento que aparece entre los treinta y los cincuenta, por qué no es un signo de regresión y cómo puede ayudar la terapia a convertirlo en una pregunta con respuesta.",
+    datePublished: "2026-08-16",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un moment, sobretot a partir dels trenta-cinc o els quaranta, en què comences a enyorar coses que no saps explicar del tot. No és un enyorament amb nom propi: no enyores una persona concreta, ni una ciutat, ni un any exacte. És més aviat una sensació que apareix de sobte, a la cuina un diumenge al vespre, o en una conversa que s'acaba i et deixa en silenci, o quan veus una fotografia d'una època que creies haver superat. Una mena de pes suau, com si alguna cosa s'hagués quedat enrere i no sabessis ben bé què.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: aquest enyorament no és necessàriament un senyal que vulguis tornar enrere, ni una prova que la teva vida actual no t'omple. És, molt sovint, una pregunta. Pregunta quines parts de tu quedaran fora del camí mentre anaves construint la vida que tens: la curiositat d'abans, la manera com et deixaves sorprendre, el tipus de relacions que tenies, la llibertat de no haver de ser res concret per a ningú. La nostàlgia adulta no sempre vol recuperar el passat: vol comprendre què es va perdre de tu mentre avançaves, i si aquesta pèrdua és reversible.",
+      },
+      {
+        type: "heading",
+        text: "El que no és aquesta nostàlgia",
+      },
+      {
+        type: "paragraph",
+        text: "Convé començar per aquí, perquè la nostàlgia adulta arrossega una mala reputació que li fa un flac favor. Sovint es presenta com un desig regressiu, com si volgués tornar a una època més fàcil i refugiar-se en ella. Però això no és el que passa, almenys en la majoria dels casos. La persona que enyora no vol tornar a tenir vint anys ni desfer el que ha construït. Sap que aquella època tenia les seves pròpies càrregues: inseguretat, manca de recursos, relacions que no funcionaven, un horitzó encara per definir. No idealitza el passat com un lloc on viure: l'enyora com un lloc on alguna cosa d'ella era més present.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoc és, en general, un senyal que la vida actual no serveixi. Es pot estimar el que es té —la parella, la feina, els fills, la casa, el projecte— i, alhora, sentir aquest pes que no encaixa amb cap d'aquestes coses. Aquesta convivència entre satisfacció i enyorament desconcerta, perquè la cultura ens ha ensenyat que o bé estàs bé o bé no ho estàs. Però la maduresa rarament és un estat net: és, més aviat, una suma de guanys i de pèrdues que conviuen sense resoldre's del tot.",
+      },
+      {
+        type: "heading",
+        text: "Què s'enyora, realment",
+      },
+      {
+        type: "paragraph",
+        text: "Quan s'observa amb atenció, aquest enyorament no apunta a esdeveniments concrets. Apunta a qualitats internes que estaven més disponibles en certs moments i que, amb el temps, s'han anat apagant. Algunes de les més freqüents:",
+      },
+      {
+        type: "list",
+        items: [
+          "La facilitat per implicar-se en coses sense calcular tant el cost",
+          "La curiositat que no estava sotmesa a la utilitat: llegir, provar, escoltar, sense que tot havia de portar enlloc",
+          "La manera com certes relacions es vivien sense agenda, sense negociació tàcita de favors o d'expectatives",
+          "El contacte amb parts pròpies que han quedat arraconades: la vitalitat, la tendresa, l'humor, la ira que sabia què volia",
+          "La sensació d'estar començant alguna cosa, quan el futur era una pàgina en blanc i no una llista de responsabilitats",
+          "El cos d'abans: no per vanitat, sinó per la manera com s'habitava, pel marge intern que es tenia sense saber-ho",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Cap d'aquestes coses, per separat, vol dir que estiguis en crisi. Però quan diverses coincideixen i porten mesos apareixent amb aquest pes suau, té sentit mirar-les juntes. No com a sintomàtiques: com a informatives. La nostàlgia, llavors, no és una queixa: és un mapa. Marca les zones on alguna part de tu ha quedat menys disponible, i on potser convé tornar a posar atenció.",
+      },
+      {
+        type: "heading",
+        text: "Per què apareix amb força entre els trenta i els cinquanta",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una raó estructural per la qual aquest enyorament es presenta amb més freqüència a la maduresa adulta, i no té a veure amb cap esdeveniment concret. Té a veure amb el tipus de vida que s'ha anat construint. Als trenta o als quaranta, la majoria de persones han pres decisions importants i les han sostingut: una feina, una relació, una ciutat, una manera de viure. Aquestes decisions han portat coses valuoses —estabilitat, vincles, propòsit— i també han tancat altres camins. És propi de qualsevol elecció adulta: triar és també deixar de triar.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema no és això. El problema apareix quan, en el procés de sostenir les decisions preses, algunes parts pròpies queden tan arraconades que deixen de ser accessibles. No és que s'hagin perdut per sempre: és que no s'ha parat atenció a on eren. I un dia, una fotografia, una olor, una conversa, les activa. La nostàlgia que apareix no és una tristesa per allò que ja no hi és: és un senyal que aquestes parts encara existeixen i reclamen un lloc.",
+      },
+      {
+        type: "paragraph",
+        text: "A això s'hi suma, sovint, una sensació de temps. A la maduresa adulta, la persona comença a percebre que la vida no és infinita, i aquesta percepció canvia la manera com es relaciona amb allò que ha deixat de banda. Ja no es tracta només d'haver triat: es tracta de començar a sospesar si les tries que has fet encara són les que vols sostenir, o si n'hi ha alguna que convé revisar. Aquest sospesar, quan es fa sense pressa però sense aparcament, és una de les tasques pròpies de la maduresa.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre nostàlgia i melancolia",
+      },
+      {
+        type: "paragraph",
+        text: "És una distinció que ajuda, perquè les dues paraules s'assemblen però apunten a llocs diferents. La melancolia tendeix a quedar-se: agafa el passat com un objecte fixe, l'envolta de boira i el mira amb una tristesa que no demana res concret. La nostàlgia, en canvi, és més viva i més orientada. Mira el passat, sí, però el que demana no és tornar-hi: és entendre què hi havia allà que ja no hi és, i decidir què se'n fa, aquí i ara.",
+      },
+      {
+        type: "paragraph",
+        text: "Una nostàlgia sana no t'hi vol quedar: t'hi vol portar perquè vegis alguna cosa que has deixat de veure. Si l'observes amb atenció, descobreixes que no diu «vull tornar» sinó «vull recuperar això que vaig tenir i que encara em pertany». I això canvia completament la tasca. No es tracta de desfer el camí: es tracta d'integrar en el present allò que el passat et mostra que era teu.",
+      },
+      {
+        type: "heading",
+        text: "El paper de la identitat i els valors",
+      },
+      {
+        type: "paragraph",
+        text: "Una cosa que sovint es passa per alt quan es parla de nostàlgia és la seva relació amb la identitat i els valors. L'enyorament no és només una emoció: és una informació sobre qui has estat, qui ets i qui vols seguir sent. Allò que enyores diu què valoraves, i allò que enyores també diu què has deixat de fer espai per a. Per això, mirar la nostàlgia amb atenció no és un exercici de retrospecció: és un exercici de coherència.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan una persona diu que enyora la curiositat d'abans, el que està dient és que la curiositat forma part dels seus valors i que, en la vida actual, no hi ha lloc per a ella. Quan diu que enyora certes relacions, el que està dient és que el tipus de vincle que tenia llavors li importa i que, ara, els seus vincles no s'assemblen a aquell. Aquesta traducció —de l'enyorament als valors— és la que converteix una sensació difusa en una orientació concreta. No et diu què fer: et diu què tenir en compte quan decideixis què fer.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et traurà la nostàlgia, ni ho hauria de fer. Una vida sense nostàlgia seria una vida sense memòria afectiva, i això no és un objectiu desitjable. El que la teràpia pot fer és oferir un espai on mirar aquest enyorament sense reduir-lo ni a idealització del passat ni a queixa sobre el present. Un espai on la pregunta deixi de ser «per què ho enyoro» i es converteixi en «què em demana allò que enyoro».",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar aquest procés implica, sovint, identificar quines parts pròpies han quedat fora del camí, valorar si poden tenir un lloc en la vida actual i, si poden, trobar la manera de fer-los espai sense que això signifiqui desfer el que has construït. A vegades aquest espai és petit: una hora a la setmana per a una cosa que has deixat de fer. A vegades és més gran: una decisió sobre un vincle, una feina o una manera de viure que ja no et sosté. La teràpia no decideix per tu: t'acompanya a mirar amb claredat perquè puguis decidir tu, amb coherència.",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresa, en aquest punt, no consisteix a no enyorar res. Consisteix a saber què fas amb allò que enyores: si ho converteixes en una queixa que no canvia res, o si l'utilitzes com una pregunta que t'ajuda a viure més a prop del que realment vols.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "És normal enyorar èpoques passades tenint una bona vida actual?",
+            answer:
+              "Sí, i és més freqüent del que sembla. La nostàlgia adulta no és incompatible amb la satisfacció: pot coexistir amb ella. Enyorar alguna cosa del passat no vol dir que la teva vida actual no serveixi: vol dir que hi ha parts de tu, o qualitats internes, que estaven més disponibles llavors i que ara trobes a faltar. Mirar-ho així ajuda a no reduir l'enyorament ni a idealització ni a crítica del present.",
+          },
+          {
+            question:
+              "Com sé si el que sento és nostàlgia o un estat depresiu?",
+            answer:
+              "La distinció no sempre és clara, i convé mirar-la amb cura. La nostàlgia és puntual, està vinculada a un record o a una sensació concreta, i deixa un rastre de calidesa barrejada amb tristesa. Un estat depresiu és més sostingut, no té sempre un motiu identificable, i va acompanyat de pèrdua d'interès, cansament i sensació de distància. Si l'enyorament no marxa, s'estén a moltes àrees de la vida i et limita, té sentit buscar una valoració professional.",
+          },
+          {
+            question:
+              "Mirar la nostàlgia en teràpia significa parlar sempre del passat?",
+            answer:
+              "No. La teràpia que s'ocupa de la nostàlgia no és una teràpia retrospectiva per vocació: és una teràpia que mira el passat per entendre el present. L'objectiu no és recordar més, sinó comprendre què demana allò que enyores aquí i ara. A vegades això porta a revisar alguna decisió actual; a vegades basta amb recuperar una part de tu que havia quedat arraconada. El passat és el punt de partida, no la destinació.",
+          },
+          {
+            question:
+              "Puc treballar aquesta nostàlgia sol?",
+            answer:
+              "Algunes persones poden començar a mirar-la soles, sobretot quan ja han intuir què els demana. Però la nostàlgia té una particularitat: sovint es queda en una zona difusa perquè no se l'ha mirada amb temps i amb ajuda. Un espai on poder-la posar en paraules, sense jutjar-la ni accelerar-la, canvia la qualitat de la mirada. No es tracta de no poder fer-ho sol: es tracta de què algunes coses es veuen millor amb algú al costat que amb un mateix.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes en això que expliquem un enyorament que no encaixa amb una pèrdua concreta, que torna una i una vegada i que et deixa amb una pregunta que no saps respondre, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar la seva nostàlgia no com un desig de tornar enrere, sinó com una pregunta sobre quines parts d'ells mateixos poden recuperar el lloc que els pertany.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un momento, sobre todo a partir de los treinta y cinco o los cuarenta, en que empiezas a añorar cosas que no sabes explicar del todo. No es un añoramiento con nombre propio: no añoras a una persona concreta, ni a una ciudad, ni a un año exacto. Es más bien una sensación que aparece de pronto, en la cocina un domingo al atardecer, o en una conversación que termina y te deja en silencio, o cuando ves una fotografía de una época que creías haber superado. Una especie de peso suave, como si algo se hubiera quedado atrás y no supieras muy bien qué.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: este añoramiento no es necesariamente una señal de que quieras volver atrás, ni una prueba de que tu vida actual no te llene. Es, muy a menudo, una pregunta. Pregunta qué partes de ti quedaron fuera del camino mientras ibas construyendo la vida que tienes: la curiosidad de antes, la manera en que te dejabas sorprender, el tipo de relaciones que tenías, la libertad de no tener que ser nada concreto para nadie. La nostalgia adulta no siempre quiere recuperar el pasado: quiere comprender qué se perdió de ti mientras avanzabas, y si esa pérdida es reversible.",
+      },
+      {
+        type: "heading",
+        text: "Lo que no es esta nostalgia",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene empezar por aquí, porque la nostalgia adulta arrastra una mala reputación que le hace un flaco favor. A menudo se la presenta como un deseo regresivo, como si quisiera volver a una época más fácil y refugiarse en ella. Pero eso no es lo que pasa, al menos en la mayoría de los casos. La persona que añora no quiere volver a tener veinte años ni deshacer lo que ha construido. Sabe que aquella época tenía sus propias cargas: inseguridad, falta de recursos, relaciones que no funcionaban, un horizonte aún por definir. No idealiza el pasado como un lugar donde vivir: lo añora como un lugar donde algo de ella estaba más presente.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoco es, en general, una señal de que la vida actual no sirva. Se puede amar lo que se tiene —la pareja, el trabajo, los hijos, la casa, el proyecto— y, al mismo tiempo, sentir ese peso que no encaja con ninguna de esas cosas. Esta convivencia entre satisfacción y añoranza desconcierta, porque la cultura nos ha enseñado que o bien estás bien o bien no lo estás. Pero la madurez rara vez es un estado limpio: es, más bien, una suma de ganancias y de pérdidas que conviven sin resolverse del todo.",
+      },
+      {
+        type: "heading",
+        text: "Qué se añora, realmente",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando se observa con atención, este añoramiento no apunta a acontecimientos concretos. Apunta a cualidades internas que estaban más disponibles en ciertos momentos y que, con el tiempo, se han ido apagando. Algunas de las más frecuentes:",
+      },
+      {
+        type: "list",
+        items: [
+          "La facilidad para implicarse en cosas sin calcular tanto el coste",
+          "La curiosidad que no estaba sometida a la utilidad: leer, probar, escuchar, sin que todo tenía que llevar a ningún sitio",
+          "La manera en que ciertas relaciones se vivían sin agenda, sin negociación tácita de favores o de expectativas",
+          "El contacto con partes propias que han quedado arrinconadas: la vitalidad, la ternura, el humor, la rabia que sabía lo que quería",
+          "La sensación de estar empezando algo, cuando el futuro era una página en blanco y no una lista de responsabilidades",
+          "El cuerpo de antes: no por vanidad, sino por la manera en que se habitaba, por el margen interno que se tenía sin saberlo",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna de estas cosas, por separado, significa que estés en crisis. Pero cuando varias coinciden y llevan meses apareciendo con ese peso suave, tiene sentido mirarlas juntas. No como sintomáticas: como informativas. La nostalgia, entonces, no es una queja: es un mapa. Marca las zonas donde alguna parte de ti ha quedado menos disponible, y donde quizá convenga volver a poner atención.",
+      },
+      {
+        type: "heading",
+        text: "Por qué aparece con fuerza entre los treinta y los cincuenta",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una razón estructural por la que este añoramiento se presenta con más frecuencia en la madurez adulta, y no tiene que ver con ningún acontecimiento concreto. Tiene que ver con el tipo de vida que se ha ido construyendo. A los treinta o a los cuarenta, la mayoría de personas han tomado decisiones importantes y las han sostenido: un trabajo, una relación, una ciudad, una manera de vivir. Esas decisiones han traído cosas valiosas —estabilidad, vínculos, propósito— y también han cerrado otros caminos. Es propio de cualquier elección adulta: elegir es también dejar de elegir.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema no es eso. El problema aparece cuando, en el proceso de sostener las decisiones tomadas, algunas partes propias quedan tan arrinconadas que dejan de ser accesibles. No es que se hayan perdido para siempre: es que no se ha prestado atención a dónde estaban. Y un día, una fotografía, un olor, una conversación, las activa. La nostalgia que aparece no es una tristeza por lo que ya no está: es una señal de que esas partes todavía existen y reclaman un lugar.",
+      },
+      {
+        type: "paragraph",
+        text: "A esto se suma, a menudo, una sensación de tiempo. En la madurez adulta, la persona empieza a percibir que la vida no es infinita, y esta percepción cambia la manera en que se relaciona con lo que ha dejado de lado. Ya no se trata solo de haber elegido: se trata de empezar a sopesar si las elecciones que has hecho siguen siendo las que quieres sostener, o si hay alguna que conviene revisar. Este sopesar, cuando se hace sin prisa pero sin aparcar, es una de las tareas propias de la madurez.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre nostalgia y melancolía",
+      },
+      {
+        type: "paragraph",
+        text: "Es una distinción que ayuda, porque las dos palabras se parecen pero apuntan a lugares distintos. La melancolía tiende a quedarse: toma el pasado como un objeto fijo, lo envuelve de niebla y lo mira con una tristeza que no pide nada concreto. La nostalgia, en cambio, es más viva y más orientada. Mira el pasado, sí, pero lo que pide no es volver: es entender qué había allí que ya no está, y decidir qué se hace con eso, aquí y ahora.",
+      },
+      {
+        type: "paragraph",
+        text: "Una nostalgia sana no quiere quedarse en ella: quiere llevarla a algún sitio para que veas algo que has dejado de ver. Si la observas con atención, descubres que no dice «quiero volver» sino «quiero recuperar esto que tuve y que todavía me pertenece». Y eso cambia completamente la tarea. No se trata de deshacer el camino: se trata de integrar en el presente aquello que el pasado te muestra que era tuyo.",
+      },
+      {
+        type: "heading",
+        text: "El papel de la identidad y los valores",
+      },
+      {
+        type: "paragraph",
+        text: "Una cosa que a menudo se pasa por alto cuando se habla de nostalgia es su relación con la identidad y los valores. El añoramiento no es solo una emoción: es una información sobre quién has sido, quién eres y quién quieres seguir siendo. Lo que añoras dice qué valorabas, y lo que añoras también dice qué has dejado de hacer espacio para. Por eso, mirar la nostalgia con atención no es un ejercicio de retrospección: es un ejercicio de coherencia.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando una persona dice que añora la curiosidad de antes, lo que está diciendo es que la curiosidad forma parte de sus valores y que, en la vida actual, no hay lugar para ella. Cuando dice que añora ciertas relaciones, lo que está diciendo es que el tipo de vínculo que tenía entonces le importa y que, ahora, sus vínculos no se parecen a aquel. Esta traducción —del añoramiento a los valores— es la que convierte una sensación difusa en una orientación concreta. No te dice qué hacer: te dice qué tener en cuenta cuando decidas qué hacer.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te quitará la nostalgia, ni debería hacerlo. Una vida sin nostalgia sería una vida sin memoria afectiva, y eso no es un objetivo deseable. Lo que la terapia puede hacer es ofrecer un espacio donde mirar este añoramiento sin reducirlo ni a idealización del pasado ni a queja sobre el presente. Un espacio donde la pregunta deje de ser «por qué lo añoro» y se convierta en «qué me pide aquello que añoro».",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar este proceso implica, a menudo, identificar qué partes propias han quedado fuera del camino, valorar si pueden tener un lugar en la vida actual y, si pueden, encontrar la manera de hacerles espacio sin que eso signifique deshacer lo que has construido. A veces ese espacio es pequeño: una hora a la semana para algo que has dejado de hacer. A veces es más grande: una decisión sobre un vínculo, un trabajo o una manera de vivir que ya no te sostiene. La terapia no decide por ti: te acompaña a mirar con claridad para que puedas decidir tú, con coherencia.",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez, en este punto, no consiste en no añorar nada. Consiste en saber qué haces con aquello que añoras: si lo conviertes en una queja que no cambia nada, o si lo usas como una pregunta que te ayuda a vivir más cerca de lo que realmente quieres.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Es normal añorar épocas pasadas teniendo una buena vida actual?",
+            answer:
+              "Sí, y es más frecuente de lo que parece. La nostalgia adulta no es incompatible con la satisfacción: puede coexistir con ella. Añorar algo del pasado no significa que tu vida actual no sirva: significa que hay partes de ti, o cualidades internas, que estaban más disponibles entonces y que ahora echas de menos. Mirarlo así ayuda a no reducir el añoramiento ni a idealización ni a crítica del presente.",
+          },
+          {
+            question:
+              "¿Cómo sé si lo que siento es nostalgia o un estado depresivo?",
+            answer:
+              "La distinción no siempre es clara, y conviene mirarla con cuidado. La nostalgia es puntual, está vinculada a un recuerdo o a una sensación concreta, y deja un rastro de calidez mezclada con tristeza. Un estado depresivo es más sostenido, no tiene siempre un motivo identificable, y va acompañado de pérdida de interés, cansancio y sensación de distancia. Si el añoramiento no se va, se extiende a muchas áreas de la vida y te limita, tiene sentido buscar una valoración profesional.",
+          },
+          {
+            question:
+              "¿Mirar la nostalgia en terapia significa hablar siempre del pasado?",
+            answer:
+              "No. La terapia que se ocupa de la nostalgia no es una terapia retrospectiva por vocación: es una terapia que mira el pasado para entender el presente. El objetivo no es recordar más, sino comprender qué pide aquello que añoras aquí y ahora. A veces eso lleva a revisar alguna decisión actual; a veces basta con recuperar una parte de ti que había quedado arrinconada. El pasado es el punto de partida, no el destino.",
+          },
+          {
+            question:
+              "¿Puedo trabajar esta nostalgia solo?",
+            answer:
+              "Algunas personas pueden empezar a mirarla solas, sobre todo cuando ya intuyen qué les pide. Pero la nostalgia tiene una particularidad: a menudo se queda en una zona difusa porque no se la ha mirado con tiempo y con ayuda. Un espacio donde poderla poner en palabras, sin juzgarla ni acelerarla, cambia la calidad de la mirada. No se trata de no poder hacerlo solo: se trata de que algunas cosas se ven mejor con alguien al lado que con uno mismo.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces en esto que explicamos un añoramiento que no encaja con una pérdida concreta, que vuelve una y otra vez y que te deja con una pregunta que no sabes responder, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar su nostalgia no como un deseo de volver atrás, sino como una pregunta sobre qué partes de sí mismos pueden recuperar el lugar que les pertenece.",
+      },
+    ],
+  },
 ];

@@ -665,5 +665,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Hay un tipo de malestar que no se llama por su nombre y, sin embargo, dirige muchas de las decisiones que tomas: qué muestras de ti, qué escondes, qué relaciones permites, qué pides y qué callas. Es la vergüenza, esa sensación de no estar a la altura —no de algo que has hecho, sino de lo que eres. No es culpa, que dice «he hecho algo mal»; es vergüenza, que dice «estoy mal». Aquí exploramos cómo opera esta vergüenza que no se nombra, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a mirarla sin que se convierta ni en veredicto ni en resignación.",
     "datePublished": "2026-08-15"
+  },
+  {
+    "slug": "cuando-anorar-es-preguntar",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Quan enyorar és preguntar: la nostàlgia adulta que no és el que sembla",
+    "titleES": "Cuando añorar es preguntar: la nostalgia adulta que no es lo que parece",
+    "excerptCA":
+      "Hi ha un tipus d'enyorament que no es correspon amb una pèrdua concreta. No enyores una persona que se'n va ni un lloc que vas deixar: enyores una manera d'estar-hi que ja no trobes. Aquesta nostàlgia, que sovint es confon amb melancolia o amb un desig de tornar enrere, és en realitat una pregunta. Pregunta quines parts de tu han quedat fora del camí mentre anaves construint la vida que tens. Aquí explorem què hi ha darrere d'aquest enyorament que apareix entre els trenta i els cinquanta, per què no és un senyal de regressió i com pot ajudar la teràpia a convertir-lo en una pregunta amb resposta.",
+    "excerptES":
+      "Hay un tipo de añoranza que no se corresponde con una pérdida concreta. No añoras a una persona que se fue ni a un lugar que dejaste: añoras una manera de estar que ya no encuentras. Esta nostalgia, que a menudo se confunde con melancolía o con un deseo de volver atrás, es en realidad una pregunta. Pregunta qué partes de ti han quedado fuera del camino mientras ibas construyendo la vida que tienes. Aquí exploramos qué hay detrás de ese añoramiento que aparece entre los treinta y los cincuenta, por qué no es un signo de regresión y cómo puede ayudar la terapia a convertirlo en una pregunta con respuesta.",
+    "datePublished": "2026-08-16"
   }
 ];
