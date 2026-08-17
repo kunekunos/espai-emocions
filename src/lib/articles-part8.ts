@@ -2474,4 +2474,258 @@ export const articlesPart8: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 10. pareja-despues-crianza-hijos-crecen-descubris-desconocidos (Pilar: Pareja / Cambios vitales)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "pareja-despues-crianza-hijos-crecen-descubris-desconocidos",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "La parella després de la criança: quan els fills creixen i us descobriu desconeguts",
+    titleES:
+      "La pareja después de la crianza: cuando los hijos crecen y os descubrís desconocidos",
+    excerptCA:
+      "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què la casa es buida i la parella es queda sola. No sempre és un buit trist: de vegades és un silenci que no sabíeu que existia, un espai on abans hi havia crisis, horaris, criatures que requerien atenció. I en aquest silenci descobriu que no us reconeixeu del tot. No és que us hàgiu deixat d'estimar: és que durant anys la relació va ser, sobretot, una gestió. Aquí explorem què passa amb la parella quan deixa de ser projecte compartit de criança i torna a ser relació entre dues persones, per què aquest moment pot ser tan desconcertant i com pot ajudar la teràpia de parella a recórrer-lo sense que es converteixi ni en ruptura ni en resignació.",
+    excerptES:
+      "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que la casa se vacía y la pareja se queda sola. No siempre es un vacío triste: a veces es un silencio que no sabíais que existía, un espacio donde antes había crisis, horarios, criaturas que requerían atención. Y en ese silencio descubres que no os reconocéis del todo. No es que os hayáis dejado de amar: es que durante años la relación fue, sobre todo, una gestión. Aquí exploramos qué pasa con la pareja cuando deja de ser proyecto compartido de crianza y vuelve a ser relación entre dos personas, por qué ese momento puede ser tan desconcertante y cómo puede ayudar la terapia de pareja a recorrerlo sin que se convierta ni en ruptura ni en resignación.",
+    datePublished: "2026-08-17",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un moment que moltes parelles reconeixen, encara que no sempre el saben anomenar. Arriba quan el darrer fill marxa, o quan els fills ja no necessiten que sigueu al seu costat d'una manera constant, o simplement quan la criança deixa de ser el centre que organitzava els dies. La casa es queda més buida. Els horaris es desfan. I tu i la persona que tens al costat us mireu, potser per primera vegada en anys sense que hi hagi algú al mig que us exigeixi, i us adoneu que no sabeu del tot qui sou l'un per l'altre.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: el que passa no és necessàriament que la relació s'hagi deteriorat. El que passa és que durant anys la parella ha funcionat com un equip de gestió, i ara ha de tornar a funcionar com una relació. Aquest canvi, que sembla senzill, és profund: vol dir deixar de ser un «nosaltres» que construeix alguna cosa plegat per tornar a ser dos «jo» que es troben. La teràpia de parella no consisteix a tornar a com éreu abans dels fills: consisteix a mirar qui sou ara, què ha canviat en cadascú i quina relació té sentit construir a partir d'aquí.",
+      },
+      {
+        type: "heading",
+        text: "El que la criança sostenia sense que ho sabéssiu",
+      },
+      {
+        type: "paragraph",
+        text: "La criança, mentre dura intensament, fa una cosa que rarament es nomena: dóna a la parella una estructura compartida que no necessita ser pensada. Hi ha horaris, logística, decisions que prendre junts, una agenda comuna que s'imposa per sobre de tot. Aquesta estructura té un efecte que pot semblar paradoxal: manté la parella unida en la funció alhora que la dispensa de mirar-se com a persones. No cal preguntar-se «qui som l'un per l'altre» quan hi ha algú que necessita que l'acompanyeu al metge o que us rellegeu el deures.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no és un defecte de la parella: és el funcionament natural d'una etapa. Però té una conseqüència. Quan aquesta estructura es dilueix —i es dilueix sempre, perquè els fills creixen—, el que quedava amagat per la funció queda exposat. I allò que queda exposat no sempre és un problema greu: sovint és simplement el fet que fa anys que no us mireu com a persones, sinó com a companys de gestió.",
+      },
+      {
+        type: "heading",
+        text: "Com es manifesta el desconcert",
+      },
+      {
+        type: "paragraph",
+        text: "El moment en què la cria deixa de centrar la casa no es presenta igual a totes les parelles. Però hi ha patrons que es repeteixen, i que convé reconèixer perquè no sempre s'identifiquen amb el que realment els passa:",
+      },
+      {
+        type: "list",
+        items: [
+          "Sensació de no tenir res a dir, no per manca d'amor, sinó perquè durant anys la conversa estava organitzada al voltant dels fills",
+          "Descobriment que cadascú ha canviat en silenci: aficions, valors, maneres de veure la vida que no s'han compartit perquè no hi havia espai per fer-ho",
+          "Distància que no és conflicte: no us baralleu, però tampoc us trobeu, com si fóssiu dos adults compartint casa i no dues persones compartint vida",
+          "Pregunta, sovint no formulada en veu alta: «¿qui ets tu ara?» —i la que li segueix: «¿qui som nosaltres?»",
+          "Irregularitat en el desig: no és que hagi desaparegut, és que ha estat durant anys ajornat per l'excés, i ara no sap trobar el seu lloc",
+          "Incomoditat amb el silenci, perquè el silenci ara no està omplert de la urgència de gestionar res",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Cap d'aquests senyals, per separat, vol dir que la relació s'hagi acabat. De fet, molts són senyals normals d'un canvi d'etapa. Però quan diversos coincideixen i porten mesos presents, té sentit mirar-los junts i preguntar-se què està passant —no com a síntoma de ruptura, sinó com a indicació que la relació està demanant ser tornada a mirar.",
+      },
+      {
+        type: "heading",
+        text: "Per què aquest moment pot ser tan desconcertant",
+      },
+      {
+        type: "paragraph",
+        text: "El desconcert té una causa concreta. Durant la criança intensa, la majoria de parelles no es pregunten qui són l'una per l'altra perquè no hi ha marge per a la pregunta. La funció ho ocupa tot. I com que la funció es complia, tot i el cansament, la relació s'entenia com a sòlida: teníem una casa, teníem uns fills, teníem un projecte. Quan aquest projecte deixa de centralitzar-ho tot, queda un buit que no sempre sap omplir-se amb la parella. Perquè la parella, com a relació entre dues persones, fa temps que no s'ha cuidat com a tal.",
+      },
+      {
+        type: "paragraph",
+        text: "A això se suma un canvi intern que cadascú ha viscut per separat. Als quaranta o als cinquanta, una persona no és la mateixa que era quan va tenir els fills. Ha madurat, ha canviat prioritats, potser ha revisat valors, potser ha passat per les seves pròpies crisis de manera silenciosa. I ara, quan la casa es buida i queda temps per mirar-se, descobreix que la persona que té al costat també ha canviat, i que els canvis no s'han compartit. No és que us hàgiu amagat: és que no hi havia espai per mostrar-los.",
+      },
+      {
+        type: "heading",
+        text: "El que no és aquest moment",
+      },
+      {
+        type: "paragraph",
+        text: "Cal dir-ho perquè sovint es confon. Aquest moment no és, necessàriament, una crisi de parella. És una crisi de relació, que és una altra cosa. Una crisi de parella sol apuntar a un conflicte concret: una infidelitat, una manca de desig sostinguda, un patró de baralla que es repeteix. Una crisi de relació, en canvi, apunta al fet que la forma que la relació tenia ja no serveix, perquè el context que la feia possible ha canviat. La primera demana reparar; la segona demana reconstruir.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta distinció és important perquè determina el que cal fer. Si és una crisi de parella, potser cal mirar un patró concret i treballar-lo. Si és una crisi de relació, el que cal és tornar a preguntar-se, amb temps i amb honestitat, quina relació té sentit ara. No sempre la resposta és «la mateixa de sempre»; de vegades sí, però revisada; de vegades és una altra, i això no és un fracàs: és un canvi d'etapa.",
+      },
+      {
+        type: "heading",
+        text: "Què pot aportar la teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia de parella, en aquest moment, no consisteix a tornar a com éreu abans dels fills. Aquella parella ja no existeix: éreu més joves, teníeu menys història i menys preguntes. La feina terapèutica consisteix a mirar, junts i amb ajuda, qui sou ara, què ha canviat en cadascú, què necessita cadascú en aquesta nova etapa i quina relació té sentit construir a partir d'aquí. No és una reparació: és una recomposició.",
+      },
+      {
+        type: "paragraph",
+        text: "El procés sol començar per la pregunta que la parella porta anys sense fer-se, perquè la criança no deixava marge: «¿qui som l'un per l'altra, ara que ja no som principalment pares dels mateixos fills?». Aquesta pregunta, que pot fer por, no és una amenaça: és el començament d'una etapa possible. Permet que cadascú mostri els canvis que ha viscut en silenci, que es diguin les coses que es van deixar de dir per no carregar la relació quan ja prou carregava, i que es mirin plegats què volen fer amb el temps i la llibertat que la casa buida ha retornat.",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresa, en aquest sentit, no és tornar al principi. És acceptar que la relació també ha envellit, que els dos han canviat, i que la coherència entre qui sou ara i la relació que teniu és una feina que val la pena fer. I que, sovint, aquesta feina no es pot fer sols: necessita un espai on mirar-s'hi amb temps, sense jutjar i amb ajuda.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿És normal sentir que no conec la meva parella després de tants anys plegats?",
+            answer:
+              "Sí, i més del que sembla. La criança, mentre és intensa, manté la parella unida en la funció i la dispensa de mirar-se com a persones. Quan aquesta funció es dilueix, queda al descobert que fa temps que no us mireu. No és un senyal que la relació hagi fracassat: és un senyal que entra en una etapa que demana ser tornada a mirar.",
+          },
+          {
+            question:
+              "¿Això vol dir que ens hem d separat?",
+            answer:
+              "No. Que la forma de la relació hagi canviat no vol dir que la relació s'hagi acabat. Vol dir que el que teníeu ja no serveix tal qual, i cal preguntar-se quina relació té sentit ara. La resposta pot ser una versió revisada de la mateixa parella; de vegades és una altra cosa. Però la pregunta no es pot saltar: es pot mirar amb temps i amb ajuda abans de prendre cap decisió.",
+          },
+          {
+            question:
+              "¿La teràpia de parella serveix si no hi ha un conflicte clar?",
+            answer:
+              "Sí, i en aquests casos sovint és especialment útil. La teràpia no és només per a parelles en crisi aguda: també és per a parelles que, sense un conflicte concret, senten que la seva relació ha canviat de forma i necessiten un espai per mirar-ho. Mirar abans que el desencuentro es converteixi en ruptura sol ser molt més fèrtil que esperar a una crisi.",
+          },
+          {
+            question:
+              "¿Com sabem si és el moment d'anar a teràpia?",
+            answer:
+              "Si fa mesos que sentiu que no us reconeixeu, si la conversa s'ha empobrit sense motiu aparent, si us trobeu més aïllats sense estar barallats, o si la pregunta «¿qui som ara?» s'ha quedat al cos sense ser formulada, té sentit buscar un espai on mirar-ho. No cal esperar a una crisi greu: de fet, sovint el millor moment és abans que la crisi arribi.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes en el que expliques aquest moment en què la cria deixa de centrar la casa i la parella es queda sola amb una pregunta que no sabíeu que teníeu, podeu sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem parelles que, sense estar en crisi aguda, senten que la seva relació ha canviat de forma i volen mirar-la amb temps i sense pressa —no per tornar a com eren, sinó per descobrir quina relació té sentit ara.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un momento que muchas parejas reconocen, aunque no siempre saben nombrarlo. Llega cuando el último hijo se va, o cuando los hijos ya no necesitan que estéis a su lado de manera constante, o simplemente cuando la crianza deja de ser el centro que organizaba los días. La casa se queda más vacía. Los horarios se deshacen. Y tú y la persona que tienes al lado os miráis, quizá por primera vez en años sin que haya alguien en medio que os exija, y os dais cuenta de que no sabéis del todo quiénes sois el uno para el otro.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: lo que pasa no es necesariamente que la relación se haya deteriorado. Lo que pasa es que durante años la pareja ha funcionado como un equipo de gestión, y ahora tiene que volver a funcionar como una relación. Este cambio, que parece sencillo, es profundo: significa dejar de ser un «nosotros» que construye algo junto para volver a ser dos «yo» que se encuentran. La terapia de pareja no consiste en volver a como erais antes de los hijos: consiste en mirar quiénes sois ahora, qué ha cambiado en cada uno y qué relación tiene sentido construir a partir de ahí.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la crianza sostenía sin que lo supierais",
+      },
+      {
+        type: "paragraph",
+        text: "La crianza, mientras dura intensamente, hace algo que rara vez se nombra: da a la pareja una estructura compartida que no necesita ser pensada. Hay horarios, logística, decisiones que tomar juntos, una agenda común que se impone por encima de todo. Esta estructura tiene un efecto que puede parecer paradójico: mantiene a la pareja unida en la función a la vez que la dispensa de mirarse como personas. No hace falta preguntarse «quiénes somos el uno para el otro» cuando hay alguien que necesita que le acompañéis al médico o que le reviséis los deberes.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto no es un defecto de la pareja: es el funcionamiento natural de una etapa. Pero tiene una consecuencia. Cuando esa estructura se diluye —y se diluye siempre, porque los hijos crecen—, lo que quedaba escondido por la función queda expuesto. Y aquello que queda expuesto no siempre es un problema grave: a menudo es simplemente el hecho de que hace años que no os miráis como personas, sino como compañeros de gestión.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se manifiesta el desconcierto",
+      },
+      {
+        type: "paragraph",
+        text: "El momento en que la crianza deja de centrar la casa no se presenta igual en todas las parejas. Pero hay patrones que se repiten, y que conviene reconocer porque no siempre se identifican con lo que realmente les pasa:",
+      },
+      {
+        type: "list",
+        items: [
+          "Sensación de no tener nada que decir, no por falta de amor, sino porque durante años la conversación estaba organizada en torno a los hijos",
+          "Descubrimiento de que cada uno ha cambiado en silencio: aficiones, valores, maneras de ver la vida que no se han compartido porque no había espacio para hacerlo",
+          "Distancia que no es conflicto: no os peleáis, pero tampoco os encontráis, como si fuerais dos adultos compartiendo casa y no dos personas compartiendo vida",
+          "Pregunta, a menudo no formulada en voz alta: «¿quién eres tú ahora?» —y la que le sigue: «¿quiénes somos nosotros?»",
+          "Irregularidad en el deseo: no es que haya desaparecido, es que ha estado durante años postergado por el exceso, y ahora no sabe encontrar su lugar",
+          "Incomodidad con el silencio, porque el silencio ahora no está lleno de la urgencia de gestionar nada",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna de estas señales, por separado, significa que la relación se haya acabado. De hecho, muchas son señales normales de un cambio de etapa. Pero cuando varias coinciden y llevan meses presentes, tiene sentido mirarlas juntas y preguntarse qué está pasando —no como síntoma de ruptura, sino como indicación de que la relación está pidiendo ser vuelta a mirar.",
+      },
+      {
+        type: "heading",
+        text: "Por qué este momento puede ser tan desconcertante",
+      },
+      {
+        type: "paragraph",
+        text: "El desconcierto tiene una causa concreta. Durante la crianza intensa, la mayoría de parejas no se preguntan quiénes son la una para la otra porque no hay margen para la pregunta. La función lo ocupa todo. Y como la función se cumplía, pese al cansancio, la relación se entendía como sólida: teníamos una casa, teníamos unos hijos, teníamos un proyecto. Cuando ese proyecto deja de centralizarlo todo, queda un vacío que no siempre sabe llenarse con la pareja. Porque la pareja, como relación entre dos personas, hace tiempo que no se ha cuidado como tal.",
+      },
+      {
+        type: "paragraph",
+        text: "A esto se suma un cambio interno que cada uno ha vivido por separado. A los cuarenta o a los cincuenta, una persona no es la misma que era cuando tuvo a los hijos. Ha madurado, ha cambiado prioridades, quizá ha revisado valores, quizá ha pasado por sus propias crisis de manera silenciosa. Y ahora, cuando la casa se vacía y queda tiempo para mirarse, descubre que la persona que tiene al lado también ha cambiado, y que los cambios no se han compartido. No es que os hayáis escondido: es que no había espacio para mostrarlos.",
+      },
+      {
+        type: "heading",
+        text: "Lo que no es este momento",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decirlo porque a menudo se confunde. Este momento no es, necesariamente, una crisis de pareja. Es una crisis de relación, que es otra cosa. Una crisis de pareja suele apuntar a un conflicto concreto: una infidelidad, una falta de deseo sostenida, un patrón de pelea que se repite. Una crisis de relación, en cambio, apunta al hecho de que la forma que la relación tenía ya no sirve, porque el contexto que la hacía posible ha cambiado. La primera pide reparar; la segunda pide reconstruir.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta distinción es importante porque determina lo que hay que hacer. Si es una crisis de pareja, quizá haga falta mirar un patrón concreto y trabajarlo. Si es una crisis de relación, lo que hace falta es volver a preguntarse, con tiempo y con honestidad, qué relación tiene sentido ahora. No siempre la respuesta es «la misma de siempre»; a veces sí, pero revisada; a veces es otra, y eso no es un fracaso: es un cambio de etapa.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede aportar la terapia de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia de pareja, en este momento, no consiste en volver a como erais antes de los hijos. Aquella pareja ya no existe: erais más jóvenes, teníais menos historia y menos preguntas. El trabajo terapéutico consiste en mirar, juntos y con ayuda, quiénes sois ahora, qué ha cambiado en cada uno, qué necesita cada uno en esta nueva etapa y qué relación tiene sentido construir a partir de aquí. No es una reparación: es una recomposición.",
+      },
+      {
+        type: "paragraph",
+        text: "El proceso suele empezar por la pregunta que la pareja lleva años sin hacerse, porque la crianza no dejaba margen: «¿quiénes somos el uno para el otro, ahora que ya no somos principalmente padres de los mismos hijos?». Esta pregunta, que puede dar miedo, no es una amenaza: es el comienzo de una etapa posible. Permite que cada uno muestre los cambios que ha vivido en silencio, que se digan las cosas que se dejaron de decir por no cargar la relación cuando ya bastante cargaba, y que se miren juntos qué quieren hacer con el tiempo y la libertad que la casa vacía ha devuelto.",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez, en este sentido, no es volver al principio. Es aceptar que la relación también ha envejecido, que los dos han cambiado, y que la coherencia entre quiénes sois ahora y la relación que tenéis es un trabajo que vale la pena hacer. Y que, a menudo, ese trabajo no se puede hacer solos: necesita un espacio donde mirarse con tiempo, sin juzgar y con ayuda.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Es normal sentir que no conozco a mi pareja después de tantos años juntos?",
+            answer:
+              "Sí, y más de lo que parece. La crianza, mientras es intensa, mantiene a la pareja unida en la función y la dispensa de mirarse como personas. Cuando esa función se diluye, queda al descubierto que hace tiempo que no os miráis. No es una señal de que la relación haya fracasado: es una señal de que entra en una etapa que pide ser vuelta a mirar.",
+          },
+          {
+            question:
+              "¿Esto significa que nos tenemos que separar?",
+            answer:
+              "No. Que la forma de la relación haya cambiado no significa que la relación se haya acabado. Significa que lo que teníais ya no sirve tal cual, y hace falta preguntarse qué relación tiene sentido ahora. La respuesta puede ser una versión revisada de la misma pareja; a veces es otra cosa. Pero la pregunta no se puede saltar: se puede mirar con tiempo y con ayuda antes de tomar cualquier decisión.",
+          },
+          {
+            question:
+              "¿La terapia de pareja sirve si no hay un conflicto claro?",
+            answer:
+              "Sí, y en estos casos a menudo es especialmente útil. La terapia no es solo para parejas en crisis aguda: también es para parejas que, sin un conflicto concreto, sienten que su relación ha cambiado de forma y necesitan un espacio para mirarlo. Mirar antes de que el desencuentro se convierta en ruptura suele ser mucho más fértil que esperar a una crisis.",
+          },
+          {
+            question:
+              "¿Cómo sabemos si es el momento de ir a terapia?",
+            answer:
+              "Si hace meses que sentís que no os reconocéis, si la conversación se ha empobrecido sin motivo aparente, si os encontráis más aislados sin estar peleados, o si la pregunta «¿quiénes somos ahora?» se ha quedado en el cuerpo sin ser formulada, tiene sentido buscar un espacio donde mirarlo. No hace falta esperar a una crisis grave: de hecho, a menudo el mejor momento es antes de que la crisis llegue.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces en lo que cuentas este momento en que la crianza deja de centrar la casa y la pareja se queda sola con una pregunta que no sabíais que teníais, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos parejas que, sin estar en crisis aguda, sienten que su relación ha cambiado de forma y quieren mirarla con tiempo y sin prisa —no para volver a como eran, sino para descubrir qué relación tiene sentido ahora.",
+      },
+    ],
+  },
 ];

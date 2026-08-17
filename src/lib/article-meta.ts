@@ -677,5 +677,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Hay un tipo de añoranza que no se corresponde con una pérdida concreta. No añoras a una persona que se fue ni a un lugar que dejaste: añoras una manera de estar que ya no encuentras. Esta nostalgia, que a menudo se confunde con melancolía o con un deseo de volver atrás, es en realidad una pregunta. Pregunta qué partes de ti han quedado fuera del camino mientras ibas construyendo la vida que tienes. Aquí exploramos qué hay detrás de ese añoramiento que aparece entre los treinta y los cincuenta, por qué no es un signo de regresión y cómo puede ayudar la terapia a convertirlo en una pregunta con respuesta.",
     "datePublished": "2026-08-16"
+  },
+  {
+    "slug": "pareja-despues-crianza-hijos-crecen-descubris-desconocidos",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "La parella després de la criança: quan els fills creixen i us descobriu desconeguts",
+    "titleES": "La pareja después de la crianza: cuando los hijos crecen y os descubrís desconocidos",
+    "excerptCA":
+      "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què la casa es buida i la parella es queda sola. No sempre és un buit trist: de vegades és un silenci que no sabíeu que existia, un espai on abans hi havia crisis, horaris, criatures que requerien atenció. I en aquest silenci descobriu que no us reconeixeu del tot. No és que us hàgiu deixat d'estimar: és que durant anys la relació va ser, sobretot, una gestió. Aquí explorem què passa amb la parella quan deixa de ser projecte compartit de criança i torna a ser relació entre dues persones, per què aquest moment pot ser tan desconcertant i com pot ajudar la teràpia de parella a recórrer-lo sense que es converteixi ni en ruptura ni en resignació.",
+    "excerptES":
+      "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que la casa se vacía y la pareja se queda sola. No siempre es un vacío triste: a veces es un silencio que no sabíais que existía, un espacio donde antes había crisis, horarios, criaturas que requerían atención. Y en ese silencio descubres que no os reconocéis del todo. No es que os hayáis dejado de amar: es que durante años la relación fue, sobre todo, una gestión. Aquí exploramos qué pasa con la pareja cuando deja de ser proyecto compartido de crianza y vuelve a ser relación entre dos personas, por qué ese momento puede ser tan desconcertante y cómo puede ayudar la terapia de pareja a recorrerlo sin que se convierta ni en ruptura ni en resignación.",
+    "datePublished": "2026-08-17"
   }
 ];
