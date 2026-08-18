@@ -689,5 +689,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que la casa se vacía y la pareja se queda sola. No siempre es un vacío triste: a veces es un silencio que no sabíais que existía, un espacio donde antes había crisis, horarios, criaturas que requerían atención. Y en ese silencio descubres que no os reconocéis del todo. No es que os hayáis dejado de amar: es que durante años la relación fue, sobre todo, una gestión. Aquí exploramos qué pasa con la pareja cuando deja de ser proyecto compartido de crianza y vuelve a ser relación entre dos personas, por qué ese momento puede ser tan desconcertante y cómo puede ayudar la terapia de pareja a recorrerlo sin que se convierta ni en ruptura ni en resignación.",
     "datePublished": "2026-08-17"
+  },
+  {
+    "slug": "roles-familiares-que-sigues-habitando",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Els rols familiars que segueixes habitant sense adonar-te'n",
+    "titleES": "Los roles familiares que sigues habitando sin darte cuenta",
+    "excerptCA":
+      "Hi ha papers que et vas aprendre fa tant de temps que ja no els reconeixes com a papers: els portes com si fossin la teva manera de ser. El responsable, el conciliador, el que sempre hi és, el que no demana res, el que fa riure perquè ningú no es posi trist. Aquests rols, que un dia van ser una manera de sobreviure dins de la família, es queden funcionant anys després, en llocs on ja no calen, amb persones que no els van demanar. Aquí explorem per què els rols de la família d'origen pesen tant a l'edat adulta, com configuren les teves relacions i la teva identitat, i com pot ajudar la teràpia a mirar-los sense que es converteixin ni en acusació ni en resignació.",
+    "excerptES":
+      "Hay papeles que te aprendiste hace tanto tiempo que ya no los reconoces como papeles: los llevas como si fueran tu manera de ser. El responsable, el conciliador, el que siempre está, el que no pide nada, el que hace reír para que nadie se ponga triste. Esos roles, que un día fueron una manera de sobrevivir dentro de la familia, se quedan funcionando años después, en lugares donde ya no hacen falta, con personas que no los pidieron. Aquí exploramos por qué los roles de la familia de origen pesan tanto en la edad adulta, cómo configuran tus relaciones y tu identidad, y cómo puede ayudar la terapia a mirarlos sin que se conviertan ni en acusación ni en resignación.",
+    "datePublished": "2026-08-18"
   }
 ];
