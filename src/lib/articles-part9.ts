@@ -52,7 +52,7 @@ export const articlesPart9: ArticleContent[] = [
       {
         type: "list",
         items: [
-          "El responsable: qui es fa càrrec, qui resol, qui se sent en deure encara que ningú li ho demani. La seva identitat es construeix al voltant de sostenir, i quan no hi ha res per sostindre, se sent buit.",
+          "El responsable: qui es fa càrrec, qui resuelve, qui se sent en deure encara que ningú li ho demani. La seva identitat es construeix al voltant de sostenir, i quan no hi ha res per sostindre, se sent buit.",
           "El conciliador: qui medeja, qui evita el conflicte, qui es col·loca entre les parts perquè no xoc. Apren a necessitar la pau dels altres més que la pròpia.",
           "El invisible: el que no demana, el que no molesta, el que passa sense deixar rastre. Va aprendre que ocupar espai generava problemes i va convertir la discreció en identitat.",
           "El que alegria: qui fa riure, qui distreu, qui no permet que el dolor s'instal·li. La seva funció era alleugerir, i ara no sap estar amb la seva pròpia tristesa.",
@@ -299,7 +299,7 @@ export const articlesPart9: ArticleContent[] = [
             question:
               "¿Es necesario hablar con mi familia para trabajar esto?",
             answer:
-              "No siempre. A veces tiene sentido conversar ciertos temas con la familia de origen, y eso forma parte del proceso. Pero el trabajo principal no se hace con la familia: se hace contigo. Lo que cambia las cosas no es que los demás reconozcan lo que pasó, sino que tú puedas mirarlo, comprenderlo y decidir qué haces con ello. En muchos procesos, la familia no participa directamente, y eso no impide el cambio.",
+              "No siempre. A veces tiene sentido conversar ciertos temas with la familia de origen, y eso forma parte del proceso. Pero el trabajo principal no se hace con la familia: se hace contigo. Lo que cambia las cosas no es que los demás reconozcan lo que pasó, sino que tú puedas mirarlo, comprenderlo y decidir qué haces con ello. En muchos procesos, la familia no participa directamente, y eso no impide el cambio.",
           },
           {
             question:
@@ -318,6 +318,245 @@ export const articlesPart9: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si sientes que llevas años funcionando de una manera que ya no te acaba de pertenecer, que te relacionas desde un lugar que no eliges, o que el papel que aprendiste a sostener empieza a pesar, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar los roles que habitan y ampliar la manera de ser para que esos roles dejen de ser una identidad y vuelvan a ser una opción.",
+      },
+    ],
+  },
+  // ---------------------------------------------------------------------------
+  // 2. valores-que-cambiaron-sin-avisar (Pilar: Identidad / Madurez / Valores)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "valores-que-cambiaron-sin-avisar",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "Els valors que van canviar sense avisar: quan allò que importava ja no importa igual",
+    titleES:
+      "Los valores que cambiaron sin avisar: cuando lo que importaba ya no importa igual",
+    excerptCA:
+      "Hi ha un moment, sovint a la maduresa adulta, en què t'adones que allò que et movia fa anys ja no et mou de la mateixa manera. No és una crisi espectacular: és un desplaçament silenciós. La feina que volies, el reconeixement que busques, la manera com entenies l'amor o l'èxit: tot segueix sent el mateix sobre el paper, però alguna cosa ha canviat dins. Aquí explorem per què els valors es transformen al llarg de la vida, per què aquest canvi pot generar tant desorientació com alleujament, i com pot ajudar la teràpia a habitar-lo sense que es converteixi ni en traïció al que vas ser ni en renúncia al que vols ser.",
+    excerptES:
+      "Hay un momento, a menudo en la madurez adulta, en que te das cuenta de que aquello que te movía hace años ya no te mueve del mismo modo. No es una crisis espectacular: es un desplazamiento silencioso. El trabajo que querías, el reconocimiento que buscabas, la manera como entendías el amor o el éxito: todo sigue siendo lo mismo sobre el papel, pero algo ha cambiado dentro. Aquí exploramos por qué los valores se transforman a lo largo de la vida, por qué este cambio puede generar tanto desorientación como alivio, y cómo puede ayudar la terapia a habitarlo sin que se convierta ni en traición a lo que fuiste ni en renuncia a lo que quieres ser.",
+    datePublished: "2026-08-19",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una experiència que moltes persones descriuen quan arriben a teràpia passats els trenta o els quaranta, i que costa de posar en paraules. No és que estiguin malament. No és que hagi passat res concret. És més aviat una sensació: allò que les movia fa anys —la feina, el reconeixement, una certa imatge d'èxit, una certa manera d'estimar— ja no les mou de la mateixa manera. I aquesta constatació, que semblaria serena, els inquieta. Perquè quan allò que et guiava canvia i ningú t'ha avisat, et quedes sense brúixola sense saber exactament quan la vas perdre.",
+      },
+      {
+        type: "paragraph",
+        text: "Resum de la resposta: els valors no són fixos. Es transformen al llarg de la vida, i aquesta transformació no és un error ni un defecte: és part del procés de maduresa. El que passa és que, com que ningú ens ensenya a canviar de valors, quan ho fem tendim a interpretar-ho com a inconsistència, com a feblesa o com a traïció al que vam ser. Aquí explorem per què els valors canvien, com reconèixer aquest canvi sense por, i com pot ajudar la teràpia a habitar-lo com el que és: un moviment de la identitat, no una pèrdua.",
+      },
+      {
+        type: "heading",
+        text: "Què vol dir que els valors canvien",
+      },
+      {
+        type: "paragraph",
+        text: "Un valor no és una idea que penses: és una direcció cap on et moues. Quan valores el reconeixement, busques feines i contextos que te'l donin. Quan valores l'autonomia, organitzes la teva vida per no dependre. Quan valores la seguretat, tries el que és previsible per sobre del que és apassionant. Aquests valors no es trien un matí: es formen a través de la teva història, del que vas necessitar i del que vas aprendre a buscar. I, com que la teva història no s'atura, els valors tampoc.",
+      },
+      {
+        type: "paragraph",
+        text: "El que sol passar a la maduresa és que certs valors que van sostenir la primera part de la vida adulta —l'ambició, l'èxit visible, la productivitat, la parella com a projecte— comencen a perdre força. No desapareixen, però ja no estiren amb la mateixa intensitat. I alhora, d'altres valors que potser abans estaven més al fons —la coherència, la calma, la profunditat de les relacions, el sentit— comencen a emergir i a demanar espai. Aquest moviment, que és natural, es viu moltes vegades com una desconnexió: com si la persona ja no sabés què vol.",
+      },
+      {
+        type: "heading",
+        text: "Per què costa tant reconèixer-ho",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha diverses raons. La primera és que els valors antics no s'esvaeixen: es queden presents com a hàbit, com a expectativa heretada, com a veu que encara diu «hauries de voler això». I la persona pot continuar anys perseguint objectius que, en el fons, ja no li pertanyen, sense adonar-se que la força que els impulsava ha canviat de direcció. La segona és que admetre que els teus valors han canviat implica admetre que tu has canviat. I això, per a persones que s'han identificat molt amb una manera de ser i de voler, pot sentir-se com una amenaça a la identitat.",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera raó és que canviar de valors té conseqüències pràctiques. Si el que abans valoraves era l'ascens i ara valores el temps, això afecta decisions que tens pendents. Si el que valoraves era la parella com a projecte i ara valores la coherència interna, això canvia la manera com estàs dins de la relació. Reconèixer el canvi no és només un acte intern: obre preguntes que fins ara s'havien pogut evitar.",
+      },
+      {
+        type: "heading",
+        text: "El canvi no és traïció al que vas ser",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les coses que més pesa en aquest procés és la sensació de traïció. Traïció al jove que volia arribar lluny. Traïció a la persona que va lluitar per una parella que ara qüestiona. Traïció als ideals que un dia va defensar amb convicció. Aquesta sensació és comprensible, però parteix d'una idea que no se sosté: que la identitat és alguna cosa que es fixa un cop i per sempre, i que qualsevol moviment posterior és una infidelitat.",
+      },
+      {
+        type: "paragraph",
+        text: "La identitat no és una fotografia que es fa als vint i s'ha de respectar als cinquanta. És un procés viu, que es va configurant a través del que vius, del que aprens i del que necessites en cada moment. Que els teus valors canviïn no vol dir que els antics fossin equivocats: vol dir que vas ser coherent amb el que llavors eres, i que ara, que ets una altra persona —no perquè t'hagis convertit en algú diferent, sinó perquè has viscut—, la coherència et porta a un altre lloc. La maduresa no és ser fidel al que vas voler: és ser fidel al que ara vols, sabent d'on vens.",
+      },
+      {
+        type: "heading",
+        text: "Què passa quan els valors nous i els antics coexisteixen",
+      },
+      {
+        type: "paragraph",
+        text: "El canvi de valors rarament és net. Gairebé sempre hi ha un període —de vegades llarg— en què els valors antics i els nous conviuen en tensió. La part que encara vol el reconeixement i la part que ja només vol calma. La part que es mou per l'obligació i la part que comença a preguntar-se per què. La part que ha funcionat d'una manera tota la vida i la part que sospita que hi ha una altra manera de funcionar. Aquesta tensió no és un problema a resoldre ràpidament: és el territori on es treballa la maduresa.",
+      },
+      {
+        type: "paragraph",
+        text: "La temptació, quan aquesta tensió apareix, és resoldre-la d'una de dues maneres: o bé sufocar els valors nous i continuar com si res, o bé trencar-ho tot i començar de nou com si el passat no comptés. Cap de les dues és realment un canvi: la primera és estasis, la segona és fugida. El veritable canvi, el que sosté en el temps, és el que permet que els valors nous trobin el seu lloc sense haver de destruir els antics, reconeixent el que van donar i, alhora, deixant-los deixar de ser el centre.",
+      },
+      {
+        type: "heading",
+        text: "La coherència interna com a pregunta, no com a resposta",
+      },
+      {
+        type: "paragraph",
+        text: "Quan parlem de coherència interna, no parlem d'una harmonia on tot encaixa. Parlem d'una relació honesta entre les diferents parts que et composen: les que encara volen el que volien, les que ja no, i les que encara no saben què volen. La coherència no és no tenir conflicte: és no amagar-te'n. I aquesta, que semblaria una distinció sutil, canvia completament la manera com vius el canvi de valors. Perquè si la coherència és no amagar-te'n, llavors el que canvien els valors no és un problema: és la coherència fent-se realitat.",
+      },
+      {
+        type: "heading",
+        text: "Com pot ajudar la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no et dirà quins valors has de tenir. Això seria una altra forma d'imposar una direcció, i el que es tracta és precisament descobrir la teva. El que la teràpia pot oferir és un espai on mirar aquest desplaçament sense precipitació, sense culpa i sense la pressió de resoldre'l abans d'hora. Un espai on pots preguntar-te què vols realment, i on pots permetre't no saber-ho encara, sabent que aquest no-saber no és buit: és treball.",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes persones arriben a aquest punt amb la sensació d'haver perdut el nord. El que descobreixen, quan s'aturen a mirar-ho amb temps i amb acompanyament, és que no han perdut res: el que ha passat és que el nord s'ha desplaçat, i encara no han ajustat la mirada. Ajustar-la no és un acte que es faci en un dia. És un procés que es fa amb atenció, amb paciència i, sobretot, amb la disposició a deixar de demanar-te la coherència d'abans per començar a buscar la coherència d'ara.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "Com sé si els meus valors han canviat o si estic simplement cansat?",
+            answer:
+              "És una distinció important i, de vegades, difícil. El cansament sol apaivagar el desig temporalment, però quan descansas, allò que volies torna a aparèixer. El canvi de valors és més profund: descansas, i allò que abans et movia no torna amb la mateixa força. Una pista útil és preguntar-te què passaria si tinguessis tot el que abans volies: si la resposta no porta l'alleujament que esperaves, és possible que el que hagi canviat no sigui la teva energia, sinó la teva direcció.",
+          },
+          {
+            question:
+              "És normal canviar de valors als quaranta o als cinquanta?",
+            answer:
+              "Sí. De fet, és més normal del que sembla. La primera part de la vida adulta sol estar guiada per valors que tenen a veure amb construir, demostrar i assolir. La segona part, sovint, està guiada per valors que tenen a veure amb coherència, sentit i profunditat. Aquest moviment no és un símptoma de crisi: és un símptoma de maduresa. El que sí que pot ser motiu d'acompanyament terapèutic és la dificultat per habitar-lo.",
+          },
+          {
+            question:
+              "Si els meus valors han canviat, he de canviar tota la meva vida?",
+            answer:
+              "No necessàriament. El canvi de valors no sempre implica canvis visibles. De vegades sí que porta a decisions importants —una feina, una relació, una manera de viure—, però moltes vegades es tradueix en canvis més subtils: la manera com estàs en el que fas, el que dius que sí, el que comences a dir que no. La pregunta no és què has de canviar, sinó què vol dir, ara, ser coherent amb allò que realment values.",
+          },
+          {
+            question:
+              "Em sento culpable per no voler el que abans volia. És normal?",
+            answer:
+              "És molt freqüent. La culpa sol venir del fet d'haver identificat els valors antics amb la identitat: si ja no vols el que volies, et sembla que estàs traïnt qui eres. Però la identitat no és un compromís amb el passat: és una relació viva amb el present. Que els teus valors canviïn no vol dir que els antics fossin equivocats. Vol dir que vas ser coherent amb el que llavors eres, i que ara, per ser coherent, has de mirar cap a un altre lloc.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sents que allò que et movia fa anys ja no et mou de la mateixa manera, i aquest desplaçament et genera desorientació, culpa o una sensació difusa de no reconeixer-te, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar el canvi dels seus valors sense precipitació, buscar la seva coherència actual i habitar-la com el que és: un moviment de la identitat, no una pèrdua.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una experiencia que muchas personas describen cuando llegan a terapia pasados los treinta o los cuarenta, y que cuesta poner en palabras. No es que estén mal. No es que haya pasado nada concreto. Es más bien una sensación: aquello que las movía hace años —el trabajo, el reconocimiento, una cierta imagen de éxito, una cierta manera de amar— ya no las mueve del mismo modo. Y esta constatación, que parecería serena, les inquieta. Porque cuando lo que te guiaba cambia y nadie te ha avisado, te quedas sin brújula sin saber exactamente cuándo la perdiste.",
+      },
+      {
+        type: "paragraph",
+        text: "Resumen de la respuesta: los valores no son fijos. Se transforman a lo largo de la vida, y esta transformación no es un error ni un defecto: es parte del proceso de madurez. Lo que ocurre es que, como nadie nos enseña a cambiar de valores, cuando lo hacemos tendemos a interpretarlo como inconsistencia, como debilidad o como traición a lo que fuimos. Aquí exploramos por qué los valores cambian, cómo reconocer este cambio sin miedo, y cómo puede ayudar la terapia a habitarlo como lo que es: un movimiento de la identidad, no una pérdida.",
+      },
+      {
+        type: "heading",
+        text: "Qué quiere decir que los valores cambian",
+      },
+      {
+        type: "paragraph",
+        text: "Un valor no es una idea que piensas: es una dirección hacia la que te mueves. Cuando valoras el reconocimiento, buscas trabajos y contextos que te lo den. Cuando valoras la autonomía, organizas tu vida para no depender. Cuando valoras la seguridad, eliges lo predecible por encima de lo apasionante. Estos valores no se eligen una mañana: se forman a través de tu historia, de lo que necesitaste y de lo que aprendiste a buscar. Y, como tu historia no se detiene, los valores tampoco.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que suele ocurrir en la madurez es que ciertos valores que sostuvieron la primera parte de la vida adulta —la ambición, el éxito visible, la productividad, la pareja como proyecto— empiezan a perder fuerza. No desaparecen, pero ya no tiran con la misma intensidad. Y al mismo tiempo, otros valores que quizá antes estaban más al fondo —la coherencia, la calma, la profundidad de las relaciones, el sentido— empiezan a emerger y a pedir espacio. Este movimiento, que es natural, se vive muchas veces como una desconexión: como si la persona ya no supiera qué quiere.",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta tanto reconocerlo",
+      },
+      {
+        type: "paragraph",
+        text: "Hay varias razones. La primera es que los valores antiguos no se desvanecen: se quedan presentes como hábito, como expectativa heredada, como voz que todavía dice «deberías querer esto». Y la persona puede continuar años persiguiendo objetivos que, en el fondo, ya no le pertenecen, sin darse cuenta de que la fuerza que los impulsaba ha cambiado de dirección. La segunda es que admitir que tus valores han cambiado implica admitir que tú has cambiado. Y eso, para personas que se han identificado mucho con una manera de ser y de querer, puede sentirse como una amenaza a la identidad.",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera razón es que cambiar de valores tiene consecuencias prácticas. Si lo que antes valorabas era el ascenso y ahora valoras el tiempo, eso afecta decisiones que tienes pendientes. Si lo que valorabas era la pareja como proyecto y ahora valoras la coherencia interna, eso cambia la manera en que estás dentro de la relación. Reconocer el cambio no es solo un acto interno: abre preguntas que hasta ahora se habían podido evitar.",
+      },
+      {
+        type: "heading",
+        text: "El cambio no es traición a lo que fuiste",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las cosas que más pesa en este proceso es la sensación de traición. Traición al joven que quería llegar lejos. Traición a la persona que luchó por una pareja que ahora cuestiona. Traición a los ideales que un día defendió con convicción. Esta sensación es comprensible, pero parte de una idea que no se sostiene: que la identidad es algo que se fija una vez y para siempre, y que cualquier movimiento posterior es una infidelidad.",
+      },
+      {
+        type: "paragraph",
+        text: "La identidad no es una fotografía que se toma a los veinte y hay que respetar a los cincuenta. Es un proceso vivo, que se va configurando a través de lo que vives, de lo que aprendes y de lo que necesitas en cada momento. Que tus valores cambien no quiere decir que los antiguos fueran equivocados: quiere decir que fuiste coherente con lo que entonces eras, y que ahora, que eres otra persona —no porque te hayas convertido en alguien diferente, sino porque has vivido—, la coherencia te lleva a otro lugar. La madurez no es ser fiel a lo que quisiste: es ser fiel a lo que ahora quieres, sabiendo de dónde vienes.",
+      },
+      {
+        type: "heading",
+        text: "Qué pasa cuando los valores nuevos y los antiguos coexisten",
+      },
+      {
+        type: "paragraph",
+        text: "El cambio de valores raramente es limpio. Casi siempre hay un período —a veces largo— en el que los valores antiguos y los nuevos conviven en tensión. La parte que todavía quiere el reconocimiento y la parte que ya solo quiere calma. La parte que se mueve por la obligación y la parte que empieza a preguntarse por qué. La parte que ha funcionado de una manera toda la vida y la parte que sospecha que hay otra manera de funcionar. Esta tensión no es un problema a resolver rápidamente: es el territorio donde se trabaja la madurez.",
+      },
+      {
+        type: "paragraph",
+        text: "La tentación, cuando esta tensión aparece, es resolverla de una de dos maneras: o bien sofocar los valores nuevos y continuar como si nada, o bien romperlo todo y empezar de nuevo como si el pasado no contara. Ninguna de las dos es realmente un cambio: la primera es estasis, la segunda es huida. El verdadero cambio, el que sostiene en el tiempo, es el que permite que los valores nuevos encuentren su lugar sin tener que destruir los antiguos, reconociendo lo que dieron y, al mismo tiempo, dejándoles dejar de ser el centro.",
+      },
+      {
+        type: "heading",
+        text: "La coherencia interna como pregunta, no como respuesta",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando hablamos de coherencia interna, no hablamos de una armonía donde todo encaixa. Hablamos de una relación honesta entre las diferentes partes que te componen: las que todavía quieren lo que querían, las que ya no, y las que aún no saben qué quieren. La coherencia no es no tener conflicto: es no esconderte de él. Y esta, que parecería una distinción sutil, cambia completamente la manera como vives el cambio de valores. Porque si la coherencia es no esconderte de él, entonces lo que cambian los valores no es un problema: es la coherencia haciéndose realidad.",
+      },
+      {
+        type: "heading",
+        text: "Cómo puede ayudar la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no te dirá qué valores debes tener. Eso sería otra forma de imponer una dirección, y lo que se trata es precisamente descubrir la tuya. Lo que la terapia puede ofrecer es un espacio donde mirar este desplazamiento sin precipitación, sin culpa y sin la presión de resolverlo antes de tiempo. Un espacio donde puedes preguntarte qué quieres realmente, y donde puedes permitirte no saberlo aún, sabiendo que ese no-saber no es vacío: es trabajo.",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas personas llegan a este punto con la sensación de haber perdido el norte. Lo que descubren, cuando se detienen a mirarlo con tiempo y con acompañamiento, es que no han perdido nada: lo que ha pasado es que el norte se ha desplazado, y aún no han ajustado la mirada. Ajustarla no es un acto que se haga en un día. Es un proceso que se hace con atención, con paciencia y, sobre todo, con la disposición a dejar de pedirte la coherencia de antes para empezar a buscar la coherencia de ahora.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question:
+              "¿Cómo sé si mis valores han cambiado o si estoy simplemente cansado?",
+            answer:
+              "Es una distinción importante y, a veces, difícil. El cansancio suele apagar el deseo temporalmente, pero cuando descansas, aquello que querías vuelve a aparecer. El cambio de valores es más profundo: descansas, y lo que antes te movía no vuelve con la misma fuerza. Una pista útil es preguntarte qué pasaría si tuvieras todo lo que antes querías: si la respuesta no trae el alivio que esperabas, es posible que lo que haya cambiado no sea tu energía, sino tu dirección.",
+          },
+          {
+            question:
+              "¿Es normal cambiar de valores a los cuarenta o a los cincuenta?",
+            answer:
+              "Sí. De hecho, es más normal de lo que parece. La primera parte de la vida adulta suele estar guiada por valores que tienen que ver con construir, demostrar y alcanzar. La segunda parte, a menudo, está guiada por valores que tienen que ver con coherencia, sentido y profundidad. Este movimiento no es un síntoma de crisis: es un síntoma de madurez. Lo que sí puede ser motivo de acompañamiento terapéutico es la dificultad para habitarlo.",
+          },
+          {
+            question:
+              "Si mis valores han cambiado, ¿tengo que cambiar toda mi vida?",
+            answer:
+              "No necesariamente. El cambio de valores no siempre implica cambios visibles. A veces sí que lleva a decisiones importantes —un trabajo, una relación, una manera de vivir—, pero muchas veces se traduce en cambios más sutiles: la manera como estás en lo que haces, lo que dices que sí, lo que empiezas a decir que no. La pregunta no es qué tienes que cambiar, sino qué significa, ahora, ser coherente con lo que realmente valoras.",
+          },
+          {
+            question:
+              "Me siento culpable por no querer lo que antes quería. ¿Es normal?",
+            answer:
+              "Es muy frecuente. La culpa suele venir del hecho de haber identificado los valores antiguos con la identidad: si ya no quieres lo que querías, te parece que estás traicionando a quien eras. Pero la identidad no es un compromiso con el pasado: es una relación viva con el presente. Que tus valores cambien no quiere decir que los antiguos fueran equivocados. Quiere decir que fuiste coherente con lo que entonces eras, y que ahora, para ser coherente, tienes que mirar hacia otro lugar.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Si sientes que aquello que te movía hace años ya no te mueve del mismo modo, y este desplazamiento te genera desorientación, culpa o una sensación difusa de no reconocerte, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar el cambio de sus valores sin precipitación, buscar su coherencia actual y habitarla como lo que es: un movimiento de la identidad, no una pérdida.",
       },
     ],
   },

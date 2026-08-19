@@ -701,5 +701,17 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES":
       "Hay papeles que te aprendiste hace tanto tiempo que ya no los reconoces como papeles: los llevas como si fueran tu manera de ser. El responsable, el conciliador, el que siempre está, el que no pide nada, el que hace reír para que nadie se ponga triste. Esos roles, que un día fueron una manera de sobrevivir dentro de la familia, se quedan funcionando años después, en lugares donde ya no hacen falta, con personas que no los pidieron. Aquí exploramos por qué los roles de la familia de origen pesan tanto en la edad adulta, cómo configuran tus relaciones y tu identidad, y cómo puede ayudar la terapia a mirarlos sin que se conviertan ni en acusación ni en resignación.",
     "datePublished": "2026-08-18"
+  },
+  {
+    "slug": "valores-que-cambiaron-sin-avisar",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Els valors que van canviar sense avisar: quan allò que importava ja no importa igual",
+    "titleES": "Los valores que cambiaron sin avisar: cuando lo que importaba ya no importa igual",
+    "excerptCA":
+      "Hi ha un moment, sovint a la maduresa adulta, en què t'adones que allò que et movia fa anys ja no et mou de la mateixa manera. No és una crisi espectacular: és un desplaçament silenciós. La feina que volies, el reconeixement que busques, la manera com entenies l'amor o l'èxit: tot segueix sent el mateix sobre el paper, però alguna cosa ha canviat dins. Aquí explorem per què els valors es transformen al llarg de la vida, per què aquest canvi pot generar tant desorientació com alleujament, i com pot ajudar la teràpia a habitar-lo sense que es converteixi ni en traïció al que vas ser ni en renúncia al que vols ser.",
+    "excerptES":
+      "Hay un momento, a menudo en la madurez adulta, en que te das cuenta de que aquello que te movía hace años ya no te mueve del mismo modo. No es una crisis espectacular: es un desplazamiento silencioso. El trabajo que querías, el reconocimiento que buscabas, la manera como entendías el amor o el éxito: todo sigue siendo lo mismo sobre el papel, pero algo ha cambiado dentro. Aquí exploramos por qué los valores se transforman a lo largo de la vida, por qué este cambio puede generar tanto desorientación como alivio, y cómo puede ayudar la terapia a habitarlo sin que se convierta ni en traición a lo que fuiste ni en renuncia a lo que quieres ser.",
+    "datePublished": "2026-08-19"
   }
 ];
