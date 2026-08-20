@@ -13,6 +13,96 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "amistades-que-se-rompen-madurez-adulta",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Les amistats que es trenquen a la maduresa adulta: quan allò que ens unia ja no sosté",
+    "titleES": "Las amistades que se rompen en la madurez adulta: cuando lo que nos unía ya no sostiene",
+    "excerptCA": "Hi ha pèrdues que no tenen nom social. Ningú no et felicita ni et consola per una amistat que s'ha esvaït als quaranta o als cinquanta. I, tanmateix, el dolor de veure com una amistat llarga deixa de tenir sentit pot ser tan profund com el d'una ruptura amorosa. Aquí explorem per què algunes amistats es trenquen a la maduresa, què hi té a veure la identitat, els valors i el context, i com pot ajudar la teràpia a recórrer aquesta pèrdua silenciosa sense convertir-la ni en culpa ni en resignació.",
+    "excerptES": "Hay pérdidas que no tienen nombre social. Nadie te felicita ni te consuela por una amistad que se ha desvanecido a los cuarenta o a los cincuenta. Y, sin embargo, el dolor de ver cómo una amistad larga deja de tener sentido puede ser tan profundo como el de una ruptura amorosa. Aquí exploramos por qué algunas amistades se rompen en la madurez, qué tiene que ver la identidad, los valores y el contexto, y cómo puede ayudar la terapia a recorrer esa pérdida silenciosa sin convertirla ni en culpa ni en resignación.",
+    "datePublished": "2026-08-20"
+  },
+  {
+    "slug": "valores-que-cambiaron-sin-avisar",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Els valors que van canviar sense avisar: quan allò que importava ja no importa igual",
+    "titleES": "Los valores que cambiaron sin avisar: cuando lo que importaba ya no importa igual",
+    "excerptCA": "Hi ha un moment, sovint a la maduresa adulta, en què t'adones que allò que et movia fa anys ja no et mou de la mateixa manera. No és una crisi espectacular: és un desplaçament silenciós. La feina que volies, el reconeixement que busques, la manera com entenies l'amor o l'èxit: tot segueix sent el mateix sobre el paper, però alguna cosa ha canviat dins. Aquí explorem per què els valors es transformen al llarg de la vida, per què aquest canvi pot generar tant desorientació com alleujament, i com pot ajudar la teràpia a habitar-lo sense que es converteixi ni en traïció al que vas ser ni en renúncia al que vols ser.",
+    "excerptES": "Hay un momento, a menudo en la madurez adulta, en que te das cuenta de que aquello que te movía hace años ya no te mueve del mismo modo. No es una crisis espectacular: es un desplazamiento silencioso. El trabajo que querías, el reconocimiento que buscabas, la manera como entendías el amor o el éxito: todo sigue siendo lo mismo sobre el papel, pero algo ha cambiado dentro. Aquí exploramos por qué los valores se transforman a lo largo de la vida, por qué este cambio puede generar tanto desorientación como alivio, y cómo puede ayudar la terapia a habitarlo sin que se convierta ni en traición a lo que fuiste ni en renuncia a lo que quieres ser.",
+    "datePublished": "2026-08-19"
+  },
+  {
+    "slug": "roles-familiares-que-sigues-habitando",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Els rols familiars que segueixes habitant sense adonar-te'n",
+    "titleES": "Los roles familiares que sigues habitando sin darte cuenta",
+    "excerptCA": "Hi ha papers que et vas aprendre fa tant de temps que ja no els reconeixes com a papers: els portes com si fossin la teva manera de ser. El responsable, el conciliador, el que sempre hi és, el que no demana res, el que fa riure perquè ningú no es posi trist. Aquests rols, que un dia van ser una manera de sobreviure dins de la família, es queden funcionant anys després, en llocs on ja no calen, amb persones que no els van demanar. Aquí explorem per què els rols de la família d'origen pesen tant a l'edat adulta, com configuren les teves relacions i la teva identitat, i com pot ajudar la teràpia a mirar-los sense que es converteixin ni en acusació ni en resignació.",
+    "excerptES": "Hay papeles que te aprendiste hace tanto tiempo que ya no los reconoces como papeles: los llevas como si fueran tu manera de ser. El responsable, el conciliador, el que siempre está, el que no pide nada, el que hace reír para que nadie se ponga triste. Esos roles, que un día fueron una manera de sobrevivir dentro de la familia, se quedan funcionando años después, en lugares donde ya no hacen falta, con personas que no los pidieron. Aquí exploramos por qué los roles de la familia de origen pesan tanto en la edad adulta, cómo configuran tus relaciones y tu identidad, y cómo puede ayudar la terapia a mirarlos sin que se conviertan ni en acusación ni en resignación.",
+    "datePublished": "2026-08-18"
+  },
+  {
+    "slug": "pareja-despues-crianza-hijos-crecen-descubris-desconocidos",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "La parella després de la criança: quan els fills creixen i us descobriu desconeguts",
+    "titleES": "La pareja después de la crianza: cuando los hijos crecen y os descubrís desconocidos",
+    "excerptCA": "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què la casa es buida i la parella es queda sola. No sempre és un buit trist: de vegades és un silenci que no sabíeu que existia, un espai on abans hi havia crisis, horaris, criatures que requerien atenció. I en aquest silenci descobriu que no us reconeixeu del tot. No és que us hàgiu deixat d'estimar: és que durant anys la relació va ser, sobretot, una gestió. Aquí explorem què passa amb la parella quan deixa de ser projecte compartit de criança i torna a ser relació entre dues persones, per què aquest moment pot ser tan desconcertant i com pot ajudar la teràpia de parella a recórrer-lo sense que es converteixi ni en ruptura ni en resignació.",
+    "excerptES": "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que la casa se vacía y la pareja se queda sola. No siempre es un vacío triste: a veces es un silencio que no sabíais que existía, un espacio donde antes había crisis, horarios, criaturas que requerían atención. Y en ese silencio descubres que no os reconocéis del todo. No es que os hayáis dejado de amar: es que durante años la relación fue, sobre todo, una gestión. Aquí exploramos qué pasa con la pareja cuando deja de ser proyecto compartido de crianza y vuelve a ser relación entre dos personas, por qué ese momento puede ser tan desconcertante y cómo puede ayudar la terapia de pareja a recorrerlo sin que se convierta ni en ruptura ni en resignación.",
+    "datePublished": "2026-08-17"
+  },
+  {
+    "slug": "cuando-anorar-es-preguntar",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Quan enyorar és preguntar: la nostàlgia adulta que no és el que sembla",
+    "titleES": "Cuando añorar es preguntar: la nostalgia adulta que no es lo que parece",
+    "excerptCA": "Hi ha un tipus d'enyorament que no es correspon amb una pèrdua concreta. No enyores una persona que se'n va ni un lloc que vas deixar: enyores una manera d'estar-hi que ja no trobes. Aquesta nostàlgia, que sovint es confon amb melancolia o amb un desig de tornar enrere, és en realitat una pregunta. Pregunta quines parts de tu han quedat fora del camí mentre anaves construint la vida que tens. Aquí explorem què hi ha darrere d'aquest enyorament que apareix entre els trenta i els cinquanta, per què no és un senyal de regressió i com pot ajudar la teràpia a convertir-lo en una pregunta amb resposta.",
+    "excerptES": "Hay un tipo de añoranza que no se corresponde con una pérdida concreta. No añoras a una persona que se fue ni a un lugar que dejaste: añoras una manera de estar que ya no encuentras. Esta nostalgia, que a menudo se confunde con melancolía o con un deseo de volver atrás, es en realidad una pregunta. Pregunta qué partes de ti han quedado fuera del camino mientras ibas construyendo la vida que tienes. Aquí exploramos qué hay detrás de ese añoramiento que aparece entre los treinta y los cincuenta, por qué no es un signo de regresión y cómo puede ayudar la terapia a convertirlo en una pregunta con respuesta.",
+    "datePublished": "2026-08-16"
+  },
+  {
+    "slug": "verguenza-que-no-se-nombra-adultos",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La vergonya que no es nomena: quan semblar qui creus que hauries de ser t'esgota",
+    "titleES": "La vergüenza que no se nombra: cuando parecer quien crees que debes ser te agota",
+    "excerptCA": "Hi ha un tipus de malestar que no es diu pel seu nom i, tanmateix, dirigeix moltes de les decisions que prens: què mostres de tu, què amagues, quines relacions permetes, què demanes i què calles. És la vergonya, aquella sensació de no estar a l'alçada —no d'alguna cosa que has fet, sinó del que ets. No és culpa, que diu «he fet alguna cosa malament»; és vergonya, que diu «estic malament». Aquí explorem com opera aquesta vergonya que no es nomena, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en veredicte ni en resignació.",
+    "excerptES": "Hay un tipo de malestar que no se llama por su nombre y, sin embargo, dirige muchas de las decisiones que tomas: qué muestras de ti, qué escondes, qué relaciones permites, qué pides y qué callas. Es la vergüenza, esa sensación de no estar a la altura —no de algo que has hecho, sino de lo que eres. No es culpa, que dice «he hecho algo mal»; es vergüenza, que dice «estoy mal». Aquí exploramos cómo opera esta vergüenza que no se nombra, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a mirarla sin que se convierta ni en veredicto ni en resignación.",
+    "datePublished": "2026-08-15"
+  },
+  {
+    "slug": "lealtades-invisibles-que-heredamos-sin-saber",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Les lleialtats invisibles que heretem sense saber-ho",
+    "titleES": "Las lealtades invisibles que heredamos sin saberlo",
+    "excerptCA": "Hi ha decisions que prenem a la vida adulta que no entenem del tot per què les prenem. Eleccions professionals, vincles que es repeteixen, límits que no gosem traspassar, certs temes que sempre queden fora de la conversa. De vegades no són nostres: són lleialtats invisibles, maneres de romandre fidel a una història, a una família o a una decisió que es va prendre fa temps sense que ho sabéssim. Aquí explorem què són aquestes lleialtats que no es veuen, com configuren la vida adulta i com pot ajudar la teràpia a mirar-les sense que es converteixin ni en traïció ni en renúncia.",
+    "excerptES": "Hay decisiones que tomamos en la vida adulta que no entendemos del todo por qué las tomamos. Elecciones profesionales, vínculos que se repiten, límites que no nos atrevemos a cruzar, ciertos temas que siempre quedan fuera de la conversación. A veces no son nuestras: son lealtades invisibles, maneras de permanecer fiel a una historia, a una familia o a una decisión que se tomó hace tiempo sin que lo supiéramos. Aquí exploramos qué son esas lealtades que no se ven, cómo configuran la vida adulta y cómo puede ayudar la terapia a mirarlas sin que se conviertan ni en traición ni en renuncia.",
+    "datePublished": "2026-08-14"
+  },
+  {
+    "slug": "rabia-que-se-vuelve-distancia",
+    "categoryCA": "Problemes relacionals",
+    "categoryES": "Problemas relacionales",
+    "titleCA": "Quan la ràbia es torna distància: el silenci que no és pau",
+    "titleES": "Cuando la rabia se vuelve distancia: el silencio que no es paz",
+    "excerptCA": "Hi ha un tipus de silenci a la parella que no neix de la calma, sinó d'una ràbia que no ha trobat on posar-se. No crida, no discuteix: es retira. I aquesta retirada, que de vegades sembla serenitat, és en realitat una manera de dir sense paraules allò que no s'ha pogut dir amb elles. Aquí explorem com la ràbia que no s'expressa es transforma en distància, per què aquest silenci pesa més que les paraules, i com pot ajudar la teràpia a desfer el nus sense que es converteixi ni en acusació ni en rendició.",
+    "excerptES": "Hay un tipo de silencio en la pareja que no nace de la calma, sino de una rabia que no ha encontrado dónde ponerse. No grita, no discute: se retira. Y esa retirada, que a veces parece serenidad, es en realidad una manera de decir sin palabras lo que no se ha podido decir con ellas. Aquí exploramos cómo la rabia que no se expresa se transforma en distancia, por qué ese silencio pesa más que las palabras, y cómo puede ayudar la terapia a deshacer el nudo sin que se convierta ni en acusación ni en rendición.",
+    "datePublished": "2026-08-13"
+  },
+  {
+    "slug": "cuando-parar-da-miedo-el-descanso-que-no-llega",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Quan parar fa por: el descans que no arriba",
+    "titleES": "Cuando parar da miedo: el descanso que no llega",
+    "excerptCA": "Hi ha persones que no descansen, però no per manca de temps. Tenen el cap de setmana lliure, les vacances promeses, el diumenge a la tarda sense plans. I, tanmateix, no poden parar. Quan ho intenten, apareix una inquietud que no se sap explicar: una ansietat difusa, una sensació de no estar fent el que haurien, un fons de culpa que no encaixa amb res concret. Aquí explorem per què per a certes persones parar és més difícil que seguir, què hi té a veure la identitat construïda al voltant del fer, i com pot ajudar la teràpia a recuperar el descans sense que es converteixi en una confrontació amb tot allò que s'ha anat posposant.",
+    "excerptES": "Hay personas que no descansan, pero no por falta de tiempo. Tienen el fin de semana libre, las vacaciones prometidas, el domingo por la tarde sin planes. Y, sin embargo, no pueden parar. Cuando lo intentan, aparece una inquietud que no se sabe explicar: una ansiedad difusa, una sensación de no estar haciendo lo que deberían, un fondo de culpa que no encaja con nada concreto. Aquí exploramos por qué para ciertas personas parar es más difícil que seguir, qué tiene que ver la identidad construida alrededor del hacer, y cómo puede ayudar la terapia a recuperar el descanso sin que se convierta en una confrontación con todo aquello que se ha ido posponiendo.",
+    "datePublished": "2026-08-12"
+  },
+  {
     "slug": "pareja-como-espejo-lo-que-no-queremos-ver",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
@@ -40,6 +130,16 @@ export const articleMeta: ArticleMeta[] = [
     "titleES": "Cuando todo cuesta más: los estados depresivos en la edad adulta",
     "excerptCA": "No sempre és tristesa. De vegades és un apagament: allò que t'interessava ja no t'interessa, allò que et donava energia ara et pesa, i el futur que abans projectaves s'ha tornat una idea neutra. Els estats depressius a l'edat adulta rarament coincideixen amb la imatge que en tenim. Aquí explorem com es presenten realment, per què apareixen amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-los sense que es converteixin en una identitat.",
     "excerptES": "No siempre es tristeza. A veces es un apagamiento: lo que te interesaba ya no te interesa, lo que te daba energía ahora te pesa, y el futuro que antes proyectabas se ha vuelto una idea neutra. Los estados depresivos en la edad adulta raramente coinciden con la imagen que tenemos de ellos. Aquí exploramos cómo se presentan realmente, por qué aparecen con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlos sin que se conviertan en una identidad.",
+    "datePublished": "2026-08-09"
+  },
+  {
+    "slug": "el-vinculo-terapeutico-por-que-la-relacion-importa",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "El vincle terapèutic: per què la relació amb el teu psicòleg canvia el procés",
+    "titleES": "El vínculo terapéutico: por qué la relación con tu psicólogo cambia el proceso",
+    "excerptCA": "Quan pensem en teràpia, pensem en tècniques, en enfocaments, en el que es diu a la sessió. Però sota tot això hi ha alguna cosa menys visible i més decisiva: el vincle terapèutic, la qualitat de la relació entre qui consulta i qui acompanya. No és un detall secundari ni un element decoratiu: és el sòl sobre el qual es recolza tot el procés. Aquí explorem per què la relació amb el teu psicòleg importa tant, què la fa bona i com saber si aquesta relació t'està servint.",
+    "excerptES": "Cuando pensamos en terapia, pensamos en técnicas, en enfoques, en lo que se dice en la sesión. Pero debajo de todo eso hay algo menos visible y más decisivo: el vínculo terapéutico, la calidad de la relación entre quien consulta y quien acompaña. No es un detalle secundario ni un elemento decorativo: es el suelo sobre el que se apoya todo el proceso. Aquí exploramos por qué la relación con tu psicólogo importa tanto, qué la hace buena y cómo saber si esa relación te está sirviendo.",
     "datePublished": "2026-08-09"
   },
   {
@@ -571,147 +671,5 @@ export const articleMeta: ArticleMeta[] = [
     "excerptCA": "Una guia clara per entendre les diferències entre psicòleg i psiquiatre, què estudia cadascun, quins tractaments ofereixen i quan cal acudir a cadascun.",
     "excerptES": "Una guía clara para entender las diferencias entre psicólogo y psiquiatra, qué estudia cada uno, qué tratamientos ofrecen, y cuándo acudir a cada uno.",
     "datePublished": "2026-04-18"
-  },
-  {
-    "slug": "terapia-parejas-barcelona",
-    "categoryCA": "Parella",
-    "categoryES": "Pareja",
-    "titleCA": "Teràpia de parella a Barcelona: recupera la connexió amb la teva parella",
-    "titleES": "Terapia de Pareja en Barcelona: Recupera la Conexión con tu Pareja",
-    "excerptCA": "Sents que la vostra comunicació s'ha trencat? La teràpia de parella pot ajudar-te a reconstruir el vincle i trobar solucions reals.",
-    "excerptES": "¿Sientes que vuestra comunicación se ha roto? La terapia de pareja puede ayudarte a reconstruir el vínculo y encontrar soluciones reales.",
-    "datePublished": "2026-05-01"
-  },
-  {
-    "slug": "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Quan tot costa més: els estats depressius a l'edat adulta",
-    "titleES": "Cuando todo cuesta más: los estados depresivos en la edad adulta",
-    "excerptCA":
-      "No sempre és tristesa. De vegades és un apagament: allò que t'interessava ja no t'interessa, allò que et donava energia ara et pesa, i el futur que abans projectaves s'ha tornat una idea neutra. Els estats depressius a l'edat adulta rarament coincideixen amb la imatge que en tenim. Aquí explorem com es presenten realment, per què apareixen amb força entre els quaranta i els cinquanta, i com pot ajudar la teràpia a recórrer-los sense que es converteixin en una identitat.",
-    "excerptES":
-      "No siempre es tristeza. A veces es un apagamiento: lo que te interesaba ya no te interesa, lo que te daba energía ahora te pesa, y el futuro que antes proyectabas se ha vuelto una idea neutra. Los estados depresivos en la edad adulta raramente coinciden con la imagen que tenemos de ellos. Aquí exploramos cómo se presentan realmente, por qué aparecen con fuerza entre los cuarenta y los cincuenta, y cómo puede ayudar la terapia a recorrerlos sin que se conviertan en una identidad.",
-    "datePublished": "2026-08-09"
-  },
-  {
-    "slug": "logro-que-no-llena-cuando-llegar-no-es-suficiente",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "Quan arribar no basta: el buit que apareix després d'assolir el que es perseguia",
-    "titleES": "Cuando llegar no basta: el vacío que aparece después de conseguir lo que se perseguía",
-    "excerptCA":
-      "Hi ha un moment, sobretot entre els 35 i els 50, en què arribes on volies arribar i descobreixes que no omple. La feina, la casa, la relació, el reconeixement: tot està més o menys on t'havies proposat portar-ho. I, tanmateix, en lloc de tranquil·litat, apareix una pregunta incòmoda: «¿i això és tot?». Aquest article explora per què l'assoliment no sempre coincideix amb la satisfacció, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a recórrer aquest buit que no és un error: és una pregunta.",
-    "excerptES":
-      "Hay un momento, sobre todo entre los 35 y los 50, en que llegas a donde querías llegar y descubres que no llena. El trabajo, la casa, la relación, el reconocimiento: todo está más o menos donde te habías propuesto llevarlo. Y, sin embargo, en lugar de tranquilidad, aparece una pregunta incómoda: «¿y esto es todo?». Este artículo explora por qué el logro no siempre coincide con la satisfacción, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a recorrer ese vacío que no es un error: es una pregunta.",
-    "datePublished": "2026-08-07"
-  },
-  {
-    "slug": "el-vinculo-terapeutico-por-que-la-relacion-importa",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "El vincle terapèutic: per què la relació amb el teu psicòleg canvia el procés",
-    "titleES": "El vínculo terapéutico: por qué la relación con tu psicólogo cambia el proceso",
-    "excerptCA":
-      "Quan pensem en teràpia, pensem en tècniques, en enfocaments, en el que es diu a la sessió. Però sota tot això hi ha alguna cosa menys visible i més decisiva: el vincle terapèutic, la qualitat de la relació entre qui consulta i qui acompanya. No és un detall secundari ni un element decoratiu: és el sòl sobre el qual es recolza tot el procés. Aquí explorem per què la relació amb el teu psicòleg importa tant, què la fa bona i com saber si aquesta relació t'està servint.",
-    "excerptES":
-      "Cuando pensamos en terapia, pensamos en técnicas, en enfoques, en lo que se dice en la sesión. Pero debajo de todo eso hay algo menos visible y más decisivo: el vínculo terapéutico, la calidad de la relación entre quien consulta y quien acompaña. No es un detalle secundario ni un elemento decorativo: es el suelo sobre el que se apoya todo el proceso. Aquí exploramos por qué la relación con tu psicólogo importa tanto, qué la hace buena y cómo saber si esa relación te está sirviendo.",
-    "datePublished": "2026-08-09"
-  },
-  {
-    "slug": "cuando-parar-da-miedo-el-descanso-que-no-llega",
-    "categoryCA": "Necessito un psicòleg?",
-    "categoryES": "¿Necesito un psicólogo?",
-    "titleCA": "Quan parar fa por: el descans que no arriba",
-    "titleES": "Cuando parar da miedo: el descanso que no llega",
-    "excerptCA":
-      "Hi ha persones que no descansen, però no per manca de temps. Tenen el cap de setmana lliure, les vacances promeses, el diumenge a la tarda sense plans. I, tanmateix, no poden parar. Quan ho intenten, apareix una inquietud que no se sap explicar: una ansietat difusa, una sensació de no estar fent el que haurien, un fons de culpa que no encaixa amb res concret. Aquí explorem per què per a certes persones parar és més difícil que seguir, què hi té a veure la identitat construïda al voltant del fer, i com pot ajudar la teràpia a recuperar el descans sense que es converteixi en una confrontació amb tot allò que s'ha anat posposant.",
-    "excerptES":
-      "Hay personas que no descansan, pero no por falta de tiempo. Tienen el fin de semana libre, las vacaciones prometidas, el domingo por la tarde sin planes. Y, sin embargo, no pueden parar. Cuando lo intentan, aparece una inquietud que no se sabe explicar: una ansiedad difusa, una sensación de no estar haciendo lo que deberían, un fondo de culpa que no encaja con nada concreto. Aquí exploramos por qué para ciertas personas parar es más difícil que seguir, qué tiene que ver la identidad construida alrededor del hacer, y cómo puede ayudar la terapia a recuperar el descanso sin que se convierta en una confrontación con todo aquello que se ha ido posponiendo.",
-    "datePublished": "2026-08-12"
-  },
-  {
-    "slug": "rabia-que-se-vuelve-distancia",
-    "categoryCA": "Problemes relacionals",
-    "categoryES": "Problemas relacionales",
-    "titleCA": "Quan la ràbia es torna distància: el silenci que no és pau",
-    "titleES": "Cuando la rabia se vuelve distancia: el silencio que no es paz",
-    "excerptCA":
-      "Hi ha un tipus de silenci a la parella que no neix de la calma, sinó d'una ràbia que no ha trobat on posar-se. No crida, no discuteix: es retira. I aquesta retirada, que de vegades sembla serenitat, és en realitat una manera de dir sense paraules allò que no s'ha pogut dir amb elles. Aquí explorem com la ràbia que no s'expressa es transforma en distància, per què aquest silenci pesa més que les paraules, i com pot ajudar la teràpia a desfer el nus sense que es converteixi ni en acusació ni en rendició.",
-    "excerptES":
-      "Hay un tipo de silencio en la pareja que no nace de la calma, sino de una rabia que no ha encontrado dónde ponerse. No grita, no discute: se retira. Y esa retirada, que a veces parece serenidad, es en realidad una manera de decir sin palabras lo que no se ha podido decir con ellas. Aquí exploramos cómo la rabia que no se expresa se transforma en distancia, por qué ese silencio pesa más que las palabras, y cómo puede ayudar la terapia a deshacer el nudo sin que se convierta ni en acusación ni en rendición.",
-    "datePublished": "2026-08-13"
-  },
-  {
-    "slug": "lealtades-invisibles-que-heredamos-sin-saber",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "Les lleialtats invisibles que heretem sense saber-ho",
-    "titleES": "Las lealtades invisibles que heredamos sin saberlo",
-    "excerptCA":
-      "Hi ha decisions que prenem a la vida adulta que no entenem del tot per què les prenem. Eleccions professionals, vincles que es repeteixen, límits que no gosem traspassar, certs temes que sempre queden fora de la conversa. De vegades no són nostres: són lleialtats invisibles, maneres de romandre fidel a una història, a una família o a una decisió que es va prendre fa temps sense que ho sabéssim. Aquí explorem què són aquestes lleialtats que no es veuen, com configuren la vida adulta i com pot ajudar la teràpia a mirar-les sense que es converteixin ni en traïció ni en renúncia.",
-    "excerptES":
-      "Hay decisiones que tomamos en la vida adulta que no entendemos del todo por qué las tomamos. Elecciones profesionales, vínculos que se repiten, límites que no nos atrevemos a cruzar, ciertos temas que siempre quedan fuera de la conversación. A veces no son nuestras: son lealtades invisibles, maneras de permanecer fiel a una historia, a una familia o a una decisión que se tomó hace tiempo sin que lo supiéramos. Aquí exploramos qué son esas lealtades que no se ven, cómo configuran la vida adulta y cómo puede ayudar la terapia a mirarlas sin que se conviertan ni en traición ni en renuncia.",
-    "datePublished": "2026-08-14"
-  },
-  {
-    "slug": "verguenza-que-no-se-nombra-adultos",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "La vergonya que no es nomena: quan semblar qui creus que hauries de ser t'esgota",
-    "titleES": "La vergüenza que no se nombra: cuando parecer quien crees que debes ser te agota",
-    "excerptCA":
-      "Hi ha un tipus de malestar que no es diu pel seu nom i, tanmateix, dirigeix moltes de les decisions que prens: què mostres de tu, què amagues, quines relacions permetes, què demanes i què calles. És la vergonya, aquella sensació de no estar a l'alçada —no d'alguna cosa que has fet, sinó del que ets. No és culpa, que diu «he fet alguna cosa malament»; és vergonya, que diu «estic malament». Aquí explorem com opera aquesta vergonya que no es nomena, per què apareix amb força a la maduresa adulta i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en veredicte ni en resignació.",
-    "excerptES":
-      "Hay un tipo de malestar que no se llama por su nombre y, sin embargo, dirige muchas de las decisiones que tomas: qué muestras de ti, qué escondes, qué relaciones permites, qué pides y qué callas. Es la vergüenza, esa sensación de no estar a la altura —no de algo que has hecho, sino de lo que eres. No es culpa, que dice «he hecho algo mal»; es vergüenza, que dice «estoy mal». Aquí exploramos cómo opera esta vergüenza que no se nombra, por qué aparece con fuerza en la madurez adulta y cómo puede ayudar la terapia a mirarla sin que se convierta ni en veredicto ni en resignación.",
-    "datePublished": "2026-08-15"
-  },
-  {
-    "slug": "cuando-anorar-es-preguntar",
-    "categoryCA": "Canvis vitals",
-    "categoryES": "Cambios vitales",
-    "titleCA": "Quan enyorar és preguntar: la nostàlgia adulta que no és el que sembla",
-    "titleES": "Cuando añorar es preguntar: la nostalgia adulta que no es lo que parece",
-    "excerptCA":
-      "Hi ha un tipus d'enyorament que no es correspon amb una pèrdua concreta. No enyores una persona que se'n va ni un lloc que vas deixar: enyores una manera d'estar-hi que ja no trobes. Aquesta nostàlgia, que sovint es confon amb melancolia o amb un desig de tornar enrere, és en realitat una pregunta. Pregunta quines parts de tu han quedat fora del camí mentre anaves construint la vida que tens. Aquí explorem què hi ha darrere d'aquest enyorament que apareix entre els trenta i els cinquanta, per què no és un senyal de regressió i com pot ajudar la teràpia a convertir-lo en una pregunta amb resposta.",
-    "excerptES":
-      "Hay un tipo de añoranza que no se corresponde con una pérdida concreta. No añoras a una persona que se fue ni a un lugar que dejaste: añoras una manera de estar que ya no encuentras. Esta nostalgia, que a menudo se confunde con melancolía o con un deseo de volver atrás, es en realidad una pregunta. Pregunta qué partes de ti han quedado fuera del camino mientras ibas construyendo la vida que tienes. Aquí exploramos qué hay detrás de ese añoramiento que aparece entre los treinta y los cincuenta, por qué no es un signo de regresión y cómo puede ayudar la terapia a convertirlo en una pregunta con respuesta.",
-    "datePublished": "2026-08-16"
-  },
-  {
-    "slug": "pareja-despues-crianza-hijos-crecen-descubris-desconocidos",
-    "categoryCA": "Parella",
-    "categoryES": "Pareja",
-    "titleCA": "La parella després de la criança: quan els fills creixen i us descobriu desconeguts",
-    "titleES": "La pareja después de la crianza: cuando los hijos crecen y os descubrís desconocidos",
-    "excerptCA":
-      "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què la casa es buida i la parella es queda sola. No sempre és un buit trist: de vegades és un silenci que no sabíeu que existia, un espai on abans hi havia crisis, horaris, criatures que requerien atenció. I en aquest silenci descobriu que no us reconeixeu del tot. No és que us hàgiu deixat d'estimar: és que durant anys la relació va ser, sobretot, una gestió. Aquí explorem què passa amb la parella quan deixa de ser projecte compartit de criança i torna a ser relació entre dues persones, per què aquest moment pot ser tan desconcertant i com pot ajudar la teràpia de parella a recórrer-lo sense que es converteixi ni en ruptura ni en resignació.",
-    "excerptES":
-      "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que la casa se vacía y la pareja se queda sola. No siempre es un vacío triste: a veces es un silencio que no sabíais que existía, un espacio donde antes había crisis, horarios, criaturas que requerían atención. Y en ese silencio descubres que no os reconocéis del todo. No es que os hayáis dejado de amar: es que durante años la relación fue, sobre todo, una gestión. Aquí exploramos qué pasa con la pareja cuando deja de ser proyecto compartido de crianza y vuelve a ser relación entre dos personas, por qué ese momento puede ser tan desconcertante y cómo puede ayudar la terapia de pareja a recorrerlo sin que se convierta ni en ruptura ni en resignación.",
-    "datePublished": "2026-08-17"
-  },
-  {
-    "slug": "roles-familiares-que-sigues-habitando",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "Els rols familiars que segueixes habitant sense adonar-te'n",
-    "titleES": "Los roles familiares que sigues habitando sin darte cuenta",
-    "excerptCA":
-      "Hi ha papers que et vas aprendre fa tant de temps que ja no els reconeixes com a papers: els portes com si fossin la teva manera de ser. El responsable, el conciliador, el que sempre hi és, el que no demana res, el que fa riure perquè ningú no es posi trist. Aquests rols, que un dia van ser una manera de sobreviure dins de la família, es queden funcionant anys després, en llocs on ja no calen, amb persones que no els van demanar. Aquí explorem per què els rols de la família d'origen pesen tant a l'edat adulta, com configuren les teves relacions i la teva identitat, i com pot ajudar la teràpia a mirar-los sense que es converteixin ni en acusació ni en resignació.",
-    "excerptES":
-      "Hay papeles que te aprendiste hace tanto tiempo que ya no los reconoces como papeles: los llevas como si fueran tu manera de ser. El responsable, el conciliador, el que siempre está, el que no pide nada, el que hace reír para que nadie se ponga triste. Esos roles, que un día fueron una manera de sobrevivir dentro de la familia, se quedan funcionando años después, en lugares donde ya no hacen falta, con personas que no los pidieron. Aquí exploramos por qué los roles de la familia de origen pesan tanto en la edad adulta, cómo configuran tus relaciones y tu identidad, y cómo puede ayudar la terapia a mirarlos sin que se conviertan ni en acusación ni en resignación.",
-    "datePublished": "2026-08-18"
-  },
-  {
-    "slug": "valores-que-cambiaron-sin-avisar",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "Els valors que van canviar sense avisar: quan allò que importava ja no importa igual",
-    "titleES": "Los valores que cambiaron sin avisar: cuando lo que importaba ya no importa igual",
-    "excerptCA":
-      "Hi ha un moment, sovint a la maduresa adulta, en què t'adones que allò que et movia fa anys ja no et mou de la mateixa manera. No és una crisi espectacular: és un desplaçament silenciós. La feina que volies, el reconeixement que busques, la manera com entenies l'amor o l'èxit: tot segueix sent el mateix sobre el paper, però alguna cosa ha canviat dins. Aquí explorem per què els valors es transformen al llarg de la vida, per què aquest canvi pot generar tant desorientació com alleujament, i com pot ajudar la teràpia a habitar-lo sense que es converteixi ni en traïció al que vas ser ni en renúncia al que vols ser.",
-    "excerptES":
-      "Hay un momento, a menudo en la madurez adulta, en que te das cuenta de que aquello que te movía hace años ya no te mueve del mismo modo. No es una crisis espectacular: es un desplazamiento silencioso. El trabajo que querías, el reconocimiento que buscabas, la manera como entendías el amor o el éxito: todo sigue siendo lo mismo sobre el papel, pero algo ha cambiado dentro. Aquí exploramos por qué los valores se transforman a lo largo de la vida, por qué este cambio puede generar tanto desorientación como alivio, y cómo puede ayudar la terapia a habitarlo sin que se convierta ni en traición a lo que fuiste ni en renuncia a lo que quieres ser.",
-    "datePublished": "2026-08-19"
   }
 ];

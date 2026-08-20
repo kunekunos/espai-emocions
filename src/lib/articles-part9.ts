@@ -557,7 +557,290 @@ export const articlesPart9: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si sientes que aquello que te movía hace años ya no te mueve del mismo modo, y este desplazamiento te genera desorientación, culpa o una sensación difusa de no reconocerte, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar el cambio de sus valores sin precipitación, buscar su coherencia actual y habitarla como lo que es: un movimiento de la identidad, no una pérdida.",
-      },
-    ],
-  },
-];
+          },
+        ],
+        },
+        // ---------------------------------------------------------------------------
+        // 3. amistades-que-se-rompen-madurez-adulta (Pilar: Relaciones / Cambios vitales)
+        // ---------------------------------------------------------------------------
+        {
+        slug: "amistades-que-se-rompen-madurez-adulta",
+        categoryCA: "Relacions",
+        categoryES: "Relaciones",
+        titleCA:
+          "Les amistats que es trenquen a la maduresa adulta: quan allò que ens unia ja no sosté",
+        titleES:
+          "Las amistades que se rompen en la madurez adulta: cuando lo que nos unía ya no sostiene",
+        excerptCA:
+          "Hi ha pèrdues que no tenen nom social. Ningú no et felicita ni et consola per una amistat que s'ha esvaït als quaranta o als cinquanta. I, tanmateix, el dolor de veure com una amistat llarga deixa de tenir sentit pot ser tan profund com el d'una ruptura amorosa. Aquí explorem per què algunes amistats es trenquen a la maduresa, què hi té a veure la identitat, els valors i el context, i com pot ajudar la teràpia a recórrer aquesta pèrdua silenciosa sense convertir-la ni en culpa ni en resignació.",
+        excerptES:
+          "Hay pérdidas que no tienen nombre social. Nadie te felicita ni te consuela por una amistad que se ha desvanecido a los cuarenta o a los cincuenta. Y, sin embargo, el dolor de ver cómo una amistad larga deja de tener sentido puede ser tan profundo como el de una ruptura amorosa. Aquí exploramos por qué algunas amistades se rompen en la madurez, qué tiene que ver la identidad, los valores y el contexto, y cómo puede ayudar la terapia a recorrer esa pérdida silenciosa sin convertirla ni en culpa ni en resignación.",
+        datePublished: "2026-08-20",
+        blocksCA: [
+          {
+            type: "paragraph",
+            text: "Hi ha un tipus de pèrdua que no té cerimònia. No hi ha anells que es tornin, ni mudes que es recullin en caixes, ni una frase que anunciï el final. Una amistat de vint anys es va apagant a poc a poc —menys missatges, menys plans, més silenci entre les paraules— i un dia t'adones que fa mesos que no parles amb algú que formava part de la teva vida. I no saps ben bé quan va deixar de ser-hi. Aquesta pèrdua, per ser tan silenciosa, sol quedar sense nom. Però el dolor hi és.",
+          },
+          {
+            type: "paragraph",
+            text: "Resum de la resposta: les amistats que es trenquen a la maduresa adulta rarament es trenquen per un conflicte visible. Es trenquen perquè la identitat, els valors i el context de cada persona canvien, i aquell que ens unia deixa de sostindre la relació. No sempre hi ha un culpable. De vegades hi ha una distància que creix sense mala intenció, i el que costa no és la ruptura: és reconèixer que ja no hi ha res a tornar a.",
+          },
+          {
+            type: "heading",
+            text: "Per què les amistats de la primera maduresa es mouen",
+          },
+          {
+            type: "paragraph",
+            text: "Les amistats dels vint i dels trenta sovint es construeixen al voltant d'un context compartit: els estudis, la primera feina, els mateixos bars, les mateixes etapes. No és que l'amistat sigui superficial: és que es sosté en una combinació d'intimitat i proximitat que, quan el context canvia, deixa de funcionar igual. Un es muda de ciutat. L'altra té fills. Un canvia de feina i de ritme. L'altra entra en una relació que reorganitza el seu temps. I el que abans era natural —veure'ns, trucar-nos, explicar-nos-ho tot— comença a requerir un esforç que abans no calia.",
+          },
+          {
+            type: "paragraph",
+            text: "Aquesta distància, al començament, no és un problema. És normal que les relacions es reajustin quan la vida canvia. El problema ve quan el reajustament no es fa, quan cap de les dues parts diu el que està passant, i la distància es va instal·lant com si fos la nova normalitat. Llavors un dia t'adones que aquella persona a qui explicaves tot ja no sap gairebé res de la teva vida actual. I no és per falta d'estimació: és perquè la manera com us relacionàveu ja no existeix.",
+          },
+          {
+            type: "heading",
+            text: "La identitat que ja no coincideix",
+          },
+          {
+            type: "paragraph",
+            text: "Hi ha un altre tipus de ruptura, més subtil i sovint més dolorosa: la que passa no perquè el context canviï, sinó perquè les persones canvien. Als trenta i als quaranta, la identitat es mou. Allò que et feia riure fa deu anys potser ja no et fa riure. Allò que valoraves —la intensitat, la improvisació, la presència constant— potser ha deixat pas a una necessitat de calma, de profunditat, de menys companyia i més qualitat. I aquest canvi, que és un moviment de maduresa, també mou les relacions.",
+          },
+          {
+            type: "paragraph",
+            text: "De vegades una amistat es trenca perquè un dels dos segueix necessitant una manera de relacionar-se que l'altre ja no pot sostindre. Potser un vol seguir parlant cada nit i l'altre necessita més silenci. Potser un segueix en una fase de la vida on el que compta és sortir i gaudir, i l'altre està en un moment on el que compta és reposar i mirar endins. Cap de les dues maneres és millor. Però ja no coincideixen, i aquesta falta de coincidència, sostinguda en el temps, es converteix en distància.",
+          },
+          {
+            type: "heading",
+            text: "El que costa d'una amistat que es trenca",
+          },
+          {
+            type: "paragraph",
+            text: "El que costa no és sempre la presència que es perd: de vegades és la idea de qui érem junts. Les amistats llargues són dipositàries d'una versió de tu mateix que potser ja no existeix. La persona que eres amb aquell amic als vint-i-cinc —més lleugera, més improvisada, amb menys historial— forma part de la teva història, i perdre la relació pot sentir-se com perdre l'accés a aquella part. Això explica per què, de vegades, una amistat que fa temps que no funciona genera més dolor del que semblaria lògic: no estàs perdent només una companyia, estàs perdut un vincle que connectava amb una versió de tu que ja no és.",
+          },
+          {
+            type: "paragraph",
+            text: "Hi ha també un dolor que té a veure amb la lleialtat. Moltes persones, a la maduresa, senten que abandonar una amistat és una mena de traïció. «Em va ser-hi quan ho passava malament», «vam créixer junts», «no puc deixar-la anar així». I aquesta lleialtat, que és real i que importa, pot convertir-se en una gàbia: sostens una relació que ja no et sosté a tu, per respecte a una història que va ser, però que ja no és. La pregunta no és si vas estimar aquella persona: és si la manera com us relacioneu ara encara pertany a la vida que vols viure.",
+          },
+          {
+            type: "heading",
+            text: "Quan una amistat es trenca per un conflicte",
+          },
+          {
+            type: "paragraph",
+            text: "No totes les ruptures són silencioses. De vegades hi ha un moment: una frase, una decisió, una manera d'actuar que trenca la confiança. I aquestes ruptures, per ser més visibles, no sempre són més fàcils. Una amistat que es trenca per un conflicte pot generar ràbia, decepció, la sensació d'haver estat malentès. I, com en qualsevol pèrdua relacional, pot activar preguntes antigues: sobre qui som, sobre com ens relacionem, sobre què esperàvem de l'altre i no sabíem que esperàvem.",
+          },
+          {
+            type: "paragraph",
+            text: "El que cal mirar en aquests casos no és només què va passar, sinó què va posar en marxa. Un conflicte concret pot ser la porta per la qual entren preguntes més àmplies: sobre la nostra manera de vincular-nos, sobre els límits que no sabíem posar, sobre allò que necessitàvem i no vam saber demanar. Mirar-ho així no és justificar el que va passar: és entendre per què va pesar tant.",
+          },
+          {
+            type: "heading",
+            text: "La manca de reconeixement social",
+          },
+          {
+            type: "paragraph",
+            text: "Hi ha una cosa que fa més difícil aquesta pèrdua: no tenir un lloc on posar-la. Una ruptura amorosa té un estatut social: hi ha un duel reconegut, hi ha un nom, hi ha persones que pregunten com estàs. Una amistat que es trenca, en canvi, queda sovint en una zona sense paraules. No s'explica amb la mateixa naturalitat, no genera el mateix acompanyament, i la persona que la viu pot sentir que el seu dolor és desproporcionat o inadequat.",
+          },
+          {
+            type: "paragraph",
+            text: "Aquesta manca de reconeixement no és innocent. Fa que la persona no només hagi de recórrer la pèrdua, sinó també justificar-la. I això, sostingut en silenci, pot generar aïllament, ruminació i una sensació de no saber si el que sent és legítim. És legítim. Una amistat llarga és una relació amb profunditat, amb història, amb un vincle que ha sostingut parts de la teva vida. Perdre-la és una pèrdua real, i mirar-la com a tal és la primera condició per poder recórrer-la.",
+          },
+          {
+            type: "heading",
+            text: "Com es mira una amistat trencada en teràpia",
+          },
+          {
+            type: "paragraph",
+            text: "Mirar una amistat trencada en teràpia no consisteix a decidir qui tenia raó. Consisteix a entendre què va significar aquella relació, quina part de tu hi era dipositada, i què necessites ara que ja no hi és. De vegades això implica reconèixer que la relació ja no tenia sentit i que la seva pèrdua, per dolorosa que sigui, també és un moviment de coherència. De vegades implica mirar si hi ha alguna cosa que encara es pot dir, algun malentès que encara té reparació. I de vegades implica, simplement, deixar-se sentir el dolor d'un vincle que ja no hi és, sense precipitar-se a resoldre'l.",
+          },
+          {
+            type: "paragraph",
+            text: "La teràpia pot ajudar a distingir entre una amistat que es pot reanimar i una que ha complert el seu cicle. No totes les relacions estan fetes per durar sempre: algunes pertanyen a una etapa, i això no les fa menys vàlides. El que importa no és si la relació continua: és si la manera com la tanques —o com la deixes anar— és coherent amb qui ets i amb el que aquella relació va significar.",
+          },
+          {
+            type: "heading",
+            text: "El que no és tancar una amistat",
+          },
+          {
+            type: "paragraph",
+            text: "Tancar una amistat no és necessàriament tallar-la. Hi ha relacions que no requereixen una ruptura declarada: simplement es redueixen, es reajusten, passen a un altre lloc en la teva vida. I això, de vegades, és el més madur. No totes les amistats necessiten la mateixa intensitat per tenir sentit. Hi ha amistats que es converteixen en presències més espaiades però no menys autèntiques, i aquesta transformació no és una pèrdua: és un canvi de forma.",
+          },
+          {
+            type: "paragraph",
+            text: "El que sí que cal evitar és el silenci que es confon amb tancament. Deixar de parlar amb algú sense dir per què, sense reconèixer el que va ser, sense donar cap lloc al que va passar, no és tancar: és fugir. I aquesta fugida, per còmoda que sigui a curt termini, deixa la pèrdua sense recórrer. La maduresa no és no perdre relacions: és perdre-les d'una manera que et permeti seguir endavant sense portar-les com un pes que no es va mirar.",
+          },
+          {
+            type: "heading",
+            text: "El moment de buscar acompanyament",
+          },
+          {
+            type: "paragraph",
+            text: "No totes les amistats que es mouen necessiten un procés terapèutic. Hi ha pèrdues que es recorren amb el temps, amb altres relacions, amb la vida mateixa. Però quan una amistat trencada genera un dolor que no acaba de marxar, quan activa preguntes sobre qui ets i com et relaciones, o quan se suma a altres pèrdues i comença a pesar com un conjunt, té sentit buscar un espai on mirar-ho. No perquè estiguis malament: perquè hi ha coses que es veuen millor amb algú al costat que amb un mateix.",
+          },
+          {
+            type: "paragraph",
+            text: "La teràpia no et retornarà l'amistat: et donarà la possibilitat de mirar què va significar, què va sostendre, què et va ensenyar sobre tu mateix, i què necessites ara. I aquesta mirada, feta amb temps i amb companyia, és la que permet que una pèrdua silenciosa deixi de pesar com un pes i torni a ser el que és: una part de la teva història, no una ferida oberta.",
+          },
+          {
+            type: "faq",
+            items: [
+              {
+                question:
+                  "És normal sentir tant de dolor per una amistat i no per una relació de parella?",
+                answer:
+                  "Sí. L'amistat pot ser una relació tant o més llarga i profunda que una relació amorosa, i la seva pèrdua pot activar un dolor comparable. El fet que socialment tingui menys reconeixement no vol dir que pesi menys: de vegades pesa més, justament perquè no hi ha un lloc on posar-ho. Sentir dolor per una amistat trencada no és desproporcionat: és la resposta natural a la pèrdua d'un vincle que va ser important.",
+              },
+              {
+                question:
+                  "He d'intentar recuperar l'amistat abans de donar-la per perduda?",
+                answer:
+                  "Depèn. Si la ruptura va ser per un malentès o un conflicte concret que encara té reparació, pot tenir sentit intentar-ho. Però si el que ha passat és que la relació ha deixat de tenir sentit —perquè els valors, el context o la identitat ja no coincideixen—, recuperar-la pot ser una manera de no acceptar el que ja ha passat. La pregunta no és sempre com recuperar: de vegades és com tancar amb coherència.",
+              },
+              {
+                question:
+                  "I si sóc jo qui no sap sostenir les amistats?",
+                answer:
+                  "Aquesta pregunta apareix sovint, i val la pena mirar-la. De vegades, en efecte, hi ha un patró de dificultat per sostindre relacions, i la teràpia pot ajudar a entendre'l. Però de vegades aquesta pregunta apareix com culpa: com una manera d'assumir tota la responsabilitat d'alguna cosa que va ser entre dos. Distingir entre un patró propi i un moviment de la relació és part del treball, i no sempre es veu clar des de dins.",
+              },
+            ],
+          },
+          {
+            type: "paragraph",
+            text: "Si una amistat que va ser important s'ha trencat o s'està apagant, i aquesta pèrdua et genera dolor, confusió o preguntes sobre com et relaciones, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar les seves relacions, comprendre què han significat i recórrer les seves pèrdues sense precipitació, buscant la coherència entre allò que van ser i allò que ja no és.",
+          },
+        ],
+        blocksES: [
+          {
+            type: "paragraph",
+            text: "Hay un tipo de pérdida que no tiene ceremonia. No hay anillos que se devuelvan, ni mudas que se recojan en cajas, ni una frase que anuncie el final. Una amistad de veinte años se va apagando poco a poco —menos mensajes, menos planes, más silencio entre las palabras— y un día te das cuenta de que hace meses que no hablas con alguien que formaba parte de tu vida. Y no sabes muy bien cuándo dejó de estar. Esta pérdida, por ser tan silenciosa, suele quedar sin nombre. Pero el dolor está.",
+          },
+          {
+            type: "paragraph",
+            text: "Resumen de la respuesta: las amistades que se rompen en la madurez adulta raramente se rompen por un conflicto visible. Se rompen porque la identidad, los valores y el contexto de cada persona cambian, y aquello que nos unía deja de sostener la relación. No siempre hay un culpable. A veces hay una distancia que crece sin mala intención, y lo que cuesta no es la ruptura: es reconocer que ya no hay nada a lo que volver.",
+          },
+          {
+            type: "heading",
+            text: "Por qué las amistades de la primera madurez se mueven",
+          },
+          {
+            type: "paragraph",
+            text: "Las amistades de los veinte y de los treinta a menudo se construyen alrededor de un contexto compartido: los estudios, el primer trabajo, los mismos bares, las mismas etapas. No es que la amistad sea superficial: es que se sostiene en una combinación de intimidad y proximidad que, cuando el contexto cambia, deja de funcionar igual. Uno se muda de ciudad. La otra tiene hijos. Uno cambia de trabajo y de ritmo. La otra entra en una relación que reorganiza su tiempo. Y lo que antes era natural —verse, llamarse, contárselo todo— empieza a requerir un esfuerzo que antes no hacía falta.",
+          },
+          {
+            type: "paragraph",
+            text: "Esta distancia, al principio, no es un problema. Es normal que las relaciones se reajusten cuando la vida cambia. El problema viene cuando el reajuste no se hace, cuando ninguna de las dos partes dice lo que está pasando, y la distancia se va instalando como si fuera la nueva normalidad. Entonces un día te das cuenta de que aquella persona a quien lo contabas todo ya no sabe casi nada de tu vida actual. Y no es por falta de cariño: es porque la manera en que os relacionabais ya no existe.",
+          },
+          {
+            type: "heading",
+            text: "La identidad que ya no coincide",
+          },
+          {
+            type: "paragraph",
+            text: "Hay otro tipo de ruptura, más sutil y a menudo más dolorosa: la que ocurre no porque el contexto cambie, sino porque las personas cambian. A los treinta y a los cuarenta, la identidad se mueve. Aquello que te hacía reír hace diez años quizá ya no te hace reír. Aquello que valorabas —la intensidad, la improvisación, la presencia constante— quizá ha dejado paso a una necesidad de calma, de profundidad, de menos compañía y más calidad. Y este cambio, que es un movimiento de madurez, también mueve las relaciones.",
+          },
+          {
+            type: "paragraph",
+            text: "A veces una amistad se rompe porque uno de los dos sigue necesitando una manera de relacionarse que el otro ya no puede sostener. Quizá uno quiere seguir hablando cada noche y el otro necesita más silencio. Quizá uno sigue en una fase de la vida donde lo que cuenta es salir y disfrutar, y el otro está en un momento donde lo que cuenta es reposar y mirar hacia dentro. Ninguna de las dos maneras es mejor. Pero ya no coinciden, y esta falta de coincidencia, sostenida en el tiempo, se convierte en distancia.",
+          },
+          {
+            type: "heading",
+            text: "Lo que cuesta de una amistad que se rompe",
+          },
+          {
+            type: "paragraph",
+            text: "Lo que cuesta no es siempre la presencia que se pierde: a veces es la idea de quiénes éramos juntos. Las amistades largas son depositarias de una versión de ti mismo que quizá ya no existe. La persona que eras con aquel amigo a los veinticinco —más ligera, más improvisada, con menos historial— forma parte de tu historia, y perder la relación puede sentirse como perder el acceso a aquella parte. Esto explica por qué, a veces, una amistad que hace tiempo que no funciona genera más dolor del que parecería lógico: no estás perdiendo solo una compañía, estás perdiendo un vínculo que conectaba con una versión de ti que ya no es.",
+          },
+          {
+            type: "paragraph",
+            text: "Hay también un dolor que tiene que ver con la lealtad. Muchas personas, en la madurez, sienten que abandonar una amistad es una especie de traición. «Estuvo cuando lo pasaba mal», «crecimos juntos», «no puedo dejarla ir así». Y esta lealtad, que es real y que importa, puede convertirse en una jaula: sostienes una relación que ya no te sostiene a ti, por respeto a una historia que fue, pero que ya no es. La pregunta no es si quisiste a aquella persona: es si la manera en que os relacionáis ahora todavía pertenece a la vida que quieres vivir.",
+          },
+          {
+            type: "heading",
+            text: "Cuando una amistad se rompe por un conflicto",
+          },
+          {
+            type: "paragraph",
+            text: "No todas las rupturas son silenciosas. A veces hay un momento: una frase, una decisión, una manera de actuar que rompe la confianza. Y estas rupturas, por ser más visibles, no siempre son más fáciles. Una amistad que se rompe por un conflicto puede generar rabia, decepción, la sensación de haber sido malentendido. Y, como en cualquier pérdida relacional, puede activar preguntas antiguas: sobre quiénes somos, sobre cómo nos relacionamos, sobre qué esperábamos del otro y no sabíamos que esperábamos.",
+          },
+          {
+            type: "paragraph",
+            text: "Lo que conviene mirar en estos casos no es solo qué pasó, sino qué puso en marcha. Un conflicto concreto puede ser la puerta por la que entran preguntas más amplias: sobre nuestra manera de vincularnos, sobre los límites que no sabíamos poner, sobre aquello que necesitábamos y no supimos pedir. Mirarlo así no es justificar lo que pasó: es entender por qué pesó tanto.",
+          },
+          {
+            type: "heading",
+            text: "La falta de reconocimiento social",
+          },
+          {
+            type: "paragraph",
+            text: "Hay algo que hace más difícil esta pérdida: no tener un lugar donde ponerla. Una ruptura amorosa tiene un estatuto social: hay un duelo reconocido, hay un nombre, hay personas que preguntan cómo estás. Una amistad que se rompe, en cambio, queda a menudo en una zona sin palabras. No se explica con la misma naturalidad, no genera el mismo acompañamiento, y la persona que la vive puede sentir que su dolor es desproporcionado o inadecuado.",
+          },
+          {
+            type: "paragraph",
+            text: "Esta falta de reconocimiento no es inocente. Hace que la persona no solo tenga que recorrer la pérdida, sino también justificarla. Y esto, sostenido en silencio, puede generar aislamiento, rumiación y una sensación de no saber si lo que siente es legítimo. Es legítimo. Una amistad larga es una relación con profundidad, con historia, con un vínculo que ha sostenido partes de tu vida. Perderla es una pérdida real, y mirarla como tal es la primera condición para poder recorrerla.",
+          },
+          {
+            type: "heading",
+            text: "Cómo se mira una amistad rota en terapia",
+          },
+          {
+            type: "paragraph",
+            text: "Mirar una amistad rota en terapia no consiste en decidir quién tenía razón. Consiste en entender qué significó aquella relación, qué parte de ti estaba depositada en ella, y qué necesitas ahora que ya no está. A veces esto implica reconocer que la relación ya no tenía sentido y que su pérdida, por dolorosa que sea, también es un movimiento de coherencia. A veces implica mirar si hay algo que todavía se puede decir, algún malentendido que todavía tiene reparación. Y a veces implica, simplemente, dejarse sentir el dolor de un vínculo que ya no está, sin precipitarse a resolverlo.",
+          },
+          {
+            type: "paragraph",
+            text: "La terapia puede ayudar a distinguir entre una amistad que se puede reanimar y una que ha cumplido su ciclo. No todas las relaciones están hechas para durar siempre: algunas pertenecen a una etapa, y eso no las hace menos válidas. Lo que importa no es si la relación continúa: es si la manera en que la cierras —o en que la dejas ir— es coherente con quien eres y con lo que aquella relación significó.",
+          },
+          {
+            type: "heading",
+            text: "Lo que no es cerrar una amistad",
+          },
+          {
+            type: "paragraph",
+            text: "Cerrar una amistad no es necesariamente cortarla. Hay relaciones que no requieren una ruptura declarada: simplemente se reducen, se reajustan, pasan a otro lugar en tu vida. Y eso, a veces, es lo más maduro. No todas las amistades necesitan la misma intensidad para tener sentido. Hay amistades que se convierten en presencias más espaciadas pero no menos auténticas, y esta transformación no es una pérdida: es un cambio de forma.",
+          },
+          {
+            type: "paragraph",
+            text: "Lo que sí conviene evitar es el silencio que se confunde con cierre. Dejar de hablar con alguien sin decir por qué, sin reconocer lo que fue, sin dar ningún lugar a lo que pasó, no es cerrar: es huir. Y esta huida, por cómoda que sea a corto plazo, deja la pérdida sin recorrer. La madurez no es no perder relaciones: es perderlas de una manera que te permita seguir adelante sin llevarlas como un peso que no se miró.",
+          },
+          {
+            type: "heading",
+            text: "El momento de buscar acompañamiento",
+          },
+          {
+            type: "paragraph",
+            text: "No todas las amistades que se mueven necesitan un proceso terapéutico. Hay pérdidas que se recorren con el tiempo, con otras relaciones, con la vida misma. Pero cuando una amistad rota genera un dolor que no acaba de irse, cuando activa preguntas sobre quién eres y cómo te relacionas, o cuando se suma a otras pérdidas y empieza a pesar como un conjunto, tiene sentido buscar un espacio donde mirarlo. No porque estés mal: porque hay cosas que se ven mejor con alguien al lado que con uno mismo.",
+          },
+          {
+            type: "paragraph",
+            text: "La terapia no te devolverá la amistad: te dará la posibilidad de mirar qué significó, qué sostuvo, qué te enseñó sobre ti mismo, y qué necesitas ahora. Y esta mirada, hecha con tiempo y con compañía, es la que permite que una pérdida silenciosa deje de pesar como un peso y vuelva a ser lo que es: una parte de tu historia, no una herida abierta.",
+          },
+          {
+            type: "faq",
+            items: [
+              {
+                question:
+                  "¿Es normal sentir tanto dolor por una amistad y no por una relación de pareja?",
+                answer:
+                  "Sí. La amistad puede ser una relación tan o más larga y profunda que una relación amorosa, y su pérdida puede activar un dolor comparable. El hecho de que socialmente tenga menos reconocimiento no quiere decir que pese menos: a veces pesa más, justamente porque no hay un lugar donde ponerlo. Sentir dolor por una amistad rota no es desproporcionado: es la respuesta natural a la pérdida de un vínculo que fue importante.",
+              },
+              {
+                question:
+                  "¿Debo intentar recuperar la amistad antes de darla por perdida?",
+                answer:
+                  "Depende. Si la ruptura fue por un malentendido o un conflicto concreto que todavía tiene reparación, puede tener sentido intentarlo. Pero si lo que ha pasado es que la relación ha dejado de tener sentido —porque los valores, el contexto o la identidad ya no coinciden—, recuperarla puede ser una manera de no aceptar lo que ya ha pasado. La pregunta no es siempre cómo recuperar: a veces es cómo cerrar con coherencia.",
+              },
+              {
+                question:
+                  "¿Y si soy yo quien no sabe sostener las amistades?",
+                answer:
+                  "Esta pregunta aparece a menudo, y vale la pena mirarla. A veces, en efecto, hay un patrón de dificultad para sostener relaciones, y la terapia puede ayudar a entenderlo. Pero a veces esta pregunta aparece como culpa: como una manera de asumir toda la responsabilidad de algo que fue entre dos. Distinguir entre un patrón propio y un movimiento de la relación es parte del trabajo, y no siempre se ve claro desde dentro.",
+              },
+            ],
+          },
+          {
+            type: "paragraph",
+            text: "Si una amistad que fue importante se ha roto o se está apagando, y esta pérdida te genera dolor, confusión o preguntas sobre cómo te relacionas, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar sus relaciones, comprender qué han significado y recorrer sus pérdidas sin precipitación, buscando la coherencia entre aquello que fueron y aquello que ya no es.",
+          },
+        ],
+        },
+        ];
