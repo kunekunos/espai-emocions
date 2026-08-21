@@ -842,5 +842,214 @@ export const articlesPart9: ArticleContent[] = [
             text: "Si una amistad que fue importante se ha roto o se está apagando, y esta pérdida te genera dolor, confusión o preguntas sobre cómo te relacionas, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar sus relaciones, comprender qué han significado y recorrer sus pérdidas sin precipitación, buscando la coherencia entre aquello que fueron y aquello que ya no es.",
           },
         ],
-        },
-        ];
+      },
+      // ---------------------------------------------------------------------------
+      // 4. envidia-silenciosa-madurez-adulta (Pilar: Identidad / Madurez)
+      // ---------------------------------------------------------------------------
+      {
+        slug: "envidia-silenciosa-madurez-adulta",
+        categoryCA: "Identitat",
+        categoryES: "Identidad",
+        titleCA:
+          "L'enveja silenciosa a la maduresa adulta: quan mirar als altres et separa de tu",
+        titleES:
+          "La envidia silenciosa en la madurez adulta: cuando mirar a los demás te separa de ti",
+        excerptCA:
+          "Hi ha una emoció que gairebé ningú no anomena en veu alta: l'enveja. No la que es declara, sinó la que s'instal·la en silenci, comparant la teva vida amb la dels altres i quedant-te sempre curta. A la maduresa adulta, quan les trajectòries divergeixen i les decisions passades pesen, l'enveja pot aparèixer com un malestar difús que no saps explicar. Aquí explorem per què aquesta emoció emergeix amb força entre els quaranta i els cinquanta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en vergonya ni en resignació.",
+        excerptES:
+          "Hay una emoción que casi nadie nombra en voz alta: la envidia. No la que se declara, sino la que se instala en silencio, comparando tu vida con la de los demás y quedándote siempre corta. En la madurez adulta, cuando las trayectorias divergen y las decisiones pasadas pesan, la envidia puede aparecer como un malestar difuso que no sabes explicar. Aquí exploramos por qué esta emoción emerge con fuerza entre los cuarenta y los cincuenta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a mirarla sin que se convierta ni en vergüenza ni en resignación.",
+        datePublished: "2026-08-21",
+        blocksCA: [
+          {
+            type: "paragraph",
+            text: "Hi ha una emoció que gairebé cap persona menciona quan arriba a teràpia. No la tristesa, ni l'ansietat, ni la ràbia, que sí que troben el seu lloc en la conversa. Aquesta emoció apareix de manera indirecta, com una ombra que es pressenteix però no es diu. De vegades es presenta com un cansament davant d'altres persones, com una dificultat per alegrar-se'n d'una bona notícia que els afecta, com un buit que s'obre quan veus la vida d'algú altre des de fora i la trobes més sencera que la teva. Es diu enveja, i parlar-ne costa.",
+          },
+          {
+            type: "paragraph",
+            text: "Resum de la resposta: l'enveja a l'edat adulta no és el que ens pensem. No és cobdícia ni mesquinesa ni manca de generositat. És, gairebé sempre, una senyal que apunta cap a una part de tu que ha quedat desatesa. Quan mires la vida d'una altra persona i enveges alguna cosa concreta —no la seva situació sencera, sinó un detall, una qualitat, una manera de ser—, el que estàs fent és posar en contacte dues parts de tu: la que vas ser o la que volies ser, i la que t'has convertit. L'enveja no et separa només dels altres: et separa de tu mateix, i mirar-la amb companyia pot ser una manera de recuperar aquest contacte.",
+          },
+          {
+            type: "heading",
+            text: "Per què l'enveja apareix amb força a la maduresa",
+          },
+          {
+            type: "paragraph",
+            text: "Als vint o als trenta, la vida encara té una qualitat d'obertura. Les trajectòries no s'han consolidat, i la sensació que tot és possible serveix d'alguna manera com a protector. Als quaranta o als cinquanta, aquesta obertura s'estreny. Les decisions que has pres —la parella que has triat o no triat, la feina que has seguit o abandonat, el lloc on vius, els fills que tens o no tens— ja no són hipòtesis: són realitats que han donat forma a la teva vida. I en aquest moment, quan les trajectòries dels altres comencen a ser visiblement diferents de la teva, l'enveja troba terreny.",
+          },
+          {
+            type: "paragraph",
+            text: "No és casual que aparegui quan un company de professió aconsegueix el reconeixement que tu esperaves, quan un amic construeix una família amb una facilitat que a tu et va costar, o quan algú fa un canvi de vida que tu tantes vegades has imaginat i mai has fet. El que enveges no és la vida de l'altra persona sencera: és una part. Una part que, mirada de prop, diu alguna cosa sobre alguna cosa teva que no ha trobat el seu lloc.",
+          },
+          {
+            type: "heading",
+            text: "L'enveja com a senyal, no com a falta",
+          },
+          {
+            type: "paragraph",
+            text: "L'enveja és una emoció que produeix vergonya, i per això costa mirar-la. Sentir enveja sembla un fracàs moral, una prova de manca de generositat. Però l'enveja, en la seva forma més silenciosa, no és una falta de caràcter: és una informació. Apunta cap a un desig que no ha estat escoltat, cap a una decisió que no es va prendre, cap a una part de tu que va quedar en espera i que ara, veient-la reflectida en la vida d'un altre, reclama atenció.",
+          },
+          {
+            type: "paragraph",
+            text: "Quan una persona diu, en teràpia, que enveja un amic que va marxar a viure fora, o una companya que va canviar de professió, o una veïna que sembla tenir una relació de parella més viva que la seva, el primer que convé fer no és jutjar aquesta enveja sinó preguntar-se què està tocant. Perquè l'enveja, mirada amb atenció, gairebé sempre revela un desig propi que s'ha silenciat. I aquest desig, quan finalment es escolta, no sempre demana ser satisfet: de vegades demana només ser reconegut, ser tingut en compte, deixar de ser negat.",
+          },
+          {
+            type: "heading",
+            text: "Quan l'enveja es queda en comparació",
+          },
+          {
+            type: "paragraph",
+            text: "Hi ha un moviment que fa l'enveja quan no es mira: en lloc d'apuntar cap a tu, et fica en un bucle de comparació. Comences a mesurar la teva vida amb la regla de la vida dels altres, i la teva sempre queda curta. No perquè la teva vida sigui pitjor, sinó perquè la comparació tria els elements que tu no tens i els posa al costat dels que ells sí que tenen. És una comparació injusta per definició, perquè mai compara el que tu tens amb el que ells no tenen.",
+          },
+          {
+            type: "paragraph",
+            text: "Aquesta comparació, sostinguda en el temps, genera un efecte secundari que és potser el més dolorós: et separa de la teva pròpia vida. En lloc d'habitar el que tens, el que has construït, el que has triat o sofert, comences a viure en relació a una imatge externa. La teva vida deixa de ser una realitat pròpia i es converteix en una mesura respecte a una altra. I aquesta manera d'habitar, que sembla inofensiva, va buidant la vida des de dins: no perquè la vida sigui buida, sinó perquè l'has deixat d'habitar.",
+          },
+          {
+            type: "heading",
+            text: "Mirar l'enveja sense vergonya",
+          },
+          {
+            type: "paragraph",
+            text: "La teràpia no té com a objectiu eliminar l'enveja. Tampoc no la jutja. La seva feina és més fina: ajudar-te a mirar què hi ha darrere. Quan sents enveja, què estàs envejant exactament? No la vida sencera de l'altra persona, segurament. Un aspecte, una qualitat, una manera d'estar. I aquest aspecte, mirat amb calma, diu alguna cosa sobre tu: sobre alguna cosa que volies i no et vas atrevir a buscar, sobre una part que va quedar pendent, sobre una decisió que encara no s'ha tancat.",
+          },
+          {
+            type: "paragraph",
+            text: "Mirar això no és còmode. Implica reconèixer desigs que potser t'amagues, decisions que no vas prendre, o parts de tu que vas marginar perquè no encaixaven en la vida que t'havies construït. Però aquesta mirada, feta amb companyia i sense pressa, és la que permet que l'enveja deixi de ser una comparació que et separa i es converteixi en una informació que t'orienta. No sempre t'indicarà que has de canviar de vida: de vegades t'indicarà només que has de fer més lloc a alguna cosa que ja hi és però que no t'has permès viure.",
+          },
+          {
+            type: "heading",
+            text: "La part que ningú no explica",
+          },
+          {
+            type: "paragraph",
+            text: "Hi ha un aspecte de l'enveja que rarament es menciona: la que sentim cap a persones que no coneixem. La figura pública que sembla viure amb més coherència, l'escriptor que sembla haver trobat la seva veu, la persona que veiem de lluny i que representa alguna cosa que nosaltres no ens atrevim a ser. Aquesta enveja, que pot semblar irracional perquè no es basa en un vincle real, és potser la més reveladora: perquè el que enveges en algú que no coneixes és gairebé sempre una qualitat que tu portes dins i que no has deixat sortir.",
+          },
+          {
+            type: "paragraph",
+            text: "No és que vulguis ser aquesta persona. És que hi ha alguna cosa en ella que reconeixes com a teva, com una part que va quedar en potència i que no s'ha fet realitat. I l'enveja, en aquests casos, funciona com un missatge que ve de tu cap a tu, passant per la imatge d'un altre. Mirar-la així canvia la qüestió: ja no és «per què aquesta persona té el que jo vull», sinó «què m'està dient aquesta enveja sobre alguna cosa meva que encara no he atès».",
+          },
+          {
+            type: "faq",
+            items: [
+              {
+                question: "Sentir enveja em fa ser una mala persona?",
+                answer:
+                  "No. L'enveja és una emoció humana universal, i sentir-la no diu res sobre la teva vàlua moral. El que sí que pot generar patiment és jutjar-te per sentirla, amagar-la i deixar que operi en silenci sense mirar-la. Reconèixer l'enveja no et fa peor: et fa honest amb tu mateix, i aquesta honestesa és el primer pas perquè l'emoció deixi de pesar com una culpa i es converteixi en una informació útil.",
+              },
+              {
+                question:
+                  "Com sé si l'enveja em diu que he de canviar alguna cosa o si només és comparació?",
+                answer:
+                  "Aquesta distinció és part del que es treballa. Una pista útil: si l'enveja es queda en la comparació superficial —la feina, la casa, l'aspecte— sol ser comparació. Si apunta cap a una qualitat més profunda —una manera de viure, una coherència, una llibertat interior— sol ser una senyal que hi ha alguna cosa teva que demana atenció. La teràpia ajuda a distingir entre les dues i a mirar què hi ha darrere sense precipitar-se.",
+              },
+              {
+                question:
+                  "És veritat que de vegades l'enveja indica que he de fer un canvi important?",
+                answer:
+                  "A vegades sí, però no sempre. L'enveja pot indicar un canvi extern —de feina, de relació, de lloc—, però també pot indicar un canvi intern: fer més lloc a una part de tu que has marginat, deixar de negar un desig, o reconciliar-te amb una decisió que vas prendre i que encara no has habital plenament. No totes les envegies demanen un canvi de vida: algunes demanen un canvi de relació amb tu mateix.",
+              },
+            ],
+          },
+          {
+            type: "paragraph",
+            text: "Si sent una enveja que no s'acaba de comprendre, si la comparació amb els altres t'està separant de la teva pròpia vida, o si hi ha alguna part de tu que sents que ha quedat desatesa i que ara reclama atenció, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar el que senten amb honestesa, comprendre què hi ha darrere i recuperar el contacte amb la vida que és seva, no amb la que imaginen que haurien de tenir.",
+          },
+        ],
+        blocksES: [
+          {
+            type: "paragraph",
+            text: "Hay una emoción que casi nadie menciona cuando llega a terapia. No la tristeza, ni la ansiedad, ni la rabia, que sí encuentran su lugar en la conversa. Esta emoción aparece de manera indirecta, como una sombra que se presiente pero no se dice. A veces se presenta como un cansancio ante otras personas, como una dificultad para alegrarte de una buena noticia que les afecta, como un vacío que se abre cuando ves la vida de alguien desde fuera y la encuentras más entera que la tuya. Se llama envidia, y hablar de ella cuesta.",
+          },
+          {
+            type: "paragraph",
+            text: "Resumen de la respuesta: la envidia en la edad adulta no es lo que pensamos. No es codicia ni mezquindad ni falta de generosidad. Es, casi siempre, una señal que apunta hacia una parte de ti que ha quedado desatendida. Cuando miras la vida de otra persona y envidias algo concreto —no su situación entera, sino un detalle, una cualidad, una manera de ser—, lo que estás haciendo es poner en contacto dos partes de ti: la que fuiste o la que querías ser, y la que te has convertido. La envidia no te separa solo de los demás: te separa de ti mismo, y mirarla con compañía puede ser una manera de recuperar ese contacto.",
+          },
+          {
+            type: "heading",
+            text: "Por qué la envidia aparece con fuerza en la madurez",
+          },
+          {
+            type: "paragraph",
+            text: "A los veinte o a los treinta, la vida todavía tiene una cualidad de apertura. Las trayectorias no se han consolidado, y la sensación de que todo es posible sirve de alguna manera como protector. A los cuarenta o a los cincuenta, esa apertura se estrecha. Las decisiones que has tomado —la pareja que has elegido o no elegido, el trabajo que has seguido o abandonado, el lugar donde vives, los hijos que tienes o no tienes— ya no son hipótesis: son realidades que han dado forma a tu vida. Y en ese momento, cuando las trayectorias de los demás comienzan a ser visiblemente diferentes de la tuya, la envidia encuentra terreno.",
+          },
+          {
+            type: "paragraph",
+            text: "No es casual que aparezca cuando un compañero de profesión consigue el reconocimiento que tú esperabas, cuando un amigo construye una familia con una facilidad que a ti te costó, o cuando alguien hace un cambio de vida que tú tantas veces has imaginado y nunca has hecho. Lo que envidias no es la vida de la otra persona entera: es una parte. Una parte que, mirada de cerca, dice algo sobre algo tuyo que no ha encontrado su lugar.",
+          },
+          {
+            type: "heading",
+            text: "La envidia como señal, no como falta",
+          },
+          {
+            type: "paragraph",
+            text: "La envidia es una emoción que produce vergüenza, y por eso cuesta mirarla. Sentir envidia parece un fracaso moral, una prueba de falta de generosidad. Pero la envidia, en su forma más silenciosa, no es una falta de carácter: es una información. Apunta hacia un deseo que no ha sido escuchado, hacia una decisión que no se tomó, hacia una parte de ti que quedó en espera y que ahora, viéndola reflejada en la vida de otro, reclama atención.",
+          },
+          {
+            type: "paragraph",
+            text: "Cuando una persona dice, en terapia, que envidia a un amigo que se fue a vivir fuera, o a una compañera que cambió de profesión, o a una vecina que parece tener una relación de pareja más viva que la suya, lo primero que conviene hacer no es juzgar esa envidia sino preguntarse qué está tocando. Porque la envidia, mirada con atención, casi siempre revela un deseo propio que se ha silenciado. Y ese deseo, cuando finalmente se escucha, no siempre demanda ser satisfecho: a veces demanda solo ser reconocido, ser tenido en cuenta, dejar de ser negado.",
+          },
+          {
+            type: "heading",
+            text: "Cuando la envidia se queda en comparación",
+          },
+          {
+            type: "paragraph",
+            text: "Hay un movimiento que hace la envidia cuando no se mira: en lugar de apuntar hacia ti, te mete en un bucle de comparación. Comienzas a medir tu vida con la regla de la vida de los demás, y la tuya siempre queda corta. No porque tu vida sea peor, sino porque la comparación elige los elementos que tú no tienes y los pone al lado de los que ellos sí tienen. Es una comparación injusta por definición, porque nunca compara lo que tú tienes con lo que ellos no tienen.",
+          },
+          {
+            type: "paragraph",
+            text: "Esta comparación, sostenida en el tiempo, genera un efecto secundario que es quizá el más doloroso: te separa de tu propia vida. En lugar de habitar lo que tienes, lo que has construido, lo que has elegido o sufrido, comienzas a vivir en relación a una imagen externa. Tu vida deja de ser una realidad propia y se convierte en una medida respecto a otra. Y esta manera de habitar, que parece inofensiva, va vaciando la vida desde dentro: no porque la vida esté vacía, sino porque la has dejado de habitar.",
+          },
+          {
+            type: "heading",
+            text: "Mirar la envidia sin vergüenza",
+          },
+          {
+            type: "paragraph",
+            text: "La terapia no tiene como objetivo eliminar la envidia. Tampoco la juzga. Su trabajo es más fino: ayudarte a mirar qué hay detrás. Cuando sientes envidia, ¿qué estás envidiando exactamente? No la vida entera de la otra persona, seguramente. Un aspecto, una cualidad, una manera de estar. Y ese aspecto, mirado con calma, dice algo sobre ti: sobre algo que querías y no te atreviste a buscar, sobre una parte que quedó pendiente, sobre una decisión que todavía no se ha cerrado.",
+          },
+          {
+            type: "paragraph",
+            text: "Mirar esto no es cómodo. Implica reconocer deseos que quizá te escondes, decisiones que no tomaste, o partes de ti que marginaste porque no encajaban en la vida que te habías construido. Pero esta mirada, hecha con compañía y sin prisa, es la que permite que la envidia deje de ser una comparación que te separa y se convierta en una información que te orienta. No siempre te indicará que debes cambiar de vida: a veces te indicará solo que debes hacer más lugar a algo que ya está pero que no te has permitido vivir.",
+          },
+          {
+            type: "heading",
+            text: "La parte que nadie explica",
+          },
+          {
+            type: "paragraph",
+            text: "Hay un aspecto de la envidia que raramente se menciona: la que sentimos hacia personas que no conocemos. La figura pública que parece vivir con más coherencia, el escritor que parece haber encontrado su voz, la persona que vemos de lejos y que representa algo que nosotros no nos atrevemos a ser. Esta envidia, que puede parecer irracional porque no se basa en un vínculo real, es quizá la más reveladora: porque lo que envidias en alguien que no conoces es casi siempre una cualidad que tú llevas dentro y que no has dejado salir.",
+          },
+          {
+            type: "paragraph",
+            text: "No es que quieras ser esa persona. Es que hay algo en ella que reconoces como tuyo, como una parte que quedó en potencia y que no se ha hecho realidad. Y la envidia, en estos casos, funciona como un mensaje que viene de ti hacia ti, pasando por la imagen de otro. Mirarla así cambia la cuestión: ya no es «por qué esta persona tiene lo que yo quiero», sino «qué me está diciendo esta envidia sobre algo mío que todavía no he atendido».",
+          },
+          {
+            type: "faq",
+            items: [
+              {
+                question: "¿Sentir envidia me hace ser una mala persona?",
+                answer:
+                  "No. La envidia es una emoción humana universal, y sentirla no dice nada sobre tu valor moral. Lo que sí puede generar sufrimiento es juzgarte por sentirla, esconderla y dejar que opere en silencio sin mirarla. Reconocer la envidia no te hace peor: te hace honesto contigo mismo, y esa honestidad es el primer paso para que la emoción deje de pesar como culpa y se convierta en una información útil.",
+              },
+              {
+                question:
+                  "¿Cómo sé si la envidia me dice que debo cambiar algo o si solo es comparación?",
+                answer:
+                  "Esta distinción es parte de lo que se trabaja. Una pista útil: si la envidia se queda en la comparación superficial —el trabajo, la casa, el aspecto— suele ser comparación. Si apunta hacia una cualidad más profunda —una manera de vivir, una coherencia, una libertad interior— suele ser una señal de que hay algo tuyo que pide atención. La terapia ayuda a distinguir entre las dos y a mirar qué hay detrás sin precipitarse.",
+              },
+              {
+                question:
+                  "¿Es verdad que a veces la envidia indica que debo hacer un cambio importante?",
+                answer:
+                  "A veces sí, pero no siempre. La envidia puede indicar un cambio externo —de trabajo, de relación, de lugar—, pero también puede indicar un cambio interno: hacer más lugar a una parte de ti que has marginado, dejar de negar un deseo, o reconciliarte con una decisión que tomaste y que todavía no has habitado plenamente. No todas las envidias piden un cambio de vida: algunas piden un cambio de relación contigo mismo.",
+              },
+            ],
+          },
+          {
+            type: "paragraph",
+            text: "Si sientes una envidia que no se acaba de comprender, si la comparación con los demás te está separando de tu propia vida, o si hay alguna parte de ti que sientes que ha quedado desatendida y que ahora reclama atención, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar lo que sienten con honestidad, comprender qué hay detrás y recuperar el contacto con la vida que es suya, no con la que imaginan que deberían tener.",
+          },
+        ],
+      },
+    ];

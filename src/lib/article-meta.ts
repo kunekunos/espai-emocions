@@ -663,6 +663,16 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-04-20"
   },
   {
+    "slug": "envidia-silenciosa-madurez-adulta",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "L'enveja silenciosa a la maduresa adulta: quan mirar als altres et separa de tu",
+    "titleES": "La envidia silenciosa en la madurez adulta: cuando mirar a los demás te separa de ti",
+    "excerptCA": "Hi ha una emoció que gairebé ningú no anomena en veu alta: l'enveja. No la que es declara, sinó la que s'instal·la en silenci, comparant la teva vida amb la dels altres i quedant-te sempre curta. A la maduresa adulta, quan les trajectòries divergeixen i les decisions passades pesen, l'enveja pot aparèixer com un malestar difús que no saps explicar. Aquí explorem per què aquesta emoció emergeix amb força entre els quaranta i els cinquanta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en vergonya ni en resignació.",
+    "excerptES": "Hay una emoción que casi nadie nombra en voz alta: la envidia. No la que se declara, sino la que se instala en silencio, comparando tu vida con la de los demás y quedándote siempre corta. En la madurez adulta, cuando las trayectorias divergen y las decisiones pasadas pesan, la envidia puede aparecer como un malestar difuso que no sabes explicar. Aquí exploramos por qué esta emoción emerge con fuerza entre los cuarenta y los cincuenta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a mirarla sin que se convierta ni en vergüenza ni en resignación.",
+    "datePublished": "2026-08-21"
+  },
+  {
     "slug": "diferencias-psicologo-psiquiatra",
     "categoryCA": "General",
     "categoryES": "General",
