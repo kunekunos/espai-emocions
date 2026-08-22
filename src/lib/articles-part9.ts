@@ -1051,5 +1051,228 @@ export const articlesPart9: ArticleContent[] = [
             text: "Si sientes una envidia que no se acaba de comprender, si la comparación con los demás te está separando de tu propia vida, o si hay alguna parte de ti que sientes que ha quedado desatendida y que ahora reclama atención, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar lo que sienten con honestidad, comprender qué hay detrás y recuperar el contacto con la vida que es suya, no con la que imaginan que deberían tener.",
           },
         ],
-      },
-    ];
+        },
+        // ---------------------------------------------------------------------------
+        // 5. perdonar-a-los-padres-adultos (Pilar: Identidad / Historia / Madurez)
+        // ---------------------------------------------------------------------------
+        {
+        slug: "perdonar-a-los-padres-adultos",
+        categoryCA: "Identitat",
+        categoryES: "Identidad",
+        titleCA:
+          "Perdonar els pares a la maduresa adulta: quan deixar de demanar-los el que no van poder donar et llibera a tu",
+        titleES:
+          "Perdonar a los padres en la madurez adulta: cuando dejar de pedirles lo que no pudieron dar te libera a ti",
+        excerptCA:
+          "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què mires els teus pares i ja no els demanes el que fa anys que esperaves. No és resignació ni és un acte generós: és el descobriment que allò que necessitaves d'ells no ho podien donar, i que seguir demanant-ho no els canvia a ells: t'immobilitza a tu. Aquí explorem què vol dir perdonar els pares a la maduresa adulta, per què no és oblidar ni justificar, i com pot ajudar la teràpia a recórrer aquest procés sense que es converteixi ni en renúncia ni en acusació.",
+        excerptES:
+          "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que miras a tus padres y ya no les pides lo que llevabas años esperando. No es resignación ni es un acto generoso: es el descubrimiento de que aquello que necesitabas de ellos no podían darlo, y que seguir pidiéndolo no los cambia a ellos: te inmoviliza a ti. Aquí exploramos qué quiere decir perdonar a los padres en la madurez adulta, por qué no es olvidar ni justificar, y cómo puede ayudar la terapia a recorrer este proceso sin que se convierta ni en renuncia ni en acusación.",
+        datePublished: "2026-08-22",
+        blocksCA: [
+          {
+            type: "paragraph",
+            text: "Hi ha una frase que moltes persones diuen quan arriben a teràpia i comencen a mirar la seva història familiar: «Encara espero que em demanin perdó». Ho diuen amb un to que barreja ràbia i tristesa, i que amaga una espera que porta anys funcionant. Esperen que un pare o una mare reconeguin el que va faltar, el que va fer mal, el que no va ser. I aquesta espera, que semblaria legíttima, es converteix amb el temps en una trampa: perquè els pares no sempre reconeixen, i la vida de qui espera queda suspesa en un rebut que mai arribarà.",
+          },
+          {
+            type: "paragraph",
+            text: "Resum de la resposta: perdonar els pares no és exculpar-los ni oblidar el que va passar. És deixar de penjar la teva llibertat del seu reconeixement. És acceptar que van ser persones amb les seves limitacions, que van fer el que van poder amb el que tenien —de vegades no prou, de vegades malament— i que allò que necessitaves d'ells no hi havia manera de demanar-ho que aparegués. Perdonar no és un regal que els fas: és una operació interna que et permet deixar de demanar-los el que no van poder donar i començar a fer-te càrrec del que necessites ara.",
+          },
+          {
+            type: "heading",
+            text: "Què vol dir perdonar els pares",
+          },
+          {
+            type: "paragraph",
+            text: "Perdonar els pares s'entén malament sovint. Es confon amb justificar el que van fer, amb minimitzar el dany, amb fer com si res no hagués passat. Però això no és perdó: és negació. I la negació no allibera: amaga el que pesa i el deixa operant sota la superfície, dirigint decisions, generant reaccions que no s'entenen.",
+          },
+          {
+            type: "paragraph",
+            text: "Perdonar, en el sentit que aquí ens interessa, és una altra cosa. És reconeixeren el que va passar —sense adornar-lo, sense suavitzar-lo— i, alhora, deixar de demanar una reparació que no vindrà. No és dir «no va passar res»: és dir «va passar, em va fer mal, i deixo de dependre que tu ho reconeixis per poder seguir». Aquesta decisió, que és interna i no requereix la participació dels pares, és una de les coses que més lliberen del procés de maduresa.",
+          },
+          {
+            type: "heading",
+            text: "Per què costa tant",
+          },
+          {
+            type: "paragraph",
+            text: "Costa perquè demanar als pares el que no van donar no és només una queixa: és una identificació. Moltes persones han construït part de la seva identitat al voltant del que els va faltar. La que mai va tenir l'atenció del seu pare i que, de gran, busca en els homes una validació que no arriba. El que va haver de fer-se adult massa aviat i que, ara, sent ràbia cap a uns pares que no van saber ser-ho. La que va aprendre que estimar era cuidar i que, per això, no suporta tenir relacions on no ha de sostenir. Aquestes identitats, que es van formar com a resposta al que faltava, no es modifiquen amb una decisió: requereixen un procés.",
+          },
+          {
+            type: "paragraph",
+            text: "Costa, també, perquè perdonar pot sentir-se com una traïció a un mateix. Com si, en deixar de demanar, estiguessis donant la raó als pares, dient que no va passar res, renunciant al dret a estar ferit. Però això parteix d'un malentès: perdonar no és tancar la ferida com si no hagués existit. És deixar de mantenir-la oberta esperant que algú altre la curi. I això, que sembla una distinció sutil, canvia tot el panorama.",
+          },
+          {
+            type: "heading",
+            text: "El perdó no és el que creus",
+          },
+          {
+            type: "paragraph",
+            text: "Hi ha una idea, molt estesa, que perdonar implica reconciliar-se. Que perdonar és tornar a la relació, deixar-la com estava, fer com si el dany no hagués passat. Però això no sempre és possible, ni sempre és saludable. Hi ha pares que no poden reconèixer el que van fer, que no tenen els recursos per mirar la seva pròpia història, que reaccionen amb ràbia o amb negació quan se'ls acosten certs temes. Perdonar-los no vol dir tornar a posar-se a la seva disposició: vol dir deixar de necessitar que canviïn per poder viure.",
+          },
+          {
+            type: "paragraph",
+            text: "Això vol dir que el perdó és possible fins i tot quan la relació amb els pares no millora. Pots perdonar des de la distància, des d'una relació limitada, fins i tot des del dol d'un pare que ja no hi és. El perdó no depèn de la resposta dels altres: depèn d'una decisió interna que, sostinguda en el temps i treballada amb acompanyament, va modificant la manera com et relacionas amb la teva història.",
+          },
+          {
+            type: "heading",
+            text: "El que no és perdonar",
+          },
+          {
+            type: "paragraph",
+            text: "Perdonar no és dir que allò que van fer estava bé. No és justificar les seves decisions, les seves absències o la manera com et van tractar. No és convertir-los en víctimes del context per exculpar-los de la responsabilitat. Van ser persones adultes que van prendre decisions, i aquestes decisions van tenir conseqüències. El perdó no esborra les conseqüències: permet que deixin de dirigir la teva vida.",
+          },
+          {
+            type: "paragraph",
+            text: "Tampoc no és un acte únic, ni una decisió que es pren un matí i queda resolta. És un procés que avança i recula, que té dies bons i dies dolents, que pot necessitar ser revisitat quan certs esdeveniments —un aniversari, una malaltia, la mort d'un dels pares— tornen a posar la qüestió sobre la taula. Perdonar els pares no és un tancament net: és una relació que es va modificant amb el temps.",
+          },
+          {
+            type: "heading",
+            text: "Què passa quan ho fas",
+          },
+          {
+            type: "paragraph",
+            text: "El que passa, quan algú deixa de penjar la seva llibertat del reconeixement dels seus pares, no és que la ràbia o la tristesa desapareguin de cop. Aquestes emocions, que van ser durant anys la manera de mantenir viu el que faltava, no se'n van en un gest. Però canvia la seva funció: deixen de ser una demanda i passen a ser un dol. I el dol, a diferència de la demanda, té un final: es recorre, es habita, es transforma.",
+          },
+          {
+            type: "paragraph",
+            text: "També canvia la relació. No sempre en el sentit que hom esperaria: de vegades millora, de vegades es manté igual, de vegades es fa més limitada. Però canvia perquè ja no està sostinguda per una espera. I això, que pot semblar poc, ho canvia tot: perquè quan deixes d'anar als teus pares a buscar allò que no et poden donar, pots començar a veure'ls per qui són —persones amb la seva història, les seves limitacions, les seves pors— i deixar d'exigir-los que siguin els pares que necessitaves i que no van poder ser.",
+          },
+          {
+            type: "faq",
+            items: [
+              {
+                question:
+                  "Perdonar els meus pares vol dir que he de mantenir una relació amb ells?",
+                answer:
+                  "No. Perdonar i reconciliar-se són dues coses diferents. Pots perdonar i, alhora, decidir que la relació no és segura o no et convé. El perdó és una operació interna que et llibera de la dependència del seu reconeixement; la forma que prengui la relació després és una decisió separada, que pots prendre des de la llibertat que el perdó et dona, no des de l'espera.",
+              },
+              {
+                question:
+                  "És normal sentir-me culpable quan intento perdonar?",
+                answer:
+                  "És molt freqüent. La culpa sol venir del fet de sentir que, en deixar de demanar, estàs traïnt una part de tu que va patir. Però el perdó no invalida el dany: el reconeix i, alhora, deixa de fer-ne una condició per viure. Que sentis culpa no vol dir que estiguis fent el mal: vol dir que estàs modificant una dinàmica que porta anys funcionant, i això sempre genera incomoditat.",
+              },
+              {
+                question:
+                  "Puc perdonar si el meu pare o la meva mare ja ha mort?",
+                answer:
+                  "Sí. De fet, és un dels processos més freqüents a la consulta. La mort no tanca necessàriament el que va quedar pendent: de vegades el deixa encara més obert, perquè ja no hi ha possibilitat de reparació. Però el perdó no necessita la presència de l'altre: necessita una feina interna que es pot fer igualment, i que de vegades és més clara quan ja no hi ha la possibilitat d'una conversa.",
+              },
+              {
+                question:
+                  "Com sé si he perdonat de veritat?",
+                answer:
+                  "No hi ha un moment exacte en què saps que has perdonat. El que sol passar és que, poc a poc, certs temes que abans et activaven intensament comencen a pesar menys. La ràbia no desapareix, però ja no dirigeix. La tristesa segueix sent-hi, però ja no és una demanda. I, sobretot, deixes de buscar en els teus pares allò que necessites, i comences a buscar-ho on realment pots trobar-ho: en tu, en les teves relacions actuals, en la teva vida.",
+              },
+            ],
+          },
+          {
+            type: "paragraph",
+            text: "Si portes anys esperant un reconeixement que no arriba, si la teva relació amb els teus pares està sostinguda per una demanda que no se sent, o si sents que allò que va faltar a la teva infantesa encara dirigeix la teva vida d'adult, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar la seva història familiar, perdonar el que necessiten perdonar i deixar de penjar la seva llibertat del reconeixement que no ve.",
+          },
+        ],
+        blocksES: [
+          {
+            type: "paragraph",
+            text: "Hay una frase que muchas personas dicen cuando llegan a terapia y empiezan a mirar su historia familiar: «Todavía espero que me pidan perdón». Lo dicen con un tono que mezcla rabia y tristeza, y que esconde una espera que lleva años funcionando. Esperan que un padre o una madre reconozcan lo que faltó, lo que dolió, lo que no fue. Y esa espera, que parecería legítima, se convierte con el tiempo en una trampa: porque los padres no siempre reconocen, y la vida de quien espera queda suspendida en un recibo que nunca llegará.",
+          },
+          {
+            type: "paragraph",
+            text: "Resumen de la respuesta: perdonar a los padres no es exculparlos ni olvidar lo que pasó. Es dejar de colgar tu libertad de su reconocimiento. Es aceptar que fueron personas con sus limitaciones, que hicieron lo que pudieron con lo que tenían —a veces no bastante, a veces mal— y que aquello que necesitabas de ellos no había manera de pedirlo que apareciera. Perdonar no es un regalo que les haces: es una operación interna que te permite dejar de pedirles lo que no pudieron dar y empezar a hacerte cargo de lo que necesitas ahora.",
+          },
+          {
+            type: "heading",
+            text: "Qué quiere decir perdonar a los padres",
+          },
+          {
+            type: "paragraph",
+            text: "Perdonar a los padres se entiende mal a menudo. Se confunde con justificar lo que hicieron, con minimizar el daño, con hacer como si nada hubiera pasado. Pero eso no es perdón: es negación. Y la negación no libera: esconde lo que pesa y lo deja operando bajo la superficie, dirigiendo decisiones, generando reacciones que no se entienden.",
+          },
+          {
+            type: "paragraph",
+            text: "Perdonar, en el sentido que aquí nos interesa, es otra cosa. Es reconocer lo que pasó —sin adornarlo, sin suavizarlo— y, al mismo tiempo, dejar de pedir una reparación que no vendrá. No es decir «no pasó nada»: es decir «pasó, me dolió, y dejo de depender de que tú lo reconozcas para poder seguir». Esa decisión, que es interna y no requiere la participación de los padres, es una de las cosas que más liberan del proceso de madurez.",
+          },
+          {
+            type: "heading",
+            text: "Por qué cuesta tanto",
+          },
+          {
+            type: "paragraph",
+            text: "Cuesta porque pedir a los padres lo que no dieron no es solo una queja: es una identificación. Muchas personas han construido parte de su identidad alrededor de lo que les faltó. La que nunca tuvo la atención de su padre y que, de adulta, busca en los hombres una validación que no llega. El que tuvo que hacerse adulto demasiado pronto y que, ahora, siente rabia hacia unos padres que no supieron serlo. La que aprendió que amar era cuidar y que, por eso, no soporta tener relaciones donde no tiene que sostener. Esas identidades, que se formaron como respuesta a lo que faltó, no se modifican con una decisión: requieren un proceso.",
+          },
+          {
+            type: "paragraph",
+            text: "Cuesta, también, porque perdonar puede sentirse como una traición a uno mismo. Como si, al dejar de pedir, estuvieras dando la razón a los padres, diciendo que no pasó nada, renunciando al derecho a estar herido. Pero eso parte de un malentendido: perdonar no es cerrar la herida como si no hubiera existido. Es dejar de mantenerla abierta esperando que alguien otro la cure. Y eso, que parece una distinción sutil, cambia todo el panorama.",
+          },
+          {
+            type: "heading",
+            text: "El perdón no es lo que crees",
+          },
+          {
+            type: "paragraph",
+            text: "Hay una idea, muy extendida, de que perdonar implica reconciliarse. Que perdonar es volver a la relación, dejarla como estaba, hacer como si el daño no hubiera pasado. Pero esto no siempre es posible, ni siempre es saludable. Hay padres que no pueden reconocer lo que hicieron, que no tienen los recursos para mirar su propia historia, que reaccionan con rabia o con negación cuando se les acercan ciertos temas. Perdonarlos no quiere decir volver a ponerse a su disposición: quiere decir dejar de necesitar que cambien para poder vivir.",
+          },
+          {
+            type: "paragraph",
+            text: "Esto significa que el perdón es posible incluso cuando la relación con los padres no mejora. Puedes perdonar desde la distancia, desde una relación limitada, incluso desde el duelo de un padre que ya no está. El perdón no depende de la respuesta de los otros: depende de una decisión interna que, sostenida en el tiempo y trabajada con acompañamiento, va modificando la manera como te relacionas con tu historia.",
+          },
+          {
+            type: "heading",
+            text: "Lo que no es perdonar",
+          },
+          {
+            type: "paragraph",
+            text: "Perdonar no es decir que aquello que hicieron estaba bien. No es justificar sus decisiones, sus ausencias o la manera como te trataron. No es convertirlos en víctimas del contexto para exculparlos de la responsabilidad. Fueron personas adultas que tomaron decisiones, y esas decisiones tuvieron consecuencias. El perdón no borra las consecuencias: permite que dejen de dirigir tu vida.",
+          },
+          {
+            type: "paragraph",
+            text: "Tampoco es un acto único, ni una decisión que se toma una mañana y queda resuelta. Es un proceso que avanza y retrocede, que tiene días buenos y días malos, que puede necesitar ser revisitado cuando ciertos acontecimientos —un aniversario, una enfermedad, la muerte de uno de los padres— vuelven a poner la cuestión sobre la mesa. Perdonar a los padres no es un cierre limpio: es una relación que se va modificando con el tiempo.",
+          },
+          {
+            type: "heading",
+            text: "Qué pasa cuando lo haces",
+          },
+          {
+            type: "paragraph",
+            text: "Lo que pasa, cuando alguien deja de colgar su libertad del reconocimiento de sus padres, no es que la rabia o la tristeza desaparezcan de golpe. Esas emociones, que fueron durante años la manera de mantener vivo lo que faltó, no se van en un gesto. Pero cambia su función: dejan de ser una demanda y pasan a ser un duelo. Y el duelo, a diferencia de la demanda, tiene un final: se recorre, se habita, se transforma.",
+          },
+          {
+            type: "paragraph",
+            text: "También cambia la relación. No siempre en el sentido que uno esperaría: a veces mejora, a veces se mantiene igual, a veces se hace más limitada. Pero cambia porque ya no está sostenida por una espera. Y eso, que puede parecer poco, lo cambia todo: porque cuando dejas de ir a tus padres a buscar aquello que no te pueden dar, puedes empezar a verlos por quienes son —personas con su historia, sus limitaciones, sus miedos— y dejar de exigirles que sean los padres que necesitabas y que no pudieron ser.",
+          },
+          {
+            type: "faq",
+            items: [
+              {
+                question:
+                  "¿Perdonar a mis padres quiere decir que tengo que mantener una relación con ellos?",
+                answer:
+                  "No. Perdonar y reconciliarse son dos cosas distintas. Puedes perdonar y, al mismo tiempo, decidir que la relación no es segura o no te conviene. El perdón es una operación interna que te libera de la dependencia de su reconocimiento; la forma que tome la relación después es una decisión separada, que puedes tomar desde la libertad que el perdón te da, no desde la espera.",
+              },
+              {
+                question:
+                  "¿Es normal sentirme culpable cuando intento perdonar?",
+                answer:
+                  "Es muy frecuente. La culpa suele venir del hecho de sentir que, al dejar de pedir, estás traicionando una parte de ti que sufrió. Pero el perdón no invalida el daño: lo reconoce y, al mismo tiempo, deja de hacerlo una condición para vivir. Que sientas culpa no quiere decir que estés haciendo algo mal: quiere decir que estás modificando una dinámica que lleva años funcionando, y eso siempre genera incomodidad.",
+              },
+              {
+                question:
+                  "¿Puedo perdonar si mi padre o mi madre ya ha muerto?",
+                answer:
+                  "Sí. De hecho, es uno de los procesos más frecuentes en consulta. La muerte no cierra necesariamente lo que quedó pendiente: a veces lo deja aún más abierto, porque ya no hay posibilidad de reparación. Pero el perdón no necesita la presencia del otro: necesita un trabajo interno que se puede hacer igualmente, y que a veces es más claro cuando ya no hay la posibilidad de una conversa.",
+              },
+              {
+                question:
+                  "¿Cómo sé si he perdonado de verdad?",
+                answer:
+                  "No hay un momento exacto en que sepas que has perdonado. Lo que suele pasar es que, poco a poco, ciertos temas que antes te activaban intensamente empiezan a pesar menos. La rabia no desaparece, pero ya no dirige. La tristeza sigue estando, pero ya no es una demanda. Y, sobre todo, dejas de buscar en tus padres aquello que necesitas, y empiezas a buscarlo donde realmente puedes encontrarlo: en ti, en tus relaciones actuales, en tu vida.",
+              },
+            ],
+          },
+          {
+            type: "paragraph",
+            text: "Si llevas años esperando un reconocimiento que no llega, si tu relación con tus padres está sostenida por una demanda que no se escucha, o si sientes que aquello que faltó en tu infancia sigue dirigiendo tu vida de adulto, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar su historia familiar, perdonar lo que necesitan perdonar y dejar de colgar su libertad del reconocimiento que no viene.",
+          },
+        ],
+        },
+        ];

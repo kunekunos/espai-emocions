@@ -673,6 +673,16 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-08-21"
   },
   {
+    "slug": "perdonar-a-los-padres-adultos",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Perdonar els pares a la maduresa adulta: quan deixar de demanar-los el que no van poder donar et llibera a tu",
+    "titleES": "Perdonar a los padres en la madurez adulta: cuando dejar de pedirles lo que no pudieron dar te libera a ti",
+    "excerptCA": "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què mires els teus pares i ja no els demanes el que fa anys que esperaves. No és resignació ni és un acte generós: és el descobriment que allò que necessitaves d'ells no ho podien donar, i que seguir demanant-ho no els canvia a ells: t'immobilitza a tu. Aquí explorem què vol dir perdonar els pares a la maduresa adulta, per què no és oblidar ni justificar, i com pot ajudar la teràpia a recórrer aquest procés sense que es converteixi ni en renúncia ni en acusació.",
+    "excerptES": "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que miras a tus padres y ya no les pides lo que llevabas años esperando. No es resignación ni es un acto generoso: es el descubrimiento de que aquello que necesitabas de ellos no podían darlo, y que seguir pidiéndolo no los cambia a ellos: te inmoviliza a ti. Aquí exploramos qué quiere decir perdonar a los padres en la madurez adulta, por qué no es olvidar ni justificar, y cómo puede ayudar la terapia a recorrer este proceso sin que se convierta ni en renuncia ni en acusación.",
+    "datePublished": "2026-08-22"
+  },
+  {
     "slug": "diferencias-psicologo-psiquiatra",
     "categoryCA": "General",
     "categoryES": "General",
