@@ -22,8 +22,8 @@ export type Landing = {
 export const landings: Landing[] = [
   {
     slug: "psicologo-barcelona",
-    seoTitle: "Psicólogo en Barcelona | Espai Emocions",
-    seoDescription: "Psicoterapia individual en Barcelona con un enfoque integrador, cercano y adaptado a tu ritmo. Primera conversación informativa de 30 min sin coste.",
+    seoTitle: "Psicólogo en Barcelona | Esteve y Carmen — Espai Emocions",
+    seoDescription: "Psicoterapia individual en Barcelona con enfoque integrador y humanista. Carmen y Esteve, psicólogos colegiados. Primera conversación de 30 min sin coste. Presencial en Sant Pau u online.",
     eyebrow: "Psicoterapia individual en Barcelona",
     title: "Un espacio donde no tienes que",
     titleAccent: "poder con todo.",
@@ -46,8 +46,8 @@ export const landings: Landing[] = [
   },
   {
     slug: "psicologo-sant-pau",
-    seoTitle: "Psicólogo en Sant Pau, Barcelona | Espai Emocions",
-    seoDescription: "Centro de psicología junto a Sant Pau–Dos de Maig. Terapia individual, familiar y de pareja, presencial u online. Atención personal.",
+    seoTitle: "Psicólogo en Sant Pau, Barcelona | Centro Espai Emocions",
+    seoDescription: "Centro de psicología junto a Sant Pau–Dos de Maig, Barcelona. Terapia individual, de pareja y familiar con psicólogos colegiados. Presencial u online. Cita previa.",
     eyebrow: "Centro de psicología en Sant Pau · Dos de Maig",
     title: "Ayuda psicológica cercana, también",
     titleAccent: "en el sentido literal.",
@@ -70,8 +70,8 @@ export const landings: Landing[] = [
   },
   {
     slug: "terapia-ansiedad-barcelona",
-    seoTitle: "Terapia para la ansiedad en Barcelona | Espai Emocions",
-    seoDescription: "Psicoterapia para ansiedad y estrés en Barcelona. Comprende lo que te ocurre y recupera margen con acompañamiento profesional.",
+    seoTitle: "Terapia para la ansiedad en Barcelona | Psicólogo Espai Emocions",
+    seoDescription: "Psicoterapia para ansiedad, estrés y worry en Barcelona. Comprende qué mantiene tu ansiedad y recupera calma con acompañamiento profesional. Presencial u online.",
     eyebrow: "Terapia para la ansiedad en Barcelona",
     title: "Que la ansiedad no decida",
     titleAccent: "por ti.",
@@ -94,8 +94,8 @@ export const landings: Landing[] = [
   },
   {
     slug: "terapia-pareja-barcelona",
-    seoTitle: "Terapia de pareja en Barcelona | Espai Emocions",
-    seoDescription: "Terapia de pareja en Barcelona para mejorar la comunicación, afrontar conflictos y comprender el vínculo. Un espacio neutral.",
+    seoTitle: "Terapia de pareja en Barcelona | Psicólogos Espai Emocions",
+    seoDescription: "Terapia de pareja en Barcelona para mejorar la comunicación, afrontar conflictos y fortalecer el vínculo. Espacio neutral con psicólogos colegiados. Presencial u online.",
     eyebrow: "Terapia de pareja en Barcelona",
     title: "No se trata de ganar la discusión, sino de",
     titleAccent: "recuperar el diálogo.",
@@ -166,8 +166,8 @@ export const landings: Landing[] = [
   },
   {
     slug: "crisis-vital-barcelona",
-    seoTitle: "Terapia para crisis vitales en Barcelona | Espai Emocions",
-    seoDescription: "Psicoterapia para transiciones, bloqueos y crisis vitales en Barcelona. Comprende el cambio y recupera dirección.",
+    seoTitle: "Terapia para crisis vitales en Barcelona | Psicólogo humanista",
+    seoDescription: "Psicoterapia para crisis vitales, transiciones y pérdida de sentido en Barcelona. Comprende el cambio y recupera dirección con acompañamiento profesional.",
     eyebrow: "Crisis y transiciones vitales · Barcelona",
     title: "Cuando lo de antes ya no encaja y lo nuevo",
     titleAccent: "aún no está claro.",
@@ -190,8 +190,8 @@ export const landings: Landing[] = [
   },
   {
     slug: "estres-laboral-burnout-barcelona",
-    seoTitle: "Terapia para estrés laboral y burnout en Barcelona",
-    seoDescription: "Ayuda psicológica para estrés laboral, agotamiento y burnout en Barcelona. Recupera límites, claridad y bienestar.",
+    seoTitle: "Terapia para burnout y estrés laboral en Barcelona | Espai Emocions",
+    seoDescription: "Psicoterapia para estrés laboral, agotamiento y burnout en Barcelona. Recupera límites, claridad y bienestar con psicólogos colegiados. Presencial u online.",
     eyebrow: "Estrés laboral y agotamiento · Barcelona",
     title: "No todo se arregla aprendiendo a",
     titleAccent: "organizarte mejor.",
@@ -259,6 +259,30 @@ export const landings: Landing[] = [
       { question: "¿Puedo combinar online y presencial?", answer: "Sí. Si estás en Barcelona, podemos adaptar la modalidad cuando lo requieras." }
     ],
     whatsappText: "Hola, me gustaría pedir información sobre psicoterapia online."
+  },
+  {
+    slug: "psicoterapia-para-hombres-barcelona",
+    seoTitle: "Psicoterapia para hombres en Barcelona | Psicólogo Espai Emocions",
+    seoDescription: "Terapia psicológica para hombres en Barcelona. Ansiedad, crisis vital, identidad, relaciones y estrés laboral. Espacio seguro con psicólogo colegiado. Presencial u online.",
+    eyebrow: "Psicoterapia para hombres · Barcelona",
+    title: "Un espacio donde no tienes que",
+    titleAccent: "poder con todo.",
+    lead: "Muchos hombres llegan a terapia cuando ya llevan tiempo aguantando solos. No hace falta esperar a romperse. La psicoterapia puede ayudarte a entender lo que te pesa y a construir cambios que puedas sostener.",
+    audience: "Para hombres adultos que atraviesan ansiedad, crisis vital, burnout, dificultades de pareja, pérdida de sentido o problemas de identidad y quieren un espacio profesional sin juicios.",
+    signalsTitle: "Señales que a menudo se ignoran",
+    signalsIntro: "El malestar no siempre aparece como tristeza. A veces se cuela en la irritabilidad, el insomnio, el agotamiento o la sensación de funcionar en automático.",
+    signals: ["Te cuesta pedir ayuda o mostrarte vulnerable", "El trabajo ocupa tu mente incluso cuando descansas", "Te exiges demasiado y no te basta estar bien", "Algo no encaja pero no sabes nombrarlo"],
+    helpTitle: "Una terapia pensada contigo, no aplicada sobre ti",
+    helpIntro: "Combinamos la mirada humanista, sistémica y cognitivo-conductual para adaptar el proceso a tu historia, tus necesidades y tu ritmo. La relación terapéutica es cercana, respetuosa y libre de juicios.",
+    outcomes: ["Comprender el origen y la función de tu malestar", "Desarrollar recursos para afrontar el día a día", "Relacionarte contigo y con los demás de una forma más sana"],
+    therapist: "esteve",
+    therapistReason: "Esteve acompaña especialmente a hombres en procesos de ansiedad, crisis vitales, identidad y relaciones desde una mirada humanista e integradora.",
+    faqs: [
+      { question: "¿Es normal sentir resistencia a ir al psicólogo?", answer: "Sí. Muchos hombres llegan a consulta después de tiempo. No necesitas tenerlo todo claro para empezar." },
+      { question: "¿La terapia es presencial u online?", answer: "Puedes realizar las sesiones en nuestro centro de Sant Pau, Barcelona, o en formato online." },
+      { question: "¿Tengo que saber qué me pasa?", answer: "No. Parte de nuestro trabajo es ayudarte a poner palabras y ordenar lo que estás viviendo." }
+    ],
+    whatsappText: "Hola, me gustaría pedir información sobre psicoterapia para hombres en Barcelona."
   }
 ];
 
