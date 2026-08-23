@@ -1275,4 +1275,145 @@ export const articlesPart9: ArticleContent[] = [
           },
         ],
         },
+  // ---------------------------------------------------------------------------
+  // 6. cuando-la-terapia-mueve-tus-relaciones (Pilar: Cómo funciona la terapia)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "cuando-la-terapia-mueve-tus-relaciones",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA:
+      "Quan la teràpia comença a moure les teves relacions: l'efecte que ningú explica",
+    titleES:
+      "Cuando la terapia empieza a mover tus relaciones: el efecto que nadie explica",
+    excerptCA:
+      "Hi ha un moment que es repeteix en molts processos de teràpia. La persona porta setmanes treballant, ha començat a entendre's millor, i aleshores, sense haver-ho planejat, alguna cosa canvia fora de la consulta. Una conversa amb la parella acaba d'una manera distinta. Un cap de setmana amb la família no transcorre com sempre. Una amistat que funcionava sobre una base implícita comença a grinyolar. No és que la teràpia hagi trencat res: és que la persona que torna a les seves relacions ja no és exactament la que hi era quan va començar. Aquí explorem per què la teràpia pot transformar els teus vincles, què fer quan això genera conflicte, i com distingir el que es trenca del que es reorganitza.",
+    excerptES:
+      "Hay un momento que se repite en muchos procesos de terapia. La persona lleva semanas trabajando, ha empezado a entenderse mejor, y entonces, sin haberlo planeado, algo cambia fuera de la consulta. Una conversación con la pareja termina de un modo distinto. Un fin de semana con la familia no transcurre como siempre. Una amistad que funcionaba sobre una base implícita empieza a chirriar. No es que la terapia haya roto nada: es que la persona que vuelve a sus relaciones ya no es exactamente la que estaba en ellas cuando empezó. Aquí exploramos por qué la terapia puede transformar tus vínculos, qué hacer cuando eso genera conflicto, y cómo distinguir lo que se rompe de lo que se reorganiza.",
+    datePublished: "2026-08-23",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha un moment que es repeteix en molts processos de teràpia. La persona porta setmanes, potser mesos, treballant. Ha començat a entendre's millor, a posar paraules a coses que abans només sentia com a malestar difús. I aleshores, sense haver-ho planejat, alguna cosa canvia fora de la consulta. Una conversa amb la seva parella acaba d'una manera distinta de com hauria acabat abans. Un cap de setmana amb la seva família no transcorre com sempre. Una amistat que feia anys que funcionava sobre una base implícita comença a grinyolar.",
+      },
+      {
+        type: "paragraph",
+        text: "No és que la teràpia hagi trencat res. És que la persona que torna a les seves relacions ja no és exactament la que hi era quan va començar.",
+      },
+      {
+        type: "paragraph",
+        text: "Això, que a consulta anomenem l'efecte més freqüent de la teràpia, rarament s'explica abans de començar. La gent arriba buscant alleujament per a un símptoma, comprensió per a una crisi, ajuda per a una decisió. I es troba, a més, que el seu món relacional comença a reorganitzar-se. A vegades això és un alleujament. A vegades és desconcertant. A vegades, encara que el canvi sigui sa, fa mal.",
+      },
+      {
+        type: "heading",
+        text: "Els acords invisibles que se sostenen",
+      },
+      {
+        type: "paragraph",
+        text: "El que es mou, gairebé sempre, són els acords invisibles. Tota relació se sosté sobre un sistema d'expectatives tàcites: què s'espera de cadascú, quins temes es poden tocar i quins no, qui cedeix i qui persisteix, què es calla per no trencar l'equilibri. Aquests acords, que en el seu moment van poder ser funcionals, operen de manera automàtica. No es renegocien. I quan una persona comença a canviar —a posar límits que no posava, a expressar necessitats que no expressava, a deixar de sostenir el que va sostenir sempre— aquests acords queden exposats.",
+      },
+      {
+        type: "paragraph",
+        text: "La parella sol ser el primer lloc on es nota. La persona que comença a anomenar el que abans callava pot aparèixer, als ulls de l'altre, com algú diferent. I en cert mode ho és: no perquè hagi canviat de personalitat, sinó perquè ha deixat d'adaptar-se de l'única manera que coneixia. Si la relació tenia com a base que un sempre cedís i l'altre sempre demanés, el moment en què el que cedia comença a preguntar-se per què ho fa, la relació perd el seu motor. No necessàriament perquè s'hagi de trencar, sinó perquè ha de trobar-ne un altre.",
+      },
+      {
+        type: "paragraph",
+        text: "El mateix passa amb la família. Els rols que una persona va ocupar durant anys —el responsable, el conciliador, el que no demana res— se sostenen perquè cadascú compleix la seva part. Quan la persona que era el conciliador decideix, en teràpia, que ja no vol ser l'únic que evita el conflicte, la família ho percep com una amenaça. No perquè sigui una amenaça real, sinó perquè el sistema es desequilibra. I la pressió per tornar a la posició anterior pot ser intensa.",
+      },
+      {
+        type: "paragraph",
+        text: "També amb les amistats. Hi ha vincles que funcionen perquè es mantenen en un nivell determinat: no gaire profunds, no gaire íntims. Quan una persona, en un procés de teràpia, comença a buscar relacions on pugui mostrar-se més plenament, certes amistats poden perdre sentit. No per un conflicte explícit, sinó perquè la base sobre la qual se sostenien ja no existeix.",
+      },
+      {
+        type: "heading",
+        text: "La culpa i la por de canviar",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha qui, en viure això, sent culpa. Creuen que la teràpia els està tornant pitjors: «Abans ho aguantava i ara no puc». Però aguantar no era una virtut: era una manera de mantenir l'equilibri a costa d'una part d'un mateix. Que aquesta manera deixi de funcionar no és un retrocés. És un senyal que alguna cosa s'està movent.",
+      },
+      {
+        type: "paragraph",
+        text: "Altres senten por. Por de quedar-se sols, de perdre relacions que portaven anys, de no saber com estar amb persones que els van conèixer d'una altra manera. Aquesta por és real i mereix ser escoltada a la consulta. La teràpia no consisteix a arrasar amb tot el construït: consisteix a mirar què se sosté i què se sosté només perquè tu t'estàs sostenint de menys.",
+      },
+      {
+        type: "heading",
+        text: "El que es trenca, el que es transforma",
+      },
+      {
+        type: "paragraph",
+        text: "Algunes relacions, és cert, no sobreviuen al canvi. No perquè la teràpia les hagi destruït, sinó perquè estaven recolzades en alguna cosa que ja no hi és. Altres es transformen. Surten ferides, es reorganitzen, troben un nou equilibri que no és l'anterior però que pot ser més honest. I d'altres, les menys, emergeixen amb una proximitat que no era possible abans, perquè ara hi ha menys parts amagades.",
+      },
+      {
+        type: "paragraph",
+        text: "El que importa, en aquest punt, no és decidir quines relacions es queden i quines marxen. És sostenir el procés amb temps suficient perquè la decisió no vingui del pànic, sinó de la coherència. La teràpia, quan funciona, no et dóna un pla per reorganitzar la teva vida: et dóna un espai per mirar el que hi ha i decidir des d'un lloc més propi. I això, encara que de vegades costi, és el que permet que els canvis durin.",
+      },
+      {
+        type: "paragraph",
+        text: "Si estàs en un procés de teràpia i sents que les teves relacions s'estan movent d'una manera que et desconcerta, no és un senyal que ho estiguis fent malament. És un senyal que estàs canviant, i que el món que coneixies està demanant adaptar-se. A Espai Emocions acompanyem processos d'adults que, en mirar-se, descobreixen que també han de mirar els seus vincles. Si necessites un espai per sostenir aquest trànsit, pots sol·licitar una primera visita a la nostra pàgina de contacte.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un momento que se repite en muchos procesos de terapia. La persona lleva semanas, tal vez meses, trabajando. Ha empezado a entenderse mejor, a poner palabras a cosas que antes solo sentía como malestar difuso. Y entonces, sin haberlo planeado, algo cambia fuera de la consulta. Una conversación con su pareja termina de un modo distinto a como habría terminado antes. Un fin de semana con su familia no transcurre como siempre. Una amistad que llevaba años funcionando sobre una base implícita empieza a chirriar.",
+      },
+      {
+        type: "paragraph",
+        text: "No es que la terapia haya roto nada. Es que la persona que vuelve a sus relaciones ya no es exactamente la que estaba en ellas cuando empezó.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto, que en consulta llamamos el efecto más frecuente de la terapia, rara vez se explica antes de empezar. La gente llega buscando alivio para un síntoma, comprensión para una crisis, ayuda para una decisión. Y se encuentra, además, con que su mundo relacional empieza a reorganizarse. A veces eso es un alivio. A veces es desconcertante. A veces, aunque el cambio sea sano, duela.",
+      },
+      {
+        type: "heading",
+        text: "Los acuerdos invisibles que se sostienen",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que se mueve, casi siempre, son los acuerdos invisibles. Toda relación se sostiene sobre un sistema de expectativas tácitas: qué se espera de cada uno, qué temas se pueden tocar y cuáles no, quién cede y quién persiste, qué se calla para no romper el equilibrio. Esos acuerdos, que en su momento pudieron ser funcionales, operan de manera automática. No se renegocian. Y cuando una persona empieza a cambiar —a poner límites que no ponía, a expresar necesidades que no expresaba, a dejar de sostener lo que sostuvo siempre— esos acuerdos quedan expuestos.",
+      },
+      {
+        type: "paragraph",
+        text: "La pareja suele ser el primer lugar donde se nota. La persona que empieza a nombrar lo que antes callaba puede aparecer, a ojos del otro, como alguien distinto. Y en cierto modo lo es: no porque haya cambiado de personalidad, sino porque ha dejado de adaptarse de la única manera que conocía. Si la relación tenía como base que uno siempre cediera y el otro siempre pidiera, el momento en que el que cedía empieza a preguntarse por qué lo hace, la relación pierde su motor. No necesariamente porque vaya a romperse, sino porque tiene que encontrar otro.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo mismo pasa con la familia. Los roles que una persona ocupó durante años —el responsable, el conciliador, el que no pide nada— se sostienen porque cada uno cumple su parte. Cuando la persona que era el conciliador decide, en terapia, que ya no quiere ser el único que evita el conflicto, la familia lo percibe como una amenaza. No porque sea una amenaza real, sino porque el sistema se desequilibra. Y la presión para volver a la posición anterior puede ser intensa.",
+      },
+      {
+        type: "paragraph",
+        text: "También con las amistades. Hay vínculos que funcionan porque se mantienen en un nivel determinado: no demasiado profundos, no demasiado íntimos. Cuando una persona, en un proceso de terapia, empieza a buscar relaciones donde pueda mostrarse más plenamente, ciertas amistades pueden perder sentido. No por un conflicto explícito, sino porque la base sobre la que se sostenían ya no existe.",
+      },
+      {
+        type: "heading",
+        text: "La culpa y el miedo a cambiar",
+      },
+      {
+        type: "paragraph",
+        text: "Hay quienes, al vivir esto, sienten culpa. Creen que la terapia les está volviendo peores: «Antes lo aguantaba y ahora no puedo». Pero aguantar no era una virtud: era una manera de mantener el equilibrio a costa de una parte de uno mismo. Que esa manera deje de funcionar no es un retroceso. Es una señal de que algo se está moviendo.",
+      },
+      {
+        type: "paragraph",
+        text: "Otros sienten miedo. Miedo a quedarse solos, a perder relaciones que llevaban años, a no saber cómo estar con personas que los conocieron de otra manera. Ese miedo es real y merece ser escuchado en la consulta. La terapia no consiste en arrasar con todo lo construido: consiste en mirar qué se sostiene y qué se sostiene solo porque tú te estás sosteniendo de menos.",
+      },
+      {
+        type: "heading",
+        text: "Lo que se rompe, lo que se transforma",
+      },
+      {
+        type: "paragraph",
+        text: "Algunas relaciones, es cierto, no sobreviven al cambio. No porque la terapia las haya destruido, sino porque estaban apoyadas en algo que ya no está. Otras se transforman. Salen heridas, se reorganizan, encuentran un nuevo equilibrio que no es el anterior pero que puede ser más honesto. Y otras, las menos, emergen con una cercanía que no era posible antes, porque ahora hay menos partes escondidas.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo importante, en este punto, no es decidir qué relaciones se quedan y cuáles se van. Es sostener el proceso con tiempo suficiente para que la decisión no venga del pánico, sino de la coherencia. La terapia, cuando funciona, no te da un plan para reorganizar tu vida: te da un espacio para mirar lo que hay y decidir desde un lugar más propio. Y eso, aunque a veces cueste, es lo que permite que los cambios duren.",
+      },
+      {
+        type: "paragraph",
+        text: "Si estás en un proceso de terapia y sientes que tus relaciones se están moviendo de un modo que te desconcierta, no es señal de que estés haciéndolo mal. Es señal de que estás cambiando, y que el mundo que conocías está pidiendo adaptarse. En Espai Emocions acompañamos procesos de adultos que, al mirarse, descubren que también tienen que mirar sus vínculos. Si necesitas un espacio para sostener ese tránsito, puedes solicitar una primera visita en nuestra página de contacto.",
+      },
+    ],
+  },
         ];

@@ -683,6 +683,16 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-08-22"
   },
   {
+    "slug": "cuando-la-terapia-mueve-tus-relaciones",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Quan la teràpia comença a moure les teves relacions: l'efecte que ningú explica",
+    "titleES": "Cuando la terapia empieza a mover tus relaciones: el efecto que nadie explica",
+    "excerptCA": "Hi ha un moment que es repeteix en molts processos de teràpia. La persona porta setmanes treballant, ha començat a entendre's millor, i aleshores, sense haver-ho planejat, alguna cosa canvia fora de la consulta. Una conversa amb la parella acaba d'una manera distinta. Un cap de setmana amb la família no transcorre com sempre. Una amistat que funcionava sobre una base implícita comença a grinyolar. No és que la teràpia hagi trencat res: és que la persona que torna a les seves relacions ja no és exactament la que hi era quan va començar. Aquí explorem per què la teràpia pot transformar els teus vincles, què fer quan això genera conflicte, i com distingir el que es trenca del que es reorganitza.",
+    "excerptES": "Hay un momento que se repite en muchos procesos de terapia. La persona lleva semanas trabajando, ha empezado a entenderse mejor, y entonces, sin haberlo planeado, algo cambia fuera de la consulta. Una conversación con la pareja termina de un modo distinto. Un fin de semana con la familia no transcurre como siempre. Una amistad que funcionaba sobre una base implícita empieza a chirriar. No es que la terapia haya roto nada: es que la persona que vuelve a sus relaciones ya no es exactamente la que estaba en ellas cuando empezó. Aquí exploramos por qué la terapia puede transformar tus vínculos, qué hacer cuando eso genera conflicto, y cómo distinguir lo que se rompe de lo que se reorganiza.",
+    "datePublished": "2026-08-23"
+  },
+  {
     "slug": "diferencias-psicologo-psiquiatra",
     "categoryCA": "General",
     "categoryES": "General",
