@@ -1416,4 +1416,193 @@ export const articlesPart9: ArticleContent[] = [
       },
     ],
   },
-        ];
+  // ---------------------------------------------------------------------------
+  // 4. miedo-a-ser-visto-intimidad-adulta (Pilar: Relaciones / Identidad)
+  // ---------------------------------------------------------------------------
+  {
+  slug: "miedo-a-ser-visto-intimidad-adulta",
+  categoryCA: "Relacions",
+  categoryES: "Relaciones",
+  titleCA:
+  "La por a ser vist de prop: quan la intimitat se sent perillosa a l'edat adulta",
+  titleES:
+  "El miedo a ser visto de cerca: cuando la intimidad se siente peligrosa en la edad adulta",
+  excerptCA:
+  "Hi ha persones que han construït una vida plena per fora —feina, relacions, projectes— i que, tanmateix, mantenen la intimitat a una distància prudent. No és que no estimin ni que no vulguin estar amb ningú: és que ser vist de prop, sense màscares, sense la versió cuidada d'un mateix, els activa una resposta antiga. Aquí explorem per què la intimitat pot arribar a sentir-se perillosa, què hi té a veure la història primerenca, i com pot ajudar la teràpia a apropar-se a un mateix i als altres sense que el contacte es converteixi en amenaça.",
+  excerptES:
+  "Hay personas que han construido una vida plena por fuera —trabajo, relaciones, proyectos— y que, sin embargo, mantienen la intimidad a una distancia prudente. No es que no amen ni que no quieran estar con nadie: es que ser visto de cerca, sin máscaras, sin la versión cuidada de uno mismo, les activa una respuesta antigua. Aquí exploramos por qué la intimidad puede llegar a sentirse peligrosa, qué tiene que ver la historia temprana, y cómo puede ayudar la terapia a acercarse a uno mismo y a los demás sin que el contacto se convierta en amenaza.",
+  datePublished: "2026-08-24",
+  blocksCA: [
+  {
+    type: "paragraph",
+    text: "Hi ha una frase que apareix sovint a la consulta, dita de manera indirecta, gairebé de passada: «M'encanta estar amb gent, però necessito el meu espai». No hi ha res de dolent en aquesta frase. Moltes persones sanes la diuen. Però quan t'atures a mirar què vol dir, exactament, aquest «espai», de vegades apareix una altra cosa. No es tracta només de descansar. Es tracta de mantenir una distància. Una distància que, si s'escurça, activa alguna cosa: inquietud, irritabilitat, ganes de fugir, o un cansament sobtat que sembla no venir de enlloc.",
+  },
+  {
+    type: "paragraph",
+    text: "Això pot passar a la parella, amb els amics, també, curiosament, a la mateixa teràpia. La persona que busca ajuda per a una crisi, que vol entendre's, que porta setmanes treballant, de sobte sent que la consulta es torna massa a prop. No és que el terapeuta estigui fent res inadequat: és que la proximitat mateixa, el fet de ser mirat amb atenció sostinguda, amb interès real, comença a resultar insuportable.",
+  },
+  {
+    type: "heading",
+    text: "Què vol dir ser vist de prop",
+  },
+  {
+    type: "paragraph",
+    text: "Ser vist de prop no és només que algú conegui detalls sobre tu. Pots explicar la teva història a molta gent sense sentir-te vist. El que activa la por no és la informació: és l'atenció. És que algú et miri sense mirar cap a una altra banda, sense distreure's, sense jutjar-te de pressa ni consolar-te de pressa per sortir de la incomoditat. És la sensació de ser el centre de la mirada d'algú altre, i alhora la sensació que aquella mirada pot arribar a parts que tu mateix no vols mirar.",
+  },
+  {
+    type: "paragraph",
+    text: "Per a moltes persones, aquesta experiència no és agradable: és amenaçant. I la resposta que activa no és conscient ni voluntària. És la mateixa resposta que apareix davant d'un perill: tensar el cos, reduir la respiració, desconnectar del que se sent, buscar una sortida. El cos reacciona com si ser vist fos un risc.",
+  },
+  {
+    type: "heading",
+    text: "D'on ve aquesta resposta",
+  },
+  {
+    type: "paragraph",
+    text: "Quan aquest patró apareix a la consulta, gairebé sempre hi ha una història al darrere. No necessàriament una història de dany evident. De vegades sí. Però sovint es tracta d'alguna cosa més subtil: haver après molt d'hora que mostrar el que senties no era segur.",
+  },
+  {
+    type: "paragraph",
+    text: "Potser quan eres petit i estaves trist, et deien que no era per tant. Potser quan estaves enfadat, la resposta que rebies era que tu també ho feies malament. Potser quan et mostraves il·lusionat per alguna cosa, et feien sentir que exageraves. O potser, simplement, a casa teva no hi havia espai sostingut per al que senties: les emocions apareixien i desapareixien de pressa, i ningú es quedava amb tu dins d'elles el temps necessari perquè aprenguessis que podien ser habitades.",
+  },
+  {
+    type: "paragraph",
+    text: "Quan això passa de manera repetida, el missatge que queda no és verbal. És corporal, i diu alguna cosa com: «Si mostro el que de veritat sento, passarà alguna cosa dolenta». I la persona, que necessita adaptar-se, desenvolupa una estratègia: mostrar una versió manejable d'un mateix. La versió que agrada, que no molesta, que no exigeix gaire, que pot ser estimada sense posar a prova la paciència de ningú.",
+  },
+  {
+    type: "paragraph",
+    text: "Aquesta estratègia, en el seu moment, va ser intel·ligent. Va permetre sobreviure dins d'un context on la vulnerabilitat no tenia allotjament. El problema ve després, quan la persona adulta ja no està en aquell context, però continua fent servir la mateixa estratègia perquè no en coneix cap altra. I aleshores la vida es construeix a una distància prudent de tothom, inclosa d'un mateix.",
+  },
+  {
+    type: "heading",
+    text: "Com es veu a la vida adulta",
+  },
+  {
+    type: "paragraph",
+    text: "Aquest patró té moltes cares. A vegades es presenta com a perfeccionisme: si faig tot bé, ningú no haurà de mirar-me de prop perquè no hi haurà res a criticar. A vegades es presenta com a independència rígida: no necessito ningú per a res, i així no haig de dependre de la mirada de ningú. A vegades es presenta com a relacions curtes o superficials: quan algú s'acosta massa, la persona troba una raó per allunyar-se, sovint sense reconèixer que el motiu real és la proximitat mateixa.",
+  },
+  {
+    type: "paragraph",
+    text: "A la parella, això pot generar molt dolor. Una persona que estima la seva parella, que desitja estar-hi, però que cada vegada que la parella demana més presència, més sinceritat, més contacte emocional, se sent atrapada. No perquè no vulgui donar-ho, sinó perquè donar-ho activa la mateixa resposta que anys enrere: la sensació que si em mostro, alguna cosa dolenta passarà. I la parella, que no entén què passa, pot interpretar-ho com a rebuig, com a desinterès, com a fredor. Quan en realitat és una protecció antiga que ja no sap com desactivar.",
+  },
+  {
+    type: "heading",
+    text: "Per què la teràpia també pot fer por",
+  },
+  {
+    type: "paragraph",
+    text: "És freqüent que les persones amb aquest patró arribin a teràpia buscant ajuda per a un símptoma —ansietat, insomni, un cansament que no cedeix— i es trobin, al cap d'unes setmanes, que allò que realment els costa és la teràpia mateixa. No perquè la teràpia sigui invasiva, sinó perquè la teràpia, ben feta, és un espai on algú et mira amb atenció sostinguda. I això, per a qui va aprendre que ser vist és perillós, és la cosa més difícil que existeix.",
+  },
+  {
+    type: "paragraph",
+    text: "És per això que moltes persones abandonen la teràpia just quan comencen a sentir-se vistes. Ho fan amb raons raonables: «no és el moment», «no em sento còmode», «potser necessito una altra cosa». I potser és veritat. Però de vegades el que està passant és que el procés ha començat a apropar-se a una part que porta anys amagada, i la persona se'n allunya per instint, no per decisió.",
+  },
+  {
+    type: "paragraph",
+    text: "Un bon procés terapèutic no consisteix a forçar la proximitat. Consisteix a construir, amb temps, un espai on la persona pugui descobrir que ser vista no té per què comportar el que abans comportava. Que la mirada del terapeuta no és la mirada que va fer mal. Que el cos pot aprendre, a poc a poc, que la proximitat i la seguretat poden coexistir.",
+  },
+  {
+    type: "heading",
+    text: "Apropament sense invasió",
+  },
+  {
+    type: "paragraph",
+    text: "Treballar això no vol dir transformar-se en una persona que ho comparteix tot amb tothom. La intimitat no és un deure ni una fita: és una capacitat que es desenvolupa quan el cos confia prou per deixar baixar la guàrdia. Hi ha persones que, després d'un procés, segueixen sent reservades. Però la reserva deixa de ser una muralla automàtica i es converteix en una elecció. I aquesta diferència, encara que sembli sutil, canvia la vida.",
+  },
+  {
+    type: "paragraph",
+    text: "El canvi no és espectacular. No apareix de cop ni es nota en un dia. Apareix en moments petits: una conversa on deixes estar una frase més del que hauries deixat, un silenci amb la parella on no busques omplir-lo per evitar la presència, una demanda que fas per primera vegada sense sentir que estàs demanant massa. Moments on, sense haver-ho planejat, et mostres una mica més, i el món no es trenca.",
+  },
+  {
+    type: "paragraph",
+    text: "Si reconeixes alguna cosa d'això en tu, no és un defecte. És una manera de protegir-te que un dia va ser necessària i que potser ja no ho és. En Espai Emocions acompanyem processos d'adults que, entre altres coses, descobreixen que la proximitat no ha de ser amenaçant. Si sents que el contacte et costa d'una manera que t'afavoreix la vida, pots sol·licitar una primera visita a la nostra pàgina de contacte. No et demanarem que et mostris de cop. Només que comencis a mirar, amb calma, què passa quan t'acostes.",
+  },
+  ],
+  blocksES: [
+  {
+    type: "paragraph",
+    text: "Hay una frase que aparece a menudo en la consulta, dicha de manera indirecta, casi de pasada: «Me encanta estar con gente, pero necesito mi espacio». No hay nada malo en esa frase. Muchas personas sanas la dicen. Pero cuando te detienes a mirar qué quiere decir, exactamente, ese «espacio», a veces aparece otra cosa. No se trata solo de descansar. Se trata de mantener una distancia. Una distancia que, si se acorta, activa algo: inquietud, irritabilidad, ganas de huir, o un cansancio repentino que parece no venir de ninguna parte.",
+  },
+  {
+    type: "paragraph",
+    text: "Esto puede pasar en la pareja, con los amigos, también, curiosamente, en la propia terapia. La persona que busca ayuda para una crisis, que quiere entenderse, que lleva semanas trabajando, de pronto siente que la consulta se vuelve demasiado cerca. No es que el terapeuta esté haciendo nada inadecuado: es que la proximidad misma, el hecho de ser mirado con atención sostenida, con interés real, empieza a resultar insoportable.",
+  },
+  {
+    type: "heading",
+    text: "Qué significa ser visto de cerca",
+  },
+  {
+    type: "paragraph",
+    text: "Ser visto de cerca no es solo que alguien conozca detalles sobre ti. Puedes contar tu historia a mucha gente sin sentirte visto. Lo que activa el miedo no es la información: es la atención. Es que alguien te mire sin mirar hacia otro lado, sin distraerse, sin juzgarte rápido ni consolarte rápido para salir de la incomodidad. Es la sensación de ser el centro de la mirada de alguien más, y a la vez la sensación de que esa mirada puede alcanzar partes que tú mismo no quieres mirar.",
+  },
+  {
+    type: "paragraph",
+    text: "Para muchas personas, esa experiencia no es agradable: es amenazante. Y la respuesta que activa no es consciente ni voluntaria. Es la misma respuesta que aparece ante un peligro: tensar el cuerpo, reducir la respiración, desconectar de lo que se siente, buscar una salida. El cuerpo reacciona como si ser visto fuera un riesgo.",
+  },
+  {
+    type: "heading",
+    text: "De dónde viene esta respuesta",
+  },
+  {
+    type: "paragraph",
+    text: "Cuando este patrón aparece en la consulta, casi siempre hay una historia detrás. No necesariamente una historia de daño evidente. A veces sí. Pero a menudo se trata de algo más sutil: haber aprendido muy temprano que mostrar lo que sentías no era seguro.",
+  },
+  {
+    type: "paragraph",
+    text: "Quizá cuando eras pequeño y estabas triste, te decían que no era para tanto. Quizá cuando estabas enfadado, la respuesta que recibías era que tú también lo hacías mal. Quizá cuando te mostrabas ilusionado por algo, te hacían sentir que exagerabas. O quizá, simplemente, en tu casa no había espacio sostenido para lo que sentías: las emociones aparecían y desaparecían rápido, y nadie se quedaba contigo dentro de ellas el tiempo necesario para que aprendieras que podían ser habitadas.",
+  },
+  {
+    type: "paragraph",
+    text: "Cuando esto ocurre de manera repetida, el mensaje que queda no es verbal. Es corporal, y dice algo como: «Si muestro lo que de verdad siento, pasará algo malo». Y la persona, que necesita adaptarse, desarrolla una estrategia: mostrar una versión manejable de uno mismo. La versión que agrada, que no molesta, que no exige mucho, que puede ser querida sin poner a prueba la paciencia de nadie.",
+  },
+  {
+    type: "paragraph",
+    text: "Esa estrategia, en su momento, fue inteligente. Permitió sobrevivir dentro de un contexto donde la vulnerabilidad no tenía alojamiento. El problema viene después, cuando la persona adulta ya no está en ese contexto, pero sigue usando la misma estrategia porque no conoce ninguna otra. Y entonces la vida se construye a una distancia prudente de todos, incluida de uno mismo.",
+  },
+  {
+    type: "heading",
+    text: "Cómo se ve en la vida adulta",
+  },
+  {
+    type: "paragraph",
+    text: "Este patrón tiene muchas caras. A veces se presenta como perfeccionismo: si hago todo bien, nadie tendrá que mirarme de cerca porque no habrá nada que criticar. A veces se presenta como independencia rígida: no necesito a nadie para nada, y así no tengo que depender de la mirada de nadie. A veces se presenta como relaciones cortas o superficiales: cuando alguien se acerca demasiado, la persona encuentra una razón para alejarse, a menudo sin reconocer que el motivo real es la proximidad misma.",
+  },
+  {
+    type: "paragraph",
+    text: "En la pareja, esto puede generar mucho dolor. Una persona que ama a su pareja, que desea estar con ella, pero que cada vez que la pareja pide más presencia, más sinceridad, más contacto emocional, se siente atrapada. No porque no quiera darlo, sino porque darlo activa la misma respuesta que años atrás: la sensación de que si me muestro, algo malo pasará. Y la pareja, que no entiende qué ocurre, puede interpretarlo como rechazo, como desinterés, como frialdad. Cuando en realidad es una protección antigua que ya no sabe cómo desactivar.",
+  },
+  {
+    type: "heading",
+    text: "Por qué la terapia también puede dar miedo",
+  },
+  {
+    type: "paragraph",
+    text: "Es frecuente que las personas con este patrón lleguen a terapia buscando ayuda para un síntoma —ansiedad, insomnio, un cansancio que no cede— y se encuentren, al cabo de unas semanas, que aquello que de verdad les cuesta es la terapia misma. No porque la terapia sea invasiva, sino porque la terapia, bien hecha, es un espacio donde alguien te mira con atención sostenida. Y eso, para quien aprendió que ser visto es peligroso, es lo más difícil que existe.",
+  },
+  {
+    type: "paragraph",
+    text: "Por eso muchas personas abandonan la terapia justo cuando empiezan a sentirse vistas. Lo hacen con razones razonables: «no es el momento», «no me siento cómodo», «quizá necesite otra cosa». Y puede que sea verdad. Pero a veces lo que está ocurriendo es que el proceso ha empezado a acercarse a una parte que lleva años escondida, y la persona se aleja por instinto, no por decisión.",
+  },
+  {
+    type: "paragraph",
+    text: "Un buen proceso terapéutico no consiste en forzar la proximidad. Consiste en construir, con tiempo, un espacio donde la persona pueda descubrir que ser vista no tiene por qué comportar lo que antes comportaba. Que la mirada del terapeuta no es la mirada que hizo daño. Que el cuerpo puede aprender, poco a poco, que la cercanía y la seguridad pueden coexistir.",
+  },
+  {
+    type: "heading",
+    text: "Acercamiento sin invasión",
+  },
+  {
+    type: "paragraph",
+    text: "Trabajar esto no significa transformarse en alguien que lo comparte todo con todos. La intimidad no es un deber ni una meta: es una capacidad que se desarrolla cuando el cuerpo confía lo suficiente como para bajar la guardia. Hay personas que, tras un proceso, siguen siendo reservadas. Pero la reserva deja de ser un muro automático y se convierte en una elección. Y esa diferencia, aunque parezca sutil, cambia la vida.",
+  },
+  {
+    type: "paragraph",
+    text: "El cambio no es espectacular. No aparece de golpe ni se nota en un día. Aparece en momentos pequeños: una conversación donde dejas estar una frase más de lo que habrías dejado, un silencio con la pareja donde no buscas llenarlo para evitar la presencia, una demanda que haces por primera vez sin sentir que estás pidiendo demasiado. Momentos donde, sin haberlo planeado, te muestras un poco más, y el mundo no se rompe.",
+  },
+  {
+    type: "paragraph",
+    text: "Si reconoces algo de esto en ti, no es un defecto. Es una manera de protegerte que un día fue necesaria y que quizá ya no lo es. En Espai Emocions acompañamos procesos de adultos que, entre otras cosas, descubren que la cercanía no tiene por qué ser amenazante. Si sientes que el contacto te cuesta de un modo que te empobrece la vida, puedes solicitar una primera visita en nuestra página de contacto. No te pediremos que te muestres de golpe. Solo que comiences a mirar, con calma, qué ocurre cuando te acercas.",
+  },
+  ],
+  },
+    ];

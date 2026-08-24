@@ -13,6 +13,46 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "miedo-a-ser-visto-intimidad-adulta",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "La por a ser vist de prop: quan la intimitat se sent perillosa a l'edat adulta",
+    "titleES": "El miedo a ser visto de cerca: cuando la intimidad se siente peligrosa en la edad adulta",
+    "excerptCA": "Hi ha persones que han construït una vida plena per fora —feina, relacions, projectes— i que, tanmateix, mantenen la intimitat a una distància prudent. No és que no estimin ni que no vulguin estar amb ningú: és que ser vist de prop, sense màscares, sense la versió cuidada d'un mateix, els activa una resposta antiga. Aquí explorem per què la intimitat pot arribar a sentir-se perillosa, què hi té a veure la història primerenca, i com pot ajudar la teràpia a apropar-se a un mateix i als altres sense que el contacte es converteixi en amenaça.",
+    "excerptES": "Hay personas que han construido una vida plena por fuera —trabajo, relaciones, proyectos— y que, sin embargo, mantienen la intimidad a una distancia prudente. No es que no amen ni que no quieran estar con nadie: es que ser visto de cerca, sin máscaras, sin la versión cuidada de uno mismo, les activa una respuesta antigua. Aquí exploramos por qué la intimidad puede llegar a sentirse peligrosa, qué tiene que ver la historia temprana, y cómo puede ayudar la terapia a acercarse a uno mismo y a los demás sin que el contacto se convierta en amenaza.",
+    "datePublished": "2026-08-24"
+  },
+  {
+    "slug": "cuando-la-terapia-mueve-tus-relaciones",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Quan la teràpia comença a moure les teves relacions: l'efecte que ningú explica",
+    "titleES": "Cuando la terapia empieza a mover tus relaciones: el efecto que nadie explica",
+    "excerptCA": "Hi ha un moment que es repeteix en molts processos de teràpia. La persona porta setmanes treballant, ha començat a entendre's millor, i aleshores, sense haver-ho planejat, alguna cosa canvia fora de la consulta. Una conversa amb la parella acaba d'una manera distinta. Un cap de setmana amb la família no transcorre com sempre. Una amistat que funcionava sobre una base implícita comença a grinyolar. No és que la teràpia hagi trencat res: és que la persona que torna a les seves relacions ja no és exactament la que hi era quan va començar. Aquí explorem per què la teràpia pot transformar els teus vincles, què fer quan això genera conflicte, i com distingir el que es trenca del que es reorganitza.",
+    "excerptES": "Hay un momento que se repite en muchos procesos de terapia. La persona lleva semanas trabajando, ha empezado a entenderse mejor, y entonces, sin haberlo planeado, algo cambia fuera de la consulta. Una conversación con la pareja termina de un modo distinto. Un fin de semana con la familia no transcurre como siempre. Una amistad que funcionaba sobre una base implícita empieza a chirriar. No es que la terapia haya roto nada: es que la persona que vuelve a sus relaciones ya no es exactamente la que estaba en ellas cuando empezó. Aquí exploramos por qué la terapia puede transformar tus vínculos, qué hacer cuando eso genera conflicto, y cómo distinguir lo que se rompe de lo que se reorganiza.",
+    "datePublished": "2026-08-23"
+  },
+  {
+    "slug": "perdonar-a-los-padres-adultos",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Perdonar els pares a la maduresa adulta: quan deixar de demanar-los el que no van poder donar et llibera a tu",
+    "titleES": "Perdonar a los padres en la madurez adulta: cuando dejar de pedirles lo que no pudieron dar te libera a ti",
+    "excerptCA": "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què mires els teus pares i ja no els demanes el que fa anys que esperaves. No és resignació ni és un acte generós: és el descobriment que allò que necessitaves d'ells no ho podien donar, i que seguir demanant-ho no els canvia a ells: t'immobilitza a tu. Aquí explorem què vol dir perdonar els pares a la maduresa adulta, per què no és oblidar ni justificar, i com pot ajudar la teràpia a recórrer aquest procés sense que es converteixi ni en renúncia ni en acusació.",
+    "excerptES": "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que miras a tus padres y ya no les pides lo que llevabas años esperando. No es resignación ni es un acto generoso: es el descubrimiento de que aquello que necesitabas de ellos no podían darlo, y que seguir pidiéndolo no los cambia a ellos: te inmoviliza a ti. Aquí exploramos qué quiere decir perdonar a los padres en la madurez adulta, por qué no es olvidar ni justificar, y cómo puede ayudar la terapia a recorrer este proceso sin que se convierta ni en renuncia ni en acusación.",
+    "datePublished": "2026-08-22"
+  },
+  {
+    "slug": "envidia-silenciosa-madurez-adulta",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "L'enveja silenciosa a la maduresa adulta: quan mirar als altres et separa de tu",
+    "titleES": "La envidia silenciosa en la madurez adulta: cuando mirar a los demás te separa de ti",
+    "excerptCA": "Hi ha una emoció que gairebé ningú no anomena en veu alta: l'enveja. No la que es declara, sinó la que s'instal·la en silenci, comparant la teva vida amb la dels altres i quedant-te sempre curta. A la maduresa adulta, quan les trajectòries divergeixen i les decisions passades pesen, l'enveja pot aparèixer com un malestar difús que no saps explicar. Aquí explorem per què aquesta emoció emergeix amb força entre els quaranta i els cinquanta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en vergonya ni en resignació.",
+    "excerptES": "Hay una emoción que casi nadie nombra en voz alta: la envidia. No la que se declara, sino la que se instala en silencio, comparando tu vida con la de los demás y quedándote siempre corta. En la madurez adulta, cuando las trayectorias divergen y las decisiones pasadas pesan, la envidia puede aparecer como un malestar difuso que no sabes explicar. Aquí exploramos por qué esta emoción emerge con fuerza entre los cuarenta y los cincuenta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a mirarla sin que se convierta ni en vergüenza ni en resignación.",
+    "datePublished": "2026-08-21"
+  },
+  {
     "slug": "amistades-que-se-rompen-madurez-adulta",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
@@ -661,36 +701,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptCA": "Preus de teràpia psicològica a Barcelona. Què influeix en el cost, rangs de preus, i com triar el psicòleg adequat segons el teu pressupost.",
     "excerptES": "Precios de terapia psicológica en Barcelona. Qué influye en el coste, rangos de precios, y cómo elegir el psicólogo adecuado según tu presupuesto.",
     "datePublished": "2026-04-20"
-  },
-  {
-    "slug": "envidia-silenciosa-madurez-adulta",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "L'enveja silenciosa a la maduresa adulta: quan mirar als altres et separa de tu",
-    "titleES": "La envidia silenciosa en la madurez adulta: cuando mirar a los demás te separa de ti",
-    "excerptCA": "Hi ha una emoció que gairebé ningú no anomena en veu alta: l'enveja. No la que es declara, sinó la que s'instal·la en silenci, comparant la teva vida amb la dels altres i quedant-te sempre curta. A la maduresa adulta, quan les trajectòries divergeixen i les decisions passades pesen, l'enveja pot aparèixer com un malestar difús que no saps explicar. Aquí explorem per què aquesta emoció emergeix amb força entre els quaranta i els cinquanta, què hi té a veure la identitat i els valors, i com pot ajudar la teràpia a mirar-la sense que es converteixi ni en vergonya ni en resignació.",
-    "excerptES": "Hay una emoción que casi nadie nombra en voz alta: la envidia. No la que se declara, sino la que se instala en silencio, comparando tu vida con la de los demás y quedándote siempre corta. En la madurez adulta, cuando las trayectorias divergen y las decisiones pasadas pesan, la envidia puede aparecer como un malestar difuso que no sabes explicar. Aquí exploramos por qué esta emoción emerge con fuerza entre los cuarenta y los cincuenta, qué tiene que ver la identidad y los valores, y cómo puede ayudar la terapia a mirarla sin que se convierta ni en vergüenza ni en resignación.",
-    "datePublished": "2026-08-21"
-  },
-  {
-    "slug": "perdonar-a-los-padres-adultos",
-    "categoryCA": "Identitat",
-    "categoryES": "Identidad",
-    "titleCA": "Perdonar els pares a la maduresa adulta: quan deixar de demanar-los el que no van poder donar et llibera a tu",
-    "titleES": "Perdonar a los padres en la madurez adulta: cuando dejar de pedirles lo que no pudieron dar te libera a ti",
-    "excerptCA": "Hi ha un moment, sovint entre els quaranta i els cinquanta, en què mires els teus pares i ja no els demanes el que fa anys que esperaves. No és resignació ni és un acte generós: és el descobriment que allò que necessitaves d'ells no ho podien donar, i que seguir demanant-ho no els canvia a ells: t'immobilitza a tu. Aquí explorem què vol dir perdonar els pares a la maduresa adulta, per què no és oblidar ni justificar, i com pot ajudar la teràpia a recórrer aquest procés sense que es converteixi ni en renúncia ni en acusació.",
-    "excerptES": "Hay un momento, a menudo entre los cuarenta y los cincuenta, en que miras a tus padres y ya no les pides lo que llevabas años esperando. No es resignación ni es un acto generoso: es el descubrimiento de que aquello que necesitabas de ellos no podían darlo, y que seguir pidiéndolo no los cambia a ellos: te inmoviliza a ti. Aquí exploramos qué quiere decir perdonar a los padres en la madurez adulta, por qué no es olvidar ni justificar, y cómo puede ayudar la terapia a recorrer este proceso sin que se convierta ni en renuncia ni en acusación.",
-    "datePublished": "2026-08-22"
-  },
-  {
-    "slug": "cuando-la-terapia-mueve-tus-relaciones",
-    "categoryCA": "Com funciona la teràpia",
-    "categoryES": "Cómo funciona la terapia",
-    "titleCA": "Quan la teràpia comença a moure les teves relacions: l'efecte que ningú explica",
-    "titleES": "Cuando la terapia empieza a mover tus relaciones: el efecto que nadie explica",
-    "excerptCA": "Hi ha un moment que es repeteix en molts processos de teràpia. La persona porta setmanes treballant, ha començat a entendre's millor, i aleshores, sense haver-ho planejat, alguna cosa canvia fora de la consulta. Una conversa amb la parella acaba d'una manera distinta. Un cap de setmana amb la família no transcorre com sempre. Una amistat que funcionava sobre una base implícita comença a grinyolar. No és que la teràpia hagi trencat res: és que la persona que torna a les seves relacions ja no és exactament la que hi era quan va començar. Aquí explorem per què la teràpia pot transformar els teus vincles, què fer quan això genera conflicte, i com distingir el que es trenca del que es reorganitza.",
-    "excerptES": "Hay un momento que se repite en muchos procesos de terapia. La persona lleva semanas trabajando, ha empezado a entenderse mejor, y entonces, sin haberlo planeado, algo cambia fuera de la consulta. Una conversación con la pareja termina de un modo distinto. Un fin de semana con la familia no transcurre como siempre. Una amistad que funcionaba sobre una base implícita empieza a chirriar. No es que la terapia haya roto nada: es que la persona que vuelve a sus relaciones ya no es exactamente la que estaba en ellas cuando empezó. Aquí exploramos por qué la terapia puede transformar tus vínculos, qué hacer cuando eso genera conflicto, y cómo distinguir lo que se rompe de lo que se reorganiza.",
-    "datePublished": "2026-08-23"
   },
   {
     "slug": "diferencias-psicologo-psiquiatra",
