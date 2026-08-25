@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "la-costumbre-de-irte",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "El costum de marxar: quan la fugida s'ha convertit en la teva manera d'estar en les relacions",
+    "titleES": "La costumbre de irte: cuando la huida se ha convertido en tu forma de estar en las relaciones",
+    "excerptCA": "Hi ha persones que no es queden. No és que no vulguin estar-hi: és que alguna cosa dins seu se'n va abans que la relació tingui temps de sostenir-se. Una discussió que s'allarga, una sensació de tancament que apareix sense avisar, i ja estan planificant la sortida. Aquí explorem per què la fugida pot convertir-se en una manera automàtica d'estar en les relacions, què protegeix i què costa, i com pot ajudar la teràpia a distingir el que és una elecció del que és un reflex.",
+    "excerptES": "Hay personas que no se quedan. No es que no quieran estar: es que algo en ellas se va antes de que la relación tenga tiempo de sostenerse. Una discusión que se alarga, una sensación de encierro que aparece sin avisar, y ya están planeando la salida. Aquí exploramos por qué la huida puede convertirse en una manera automática de estar en las relaciones, qué protege y qué cuesta, y cómo puede ayudar la terapia a distinguir lo que es una elección de lo que es un reflejo.",
+    "datePublished": "2026-08-25"
+  },
+  {
     "slug": "miedo-a-ser-visto-intimidad-adulta",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",

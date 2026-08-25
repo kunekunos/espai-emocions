@@ -1605,4 +1605,217 @@ export const articlesPart9: ArticleContent[] = [
   },
   ],
   },
+  // ---------------------------------------------------------------------------
+  // 8. la-costumbre-de-irte (Pilar: Relaciones / Vínculo)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "la-costumbre-de-irte",
+    categoryCA: "Relacions",
+    categoryES: "Relaciones",
+    titleCA:
+      "El costum de marxar: quan la fugida s'ha convertit en la teva manera d'estar en les relacions",
+    titleES:
+      "La costumbre de irte: cuando la huida se ha convertido en tu forma de estar en las relaciones",
+    excerptCA:
+      "Hi ha persones que no es queden. No és que no vulguin estar-hi: és que alguna cosa dins seu se'n va abans que la relació tingui temps de sostenir-se. Una discussió que s'allarga, una sensació de tancament que apareix sense avisar, i ja estan planificant la sortida. Aquí explorem per què la fugida pot convertir-se en una manera automàtica d'estar en les relacions, què protegeix i què costa, i com pot ajudar la teràpia a distingir el que és una elecció del que és un reflex.",
+    excerptES:
+      "Hay personas que no se quedan. No es que no quieran estar: es que algo en ellas se va antes de que la relación tenga tiempo de sostenerse. Una discusión que se alarga, una sensación de encierro que aparece sin avisar, y ya están planeando la salida. Aquí exploramos por qué la huida puede convertirse en una manera automática de estar en las relaciones, qué protege y qué cuesta, y cómo puede ayudar la terapia a distinguir lo que es una elección de lo que es un reflejo.",
+    datePublished: "2026-08-25",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha persones que no es queden. No és que no vulguin estar-hi, ni que no els importi qui tenen al davant. És que alguna cosa dins seu se'n va abans que la relació tingui temps de sostenir-se. Una discussió que s'allarga, una sensació de tancament que apareix sense avisar, un dissabte al matí en què de sobte la casa sembla petita, i ja estan planificant la sortida.",
+      },
+      {
+        type: "paragraph",
+        text: "No sempre és una sortida física. A vegades el cos segueix allà, però alguna cosa de dins s'ha retirat. La conversa continua, però la persona ja no hi és del tot. La parella ho nota, els amics ho noten, i la mateixa persona ho nota, encara que rarament se'ho explica.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no és manca d'estimaci. No és immaduresa. És una manera de funcionar que es va instal·lar fa temps, i que compleix una funció: protegir del dolor que apareix quan et quedes.",
+      },
+      {
+        type: "heading",
+        text: "Una manera d'estar que s'aprèn",
+      },
+      {
+        type: "paragraph",
+        text: "La fugida no és un defecte de caràcter. És una resposta que, en algun moment de la història, va ser la millor opció disponible. Quan quedar-se significava exposar-se a alguna cosa dolorosa —a un vincle inestable, a un conflicte que no es resolia, a una presència que es tornava invasiva—, la persona va aprendre que anar-se'n era més segur que quedar-se. I aquesta lliçó, un cop apresa, es va quedar funcionant molt després que el context que la va generar hagués desaparegut.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema és que la fugida, amb el temps, deixa de ser una elecció i es converteix en un reflex. La persona no decideix anar-se'n: se'n va. No decideix desconnectar-se: es desconnecta. I en fer-ho, es priva de la possibilitat de descobrir què hauria passat si s'hagués quedat.",
+      },
+      {
+        type: "heading",
+        text: "Com es veu a la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest patró té moltes cares. A la parella, apareix com una tendència a interpretar qualsevol tensió com un senyal que la relació està en perill. Una discussió normal es converteix en un motiu per replantejar-ho tot. Un silenci de l'altre es llegeix com a distància, i la distància es llegeix com a abandonament. I abans d'esperar a veure què passa, la persona s'avança: es retira, es refreda, o se'n va.",
+      },
+      {
+        type: "paragraph",
+        text: "A la feina, es presenta com una successió de canvis que, vistos des de fora, semblen iniciativa, però que per dins responen a la mateixa dinàmica: quan alguna cosa s'aprofundeix, quan el compromís comença a exigir més presència, apareix l'impuls de buscar un altre lloc.",
+      },
+      {
+        type: "paragraph",
+        text: "A les amistats, es veu en relacions que comencen amb intensitat i es dilueixen sense que hi hagi un conflicte clar. No hi ha ruptura: hi ha una retirada gradual que ningú no sap anomenar.",
+      },
+      {
+        type: "paragraph",
+        text: "El que uneix totes aquestes formes és el mateix: la persona no se'n va perquè no vulgui estar-hi. Se'n va perquè quedar-se li activa alguna cosa que no sap gestionar.",
+      },
+      {
+        type: "heading",
+        text: "El que protegeix la fugida i el que costa",
+      },
+      {
+        type: "paragraph",
+        text: "Anar-se'n protegeix del risc de ser deixat. Si soc jo qui me'n va, conservo el control. Si soc jo qui es retira, no he d'esperar a veure si l'altre es queda. Aquesta lògica té una coherència interna difícil de discutir: es basa en una experiència real, en una ferida que en el seu moment va ensenyar que quedar-se era perillós.",
+      },
+      {
+        type: "paragraph",
+        text: "Però el que protegeix també aïlla. La persona que se'n va abans d'hora mai no arriba a saber què passa quan es queda. I com que no es queda, no té l'experiència que les relacions poden sostenir-se fins i tot en els moments difícils. Sense aquesta experiència, la fugida es reforça: sembla cada vegada més necessària perquè mai no es posa a prova.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un moment en la maduresa en què això comença a pesar. No perquè la persona hagi canviat de cop, sinó perquè la vida que ha construït a base d'anar-se'n comença a sentir-se buida. No de projectes ni d'activitat, sinó de vincles profunds. D'aquells que només es formen quan algú decideix quedar-se el temps suficient perquè la relació maduri.",
+      },
+      {
+        type: "heading",
+        text: "La diferència entre elegir anar-se'n i necessitar anar-se'n",
+      },
+      {
+        type: "paragraph",
+        text: "Quedar-se no significa aguantar el que sigui. Hi ha relacions que sí convé deixar, feines que sí convé canviar, contextos que sí convé abandonar. La qüestió no és si anar-se'n està bé o està malament. La qüestió és si la decisió d'anar-se'n neix d'una elecció lliure o d'un reflex automàtic.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan la fugida és una elecció, la persona pot sospesar, pot mirar el que deixa, pot quedar-se si vol. Quan la fugida és un reflex, la persona no elegeix: reacciona. I aquesta diferència, que sembla subtil, ho canvia tot. Perquè una elecció et fa responsable de la teva vida; un reflex te la pren.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa en teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar aquest patró en teràpia no consisteix a obligar-se a quedar-se on no es vol estar. Consisteix a començar a distingir, en cada moment, quina part de la decisió d'anar-se'n és lliure i quina part és automàtica. Aquesta distinció només es fa quan es redueix la velocitat de la reacció: quan apareix l'impuls d'anar-se'n i, en lloc d'obeir-lo a l'instant, se li dóna un espai, se li dóna temps, se li permet ser mirat.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades, en aquest espai, es descobreix que la fugida no era necessària. Que allò que es va viure com a amenaça no ho era. Que la persona del davant no se'n va a anar, que la tensió no destruirà la relació, que quedar-se una mica més no comporta el perill que el cos anticipa. I a vegades no: a vegades es confirma que sí, que convé anar-se'n. Però llavors se'n va des d'una elecció, no des d'un reflex.",
+      },
+      {
+        type: "paragraph",
+        text: "El treball terapèutic també implica mirar la història. Entendre d'on ve aquella lliçó, en quin context es va aprendre, què va protegir en el seu moment. No per culpar ningú, sinó per comprendre que aquella resposta, que llavors va ser intel·ligent, ja no correspon al lloc on ara estàs. I que sostenir-la t'impedeix viure alguna cosa que potser sí mereix la pena: l'experiència de quedar-te, de ser vist, d'aprofundir, sense que la por decideixi per tu.",
+      },
+      {
+        type: "heading",
+        text: "Quedar-se també pot ser una elecció",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes alguna cosa d'això en tu, no és un error. És una manera de protegir-te que un dia va ser necessària i que potser ja no ho és. A Espai Emocions acompanyem processos d'adults que, entre altres coses, descobreixen que quedar-se pot ser tan segur com anar-se'n, i que l'elecció entre una i altra pot tornar a ser seva. Si sents que la fugida governa més del que t'agradaria en les teves relacions, pots sol·licitar una primera visita. No et demanarem que et quedis on no vols. Només que comencis a mirar, amb calma, què passa quan l'impuls d'anar-te'n no decideix per tu.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay personas que no se quedan. No es que no quieran estar, ni que no les importe quien tienen delante. Es que algo en ellas se va antes de que la relación tenga tiempo de sostenerse. Una discusión que se alarga, una sensación de encierro que aparece sin avisar, un sábado por la mañana en que de repente la casa parece pequeña, y ya están planeando la salida.",
+      },
+      {
+        type: "paragraph",
+        text: "No siempre es una salida física. A veces el cuerpo sigue ahí, pero algo dentro se ha retirado. La conversación continúa, pero la persona ya no está del todo. La pareja lo nota, los amigos lo notan, y la persona misma lo nota, aunque rara vez se lo explica.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto no es falta de cariño. No es inmadurez. Es un modo de funcionar que se instaló hace tiempo, y que cumple una función: proteger del dolor que aparece cuando te quedas.",
+      },
+      {
+        type: "heading",
+        text: "Una forma de estar que se aprende",
+      },
+      {
+        type: "paragraph",
+        text: "La huida no es un defecto de carácter. Es una respuesta que, en algún momento de la historia, fue la mejor opción disponible. Cuando quedarse significaba exponerse a algo doloroso —a un vínculo inestable, a un conflicto que no se resolvía, a una presencia que se volvía invasiva—, la persona aprendió que irse era más seguro que permanecer. Y esa lección, una vez aprendida, se quedó funcionando mucho después de que el contexto que la generó hubiera desaparecido.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema es que la huida, con el tiempo, deja de ser una elección y se convierte en un reflejo. La persona no decide irse: se va. No decide desconectarse: se desconecta. Y al hacerlo, se priva de la posibilidad de descubrir qué habría pasado si se hubiera quedado.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se ve en la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Este patrón tiene muchas caras. En la pareja, aparece como una tendencia a interpretar cualquier tensión como una señal de que la relación está en peligro. Una discusión normal se convierte en un motivo para replantearlo todo. Un silencio del otro se lee como distancia, y la distancia se lee como abandono. Y antes de esperar a ver qué ocurre, la persona se adelanta: se retira, se enfría, o se va.",
+      },
+      {
+        type: "paragraph",
+        text: "En el trabajo, se presenta como una sucesión de cambios que, vistos desde fuera, parecen iniciativa, pero que por dentro responden a la misma dinámica: cuando algo se profundiza, cuando el compromiso empieza a exigir más presencia, aparece el impulso de buscar otro sitio.",
+      },
+      {
+        type: "paragraph",
+        text: "En las amistades, se ve en relaciones que empiezan con intensidad y se diluyen sin que medie un conflicto claro. No hay ruptura: hay una retirada gradual que nadie sabe nombrar.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que une todas estas formas es lo mismo: la persona no se va porque no quiera estar. Se va porque quedarse le activa algo que no sabe gestionar.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la huida protege y lo que cuesta",
+      },
+      {
+        type: "paragraph",
+        text: "Irse protege del riesgo de ser dejado. Si soy yo quien se va, conservo el control. Si soy yo quien se retira, no tengo que esperar a ver si el otro se queda. Esta lógica tiene una coherencia interna difícil de discutir: se basa en una experiencia real, en una herida que en su momento enseñó que permanecer era peligroso.",
+      },
+      {
+        type: "paragraph",
+        text: "Pero lo que protege también aísla. La persona que se va antes de tiempo nunca llega a saber qué ocurre cuando se queda. Y como no se queda, no tiene la experiencia de que las relaciones pueden sostenerse incluso en los momentos difíciles. Sin esa experiencia, la huida se refuerza: parece cada vez más necesaria porque nunca se pone a prueba.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un punto en la madurez donde esto empieza a pesar. No porque la persona haya cambiado de golpe, sino porque la vida que ha construido a base de irse empieza a sentirse vacía. No de proyectos ni de actividad, sino de vínculos profundos. De esos que solo se forman cuando alguien decide quedarse el tiempo suficiente para que la relación madure.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre elegir irse y necesitar irse",
+      },
+      {
+        type: "paragraph",
+        text: "Quedarse no significa aguantar lo que sea. Hay relaciones que sí conviene dejar, trabajos que sí conviene cambiar, contextos que sí conviene abandonar. La cuestión no es si irse está bien o está mal. La cuestión es si la decisión de irse nace de una elección libre o de un reflejo automático.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando la huida es una elección, la persona puede sopesar, puede mirar lo que deja, puede quedarse si quiere. Cuando la huida es un reflejo, la persona no elige: reacciona. Y esa diferencia, que parece sutil, lo cambia todo. Porque una elección te hace responsable de tu vida; un reflejo te la quita.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar este patrón en terapia no consiste en obligarse a quedarse donde no se quiere estar. Consiste en empezar a distinguir, en cada momento, qué parte de la decisión de irse es libre y qué parte es automática. Esa distinción solo se hace cuando se reduce la velocidad de la reacción: cuando aparece el impulso de irse y, en lugar de obedecerlo al instante, se le da un espacio, se le da tiempo, se le permite ser mirado.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, en ese espacio, se descubre que la huida no era necesaria. Que lo que se vivió como amenaza no lo era. Que la persona de delante no se va a ir, que la tensión no va a destruir la relación, que quedarse un poco más no comporta el peligro que el cuerpo anticipa. Y a veces no: a veces se confirma que sí, que conviene irse. Pero entonces se va desde una elección, no desde un reflejo.",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo terapéutico también implica mirar la historia. Entender de dónde viene esa lección, en qué contexto se aprendió, qué protegió en su momento. No para culpar a nadie, sino para comprender que aquella respuesta, que entonces fue inteligente, ya no corresponde al lugar donde ahora estás. Y que sostenerla te impide vivir algo que quizá sí merece la pena: la experiencia de quedarte, de ser visto, de profundizar, sin que el miedo decida por ti.",
+      },
+      {
+        type: "heading",
+        text: "Quedarse también puede ser una elección",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces algo de esto en ti, no es un fallo. Es una manera de protegerte que un día fue necesaria y que quizá ya no lo es. En Espai Emocions acompañamos procesos de adultos que, entre otras cosas, descubren que quedarse puede ser tan seguro como irse, y que la elección entre una y otra puede volver a ser suya. Si sientes que la huida gobierna más de lo que te gustaría en tus relaciones, puedes solicitar una primera visita. No te pediremos que te quedes donde no quieres. Solo que comiences a mirar, con calma, qué ocurre cuando el impulso de irte no decide por ti.",
+      },
+    ],
+  },
     ];
