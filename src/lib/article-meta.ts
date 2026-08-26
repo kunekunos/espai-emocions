@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "el-aburrimiento-que-no-es-lo-que-parece",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "L'avorriment que no és el que sembla: quan deixar d'estar ocupat et posa en contacte amb tu",
+    "titleES": "El aburrimiento que no es lo que parece: cuando dejar de estar ocupado te pone en contacto contigo",
+    "excerptCA": "Hi ha un tipus d'avorriment que no és falta de coses per fer. És el que apareix quan, per fi, no hi ha res que et distregui: una tarda sense plans, un cap de setmana sense agenda, un viatge en solitari. Llavors, en lloc de descans, apareix una inquietud difícil de nomenar. Aquí explorem per què l'avorriment pot ser més una pregunta que una manca, què hi té a veure la identitat i el ritme que has portat anys, i com pot ajudar la teràpia a quedar-se en aquest espai sense córrer a omplir-lo.",
+    "excerptES": "Hay un tipo de aburrimiento que no es falta de cosas por hacer. Es el que aparece cuando, por fin, no hay nada que te distraiga: una tarde sin planes, un fin de semana sin agenda, un viaje en solitario. Entonces, en lugar de descanso, aparece una inquietud difícil de nombrar. Aquí exploramos por qué el aburrimiento puede ser más una pregunta que una falta, qué tiene que ver la identidad y el ritmo que has llevado años, y cómo puede ayudar la terapia a quedarse en ese espacio sin correr a llenarlo.",
+    "datePublished": "2026-08-26"
+  },
+  {
     "slug": "la-costumbre-de-irte",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",

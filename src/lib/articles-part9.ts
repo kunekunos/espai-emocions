@@ -1818,4 +1818,229 @@ export const articlesPart9: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 9. el-aburrimiento-que-no-es-lo-que-parece (Pilar: Identidad / Madurez)
+  // ---------------------------------------------------------------------------
+  {
+  slug: "el-aburrimiento-que-no-es-lo-que-parece",
+  categoryCA: "Identitat",
+  categoryES: "Identidad",
+  titleCA:
+  "L'avorriment que no és el que sembla: quan deixar d'estar ocupat et posa en contacte amb tu",
+  titleES:
+  "El aburrimiento que no es lo que parece: cuando dejar de estar ocupado te pone en contacto contigo",
+  excerptCA:
+  "Hi ha un tipus d'avorriment que no és falta de coses per fer. És el que apareix quan, per fi, no hi ha res que et distregui: una tarda sense plans, un cap de setmana sense agenda, un viatge en solitari. Llavors, en lloc de descans, apareix una inquietud difícil de nomenar. Aquí explorem per què l'avorriment pot ser més una pregunta que una manca, què hi té a veure la identitat i el ritme que has portat anys, i com pot ajudar la teràpia a quedar-se en aquest espai sense córrer a omplir-lo.",
+  excerptES:
+  "Hay un tipo de aburrimiento que no es falta de cosas por hacer. Es el que aparece cuando, por fin, no hay nada que te distraiga: una tarde sin planes, un fin de semana sin agenda, un viaje en solitario. Entonces, en lugar de descanso, aparece una inquietud difícil de nombrar. Aquí exploramos por qué el aburrimiento puede ser más una pregunta que una falta, qué tiene que ver la identidad y el ritmo que has llevado años, y cómo puede ayudar la terapia a quedarse en ese espacio sin correr a llenarlo.",
+  datePublished: "2026-08-26",
+  blocksCA: [
+    {
+      type: "paragraph",
+      text: "Hi ha un moment que moltes persones coneixen sense reconèixer. És una tarda sense plans, un cap de setmana en què per fi no hi ha res obligatori, un viatge en solitari sense companyia. I en lloc de descans, en lloc d'alleujament, apareix una inquietud. No és ansietat exactament, ni tristesa: és una sensació difusa, com si alguna cosa quedés al descobert. Molts la diuen avorriment. Però no és l'avorriment d'esperar l'autobús ni el d'una tarda de pluja. És una altra cosa.",
+    },
+    {
+      type: "paragraph",
+      text: "Aquest text no és una defensa de l'avorriment com a hàbit saludable. No es tracta de convence't que està bé no fer res, ni de convertir l'oci en una nova tasca per optimitzar. Es tracta de mirar què passa quan, sense que t'ho proposis, la màquina de fer deixa de funcionar una estona i queda al descobert el que hi havia sota.",
+    },
+    {
+      type: "heading",
+      text: "Quan l'avorriment no és falta de coses per fer",
+    },
+    {
+      type: "paragraph",
+      text: "L'avorriment que preocupa no és el de qui no té res a fer. És el de qui sempre ha tingut molt a fer i, de cop, no en té. La persona que porta anys funcionant a un ritme sostingut —feina, família, projectes, responsabilitats— i que, quan el ritme baixa, descobreix que el descans no arriba en forma de calma, sinó d'una inquietud que no sap on posar.",
+    },
+    {
+      type: "paragraph",
+      text: "Això passa perquè l'activitat constant, a més de ser una manera de fer coses, pot ser també una manera de no mirar. Quan sempre hi ha alguna cosa per fer, sempre hi ha un lloc on posar l'atenció que no sigui un mateix. I quan aquesta activitat s'atura, el que queda al descobert no és només temps lliure: és tot allò que l'activitat estava tapant.",
+    },
+    {
+      type: "heading",
+      text: "El que queda al descobert quan el ritme baixa",
+    },
+    {
+      type: "paragraph",
+      text: "Quan l'activitat deixa de sostenir l'atenció, pot aparèixer de tot. Una pregunta que feia temps que no es feia: és aquesta la vida que volia? Una sensació que s'havia aparcat: la solitud, el buit, la insatisfacció que no tenia nom mentre hi havia coses per fer. Un record. Una part de la història que es va deixar enrere i que no s'havia mirat. El que queda al descobert no és sempre dolorós: de vegades és curiositat, de vegades és un desig oblidat, de vegades és només silenci. Però sempre és alguna cosa que, mentre hi va haver coses per fer, no tenia espai per aparèixer.",
+    },
+    {
+      type: "paragraph",
+      text: "Per això aquest tipus d'avorriment genera inquietud. No és l'avorriment en si: és el que apareix quan l'avorriment deixa de ser omplert. I la reacció més habitual no és quedar-s'hi, sinó córrer a omplir-lo: agafar el telèfon, posar una sèrie, planificar alguna cosa, buscar companyia. No perquè es vulgui fer això, sinó perquè quedar-se en l'espai buit és incòmode.",
+    },
+    {
+      type: "heading",
+      text: "Per què és tan difícil quedar-se quiet",
+    },
+    {
+      type: "paragraph",
+      text: "Quedar-se en aquest espai buit és difícil perquè no estem acostumats a estar amb nosaltres mateixos sense una tasca que faci de mediadora. La majoria d'adults han après a relacionar-se amb un mateix a través del fer: mesurar el valor pel que es produeix, el descans pel que es recupera, el temps lliure pel que s'aprofita. I quan no hi ha res per fer, el sistema no sap com funcionar.",
+    },
+    {
+      type: "paragraph",
+      text: "A això s'hi suma, sovint, una dificultat més antiga. Moltes persones van aprendre, de manera més o menys explícita, que estar quiet era perillós o que estar amb un mateix era estar sol, i que estar sol era senyal que alguna cosa no anava bé. Aquesta lliçó, que pot venir de molt enrere, fa que el silenci no se senti neutre: se sent com una amenaça. I l'instint, davant l'amenaça, és fugir —en aquest cas, fugir cap a la distracció.",
+    },
+    {
+      type: "heading",
+      text: "L'avorriment com a pregunta, no com a manca",
+    },
+    {
+      type: "paragraph",
+      text: "Si es pot suportar la inquietud sense córrer a omplir-la, l'avorriment es transforma. Deixa de ser una manca i es converteix en una pregunta. La pregunta no sempre és clara, ni arriba en forma de paraules. De vegades és només una sensació: que hi ha alguna part de la vida que no encaixa, que hi ha alguna cosa que es vol i no s'ha permès, que la manera de viure fins ara potser no és l'única possible.",
+    },
+    {
+      type: "paragraph",
+      text: "Aquesta pregunta, sostinguda amb temps i sense pressa, pot ser el començament d'alguna cosa. No d'un canvi espectacular, ni d'una transformació radical: sovint d'alguna cosa més senzilla i més fonda. Una reorientació petita, una decisió que fa temps s'ajornava, una conversa que calia tenir. El que canvia no és la vida per fora: és la relació amb un mateix, que deixa de ser exclusivament productiva i comença a ser, també, contemplativa.",
+    },
+    {
+      type: "heading",
+      text: "Quan l'avorriment amaga alguna cosa més",
+    },
+    {
+      type: "paragraph",
+      text: "Cal dir-ho: no tot avorriment és una pregunta profunda. De vegades l'avorriment és avorriment, i la solució és fer alguna cosa que interessi. Però quan l'avorriment apareix sistemàticament cada vegada que el ritme baixa, quan genera inquietud en lloc de pau, quan es percep més com un buit que com un descans, val la pena mirar-ho amb més atenció. Aquest patró pot estar senyalant un malestar que la persona porta sostenint sense saber-ho, i que l'activitat constant li ha permès no veure.",
+    },
+    {
+      type: "paragraph",
+      text: "A vegades, darrere d'aquest avorriment hi ha un estat depresiu que no s'ha reconegut com a tal. No sempre es presenta amb la forma que s'espera: tristor, plor, manca d'energia. De vegades es presenta com a manca d'interès, com a dificultat per gaudir, com a sensació que res acaba de tenir sentit. I aquest estat, sostingut en el temps, no es resol omplint-lo d'activitat: es resol mirant-lo.",
+    },
+    {
+      type: "heading",
+      text: "La diferència entre descansar i evadir-se",
+    },
+    {
+      type: "paragraph",
+      text: "Una distinció que ajuda: descansar no és el mateix que evadir-se. Descansar és una activitat que recupera: permet tornar a la vida amb més recursos, més claredat, més presencia. Evadir-se, en canvi, és una activitat que tapa: permet no sentir el que es sent, però no recupera res. La distinció és important perquè moltes persones creuen que estan descansant quan, en realitat, estan evadint-se.",
+    },
+    {
+      type: "paragraph",
+      text: "La diferència no està en el que fas, sinó en la funció que compleix. Veure una pel·lícula pot ser descansar o pot ser evadir-se, segons per a què serveixi en aquest moment. Fer esport pot ser una o l'altra. Fins i tot estar amb persones pot ser descans o evasió. La pregunta no és què fas, sinó què fas quan deixes de fer allò: si torna la inquietud, era evasió; si torna la calma, era descans.",
+    },
+    {
+      type: "heading",
+      text: "Com es treballa a la teràpia",
+    },
+    {
+      type: "paragraph",
+      text: "Treballar aquest avorriment a la teràpia no consisteix a buscar la causa única ni a interpretar cada silenci. Consisteix, primer, a fer espai perquè la persona pugui quedar-se en la inquietud sense córrer a resoldre-la. A la consulta, el silenci no s'ha d'omplir: es pot habitar. I en aquest espai, sostingut per una relació segura, el que apareix no és el que un esperava: és el que necessitava aparèixer.",
+    },
+    {
+      type: "paragraph",
+      text: "El procés pot implicar mirar el ritme de vida, les decisions que es van prenent, les parts de la identitat que van quedar fora del camí. Pot implicar, també, distingir entre el que és un patró d'evasió i el que és un estat que cal atendre amb més cura. I, sobretot, implica aprendre una cosa que sembla senzilla i que no ho és: estar amb un mateix sense necessitar que hi hagi res per fer.",
+    },
+    {
+      type: "heading",
+      text: "No es tracta de buscar l'avorriment",
+    },
+    {
+      type: "paragraph",
+      text: "Aquest text no convida a buscar l'avorriment ni a convertir el no-res en una pràctica. La majoria de vides adultes necessiten activitat, responsabilitat, relació, projectes. El que acompanya el procés no és el no-res per si mateix: és la capacitat de suportar el no-res quan apareix, sense córrer a omplir-lo, i deixar que mostri el que té per mostrar.",
+    },
+    {
+      type: "paragraph",
+      text: "Si sents que cada vegada que el ritme baixa apareix una inquietud que no saps nomenar, si descobreixes que el teu descans és més evasió que recuperació, o si portes temps sense poder estar amb tu mateix sense una distracció al davant, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen mirar el que queda al descobert quan l'activitat deixa de sostenir, i aprendre a estar amb un mateix sense necessitar que hi hagi res per fer.",
+    },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay un momento que muchas personas conocen sin reconocer. Es una tarde sin planes, un fin de semana en que por fin no hay nada obligatorio, un viaje en solitario sin compañía. Y en lugar de descanso, en lugar de alivio, aparece una inquietud. No es ansiedad exactamente, ni tristeza: es una sensación difusa, como si algo quedara al descubierto. Muchos la llaman aburrimiento. Pero no es el aburrimiento de esperar el autobús ni el de una tarde de lluvia. Es otra cosa.",
+      },
+      {
+        type: "paragraph",
+        text: "Este texto no es una defensa del aburrimiento como hábito saludable. No se trata de convencerte de que está bien no hacer nada, ni de convertir el ocio en una nueva tarea por optimizar. Se trata de mirar qué pasa cuando, sin que te lo propongas, la máquina de hacer deja de funcionar un rato y queda al descubierto lo que había debajo.",
+      },
+      {
+        type: "heading",
+        text: "Cuando el aburrimiento no es falta de cosas por hacer",
+      },
+      {
+        type: "paragraph",
+        text: "El aburrimiento que preocupa no es el de quien no tiene nada que hacer. Es el de quien siempre ha tenido mucho que hacer y, de pronto, no lo tiene. La persona que lleva años funcionando a un ritmo sostenido —trabajo, familia, proyectos, responsabilidades— y que, cuando el ritmo baja, descubre que el descanso no llega en forma de calma, sino de una inquietud que no sabe dónde poner.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto pasa porque la actividad constante, además de ser una manera de hacer cosas, puede ser también una manera de no mirar. Cuando siempre hay algo que hacer, siempre hay un lugar donde poner la atención que no sea uno mismo. Y cuando esa actividad se detiene, lo que queda al descubierto no es solo tiempo libre: es todo aquello que la actividad estaba tapando.",
+      },
+      {
+        type: "heading",
+        text: "Lo que queda al descubierto cuando el ritmo baja",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando la actividad deja de sostener la atención, puede aparecer de todo. Una pregunta que hacía tiempo que no se hacía: ¿es esta la vida que quería? Una sensación que se había aparcado: la soledad, el vacío, la insatisfacción que no tenía nombre mientras había cosas que hacer. Un recuerdo. Una parte de la historia que se dejó atrás y que no se había mirado. Lo que queda al descubierto no es siempre doloroso: a veces es curiosidad, a veces es un deseo olvidado, a veces es solo silencio. Pero siempre es algo que, mientras hubo cosas que hacer, no tenía espacio para aparecer.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso este tipo de aburrimiento genera inquietud. No es el aburrimiento en sí: es lo que aparece cuando el aburrimiento deja de ser llenado. Y la reacción más habitual no es quedarse en él, sino correr a llenarlo: coger el teléfono, poner una serie, planificar algo, buscar compañía. No porque se quiera hacer eso, sino porque quedarse en el espacio vacío es incómodo.",
+      },
+      {
+        type: "heading",
+        text: "Por qué es tan difícil quedarse quieto",
+      },
+      {
+        type: "paragraph",
+        text: "Quedarse en este espacio vacío es difícil porque no estamos acostumbrados a estar con nosotros mismos sin una tarea que haga de mediadora. La mayoría de adultos han aprendido a relacionarse con uno mismo a través del hacer: medir el valor por lo que se produce, el descanso por lo que se recupera, el tiempo libre por lo que se aprovecha. Y cuando no hay nada que hacer, el sistema no sabe cómo funcionar.",
+      },
+      {
+        type: "paragraph",
+        text: "A esto se suma, a menudo, una dificultad más antigua. Muchas personas aprendieron, de manera más o menos explícita, que estar quieto era peligroso o que estar con uno mismo era estar solo, y que estar solo era señal de que algo no iba bien. Esa lección, que puede venir de muy atrás, hace que el silencio no se sienta neutro: se siente como una amenaza. Y el instinto, ante la amenaza, es huir —en este caso, huir hacia la distracción.",
+      },
+      {
+        type: "heading",
+        text: "El aburrimiento como pregunta, no como falta",
+      },
+      {
+        type: "paragraph",
+        text: "Si se puede soportar la inquietud sin correr a llenarla, el aburrimiento se transforma. Deja de ser una falta y se convierte en una pregunta. La pregunta no siempre es clara, ni llega en forma de palabras. A veces es solo una sensación: que hay alguna parte de la vida que no encaja, que hay algo que se quiere y no se ha permitido, que la manera de vivir hasta ahora quizá no sea la única posible.",
+      },
+      {
+        type: "paragraph",
+        text: "Esa pregunta, sostenida con tiempo y sin prisa, puede ser el comienzo de algo. No de un cambio espectacular, ni de una transformación radical: a menudo de algo más sencillo y más hondo. Una reorientación pequeña, una decisión que se venía aplazando, una conversación que hacía falta tener. Lo que cambia no es la vida por fuera: es la relación con uno mismo, que deja de ser exclusivamente productiva y empieza a ser, también, contemplativa.",
+      },
+      {
+        type: "heading",
+        text: "Cuando el aburrimiento esconde algo más",
+      },
+      {
+        type: "paragraph",
+        text: "Cabe decirlo: no todo aburrimiento es una pregunta profunda. A veces el aburrimiento es aburrimiento, y la solución es hacer algo que interese. Pero cuando el aburrimiento aparece sistemáticamente cada vez que el ritmo baja, cuando genera inquietud en lugar de paz, cuando se percibe más como un vacío que como un descanso, vale la pena mirarlo con más atención. Este patrón puede estar señalando un malestar que la persona lleva sosteniendo sin saberlo, y que la actividad constante le ha permitido no ver.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, detrás de ese aburrimiento hay un estado depresivo que no se ha reconocido como tal. No siempre se presenta con la forma que se espera: tristeza, llanto, falta de energía. A veces se presenta como falta de interés, como dificultad para disfrutar, como sensación de que nada acaba de tener sentido. Y ese estado, sostenido en el tiempo, no se resuelve llenándolo de actividad: se resuelve mirándolo.",
+      },
+      {
+        type: "heading",
+        text: "La diferencia entre descansar y evadirse",
+      },
+      {
+        type: "paragraph",
+        text: "Una distinción que ayuda: descansar no es lo mismo que evadirse. Descansar es una actividad que recupera: permite volver a la vida con más recursos, más claridad, más presencia. Evadirse, en cambio, es una actividad que tapa: permite no sentir lo que se siente, pero no recupera nada. La distinción es importante porque muchas personas creen que están descansando cuando, en realidad, se están evadiendo.",
+      },
+      {
+        type: "paragraph",
+        text: "La diferencia no está en lo que haces, sino en la función que cumple. Ver una película puede ser descansar o puede ser evadirse, según para qué sirva en ese momento. Hacer deporte puede ser una u otra. Incluso estar con personas puede ser descanso o evasión. La pregunta no es qué haces, sino qué pasa cuando dejas de hacer aquello: si vuelve la inquietud, era evasión; si vuelve la calma, era descanso.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar este aburrimiento en terapia no consiste en buscar la causa única ni en interpretar cada silencio. Consiste, primero, en hacer espacio para que la persona pueda quedarse en la inquietud sin correr a resolverla. En la consulta, el silencio no tiene que llenarse: se puede habitar. Y en ese espacio, sostenido por una relación segura, lo que aparece no es lo que uno esperaba: es lo que necesitaba aparecer.",
+      },
+      {
+        type: "paragraph",
+        text: "El proceso puede implicar mirar el ritmo de vida, las decisiones que se fueron tomando, las partes de la identidad que quedaron fuera del camino. Puede implicar, también, distinguir entre lo que es un patrón de evasión y lo que es un estado que conviene atender con más cuidado. Y, sobre todo, implica aprender algo que parece sencillo y que no lo es: estar con uno mismo sin necesitar que haya nada que hacer.",
+      },
+      {
+        type: "heading",
+        text: "No se trata de buscar el aburrimiento",
+      },
+      {
+        type: "paragraph",
+        text: "Si sientes que cada vez que el ritmo baja aparece una inquietud que no sabes nombrar, si descubres que tu descanso es más evasión que recuperación, o si llevas tiempo sin poder estar contigo mismo sin una distracción delante, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren mirar lo que queda al descubierto cuando la actividad deja de sostener, y aprender a estar con uno mismo sin necesitar que haya nada que hacer.",
+      },
+    ],
+  },
     ];
