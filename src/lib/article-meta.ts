@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "necesidad-de-explicarte-intelectualizacion-adulta",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La necessitat d'explicar-te: quan la paraula es converteix en la teva manera de no sentir",
+    "titleES": "La necesidad de explicarte: cuando la palabra se convierte en tu manera de no sentir",
+    "excerptCA": "Hi ha persones que no poden estar amb una emoció sense haver-la entès primer. Necessiten anomenar-la, situar-la, explicar d'on ve i cap on va, abans de permetre's sentirla. Aquesta manera de funcionar, que sovint es confon amb maduresa o intel·ligència, pot ser en realitat una defensa antiga: una manera de mantenir el dolor a distància convertint-lo en idea. Aquí explorem per què la necessitat d'explicar-te pot estar sostingint el que en realitat vols evitar, què hi té a veure la història i la identitat, i com pot ajudar la teràpia a deixar que l'experiència arribi abans que la seva explicació.",
+    "excerptES": "Hay personas que no pueden estar con una emoción sin haberla entendido primero. Necesitan nombrarla, situarla, explicar de dónde viene y hacia dónde va, antes de permitirse sentirla. Esta manera de funcionar, que a menudo se confunde con madurez o inteligencia, puede ser en realidad una defensa antigua: una manera de mantener el dolor a distancia convirtiéndolo en idea. Aquí exploramos por qué la necesidad de explicarte puede estar sosteniendo lo que en realidad quieres evitar, qué tiene que ver la historia y la identidad, y cómo puede ayudar la terapia a dejar que la experiencia llegue antes que su explicación.",
+    "datePublished": "2026-08-27"
+  },
+  {
     "slug": "el-aburrimiento-que-no-es-lo-que-parece",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",

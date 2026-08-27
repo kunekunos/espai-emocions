@@ -2043,4 +2043,169 @@ export const articlesPart9: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 10. necesidad-de-explicarte-intelectualizacion-adulta (Pilar: Identidad / Madurez)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "necesidad-de-explicarte-intelectualizacion-adulta",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "La necessitat d'explicar-te: quan la paraula es converteix en la teva manera de no sentir",
+    titleES:
+      "La necesidad de explicarte: cuando la palabra se convierte en tu manera de no sentir",
+    excerptCA:
+      "Hi ha persones que no poden estar amb una emoció sense haver-la entès primer. Necessiten anomenar-la, situar-la, explicar d'on ve i cap on va, abans de permetre's sentirla. Aquesta manera de funcionar, que sovint es confon amb maduresa o intel·ligència, pot ser en realitat una defensa antiga: una manera de mantenir el dolor a distància convertint-lo en idea. Aquí explorem per què la necessitat d'explicar-te pot estar sostingint el que en realitat vols evitar, què hi té a veure la història i la identitat, i com pot ajudar la teràpia a deixar que l'experiència arribi abans que la seva explicació.",
+    excerptES:
+      "Hay personas que no pueden estar con una emoción sin haberla entendido primero. Necesitan nombrarla, situarla, explicar de dónde viene y hacia dónde va, antes de permitirse sentirla. Esta manera de funcionar, que a menudo se confunde con madurez o inteligencia, puede ser en realidad una defensa antigua: una manera de mantener el dolor a distancia convirtiéndolo en idea. Aquí exploramos por qué la necesidad de explicarte puede estar sosteniendo lo que en realidad quieres evitar, qué tiene que ver la historia y la identidad, y cómo puede ayudar la terapia a dejar que la experiencia llegue antes que su explicación.",
+    datePublished: "2026-08-27",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha persones que arriben a teràpia amb un relat extraordinàriament articulat de la seva vida. Saben explicar què els va passar, quan, en quin ordre. Saben relacionar allò de la infància amb allò de la parella, allò dels pares amb allò de la feina. Ho han pensat molt, ho han llegit molt, ho han conversat molt. I, tanmateix, quan se'ls pregunta com se senten quan recorden tot això, apareix un silenci desconcertat. No és que no sàpiguen què dir: és que la pregunta els agafa en un lloc on no acostumen a estar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta escena es repeteix amb una freqüència sorprenent, i no és casual. La capacitat de donar forma verbal al que un viu és una habilitat valuosa, però pot convertir-se, quan s'utilitza sense fre, en una manera de no estar amb el que se sent. Convertir l'emoció en idea permet manejar-la, ordenar-la, posar-la a distància. I això, que en certs moments és necessari, quan es converteix en la manera habitual de relacionar-se amb un mateix, deixa una vida molt ben explicada i poc habitada.",
+      },
+      {
+        type: "heading",
+        text: "Què és la intelectualització i per què no és un defecte",
+      },
+      {
+        type: "paragraph",
+        text: "La intelectualització és una manera de posar el pensament entre tu i la teva experiència. Consisteix a tractar allò que se sent com si fos un problema a comprendre, en lloc d'un estat a habitar. La persona que intelectualitza no reprimeix la seva emoció: la transforma. La converteix en un discurs, en una hipòtesi, en un mapa. I amb aquesta transformació aconsegueix alguna cosa important: reduir la intensitat del que sent, fer-ho suportable, mantenir el control.",
+      },
+      {
+        type: "paragraph",
+        text: "Convé dir-ho amb claredat: això no és un defecte. És una defensa, i les defenses existeixen perquè en algun moment van ser necessàries. La persona que va aprendre a entendre's abans de sentir-se, probablement es va criar en un context on sentir sense entendre era perillós o inútil. On la emoció no tenia espai, o generava conflicte, o no era rebuda. En aquell context, aprendre a distanciar-se, a explicar, a comprendre, va ser una manera intel·ligent de sobreviure sense perdre el contacte amb un mateix del tot.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema no és que la defensa es formés. El problema és que es quedi funcionant molt després que el context que la va necessitar hagi desaparegut. La persona adulta, amb recursos, amb un entorn més segur, segueix tractant cada emoció com si fos una qüestió a resoldre abans de poder permetre-la. I amb això, sense voler, es queda fora de la seva pròpia vida emocional: la coneix molt bé, però no l'habita.",
+      },
+      {
+        type: "heading",
+        text: "Quan l'explicació serveix per no sentir",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una diferència que val la pena aprendre a distingir. Explicar una experiència pot ser una manera d'aprofundir-hi: posar paraules al que se sent permet veure-ho amb més claredat, compartir-lo, integrar-lo. Però també pot ser una manera de substituir-la: posar paraules al que se sent per no haver de sentir-ho. La diferència no està en el que dius, sinó en el que passa mentre ho dius. Si l'explicació t'acosta al que sents, està servint. Si t'allunya del que sents, et protegeix.",
+      },
+      {
+        type: "paragraph",
+        text: "Un senyal que pot ajudar a reconèixer-ho: quan expliques una cosa dolorosa i, en fer-ho, el cos es relaxa però l'emoció no canvia, probablement estàs sentint. Quan expliques una cosa dolorosa i el cos no reacciona, la veu es manté estable, la història flueix amb una fluïdesa estranya, probablement estàs evitant sentir. No és un engany conscient: és una habilitat tan arrelada que opera sola. La persona que la porta sovint no sap que està fent servir la paraula com a escut, perquè ningú no li ha dit que es pot fer d'una altra manera.",
+      },
+      {
+        type: "heading",
+        text: "El preu d'una vida massa ben explicada",
+      },
+      {
+        type: "paragraph",
+        text: "A la maduresa adulta, aquesta manera de funcionar comença a passar factura, encara que no sempre de manera evident. Pot aparèixer com a sensació de distància respecte a la pròpia vida: saps què et va passar, saps per què, saps què hauries de sentir, però alguna cosa no acaba d'arribar. Pot aparèixer com a dificultat per gaudir: l'alegria també es filtra, també es converteix en idea abans de poder sentir-se. Pot aparèixer com a cansament, perquè el cost d'ordenar constantment l'experiència interior és alt, i la persona que ho fa no para.",
+      },
+      {
+        type: "paragraph",
+        text: "També pot pesar en les relacions. Qui necessita explicar-ho tot abans de sentir-ho, sovint demana als altres el mateix que es demana a si mateix: que la experiència sigui comprensible abans de ser vàlida. Això pot fer que les converses íntimes es converteixin en debats, que els conflictes se segueixin com si fossin expedients, que la parella o els amics se sentin examinats en lloc d'acompanyats. No és falta d'amor: és la manera que aquesta persona coneix d'estar propera, que passa necessàriament per la comprensió.",
+      },
+      {
+        type: "heading",
+        text: "La paraula que arriba després de l'experiència",
+      },
+      {
+        type: "paragraph",
+        text: "El que la teràpia pot oferir en aquests casos no és deixar de pensar. Seria absurd i, a més, profundament injust amb persones per a les quals el pensament ha estat un recurs i una companyia. El que la teràpia pot oferir és un altre ordre: que l'experiència arribi abans que la seva explicació. Que el que se sent tingui un espai on aparèixer sense haver de justificar-se primer, sense haver de passar l'examen de la comprensió per ser admès.",
+      },
+      {
+        type: "paragraph",
+        text: "Això requereix temps, perquè la tendència a entendre abans de sentir és ràpida i automàtica. A la consulta, sovint es treballa alentint aquest moviment. Quan la persona comença a explicar, es convida a aturar-se un moment i a mirar què passa al cos, què apareix si deixa de parlar, què hi ha sota la idea que està construint. I el que apareix, gairebé sempre, no és una idea més: és una emoció que estava esperant, potser des de feia molt de temps, que li deixessin arribar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aprendre a sentir abans d'explicar no és un retorn a la irracionalitat. És el contrari: és permetre que la paraula serveixi realment al que vius, en lloc de servir-se de tu. La paraula que arriba després de l'experiència té una qualitat diferent de la que arriba abans. No és un escut: és un pont. No ordena des de fora: dona forma des de dins. I aquesta diferència, que sembla subtil, canvia la relació amb un mateix i amb els altres.",
+      },
+      {
+        type: "heading",
+        text: "No es tracta de deixar d'entendre",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes en això la teva manera de funcionar, si saps que la teva vida està molt ben explicada però no sempre habitada, o si descobreixes que la paraula et protegeix més del que t'acompanya, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen aprendre a deixar que l'experiència arribi abans que la seva explicació, i descobrir què canvia quan la paraula deixa de ser un escut i es converteix, simplement, en una manera de dir el que ja s'està vivint.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay personas que llegan a terapia con un relato extraordinariamente articulado de su vida. Saben explicar qué les pasó, cuándo, en qué orden. Saben relacionar aquello de la infancia con aquello de la pareja, lo de los padres con lo del trabajo. Lo han pensado mucho, lo han leído mucho, lo han conversado mucho. Y, sin embargo, cuando se les pregunta cómo se sienten al recordar todo eso, aparece un silencio desconcertado. No es que no sepan qué decir: es que la pregunta les encuentra en un lugar donde no suelen estar.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta escena se repite con una frecuencia sorprendente, y no es casual. La capacidad de dar forma verbal a lo que uno vive es una habilidad valiosa, pero puede convertirse, cuando se utiliza sin freno, en una manera de no estar con lo que se siente. Convertir la emoción en idea permite manejarla, ordenarla, ponerla a distancia. Y eso, que en ciertos momentos es necesario, cuando se convierte en la manera habitual de relacionarse con uno mismo, deja una vida muy bien explicada y poco habitada.",
+      },
+      {
+        type: "heading",
+        text: "Qué es la intelectualización y por qué no es un defecto",
+      },
+      {
+        type: "paragraph",
+        text: "La intelectualización es una manera de poner el pensamiento entre tú y tu experiencia. Consiste en tratar aquello que se siente como si fuera un problema a comprender, en lugar de un estado a habitar. La persona que intelectualiza no reprime su emoción: la transforma. La convierte en un discurso, en una hipótesis, en un mapa. Y con esa transformación consigue algo importante: reducir la intensidad de lo que siente, hacerlo soportable, mantener el control.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decirlo con claridad: esto no es un defecto. Es una defensa, y las defensas existen porque en algún momento fueron necesarias. La persona que aprendió a entenderse antes de sentirse, probablemente se crió en un contexto donde sentir sin entender era peligroso o inútil. Donde la emoción no tenía espacio, o generaba conflicto, o no era recibida. En ese contexto, aprender a distanciarse, a explicar, a comprender, fue una manera inteligente de sobrevivir sin perder el contacto consigo mismo del todo.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema no es que la defensa se formara. El problema es que se quede funcionando mucho después de que el contexto que la necesitó haya desaparecido. La persona adulta, con recursos, con un entorno más seguro, sigue tratando cada emoción como si fuera una cuestión a resolver antes de poder permitirla. Y con eso, sin querer, se queda fuera de su propia vida emocional: la conoce muy bien, pero no la habita.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la explicación sirve para no sentir",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una diferencia que vale la pena aprender a distinguir. Explicar una experiencia puede ser una manera de profundizar en ella: poner palabras a lo que se siente permite verlo con más claridad, compartirlo, integrarlo. Pero también puede ser una manera de sustituirla: poner palabras a lo que se siente para no tener que sentirlo. La diferencia no está en lo que dices, sino en lo que pasa mientras lo dices. Si la explicación te acerca a lo que sientes, está sirviendo. Si te aleja de lo que sientes, te protege.",
+      },
+      {
+        type: "paragraph",
+        text: "Una señal que puede ayudar a reconocerlo: cuando explicas algo doloroso y, al hacerlo, el cuerpo se relaja pero la emoción no cambia, probablemente estás sintiendo. Cuando explicas algo doloroso y el cuerpo no reacciona, la voz se mantiene estable, la historia fluye con una fluidez extraña, probablemente estás evitando sentir. No es un engaño consciente: es una habilidad tan arraigada que opera sola. La persona que la lleva a menudo no sabe que está usando la palabra como escudo, porque nadie le ha dicho que se puede hacer de otra manera.",
+      },
+      {
+        type: "heading",
+        text: "El precio de una vida demasiado bien explicada",
+      },
+      {
+        type: "paragraph",
+        text: "En la madurez adulta, esta manera de funcionar empieza a pasar factura, aunque no siempre de modo evidente. Puede aparecer como sensación de distancia respecto a la propia vida: sabes qué te pasó, sabes por qué, sabes qué deberías sentir, pero algo no acaba de llegar. Puede aparecer como dificultad para disfrutar: la alegría también se filtra, también se convierte en idea antes de poder sentirse. Puede aparecer como cansancio, porque el coste de ordenar constantemente la experiencia interior es alto, y la persona que lo hace no para.",
+      },
+      {
+        type: "paragraph",
+        text: "También puede pesar en las relaciones. Quien necesita explicarlo todo antes de sentirlo, a menudo pide a los demás lo mismo que se pide a sí mismo: que la experiencia sea comprensible antes de ser válida. Esto puede hacer que las conversaciones íntimas se conviertan en debates, que los conflictos se sigan como si fueran expedientes, que la pareja o los amigos se sientan examinados en lugar de acompañados. No es falta de amor: es la manera que esa persona conoce de estar cerca, que pasa necesariamente por la comprensión.",
+      },
+      {
+        type: "heading",
+        text: "La palabra que llega después de la experiencia",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que la terapia puede ofrecer en estos casos no es dejar de pensar. Sería absurdo y, además, profundamente injusto con personas para quienes el pensamiento ha sido un recurso y una compañía. Lo que la terapia puede ofrecer es otro orden: que la experiencia llegue antes que su explicación. Que lo que se siente tenga un espacio donde aparecer sin tener que justificarse primero, sin tener que pasar el examen de la comprensión para ser admitido.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto requiere tiempo, porque la tendencia a entender antes de sentir es rápida y automática. En la consulta, a menudo se trabaja ralentizando ese movimiento. Cuando la persona empieza a explicar, se le invita a detenerse un momento y a mirar qué pasa en el cuerpo, qué aparece si deja de hablar, qué hay debajo de la idea que está construyendo. Y lo que aparece, casi siempre, no es una idea más: es una emoción que estaba esperando, quizá desde hacía mucho tiempo, que le dejaran llegar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aprender a sentir antes de explicar no es un retorno a la irracionalidad. Es lo contrario: es permitir que la palabra sirva realmente a lo que vives, en lugar de servirse de ti. La palabra que llega después de la experiencia tiene una cualidad distinta de la que llega antes. No es un escudo: es un puente. No ordena desde fuera: da forma desde dentro. Y esa diferencia, que parece sutil, cambia la relación con uno mismo y con los demás.",
+      },
+      {
+        type: "heading",
+        text: "No se trata de dejar de entender",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces en esto tu manera de funcionar, si sabes que tu vida está muy bien explicada pero no siempre habitada, o si descubres que la palabra te protege más de lo que te acompaña, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren aprender a dejar que la experiencia llegue antes que su explicación, y descubrir qué cambia cuando la palabra deja de ser un escudo y se convierte, simplemente, en una manera de decir lo que ya se está viviendo.",
+      },
+    ],
+  },
     ];
