@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "cuando-recibir-cuesta-mas-que-dar",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Quan rebre costa més que donar: la dificultat de deixar-te cuidar",
+    "titleES": "Cuando recibir cuesta más que dar: la dificultad de dejarte cuidar",
+    "excerptCA": "Hi ha persones que saben donar amb generositat i naturalitat, però que no poden deixar que ningú els dongui res. No és que no necessitin ajuda: és que rebre-la els activa una resposta antiga, una barreja d'incomoditat, culpa i sensació de fragilitat que no saben gestionar. Aquí explorem per què per a algunes persones rebre és més difícil que donar, què hi té a veure la història i la identitat, i com pot ajudar la teràpia a aprendre a deixar que els altres hi siguin sense que això et faci perdre el sentit de tu.",
+    "excerptES": "Hay personas que saben dar con generosidad y naturalidad, pero que no pueden dejar que nadie les dé nada. No es que no necesiten ayuda: es que recibirla les activa una respuesta antigua, una mezcla de incomodidad, culpa y sensación de fragilidad que no saben gestionar. Aquí exploramos por qué para algunas personas recibir es más difícil que dar, qué tiene que ver la historia y la identidad, y cómo puede ayudar la terapia a aprender a dejar que los demás estén sin que eso te haga perder el sentido de ti.",
+    "datePublished": "2026-08-28"
+  },
+  {
     "slug": "necesidad-de-explicarte-intelectualizacion-adulta",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
