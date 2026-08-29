@@ -185,4 +185,193 @@ export const articlesPart10: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 2. la-necesidad-de-control-adultos (Pilar: Identidad / Madurez / Autonomía)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "la-necesidad-de-control-adultos",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "La necessitat de control: quan mantenir-ho tot a ratlla et manté a distància de tu",
+    titleES:
+      "La necesidad de control: cuando mantenerlo todo a raya te mantiene a distancia de ti",
+    excerptCA:
+      "Hi ha persones que porten la vida amb una precisió admirable. Planifiquen, anticipen, organitzen. Res se'ls escapa, o això sembla. Però sota aquesta superfície ordenada hi sol haver una altra cosa: una por antiga al que passaria si deixessin d'estar al capdavant de tot. Aquí explorem per què la necessitat de control, que durant anys ha funcionat com una força, pot convertir-se en una gàbia, què hi té a veure la història i la identitat, i com pot ajudar la teràpia a soltar sense que això signifiqui perdre's.",
+    excerptES:
+      "Hay personas que llevan la vida con una precisión admirable. Planifican, anticipan, organizan. Nada se les escapa, o eso parece. Pero bajo esa superficie ordenada suele haber otra cosa: un miedo antiguo a lo que pasaría si dejaran de estar al frente de todo. Aquí exploramos por qué la necesidad de control, que durante años ha funcionado como una fuerza, puede convertirse en una jaula, qué tiene que ver la historia y la identidad, y cómo puede ayudar la terapia a soltar sin que eso signifique perderse.",
+    datePublished: "2026-08-29",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha persones que porten la vida amb una precisió que genera admiració i, alhora, una certa distància. Planifiquen tot allò que es pot planificar, anticipen els imprevistos amb una eficiència gairebé silenciosa, organitzen el temps, els espais i les relacions amb un detall que no deixa res a l'atzar. Si hi ha un problema, ja hi han pensat. Si hi ha un risc, ja l'han cobert. Des de fora, sembla força. Des de dins, sovint és una altra cosa.",
+      },
+      {
+        type: "paragraph",
+        text: "El que poques vegades es veu és el cost d'aquest control. No és un cost visible, com el cansament o la irritabilitat, encara que aquests també hi són. És un cost més silenciós: el de viure amb la sensació constant que, si deixes anar una sola peça, tot es desmunt. El de no poder gaudir d'alguna cosa sense haver-la gestionat abans. El de sentir que el descans només és legítim quan tot està resolt, cosa que vol dir que el descans mai no arriba del tot, perquè sempre hi ha alguna cosa més per ordenar.",
+      },
+      {
+        type: "heading",
+        text: "Què és el control i per a què serveix",
+      },
+      {
+        type: "paragraph",
+        text: "El control no és dolent. És una capacitat: la de preveure, d'organitzar, de protegir. Tots necessitem un cert grau de control per a sostenir la vida, per a prendre decisions coherents, per a no estar a mercè de tot el que passa. El problema no és el control en si, sinó el moment en què deixa de ser una eina i es converteix en una necessitat. I el moment en què aquesta necessitat, en lloc de protegir-te, comença a limitar-te.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan el control es torna necessari, ja no estàs utilitzant-lo: estàs habitat per ell. Ja no decideixes controlar: has de controlar. I aquesta diferència, que sembla subtil, ho canvia tot. Perquè la persona que decideix controlar pot també decidir no fer-ho, pot deixar espai a la improvisació, a la sorpresa, a la incertesa. La persona que necessita controlar no té aquesta opció: per a ella, deixar anar no és una possibilitat, és una amenaça.",
+      },
+      {
+        type: "heading",
+        text: "D'on ve aquesta necessitat",
+      },
+      {
+        type: "paragraph",
+        text: "La necessitat de control gairebé sempre té una història, i aquesta història sol començar molt abans que la persona fos conscient de controlar res. Pot ser una història on, de criatura, va haver d'assumir responsabilitats que no li corresponien: cuidar algú, mantenir l'ordre, fer de pivot entre adults que no s'entenien. Pot ser una història on l'entorn era impredictible, on els canvis arribaven sense avisar i on l'única manera de sentir una mica de seguretat era anticipar-se a tot allò que podia fallar.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquests contextos, controlar no és una mania ni un capritx: és una manera de sobreviure. Si el món de fora és caòtic, crear un ordre intern i extern es converteix en una necessitat de primer ordre. I si aquesta estratègia funciona —si de fet protegeix, si de fet evita catàstrofes, si de fet permet seguir endavant—, la persona l'incorpora al seu repertori com una part de qui és. Deixa de ser una resposta a una situació i es converteix en una manera d'estar en el món.",
+      },
+      {
+        type: "heading",
+        text: "La identitat construïda al voltant de tenir-ho tot sota control",
+      },
+      {
+        type: "paragraph",
+        text: "Amb el temps, aquesta manera de funcionar passa a formar part de la identitat. La persona es reconeix a si mateixa com algú fiable, competent, capaç. I ho és. Però aquesta identitat té un cost amagat: si només saps qui ets quan tens tot controlat, perdre el control et posa fora del lloc on sents que tens dret a ser. No és que tinguis por a allò que passarà: és que tens por a deixar de ser qui creus que ets.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica per què, per a aquestes persones, les situacions més difícils no són les crisis visibles, sinó els moments d'incertesa: una decisió que no pot resoldre's amb informació, una relació que no es deixa planificar, un procés que requereix esperar sense saber què passarà. En aquests moments, el control no serveix, i la persona es queda sense el seu principal recurs. I el que apareix llavors no és només ansietat: és una sensació de desconeixement, com si, sense el control, no sabés qui és.",
+      },
+      {
+        type: "heading",
+        text: "El que el control impedeix",
+      },
+      {
+        type: "paragraph",
+        text: "El control, quan es torna necessari, no només limita la incertesa: també limita la vida. Impedeix que arribi allò que no has previst, i allò que no has previst inclou bona part del que fa que la vida valgui la pena: la trobada no bussejada, la conversa que canvia alguna cosa, la sorpresa que no sabies que necessitaves. Impedeix, també, que els altres hi participin de veritat, perquè si ho has de tenir tot sota control, els altres només poden ocupar el lloc que els has assignat, no el que necessitarien ocupar.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha una altra cosa que el control impedeix, potser la més important: estar amb el que sents. Perquè les emocions, per definició, no es controlen. Apareixen quan apareixen, duren el que duren, diuen el que diuen. I per a una persona que necessita tenir-ho tot a ratlla, això és intolerable. Llavors, en lloc de sentir, gestiona. En lloc de deixar que l'emovent l'atravessi, la posa en una categoria, l'explica, la resol. I així, sense adonar-se'n, viu la seva vida emocional com si fos un projecte més per administrar.",
+      },
+      {
+        type: "heading",
+        text: "Soltar no és perdre's",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta és la por de fons, la que sosté tota l'estructura: la idea que si deixes anar el control, et perds. Que sense aquesta estructura que has construït al voltant teu, no queda res. Però això, que se sent com una veritat absoluta, és en realitat una creença que va tenir sentit en algun moment i que ja no el té. Tu no ets el teu control. Eres molt més que allò que mantens a ratlla.",
+      },
+      {
+        type: "paragraph",
+        text: "Soltar no significa abandonar la responsabilitat ni deixar de cuidar allò que importa. Significa distingir entre el que depèn de tu i el que no, entre el que pots protegir i el que has de deixar passar, entre allò que requereix la teva atenció i allò que requereix la teva presència sense més. És un acte de maduresa, no de renúncia: el de reconèixer que la vida no es deixa administrar del tot, i que això no és un fracàs, és la condició mateixa d'estar viu.",
+      },
+      {
+        type: "heading",
+        text: "Què pot oferir la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no consisteix a demanar-te que deixis de controlar. Consisteix a mirar, amb cura i sense pressa, què hi ha darrere d'aquesta necessitat: què protegeix, què evita, de què té por. Es tracta d'identificar el moment en què el control va deixar de ser una elecció i es va convertir en un reflex, i de preguntar-se si aquella resposta, que un dia va ser necessària, encara ho és ara.",
+      },
+      {
+        type: "paragraph",
+        text: "En la consulta, aquesta feina es fa a poc a poc. Es tracta de començar a reconèixer el que sents abans de gestionar-ho, de permetre que l'experiència arribi sense haver-la d'explicar primer, de descobrir que pots estar amb la incertesa sense que et tombi. I es tracta, sobretot, de descobrir que la teva autonomia no depèn del control: depèn de la teva capacitat d'estar amb el que passa, sigui el que sigui, sense haver de tenir-ho tot resolt abans de poder respirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes en aquestes línies la teva manera de funcionar, si saps que la teva competència amaga una por més antiga, o si descobreixes que el teu control és més una armadura que una elecció, pots sol·licitar una primera visita a la nostra pàgina de contacte. A Espai Emocions acompanyem processos d'adults que volen aprendre a soltar sense perdre's, a confiar sense haver de garantir-ho tot, i a viure amb més presència i menys gestió.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay personas que llevan la vida con una precisión que genera admiración y, a la vez, una cierta distancia. Planifican todo aquello que se puede planificar, anticipan los imprevistos con una eficiencia casi silenciosa, organizan el tiempo, los espacios y las relaciones con un detalle que no deja nada al azar. Si hay un problema, ya han pensado en él. Si hay un riesgo, ya lo han cubierto. Desde fuera, parece fuerza. Desde dentro, a menudo es otra cosa.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que pocas veces se ve es el coste de ese control. No es un coste visible, como el cansancio o la irritabilidad, aunque esos también están. Es un coste más silencioso: el de vivir con la sensación constante de que, si sueltas una sola pieza, todo se desmonta. El de no poder disfrutar de algo sin haberlo gestionado antes. El de sentir que el descanso solo es legítimo cuando todo está resuelto, lo cual quiere decir que el descanso nunca llega del todo, porque siempre hay algo más que ordenar.",
+      },
+      {
+        type: "heading",
+        text: "Qué es el control y para qué sirve",
+      },
+      {
+        type: "paragraph",
+        text: "El control no es malo. Es una capacidad: la de prever, de organizar, de proteger. Todos necesitamos un cierto grado de control para sostener la vida, para tomar decisiones coherentes, para no estar a merced de todo lo que pasa. El problema no es el control en sí, sino el momento en que deja de ser una herramienta y se convierte en una necesidad. Y el momento en que esa necesidad, en lugar de protegerte, empieza a limitarte.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando el control se vuelve necesario, ya no lo estás utilizando: estás habitado por él. Ya no decides controlar: tienes que controlar. Y esa diferencia, que parece sutil, lo cambia todo. Porque la persona que decide controlar puede también decidir no hacerlo, puede dejar espacio a la improvisación, a la sorpresa, a la incertidumbre. La persona que necesita controlar no tiene esa opción: para ella, soltar no es una posibilidad, es una amenaza.",
+      },
+      {
+        type: "heading",
+        text: "De dónde viene esa necesidad",
+      },
+      {
+        type: "paragraph",
+        text: "La necesidad de control casi siempre tiene una historia, y esa historia suele empezar mucho antes de que la persona fuera consciente de controlar nada. Puede ser una historia donde, de pequeño, tuvo que asumir responsabilidades que no le correspondían: cuidar a alguien, mantener el orden, hacer de pivote entre adultos que no se entendían. Puede ser una historia donde el entorno era impredecible, donde los cambios llegaban sin avisar y donde la única manera de sentir un poco de seguridad era anticiparse a todo lo que podía fallar.",
+      },
+      {
+        type: "paragraph",
+        text: "En esos contextos, controlar no es una manía ni un capricho: es una manera de sobrevivir. Si el mundo de fuera es caótico, crear un orden interno y externo se convierte en una necesidad de primer orden. Y si esa estrategia funciona —si de hecho protege, si de hecho evita catástrofes, si de hecho permite seguir adelante—, la persona la incorpora a su repertorio como una parte de quien es. Deja de ser una respuesta a una situación y se convierte en una manera de estar en el mundo.",
+      },
+      {
+        type: "heading",
+        text: "La identidad construida alrededor de tenerlo todo bajo control",
+      },
+      {
+        type: "paragraph",
+        text: "Con el tiempo, esa manera de funcionar pasa a formar parte de la identidad. La persona se reconoce a sí misma como alguien fiable, competente, capaz. Y lo es. Pero esa identidad tiene un coste oculto: si solo sabes quién eres cuando lo tienes todo controlado, perder el control te sitúa fuera del lugar donde sientes que tienes derecho a estar. No es que temas lo que pasará: es que temes dejar de ser quien crees que eres.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica por qué, para estas personas, las situaciones más difíciles no son las crisis visibles, sino los momentos de incertidumbre: una decisión que no puede resolverse con información, una relación que no se deja planificar, un proceso que requiere esperar sin saber qué pasará. En esos momentos, el control no sirve, y la persona se queda sin su principal recurso. Y lo que aparece entonces no es solo ansiedad: es una sensación de desconocimiento, como si, sin el control, no supiera quién es.",
+      },
+      {
+        type: "heading",
+        text: "Lo que el control impide",
+      },
+      {
+        type: "paragraph",
+        text: "El control, cuando se vuelve necesario, no solo limita la incertidumbre: también limita la vida. Impide que llegue aquello que no has previsto, y lo que no has previsto incluye buena parte de lo que hace que la vida valga la pena: el encuentro no buscado, la conversación que cambia algo, la sorpresa que no sabías que necesitabas. Impide, también, que los demás participen de verdad, porque si lo tienes todo bajo control, los demás solo pueden ocupar el lugar que les has asignado, no el que necesitarían ocupar.",
+      },
+      {
+        type: "paragraph",
+        text: "Y hay otra cosa que el control impide, quizá la más importante: estar con lo que sientes. Porque las emociones, por definición, no se controlan. Aparecen cuando aparecen, duran lo que duran, dicen lo que dicen. Y para una persona que necesita tenerlo todo a raya, eso es intolerable. Entonces, en lugar de sentir, gestiona. En lugar de dejar que la emoción lo atraviese, la pone en una categoría, la explica, la resuelve. Y así, sin darse cuenta, vive su vida emocional como si fuera un proyecto más por administrar.",
+      },
+      {
+        type: "heading",
+        text: "Soltar no es perderse",
+      },
+      {
+        type: "paragraph",
+        text: "Este es el miedo de fondo, el que sostiene toda la estructura: la idea de que si sueltas el control, te pierdes. Que sin esa estructura que has construido alrededor, no queda nada. Pero eso, que se siente como una verdad absoluta, es en realidad una creencia que tuvo sentido en algún momento y que ya no lo tiene. Tú no eres tu control. Eres mucho más que aquello que mantienes a raya.",
+      },
+      {
+        type: "paragraph",
+        text: "Soltar no significa abandonar la responsabilidad ni dejar de cuidar lo que importa. Significa distinguir entre lo que depende de ti y lo que no, entre lo que puedes proteger y lo que tienes que dejar pasar, entre aquello que requiere tu atención y aquello que requiere tu presencia sin más. Es un acto de madurez, no de renuncia: el de reconocer que la vida no se deja administrar del todo, y que eso no es un fracaso, es la condición misma de estar vivo.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede ofrecer la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no consiste en pedirte que dejes de controlar. Consiste en mirar, con cuidado y sin prisa, qué hay detrás de esa necesidad: qué protege, qué evita, de qué tiene miedo. Se trata de identificar el momento en que el control dejó de ser una elección y se convirtió en un reflejo, y de preguntarse si aquella respuesta, que un día fue necesaria, lo sigue siendo ahora.",
+      },
+      {
+        type: "paragraph",
+        text: "En la consulta, este trabajo se hace despacio. Se trata de empezar a reconocer lo que sientes antes de gestionarlo, de permitir que la experiencia llegue sin tener que explicarla primero, de descubrir que puedes estar con la incertidumbre sin que te derrumbe. Y se trata, sobre todo, de descubrir que tu autonomía no depende del control: depende de tu capacidad de estar con lo que pasa, sea lo que sea, sin tener que tenerlo todo resuelto antes de poder respirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces en estas líneas tu manera de funcionar, si sabes que tu competencia esconde un miedo más antiguo, o si descubres que tu control es más una armadura que una elección, puedes solicitar una primera visita en nuestra página de contacto. En Espai Emocions acompañamos procesos de adultos que quieren aprender a soltar sin perderse, a confiar sin tener que garantizarlo todo, y a vivir con más presencia y menos gestión.",
+      },
+    ],
+  },
 ];

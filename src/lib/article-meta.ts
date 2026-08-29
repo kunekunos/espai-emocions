@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "la-necesidad-de-control-adultos",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La necessitat de control: quan mantenir-ho tot a ratlla et manté a distància de tu",
+    "titleES": "La necesidad de control: cuando mantenerlo todo a raya te mantiene a distancia de ti",
+    "excerptCA": "Hi ha persones que porten la vida amb una precisió admirable. Planifiquen, anticipen, organitzen. Res se'ls escapa, o això sembla. Però sota aquesta superfície ordenada hi sol haver una altra cosa: una por antiga al que passaria si deixessin d'estar al capdavant de tot. Aquí explorem per què la necessitat de control, que durant anys ha funcionat com una força, pot convertir-se en una gàbia, què hi té a veure la història i la identitat, i com pot ajudar la teràpia a soltar sense que això signifiqui perdre's.",
+    "excerptES": "Hay personas que llevan la vida con una precisión admirable. Planifican, anticipan, organizan. Nada se les escapa, o eso parece. Pero bajo esa superficie ordenada suele haber otra cosa: un miedo antiguo a lo que pasaría si dejaran de estar al frente de todo. Aquí exploramos por qué la necesidad de control, que durante años ha funcionado como una fuerza, puede convertirse en una jaula, qué tiene que ver la historia y la identidad, y cómo puede ayudar la terapia a soltar sin que eso signifique perderse.",
+    "datePublished": "2026-08-29"
+  },
+  {
     "slug": "cuando-recibir-cuesta-mas-que-dar",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
