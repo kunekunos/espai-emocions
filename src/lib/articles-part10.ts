@@ -374,4 +374,145 @@ export const articlesPart10: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 3. yo-estoy-bien-la-funcionalidad-como-defensa (Pilar: Identidad / Madurez)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "yo-estoy-bien-la-funcionalidad-como-defensa",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "«Jo estic bé»: quan estar sempre bé és la manera més silenciosa de no estar-hi",
+    titleES:
+      "«Yo estoy bien»: cuando estar siempre bien es la manera más silenciosa de no estarlo",
+    excerptCA:
+      "Hi ha persones que mai no estan malament. No és que tinguin una vida fàcil ni que no els passi res: és que fa tant de temps que sostenen el paper de qui aguanta, que ja no saben dir «avui no puc». El benestar permanent, en lloc de senyal de salut, pot ser la defensa més discreta que existeix: una manera de no haver d'ocupar el lloc de qui necessita. Aquí explorem com es construeix aquesta funcionalitat, què protegeix i quin preu té sostenir-la anys.",
+    excerptES:
+      "Hay personas que nunca están mal. No es que tengan una vida fácil ni que no les pase nada: es que llevan tanto tiempo sosteniendo el papel de quien aguanta, que ya no saben decir «hoy no puedo». El bienestar permanente, en lugar de señal de salud, puede ser la defensa más discreta que existe: una manera de no tener que ocupar el lugar de quien necesita. Aquí exploramos cómo se construye esa funcionalidad, qué protege y qué precio tiene sostenerla años.",
+    datePublished: "2026-08-30",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«Com estàs?». «Bé, tot correcte». «I tu, com va tot?». «Bé, no em puc queixar». Hi ha converses que es repeteixen anys durant sense que ningú hi posi en dubte el contingut. La persona respon bé perquè sempre respon bé, i l'entorn ha après a no preguntar més enllà. No és mentida conscient: quan dius «estic bé» mil vegades, la frase acaba funcionant com una resposta automàtica que estalvia la conversa que hi hauria darrere. La pregunta és què hi ha sota aquest benestar tan estable.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article parla d'un patró que a la consulta apareix sovint: persones que funcionen. Que treballen, que compleixen, que sostenen els altres, que no cauen. I que, precisament per això, ningú —comptades ells mateixos— s'imagina que puguin estar passant per alguna cosa. És la funcionalitat com a defensa: no estar mai malament com a manera d'estar en el món.",
+      },
+      {
+        type: "heading",
+        text: "Què vol dir funcionar i a qui serveix",
+      },
+      {
+        type: "paragraph",
+        text: "Funcionar, en si mateix, no és cap problema. És fins i tot un valor: la capacitat de sostenir la vida, les responsabilitats i els compromisos quan arriben temps difícils. La qüestió és una altra: quan «estar bé» deixa de ser un estat i es converteix en una política. Quan la resposta a «com estàs?» està decidida abans de la pregunta. Quan, per molt que passi, el missatge cap a fora —i cap a dins— és sempre el mateix: aquí no passa res.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta manera d'estar-hi sol tenir una història. Sovint és la història d'algú que, molt aviat, va aprendre que el seu valor en les relacions era la solidesa: que els adults del seu voltant necessitaven que ell estigués bé, i que estar malament afegia pes a un sistema que ja anava just. Llavors va fer el que fan moltes criatures en aquesta situació: va deixar de mostrar el que li passava. No va deixar de sentir-ho: va deixar de compartir-ho. I amb els anys, la distància entre el que es sent i el que es mostra es va anar eixamplant, fins que ja no sap travessar-la.",
+      },
+      {
+        type: "heading",
+        text: "El cost de no caure mai",
+      },
+      {
+        type: "paragraph",
+        text: "El cost d'aquesta política és silenciós perquè el seu èxit mateix l'oculta. Si mai no estàs malament, ningú no s'acosta a preguntar. Si mai no demanes, ningú no arriba. La funcionalitat estable genera unes relacions que giren al voltant de la teva capacitat de sostenir, no al voltant del que et passa. I això, amb els anys, deixa una soledat particular: la de ser estimat per una versió de tu que no inclou la part que més necessitava companyia.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un segon cost, més subtil: la pèrdua de la referència interna. Si des de fa dècades gestiones el que sents abans de sentir-ho, si tradueixes cada emoció a un pla d'acció o a una càrrega per assumir, arriba un punt en què ja no saps distingir si estàs bé de veritat o si simplement estàs en silenci. Moltes persones arriben a la consulta amb aquesta pregunta ja formulada: «no sé si estic bé o si m'he acostumat a no queixar-me».",
+      },
+      {
+        type: "heading",
+        text: "Per què ara",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest patró sol aparèixer amb força entre els trenta-cinc i els cinquanta anys, i no és casual. És l'època en què la vida pregunta coses que la funcionalitat no pot respondre: el sentit del que s'ha construït, les relacions que s'han sostingut amb què i amb qui, el dolor que s'ha anat posposant amb la taca d'ocupar-se d'altres coses. La crisi no ve perquè la persona hagi fallat: ve perquè el mecanisme que ha funcionat tota la vida comença a fer soroll.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades el senyal és un cos que comença a dir el que la boca calla: tensió que no marxa, un son que es trenca, un estómac que s'engruna sense motiu mèdic. A vegades és un apagament progressiu de l'interès per coses que abans importaven. A vegades és, simplement, una tarda en què, per primera vegada en anys, no tens ganes de respondre «bé».",
+      },
+      {
+        type: "heading",
+        text: "Què pot oferir la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no consisteix a trencar-te per dins perquè deixis d'estar bé. Consisteix a oferir-te un lloc on estar malament no sigui un problema per a ningú: un espai on el teu benestar estable no sigui la condició per ser ben rebut. Per a una persona que ha passat anys sostenint els altres, això pot resultar desconcertant al principi. Dir «no estic bé» en veu alta, davant d'algú que no s'altera ni corre a resoldre-ho, és una experiència que poques vegades s'ha tingut.",
+      },
+      {
+        type: "paragraph",
+        text: "La feina, a la consulta, es fa a poc a poc i sense forçar res. Es tracta de reconèixer el moment exacte en què la resposta «bé» s'activa, i preguntar-se què hi havia abans. Es tracta de posar paraula, amb cura, a allò que es va aprendre a callar, i de descobrir que la persona que ets quan necessites alguna cosa no és una versió menys vàlida de tu. I es tracta, sobretot, de fer la prova difícil: la de comprovar que una relació pot sostenir el teu malestar sense trencar-se, i que ocupar el lloc de qui rep, un cop, no desmunta res del que has construït.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions acompanyem processos d'adults que han après a estar sempre bé i que, en algun moment, volen descobrir com s'està de veritat. Si reconeixes en aquestes línies la teva manera de respondre, pots sol·licitar una primera visita a la nostra pàgina de contacte. No cal que arribis amb una crisi a la mà: n'hi ha prou amb la pregunta.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«¿Cómo estás?». «Bien, todo correcto». «¿Y tú, cómo va todo?». «Bien, no me puedo quejar». Hay conversaciones que se repiten durante años sin que nadie ponga en duda el contenido. La persona responde bien porque siempre responde bien, y el entorno ha aprendido a no preguntar más allá. No es mentira consciente: cuando dices «estoy bien» mil veces, la frase acaba funcionando como una respuesta automática que ahorra la conversación que habría detrás. La pregunta es qué hay debajo de ese bienestar tan estable.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo habla de un patrón que en la consulta aparece a menudo: personas que funcionan. Que trabajan, que cumplen, que sostienen a los demás, que no caen. Y que, precisamente por eso, nadie —ellos incluidos— imagina que puedan estar pasando por algo. Es la funcionalidad como defensa: no estar nunca mal como manera de estar en el mundo.",
+      },
+      {
+        type: "heading",
+        text: "Qué significa funcionar y a quién sirve",
+      },
+      {
+        type: "paragraph",
+        text: "Funcionar, en sí mismo, no es ningún problema. Es incluso un valor: la capacidad de sostener la vida, las responsabilidades y los compromisos cuando llegan tiempos difíciles. La cuestión es otra: cuando «estar bien» deja de ser un estado y se convierte en una política. Cuando la respuesta a «¿cómo estás?» está decidida antes de la pregunta. Cuando, pase lo que pase, el mensaje hacia fuera —y hacia dentro— es siempre el mismo: aquí no pasa nada.",
+      },
+      {
+        type: "paragraph",
+        text: "Esa manera de estar suele tener una historia. A menudo es la historia de alguien que, muy pronto, aprendió que su valor en las relaciones era la solidez: que los adultos a su alrededor necesitaban que él estuviera bien, y que estar mal añadía peso a un sistema que ya iba justo. Entonces hizo lo que hacen muchas criaturas en esa situación: dejó de mostrar lo que le pasaba. No dejó de sentirlo: dejó de compartirlo. Y con los años, la distancia entre lo que se siente y lo que se muestra se fue ensanchando, hasta que ya no sabe atravesarla.",
+      },
+      {
+        type: "heading",
+        text: "El coste de no caer nunca",
+      },
+      {
+        type: "paragraph",
+        text: "El coste de esa política es silencioso porque su propio éxito lo oculta. Si nunca estás mal, nadie se acerca a preguntar. Si nunca pides, nadie llega. La funcionalidad estable genera unas relaciones que giran alrededor de tu capacidad de sostener, no alrededor de lo que te pasa. Y eso, con los años, deja una soledad particular: la de ser querido por una versión de ti que no incluye la parte que más necesitaba compañía.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un segundo coste, más sutil: la pérdida de la referencia interna. Si desde hace décadas gestionas lo que sientes antes de sentirlo, si traduces cada emoción a un plan de acción o a una carga por asumir, llega un punto en que ya no sabes distinguir si estás bien de verdad o si simplemente estás en silencio. Muchas personas llegan a la consulta con esa pregunta ya formulada: «no sé si estoy bien o si me he acostumbrado a no quejarme».",
+      },
+      {
+        type: "heading",
+        text: "Por qué ahora",
+      },
+      {
+        type: "paragraph",
+        text: "Este patrón suele aparecer con fuerza entre los treinta y cinco y los cincuenta años, y no es casual. Es la época en la que la vida pregunta cosas que la funcionalidad no puede responder: el sentido de lo que se ha construido, las relaciones que se han sostenido con qué y con quién, el dolor que se ha ido posponiendo con la excusa de ocuparse de otras cosas. La crisis no viene porque la persona haya fallado: viene porque el mecanismo que ha funcionado toda la vida empieza a hacer ruido.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces la señal es un cuerpo que empieza a decir lo que la boca calla: tensión que no se va, un sueño que se rompe, un estómago que se cierra sin motivo médico. A veces es un apagamiento progresivo del interés por cosas que antes importaban. A veces es, simplemente, una tarde en la que, por primera vez en años, no tienes ganas de responder «bien».",
+      },
+      {
+        type: "heading",
+        text: "Qué puede ofrecer la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no consiste en romperte por dentro para que dejes de estar bien. Consiste en ofrecerte un lugar donde estar mal no sea un problema para nadie: un espacio donde tu bienestar estable no sea la condición para ser bien recibido. Para una persona que ha pasado años sosteniendo a los demás, esto puede resultar desconcertante al principio. Decir «no estoy bien» en voz alta, ante alguien que no se altera ni corre a resolverlo, es una experiencia que pocas veces se ha tenido.",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo, en la consulta, se hace despacio y sin forzar nada. Se trata de reconocer el momento exacto en el que la respuesta «bien» se activa, y preguntarse qué había antes. Se trata de poner palabra, con cuidado, a aquello que se aprendió a callar, y de descubrir que la persona que eres cuando necesitas algo no es una versión menos válida de ti. Y se trata, sobre todo, de hacer la prueba difícil: la de comprobar que una relación puede sostener tu malestar sin romperse, y que ocupar el lugar de quien recibe, una vez, no desmonta nada de lo que has construido.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions acompañamos procesos de adultos que han aprendido a estar siempre bien y que, en algún momento, quieren descubrir cómo se está de verdad. Si reconoces en estas líneas tu manera de responder, puedes solicitar una primera visita en nuestra página de contacto. No hace falta que llegues con una crisis en la mano: basta con la pregunta.",
+      },
+    ],
+  },
 ];

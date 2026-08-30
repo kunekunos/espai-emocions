@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "yo-estoy-bien-la-funcionalidad-como-defensa",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "«Jo estic bé»: quan estar sempre bé és la manera més silenciosa de no estar-hi",
+    "titleES": "«Yo estoy bien»: cuando estar siempre bien es la manera más silenciosa de no estarlo",
+    "excerptCA": "Hi ha persones que mai no estan malament. No és que tinguin una vida fàcil ni que no els passi res: és que fa tant de temps que sostenen el paper de qui aguanta, que ja no saben dir «avui no puc». El benestar permanent, en lloc de senyal de salut, pot ser la defensa més discreta que existeix: una manera de no haver d'ocupar el lloc de qui necessita. Aquí explorem com es construeix aquesta funcionalitat, què protegeix i quin preu té sostenir-la anys.",
+    "excerptES": "Hay personas que nunca están mal. No es que tengan una vida fácil ni que no les pase nada: es que llevan tanto tiempo sosteniendo el papel de quien aguanta, que ya no saben decir «hoy no puedo». El bienestar permanente, en lugar de señal de salud, puede ser la defensa más discreta que existe: una manera de no tener que ocupar el lugar de quien necesita. Aquí exploramos cómo se construye esa funcionalidad, qué protege y qué precio tiene sostenerla años.",
+    "datePublished": "2026-08-30"
+  },
+  {
     "slug": "la-necesidad-de-control-adultos",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
