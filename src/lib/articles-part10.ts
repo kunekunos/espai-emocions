@@ -515,4 +515,145 @@ export const articlesPart10: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. despues-de-la-infidelidad-quedar-o-marchar (Pilar: Pareja / Crisis / Vínculo)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "despues-de-la-infidelidad-quedar-o-marchar",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "Després de la infidelitat: quan la pregunta no és quedar-se o marxar",
+    titleES:
+      "Después de la infidelidad: cuando la pregunta no es quedarse o marcharse",
+    excerptCA:
+      "Hi ha pocs cops que desestabilitzin una relació com una infidelitat. I la pregunta que apareix immediatament —quedar-se o marxar— és, gairebé sempre, la menys útil. No perquè no mereixi resposta, sinó perquè formulada enmig del dolor no admet una resposta honesta. Aquí explorem què es trenca realment quan apareix una infidelitat, què sol estar dient de la relació i de les persones que la formen, i com pot ajudar la teràpia de parella a recórrer aquesta crisi sense convertir el vincle en un interrogatori ni en un camp de batalla.",
+    excerptES:
+      "Hay pocos golpes que desestabilicen una relación como una infidelidad. Y la pregunta que aparece de inmediato —quedarse o marcharse— es, casi siempre, la menos útil. No porque no merezca respuesta, sino porque formulada en medio del dolor no admite una respuesta honesta. Aquí exploramos qué se rompe realmente cuando aparece una infidelidad, qué suele estar diciendo de la relación y de las personas que la forman, y cómo puede ayudar la terapia de pareja a recorrer esta crisis sin convertir el vínculo en un interrogatorio ni en un campo de batalla.",
+    datePublished: "2026-08-31",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha pocs cops que desestabilitzin una relació com una infidelitat. De cop, tot allò que donava sentit al vincle —la confiança, la història compartida, la sensació de saber qui és la persona que tens al costat— queda suspès. I enmig d'aquest desorientació apareix, gairebé inevitablement, la pregunta: em quedo o me'n vaig? És la pregunta que fan els amics, la família, la pròpia ment a qualsevol hora de la nit. I és, gairebé sempre, la pregunta equivocada per començar.",
+      },
+      {
+        type: "paragraph",
+        text: "No perquè no mereixi resposta. Sinó perquè formulada enmig del dolor, quan encara no se sap què ha passat ni per què, no admet una resposta honesta. Quedar-se pot ser una manera de no perdre, i també una manera de no mirar. Marxar pot ser un acte de coherència, i també una fugida elegant que evita la conversa. La decisió, si vol ser madura, necessita alguna cosa que els primers dies escasseja: context, història, temps.",
+      },
+      {
+        type: "heading",
+        text: "El que es trenca primer",
+      },
+      {
+        type: "paragraph",
+        text: "Quan apareix una infidelitat, el primer que es trenca no és l'exclusivitat: és el sentit. La història de la parella, tal com es coneixia, deixa de ser certa. Es rellegeix el passat sencer amb una altra clau: aquell sopar, aquell viatge, aquell silenci de fa dos anys. La persona ferida no només perd confiança en l'altre: perd, durant un temps, confiança en la pròpia percepció. «Com no ho vaig veure? És que tot era mentida?». Aquesta ferida en la pròpia capacitat de saber és, moltes vegades, més difícil de reparar que la traïció mateixa.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això els primers temps solen ser caòtics. Dies en què es pregunta tot i no se sosté cap resposta. La persona que ha estat infidel pot voler tancar el tema ràpid, alleujada per haver estat descoberta o paralitzada per la culpa. La persona ferida pot oscil·lar entre la necessitat de saber cada detall i la impossibilitat d'escoltar-los. Cap de les dues reaccions no és anormal: són les maneres com un vincle intenta pair alguna cosa que no encaixa en el que era.",
+      },
+      {
+        type: "heading",
+        text: "Què sol estar dient la infidelitat",
+      },
+      {
+        type: "paragraph",
+        text: "Una infidelitat gairebé mai no s'explica sola. A vegades no diu gaire més del que diu: una nit, un impuls, una ximpleria sense més recorregut. Però altres vegades parla d'alguna cosa que no funcionava en la relació i que ningú sabia anomenar: una distància que s'havia instal·lat, un desig que no cabia en la parella que s'era, una part d'algú que feia anys que era fora de joc. Entendre-ho no justifica res: la responsabilitat de qui ha estat infidel és seva, i no es dissol en el malestar de la parella. Però comprendre el context és l'única via perquè la crisi serveixi per a alguna cosa.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí cal ser precís, perquè aquest és el punt on més es confon. Buscar el context no és repartir culpes. La pregunta «què passava en aquesta relació?» no respon a «qui té raó?». Una persona pot estar insatisfeta i no ser infidel; ser-ho és sempre una elecció. I alhora, una parella que només s'ocupa de la traïció, sense mirar el terreny on va ocórrer, sol quedar-se amb la ferida oberta i sense la comprensió que permetria, si es decideix, construir alguna cosa distinta.",
+      },
+      {
+        type: "heading",
+        text: "La feina de cadascú",
+      },
+      {
+        type: "paragraph",
+        text: "Quan una parella arriba a consulta després d'una infidelitat, la feina és doble. Hi ha una feina compartida: entendre què ha passat, què era aquesta parella, si hi ha alguna cosa que tots dos vulguin reparar. I hi ha una feina individual per a cadascú. Per a qui ha estat infidel, aquesta feina passa per sostenir la responsabilitat sense enfonsar-se en la culpa: la culpa que només busca alleujament propi força l'altre a consolar qui li ha fet mal. Per a qui ha estat ferit, passa per no quedar-se amb la part de responsabilitat que no és seva: la decisió de l'altre no va ser causada per ell, i carregar-la és una manera subtil de perdre autonomia.",
+      },
+      {
+        type: "heading",
+        text: "Refer no és tornar a abans",
+      },
+      {
+        type: "paragraph",
+        text: "Si la parella decideix quedar-se, convé saber una cosa: el que es refer no és la relació d'abans. Aquella ja no existeix, i pretendre recuperar-la condemna tots dos a viure en la comparació constant amb un passat idealitzat. El que es pot construir és una altra relació: amb menys certeses, potser, però amb més veritat sobre el que cadascú sent, tem i vol. La confiança, en aquest procés, no torna per decret: es diposita a terminis, en gestos verificables, amb el temps. Hi ha parelles que ho aconsegueixen i parelles que no. Cap de les dues sortides no és, en si mateixa, la bona.",
+      },
+      {
+        type: "paragraph",
+        text: "Perquè a vegades la infidelitat acaba de dir alguna cosa que ja estava dita. Hi ha processos que acaben en una separació no com a fracàs de la teràpia, sinó com una manera madura de tancar una història. I hi ha processos en què la parella descobreix, amb sorpresa, que era la primera vegada en anys que parlaven de veritat de si mateixos. El paper de la teràpia no és salvar la parella a qualsevol preu: és que, decideixin el que decideixin, la decisió sigui seva, i no del dolor, de l'orgull o de la pressa.",
+      },
+      {
+        type: "heading",
+        text: "Un lloc per pensar el que no es pot pensar sol",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions acompanyem crisis de parella, també les que travessen una infidelitat. No venim a jutjar ningú ni a decidir per ningú: venim a sostenir un espai on aquesta crisi pugui mirar-se amb la profunditat que requereix, sense que la relació es converteixi en un interrogatori ni en un camp de batalla. Si esteu travessant alguna cosa així, podeu sol·licitar una primera visita des de la nostra pàgina de contacte. No cal arribar amb la decisió presa: a vegades cal, precisament, un lloc on poder pensar-la.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay pocos golpes que desestabilicen una relación como una infidelidad. De pronto, todo lo que daba sentido al vínculo —la confianza, la historia compartida, la sensación de saber quién es la persona que tienes al lado— queda suspendido. Y en medio de ese desconcierto aparece, casi inevitablemente, la pregunta: ¿me quedo o me marcho? Es la pregunta que formulan los amigos, la familia, la propia mente a cualquier hora de la noche. Y es, casi siempre, la pregunta equivocada para empezar.",
+      },
+      {
+        type: "paragraph",
+        text: "No porque no merezca respuesta. Sino porque formulada en medio del dolor, cuando todavía no se sabe qué ha pasado ni por qué, no admite una respuesta honesta. Quedarse puede ser una manera de no perder, y también una manera de no mirar. Marcharse puede ser un acto de coherencia, y también una huida elegante que evita la conversación. La decisión, si quiere ser madura, necesita algo que en los primeros días escasea: contexto, historia, tiempo.",
+      },
+      {
+        type: "heading",
+        text: "Lo que se rompe primero",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando aparece una infidelidad, lo primero que se rompe no es la exclusividad: es el sentido. La historia de la pareja, tal como se conocía, deja de ser cierta. Se relee el pasado entero con otra clave: aquella cena, aquel viaje, aquel silencio de hace dos años. La persona herida no solo pierde confianza en el otro: pierde, durante un tiempo, confianza en su propia percepción. «¿Cómo no lo vi? ¿Es que todo era mentira?». Esa herida en la propia capacidad de saber es, muchas veces, más difícil de reparar que la traición misma.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso los primeros tiempos suelen ser caóticos. Días en los que se pregunta todo y no se sostiene ninguna respuesta. La persona que ha sido infiel puede querer cerrar el tema rápido, aliviada por haber sido descubierta o paralizada por la culpa. La persona herida puede oscilar entre la necesidad de saber cada detalle y la imposibilidad de escucharlos. Ninguna de las dos reacciones es anormal: son las formas en que un vínculo intenta digerir algo que no encaja en lo que era.",
+      },
+      {
+        type: "heading",
+        text: "Qué suele estar diciendo la infidelidad",
+      },
+      {
+        type: "paragraph",
+        text: "Una infidelidad casi nunca se explica sola. A veces no dice mucho más que lo que dice: una noche, un impulso, una estupidez sin más recorrido. Pero otras veces habla de algo que no funcionaba en la relación y que nadie sabía nombrar: una distancia que se había instalado, un deseo que no cabía en la pareja que se era, una parte de alguien que llevaba años fuera de juego. Entenderlo no justifica nada: la responsabilidad de quien ha sido infiel es suya, y no se disuelve en el malestar de la pareja. Pero comprender el contexto es la única vía para que la crisis sirva para algo.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí hay que ser preciso, porque este es el punto donde más se confunde. Buscar el contexto no es repartir culpas. La pregunta «¿qué pasaba en esta relación?» no responde a «¿quién tiene razón?». Una persona puede estar insatisfecha y no ser infiel; serlo es siempre una elección. Y a la vez, una pareja que solo se ocupa de la traición, sin mirar el terreno en el que ocurrió, suele quedarse con la herida abierta y sin la comprensión que permitiría, si se decide, construir algo distinto.",
+      },
+      {
+        type: "heading",
+        text: "El trabajo de cada uno",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando una pareja llega a consulta después de una infidelidad, el trabajo es doble. Hay un trabajo compartido: entender qué ha pasado, qué era esta pareja, si hay algo que ambos quieran reparar. Y hay un trabajo individual para cada uno. Para quien ha sido infiel, ese trabajo pasa por sostener la responsabilidad sin hundirse en la culpa: la culpa que solo busca alivio propio fuerza al otro a consolar a quien le ha hecho daño. Para quien ha sido herido, pasa por no quedarse con la parte de responsabilidad que no es suya: la decisión del otro no fue causada por él, y cargar con ella es una forma sutil de perder autonomía.",
+      },
+      {
+        type: "heading",
+        text: "Reconstruir no es volver a antes",
+      },
+      {
+        type: "paragraph",
+        text: "Si la pareja decide quedarse, conviene saber algo: lo que se reconstruye no es la relación de antes. Aquella ya no existe, y pretender recuperarla condena a ambos a vivir en la comparación constante con un pasado idealizado. Lo que se puede construir es otra relación: con menos certezas, quizá, pero con más verdad sobre lo que cada uno siente, teme y quiere. La confianza, en ese proceso, no vuelve por decreto: se deposita a plazos, en gestos verificables, en el tiempo. Hay parejas que lo consiguen y parejas que no. Ninguna de las dos salidas es, en sí misma, la buena.",
+      },
+      {
+        type: "paragraph",
+        text: "Porque a veces la infidelidad termina de nombrar algo que ya estaba dicho. Hay procesos que terminan en una separación no como fracaso de la terapia, sino como una manera madura de cerrar una historia. Y hay procesos en los que la pareja descubre, con sorpresa, que era la primera vez en años que hablaban de verdad de sí mismos. El papel de la terapia no es salvar la pareja a cualquier precio: es que, decidan lo que decidan, la decisión sea de ellos, y no del dolor, del orgullo o de la prisa.",
+      },
+      {
+        type: "heading",
+        text: "Un lugar para pensar lo que no se puede pensar solo",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions acompañamos crisis de pareja, también las que atraviesan una infidelidad. No venimos a juzgar a nadie ni a decidir por nadie: venimos a sostener un espacio donde esta crisis pueda mirarse con la profundidad que requiere, sin que la relación se convierta en un interrogatorio ni en un campo de batalla. Si estáis atravesando algo así, podéis solicitar una primera visita desde nuestra página de contacto. No hace falta llegar con la decisión tomada: a veces hace falta, precisamente, un lugar donde pensarla.",
+      },
+    ],
+  },
 ];

@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "despues-de-la-infidelidad-quedar-o-marchar",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Després de la infidelitat: quan la pregunta no és quedar-se o marxar",
+    "titleES": "Después de la infidelidad: cuando la pregunta no es quedarse o marcharse",
+    "excerptCA": "Hi ha pocs cops que desestabilitzin una relació com una infidelitat. I la pregunta que apareix immediatament —quedar-se o marxar— és, gairebé sempre, la menys útil. No perquè no mereixi resposta, sinó perquè formulada enmig del dolor no admet una resposta honesta. Aquí explorem què es trenca realment quan apareix una infidelitat, què sol estar dient de la relació i de les persones que la formen, i com pot ajudar la teràpia de parella a recórrer aquesta crisi sense convertir el vincle en un interrogatori ni en un camp de batalla.",
+    "excerptES": "Hay pocos golpes que desestabilicen una relación como una infidelidad. Y la pregunta que aparece de inmediato —quedarse o marcharse— es, casi siempre, la menos útil. No porque no merezca respuesta, sino porque formulada en medio del dolor no admite una respuesta honesta. Aquí exploramos qué se rompe realmente cuando aparece una infidelidad, qué suele estar diciendo de la relación y de las personas que la forman, y cómo puede ayudar la terapia de pareja a recorrer esta crisis sin convertir el vínculo en un interrogatorio ni en un campo de batalla.",
+    "datePublished": "2026-08-31"
+  },
+  {
     "slug": "yo-estoy-bien-la-funcionalidad-como-defensa",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
