@@ -23,6 +23,16 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-09-01"
   },
   {
+    "slug": "preguntas-frecuentes-psicologia-barcelona",
+    "categoryCA": "El centre",
+    "categoryES": "El centro",
+    "titleCA": "Preguntes freqüents sobre psicologia a Barcelona: el que tothom pregunta abans de començar teràpia",
+    "titleES": "Preguntas frecuentes sobre psicología en Barcelona: lo que todo el mundo pregunta antes de empezar terapia",
+    "excerptCA": "Quant costa una sessió? Puc pagar amb assegurança? Què passa la primera vegada? Tot el que la gent vol saber abans de demanar cita amb un psicòleg a Barcelona, respost amb claredat: preus, assegurances, confidencialitat, durada del procés, teràpia online i com arribar al centre. Les dubtes que apareixen una vegada i una altra a la consulta, aplegades en una guia honesta per prendre decisions amb menys por i més informació.",
+    "excerptES": "¿Cuánto cuesta una sesión? ¿Puedo pagar con seguro? ¿Qué pasa la primera vez? Todo lo que la gente quiere saber antes de pedir cita con un psicólogo en Barcelona, respondido con claridad: precios, seguros, confidencialidad, duración del proceso, terapia online y cómo llegar al centro. Las dudas que aparecen una y otra vez en consulta, reunidas en una guía honesta para decidir con menos miedo y más información.",
+    "datePublished": "2026-09-01"
+  },
+  {
     "slug": "despues-de-la-infidelidad-quedar-o-marchar",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
