@@ -1,6 +1,7 @@
 import { landings, type Landing } from "@/lib/landings";
 import Image from "next/image";
 import { TrackedLink } from "./TrackedLink";
+import { OpenAIAdsPixel } from "./OpenAIAdsPixel";
 import styles from "./LandingPage.module.css";
 
 const phone = "+34 614 629 670";
@@ -82,6 +83,7 @@ export function LandingPage({ landing }: { landing: Landing }) {
 
   return (
     <>
+      {landing.slug === "psicologo-barcelona" ? <OpenAIAdsPixel /> : null}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
       <div className={styles.landingRoot} lang="es">
       <header className={c("site-header")}>

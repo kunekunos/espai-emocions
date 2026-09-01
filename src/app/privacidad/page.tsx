@@ -40,6 +40,11 @@ export default function PrivacyPage() {
                 identidad jurídica del responsable, el contacto de privacidad, los proveedores y
                 las posibles transferencias. Mientras tanto puedes contactar por WhatsApp o teléfono.
               </p>
+              <p className="mt-3 leading-relaxed text-foreground/75">
+                En la landing publicitaria de Espai Emocions, la medición de conversiones de OpenAI
+                permanece desactivada hasta que la persona la acepta. Si la permite, se registran
+                datos de atribución y clics de contacto, nunca el contenido de la consulta.
+              </p>
               <Link href="/#contacte" className="mt-5 inline-flex font-medium text-primary underline underline-offset-4">
                 Ver canales de contacto
               </Link>

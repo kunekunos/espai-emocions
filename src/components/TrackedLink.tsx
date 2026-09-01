@@ -5,6 +5,7 @@ import type { AnchorHTMLAttributes, MouseEvent } from "react";
 declare global {
   interface Window {
     gtag?: (...args: unknown[]) => void;
+    oaiq?: (...args: unknown[]) => void;
   }
 }
 
@@ -24,6 +25,12 @@ export function TrackedLink({ contactMethod, landingSlug, onClick, href, ...prop
       utm_medium: query.get("utm_medium") ?? "(none)",
       utm_campaign: query.get("utm_campaign") ?? "(not set)"
     });
+    window.oaiq?.(
+      "measure",
+      "lead_created",
+      { type: "customer_action" },
+      { opt_out: true },
+    );
     onClick?.(event);
   }
 
