@@ -656,4 +656,153 @@ export const articlesPart10: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 5. tener-hijos-o-no-tenerlos-pareja (Pilar: Pareja / Canvis vitals)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "tener-hijos-o-no-tenerlos-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "Tenir fills o no tenir-los: quan la pregunta s'instal·la a la parella",
+    titleES:
+      "¿Tener hijos o no tenerlos? Cuando la pregunta se instala en la pareja",
+    excerptCA:
+      "Tenir fills o no tenir-los és, per a moltes parelles, la pregunta més difícil de la seva vida en comú. No perquè falti informació, sinó perquè darrere del sí i del no hi ha identitats, històries i projectes diferents. Aquí explorem per què aquesta decisió genera tant malestar, què passa quan cadascú la sent a un ritme diferent, i com pot ajudar la teràpia a pensar-la sense presses i sense que la relació es converteixi en un camp de tensió.",
+    excerptES:
+      "Tener hijos o no tenerlos es, para muchas parejas, la pregunta más difícil de su vida en común. No porque falte información, sino porque detrás del sí y del no hay identidades, historias y proyectos distintos. Aquí exploramos por qué esta decisión genera tanto malestar, qué ocurre cuando cada persona la siente a un ritmo diferente, y cómo puede ayudar la terapia a pensarla sin prisa y sin que la relación se convierta en un campo de tensión.",
+    datePublished: "2026-09-01",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha preguntes que una parella pot anar posposant anys perquè la vida no obliga a respondre-les. I hi ha un moment —als trenta i escaig, als quaranta— en què la pregunta de tenir fills o no tenir-los deixa de ser hipotètica. Comença a arribar de fora: la família que pregunta en cada dinar, les amistats que anuncien embarassos, una biologia que posa data. I comença a arribar de dins: un desig que es desperta, una por que creix, la sensació que una finestra es tanca. El que semblava una conversa tranquil·la es converteix en una tensió que travessa la casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Convingui dir-ho d'entrada: no hi ha una resposta bona i una de dolenta. Hi ha una decisió que pot ser coherent amb la vida d'una parella concreta, i aquesta coherència no es pot importar de cap lloc: ni del guió familiar, ni del que fa la majoria, ni de la pressió d'una generació que confon desig amb obligació. El que sí que existeix, i és freqüent, és el malestar de decidir amb presses, amb por o pendent del que senti l'altre. Aquest malestar és, moltes vegades, el que porta una parella a consulta.",
+      },
+      {
+        type: "heading",
+        text: "Quan la pregunta arriba desincronitzada",
+      },
+      {
+        type: "paragraph",
+        text: "Gairebé mai les dues persones senten el mateix al mateix temps. Gairebé sempre hi ha algú més a prop del sí i algú més a prop del no, o dos dubtes diferents amb el mateix nom. Aquesta desincronia és normal, però es pot viure com una traïció. Si tu ho tens clar i jo encara no, la teva certesa em sona a pressió. Si tu no els vols i jo sí, la teva negativa em sona a tancament. Al cap de poc temps, la parella deixa de parlar de fills i comença a parlar d'una altra cosa: de qui imposa, qui cedeix, qui aguanta.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una capa que amb prou feines s'anomena: no és el mateix no voler tenir fills que no voler tenir-los amb aquesta relació, ara, en aquestes condicions. De vegades el «no» d'una persona no és un no a la criança, sinó un no a la vida que suposa amb la parella tal com està: una relació que necessita cura abans de sostenir res més. Distingir-ho no resol la pregunta, però la canvia de lloc: deixa de ser un pols entre desigs i passa a ser una conversa sobre la relació mateixa.",
+      },
+      {
+        type: "heading",
+        text: "El que la pregunta posa sobre la taula",
+      },
+      {
+        type: "paragraph",
+        text: "La decisió de tenir fills no és només una decisió sobre fills. És una decisió sobre el temps, el cos, la feina, els diners, la parella que s'és i la que serà. Per això costa tant: no és una pregunta, són moltes preguntes disfressades d'una. Quina mena de mare o de pare seré. Quant del que he construït es transformarà. Si la nostra relació resistirà. Què pensaré d'aquesta decisió d'aquí a deu anys. Ningú no pot respondre res d'això per endavant amb certesa, i aquesta impossibilitat de certesa és, per a moltes persones, el més difícil de sostenir.",
+      },
+      {
+        type: "paragraph",
+        text: "Cada persona hi arriba, a més, amb la seva història. La pròpia infantesa, la relació amb els pares, els missatges rebuts sobre què és una vida reeixida, els dols propis. Hi ha qui desitja fills, en part, per reparar alguna cosa de la seva història; hi ha qui no els desitja, en part, per aquesta mateixa història. Cap de les dues raons no invalida el desig: l'expliquen. La tasca no és netejar la decisió de tot el que una persona és, sinó conèixer aquest material per decidir amb la màxima coherència possible.",
+      },
+      {
+        type: "heading",
+        text: "El silenci també decideix",
+      },
+      {
+        type: "paragraph",
+        text: "Una de les formes més freqüents de resoldre la pregunta és no resoldre-la. Es posposa, s'esquiva, es converteix en un tema del qual la parella ha après a no parlar. El silenci funciona durant anys perquè sembla neutral, però gairebé mai no ho és: sol beneficiar qui no vol moure la pregunta i costar a qui la porta a dins. I amb el temps, no decidir es converteix en una decisió. Quan una parella arriba a consulta després d'anys de no tocar aquest tema, un dels primers treballs és precisament aquest: mirar amb claredat què s'ha decidit sense decidir.",
+      },
+      {
+        type: "heading",
+        text: "Què pot oferir la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia no serveix perquè algú us digui què fer. Ningú no pot ni ha de prendre aquesta decisió per ningú. El que la teràpia pot oferir és un lloc on la pregunta es pugui pensar de debò: sense presses, sense pressió i sense que cada conversa acabi en discussió. Un espai on cada persona pugui dir el que encara no ha dit en veu alta: la por de perdre's, el desig que no s'atrevia a anomenar, la part de la pròpia història que empeny en una direcció.",
+      },
+      {
+        type: "paragraph",
+        text: "Sovint, amb el temps, la pregunta es transforma. La parella descobreix que no discutia sobre fills, sinó sobre intimitat, sobre confiança, sobre el repartiment de la vida quotidiana, sobre quant se sosté l'un a l'altre. La feina consisteix a separar el desig propi del desig heretat; a sostenir el desacord sense que es converteixi en ruptura; a retornar a cada persona la responsabilitat de la seva pròpia veu sense que això es confongui amb un ultimàtum.",
+      },
+      {
+        type: "paragraph",
+        text: "De vegades el procés desemboca en la decisió de no tenir fills, i la parella se sosté. De vegades desemboca en tenir-los, i l'arribada no esborra els dubtes però els retorna al seu lloc. I de vegades revela que no es comparteix el mateix projecte de vida: una sortida que fa mal, però que també és informació honrada sobre el que la relació pot i no pot sostenir. El paper de la teràpia no és empènyer cap de les dues voreres: és que la decisió, si arriba, sigui vostra, i no de la por, de les presses o del guió.",
+      },
+      {
+        type: "heading",
+        text: "Un lloc per pensar-la plegats",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions acompanyem parelles que travessen aquesta pregunta, en qualsevol de les seves versions. No venim a decidir per vosaltres ni a defensar cap resposta: venim a sostenir un espai on aquesta conversa pugui fer-se amb la profunditat i la calma que mereix. Si aquesta pregunta s'ha instal·lat a la vostra relació i resulta impossible de pensar sols, podeu sol·licitar una primera visita des de la nostra pàgina de contacte. No cal arribar amb la decisió presa: cal, precisament, un lloc on poder pensar-la.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay preguntas que una pareja puede dejar pasar años porque la vida no obliga a responderlas. Y hay un momento —a los treinta y tantos, a los cuarenta— en que la pregunta de tener hijos o no tenerlos deja de ser hipotética. Empieza a llegar desde fuera: la familia que pregunta en cada comida, las amistades que anuncian embarazos, una biología que pone fecha. Y empieza a llegar desde dentro: un deseo que despierta, un temor que crece, la sensación de que una ventana se cierra. Lo que parecía una conversación tranquila se convierte en una tensión que atraviesa la casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decirlo de entrada: no hay una respuesta buena y una respuesta mala. Hay una decisión que puede ser coherente con la vida de una pareja concreta, y esa coherencia no se puede importar de ningún sitio: ni del guion familiar, ni de lo que hace la mayoría, ni de la presión de una generación que confunde deseo con obligación. Lo que sí existe, y es frecuente, es el malestar de decidir con prisa, con miedo o pendiente de lo que sienta el otro. Ese malestar es, muchas veces, lo que trae a una pareja a consulta.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la pregunta llega desincronizada",
+      },
+      {
+        type: "paragraph",
+        text: "Casi nunca las dos personas sienten lo mismo al mismo tiempo. Casi siempre hay alguien más cerca del sí y alguien más cerca del no, o dos dudas distintas con el mismo nombre. Esa desincronía es normal, pero puede vivirse como una traición. Si tú lo tienes claro y yo todavía no, tu certeza me suena a presión. Si tú no los quieres y yo sí, tu negativa me suena a cierre. En poco tiempo, la pareja deja de hablar de hijos y empieza a hablar de otra cosa: de quién impone, quién cede, quién aguanta.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una capa que apenas se nombra: no es lo mismo no querer tener hijos que no querer tenerlos con esta relación, ahora, en estas condiciones. A veces el «no» de una persona no es un no a la crianza, sino un no a la vida que supone con la pareja tal como está: una relación que necesita cuidado antes de sostener algo más. Distinguirlo no resuelve la pregunta, pero la cambia de sitio: deja de ser un pulso entre deseos y pasa a ser una conversación sobre la relación misma.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la pregunta pone sobre la mesa",
+      },
+      {
+        type: "paragraph",
+        text: "La decisión de tener hijos no es solo una decisión sobre hijos. Es una decisión sobre el tiempo, el cuerpo, el trabajo, el dinero, la pareja que se es y la que se será. Por eso cuesta tanto: no es una pregunta, son muchas preguntas disfrazadas de una. Qué clase de madre o de padre seré. Cuánto de lo que he construido se transformará. Si nuestra relación resistirá. Qué pensaré de esta decisión dentro de diez años. Nadie puede responder nada de esto por adelantado con certeza, y esa imposibilidad de certeza es, para muchas personas, lo más difícil de sostener.",
+      },
+      {
+        type: "paragraph",
+        text: "Cada persona llega, además, con su historia. La propia infancia, la relación con sus padres, los mensajes recibidos sobre qué es una vida lograda, los duelos propios. Hay quien desea hijos, en parte, para reparar algo de su historia; hay quien no los desea, en parte, por esa misma historia. Ninguna de las dos razones invalida el deseo: lo explican. La tarea no es limpiar la decisión de todo lo que una persona es, sino conocer ese material para decidir con la mayor coherencia posible.",
+      },
+      {
+        type: "heading",
+        text: "El silencio también decide",
+      },
+      {
+        type: "paragraph",
+        text: "Una de las formas más frecuentes de resolver la pregunta es no resolverla. Se pospone, se esquiva, se convierte en un tema del que la pareja ha aprendido a no hablar. El silencio funciona durante años porque parece neutral, pero casi nunca lo es: suele beneficiar a quien no quiere mover la pregunta y costar a quien la lleva dentro. Y con el tiempo, no decidir se convierte en una decisión. Cuando una pareja llega a consulta después de años de no tocarse este tema, uno de los primeros trabajos es precisamente ese: mirar con claridad qué se ha decidido sin decidir.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede ofrecer la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia no sirve para que alguien os diga qué hacer. Nadie puede ni debe tomar esta decisión por nadie. Lo que la terapia puede ofrecer es un lugar donde la pregunta se pueda pensar de verdad: sin prisa, sin presión y sin que cada conversación acabe en discusión. Un espacio donde cada persona pueda decir lo que aún no ha dicho en voz alta: el temor a perderse, el deseo que no se atrevía a nombrar, la parte de la historia propia que empuja en una dirección.",
+      },
+      {
+        type: "paragraph",
+        text: "A menudo, con el tiempo, la pregunta se transforma. La pareja descubre que no discutía sobre hijos, sino sobre intimidad, sobre confianza, sobre el reparto de la vida cotidiana, sobre cuánto se sostiene cada uno al otro. El trabajo consiste en separar el deseo propio del deseo heredado; en sostener el desacuerdo sin que se convierta en ruptura; en devolverle a cada persona la responsabilidad de su propia voz sin que eso se confunda con un ultimátum.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces el proceso desemboca en la decisión de no tener hijos, y la pareja se sostiene. A veces desemboca en tenerlos, y la llegada no borra las dudas pero les devuelve su sitio. Y a veces revela que no se comparte el mismo proyecto de vida: una salida que duele, pero que también es información honrada sobre lo que la relación puede y no puede sostener. El papel de la terapia no es empujar hacia ninguna de las dos orillas: es que la decisión, si llega, sea vuestra, y no del miedo, de la prisa o del guion.",
+      },
+      {
+        type: "heading",
+        text: "Un lugar para pensarla juntos",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions acompañamos a parejas que atraviesan esta pregunta, en cualquiera de sus versiones. No venimos a decidir por vosotros ni a defender una respuesta: venimos a sostener un espacio donde esta conversación pueda hacerse con la profundidad y la calma que merece. Si esta pregunta se ha instalado en vuestra relación y resulta imposible de pensar solos, podéis solicitar una primera visita desde nuestra página de contacto. No hace falta llegar con la decisión tomada: hace falta, precisamente, un lugar donde poder pensarla.",
+      },
+    ],
+  },
 ];

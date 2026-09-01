@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "tener-hijos-o-no-tenerlos-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Tenir fills o no tenir-los: quan la pregunta s'instal·la a la parella",
+    "titleES": "¿Tener hijos o no tenerlos? Cuando la pregunta se instala en la pareja",
+    "excerptCA": "Tenir fills o no tenir-los és, per a moltes parelles, la pregunta més difícil de la seva vida en comú. No perquè falti informació, sinó perquè darrere del sí i del no hi ha identitats, històries i projectes diferents. Aquí explorem per què aquesta decisió genera tant malestar, què passa quan cadascú la sent a un ritme diferent, i com pot ajudar la teràpia a pensar-la sense presses i sense que la relació es converteixi en un camp de tensió.",
+    "excerptES": "Tener hijos o no tenerlos es, para muchas parejas, la pregunta más difícil de su vida en común. No porque falte información, sino porque detrás del sí y del no hay identidades, historias y proyectos distintos. Aquí exploramos por qué esta decisión genera tanto malestar, qué ocurre cuando cada persona la siente a un ritmo diferente, y cómo puede ayudar la terapia a pensarla sin prisa y sin que la relación se convierta en un campo de tensión.",
+    "datePublished": "2026-09-01"
+  },
+  {
     "slug": "despues-de-la-infidelidad-quedar-o-marchar",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
