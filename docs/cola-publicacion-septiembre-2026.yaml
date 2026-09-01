@@ -1,0 +1,62 @@
+# Cola de publicación gradual — propuesta septiembre 2026 espaiemocions.es
+# Cada entrada: {slug, titulo, tipo, keywords, estado}
+# El cron publicador consulta este archivo y publica el siguiente pendiente.
+
+articles:
+  - slug: psicologo-o-psicoterapeuta-diferencias
+    titulo: "Psicólogo o psicoterapeuta: diferencias reales y a quién debes acudir"
+    tipo: nuevo
+    keywords: "diferencias entre psicólogo y psicoterapeuta, psicólogo vs psicoterapeuta, qué es un psicoterapeuta, psicoterapeuta Barcelona"
+    palabras: "1200-1500"
+    notas: "Completa el tríptico de comparaciones (ya existe vs psiquiatra y vs coach). Rigor clínico + normativa COPC. Enlaces internos: diferencias-psicologo-psiquiatra, psicologo-o-coach-diferencias, elegir-psicologo-barcelona."
+    estado: pendiente
+    orden: 2
+
+  - slug: senales-que-necesitas-terapia
+    titulo: "Señales de que necesitas terapia: 12 síntomas que conviene dejar de normalizar"
+    tipo: nuevo
+    keywords: "síntomas que necesitan terapia, señales de que necesitas terapia, cuándo ir al psicólogo, señales de alerta salud mental"
+    palabras: "1500-1800"
+    notas: "Pieza pilar del cluster ¿Necesito un psicólogo?. Cada señal enlaza al artículo específico ya publicado (insomnio a rumiacion-ansiosa, irritabilidad a es-normal-estar-irritable, burnout a burnout-o-cansancio, somatización a cuerpo-dice-cabeza-calla, perfeccionismo a perfeccionismo-paraliza)."
+    estado: pendiente
+    orden: 3
+
+  - slug: ansiedad-antes-primera-sesion-psicologia
+    titulo: "Ansiedad antes de la primera sesión de psicología: cómo prepararte y qué decir"
+    tipo: nuevo
+    keywords: "ansiedad antes de la primera sesión, qué decir en la primera sesión de psicología, cómo prepararse para la primera sesión de terapia, qué preguntar al psicólogo"
+    palabras: "1000-1300"
+    notas: "Ángulo emocional/preparatorio. NO canibalizar primera-sesion-psicologia (qué pasa dentro) ni el FAQ (políticas prácticas). Este va de: nervios previos, qué decir al empezar, qué preguntar tú al profesional. Enlaces: primera-sesion-psicologia, preguntas-frecuentes-psicologia-barcelona, el-vinculo-terapeutico."
+    estado: pendiente
+    orden: 4
+
+  - slug: primera-sesion-psicologia
+    titulo: "Ampliación: primera sesión de psicología (guía completa)"
+    tipo: ampliacion
+    notas: "Ampliar de descripción breve a guía completa: qué preguntar tú al psicólogo, qué llevar, mini-FAQ con schema, enlaces a cuantas-sesiones-psicologia-necesito y frecuencia-sesiones-psicologia. Cuidado: no duplicar contenido del artículo nuevo ansiedad-antes-primera-sesion (ese es el ángulo previo/nervios, este es el ángulo dentro/estructura)."
+    estado: pendiente
+    orden: 5
+
+  - slug: necesito-psicologo-como-saberlo
+    titulo: "Consolidación: cómo saber si necesito un psicólogo (pilar del cluster)"
+    tipo: ampliacion
+    notas: "Añadir bloque Artículos relacionados hacia los 13 artículos de la categoría ¿Necesito un psicólogo?. Corregir excerpt truncado en article-meta.ts y en el CMS. Enlace al nuevo senales-que-necesitas-terapia."
+    estado: pendiente
+    orden: 6
+
+  - slug: precio-psicologo-barcelona
+    titulo: "Actualización: precio del psicólogo en Barcelona (Guía 2026)"
+    tipo: ampliacion
+    notas: "Revisar rangos de precios actuales y añadir tabla comparativa pública/privada actualizada. Mantener primera visita sin coste como diferencial. Enlaces: seguro-medico-psicologia-barcelona, recursos-salud-mental-gratuitos-barcelona, preguntas-frecuentes-psicologia-barcelona."
+    estado: pendiente
+    orden: 7
+
+reglas:
+  - "Un artículo cada 2 días (ritmo pedido por Esteve)."
+  - "Castellano como original; catalán equivalente (bloques CA y ES en el mismo archivo, como el resto del repo)."
+  - "Ilustración editorial 1536x1024 WebP en public/blog/[slug].webp (estilo EE: terracota/crema/salvia, warm editorial)."
+  - "Mínimo 4-5 enlaces internos por artículo."
+  - "Sin: infancia/adolescencia, promesas de curación, lenguaje técnico innecesario, listicles de autoayuda."
+  - "Aperturas variadas: NO empezar con cita de paciente más de 1 de cada 5."
+  - "Verificar typecheck (tsc --noEmit) y build antes de cada push."
+  - "El cron diario de las 7:00 sigue publicando artículos propios: conviven sin conflicto (slugs distintos)."
