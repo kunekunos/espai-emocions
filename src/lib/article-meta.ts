@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "terapia-familiar-adultos",
+    "categoryCA": "Família",
+    "categoryES": "Familia",
+    "titleCA": "Teràpia familiar amb adults: la conversa que la família ja no aconsegueix tenir",
+    "titleES": "Terapia familiar con adultos: la conversación que la familia ya no consigue tener",
+    "excerptCA": "Hi ha converses que una família porta anys sense poder tenir. No per manca d'amor ni d'interès, sinó perquè a casa cada frase carrega amb la història de totes les anteriors. La teràpia familiar amb adults existeix precisament per això: per sostenir la conversa que el sistema familiar ja no aconsegueix tenir sol. Aquí explorem què és, quan té sentit, qui cal que vingui i què pot oferir de debò, sense prometre reconciliacions ni exigir perdons.",
+    "excerptES": "Hay conversaciones que una familia lleva años sin poder tener. No por falta de amor ni de interés, sino porque en casa cada frase carga con la historia de todas las anteriores. La terapia familiar con adultos existe precisamente para eso: para sostener la conversación que el sistema familiar ya no consigue tener solo. Aquí exploramos qué es, cuándo tiene sentido, quién necesita venir y qué puede ofrecer de verdad, sin prometer reconciliaciones ni exigir perdones.",
+    "datePublished": "2026-09-02"
+  },
+  {
     "slug": "tener-hijos-o-no-tenerlos-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

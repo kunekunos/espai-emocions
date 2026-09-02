@@ -801,7 +801,156 @@ export const articlesPart10: ArticleContent[] = [
       },
       {
         type: "paragraph",
-        text: "En Espai Emocions acompañamos a parejas que atraviesan esta pregunta, en cualquiera de sus versiones. No venimos a decidir por vosotros ni a defender una respuesta: venimos a sostener un espacio donde esta conversación pueda hacerse con la profundidad y la calma que merece. Si esta pregunta se ha instalado en vuestra relación y resulta imposible de pensar solos, podéis solicitar una primera visita desde nuestra página de contacto. No hace falta llegar con la decisión tomada: hace falta, precisamente, un lugar donde poder pensarla.",
+        text: "En Espai Emocions acompañamos a parejas que atraviesan esta pregunta, en cualquiera de sus versiones. No venimos a decidir por vosotros ni a defender ninguna respuesta: venimos a sostener un espacio donde esta conversación pueda hacerse con la profundidad y la calma que merece. Si esta pregunta se ha instalado en vuestra relación y resulta imposible de pensar solos, podéis solicitar una primera visita desde nuestra página de contacto. No hace falta llegar con la decisión tomada: hace falta, precisamente, un lugar donde poder pensarla.",
+      },
+    ],
+  },
+  // ---------------------------------------------------------------------------
+  // 6. terapia-familiar-adultos (Pilar: Familia / Relacions / Maduresa)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "terapia-familiar-adultos",
+    categoryCA: "Família",
+    categoryES: "Familia",
+    titleCA:
+      "Teràpia familiar amb adults: la conversa que la família ja no aconsegueix tenir",
+    titleES:
+      "Terapia familiar con adultos: la conversación que la familia ya no consigue tener",
+    excerptCA:
+      "Hi ha converses que una família porta anys sense poder tenir. No per manca d'amor ni d'interès, sinó perquè a casa cada frase carrega amb la història de totes les anteriors. La teràpia familiar amb adults existeix precisament per això: per sostenir la conversa que el sistema familiar ja no aconsegueix tenir sol. Aquí explorem què és, quan té sentit, qui cal que vingui i què pot oferir de debò, sense prometre reconciliacions ni exigir perdons.",
+    excerptES:
+      "Hay conversaciones que una familia lleva años sin poder tener. No por falta de amor ni de interés, sino porque en casa cada frase carga con la historia de todas las anteriores. La terapia familiar con adultos existe precisamente para eso: para sostener la conversación que el sistema familiar ya no consigue tener solo. Aquí exploramos qué es, cuándo tiene sentido, quién necesita venir y qué puede ofrecer de verdad, sin prometer reconciliaciones ni exigir perdones.",
+    datePublished: "2026-09-02",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha converses que una família porta anys sense poder tenir. No és que ningú no les recordi: hi són presents en cada dinar, en el telèfon que sona menys del que caldria, en aquell tema que tothom rodeja amb cura cada cop que surt. La família funciona, s'estima, s'aguanta. I, tanmateix, hi ha alguna cosa que no es pot dir en veu alta, i aquella cosa pesa cada any una mica més.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan això passa, poques persones pensen en teràpia familiar. La imatge que en tenim sol ser la d'una família amb fills petits, en un sofà gran, amb un problema visible. Però hi ha un altre territori, molt més freqüent i més silenciós: el de les famílies que ja són adultes. Germans que no es parlen. Un fill que s'ha allunyat. Una mare que no pot acceptar una decisió. Un pare i una filla que es veuen per Nadal i no tenen res a dir-se. Famílies on el vincle segueix viu, però on ja no hi ha ningú que organitzi la conversa, perquè cadascú l'organitza a la seva manera i dins del seu cap.",
+      },
+      {
+        type: "heading",
+        text: "El que una família no aconsegueix fer sola",
+      },
+      {
+        type: "paragraph",
+        text: "Cal dir-ho amb claredat: que una família no pugui parlar d'alguna cosa no vol dir que estigui trencada. Tota família, fins i tot les més estimades, desenvolupa amb els anys la seva pròpia gramàtica: qui pot dir què, quins temes estan permesos, qui s'encarrega d'apaivagar, qui desapareix quan hi ha tensió, a qui es perdona tot i de qui s'espera tot. Aquesta gramàtica s'aprèn tan aviat i s'usa tan automàticament que ja ningú no la qüestiona. Simplement es parla com s'ha parlat sempre.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema és que les converses importants no hi caben. A casa, cada frase carrega amb totes les frases anteriors. Quan el teu germà diu «jo també ajudo», no diu només això: diu tot el que aquesta frase ha significat durant trenta anys. Quan la teva mare pregunta «quan véns», no pregunta només això. Per això les converses es repeteixen sense avançar: no són converses noves, són variacions de la mateixa conversa, amb el mateix repartiment i el mateix final.",
+      },
+      {
+        type: "heading",
+        text: "El problema d'un rarament és només d'un",
+      },
+      {
+        type: "paragraph",
+        text: "A les famílies moltes vegades els costa demanar ajuda perquè arriben amb una teoria: el problema té nom i cognom. És el germà que no s'implica. És la mare que no accepta. És el fill que va marxar. Aquesta manera de veure-ho és comprensible —algú fa alguna cosa que fa mal, i fa mal de veritat—, però acostuma a ser parcial. El que una família anomena «el problema d'un» és, moltes vegades, una configuració: una manera que té el sistema sencer de relacionar-se al voltant d'una dificultat. Qui s'implica massa i qui es desentén solen ser les dues cares del mateix acord, encara que cap dels dos no l'hagi signat conscientment.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no és repartir culpes ni diluir responsabilitats. Cada persona adulta respon del que fa i del que deixa de fer. La mirada sistèmica no treu responsabilitat: la retorna a més gent. I amb ella, una possibilitat que a casa no apareix: que més d'una persona pugui fer alguna cosa diferent, no només aquella a qui s'assenyala.",
+      },
+      {
+        type: "heading",
+        text: "Per a què serveix un tercer",
+      },
+      {
+        type: "paragraph",
+        text: "La presència d'un psicòleg canvia la geometria de la conversa. No perquè tingui la veritat ni perquè arbitrí: perquè sosté un marc. A la consulta, la conversa no passa en el terreny de ningú, amb les regles de sempre, sinó en un espai on aquestes regles es poden mirar. El professional vetlla que ningú no quedi fora de la conversa —ni qui sempre parla, ni qui sempre calla—, frena la repetició quan apareix i posa paraules on fins ara només hi havia gestos.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades, la família descobreix coses que a casa eren impossibles d'escoltar. Un pare que pot escoltar sense interrompre. Una filla que pot dir «em va fer mal» sense que la conversa es desfaci. Un germà que deixa d'explicar la seva vida i comença a contar-la. No passa per casualitat. Passa perquè algú sosté l'espai i la conversa pot, per fi, anar més a poc a poc que la reacció.",
+      },
+      {
+        type: "heading",
+        text: "Qui ve i qui no",
+      },
+      {
+        type: "paragraph",
+        text: "Un dubte freqüent: cal que vingui tota la família? No necessàriament. A vegades el procés comença amb qui fa el pas: una persona sola, dos germans, un pare i una filla. A vegades altres s'hi sumen més endavant, quan comproven que l'espai és segur. I a vegades la família no ve mai sencera i el treball, tot i això, canvia coses: la persona que canvia el seu lloc a la conversa canvia la conversa, encara que ningú més no ho hagi decidit.",
+      },
+      {
+        type: "paragraph",
+        text: "També convé desfer un malentès: la teràpia familiar no busca que tothom s'estimi més. Busca alguna cosa més modesta i més real: que cada persona pugui dir el que ha de dir, escoltar el que li toca escoltar i decidir amb quina distància vol viure a prop dels altres. A vegades el resultat és una aproximació. A vegades és una distància triada en lloc d'una distància sofrida. Les dues coses són maduresa.",
+      },
+      {
+        type: "heading",
+        text: "Un lloc per a aquesta conversa",
+      },
+      {
+        type: "paragraph",
+        text: "Les famílies que arriben a consulta no solen ser les més trencades. Són, sovint, les que porten massa temps volent tenir una conversa que ningú no sap sostenir. Si a la teva família hi ha alguna cosa així —un tema que no es pot tocar, una distància que fa mal, un repartiment que ja ningú no aguanta—, es pot demanar una primera visita. No cal venir amb la família sencera ni amb el problema resolt: n'hi ha prou amb algú que consideri que la conversa mereix un lloc.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay conversaciones que una familia lleva años sin poder tener. No es que nadie las recuerde: están presentes en cada comida, en el teléfono que suena menos de lo que debería, en ese tema que todos rodean con cuidado cada vez que aparece. La familia funciona, se quiere, se aguanta. Y sin embargo, hay algo que no puede decirse en voz alta, y ese algo pesa cada año un poco más.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando esto ocurre, pocas personas piensan en terapia familiar. La imagen que tenemos de ella suele ser la de una familia con hijos pequeños, en un sofá grande, con un problema visible. Pero hay otro territorio, mucho más frecuente y más silencioso: el de las familias que ya son adultas. Hermanos que no se hablan. Un hijo que se ha distanciado. Una madre que no puede aceptar una decisión. Un padre y una hija que se ven por Navidad y ya no tienen nada que decirse. Familias donde el vínculo sigue vivo, pero donde ya no hay nadie que organice la conversación, porque cada uno la organiza a su manera y dentro de su cabeza.",
+      },
+      {
+        type: "heading",
+        text: "Lo que una familia no consigue hacer sola",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decirlo con claridad: que una familia no pueda hablar de algo no significa que esté rota. Toda familia, incluso la más querida, desarrolla con los años su propia gramática: quién puede decir qué, qué temas están permitidos, quién se encarga de suavizar, quién desaparece cuando hay tensión, a quién se le perdona todo y de quién se espera todo. Esa gramática se aprende tan pronto y se usa tan automáticamente que ya nadie la cuestiona. Simplemente se habla como se ha hablado siempre.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema es que las conversaciones importantes no caben en ella. En casa, cada frase carga con todas las frases anteriores. Cuando tu hermano dice «yo también ayudo», no dice solo eso: dice todo lo que esa frase ha significado durante treinta años. Cuando tu madre pregunta «cuándo vienes», no pregunta solo eso. Por eso las conversaciones se repiten sin avanzar: no son conversaciones nuevas, son variaciones de la misma conversación, con el mismo reparto y el mismo final.",
+      },
+      {
+        type: "heading",
+        text: "El problema de uno rara vez es solo de uno",
+      },
+      {
+        type: "paragraph",
+        text: "A las familias muchas veces les cuesta pedir ayuda porque llegan con una teoría: el problema tiene nombre y apellido. Es el hermano que no se implica. Es la madre que no acepta. Es el hijo que se marchó. Esta manera de verlo es comprensible —alguien hace algo que duele, y duele de verdad—, pero suele ser parcial. Lo que una familia llama «el problema de uno» es, muchas veces, una configuración: una manera que tiene el sistema entero de relacionarse alrededor de una dificultad. Quien se implica en exceso y quien se desentiende suelen ser las dos caras del mismo acuerdo, aunque ninguno de los dos lo haya firmado conscientemente.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto no es repartir culpas ni diluir responsabilidades. Cada persona adulta responde de lo que hace y de lo que deja de hacer. La mirada sistémica no quita responsabilidad: la devuelve a más gente. Y con ella, una posibilidad que en casa no aparece: que más de una persona pueda hacer algo distinto, no solo aquella a la que se señala.",
+      },
+      {
+        type: "heading",
+        text: "Para qué sirve un tercero",
+      },
+      {
+        type: "paragraph",
+        text: "La presencia de un psicólogo cambia la geometría de la conversación. No porque tenga la verdad ni porque arbitrée: porque sostiene un marco. En la consulta, la conversación no ocurre en el terreno de nadie, con las reglas de siempre, sino en un espacio donde esas reglas pueden mirarse. El profesional se ocupa de que nadie quede fuera —ni quien siempre habla, ni quien siempre calla—, de frenar la repetición cuando aparece y de poner palabras donde hasta ahora solo había gestos.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, la familia descubre cosas que en casa eran imposibles de escuchar. Un padre que puede escuchar sin interrumpir. Una hija que puede decir «me dolió» sin que la conversación se deshaga. Un hermano que deja de explicar su vida y empieza a contarla. No sucede por casualidad. Sucede porque alguien sostiene el espacio y la conversación puede, por fin, ir más despacio que la reacción.",
+      },
+      {
+        type: "heading",
+        text: "Quién viene y quién no",
+      },
+      {
+        type: "paragraph",
+        text: "Una duda frecuente: ¿hace falta que venga toda la familia? No necesariamente. A veces el proceso empieza con quien da el paso: una persona sola, dos hermanos, un padre y una hija. A veces otros se suman más adelante, cuando comprueban que el espacio es seguro. Y a veces la familia nunca viene entera y el trabajo, aun así, cambia cosas: la persona que cambia su lugar en la conversación cambia la conversación, aunque nadie más lo haya decidido.",
+      },
+      {
+        type: "paragraph",
+        text: "También conviene deshacer un malentendido: la terapia familiar no busca que todos se quieran más. Busca algo más modesto y más real: que cada persona pueda decir lo que tiene que decir, escuchar lo que le toca escuchar y decidir a qué distancia quiere vivir cerca de los demás. A veces el resultado es un acercamiento. A veces es una distancia elegida en lugar de una distancia sufrida. Las dos cosas son madurez.",
+      },
+      {
+        type: "heading",
+        text: "Un lugar para esa conversación",
+      },
+      {
+        type: "paragraph",
+        text: "Las familias que llegan a consulta no suelen ser las más rotas. Son, a menudo, las que llevan demasiado tiempo queriendo tener una conversación que nadie sabe sostener. Si en tu familia hay algo así —un tema que no se puede tocar, una distancia que duele, un reparto que ya nadie aguanta—, se puede pedir una primera visita. No hace falta venir con la familia entera ni con el problema resuelto: basta con alguien que considere que esa conversación merece un lugar.",
       },
     ],
   },
