@@ -23,6 +23,16 @@ export const articleMeta: ArticleMeta[] = [
     "datePublished": "2026-09-03"
   },
   {
+    "slug": "psicologo-o-psicoterapeuta-diferencias",
+    "categoryCA": "General",
+    "categoryES": "General",
+    "titleCA": "Psicòleg o psicoterapeuta: diferències reals i a qui has d'acudir",
+    "titleES": "Psicólogo o psicoterapeuta: diferencias reales y a quién debes acudir",
+    "excerptCA": "«Psicòleg» és una professió regulada, amb formació universitària, màster sanitari i col·legiació obligatòria; «psicoterapeuta», en canvi, descriu una activitat que qualsevol pot reclamar amb formacions molt desiguals. Aquesta guia posa ordre a la confusió amb rigor: quin títol protegeix la llei, qui pot exercir la psicoteràpia a Catalunya, com comprovar un professional al Col·legi Oficial de la Psicologia de Catalunya i a qui convé acudir segons el que et dugui entre mans. Triar bé no és qüestió de paraules: és la diferència entre un itinerari acreditat i un altre que només s'hi assembla.",
+    "excerptES": "«Psicólogo» es una profesión regulada, con formación universitaria, máster sanitario y colegiación obligatoria; «psicoterapeuta», en cambio, describe una actividad que cualquiera puede reivindicar con formaciones muy desiguales. Esta guía ordena la confusión con rigor: qué título protege la ley, quién puede ejercer la psicoterapia en España, cómo verificar a un profesional en el Col·legi Oficial de la Psicologia de Catalunya y a quién conviene acudir según lo que te traiga entre manos. Elegir bien no es una cuestión de palabras: es la diferencia entre un itinerario acreditado y otro que solo se le parece.",
+    "datePublished": "2026-09-03"
+  },
+  {
     "slug": "terapia-familiar-adultos",
     "categoryCA": "Família",
     "categoryES": "Familia",

@@ -342,4 +342,207 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 3. psicologo-o-psicoterapeuta-diferencias (Cola sept 2026: tríptico comparativas)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "psicologo-o-psicoterapeuta-diferencias",
+    categoryCA: "General",
+    categoryES: "General",
+    titleCA: "Psicòleg o psicoterapeuta: diferències reals i a qui has d'acudir",
+    titleES: "Psicólogo o psicoterapeuta: diferencias reales y a quién debes acudir",
+    excerptCA: "«Psicòleg» és una professió regulada, amb formació universitària, màster sanitari i col·legiació obligatòria; «psicoterapeuta», en canvi, descriu una activitat que qualsevol pot reclamar amb formacions molt desiguals. Aquesta guia posa ordre a la confusió amb rigor: quin títol protegeix la llei, qui pot exercir la psicoteràpia a Catalunya, com comprovar un professional al Col·legi Oficial de la Psicologia de Catalunya i a qui convé acudir segons el que et dugui entre mans. Triar bé no és qüestió de paraules: és la diferència entre un itinerari acreditat i un altre que només s'hi assembla.",
+    excerptES: "«Psicólogo» es una profesión regulada, con formación universitaria, máster sanitario y colegiación obligatoria; «psicoterapeuta», en cambio, describe una actividad que cualquiera puede reivindicar con formaciones muy desiguales. Esta guía ordena la confusión con rigor: qué título protege la ley, quién puede ejercer la psicoterapia en España, cómo verificar a un profesional en el Col·legi Oficial de la Psicologia de Catalunya y a quién conviene acudir según lo que te traiga entre manos. Elegir bien no es una cuestión de palabras: es la diferencia entre un itinerario acreditado y otro que solo se le parece.",
+    datePublished: "2026-09-03",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Si fa una estona que compares perfils de professionals, ja t'hauràs adonat d'una cosa curiosa: uns es presenten com a psicòlegs, altres com a psicoterapeutes i alguns, per acabar-ho d'adobar, com a psicòlegs psicoterapeutes. Ningú no menteix necessàriament: la majoria descriu coses diferents amb paraules que semblen intercanviables. El problema és que aquesta aparent sinonímia té conseqüències reals quan arriba el moment de triar a qui confiar una cosa tan delicada com el teu equilibri emocional.",
+      },
+      {
+        type: "paragraph",
+        text: "Val la pena avançar la resposta curta: «psicòleg» és una professió regulada, amb una formació universitària definida i un col·legi professional que en supervisa l'exercici. «Psicoterapeuta», en canvi, no és una professió: és la descripció d'una activitat. Aquesta diferència, que sembla un matís, ho canvia tot el que ve després.",
+      },
+      {
+        type: "heading",
+        text: "Què significa exactament «psicòleg»",
+      },
+      {
+        type: "paragraph",
+        text: "Per exercir com a psicòleg a Espanya cal haver cursat el Grau en Psicologia i, per treballar en l'àmbit clínic i sanitari, completar després una formació específica: avui dia, el Màster Universitari en Psicologia General Sanitària, que habilita per a l'avaluació, el diagnòstic i la intervenció en problemes de salut mental. Al sistema públic, la via és el programa PIR, la residència hospitalària d'especialitat en psicologia clínica. A més, la col·legiació és obligatòria per exercir: a Catalunya, qui exerceix la psicologia ha de ser membre del Col·legi Oficial de la Psicologia de Catalunya (COPC), i el número de col·legiat es pot comprovar al registre del col·legi.",
+      },
+      {
+        type: "paragraph",
+        text: "Darrere d'aquesta estructura hi ha alguna cosa que no es veu en una fitxa professional però que pesa: un col·legi professional implica un codi deontològic, un deure de secret professional amb conseqüències reals, supervisió de l'exercici i la possibilitat de reclamar si alguna cosa no es fa bé. És la diferència entre un itinerari acreditat i una activitat de la qual només respon qui l'anuncia.",
+      },
+      {
+        type: "heading",
+        text: "Què significa «psicoterapeuta»",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí hi ha la clau que genera gairebé tota la confusió: a Espanya no existeix un títol oficial de psicoterapeuta. No hi ha una carrera homologada amb aquest nom, ni un col·legi professional que el recolzi, ni un registre estatal que acoti legalment la paraula. «Psicoterapeuta» descriu el que la persona fa —acompanyar un procés de canvi amb eines psicològiques—, no el que ha estudiat ni qui respon de la seva pràctica.",
+      },
+      {
+        type: "paragraph",
+        text: "A la pràctica, es presenten com a psicoterapeutes perfils molt diferents: psicòlegs col·legiats amb formació acreditada, psiquiatres que combinen medicació i teràpia, i també graduats d'altres àmbits que han fet formacions en psicoteràpia de durada i rigor enormement variables: des de programes seriosos de diversos anys amb pràctica supervisada fins a cursos d'un cap de setmana. El terme, per si sol, no permet distingir en quin d'aquests grups ets.",
+      },
+      {
+        type: "paragraph",
+        text: "Vol dir això que qui diu «psicoterapeuta» exerceix sense garanties? No necessàriament, però vol dir que la garantia no la dona la paraula: l'han de donar els fets verificables que hi hagi al darrere. Per això, quan algú t'atén per un malestar emocional que interfereix a la seva vida, la pregunta útil no és «és psicoterapeuta?» sinó «quina titulació té, està col·legiat i qui supervisa el seu exercici?».",
+      },
+      {
+        type: "heading",
+        text: "A qui has d'acudir, a la pràctica",
+      },
+      {
+        type: "paragraph",
+        text: "Si el que et porta és patiment psicològic —una angoixa que no remet, un ànim baix que s'allarga, un dol que no troba lloc, insomni, tensió sostinguda—, el punt de partida recomanable és un psicòleg sanitari col·legiat que exerceixi la psicoteràpia. És el perfil que reuneix les tres condicions que importen: formació universitària en psicologia, formació sanitària específica i un col·legi professional que respon de la pràctica. Per situar la resta del mapa et poden ajudar dues comparatives que ja hem publicat: la diferència entre psicòleg i psiquiatre, si els teus dubtes passen per la medicació, i la diferència entre psicòleg i coach, si el que t'atreu és un acompanyament orientat a objectius.",
+      },
+      {
+        type: "paragraph",
+        text: "I si el que necessites és medicació? Llavors el professional és el psiquiatre, que és metge i pot receptar. Cal dir-ho sense dramatisme: acudir a un perfil o a un altre no diu res de la gravetat del que et passa, només del tipus d'ajuda que convé a cada moment. Moltes persones combinen tots dos al llarg d'un mateix procés: la psicoteràpia i el seguiment mèdic van en paral·lel, no en competència.",
+      },
+      {
+        type: "heading",
+        text: "Com verificar un professional abans de començar",
+      },
+      {
+        type: "paragraph",
+        text: "La verificació és més senzilla del que sembla i diu molt del professional que la rep amb naturalitat. Tres comprovacions: que tingui Grau en Psicologia i formació sanitària (el màster de Psicologia General Sanitària o la via PIR); que estigui col·legiat —a Catalunya, al COPC, el registre del qual és públic—; i que puguis preguntar per la seva experiència amb el teu motiu de consulta sense que la pregunta incomodi. A la nostra guia per triar un psicòleg a Barcelona trobaràs aquests criteris desenvolupats amb més detall; i si el teu dubte és si «ja és moment» de consultar, l'article sobre com saber si necessites un psicòleg ho planteja sense urgències.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una quarta condició que cap credencial no substitueix: l'encaix. Un currículum impecable no garanteix que la persona adequada per a tu sigui aquesta, perquè la relació que es construeix a la sessió és part del tractament, no un extra. Si ja has començat un procés i alguna cosa no acaba d'encaixar, val la pena llegir sobre canviar de psicòleg: és més freqüent del que sembla i no és un fracàs de ningú.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És el mateix «psicòleg clínic» que «psicoterapeuta»?",
+            answer: "No exactament. El psicòleg clínic o sanitari és un psicòleg amb formació universitària i sanitària específica, col·legiat i capacit per avaluar, diagnosticar i tractar; la psicoteràpia és una de les seves eines principals. Un psicoterapeuta és qui exerceix la psicoteràpia, amb qualsevol formació al darrere. Tot psicòleg clínic pot exercir com a psicoterapeuta; no tot qui es diu psicoterapeuta és psicòleg.",
+          },
+          {
+            question: "Pot algú sense titulació en psicologia anunciar-se com a psicoterapeuta?",
+            answer: "A Espanya, sí: en no existir títol oficial ni col·legi de psicoterapeutes, la paraula en si no està protegida. Per això és important mirar-hi al darrere: si la persona exerceix una activitat sanitària, la llei exigeix que sigui professional sanitari. Si trobes algú que es presenta només com a «psicoterapeuta», demana la titulació i, si és psicòleg, el seu número de col·legiat per verificar-lo al COPC o al col·legi corresponent.",
+          },
+          {
+            question: "Com sé si un psicòleg de Barcelona està col·legiat?",
+            answer: "Demant-li directament el número de col·legiat, que qualsevol col·legiat facilita amb naturalitat, i comprovant-lo al registre públic del Col·legi Oficial de la Psicologia de Catalunya (COPC). També pots cercar el professional pel nom a la web del col·legi. És una verificació de dos minuts que descarta la majoria de problemes abans de començar.",
+          },
+          {
+            question: "Un psiquiatre que fa psicoteràpia és millor opció que un psicòleg?",
+            answer: "No és millor ni pitjor: és un perfil diferent. El psiquiatre afegeix la formació mèdica i la possibilitat de receptar; el psicòleg sanitari dedica tota la seva formació a l'avaluació i el tractament psicològic. Per a la majoria de motius de consulta, la psicoteràpia amb un psicòleg és el punt de partida; si hi ha medicació implicada, els dos professionals treballen en paral·lel.",
+          },
+          {
+            question: "Quina formació he de demanar a qui em farà teràpia?",
+            answer: "Com a mínim, Grau en Psicologia, formació sanitària específica (màster en Psicologia General Sanitària o via PIR) i col·legiació activa. Si el professional té formació addicional en una orientació concreta de psicoteràpia, encara millor, però l'essencial és la base acreditada: és el que garanteix que qui t'acompanya està capacit i respon davant d'un col·legi professional.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, tots els professionals que atenem consulta som psicòlegs col·legiats amb formació sanitària acreditada, i exercim la psicoteràpia des d'aquest marc. Si vols saber com treballem abans de donar el pas, tens un article sobre com és la primera sessió de psicologia; i la primera visita, que oferim sense cost, és un bon lloc per preguntar tot el que et rondi: no compromet a continuar i permet que la decisió de començar —i amb qui— sigui teva.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Si llevas un rato comparando perfiles de profesionales, ya habrás notado algo curioso: unos se presentan como psicólogos, otros como psicoterapeutas y algunos, para completarlo, como psicólogos psicoterapeutas. Nadie está mintiendo necesariamente: la mayoría está describiendo cosas distintas con palabras que suenan intercambiables. El problema es que esa aparente sinonimia tiene consecuencias reales cuando llega el momento de elegir a quién confiar algo tan sensible como tu equilibrio emocional.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene adelantar la respuesta corta: «psicólogo» es una profesión regulada, con una formación universitaria definida y un colegio profesional que supervisa su ejercicio. «Psicoterapeuta», en cambio, no es una profesión: es la descripción de una actividad. Esa diferencia, que parece un matiz, cambia todo lo que viene después.",
+      },
+      {
+        type: "heading",
+        text: "Qué significa exactamente «psicólogo»",
+      },
+      {
+        type: "paragraph",
+        text: "Para ejercer como psicólogo en España hay que haber cursado el Grado en Psicología y, para trabajar en el ámbito clínico y sanitario, completar después una formación específica: hoy en día, el Máster Universitario en Psicología General Sanitaria, que habilita para la evaluación, el diagnóstico y la intervención en problemas de salud mental. En el sistema público, la vía es el programa PIR, la residencia hospitalaria de especialidad en psicología clínica. Además, la colegiación es obligatoria para ejercer: en Cataluña, quien ejerce la psicología debe ser miembro del Col·legi Oficial de la Psicologia de Catalunya (COPC), y su número de colegiado es verificable en el registro del colegio.",
+      },
+      {
+        type: "paragraph",
+        text: "Detrás de esa estructura hay algo que no se ve en una ficha profesional pero que pesa: un colegio profesional implica un código deontológico, un deber de secreto profesional con consecuencias reales, supervisión del ejercicio y la posibilidad de reclamar si algo no se hace bien. Es la diferencia entre un itinerario acreditado y una actividad de la que solo responde quien la anuncia.",
+      },
+      {
+        type: "heading",
+        text: "Qué significa «psicoterapeuta»",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí está la clave que genera casi toda la confusión: en España no existe un título oficial de psicoterapeuta. No hay una carrera homologada con ese nombre, ni un colegio profesional que lo respalde, ni un registro estatal que acote legalmente la palabra. «Psicoterapeuta» describe lo que la persona hace —acompañar un proceso de cambio con herramientas psicológicas—, no lo que ha estudiado ni quién responde por su práctica.",
+      },
+      {
+        type: "paragraph",
+        text: "En la práctica, se presentan como psicoterapeutas perfiles muy distintos: psicólogos colegiados con formación acreditada, psiquiatras que combinan medicación y terapia, y también graduados de otros ámbitos que han hecho formaciones en psicoterapia de durada y rigor enormemente variables: desde programas serios de varios años con práctica supervisada hasta cursos de un fin de semana. El término, por sí solo, no permite distinguir en cuál de esos grupos estás.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Significa eso que quien dice «psicoterapeuta» ejerce sin garantías? No necesariamente, pero significa que la garantía no la da la palabra: la tienen que dar los hechos verificables que haya detrás. Por eso, cuando alguien te atiende por un malestar emocional que interfiere en su vida, la pregunta útil no es «¿es psicoterapeuta?» sino «¿qué titulación tiene, está colegiado y quién supervisa su ejercicio?».",
+      },
+      {
+        type: "heading",
+        text: "A quién debes acudir, en la práctica",
+      },
+      {
+        type: "paragraph",
+        text: "Si lo que te trae es sufrimiento psicológico —una ansiedad que no remite, un ánimo bajo que dura, un duelo que no encuentra sitio, insomnio, tensión sostenida—, el punto de partida recomendable es un psicólogo sanitario colegiado que ejerza la psicoterapia. Es el perfil que reúne las tres condiciones que importan: formación universitaria en psicología, formación sanitaria específica y un colegio profesional que responde de la práctica. Para situar el resto del mapa te pueden ayudar dos comparativas que ya hemos publicado: la diferencia entre psicólogo y psiquiatra, si tus dudas pasan por la medicación, y la diferencia entre psicólogo y coach, si lo que te atrae es un acompañamiento orientado a objetivos.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y si lo que necesitas es medicación? Entonces el profesional es el psiquiatra, que es médico y puede recetar. Conviene decirlo sin dramatismo: acudir a un perfil u otro no dice nada de la gravedad de lo que te pasa, solo del tipo de ayuda que conviene en cada momento. Muchas personas combinan ambos a lo largo de un mismo proceso: la psicoterapia y el seguimiento médico van en paralelo, no en competencia.",
+      },
+      {
+        type: "heading",
+        text: "Cómo verificar a un profesional antes de empezar",
+      },
+      {
+        type: "paragraph",
+        text: "La verificación es más sencilla de lo que parece y dice mucho del profesional que la recibe con naturalidad. Tres comprobaciones: que tenga Grado en Psicología y formación sanitaria (el máster de Psicología General Sanitaria o la vía PIR); que esté colegiado —en Cataluña, en el COPC, cuyo registro es público—; y que puedas preguntar por su experiencia con tu motivo de consulta sin que la pregunta incomode. En nuestra guía para elegir un psicólogo en Barcelona encontrarás estos criterios desarrollados con más detalle; y si tu duda es si «ya es momento» de consultar, el artículo sobre cómo saber si necesitas un psicólogo lo plantea sin urgencias.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una cuarta condición que ninguna credencial sustituye: el encaje. Un currículum impecable no garantiza que la persona adecuada para ti sea esa, porque la relación que se construye en sesión es parte del tratamiento, no un extra. Si ya has empezado un proceso y algo no encaja, merece la pena leer sobre cambiar de psicólogo: es más frecuente de lo que parece y no es un fracaso de nadie.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es lo mismo «psicólogo clínico» que «psicoterapeuta»?",
+            answer: "No exactamente. El psicólogo clínico o sanitario es un psicólogo con formación universitaria y sanitaria específica, colegiado y capacitado para evaluar, diagnosticar y tratar; la psicoterapia es una de sus herramientas principales. Un psicoterapeuta es quien ejerce la psicoterapia, con cualquier formación detrás. Todo psicólogo clínico puede ejercer como psicoterapeuta; no todo quien se dice psicoterapeuta es psicólogo.",
+          },
+          {
+            question: "¿Puede alguien sin titulación en psicología anunciarse como psicoterapeuta?",
+            answer: "En España, sí: al no existir título oficial ni colegio de psicoterapeutas, la palabra en sí no está protegida. Por eso es importante mirar detrás: si la persona ejerce una actividad sanitaria, la ley exige que sea profesional sanitario. Si encuentras a alguien que se presenta solo como «psicoterapeuta», pide su titulación y, si es psicólogo, su número de colegiado para verificarlo en el COPC o su colegio correspondiente.",
+          },
+          {
+            question: "¿Cómo sé si un psicólogo de Barcelona está colegiado?",
+            answer: "Preguntándole directamente su número de colegiado, que todo colegiado facilita con naturalidad, y comprobándolo en el registro público del Col·legi Oficial de la Psicologia de Catalunya (COPC). También puedes buscar al profesional por nombre en la web del colegio. Es una verificación de dos minutos que descarta la mayoría de los problemas antes de empezar.",
+          },
+          {
+            question: "Un psiquiatra que hace psicoterapia, ¿es mejor opción que un psicólogo?",
+            answer: "No es mejor ni peor: es un perfil distinto. El psiquiatra añade la formación médica y la posibilidad de recetar; el psicólogo sanitario dedica toda su formación a la evaluación y el tratamiento psicológico. Para la mayoría de motivos de consulta, la psicoterapia con un psicólogo es el punto de partida; si hay medicación implicada, los dos profesionales trabajan en paralelo.",
+          },
+          {
+            question: "¿Qué formación debo pedirle a quien me va a hacer terapia?",
+            answer: "Como mínimo, Grado en Psicología, formación sanitaria específica (máster en Psicología General Sanitaria o vía PIR) y colegiación activa. Si el profesional tiene formación adicional en una orientación concreta de psicoterapia, mejor todavía, pero lo esencial es la base acreditada: es lo que garantiza que quien te acompaña está capacitado y responde ante un colegio profesional.",
+          },
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, todos los profesionales que atendemos consulta somos psicólogos colegiados con formación sanitaria acreditada, y ejercemos la psicoterapia desde ese marco. Si quieres saber cómo trabajamos antes de dar el paso, tienes un artículo sobre cómo es la primera sesión de psicología; y la primera visita, que ofrecemos sin coste, es un buen lugar para preguntar todo lo que te rondee: no compromete a continuar y permite que la decisión de empezar —y con quién— sea tuya.",
+      },
+    ],
+  },
 ];
