@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "cuando-la-terapia-se-acaba",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Quan la teràpia s'acaba: com acabar bé un procés",
+    "titleES": "Cuando la terapia se acaba: cómo terminar bien un proceso",
+    "excerptCA": "A la primera sessió gairebé ningú pregunta com serà l'última. I, tanmateix, el final d'un procés terapèutic diu tant de la persona com el seu començament. Hi ha acabaments que són decisions madurades i acabaments que són fugides amb un altre nom; maneres de tancar que repeteixen, amb una fidelitat desconcertant, la manera d'acomiadar-se de tota la resta. Aquí explorem com es reconeix que un procés és complet, què fa amb el vincle un bon comiat i per què tornar a consultar anys després no és cap recaiguda.",
+    "excerptES": "En la primera sesión casi nadie pregunta cómo será la última. Y sin embargo el final de un proceso terapéutico dice tanto de la persona como su comienzo. Hay terminaciones que son decisiones maduradas y terminaciones que son huidas con otro nombre; maneras de cerrar que repiten, con una fidelidad desconcertante, la forma de despedirse de todo lo demás. Aquí exploramos cómo se reconoce que un proceso está completo, qué hace con el vínculo una buena despedida y por qué volver a consultar años después no es ninguna recaída.",
+    "datePublished": "2026-09-03"
+  },
+  {
     "slug": "terapia-familiar-adultos",
     "categoryCA": "Família",
     "categoryES": "Familia",
