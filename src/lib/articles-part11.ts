@@ -545,4 +545,144 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. deseo-pareja-larga-duracion (cron diario blog espaiemocions.es, 2026-09-04)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "deseo-pareja-larga-duracion",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "El desig en la parella de molts anys: quan s'apaga sense que passi res",
+    titleES: "El deseo en la pareja de larga duración: cuando se apaga sin que pase nada",
+    excerptCA:
+      "Hi ha parelles que no discuteixen, no s'enganyen i es cuiden amb esment, i tanmateix fa temps que no es desitgen. És una de les situacions més freqüents a la consulta i de les que menys es parlen: fa mal anomenar-la perquè no hi ha ningú culpable i perquè contradiu la idea d'un amor que s'hauria de bastar. Aquí explorem per què el desig s'apaga gairebé sempre en silenci, què sol estar mesurant de la relació i de cada persona, i com pot ajudar una teràpia de parella a recuperar la conversa sense prometre focs d'artifici.",
+    excerptES:
+      "Hay parejas que no discuten, no se engañan y se cuidan con esmero, y sin embargo hace tiempo que no se desean. Es una de las situaciones más frecuentes en consulta y de las que menos se hablan: duele nombrarla porque no hay nadie culpable y porque contradice la idea del amor que debería bastarse. Aquí exploramos por qué el deseo se apaga casi siempre en silencio, qué suele estar midiendo de la relación y de cada persona, y cómo puede ayudar una terapia de pareja a recuperar la conversación sin prometer fuegos artificiales.",
+    datePublished: "2026-09-04",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "L'escena és tan quotidiana que gairebé ningú no la senyala. Un sopar tranquil, la casa en ordre, dues persones que s'estimen i que, en anar a dormir, giren cadascuna cap al seu costat amb la naturalitat de qui apaga el llum. No ha passat res: no hi ha discussió, no hi ha engany, no hi ha mala voluntat. I tanmateix alguna cosa fa anys que desapareix d'aquest llit, i cap de les dues persones sabria dir quan va ser l'últim cop que hi era.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan el desig s'apaga amb soroll —una crisi, una traïció, una discussió que ho va canviar tot— la parella sap què ha perdut. Quan s'apaga en silenci, costa fins i tot anomenar-ho. És una de les situacions més freqüents a la consulta i de les que menys es parlen, en part perquè fa mal reconèixer-la: no hi ha ningú culpable, no hi ha cap esdeveniment que ho expliqui, i l'única evidència és una absència. D'això va aquest text: de per què es produeix, de què sol significar i de què es pot fer amb tot això.",
+      },
+      {
+        type: "heading",
+        text: "Gairebé mai no és que l'amor se n'hagi anat",
+      },
+      {
+        type: "paragraph",
+        text: "El primer que convé desmuntar és l'equació més temuda: menys desig, menys amor. A consulta es comprova una vegada i una altra una cosa que sorprèn a qui la sent per primera vegada. El desig no funciona com la tendresa. La tendresa creix amb la proximitat, amb el coneixement, amb els anys compartits; el desig necessita, a més, una mica de distància, de misteri, de trobada amb algú que no donem per conegut. No és un defecte de la parella: és la manera com el desig està fet.",
+      },
+      {
+        type: "paragraph",
+        text: "La parella de molts anys comprimeix la distància. Ho sap tot de l'altre —o això creu—, comparteix sostre, agenda, comptes i cansament, han vist l'un l'altre en la seva versió més ordinària. Aquesta intimitat és un èxit, de les coses més difícils de construir. Però sosté un tipus de vincle diferent del que encén el desig. Per això existeixen tantes parelles que funcionen bé, es cuiden i s'estimen de debò, i en què el desig ha quedat sense lloc propi: no perquè s'hagin deixat d'estimar, sinó perquè amb prou feines queda lloc des d'on desitjar-se.",
+      },
+      {
+        type: "heading",
+        text: "Què sol estar dient la manca de desig",
+      },
+      {
+        type: "paragraph",
+        text: "Convé pensar el desig menys com un instint i més com un termòmetre. Quan baixa, gairebé sempre està mesurant alguna cosa més que l'atracció. A vegades mesura el repartiment de la vida: una relació convertida en logística —feina, casa, fills, pares, comptes— en què les dues persones han passat d'amants a companyes de gestió. A vegades mesura el cansament: no queda cos per al joc, i allò que en una altra època era trobada s'ha tornat una tasca més de la llista.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades mesura allò que no s'ha dit. El desig és sensible al ressentiment acumulat, a les ferides que es van donar per tancades sense ser-ho, als comptes pendents que ningú no ha volgut reobrir. I a vegades mesura una cosa més íntima: que una de les parts —la juganera, la sensual, la que s'arriscava— fa temps que és fora de joc a la pròpia vida, apagada abans en la identitat que al llit. Quan algú deixa de sentir-se interessant per a si mateix, costa molt que resulti interessant per a l'altre. El desig, en aquest sentit, comença sempre a dins.",
+      },
+      {
+        type: "heading",
+        text: "Per què costa tant parlar-ne",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha poques converses tan delicades com aquesta. Es tem fer mal a l'altre, sobretot quan el vincle és bo: dir «també et trobo a faltar en aquest sentit» pot sonar a acusació, i callar sembla més misericordiós. Es tem la comparació amb els començaments, que converteix el present en un saldo. I hi pesa un mite silenciós: el de l'espontaneïtat, la idea que el desig vertader no necessita demanar-se ni construir-se, i que si cal parlar-ne és perquè ja no queda res a fer.",
+      },
+      {
+        type: "paragraph",
+        text: "El resultat és un pacte tàcit: no s'anomena, no es pregunta, s'espera que torni sol. A vegades torna —unes vacances, un distanciament breu, un canvi d'etapa— i a vegades el pacte acaba sent la casa sencera. És una variant del silenci a la parella del qual ja hem escrit: allò que no es diu no desapareix; s'acumula, i converteix la distància física en l'única conversa disponible.",
+      },
+      {
+        type: "heading",
+        text: "Què hi pot fer una teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia de parella no és una escola de tècniques ni una garantia de reactivar res, i convé dir-ho amb honestitat. El que ofereix és un lloc on aquesta conversa pot per fi passar sense que la casa s'ensorri: amb algú que sostingui el tema quan el tema pesa, que tradueixi la queixa en pregunta i que ajudi a distingir quina part del que passa és de la relació, quina és de cada persona i quina de la vida mateixa. A vegades el procés combina sessions de parella amb moments individuals, perquè no tot allò que apaga el desig pertany al vincle.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades la feina retorna la mirada: dues persones que tornen a veure's com algú i no només com a funció, i amb aquesta mirada torna alguna cosa del desig —no el dels vint anys, sinó un altre, més callat i més adult. A vegades la feina confirma que la relació s'ha acabat, i també això, dit amb cura, és més honest que anys de simulació. I a vegades, simplement, la parella comprèn el seu desig amb més justícia: deixa de castigar-se pel que li passa i comença a ocupar-se'n. Qualsevol d'aquests finals és un procés seriós, i cap no es pot prometre per endavant.",
+      },
+      {
+        type: "paragraph",
+        text: "Si fa temps que hi dones voltes —tot sol, o en un silenci compartit—, la pregunta potser no és si el que us passa és normal, sinó què està mesurant en la vostra relació. Aquesta pregunta es pot fer a casa, amb cura, o es pot sostenir a la consulta. Si voleu un lloc per començar, podeu demanar una primera visita amb nosaltres a Barcelona, presencial o en línia. La conversa més difícil d'una parella sol ser també la que deixa entrar més aire quan per fi passa.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La escena es tan cotidiana que casi nadie la señala. Una cena tranquila, la casa en orden, dos personas que se quieren y que, al acostarse, giran cada una hacia su lado con la naturalidad de quien apaga la luz. No ha pasado nada: no hay discusión, no hay engaño, no hay mala voluntad. Y sin embargo algo lleva años desapareciendo de esa cama, y ninguna de las dos personas sabría decir cuándo fue la última vez que estuvo allí.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando el deseo se apaga con ruido —una crisis, una traición, una pelea que lo cambió todo— la pareja sabe qué ha perdido. Cuando se apaga en silencio, cuesta incluso nombrarlo. Es una de las situaciones más frecuentes en consulta y de las que menos se hablan, en parte porque duele reconocerla: no hay nadie culpable, no hay un acontecimiento que lo explique, y la única evidencia es una ausencia. De eso va este texto: de por qué se produce, de lo que suele significar y de lo que se puede hacer con ello.",
+      },
+      {
+        type: "heading",
+        text: "Casi nunca es que el amor se haya ido",
+      },
+      {
+        type: "paragraph",
+        text: "Lo primero que conviene desmontar es la ecuación más temida: menos deseo, menos amor. En consulta se comprueba una y otra vez algo que sorprende a quien lo oye por primera vez. El deseo no funciona como la ternura. La ternura crece con la cercanía, con el conocimiento, con los años compartidos; el deseo necesita, además, un poco de distancia, de misterio, de encuentro con alguien que no damos por conocido. No es un defecto de la pareja: es la manera en que el deseo está hecho.",
+      },
+      {
+        type: "paragraph",
+        text: "La pareja de larga duración comprime la distancia. Se lo sabe todo del otro —o eso cree—, comparte techo, agenda, cuentas y cansancio, y se han visto el uno al otro en su versión más ordinaria. Esa intimidad es un logro, de las cosas más difíciles de construir. Pero sostiene un tipo de vínculo distinto del que enciende el deseo. Por eso existen tantas parejas que funcionan bien, se cuidan y se quieren de verdad, y en las que el deseo ha quedado sin lugar propio: no porque se hayan dejado de amar, sino porque apenas queda sitio desde el que desearse.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la falta de deseo suele estar diciendo",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene pensar el deseo menos como un instinto y más como un termómetro. Cuando baja, casi siempre está midiendo algo más que la atracción. A veces mide el reparto de la vida: una relación convertida en logística —trabajo, casa, hijos, padres, cuentas— en la que las dos personas han pasado de amantes a compañeros de gestión. A veces mide el cansancio: no queda cuerpo para el juego, y lo que en otra época era encuentro se ha vuelto una tarea más de la lista.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces mide lo no dicho. El deseo es sensible al resentimiento acumulado, a las heridas que se dieron por cerradas sin estarlo, a las cuentas pendientes que nadie ha querido reabrir. Y a veces mide algo más íntimo: que una de las partes —la juguetona, la sensual, la que se arriesgaba— lleva tiempo fuera de juego en la propia vida, apagada antes en la identidad que en la cama. Cuando alguien deja de sentirse interesante para sí mismo, cuesta mucho que le resulte interesante para el otro. El deseo, en ese sentido, empieza siempre dentro.",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta tanto hablarlo",
+      },
+      {
+        type: "paragraph",
+        text: "Hay pocas conversaciones tan delicadas como esta. Se teme herir al otro, sobre todo cuando el vínculo es bueno: decir «también te echo de menos en este sentido» puede sonar a acusación, y callar parece más misericordioso. Se teme la comparación con los comienzos, que convierte el presente en un saldo. Y pesa un mito silencioso: el de la espontaneidad, la idea de que el deseo verdadero no necesita pedirse ni construirse, y de que si hay que hablarlo es porque ya no queda nada que hacer.",
+      },
+      {
+        type: "paragraph",
+        text: "El resultado es un pacto tácito: no se nombra, no se pregunta, se espera que vuelva solo. A veces vuelve —unas vacaciones, un alejamiento breve, un cambio de etapa— y a veces el pacto acaba siendo la casa entera. Es una variante del silencio en la pareja del que ya hemos escrito: lo que no se dice no desaparece; se acumula, y convierte la distancia física en la única conversación disponible.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede hacer una terapia de pareja con esto",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia de pareja no es una escuela de técnicas ni una garantía de reactivar nada, y conviene decirlo con honestidad. Lo que ofrece es un lugar donde esta conversación puede por fin ocurrir sin que la casa se derrumbe: con alguien que sostenga el tema cuando el tema pesa, que traduzca la queja en pregunta y que ayude a distinguir qué parte de lo que ocurre es de la relación, cuál es de cada persona y cuál de la vida misma. A veces el proceso combina sesiones de pareja con momentos individuales, porque no todo lo que apaga el deseo pertenece al vínculo.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces el trabajo devuelve la mirada: dos personas que vuelven a verse como alguien y no solo como una función, y con esa mirada regresa algo del deseo —no el de los veinte años, sino otro, más callado y más adulto. A veces el trabajo confirma que la relación ha terminado, y también eso, dicho con cuidado, es más honesto que años de simulación. Y a veces, simplemente, la pareja comprende su deseo con más justicia: deja de castigarse por lo que le pasa y empieza a ocuparse de ello. Cualquiera de esos finales es un proceso serio, y ninguno se puede prometer por adelantado.",
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas tiempo dándole vueltas a esto —solo, o en un silencio compartido—, la pregunta quizá no sea si lo que os pasa es normal, sino qué está midiendo en vuestra relación. Esa pregunta se puede hacer en casa, con tacto, o se puede sostener en consulta. Si queréis un lugar para empezar, podéis pedir una primera visita con nosotros en Barcelona, presencial u online. La conversación más difícil de una pareja suele ser también la que deja entrar más aire cuando por fin sucede.",
+      },
+    ],
+  },
+
 ];

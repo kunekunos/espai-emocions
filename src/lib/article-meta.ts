@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "deseo-pareja-larga-duracion",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "El desig en la parella de molts anys: quan s'apaga sense que passi res",
+    "titleES": "El deseo en la pareja de larga duración: cuando se apaga sin que pase nada",
+    "excerptCA": "Hi ha parelles que no discuteixen, no s'enganyen i es cuiden amb esment, i tanmateix fa temps que no es desitgen. És una de les situacions més freqüents a la consulta i de les que menys es parlen: fa mal anomenar-la perquè no hi ha ningú culpable i perquè contradiu la idea d'un amor que s'hauria de bastar. Aquí explorem per què el desig s'apaga gairebé sempre en silenci, què sol estar mesurant de la relació i de cada persona, i com pot ajudar una teràpia de parella a recuperar la conversa sense prometre focs d'artifici.",
+    "excerptES": "Hay parejas que no discuten, no se engañan y se cuidan con esmero, y sin embargo hace tiempo que no se desean. Es una de las situaciones más frecuentes en consulta y de las que menos se hablan: duele nombrarla porque no hay nadie culpable y porque contradice la idea del amor que debería bastarse. Aquí exploramos por qué el deseo se apaga casi siempre en silencio, qué suele estar midiendo de la relación y de cada persona, y cómo puede ayudar una terapia de pareja a recuperar la conversación sin prometer fuegos artificiales.",
+    "datePublished": "2026-09-04"
+  },
+  {
     "slug": "cuando-la-terapia-se-acaba",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
