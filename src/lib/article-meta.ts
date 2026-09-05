@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "senales-que-necesitas-terapia",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "Senyals que necessites teràpia: 12 símptomes que convé deixar de normalitzar",
+    "titleES": "Señales de que necesitas terapia: 12 síntomas que conviene dejar de normalizar",
+    "excerptCA": "Gairebé ningú no arriba a consulta per un esdeveniment únic: s'hi arriba per una acumulació de coses que es van normalitzant fins que deixen de veure's. Insomni, irritabilitat, un cansament que les vacances no curen, un cos que protesta, vincles que s'apaguen… Aquestes són les senyals que els adults d'avui han après a aguantar com si no fossin res, anomenades amb calma: què significa cadascuna, de què sol ser indicis i per què cap no ha d'arribar a un límit per merèixer una conversa professional. Un mapa honest per a qui fa temps que es pregunta si ja és el moment.",
+    "excerptES": "Casi nadie llega a consulta por un acontecimiento único: se llega por una acumulación de cosas que se fueron normalizando hasta que dejaron de verse. Insomnio, irritabilidad, un cansancio que las vacaciones no curan, un cuerpo que protesta, vínculos que se apagan… Estas son las señales que los adultos de hoy aprendieron a aguantar como si nada fueran, nombradas con calma: qué significa cada una, de qué suele ser indicio y por qué ninguna necesita llegar a un límite para merecer una conversación profesional. Un mapa honesto para quien lleva tiempo preguntándose si ya es el momento.",
+    "datePublished": "2026-09-05"
+  },
+  {
     "slug": "deseo-pareja-larga-duracion",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

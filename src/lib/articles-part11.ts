@@ -684,5 +684,138 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
-
+  // ---------------------------------------------------------------------------
+  // 5. senales-que-necesitas-terapia (Cola sept 2026, orden 3: pieza pilar del
+  //    cluster «¿Necesito un psicólogo?». Cada señal remite a un artículo propio.)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "senales-que-necesitas-terapia",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA:
+      "Senyals que necessites teràpia: 12 símptomes que convé deixar de normalitzar",
+    titleES:
+      "Señales de que necesitas terapia: 12 síntomas que conviene dejar de normalizar",
+    excerptCA:
+      "Gairebé ningú no arriba a consulta per un esdeveniment únic: s'hi arriba per una acumulació de coses que es van normalitzant fins que deixen de veure's. Insomni, irritabilitat, un cansament que les vacances no curen, un cos que protesta, vincles que s'apaguen… Aquestes són les senyals que els adults d'avui han après a aguantar com si no fossin res, anomenades amb calma: què significa cadascuna, de què sol ser indicis i per què cap no ha d'arribar a un límit per merèixer una conversa professional. Un mapa honest per a qui fa temps que es pregunta si ja és el moment.",
+    excerptES:
+      "Casi nadie llega a consulta por un acontecimiento único: se llega por una acumulación de cosas que se fueron normalizando hasta que dejaron de verse. Insomnio, irritabilidad, un cansancio que las vacaciones no curan, un cuerpo que protesta, vínculos que se apagan… Estas son las señales que los adultos de hoy aprendieron a aguantar como si nada fueran, nombradas con calma: qué significa cada una, de qué suele ser indicio y por qué ninguna necesita llegar a un límite para merecer una conversación profesional. Un mapa honesto para quien lleva tiempo preguntándose si ya es el momento.",
+    datePublished: "2026-09-05",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "A consulta se sent una i altra vegada la mateixa frase, dita gairebé amb disculpa: «Jo pensava que això li passava a tothom». Gairebé ningú no arriba a teràpia per un esdeveniment únic. S'hi arriba, quasi sempre, per una acumulació: mesos o anys de coses que es van aguantant, ordenant, restant-hi importància, fins que deixen de veure's. Això s'anomena normalitzar, i és una manera de resistir que té un cost: allò normalitzat deixa d'incomodar i, per tant, deixa d'avisar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article anomena dotze senyals que els adults d'avui han après a suportar com si no fossin res. No és un test ni un diagnòstic: és un mapa d'allò que, a consulta, sol aparèixer a sota de la frase «no sé, jo crec que estic bé». Cada senyal remet a un text on es desenvolupa amb més calma. Si ja et fas la pregunta amb serietat, potser t'interessa també el nostre article sobre com saber si necessites un psicòleg: aquest text n'és el complement, més detallat.",
+      },
+      {
+        type: "heading",
+        text: "Les senyals que el cos porta anys enviant",
+      },
+      {
+        type: "paragraph",
+        text: "La primera és la rumiació: aquella ment que dona voltes —al dia següent, a la conversa d'ahir, a la decisió pendent— i que troba el seu moment preferit quan apagues el llum. La segona arriba amb la primera: dormir sense descansar, despertar-se a les quatre del matí amb la llista ja oberta. De la rumiació ansiosa ja hem escrit amb detall; convé saber que no és un defecte de caràcter, sinó un intent de controlar allò que se sent insegur donant-hi voltes. Que la ment no pari no és senyal que funcioni bé: és senyal que alguna cosa demana ser mirada.",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera parla des de més avall: el cos. Contractures que no cedeixen, un estómac que es tanca, una opressió al pit que la cardiologia descarta i que no marxa. Quan el cos diu el que el cap calla, el malestar troba el seu canal: somatitzar no és imaginar-se coses, és una forma real de tensió sense paraules. La quarta és el cansament: no el d'una setmana dura, sinó el que les vacances no curen, aquell fons d'esgotament que reapareix als tres dies de tornar. Si et hi reconeixes, convé distingir entre burnout i cansament: no és el mateix estar ple de feina que estar buit de sentit.",
+      },
+      {
+        type: "heading",
+        text: "Les senyals que els altres noten abans que tu",
+      },
+      {
+        type: "paragraph",
+        text: "La cinquena és la irritabilitat: la paciència que s'escurça, la resposta àcida que després es lamenta, els sorolls que abans no molestaven i ara no es suporten. Moltes persones l'atribueixen a l'estrès o a l'edat i no hi donen més voltes; ja hem escrit sobre per què estar irritable tot el temps no és normal ni un tret de caràcter. La sisena és el perfeccionisme que paralitza: llistes que no es tanquen, projectes que no s'acaben, una exigència tan alta que la pròpia vida es queda esperant que la deixis sortir. I la setena, potser la més difícil de veure des de dins, és la funcionalitat com a defensa: «jo estic bé». Funciona, produeix, organitza, compleix — i per dins fa temps que no és enlloc. Ja hem escrit sobre aquesta figura; convé repetir-ne la conclusió: funcionar bé no equivale a estar bé. A vegades és la manera més silenciosa de no estar-ho.",
+      },
+      {
+        type: "heading",
+        text: "Les senyals del to de la vida",
+      },
+      {
+        type: "paragraph",
+        text: "La vuitena és la que la clínica anomena anhedonia i la vida anomena d'una altra manera: les coses que abans agradaven ja no agraden. El sopar amb amics es cancel·la una vegada i una altra, la música acompanya però no arriba, els plans es viuen com gestió. És una de les formes més freqüents dels estats depressius a l'edat adulta, i no necessita llàgrimes per ser real. La novena és la retirada: els missatges que queden sense resposta, l'agenda que es buida i no s'omple, una soledat que comença semblant descans i acaba semblant distància. Sobre la soledat a l'edat adulta ja hem escrit: no sempre és manca de gent al voltant; a vegades és manca d'un lloc on un se senti esperat de debò.",
+      },
+      {
+        type: "paragraph",
+        text: "La desena és un malestar sense nom: res greu, res concret, i tanmateix una sensació persistent que alguna cosa no encaixa —a la feina, a la relació, a la mateixa pell—. L'onzena és el desencant: la vida que funcionava deixa de sostenir, i apareix una pregunta sobre el sentit que el calendari no respon. A això, quan arriba entre els trenta i els cinquanta i remou identitats i valors, ho anomenem crisi vital; i encara que la cultura ho tracti com un capritx de la maduresa, és una de les experiències més serioses —i més freqüents— que passen per una consulta.",
+      },
+      {
+        type: "heading",
+        text: "La senyal que sosté totes les altres",
+      },
+      {
+        type: "paragraph",
+        text: "La dotzena travessa totes les altres: la dificultat per demanar ajuda. Apareix disfressada d'autonomia («puc amb això»), de prudència («no és per tant») o de responsabilitat («ara no és el moment»). Ja hem escrit sobre per què als adults competents els costa tant demanar ajuda: com millor funciona una persona, més sola sosté. Si t'has reconegut en les onze senyals anteriors i també en aquesta última, la suma no és cap veredicte. És la descripció de quant de temps portes sostenint sense repartir.",
+      },
+      {
+        type: "paragraph",
+        text: "Dues coses convé dir-les amb claredat. La primera: no hi ha llindar. No cal estar «prou malament» per demanar cita, igual que no cal una avaria per dur el cotxe al taller. Les senyals no són un examen que s'aprova o se suspèn; són informació sobre la relació que mantens amb tu i amb la teva vida, i com a tal es poden llegir amb calma. La segona: aquest mapa no substitueix una avaluació professional. Algunes d'aquestes senyals poden tenir també causes mèdiques que convé descartar, i cap lectura d'internet no pot fer el que sí que pot començar a fer una primera conversa: posar ordre i context al que portes anys ordenant tot sol.",
+      },
+      {
+        type: "paragraph",
+        text: "Si t'has reconegut en diverses d'aquestes senyals —o només en l'última—, potser la pregunta ja no és si valen la pena una cita, sinó per què esperar que es vegin més. Pots demanar una primera visita al nostre centre de Barcelona, presencial o en línia, i començar per on siguis: amb les dotze senyals, amb tres, o només amb la sensació que aquest article t'ha mirat massa de prop.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "En consulta se oye una y otra vez la misma frase, dicha casi con disculpa: «Yo pensaba que esto le pasaba a todo el mundo». Casi nadie llega a terapia por un acontecimiento único. Se llega, casi siempre, por una acumulación: meses o años de cosas que fueron aguantándose, ordenándose, restándoles importancia, hasta que dejaron de verse. A eso se le llama normalizar, y es una forma de resistir que tiene un coste: lo normalizado deja de incomodar y, por lo tanto, deja de avisar.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo nombra doce señales que los adultos de hoy aprendieron a soportar como si nada fueran. No es un test ni un diagnóstico: es un mapa de aquello que, en consulta, suele aparecer debajo de la frase «no sé, yo creo que estoy bien». Cada señal remite a un texto donde se desarrolla con más calma. Si ya te haces la pregunta con seriedad, quizá te interese también nuestro artículo sobre cómo saber si necesitas un psicólogo: este texto es su complemento, más detallado.",
+      },
+      {
+        type: "heading",
+        text: "Las señales que el cuerpo lleva años enviando",
+      },
+      {
+        type: "paragraph",
+        text: "La primera es la rumiación: esa mente que da vueltas —al día siguiente, a la conversación de ayer, a la decisión pendiente— y que encuentra su momento favorito cuando apagas la luz. La segunda va pegada a la primera: dormir sin descansar, despertarse a las cuatro de la mañana con la lista ya abierta. De la rumiación ansiosa ya hemos escrito con detalle; conviene saber que no es un defecto de carácter, sino un intento de controlar lo que se siente inseguro dándole vueltas. Que la mente no pare no es una señal de que funciona bien: es una señal de que algo pide ser mirado.",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera habla desde más abajo: el cuerpo. Contracturas que no ceden, un estómago que se cierra, una opresión en el pecho que la cardiología descarta y que no se va. Cuando el cuerpo dice lo que la cabeza calla, el malestar encuentra su canal: somatizar no es imaginarse cosas, es una forma real de tensión sin palabras. La cuarta es el cansancio: no el de una semana dura, sino el que las vacaciones no curan, ese fondo de agotamiento que reaparece a los tres días de volver. Si te reconoces ahí, conviene distinguir entre burnout y cansancio: no es lo mismo estar lleno de trabajo que estar vacío de sentido.",
+      },
+      {
+        type: "heading",
+        text: "Las señales que los demás notan antes que tú",
+      },
+      {
+        type: "paragraph",
+        text: "La quinta es la irritabilidad: la paciencia que se acorta, la respuesta ácida que luego se lamenta, los ruidos que antes no molestaban y ahora no se soportan. Muchas personas la atribuyen al estrés o a la edad y no le dan más vueltas; ya escribimos sobre por qué estar irritable todo el tiempo no es normal ni un rasgo de carácter. La sexta es el perfeccionismo que paraliza: listas que no se cierran, proyectos que no terminan, una exigencia tan alta que la propia vida se queda esperando a que la dejes salir. Y la séptima, quizá la más difícil de ver desde dentro, es la funcionalidad como defensa: «yo estoy bien». Funciona, produce, organiza, cumple — y por dentro lleva tiempo sin estar en ningún sitio. Ya escribimos sobre esta figura; conviene repetir su conclusión: funcionar bien no equivale a estar bien. A veces es la manera más silenciosa de no estarlo.",
+      },
+      {
+        type: "heading",
+        text: "Las señales del tono de la vida",
+      },
+      {
+        type: "paragraph",
+        text: "La octava es la que la clínica llama anhedonia y la vida llama de otra manera: las cosas que antes gustaban ya no gustan. La cena con amigos se cancela una y otra vez, la música acompaña pero no llega, los planes se viven como gestión. Es una de las formas más frecuentes de los estados depresivos en la edad adulta, y no necesita lágrimas para ser real. La novena es la retirada: los mensajes que quedan sin contestar, la agenda que se vacía y no se llena, una soledad que empieza pareciendo descanso y acaba pareciendo distancia. Sobre la soledad en la edad adulta ya hemos escrito: no siempre es falta de gente alrededor; a veces es falta de un lugar donde uno se siente esperado de verdad.",
+      },
+      {
+        type: "paragraph",
+        text: "La décima es un malestar sin nombre: nada grave, nada concreto, y sin embargo una sensación persistente de que algo no encaja —en el trabajo, en la relación, en la propia piel—. La undécima es el desencanto: la vida que funcionaba deja de sostener, aparece una pregunta por el sentido que el calendario no responde. A eso, cuando llega entre los treinta y los cincuenta y remueve identidades y valores, lo llamamos crisis vital; y aunque la cultura lo trate como capricho de la mediana edad, es una de las experiencias más serias —y más frecuentes— que pasan por consulta.",
+      },
+      {
+        type: "heading",
+        text: "La señal que sostiene a todas las demás",
+      },
+      {
+        type: "paragraph",
+        text: "La duodécima atraviesa a todas las demás: la dificultad para pedir ayuda. Aparece disfrazada de autonomía («puedo con esto»), de prudencia («no es para tanto») o de responsabilidad («ahora no es el momento»). Ya hemos escrito sobre por qué a los adultos competentes les cuesta tanto pedir ayuda: cuanto mejor funciona una persona, más sola sostiene. Si te has reconocido en las once señales anteriores y también en esta última, la suma no es un veredicto. Es la descripción de cuánto llevas sosteniendo sin reparto.",
+      },
+      {
+        type: "paragraph",
+        text: "Dos cosas conviene decirlas con claridad. La primera: no hay umbral. No hace falta estar «lo bastante mal» para pedir cita, igual que no hace falta una avería para llevar el coche al taller. Las señales no son un examen que se aprueba o se suspende; son información sobre la relación que mantienes contigo y con tu vida, y como tal se pueden leer con calma. La segunda: este mapa no sustituye una evaluación profesional. Algunas de estas señales pueden tener también causas médicas que conviene descartar, y ninguna lectura de internet puede hacer lo que sí puede empezar a hacer una primera conversación: poner orden y contexto a lo que llevas años ordenando solo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te has reconocido en varias de estas señales —o solo en la última—, quizá la pregunta ya no sea si merecen una cita, sino para qué esperar a que se vean más. Puedes pedir una primera visita en nuestro centro de Barcelona, presencial u online, y empezar por donde estés: con las doce señales, con tres, o solo con la sensación de que este artículo te ha mirado demasiado de cerca.",
+      },
+    ],
+  },
 ];
