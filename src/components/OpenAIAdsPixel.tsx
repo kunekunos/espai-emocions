@@ -1,10 +1,8 @@
 "use client";
 
-import Script from "next/script";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const CONSENT_KEY = "espai_emocions_ads_measurement_consent";
-const PIXEL_ID = "QAn2yA6TagqoPFMhf8SUkD";
 
 declare global {
   interface Window {
@@ -17,9 +15,10 @@ type ConsentChoice = "granted" | "denied" | null;
 export function OpenAIAdsPixel() {
   const [choice, setChoice] = useState<ConsentChoice>(null);
   const [ready, setReady] = useState(false);
+  const measuredPageView = useRef(false);
 
   useEffect(() => {
-    window.setTimeout(() => {
+    const timer = window.setTimeout(() => {
       let stored: string | null = null;
       try {
         stored = window.localStorage.getItem(CONSENT_KEY);
@@ -29,7 +28,32 @@ export function OpenAIAdsPixel() {
       setChoice(stored === "granted" || stored === "denied" ? stored : null);
       setReady(true);
     }, 0);
+
+    return () => {
+      window.clearTimeout(timer);
+    };
   }, []);
+
+  useEffect(() => {
+    if (!ready || choice !== "granted" || measuredPageView.current) return;
+
+    window.oaiq?.(
+      "measure",
+      "page_viewed",
+      {
+        type: "contents",
+        contents: [
+          {
+            id: "psicologo-barcelona",
+            name: "Psicólogo en Barcelona",
+            content_type: "page",
+          },
+        ],
+      },
+      { opt_out: true },
+    );
+    measuredPageView.current = true;
+  }, [choice, ready]);
 
   function choose(nextChoice: Exclude<ConsentChoice, null>) {
     try {
@@ -53,27 +77,6 @@ export function OpenAIAdsPixel() {
 
   return (
     <>
-      <Script id="openai-ads-measurement" strategy="afterInteractive">
-        {`
-          (function(w,d,s,u){
-            if(!w.oaiq){
-              var q=function(){q.q.push(arguments)};
-              q.q=[];
-              w.oaiq=q;
-              var j=d.createElement(s);
-              j.async=true;
-              j.src=u;
-              var f=d.getElementsByTagName(s)[0];
-              f.parentNode.insertBefore(j,f);
-            }
-            var allowed=false;
-            try { allowed=localStorage.getItem("${CONSENT_KEY}")==="granted"; } catch(e) {}
-            w.oaiq("consent",allowed);
-            w.oaiq("init",{pixelId:"${PIXEL_ID}"});
-          })(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");
-        `}
-      </Script>
-
       {ready && choice === null ? (
         <aside
           aria-label="Preferencias de medición publicitaria"

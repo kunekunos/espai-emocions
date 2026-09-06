@@ -50,6 +50,8 @@ async function run() {
   const home = await request("/");
   const homeHtml = await home.text();
   assert(home.status === 200, "Inicio responde 200");
+  assert(homeHtml.includes("QAn2yA6TagqoPFMhf8SUkD"), "El píxel de OpenAI Ads está en el HTML inicial");
+  assert(homeHtml.includes("https://bzrcdn.openai.com/sdk/oaiq.min.js"), "El SDK de OpenAI Ads se carga antes de la interacción");
   assert(/wa\.me\/34614629670/.test(homeHtml), "WhatsApp real está disponible");
   assert(!/<form[\s>]/i.test(homeHtml), "El formulario permanece desactivado sin configuración legal");
   assert(!/(menos de 24|menys de 24)/i.test(homeHtml), "No se promete respuesta en menos de 24 horas");

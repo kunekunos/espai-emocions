@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import Script from "next/script";
 import "./globals.css";
 import { LanguageProvider } from "@/lib/i18n";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
+
+const OPENAI_ADS_CONSENT_KEY = "espai_emocions_ads_measurement_consent";
+const OPENAI_ADS_PIXEL_ID = "QAn2yA6TagqoPFMhf8SUkD";
 
 const instrumentSans = localFont({
   src: "./fonts/InstrumentSans-latin.woff2",
@@ -143,6 +147,26 @@ export default function RootLayout({
       className={`${instrumentSans.variable} ${fraunces.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <Script id="openai-ads-measurement" strategy="beforeInteractive">
+          {`
+            (function(w,d,s,u){
+              if(!w.oaiq){
+                var q=function(){q.q.push(arguments)};
+                q.q=[];
+                w.oaiq=q;
+                var j=d.createElement(s);
+                j.async=true;
+                j.src=u;
+                var f=d.getElementsByTagName(s)[0];
+                f.parentNode.insertBefore(j,f);
+              }
+              var allowed=false;
+              try { allowed=localStorage.getItem("${OPENAI_ADS_CONSENT_KEY}")==="granted"; } catch(e) {}
+              w.oaiq("consent",allowed);
+              w.oaiq("init",{pixelId:"${OPENAI_ADS_PIXEL_ID}",debug:${process.env.NODE_ENV !== "production"}});
+            })(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");
+          `}
+        </Script>
         <GoogleAnalytics />
         <script
           type="application/ld+json"
