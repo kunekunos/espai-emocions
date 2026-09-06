@@ -1227,4 +1227,160 @@ export const articlesPart6: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 6. cuando-no-sabes-si-separarte (cron diario blog espaiemocions.es, 2026-09-06)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "cuando-no-sabes-si-separarte",
+    categoryCA: "Teràpia de parella",
+    categoryES: "Terapia de pareja",
+    titleCA: "Quan no saps si separar-te: quedar-se, marxar i poder pensar-ho sense presses",
+    titleES: "Cuando no sabes si separarte: quedarse, irse y poder pensarlo sin prisas",
+    excerptCA:
+      "Hi ha moments en una relació en què la pregunta no és si encara estimes, sinó si la vida que esteu construint té sentit per a tots dos. El dubte sobre separar-se no sempre apareix com una decisió clara: sovint arriba com una alternança entre esperança i cansament, entre responsabilitat i desig de descans. Aquest article explora com mirar aquesta pregunta en teràpia de parella sense convertir-la en una urgència, i per què poder pensar junts ja és, de vegades, el primer moviment honest.",
+    excerptES:
+      "Hay momentos en una relación en los que la pregunta no es si todavía quieres, sino si la vida que estáis construyendo tiene sentido para los dos. La duda sobre separarse no siempre aparece como una decisión clara: a menudo llega como una alternancia entre esperanza y cansancio, entre responsabilidad y deseo de descanso. Este artículo explora cómo mirar esta pregunta en terapia de pareja sin convertirla en una urgencia, y por qué poder pensar juntos ya es, a veces, el primer movimiento honesto.",
+    datePublished: "2026-09-06",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha preguntes que una parella triga molt a formular perquè, un cop dites, sembla que ja no puguin tornar al lloc d'abans. «Ens hem de separar?» n'és una. Pot aparèixer després d'una discussió forta, però sovint arriba d'una manera més silenciosa: com un pensament que torna al metro, al llit, a la cuina mentre l'altre parla. No sempre ve acompanyat d'odi ni d'una ruptura evident. De vegades conviu amb estima, amb història compartida i amb una vida que, des de fora, sembla prou ordenada.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això fa tanta por. Si la relació fos només dolorosa, la pregunta semblaria més simple. Però moltes parelles arriben a aquest punt amb una barreja difícil: hi ha vincle, hi ha cansament, hi ha moments bons, hi ha un fons de distància que no acaba de tancar-se. Una part vol quedar-se i una altra imagina el descans de marxar. I cap de les dues parts menteix.",
+      },
+      {
+        type: "heading",
+        text: "El dubte no és una sentència",
+      },
+      {
+        type: "paragraph",
+        text: "Pensar en separar-se no significa que la relació estigui acabada. Significa que alguna cosa important demana ser mirada. El problema és que moltes parelles tracten aquest dubte com una amenaça i, per això, el deixen fora de la conversa. Cadascú el pensa a soles, el carrega amb culpa o amb por, i quan finalment surt, surt en forma d'atac: «potser hauríem de deixar-ho». Llavors la pregunta ja no obre un espai, sinó que activa defensa.",
+      },
+      {
+        type: "paragraph",
+        text: "En teràpia de parella, aquesta pregunta es pot mirar d'una altra manera. No com una ordre de decidir immediatament, sinó com un indicador. Què s'ha anat perdent? Què s'ha intentat reparar i no ha funcionat? Quines parts de cadascú han quedat fora de la relació? Quina vida esteu sostenint junts, i a quin preu? La diferència és important: no es tracta de convèncer ningú perquè es quedi ni d'empènyer ningú perquè marxi. Es tracta de recuperar una conversa que s'ha tornat massa pesada per sostenir-la sols.",
+      },
+      {
+        type: "heading",
+        text: "Quan quedar-se també fa mal",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha parelles que no es trenquen perquè encara hi ha amor, i d'altres que no es trenquen perquè hi ha por. La dificultat és distingir-ho. Quedar-se pot ser una decisió madura quan hi ha voluntat real de mirar el que passa, de canviar formes de relació, de responsabilitzar-se de la pròpia part. Però quedar-se també pot ser una manera de no afrontar la pèrdua, la culpa o la imatge d'un projecte que no ha sortit com s'esperava.",
+      },
+      {
+        type: "paragraph",
+        text: "La maduresa no consisteix sempre a aguantar. De vegades consisteix a deixar de confondre la perseverança amb la renúncia a un mateix. Una relació pot tenir una història valuosa i, alhora, estar organitzada d'una forma que ja no permet viure amb coherència. Poder dir això sense convertir l'altre en culpable és un dels treballs més delicats de la teràpia de parella.",
+      },
+      {
+        type: "heading",
+        text: "Quan marxar també fa mal",
+      },
+      {
+        type: "paragraph",
+        text: "Separar-se tampoc és només alliberament. Fins i tot quan és una decisió necessària, implica dol: per la persona, pel projecte, per la versió de tu que va creure en aquella vida. A vegades qui vol marxar també estima. A vegades qui demana distància no vol fer mal, sinó deixar de viure en una forma de relació que ja no pot sostenir. Reduir-ho a egoisme o a falta d'amor sol empobrir una situació que és molt més humana i complexa.",
+      },
+      {
+        type: "paragraph",
+        text: "També hi ha persones que imaginen la separació com un lloc net, sense ambivalència. Però la vida adulta rarament ofereix sortides sense cost. Hi pot haver fills, famílies, economia compartida, amistats, una casa, anys de rituals. Tot això no obliga a quedar-se, però forma part del context. Pensar bé una separació no és fer-la més dramàtica: és reconèixer que una decisió així toca moltes capes de la vida.",
+      },
+      {
+        type: "heading",
+        text: "El paper de la teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes persones creuen que anar a teràpia de parella significa intentar salvar la relació. Pot ser així, però no sempre. De vegades la teràpia serveix per veure si encara hi ha una relació possible; altres vegades, per separar-se amb menys destrucció. En tots dos casos, el centre no és conservar la parella a qualsevol preu, sinó ajudar a pensar amb més claredat, menys reactivitat i més responsabilitat.",
+      },
+      {
+        type: "paragraph",
+        text: "El procés acostuma a començar posant ordre: què està passant, des de quan, com ho viu cadascú, què s'ha intentat, què es repeteix. Després apareix una feina més profunda: escoltar no només el contingut de les queixes, sinó el lloc des d'on neixen. Sota una acusació pot haver-hi soledat. Sota el silenci, esgotament. Sota la irritació, por de no importar. Quan aquestes capes es poden veure, la decisió —quedar-se, separar-se o donar-se un temps de treball— deixa de néixer només de la ferida immediata.",
+      },
+      {
+        type: "heading",
+        text: "Poder decidir sense presses",
+      },
+      {
+        type: "paragraph",
+        text: "No totes les preguntes urgents necessiten una resposta immediata. Algunes necessiten un espai prou segur perquè la resposta no surti del pànic ni del cansament acumulat. La teràpia no elimina el dolor d'una decisió de parella, però pot ajudar que aquesta decisió sigui més pròpia: menys dictada per la por, menys atrapada en la culpa, més connectada amb els valors i amb la realitat de cadascú.",
+      },
+      {
+        type: "paragraph",
+        text: "Si esteu en aquest punt, potser el primer pas no és decidir si us separeu. Potser és poder dir, davant d'algú que sosté el procés, que la pregunta existeix. A Espai Emocions acompanyem parelles que volen entendre què els passa abans de convertir el dubte en sentència. De vegades aquest treball obre una manera nova de quedar-se. De vegades permet marxar amb més respecte. En tots dos casos, ajuda a no trair la complexitat del vincle ni la dignitat de les persones que l'han construït.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay preguntas que una pareja tarda mucho en formular porque, una vez dichas, parece que ya no puedan volver al lugar de antes. «¿Tenemos que separarnos?» es una de ellas. Puede aparecer después de una discusión fuerte, pero a menudo llega de una forma más silenciosa: como un pensamiento que vuelve en el metro, en la cama, en la cocina mientras el otro habla. No siempre viene acompañado de odio ni de una ruptura evidente. A veces convive con cariño, con historia compartida y con una vida que, desde fuera, parece bastante ordenada.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso da tanto miedo. Si la relación fuera solo dolorosa, la pregunta parecería más simple. Pero muchas parejas llegan a este punto con una mezcla difícil: hay vínculo, hay cansancio, hay momentos buenos, hay un fondo de distancia que no acaba de cerrarse. Una parte quiere quedarse y otra imagina el descanso de irse. Y ninguna de las dos partes miente.",
+      },
+      {
+        type: "heading",
+        text: "La duda no es una sentencia",
+      },
+      {
+        type: "paragraph",
+        text: "Pensar en separarse no significa que la relación esté terminada. Significa que algo importante pide ser mirado. El problema es que muchas parejas tratan esa duda como una amenaza y, por eso, la dejan fuera de la conversación. Cada uno la piensa a solas, la carga con culpa o con miedo, y cuando finalmente sale, sale en forma de ataque: «quizá deberíamos dejarlo». Entonces la pregunta ya no abre un espacio, sino que activa defensa.",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia de pareja, esta pregunta se puede mirar de otra manera. No como una orden de decidir de inmediato, sino como un indicador. Qué se ha ido perdiendo. Qué se ha intentado reparar y no ha funcionado. Qué partes de cada uno han quedado fuera de la relación. Qué vida estáis sosteniendo juntos, y a qué precio. La diferencia es importante: no se trata de convencer a nadie para que se quede ni de empujar a nadie para que se vaya. Se trata de recuperar una conversación que se ha vuelto demasiado pesada para sostenerla solos.",
+      },
+      {
+        type: "heading",
+        text: "Cuando quedarse también duele",
+      },
+      {
+        type: "paragraph",
+        text: "Hay parejas que no se rompen porque todavía hay amor, y otras que no se rompen porque hay miedo. La dificultad es distinguirlo. Quedarse puede ser una decisión madura cuando hay voluntad real de mirar lo que ocurre, de cambiar formas de relación, de responsabilizarse de la propia parte. Pero quedarse también puede ser una manera de no afrontar la pérdida, la culpa o la imagen de un proyecto que no salió como se esperaba.",
+      },
+      {
+        type: "paragraph",
+        text: "La madurez no consiste siempre en aguantar. A veces consiste en dejar de confundir la perseverancia con la renuncia a uno mismo. Una relación puede tener una historia valiosa y, al mismo tiempo, estar organizada de una forma que ya no permite vivir con coherencia. Poder decir esto sin convertir al otro en culpable es uno de los trabajos más delicados de la terapia de pareja.",
+      },
+      {
+        type: "heading",
+        text: "Cuando irse también duele",
+      },
+      {
+        type: "paragraph",
+        text: "Separarse tampoco es solo alivio. Incluso cuando es una decisión necesaria, implica duelo: por la persona, por el proyecto, por la versión de ti que creyó en esa vida. A veces quien quiere irse también quiere. A veces quien pide distancia no quiere hacer daño, sino dejar de vivir en una forma de relación que ya no puede sostener. Reducirlo a egoísmo o a falta de amor suele empobrecer una situación que es mucho más humana y compleja.",
+      },
+      {
+        type: "paragraph",
+        text: "También hay personas que imaginan la separación como un lugar limpio, sin ambivalencia. Pero la vida adulta rara vez ofrece salidas sin coste. Puede haber hijos, familias, economía compartida, amistades, una casa, años de rituales. Todo eso no obliga a quedarse, pero forma parte del contexto. Pensar bien una separación no es hacerla más dramática: es reconocer que una decisión así toca muchas capas de la vida.",
+      },
+      {
+        type: "heading",
+        text: "El papel de la terapia de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas personas creen que ir a terapia de pareja significa intentar salvar la relación. Puede ser así, pero no siempre. A veces la terapia sirve para ver si todavía hay una relación posible; otras veces, para separarse con menos destrucción. En ambos casos, el centro no es conservar la pareja a cualquier precio, sino ayudar a pensar con más claridad, menos reactividad y más responsabilidad.",
+      },
+      {
+        type: "paragraph",
+        text: "El proceso suele empezar poniendo orden: qué está pasando, desde cuándo, cómo lo vive cada uno, qué se ha intentado, qué se repite. Después aparece un trabajo más profundo: escuchar no solo el contenido de las quejas, sino el lugar desde donde nacen. Bajo una acusación puede haber soledad. Bajo el silencio, agotamiento. Bajo la irritación, miedo a no importar. Cuando esas capas se pueden ver, la decisión —quedarse, separarse o darse un tiempo de trabajo— deja de nacer solo de la herida inmediata.",
+      },
+      {
+        type: "heading",
+        text: "Poder decidir sin prisas",
+      },
+      {
+        type: "paragraph",
+        text: "No todas las preguntas urgentes necesitan una respuesta inmediata. Algunas necesitan un espacio lo bastante seguro para que la respuesta no salga del pánico ni del cansancio acumulado. La terapia no elimina el dolor de una decisión de pareja, pero puede ayudar a que esa decisión sea más propia: menos dictada por el miedo, menos atrapada en la culpa, más conectada con los valores y con la realidad de cada uno.",
+      },
+      {
+        type: "paragraph",
+        text: "Si estáis en este punto, quizá el primer paso no sea decidir si os separáis. Quizá sea poder decir, delante de alguien que sostiene el proceso, que la pregunta existe. En Espai Emocions acompañamos a parejas que quieren entender qué les pasa antes de convertir la duda en sentencia. A veces ese trabajo abre una manera nueva de quedarse. A veces permite irse con más respeto. En ambos casos, ayuda a no traicionar la complejidad del vínculo ni la dignidad de las personas que lo han construido.",
+      },
+    ],
+  },
 ];

@@ -19,14 +19,16 @@ export function OpenAIAdsPixel() {
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    let stored: string | null = null;
-    try {
-      stored = window.localStorage.getItem(CONSENT_KEY);
-    } catch {
-      // La medición permanece desactivada si el navegador bloquea el almacenamiento.
-    }
-    setChoice(stored === "granted" || stored === "denied" ? stored : null);
-    setReady(true);
+    window.setTimeout(() => {
+      let stored: string | null = null;
+      try {
+        stored = window.localStorage.getItem(CONSENT_KEY);
+      } catch {
+        // La medición permanece desactivada si el navegador bloquea el almacenamiento.
+      }
+      setChoice(stored === "granted" || stored === "denied" ? stored : null);
+      setReady(true);
+    }, 0);
   }, []);
 
   function choose(nextChoice: Exclude<ConsentChoice, null>) {

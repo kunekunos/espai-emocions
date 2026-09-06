@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "cuando-no-sabes-si-separarte",
+    "categoryCA": "Teràpia de parella",
+    "categoryES": "Terapia de pareja",
+    "titleCA": "Quan no saps si separar-te: quedar-se, marxar i poder pensar-ho sense presses",
+    "titleES": "Cuando no sabes si separarte: quedarse, irse y poder pensarlo sin prisas",
+    "excerptCA": "Hi ha moments en una relació en què la pregunta no és si encara estimes, sinó si la vida que esteu construint té sentit per a tots dos. El dubte sobre separar-se no sempre apareix com una decisió clara: sovint arriba com una alternança entre esperança i cansament, entre responsabilitat i desig de descans. Aquest article explora com mirar aquesta pregunta en teràpia de parella sense convertir-la en una urgència, i per què poder pensar junts ja és, de vegades, el primer moviment honest.",
+    "excerptES": "Hay momentos en una relación en los que la pregunta no es si todavía quieres, sino si la vida que estáis construyendo tiene sentido para los dos. La duda sobre separarse no siempre aparece como una decisión clara: a menudo llega como una alternancia entre esperanza y cansancio, entre responsabilidad y deseo de descanso. Este artículo explora cómo mirar esta pregunta en terapia de pareja sin convertirla en una urgencia, y por qué poder pensar juntos ya es, a veces, el primer movimiento honesto.",
+    "datePublished": "2026-09-06"
+  },
+  {
     "slug": "senales-que-necesitas-terapia",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
