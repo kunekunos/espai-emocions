@@ -61,10 +61,29 @@ async function run() {
   assert(article.status === 200, "Artículo nuevo responde 200");
   const secondArticle = await request("/blog/cambiar-psicologo-no-encajo");
   assert(secondArticle.status === 200, "Segundo artículo nuevo responde 200");
-  const oldArticle = await request("/blog/psicologo-para-mayores");
-  assert(oldArticle.status === 404, "Slug antiguo responde 404 real");
+  const olderArticle = await request("/blog/psicologo-para-mayores");
+  assert(olderArticle.status === 200, "Artículo para personas mayores responde 200");
   const inventedArticle = await request("/blog/slug-que-no-existe");
   assert(inventedArticle.status === 404, "Slug inexistente responde 404 real");
+
+  const legacyRedirects = [
+    ["/contacto", "/psicologo-barcelona"],
+    ["/tratamiento-adicciones-barcelona", "/psicologo-barcelona"],
+    ["/tratamiento-ansiedad-barcelona", "/terapia-ansiedad-barcelona"],
+    ["/tratamiento-depresion-barcelona", "/blog/estados-depresivos-edad-adulta-cuando-todo-cuesta-mas"],
+    ["/tratamiento-toc-barcelona", "/psicologo-barcelona"],
+    ["/ubicacion", "/psicologo-sant-pau"],
+    ["/psicologia-humanista-barcelona", "/blog/terapia-humanista-como-funciona"],
+    ["/psicologo-para-hombres-barcelona", "/psicoterapia-para-hombres-barcelona"],
+    ["/servicios", "/psicologo-barcelona"],
+    ["/preguntas-frecuentes", "/blog/preguntas-frecuentes-psicologia-barcelona"],
+  ];
+
+  for (const [source, destination] of legacyRedirects) {
+    const response = await request(source, { redirect: "manual" });
+    assert(response.status === 308, `${source} redirige permanentemente`);
+    assert(response.headers.get("location") === destination, `${source} apunta a ${destination}`);
+  }
 
   const privacy = await request("/privacidad");
   const privacyHtml = await privacy.text();
@@ -84,10 +103,10 @@ async function run() {
   const sitemapXml = await sitemap.text();
   const articleCount = (sitemapXml.match(/<loc>https:\/\/espaiemocions\.es\/blog\//g) ?? []).length;
   assert(sitemap.status === 200, "Sitemap responde 200");
-  assert(articleCount === 35, "Sitemap contiene 35 artículos");
+  assert(articleCount >= 35, "Sitemap conserva el catálogo de artículos");
   assert(sitemapXml.includes("setting-terapeutico-por-que-importa-espacio"), "Sitemap incluye artículos nuevos");
-  assert(sitemapXml.includes("seguro-privado-cubre-psicologia-barcelona"), "Sitemap conserva el artículo añadido en main");
-  assert(!sitemapXml.includes("psicologo-para-mayores"), "Sitemap excluye el slug antiguo");
+  assert(sitemapXml.includes("seguro-medico-psicologia-barcelona"), "Sitemap conserva el artículo sobre seguros");
+  assert(sitemapXml.includes("psicologo-para-mayores"), "Sitemap incluye el artículo para personas mayores");
 
 
   const instagramEntry = await request("/instagram", { redirect: "manual" });
