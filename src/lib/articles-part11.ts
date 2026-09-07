@@ -818,4 +818,169 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 6. ansiedad-antes-primera-sesion-psicologia (Cola sept 2026, orden 4)
+  // Ángulo: nervios previos, qué decir al empezar, qué preguntar tú al profesional.
+  // No canibaliza primera-sesion-psicologia (dentro) ni el FAQ (políticas prácticas).
+  // ---------------------------------------------------------------------------
+  {
+    slug: "ansiedad-antes-primera-sesion-psicologia",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "L'ansietat abans de la primera sessió de psicologia: què dir en començar i què preguntar tu",
+    titleES: "La ansiedad antes de la primera sesión de psicología: qué decir al empezar y qué preguntar tú",
+    excerptCA:
+      "L'escena que gairebé ningú no explica de la seva teràpia són les hores prèvies: el missatge que s'escriu i s'esborra, la nit mirant el sostre, la mà que dubta al timbre. Aquesta ansietat no és cap senyal que ho faràs malament: és la resposta natural a parlar, per fi, d'allò que fa temps que calles. Aquí explorem per què aquests nervis tenen tot el sentit, per què no necessites cap discurs preparat per començar i quines preguntes sí que et convé portar fetes a la primera visita.",
+    excerptES:
+      "La escena que casi nadie cuenta de su terapia son las horas previas: el mensaje que se escribe y se borra, la noche mirando el techo, la mano que duda en el timbre. Esa ansiedad no es una señal de que vayas a hacerlo mal: es la respuesta natural a hablar, por fin, de lo que llevas tiempo callando. Aquí exploramos por qué esos nervios tienen todo el sentido, por qué no necesitas un discurso preparado para empezar y qué preguntas sí conviene llevar tú hechas a la primera visita.",
+    datePublished: "2026-09-07",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una escena que gairebé ningú no explica quan conta com va començar la seva teràpia: les hores prèvies. El missatge que s'escriu, s'esborra i torna a escriure's abans de demanar cita. La nit mirant el sostre, assajant mentalment: què diré, per on començaré, i si em quedaré en blanc davant d'una persona que no conec. L'arribada amb massa antelació, el portal que es mira dues vegades, la mà que dubta un segon al timbre. Els relats acostumen a començar a dins, ja asseguts. Però l'ansietat d'abans és tan real com la sessió que la segueix i, per a molta gent, és la part més difícil de tot el procés.",
+      },
+      {
+        type: "paragraph",
+        text: "Si ets en aquest punt —o l'has viscut—, convé dir-ho amb claredat: aquests nervis no signifiquen que ho faràs malament, ni que no estiguis preparat, ni que el teu motiu de consulta no sigui prou seriós. Són la resposta natural a una trobada que reuneix tots els ingredients que activen l'alerta: un lloc desconegut, una persona que encara no coneixes i l'expectativa de parlar, per fi, d'allò que fa temps que no dius en veu alta.",
+      },
+      {
+        type: "heading",
+        text: "Una ansietat amb tot el sentit",
+      },
+      {
+        type: "paragraph",
+        text: "Pensem en què passa en aquesta mitja hora prèvia. Et disposess a trobar-te amb algú a qui encara no coneixes, per parlar d'alguna cosa que potser no has compartit amb ningú, en un format —la conversa íntima amb un desconegut— que no forma part de la vida quotidiana de gairebé ningú. Que el cos s'activi no és una fallada del sistema: és el sistema funcionant. El rar seria travessar aquell llindar com si no passés res.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la consulta inverteix una regla que t'ha funcionat a la resta de la teva vida. A la feina, a la família, a bona part de la teva vida social, saps quina versió de tu s'espera i la ofereixes. Aquí es tracta justament de deixar de sostenir aquella versió. Les persones que arriben més nervioses solen ser persones molt competents a sostenir-se: la cita les espanta perquè és el primer lloc, en molt de temps, on no han de representar res.",
+      },
+      {
+        type: "heading",
+        text: "No necessites cap discurs preparat",
+      },
+      {
+        type: "paragraph",
+        text: "La creença més freqüent —i la que més ansietat genera— és que cal arribar sabent explicar-ho. Que si allò que et porta no queda clar, la sessió no funcionarà. La realitat és la contrària: gairebé ningú no arriba amb la frase exacta, i la sessió no depèn de la teva eloqüència. Arribes amb el que hi ha: una confusió, un cansament, una sensació que no saps anomenar. Aquest és el material amb què es treballa.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, no saber per on començar és, en si mateix, un bon començament. Dir «no sé gaire bé com explicar això» ja dóna al professional una informació valuosa: que el que et passa encara no està ordenat, que fa temps que se sosté tot sol, que les paraules encara no li han trobat lloc. La primera visita no és un examen d'expressió: qui condueix la conversa és el psicòleg. Sobre com és aquesta primera sessió per dins —què es pregunta, quant dura, què es decideix i què no— ja vam escriure un article específic que pot treure't incertesa.",
+      },
+      {
+        type: "paragraph",
+        text: "I si les notes et ajuden, porta-les. Hi ha persones que escriuen els dies previs allò que no volen oblidar; no perquè sigui imprescindible, sinó perquè descarregar-ho fora del cap alleuja. Però no cal cap guió. Ho pots dir desordenat, a mitges, en contradicció. També això és material de treball.",
+      },
+      {
+        type: "heading",
+        text: "Quines preguntes et convé portar tu",
+      },
+      {
+        type: "paragraph",
+        text: "La primera visita se sol imaginar com un examen al qual només tu et presentes. Però també és la teva oportunitat de mirar: aquest espai, aquesta persona, aquesta manera de treballar. Que l'ansietat et posi en mode d'examinat no t'ha de fer oblidar que tu també tries.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha preguntes perfectament legítimes que pots fer: com treballa aquest professional, quina experiència té amb motius pareguts al teu, com s'organitza el procés —freqüència, durada estimada, presencial o en línia—, què passa amb la confidencialitat, què et pot explicar del seu enfocament. Cap no molesta un professional seriós; al contrari: les prefereix. Qui pregunta participa, i la responsabilitat d'un procés es construeix entre dos. A les preguntes freqüents del nostre centre responem les més pràctiques —preus, assegurances, cancel·lacions, com arribar—, i convé llegir-les abans: treure incertesa logística també baixa l'ansietat.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una raó de fons per a aquestes preguntes: la relació que s'estableix amb el professional importa, i molt. La recerca i la pràctica clínica coincideixen que la qualitat del vincle terapèutic és un dels millors predictors que un procés funcioni. Ja vam escriure sobre per què la relació importa; a la primera visita, part del que passa és justament això: comprovar si aquell lloc et dóna seguretat per tornar-hi.",
+      },
+      {
+        type: "heading",
+        text: "L'ansietat que et porta és la que t'hi acompanya",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una ironia que es veu sovint: persones el motiu de les quals és, precisament, l'ansietat, i a qui l'ansietat prèvia els serveix d'excusa perfecta per no anar-hi. «Estic massa nerviós per parlar d'això.» La ironia mereix ser anomenada perquè conté una veritat útil: el nervi no prediu res de la sessió. Gairebé sempre la sessió és més senzilla que l'espera, perquè l'espera es travessa tot sol i la sessió, no.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoc la primera visita no compromet a un procés complet. Serveix, entre altres coses, per comprovar si l'encaix és bo; i si en algun moment no ho fos, canviar de professional és una opció legítima i sense dramatisme, no un fracàs de ningú. I si encara dubtes si el teu motiu «és per a tant»: no cal arribar amb un motiu greu i ben definit. Sobre com saber si necessites un psicòleg ja vam escriure amb calma; la conclusió breu és que cap consulta no s'ha espatllat mai per arribar-hi d'hora.",
+      },
+      {
+        type: "paragraph",
+        text: "L'ansietat dels dies previs no és un mal presagi. És el senyal que t'acostes a una cosa que importa, i el cos ho sap abans que tu. Ningú no es queda despert la nit abans d'alguna cosa irrellevant.",
+      },
+      {
+        type: "paragraph",
+        text: "Si fa dies que portes el missatge a mig escriure, potser això també és informació. La primera visita existeix per començar allà on siguis: amb les idees clares, amb el desordre complet o només amb la sensació que ha arribat el moment. No cal saber què diràs. Cal aparèixer; la resta se sosté a la conversa, no a l'espera.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una escena que casi nadie cuenta cuando explica cómo empezó su terapia: las horas previas. El mensaje que se escribe, se borra y se reescribe antes de pedir cita. La noche mirando el techo, ensayando mentalmente: qué diré, por dónde empezaré, y si me quedaré en blanco delante de una persona que no conozco. La llegada con demasiada antelación, el portal que se mira dos veces, la mano que vacila un segundo en el timbre. Los relatos suelen empezar dentro, ya sentados. Pero la ansiedad de antes es tan real como la sesión que le sigue y, para mucha gente, es la parte más difícil de todo el proceso.",
+      },
+      {
+        type: "paragraph",
+        text: "Si estás en ese punto —o lo has vivido—, conviene decirlo con claridad: esos nervios no significan que vayas a hacerlo mal, ni que no estés preparado, ni que tu motivo de consulta no sea suficientemente serio. Son la respuesta natural a un encuentro que reúne todos los ingredientes que activan la alerta: un lugar desconocido, una persona a la que aún no conoces y la expectativa de hablar, por fin, de lo que llevas tiempo sin decir en voz alta.",
+      },
+      {
+        type: "heading",
+        text: "Una ansiedad con todo el sentido",
+      },
+      {
+        type: "paragraph",
+        text: "Pensemos en lo que ocurre en esa media hora previa. Te dispones a encontrarte con alguien a quien aún no conoces, para hablar de algo que quizá no has compartido con nadie, en un formato —la conversación íntima con un desconocido— que no forma parte de la vida cotidiana de casi nadie. Que el cuerpo se active no es una falla del sistema: es el sistema funcionando. Lo raro sería cruzar ese umbral como si no pasara nada.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la consulta invierte una regla que te ha funcionado en el resto de tu vida. En el trabajo, en la familia, en buena parte de tu vida social, sabes qué versión de ti se espera y la ofreces. Aquí se trata justamente de dejar de sostener esa versión. Las personas que llegan más nerviosas suelen ser personas muy competentes en sostenerse: la cita les asusta porque es el primer sitio, en mucho tiempo, donde no tienen que representar nada.",
+      },
+      {
+        type: "heading",
+        text: "No necesitas un discurso preparado",
+      },
+      {
+        type: "paragraph",
+        text: "La creencia más frecuente —y la que más ansiedad genera— es que hay que llegar sabiendo explicarlo. Que si aquello que te trae no queda claro, la sesión no funcionará. La realidad es la contraria: casi nadie llega con la frase exacta, y la sesión no depende de tu elocuencia. Llegas con lo que hay: una confusión, un cansancio, una sensación que no sabes nombrar. Ese es el material con el que se trabaja.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, no saber por dónde empezar es, en sí mismo, un buen comienzo. Decir «no sé muy bien cómo explicar esto» ya le da al profesional una información valiosa: que lo que te pasa aún no está ordenado, que hace tiempo que se sostiene solo, que las palabras no le han encontrado sitio. La primera visita no es un examen de expresión: quien conduce la conversación es el psicólogo. Sobre cómo es esa primera sesión por dentro —qué se pregunta, cuánto dura, qué se decide y qué no— ya escribimos un artículo específico que puede quitarte incertidumbre.",
+      },
+      {
+        type: "paragraph",
+        text: "Y si las notas te ayudan, llévalas. Algunas personas escriben en los días previos aquello que no quieren olvidar; no porque sea imprescindible, sino porque descargarlo fuera de la cabeza alivia. Pero no hace falta ningún guion. Puedes decirlo desordenado, a medias, en contradicción. También eso es material de trabajo.",
+      },
+      {
+        type: "heading",
+        text: "Qué preguntas conviene llevar tú",
+      },
+      {
+        type: "paragraph",
+        text: "La primera visita suele imaginarse como un examen al que solo tú te presentas. Pero también es tu oportunidad de mirar: este espacio, esta persona, esta manera de trabajar. Que la ansiedad te ponga en modo de evaluado no debe hacerte olvidar que tú también eliges.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay preguntas perfectamente legítimas que puedes hacer: cómo trabaja este profesional, qué experiencia tiene con motivos parecidos al tuyo, cómo se organiza el proceso —frecuencia, duración estimada, presencial u online—, qué ocurre con la confidencialidad, qué puede explicarte de su enfoque. Ninguna molesta a un profesional serio; al contrario: las prefiere. Quien pregunta participa, y la responsabilidad de un proceso se construye entre dos. En las preguntas frecuentes de nuestro centro respondemos las más prácticas —precios, seguros, cancelaciones, cómo llegar—, y conviene leerlas antes: quitar incertidumbre logística también baja la ansiedad.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una razón de fondo para esas preguntas: la relación que se establece con el profesional importa, y mucho. La investigación y la práctica clínica coinciden en que la calidad del vínculo terapéutico es uno de los mejores predictores de que un proceso funcione. Ya escribimos sobre por qué la relación importa; en la primera visita, parte de lo que ocurre es justamente eso: comprobar si ese lugar te da seguridad para volver.",
+      },
+      {
+        type: "heading",
+        text: "La ansiedad que te trae es la que te acompaña hasta la puerta",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una ironía que se ve a menudo: personas cuyo motivo de consulta es, precisamente, la ansiedad, y a las que la ansiedad previa les sirve de excusa perfecta para no ir. «Estoy demasiado nervioso para hablar de esto.» La ironía merece nombrarse porque contiene una verdad útil: el nervio no predice nada de la sesión. Casi siempre la sesión es más sencilla que la espera, porque la espera se atraviesa solo y la sesión, no.",
+      },
+      {
+        type: "paragraph",
+        text: "Tampoco la primera visita compromete a un proceso completo. Sirve, entre otras cosas, para comprobar si el encaje es bueno; y si en algún momento no lo fuera, cambiar de profesional es una opción legítima y sin dramatismo, no un fracaso de nadie. Y si todavía dudas de si tu motivo «es para tanto»: no hace falta llegar con un motivo grave y bien definido. Sobre cómo saber si necesitas un psicólogo ya escribimos con calma; la conclusión breve es que ninguna consulta se ha estropeado nunca por llegar pronto.",
+      },
+      {
+        type: "paragraph",
+        text: "La ansiedad de los días previos no es un mal presagio. Es la señal de que te acercas a algo que importa, y el cuerpo lo sabe antes que tú. Nadie se queda despierto la noche antes de algo irrelevante.",
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas días con el mensaje a medio escribir, quizá eso también es información. La primera visita existe para empezar exactamente donde estés: con las ideas claras, con el desorden completo o solo con la sensación de que ha llegado el momento. No hace falta saber qué dirás. Hace falta aparecer; lo demás se sostiene en la conversación, no en la espera.",
+      },
+    ],
+  },
 ];

@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "ansiedad-antes-primera-sesion-psicologia",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "L'ansietat abans de la primera sessió de psicologia: què dir en començar i què preguntar tu",
+    "titleES": "La ansiedad antes de la primera sesión de psicología: qué decir al empezar y qué preguntar tú",
+    "excerptCA": "L'escena que gairebé ningú no explica de la seva teràpia són les hores prèvies: el missatge que s'escriu i s'esborra, la nit mirant el sostre, la mà que dubta al timbre. Aquesta ansietat no és cap senyal que ho faràs malament: és la resposta natural a parlar, per fi, d'allò que fa temps que calles. Aquí explorem per què aquests nervis tenen tot el sentit, per què no necessites cap discurs preparat per començar i quines preguntes sí que et convé portar fetes a la primera visita.",
+    "excerptES": "La escena que casi nadie cuenta de su terapia son las horas previas: el mensaje que se escribe y se borra, la noche mirando el techo, la mano que duda en el timbre. Esa ansiedad no es una señal de que vayas a hacerlo mal: es la respuesta natural a hablar, por fin, de lo que llevas tiempo callando. Aquí exploramos por qué esos nervios tienen todo el sentido, por qué no necesitas un discurso preparado para empezar y qué preguntas sí conviene llevar tú hechas a la primera visita.",
+    "datePublished": "2026-09-07"
+  },
+  {
     "slug": "cuando-no-sabes-si-separarte",
     "categoryCA": "Teràpia de parella",
     "categoryES": "Terapia de pareja",
