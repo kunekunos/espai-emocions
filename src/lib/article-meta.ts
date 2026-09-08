@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "decir-no-cuesta-mas-que-cualquier-si",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Dir que no costa més que qualsevol sí: la dificultat adulta de posar límits",
+    "titleES": "Decir no cuesta más que cualquier sí: la dificultad adulta de poner límites",
+    "excerptCA": "Hi ha persones que diuen que sí a tot i després no dormen. El seu calendari està ple de compromisos que no van triar, la seva agenda és un museu d'ajudes que no va demanar ningú i el seu cos ja comença a presentar la factura. Posar límits no és una tècnica d'assertivitat: és una decisió d'identitat sobre què estàs disposat a sostenir i què no. Aquí explorem per què el sí automàtic es crea en la infància com a estratègia d'adaptació, què li passa al vincle quan desapareix i com és, de veritat, l'experiència interior de dir que no.",
+    "excerptES": "Hay personas que dicen que sí a todo y después no duermen. Su calendario está lleno de compromisos que no eligieron, su agenda es un museo de ayudas que nadie pidió y su cuerpo ya empieza a pasar la factura. Poner límites no es una técnica de asertividad: es una decisión de identidad sobre qué estás dispuesto a sostener y qué no. Aquí exploramos por qué el sí automático se crea en la infancia como estrategia de adaptación, qué le pasa al vínculo cuando desaparece y cómo es, de verdad, la experiencia interior de decir no.",
+    "datePublished": "2026-09-08"
+  },
+  {
     "slug": "ansiedad-antes-primera-sesion-psicologia",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",

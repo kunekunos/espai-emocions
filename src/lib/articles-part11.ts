@@ -983,4 +983,227 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 7. decir-no-cuesta-mas-que-cualquier-si (cron diario blog espaiemocions.es, 2026-09-08)
+  // Apertura tipo contraste. Sin listicles. Enlaces internos nombrados: cuando-la-terapia-mueve-tus-relaciones,
+  // amistades-que-se-rompen-madurez-adulta, cuando-recibir-cuesta-mas-que-dar, discutir-sin-romper-conflicto-pareja.
+  // ---------------------------------------------------------------------------
+  {
+    slug: "decir-no-cuesta-mas-que-cualquier-si",
+    categoryCA: "Relacions",
+    categoryES: "Relaciones",
+    titleCA:
+      "Dir que no costa més que qualsevol sí: la dificultat adulta de posar límits",
+    titleES:
+      "Decir no cuesta más que cualquier sí: la dificultad adulta de poner límites",
+    excerptCA:
+      "Hi ha persones que diuen que sí a tot i després no dormen. El seu calendari està ple de compromisos que no van triar, la seva agenda és un museu d'ajudes que no va demanar ningú i el seu cos ja comença a presentar la factura. Posar límits no és una tècnica d'assertivitat: és una decisió d'identitat sobre què estàs disposat a sostenir i què no. Aquí explorem per què el sí automàtic es crea en la infància com a estratègia d'adaptació, què li passa al vincle quan desapareix i com és, de veritat, l'experiència interior de dir que no.",
+    excerptES:
+      "Hay personas que dicen que sí a todo y después no duermen. Su calendario está lleno de compromisos que no eligieron, su agenda es un museo de ayudas que nadie pidió y su cuerpo ya empieza a pasar la factura. Poner límites no es una técnica de asertividad: es una decisión de identidad sobre qué estás dispuesto a sostener y qué no. Aquí exploramos por qué el sí automático se crea en la infancia como estrategia de adaptación, qué le pasa al vínculo cuando desaparece y cómo es, de verdad, la experiencia interior de decir no.",
+    datePublished: "2026-09-08",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "El «sí» surt ràpid, gairebé sempre abans de pensar. «Sí, sí, compte amb mi.» «Sí, hi seré.» «Sí, no patiuis.» I el «no», en canvi, s'ha de construir frase a frase, contra una sensació física que avisa que alguna cosa es trenca quan el pronuncies. Si mai t'has aturat a observar aquesta asimetria, val la pena fer-ho: diu molt de com t'has organitzat per estimar i per pertànyer.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, aquesta gent no arriba dient «no sé posar límits». Arriba dient que està esgotada, que no té temps per a res propi, que la relació amb la seva mare, el seu germà o la seva parella pesa més del que hauria de pesar, que els caps de setmana s'omplen de coses que no han decidit ells. El problema dels límits poques vegades es presenta amb el seu nom: es presenta com a cansament, com a ràbia que surt en lloc equivocat, com una sensació difusa de no estar vivint la pròpia vida.",
+      },
+      {
+        type: "heading",
+        text: "El sí automàtic no és generositat",
+      },
+      {
+        type: "paragraph",
+        text: "Convenir-hi no és fàcil, perquè el sí automàtic es disfressa molt bé de virtut. La cultura el aplaudeix: la persona que sempre hi és, que mai no diu que no, que sosté tothom. Li diem fiable, disponible, bona persona. Però si mires de prop, hi ha una diferència enorme entre la generositat que neix de la llibertat i el sí que neix de la por. La primera és una elecció que es pot sostenir sense cost interior, perquè surt d'un lloc ample. La segona és una transacció encoberta: dono perquè no puc tolerar què passa dins meu si no dono.",
+      },
+      {
+        type: "paragraph",
+        text: "El sí automàtic és una resposta d'alarma. S'activa davant la possibilitat de decebre, de ser mal vist, d'ocupar lloc, de generar conflicte. En aquest sentit, més que un tret de caràcter és un aprenentatge primerenc: en algun moment de la teva història, agradar va ser la manera més segura d'assegurar l'afecte. Potser hi havia adults molt ocupats, o emocionalment imprevisibles, o un clima domèstic on la necessitat d'un era, silenciosament, el problema. Aleshores el nen o la nena que eres va arribar a una conclusió perfectament lògica: si em converteixo en algú fàcil d'estimar, ningú no es cansarà de mi.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquella estratègia va funcionar. És important reconèixer-ho: no vas desenvolupar el sí automàtic per ximpleria, el vas desenvolupar perquè servia. El problema és que les estratègies que ens salven a vuit anys no venen amb data de caducitat, i als quaranta la mateixa resposta que et protegia comença a costar-te la vida que volies protegir.",
+      },
+      {
+        type: "heading",
+        text: "Què passa quan tots els sí es tornen invisibles",
+      },
+      {
+        type: "paragraph",
+        text: "El més paradoxal del sí crònic és que no produeix gratitud acumulada: produeix invisibilitat. Quan sempre hi ets, la teva presència deixa de ser informació per a l'altre. Ningú no agraeix l'aire que respira, però tothom s'adona del buit quan falta. Així funciona el sí continuat: al cap d'un temps, ningú no el veu com una elecció, perquè fa temps que ha deixat d'haver-hi elecció.",
+      },
+      {
+        type: "paragraph",
+        text: "I amb ell desapareix una altra cosa: la possibilitat que l'altre et conegui. Un vincle només pot ser real entre dues persones que existeixen, i qui diu que sí a tot no existeix del tot: ocupa el lloc d'una necessitat aliena amb la seva disponibilitat, però no hi posa cap preferència pròpia. Moltes persones que arriben a consulta descrivint una solitud molt particular —sentir-se soles dins de relacions que funcionen bé— estan descrivint exactament això: ningú no pot estimar-te allà on no hi ha ningú.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un article on vam escriure que quan la teràpia comença a moure les teves relacions, el primer que es mouen són els acords invisibles. El sí automàtic és un d'ells, i potser el més comú: qui ha sostingut sempre comença a no sostenir, i l'entorn, que s'hi havia acostumat, ho llegeix com un canvi preocupant. Perquè cal dir-ho també amb honestedat: posar límits té preu. No sempre, però sovint. Algunes relacions estan construïdes sobre la teva disponibilitat, i quan aquesta es retira, la relació s'ha de reinventar o es queda sense terra. Sobre això també vam escriure en el seu moment quan les amistats es trenquen en la maduresa adulta: no sempre és una pèrdua; a vegades és la veritat arribant tard.",
+      },
+      {
+        type: "heading",
+        text: "Com és, per dins, dir que no",
+      },
+      {
+        type: "paragraph",
+        text: "Contra el que diu la cultura de l'assertivitat ràpida, dir que no no comença sent agradable. Comença sent insuportable, i val la pena saber-ho per no interpretar l'insuportable com a senyal que ho estàs fent malament. El cos hi participa: opressió al pit, acceleració, una veu interior que recita el catàleg complet de catàstrofes («s'ofendrà», «es pensarà que he canviat», «dirà que m'he tornat egoista»). Tot això no és una premonició: és el sistema d'alarma que vas instal·lar fa anys, fent la seva feina amb la millor de les intencions.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest detall canvia tot: l'alarma no confirma que estiguis fent malament; confirma que estàs fent alguna cosa nova. El sistema d'alarma no distingeix entre una amenaça real i una novetat relacional: només sap que t'estàs sortint d'un patró conegut, i els patrons coneguts, encara que dolguin, tenen un avantatge que ningú no ens regala: són previsibles. Per això moltes persones retrocedeixen al cap d'un parell d'intents i conclouen que «posar límits no va amb mi». No és que no hi vagin: és que ningú no els va dir que la sensació de catàstrofe forma part del trajecte i no del veredicte.",
+      },
+      {
+        type: "paragraph",
+        text: "El que sí que canvia, i això sí que és una bona notícia, és el que passa després. L'alarma fa soroll abans i durant; després ve una calma particular que moltes persones descriuen com estranyesa: «M'esperava sentir fatal i el que noto és… espai». Espai a l'agenda, espai al pit, espai a la vida. Aquella sensació d'espai, en qui ha viscut sempre en estretor, es confon fàcilment amb buit: per això hi ha qui posa un límit, es troba bé i al cap d'uns dies torna a omplir l'agenda amb compromisos nous. No per necessitat dels altres, sinó perquè el silenci del propi buit li resulta menys conegut que el cansament.",
+      },
+      {
+        type: "paragraph",
+        text: "Dir que no, a la llarga, no és una tècnica: és una declaració d'existència. «Hi sóc, però no a tot arreu. Estimo, però no sense condicions. Col·laboro, però no sense límits.» Cada no que es sosté fa una mica més visible on comences tu i on comença l'altre, i aquesta visibilitat —encara que espanti— és la condició mínima perquè algú et pugui estimar a tu i no a la teva funció.",
+      },
+      {
+        type: "heading",
+        text: "La parella i la família: on els límits pesen més",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha contexts on el sí automàtic pesa més que enlloc: la parella i la família. Amb els desconeguts, dir que no és una qüestió d'educació; amb qui comparteix vida, és una qüestió de contracte. Cada relació llarga funciona sobre una sèrie d'acords tàcits sobre qui fa què, qui cedeix i qui aguanta. Quan una persona comença a posar límits dins d'una relació d'anys, no està sent egoista: està demanant que un contracte que es va firmar en silenci es reobri i es torni a negociar amb veu. És una de les coses més saludables i més pertorbadores que poden passar en una relació.",
+      },
+      {
+        type: "paragraph",
+        text: "En parella, el sí crònic té una variant molt concreta: la persona que aguanta tot el que li vingui per no generar discussió. «Per no arribar a mal rotllo.» «Perquè no val la pena una guerra per això.» El problema és que el conflicte que no es parla no desapareix: es converteix en distància, en un silenci que s'ha tornat arquitectura. Ja vam escriure en el seu moment que discutir sense trencar és possible i que el conflicte no és el que danya una relació, sinó la impossibilitat de viure'l. El sí automàtic és la forma més comuna de no viure'l: cedeixo avui per no discutir, cedeixo demà per no cansar, i al cap d'uns anys miro a l'altra persona com si fos un desconegut al qual he estat sostenint sense saber ben bé per què.",
+      },
+      {
+        type: "paragraph",
+        text: "El mateix passa, amb més intensitat encara, amb la família d'origen. Els límits amb els pares, els germans, la colla històrica: són els més difícils de tots, perquè el sí automàtic hi va néixer. Posar un límit amb qui t'ha vist créixer és, en cert sentit, contradir la persona que eres quan vas aprendre a dir sempre sí. Per això pot sentir-se com una traïció, i per això les reaccions de l'entorn poden ser desproporcionades: no estàs canviant un pla; estàs canviant el marc on tothom tenia el seu lloc assignat.",
+      },
+      {
+        type: "heading",
+        text: "Què fa la teràpia amb tot això",
+      },
+      {
+        type: "paragraph",
+        text: "En teràpia, el treball amb els límits no consisteix a assajar frases més assertives per dir que no. Consisteix a entendre per a qui es va inventar el teu sí automàtic, què protegia i què ha continuat protegint molt després que el perill real desaparegués. Es tracta de localitzar la veu interior que fa la llista de catàstrofes quan dius que no, i descobrir de qui és, realment, aquella veu. Gairebé mai no és teva del tot: és una barreja de frases sentides, expectatives heretades i decisions que algú altre va prendre sobre què s'esperava de tu.",
+      },
+      {
+        type: "paragraph",
+        text: "També consisteix a fer duel d'algunes coses. De la fantasia que agradant a tothom s'estima més; de la idea que posar límits és fàcil i surt a la primera, quan sovint costa el que costa; de la creença que hi ha una manera de dir que no que no molesta a ningú, que fa poc mal i que deixa a tothom content. No existeix. El no honest sempre mou alguna cosa: el que canvia amb la maduresa no és que deixi de moure res, sinó que decideixes què estàs disposat a moure.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha una relació particularment interessant que es transforma quan apareixen els límits: la relació amb qui rep la teva ajuda. Moltes persones que sempre donen descobreixen, quan comencen a replegar-se, una cosa incòmoda: que rebre els costa més que donar. La disponibilitat permanent era també una muralla contra el deute: qui sempre dóna mai no ha de demanar, mai no deu res, mai no està en posició vulnerable. Aquesta connexió entre límits i la dificultat de deixar-se cuidar és tan freqüent que li vam dedicar el seu propi article sobre quan rebre costa més que donar: dues cares del mateix pacte de no molestar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta és, al final, la paradoxa del sí automàtic: neix del desig de ser estimat i acaba impedint-ho, perquè l'amor que rep qui mai no posa límits és amor a la funció, no a la persona. La pregunta que val la pena fer-se no és «com puc dir que no sense fer mal». És una altra: «qui pot estimar-me, si jo mateix no sé on començo». Posar límits és la manera adulta de respondre-la.",
+      },
+      {
+        type: "paragraph",
+        text: "Si alguna cosa d'això et resulta conegut i vols mirar-ho amb companyia, a Espai Emocions podem ajudar-te a entendre d'on ve el teu sí automàtic i què sostén avui. Pots demanar-nos una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp: sense compromís i amb tota la calma que necessitis.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El «sí» sale rápido, casi siempre antes de pensar. «Sí, sí, cuenta conmigo.» «Sí, allí estaré.» «Sí, no te preocupes.» Y el «no», en cambio, hay que construirlo frase a frase, contra una sensación física que avisa de que algo se rompe cuando lo pronuncias. Si nunca te has detenido a observar esa asimetría, vale la pena hacerlo: dice mucho de cómo te has organizado para amar y para pertenecer.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, esta gente no llega diciendo «no sé poner límites». Llega diciendo que está agotada, que no tiene tiempo para nada propio, que la relación con su madre, su hermano o su pareja pesa más de lo que debería, que los fines de semana se llenan de cosas que no decidieron ellos. El problema de los límites rara vez se presenta con su nombre: se presenta como cansancio, como rabia que sale en el lugar equivocado, como una sensación difusa de no estar viviendo la propia vida.",
+      },
+      {
+        type: "heading",
+        text: "El sí automático no es generosidad",
+      },
+      {
+        type: "paragraph",
+        text: "Convenirlo no es fácil, porque el sí automático se disfraza muy bien de virtud. La cultura lo aplaude: la persona que siempre está, que nunca dice que no, que sostiene a todos. Le llamamos fiable, disponible, buena persona. Pero si miras de cerca, hay una diferencia enorme entre la generosidad que nace de la libertad y el sí que nace del miedo. La primera es una elección que se puede sostener sin coste interior, porque sale de un lugar amplio. La segunda es una transacción encubierta: doy porque no puedo tolerar qué pasa dentro de mí si no doy.",
+      },
+      {
+        type: "paragraph",
+        text: "El sí automático es una respuesta de alarma. Se activa ante la posibilidad de decepcionar, de ser mal visto, de ocupar lugar, de generar conflicto. En ese sentido, más que un rasgo de carácter es un aprendizaje temprano: en algún momento de tu historia, agradar fue la manera más segura de asegurar el afecto. Quizá había adultos muy ocupados, o emocionalmente imprevisibles, o un clima doméstico donde la necesidad de uno era, silenciosamente, el problema. Entonces el niño o la niña que eras llegó a una conclusión perfectamente lógica: si me convierto en alguien fácil de amar, nadie se cansará de mí.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquella estrategia funcionó. Es importante reconocerlo: no desarrollaste el sí automático por tontería, lo desarrollaste porque servía. El problema es que las estrategias que nos salvan a los ocho años no vienen con fecha de caducidad, y a los cuarenta la misma respuesta que te protegía empieza a costarte la vida que querías proteger.",
+      },
+      {
+        type: "heading",
+        text: "Qué pasa cuando todos los sí se vuelven invisibles",
+      },
+      {
+        type: "paragraph",
+        text: "Lo más paradójico del sí crónico es que no produce gratitud acumulada: produce invisibilidad. Cuando siempre estás, tu presencia deja de ser información para el otro. Nadie agradece el aire que respira, pero todos notan el vacío cuando falta. Así funciona el sí continuado: al cabo de un tiempo, nadie lo ve como una elección, porque hace tiempo que dejó de haber elección.",
+      },
+      {
+        type: "paragraph",
+        text: "Y con él desaparece otra cosa: la posibilidad de que el otro te conozca. Un vínculo solo puede ser real entre dos personas que existen, y quien dice que sí a todo no existe del todo: ocupa el lugar de una necesidad ajena con su disponibilidad, pero no pone en él ninguna preferencia propia. Muchas personas que llegan a consulta describiendo una soledad muy particular —sentirse solas dentro de relaciones que funcionan bien— están describiendo exactamente esto: nadie puede amarte donde no hay nadie.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un artículo donde escribimos que cuando la terapia empieza a mover tus relaciones, lo primero que se mueve son los acuerdos invisibles. El sí automático es uno de ellos, y quizá el más común: quien ha sostenido siempre empieza a no sostener, y el entorno, que se había acostumbrado, lo lee como un cambio preocupante. Porque hay que decirlo también con honestidad: poner límites tiene precio. No siempre, pero a menudo. Algunas relaciones están construidas sobre tu disponibilidad, y cuando esa se retira, la relación tiene que reinventarse o se queda sin suelo. Sobre esto también escribimos en su momento cuando las amistades se rompen en la madurez adulta: no siempre es una pérdida; a veces es la verdad llegando tarde.",
+      },
+      {
+        type: "heading",
+        text: "Cómo es, por dentro, decir que no",
+      },
+      {
+        type: "paragraph",
+        text: "Contra lo que dice la cultura de la asertividad rápida, decir no no empieza siendo agradable. Empieza siendo insoportable, y vale la pena saberlo para no interpretar lo insoportable como señal de que lo estás haciendo mal. El cuerpo participa: opresión en el pecho, aceleración, una voz interior que recita el catálogo completo de catástrofes («se ofenderá», «pensará que he cambiado», «dirá que me he vuelto egoísta»). Todo eso no es una premonición: es el sistema de alarma que instalaste hace años, haciendo su trabajo con la mejor de las intenciones.",
+      },
+      {
+        type: "paragraph",
+        text: "Ese detalle lo cambia todo: la alarma no confirma que estés haciendo mal; confirma que estás haciendo algo nuevo. El sistema de alarma no distingue entre una amenaza real y una novedad relacional: solo sabe que estás saliendo de un patrón conocido, y los patrones conocidos, aunque duelan, tienen una ventaja que nadie nos regala: son predecibles. Por eso muchas personas retroceden al cabo de un par de intentos y concluyen que «poner límites no va conmigo». No es que no vayan: es que nadie les dijo que la sensación de catástrofe forma parte del trayecto y no del veredicto.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que sí cambia, y esto sí es una buena noticia, es lo que pasa después. La alarma hace ruido antes y durante; después viene una calma particular que muchas personas describen como extrañeza: «Esperaba sentirme fatal y lo que noto es… espacio». Espacio en la agenda, espacio en el pecho, espacio en la vida. Esa sensación de espacio, en quien ha vivido siempre en estrechez, se confunde fácilmente con vacío: por eso hay quien pone un límite, se encuentra bien y al cabo de unos días vuelve a llenar la agenda de compromisos nuevos. No por necesidad de los demás, sino porque el silencio del propio vacío le resulta menos conocido que el cansancio.",
+      },
+      {
+        type: "paragraph",
+        text: "Decir no, a la larga, no es una técnica: es una declaración de existencia. «Estoy, pero no en todas partes. Quiero, pero no sin condiciones. Colaboro, pero no sin límites.» Cada no que se sostiene hace un poco más visible dónde empiezas tú y dónde empieza el otro, y esa visibilidad —aunque asuste— es la condición mínima para que alguien pueda quererte a ti y no a tu función.",
+      },
+      {
+        type: "heading",
+        text: "La pareja y la familia: donde los límites pesan más",
+      },
+      {
+        type: "paragraph",
+        text: "Hay contextos donde el sí automático pesa más que en ningún otro: la pareja y la familia. Con los desconocidos, decir no es una cuestión de cortesía; con quien compartes vida, es una cuestión de contrato. Toda relación larga funciona sobre una serie de acuerdos tácitos sobre quién hace qué, quién cede y quién aguanta. Cuando una persona empieza a poner límites dentro de una relación de años, no está siendo egoísta: está pidiendo que un contrato que se firmó en silencio se reabra y se renegocie con voz. Es una de las cosas más saludables y más perturbadoras que pueden pasar en una relación.",
+      },
+      {
+        type: "paragraph",
+        text: "En pareja, el sí crónico tiene una variante muy concreta: la persona que aguanta todo lo que venga por no generar discusión. «Para no llegar a mal rollo.» «Porque no merece la pena una guerra por esto.» El problema es que el conflicto que no se habla no desaparece: se convierte en distancia, en un silencio que se ha vuelto arquitectura. Ya escribimos en su momento que discutir sin romper es posible y que el conflicto no es lo que daña una relación, sino la imposibilidad de vivirlo. El sí automático es la forma más común de no vivirlo: cedo hoy para no discutir, cedo mañana para no cansar, y al cabo de unos años miro a la otra persona como si fuera un desconocido al que he estado sosteniendo sin saber muy bien por qué.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo mismo ocurre, con más intensidad todavía, con la familia de origen. Los límites con los padres, los hermanos, el grupo histórico: son los más difíciles de todos, porque el sí automático nació allí. Poner un límite con quien te vio crecer es, en cierto sentido, contradecir a la persona que eras cuando aprendiste a decir siempre sí. Por eso puede sentirse como una traición, y por eso las reacciones del entorno pueden ser desproporcionadas: no estás cambiando un plan; estás cambiando el marco donde todos tenían su lugar asignado.",
+      },
+      {
+        type: "heading",
+        text: "Qué hace la terapia con todo esto",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, el trabajo con los límites no consiste en ensayar frases más asertivas para decir que no. Consiste en entender para quién se inventó tu sí automático, qué protegía y qué ha seguido protegiendo mucho después de que el peligro real desapareciera. Se trata de localizar la voz interior que hace la lista de catástrofes cuando dices que no, y descubrir de quién es, realmente, esa voz. Casi nunca es tuya del todo: es una mezcla de frases oídas, expectativas heredadas y decisiones que otra persona tomó sobre lo que se esperaba de ti.",
+      },
+      {
+        type: "paragraph",
+        text: "También consiste en hacer duelo de algunas cosas. De la fantasía de que agradando a todos se quiere más; de la idea de que poner límites es fácil y sale a la primera, cuando a menudo cuesta lo que cuesta; de la creencia de que existe una manera de decir que no que no molesta a nadie, que hace poco daño y que deja a todos contentos. No existe. El no honesto siempre mueve algo: lo que cambia con la madurez no es que deje de mover nada, sino que decides qué estás dispuesto a mover.",
+      },
+      {
+        type: "paragraph",
+        text: "Y hay una relación particularmente interesante que se transforma cuando aparecen los límites: la relación con quien recibe tu ayuda. Muchas personas que siempre dan descubren, cuando empiezan a replegarse, algo incómodo: que recibir les cuesta más que dar. La disponibilidad permanente era también un muro contra la deuda: quien siempre da nunca tiene que pedir, nunca debe nada, nunca queda en posición vulnerable. Esa conexión entre límites y la dificultad de dejarse cuidar es tan frecuente que le dedicamos su propio artículo sobre cuando recibir cuesta más que dar: dos caras del mismo pacto de no molestar.",
+      },
+      {
+        type: "paragraph",
+        text: "Esa es, al final, la paradoja del sí automático: nace del deseo de ser querido y acaba impidiéndolo, porque el amor que recibe quien nunca pone límites es amor a la función, no a la persona. La pregunta que vale la pena hacerse no es «cómo puedo decir que no sin hacer daño». Es otra: «quién puede quererme, si yo mismo no sé dónde empiezo». Poner límites es la manera adulta de responderla.",
+      },
+      {
+        type: "paragraph",
+        text: "Si algo de esto te resulta conocido y quieres mirarlo con compañía, en Espai Emocions podemos ayudarte a entender de dónde viene tu sí automático y qué sostiene hoy. Puedes pedirnos una primera visita desde la página de contacto o escribirnos por WhatsApp: sin compromiso y con toda la calma que necesites.",
+      },
+    ],
+  },
 ];
