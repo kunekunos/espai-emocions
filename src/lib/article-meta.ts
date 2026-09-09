@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "hermanos-edad-adulta-relacion-mas-larga",
+    "categoryCA": "Família",
+    "categoryES": "Familia",
+    "titleCA": "Els germans en l'edat adulta: la relació més llarga i la menys parlada",
+    "titleES": "Los hermanos en la edad adulta: la relación más larga y la menos hablada",
+    "excerptCA": "De totes les relacions de la teva vida, la dels teus germans és probablement la més llarga: va començar abans del teu primer record i no s'acaba quan els pares falten. I és, alhora, la menys parlada, ni a les famílies ni a les consultes. Aquí explorem per què la relació entre germans es congela en els rols de la infància, què reapareix quan els pares envelleixen, de què protegeix la distància que ningú no va decidir i què significa, de veritat, recuperar un germà a l'edat adulta.",
+    "excerptES": "De todas las relaciones de tu vida, la de tus hermanos es probablemente la más larga: empezó antes de tu primer recuerdo y no termina cuando los padres faltan. Y es, a la vez, la que menos se habla, ni en las familias ni en las consultas. Aquí exploramos por qué la relación entre hermanos se congela en los roles de la infancia, qué reaparece cuando los padres envejecen, de qué protege la distancia que nadie decidió y qué significa, de verdad, recuperar a un hermano en la edad adulta.",
+    "datePublished": "2026-09-09"
+  },
+  {
     "slug": "decir-no-cuesta-mas-que-cualquier-si",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",

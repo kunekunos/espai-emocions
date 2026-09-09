@@ -1166,4 +1166,193 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // hermanos-edad-adulta-relacion-mas-larga (familia / relaciones adultas)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "hermanos-edad-adulta-relacion-mas-larga",
+    categoryCA: "Família",
+    categoryES: "Familia",
+    titleCA:
+      "Els germans en l'edat adulta: la relació més llarga i la menys parlada",
+    titleES:
+      "Los hermanos en la edad adulta: la relación más larga y la menos hablada",
+    excerptCA:
+      "De totes les relacions de la teva vida, la dels teus germans és probablement la més llarga: va començar abans del teu primer record i no s'acaba quan els pares falten. I és, alhora, la menys parlada, ni a les famílies ni a les consultes. Aquí explorem per què la relació entre germans es congela en els rols de la infància, què reapareix quan els pares envelleixen, de què protegeix la distància que ningú no va decidir i què significa, de veritat, recuperar un germà a l'edat adulta.",
+    excerptES:
+      "De todas las relaciones de tu vida, la de tus hermanos es probablemente la más larga: empezó antes de tu primer recuerdo y no termina cuando los padres faltan. Y es, a la vez, la que menos se habla, ni en las familias ni en las consultas. Aquí exploramos por qué la relación entre hermanos se congela en los roles de la infancia, qué reaparece cuando los padres envejecen, de qué protege la distancia que nadie decidió y qué significa, de verdad, recuperar a un hermano en la edad adulta.",
+    datePublished: "2026-09-09",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "De totes les relacions que tindrà la teva vida, la dels teus germans és, gairebé amb seguretat, la més llarga. Més que les amistats de la infància, més que la majoria de parelles, més fins i tot que la que vas tenir amb els teus pares: va començar abans del teu primer record i, si tot va bé, no s'acaba quan els pares falten. És també l'única relació que no vas triar i de la qual no et pots acomiadar del tot, perquè un germà no és un ex: és una part de la teva història que camina pel món amb una altra cara.",
+      },
+      {
+        type: "paragraph",
+        text: "I, tanmateix, és la menys parlada. A consulta la gent arriba parlant dels pares, de la parella, dels fills, de la feina. Els germans hi apareixen tard i gairebé de passada: «el meu germà i jo ens parlem el just», dit amb el to amb què es comenta el trànsit. Ningú no sembla considerar que això pugui ser, en si mateix, un motiu de consulta. A vegades ho és.",
+      },
+      {
+        type: "heading",
+        text: "Els únics testimonis de tota la pel·lícula",
+      },
+      {
+        type: "paragraph",
+        text: "Un germà és l'única persona que hi era abans que tu et poguessis explicar. Va conèixer la teva casa abans que sabessis descriure-la, va veure formar-se els teus pares quan encara s'estaven estrenant, va compartir un idioma domèstic que ningú més no parla: les bromes, els silencis, el to amb què la teva mare deia el teu nom quan les coses anaven malament. Quan els pares falten, aquesta memòria compartida no queda enregistrada enlloc més. És en ell. O en ella.",
+      },
+      {
+        type: "paragraph",
+        text: "I aquí apareix la primera sorpresa: dos germans poden créixer a la mateixa casa i procedir de dues famílies diferents. La família no és allò que va passar: és el lloc que cadascú va ocupar mentre passava. El gran va viure uns pares joves, amb tota la fe posada en ell; el petit va arribar a una casa alleugerida, amb uns pares cansats i una tolerància diferent. No són versions contradictòries d'una infància: són dues infàncies que van coincidir en el temps. La majoria de conflictes entre germans adults comencen aquí, en la impossibilitat d'acceptar que l'altre té raó sobre la seva pròpia casa.",
+      },
+      {
+        type: "heading",
+        text: "El nen de nou anys que segueix assegut a taula",
+      },
+      {
+        type: "paragraph",
+        text: "Els germans tendeixen a quedar-se congelats en el temps. Els rols es van repartir d'hora —el responsable, el petit encantador, el mitjancer, el problemàtic— i van complir una funció real: organitzar una casa, repartir l'atenció disponible, fer suportable allò que no ho era. Ja vam escriure sobre aquells rols familiars que segueixes habitant sense adonar-te'n; amb els germans el fenomen és encara més literal, perquè ells no actualitzen l'expedient: et van conèixer sent aquell de nou anys i, trenta després, molts continuen adreçant-s'hi. I tu a la seva versió de nou anys. Dos adults sopant poden ser, en realitat, dos nens negociant un afer que ni tan sols recorden.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això parlar amb un germà cansa d'una manera específica: no pel que es diu, sinó per allò en què un es converteix mentre ho diu. Tornes a ser el que s'explica de més, el que no es pren seriosament, el graciós al qual no se li permet un mal dia. Amb gairebé ningú més no se't demana amb tanta força que siguis qui vas deixar de ser.",
+      },
+      {
+        type: "heading",
+        text: "Quan els pares envelleixen: la segona repartició",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un moment en què la relació entre germans torna a quedar en primer pla: quan els pares envelleixen. Ja ho vam explorar en parlar del dol anticipatori i del canvi de rols a la maduresa adulta; aquí n'hi ha prou d'afegir-hi el que gairebé ningú no preveu. L'organització de la cura —qui truca cada dia, qui acompanya a la consulta, qui aguanta les nits difícils— es converteix, sense que ningú ho declari, en una segona repartició. I cadascú porta el seu propi llibre de comptes sobre el que és just: qui va rebre més ajuda amb els estudis, qui va marxar de casa, qui hi era. La discussió per l'herència rarament va del pis: va del reconeixement, d'un darrer recompte de qui va ser estimat més. Per això hi ha famílies on el notari és el que menys importa i el sopar de Nadal, el camp de batalla.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan l'últim pare mor, els germans hereden una cosa encara més difícil de repartir: ser els únics testimonis que queden de tota la pel·lícula. Molts descobreixen llavors que no saben estar junts sense la referència comuna, que el vincle sencer passava pels pares i que, sense ells, amb prou feines queda relació pròpia. És un dol dins del dol, i un dels més silenciosos que es veuen a consulta.",
+      },
+      {
+        type: "heading",
+        text: "La distància que ningú no va decidir",
+      },
+      {
+        type: "paragraph",
+        text: "No tota relació distant entre germans ve d'un conflicte. Molts germans adults no estan enfrontats: estan en res. S'escriuen per aniversaris, es veuen als diners assenyalats, s'intercanvien informació pràctica sobre els pares. Res no va trencar la relació; precisament això és el que inquieta. Si hi hagués hagut una ruptura, hi hauria alguna cosa a reparar. Però què fas amb una relació que s'ha quedat en superfície per pura inèrcia?",
+      },
+      {
+        type: "paragraph",
+        text: "Mereix la pena prendre's seriosament aquesta pregunta, perquè el «res» gairebé mai no és atzar. Sol ser una decisió antiga: fa anys, intentar una relació més fonda amb el teu germà costava massa —topava amb els rols, amb les lleialtats, amb les ferides— i alguna cosa dins teu va calcular que una relació superficial i estable dolia menys que una de fonda i fallida. Va ser una decisió raonable aleshores. El problema és que les decisions que es prenen als vint-i-cinc anys continuen governant als cinquanta sense que ningú les revisi. Una part de la maduresa consisteix a tornar a preguntar-se, amb les dades d'avui, les preguntes que un es va fer amb les dades d'aleshores.",
+      },
+      {
+        type: "heading",
+        text: "Lleialtats que separen",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades la distància amb un germà no va d'ell. Va d'allò que representa. S'assembla al teu pare; va rebre la tendresa que a tu et va faltar; ser-li a prop obliga a acostar-te a la ferida. Ja vam escriure sobre les lleialtats invisibles que heretem sense saber-ho: es pot mantenir distància amb un germà per continuar sent fidel a un pare, a una versió de la infància, fins i tot a una part d'un mateix que no vol tornar a mirar. El germà es converteix en frontera d'una cosa més gran, i la relació en paga la factura.",
+      },
+      {
+        type: "heading",
+        text: "Què es pot fer en teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Ni la reconciliació obligada ni la festa final d'una pel·lícula. Treballar la relació entre germans en teràpia consisteix, primer, a descongelar: veure l'adult que avui existeix darrere del rol, i permetre que ell faci el mateix amb tu. Consisteix a fer dol de la relació que vas voler i no vas tenir, perquè mentre no es plora, se segueix exigint en silenci: cada missatge sense resposta, cada sopar tèbic, es llegeix com un deute nou. Inclou mirar la teva part de responsabilitat sense carregar amb la relació sencera, que no depèn només de tu. I consisteix, sobretot, a decidir amb coherència quina relació vols avui: pot ser més propera; pot ser més tranquil·la i menys exigent; pot ser, honestament, una relació menor, triada en lloc de patida. El que no és sostenible és habitar per defecte una relació que ningú no va triar.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest treball acostuma a començar en teràpia individual. A vegades, quan el que està aturat és la conversa entre diversos, té sentit un espai de teràpia familiar amb adults: no per signar la pau, sinó per aconseguir que la taula aguanti una conversa que avui no aguanta. En tots dos casos, la pregunta de fons és la mateixa: què fas amb la persona que més història comparteix amb tu.",
+      },
+      {
+        type: "paragraph",
+        text: "Potser la paradoxa és aquesta: qui comparteix la teva història més llarga és, moltes vegades, qui menys coneix el teu present. I recuperar un germà en l'edat adulta no consisteix a tornar a estimar-se com nens, sinó a aconseguir que dues persones amb memòria compartida es tractin com el que són: dos adults amb vides pròpies que ja no necessiten negociar el seu lloc en una casa que ja no existeix. No tota relació de germans ha de ser fonda. Però mereix ser triada, no heretada.",
+      },
+      {
+        type: "paragraph",
+        text: "Si alguna cosa d'això et resulta conegut —un germà amb qui ja no saps parlar, una distància que ningú no va decidir, uns nadals que pesen més del que sembla—, a Espai Emocions podem acompanyar-te a mirar-ho. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp: sense compromís i amb tota la calma que necessitis.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "De todas las relaciones que tendrá tu vida, la de tus hermanos es, casi con seguridad, la más larga. Más que las amistades de la infancia, más que la mayoría de las parejas, más incluso que la que tuviste con tus padres: empezó antes de tu primer recuerdo y, si va bien, no termina cuando los padres faltan. Es también la única relación que no elegiste y de la que no puedes despedirte del todo, porque un hermano no es un ex: es una parte de tu historia que camina por el mundo con otra cara.",
+      },
+      {
+        type: "paragraph",
+        text: "Y, sin embargo, es la menos hablada. En consulta la gente llega hablando de sus padres, de su pareja, de sus hijos, de su trabajo. Los hermanos aparecen tarde y casi de refilón: «mi hermano y yo nos hablamos lo justo», dicho con el tono con que se comenta el tráfico. Nadie parece considerar que eso pueda ser, en sí mismo, un motivo de consulta. A veces lo es.",
+      },
+      {
+        type: "heading",
+        text: "Los únicos testigos de toda la película",
+      },
+      {
+        type: "paragraph",
+        text: "Un hermano es la única persona que estuvo allí antes de que tú pudieras explicarte. Conoció tu casa antes de que supieras describirla, vio formarse a tus padres cuando aún se estaban estrenando, compartió un idioma doméstico que nadie más habla: las bromas, los silencios, el tono con que tu madre decía tu nombre cuando las cosas iban mal. Cuando los padres faltan, esa memoria compartida no queda registrada en ningún otro sitio. Está en él. O en ella.",
+      },
+      {
+        type: "paragraph",
+        text: "Y aquí aparece la primera sorpresa: dos hermanos pueden crecer en la misma casa y proceder de dos familias distintas. La familia no es lo que pasó: es el lugar que cada uno ocupó mientras pasaba. El mayor vivió a unos padres jóvenes, con toda la fe puesta en él; el pequeño llegó a una casa ya aligerada, con unos padres cansados y una tolerancia distinta. No son versiones contradictorias de una infancia: son dos infancias que coincidieron en el tiempo. La mayoría de los conflictos entre hermanos adultos empiezan aquí, en la imposibilidad de aceptar que el otro tiene razón sobre su propia casa.",
+      },
+      {
+        type: "heading",
+        text: "El niño de nueve años que sigue sentado a la mesa",
+      },
+      {
+        type: "paragraph",
+        text: "Los hermanos tienden a quedar congelados en el tiempo. Los roles se repartieron pronto —el responsable, el pequeño encantador, el mediador, el problemático— y cumplieron una función real: organizar una casa, repartir la atención disponible, hacer llevadero lo que no lo era. Ya escribimos sobre esos roles familiares que sigues habitando sin darte cuenta; con los hermanos el fenómeno es aún más literal, porque ellos no actualizan el expediente: te conocieron siendo aquel de nueve años y, treinta después, muchos siguen dirigiéndose a él. Y tú a su versión de nueve años. Dos adultos cenando pueden ser, en realidad, dos niños negociando un asunto que ni siquiera recuerdan.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso conversar con un hermano cansa de una manera específica: no por lo que se dice, sino por lo que uno se convierte al decirlo. Vuelves a ser el que se explica de más, el que no es tomado en serio, el gracioso al que no se le permite un mal día. Con casi nadie más se te pide con tanta fuerza que seas quien dejaste de ser.",
+      },
+      {
+        type: "heading",
+        text: "Cuando los padres envejecen: la segunda repartición",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un momento en que la relación entre hermanos vuelve al primer plano: cuando los padres envejecen. Ya lo exploramos al hablar del duelo anticipatorio y del cambio de roles en la madurez adulta; aquí baste añadir lo que casi nadie prevé. La organización del cuidado —quién llama cada día, quién acompaña a la consulta, quién aguanta las noches difíciles— se convierte, sin que nadie lo declare, en una segunda repartición. Y cada uno lleva su propio libro de cuentas sobre lo justo: quién recibió más ayuda con los estudios, quién se fue de casa, quién estuvo. La discusión por la herencia rara vez va del piso: va del reconocimiento, de un último recuento de quién fue querido más. Por eso hay familias donde el notario es lo de menos y la mesa de Navidad, el campo de batalla.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando el último padre muere, los hermanos heredan algo más difícil de repartir: ser los únicos testigos que quedan de toda la película. Muchos descubren entonces que no saben estar juntos sin la referencia común, que el vínculo entero pasaba por los padres y que, sin ellos, apenas queda relación propia. Es un duelo dentro del duelo, y de los más silenciosos que se ven en consulta.",
+      },
+      {
+        type: "heading",
+        text: "La distancia que nadie decidió",
+      },
+      {
+        type: "paragraph",
+        text: "No toda distancia viene de un conflicto. Muchos hermanos adultos no están enfrentados: están en nada. Se escriben por cumpleaños, se ven en las comidas señaladas, se pasan información práctica sobre los padres. Nada rompió la relación; precisamente eso es lo inquietante. Si hubiera habido una ruptura, habría algo que reparar. Pero ¿qué haces con una relación que se ha quedado en superficie por pura inercia?",
+      },
+      {
+        type: "paragraph",
+        text: "Merece la pena tomarse en serio esa pregunta, porque ese «nada» casi nunca es azar. Suele ser una decisión antigua: hace años, intentar una relación más honda con tu hermano costaba demasiado —chocaba con los roles, con las lealtades, con las heridas— y algo dentro de ti calculó que una relación superficial y estable dolía menos que una honda y fallida. Fue una decisión razonable entonces. El problema es que las decisiones tomadas a los veinticinco siguen gobernando a los cincuenta sin que nadie las revise. Parte de la madurez consiste en volver a preguntarse, con los datos de hoy, las preguntas que uno se hizo con los datos de entonces.",
+      },
+      {
+        type: "heading",
+        text: "Lealtades que separan",
+      },
+      {
+        type: "paragraph",
+        text: "A veces la distancia con un hermano no va de él. Va de lo que representa. Se parece a tu padre; recibió la ternura que a ti te faltó; estar cerca de ella obliga a acercarte a la herida. Ya escribimos sobre las lealtades invisibles que heredamos sin saberlo: se puede mantener distancia con un hermano para seguir siendo leal a un padre, a una versión de la infancia, incluso a una parte de uno mismo que no quiere volver a mirar. El hermano se convierte en frontera de algo más grande, y la relación paga la factura.",
+      },
+      {
+        type: "heading",
+        text: "Qué se puede hacer en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Ni la reconciliación obligada ni el reencuentro final de una película. Trabajar la relación entre hermanos en terapia consiste, primero, en descongelar: ver al adulto que hoy existe detrás del rol, y permitirle a él hacer lo mismo contigo. Consiste en hacer duelo de la relación que quisiste y no tuviste, porque mientras no se llora se sigue exigiendo en silencio: cada mensaje sin respuesta, cada cena tibia, se lee como nueva deuda. Incluye mirar tu parte de responsabilidad sin cargar con la relación entera, que no depende solo de ti. Y consiste, sobre todo, en decidir con coherencia qué relación quieres hoy: puede ser más cercana; puede ser más tranquila y menos exigente; puede ser, honestamente, una relación menor, elegida en vez de sufrida. Lo que no es sostenible es habitar por defecto una relación que nadie eligió.",
+      },
+      {
+        type: "paragraph",
+        text: "Ese trabajo suele empezar en terapia individual. A veces, cuando lo atascado es la conversación entre varios, tiene sentido un espacio de terapia familiar con adultos: no para firmar la paz, sino para conseguir que la mesa sostenga una conversación que hoy no sostiene. En ambos casos la pregunta de fondo es la misma: qué haces con la persona que más historia comparte contigo.",
+      },
+      {
+        type: "paragraph",
+        text: "Quizá la paradoja resumida sea esta: quien comparte tu historia más larga es, muchas veces, quien menos conoce tu presente. Y recuperar a un hermano en la edad adulta no consiste en volver a quererse como niños, sino en lograr que dos personas con memoria compartida se traten como lo que son: dos adultos con vidas propias que ya no necesitan negociar su sitio en una casa que ya no existe. No toda relación de hermanos tiene que ser honda. Pero merece ser elegida, no heredada.",
+      },
+      {
+        type: "paragraph",
+        text: "Si algo de esto te resulta conocido —un hermano con el que ya no sabes hablar, una distancia que nadie decidió, unas Navidades que pesan más de lo que parecen—, en Espai Emocions podemos acompañarte a mirarlo. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp: sin compromiso y con toda la calma que necesites.",
+      },
+    ],
+  },
 ];
