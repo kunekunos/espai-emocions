@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "miedo-a-repetir-a-los-padres",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La por de repetir els teus pares: quan la seva frase surt amb la teva veu",
+    "titleES": "El miedo a repetir a tus padres: cuando su frase sale con tu voz",
+    "excerptCA": "Hi ha una frase que gairebé ningú no diu en veu alta però que apareix sovint a consulta: «tinc por d'acabar com la meva mare» —o com el meu pare, que és el mateix amb un altre cognom. No es diu pels trets bons: es tem repetir els cops, el menyspreu, aquella manera d'estimar que feia mal. Aquí explorem per què la vigilància no evita la repetició, què marca de debò la diferència entre reproduir una història i habitar la pròpia, i com pot ajudar la teràpia a mirar de cara allò que s'hereta.",
+    "excerptES": "Hay una frase que casi nadie dice en voz alta pero que aparece a menudo en consulta: «tengo miedo de acabar como mi madre» —o como mi padre, que es lo mismo con otro apellido. No se dice por los rasgos buenos: se teme repetir los golpes, el desdén, aquella manera de querer que hacía daño. Aquí exploramos por qué la vigilancia no evita la repetición, qué marca de verdad la diferencia entre reproducir una historia y habitar la propia, y cómo puede ayudar la terapia a mirar de frente lo que se hereda.",
+    "datePublished": "2026-09-10"
+  },
+  {
     "slug": "hermanos-edad-adulta-relacion-mas-larga",
     "categoryCA": "Família",
     "categoryES": "Familia",

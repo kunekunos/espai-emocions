@@ -1355,4 +1355,159 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 9. miedo-a-repetir-a-los-padres (Pilar: Identidad / historia familiar)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "miedo-a-repetir-a-los-padres",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "La por de repetir els teus pares: quan la seva frase surt amb la teva veu",
+    titleES: "El miedo a repetir a tus padres: cuando su frase sale con tu voz",
+    excerptCA:
+      "Hi ha una frase que gairebé ningú no diu en veu alta però que apareix sovint a consulta: «tinc por d'acabar com la meva mare» —o com el meu pare, que és el mateix amb un altre cognom. No es diu pels trets bons: es tem repetir els cops, el menyspreu, aquella manera d'estimar que feia mal. Aquí explorem per què la vigilància no evita la repetició, què marca de debò la diferència entre reproduir una història i habitar la pròpia, i com pot ajudar la teràpia a mirar de cara allò que s'hereta.",
+    excerptES:
+      "Hay una frase que casi nadie dice en voz alta pero que aparece a menudo en consulta: «tengo miedo de acabar como mi madre» —o como mi padre, que es lo mismo con otro apellido. No se dice por los rasgos buenos: se teme repetir los golpes, el desdén, aquella manera de querer que hacía daño. Aquí exploramos por qué la vigilancia no evita la repetición, qué marca de verdad la diferencia entre reproducir una historia y habitar la propia, y cómo puede ayudar la terapia a mirar de frente lo que se hereda.",
+    datePublished: "2026-09-10",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una escena que apareix a consulta més sovint del que es podria pensar. Algú explica un episodi domèstic qualsevol —una discussió tonta, un plat que cau, un dimarts sense res especial— i, de cop, s'escolta a si mateix. Reconeix l'entonació, la frase exacta, potser el gest de la mà. És la frase de la seva mare sortint amb la seva veu, o el silenci del seu pare instal·lant-se a la seva cuina. El que ve després acostuma a ser un fred sobtat: «sóc igual que ells».",
+      },
+      {
+        type: "paragraph",
+        text: "La por de repetir els pares és una de les que fa més vergonya i de les que menys es diuen en veu alta. No s'assembla a la por de les altures ni a la de perdre la feina: és una por sobre la pròpia identitat, sobre allò que un resultarà ser. I mereix una conversa tranquil·la, perquè gairebé tot el que se'n pensa és equivocat.",
+      },
+      {
+        type: "heading",
+        text: "La promesa dels divuit anys",
+      },
+      {
+        type: "paragraph",
+        text: "Gairebé tothom va fer, cap als divuit anys, una promesa semblant: «jo mai no seré com ells». Es va fer amb raó: hi havia coses en aquella casa que feien mal i algú havia de jurar que no tornarien a passar. El problema no és la promesa; és el que construeix al voltant. Una promesa així organitza la identitat sobre una negació: defineixes qui ets per allò que no seràs. I als divuit anys els pares no es coneixen: es temen o s'idealitzen. Encara no s'ha vist la persona que hi ha darrere del paper de pare, amb la seva pròpia història, les seves pors, allò que a ells també els van fer. La promesa vigila un fantasma, no una persona.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha una cosa més incòmoda: la promesa també es va aprendre en aquella casa. Reaccionar amb duresa, no tornar a parlar mai d'un tema, marxar amb un cop de porta: són maneres heretades de gestionar el conflicte, amb la mateixa procedència que allò que es jura no repetir. Es pot passar mitja vida esquivant el pare i reproduir, amb el mateix gest, la fugida del pare.",
+      },
+      {
+        type: "heading",
+        text: "Allò que no es mira, es repeteix",
+      },
+      {
+        type: "paragraph",
+        text: "Els patrons familiars no es transmeten per destí ni per genètica: s'aprenen. Es va aprendre a resoldre conflictes veient com es resolien, a expressar tendresa veient com s'expressava, a estar trist veient què es feia amb la tristesa. Aquest aprenentatge no viu a la memòria que es pot consultar: viu al cos, en reflexos que es posen en marxa sense demanar-te permís. Per això la vigilància falla. Es pot controlar allò que es diu en una conversa tranquil·la; el patró apareix justament on ningú no et vigila: sota estrès, amb les persones que més estimes, amb el cansament d'un dimarts. I apareix, sobretot, on tens menys distància: costa veure de lluny qui es té davant.",
+      },
+      {
+        type: "paragraph",
+        text: "La repetició no l'atura el rebuig. Allò que es rebutja amb aquesta intensitat continua sent-hi, ocupant el mateix lloc central, encara que sigui amb el signe invertit: la filla que jura no ser com la seva mare pot acabar vigilant cada un dels seus impulsos amb la mateixa severitat amb què la mare la vigilava a ella. Això ja ho vam veure en escriure sobre les lleialtats invisibles que heretem sense saber-ho: es pot ser fidel a una història de moltes maneres, també oposant-s'hi. El contrari de la repetició no és l'oposició. És el coneixement: no es pot triar allò que no es veu.",
+      },
+      {
+        type: "heading",
+        text: "Assemblar-se no és continuar",
+      },
+      {
+        type: "paragraph",
+        text: "Convé separar dues coses que la por confon. Assemblar-se als pares és inevitable: el seu idioma emocional és la primera llengua que un ha parlat i, en algun punt, tothom parla amb accent. Continuar és una altra cosa: és sostenir en el present solucions que van ser resposta a un context que ja no existeix. La semblança no decideix res per tu; només t'informa d'on véns. Decideix allò que facis amb allò que reconeixes.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha una part de la por que acostuma a callar: no tot allò heretat fa mal. Moltes persones descobreixen, si miren amb calma, que en elles també hi viuen la paciència de la mare, l'humor del pare, aquella capacitat de quedar-se quan tot es trontollava. La por d'assemblar-s'hi només anuncia la meitat de l'herència, la que es tem. L'altra meitat —la que sosté— només apareix quan es deixa de vigilar i es comença a mirar. Reconèixer els pares com a persones va ser, de fet, el cor del que vam escriure sobre perdonar-los a la maduresa adulta: no es tracta de justificar-ho tot, sinó de deixar de demanar-los que siguin una altra cosa per poder veure el que són.",
+      },
+      {
+        type: "heading",
+        text: "Què es pot fer en teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "En teràpia, aquest treball no comença amb una promesa nova i millor. Comença fent visible allò implícit: anomenar la casa d'on es ve, distingir allò que va passar del que se'n va concloure, i mirar com aquelles conclusions encara treballen avui, en contextos on no serveixen. Ja ho apuntàvem en escriure sobre els rols familiars que segueixes habitant: es pot sostenir durant dècades un paper après sense reconèixer-lo com a paper.",
+      },
+      {
+        type: "paragraph",
+        text: "Des d'allà, la semblança deixa de ser una amenaça i es converteix en material. Es pot decidir què es conserva —i alguna cosa es conserva sempre, i no sempre és dolenta—, què es retorna i què es transforma en una altra cosa. Hi entra també el tracte que un es dóna: hi ha persones que descobreixen que, quan fallen, es parlen tal com els parlaven, amb la mateixa impaciència o el mateix menyspreu. Aquest diàleg intern també es va aprendre, i també es pot reaprendre.",
+      },
+      {
+        type: "paragraph",
+        text: "Cal dir-ho sense rodeigs: la teràpia no garanteix que el patró no apareixerà mai. Apareixerà menys i es veurà abans. I el que canvia de debò és el que passa després: poder sostenir una mirada pròpia sense caure de ple a la culpa, poder tornar, demanar perdó si cal, reparar. No es tracta de no ensopegar mai; es tracta de no haver de negar que s'ha ensopegat.",
+      },
+      {
+        type: "paragraph",
+        text: "Potser la pregunta de fons no és «acabaré com els meus pares?». Aquesta pregunta no té resposta honesta, perquè ningú no acaba sent una sola cosa. La pregunta útil és una altra: «què faig amb allò que ja viu en mi?». De la casa d'on un ve no se surt del tot —tampoc no cal—, però no ha de ser la casa que un és. La maduresa no consisteix a no deure res als qui van venir abans; consisteix a saber exactament què se'ls deu, per poder triar què se'n fa.",
+      },
+      {
+        type: "paragraph",
+        text: "Si alguna cosa d'això et resulta conegut —una frase que et va gelar en sentir-la amb la teva veu, una promesa de joventut que encara fa guàrdia—, a Espai Emocions podem acompanyar-te a mirar-ho. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp: sense compromís i amb tota la calma que necessitis.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una escena que aparece en consulta más a menudo de lo que cabría pensar. Alguien cuenta un episodio doméstico cualquiera —una discusión tonta, un plato que se cae, un martes sin nada especial— y, de pronto, se escucha a sí mismo. Reconoce la entonación, la frase exacta, quizá el gesto de la mano. Es la frase de su madre saliendo con su voz, o el silencio de su padre instalándose en su cocina. Lo que sigue suele ser un frío repentino: «soy igual que ellos».",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo a repetir a los padres es uno de los que más vergüenza produce y de los que menos se dicen en voz alta. No se parece al miedo a las alturas ni al de perder el trabajo: es un miedo sobre la propia identidad, sobre aquello que uno va a resultar ser. Y merece una conversación tranquila, porque casi todo lo que se piensa de él es equivocado.",
+      },
+      {
+        type: "heading",
+        text: "La promesa de los dieciocho años",
+      },
+      {
+        type: "paragraph",
+        text: "Casi todos hicimos, hacia los dieciocho años, una promesa parecida: «yo nunca seré como ellos». Se hizo con razón: había cosas en aquella casa que dolían y alguien tenía que jurar que no volverían a pasar. El problema no es la promesa; es lo que construye alrededor. Una promesa así organiza la identidad sobre una negación: defines quién eres por aquello que no vas a ser. Y a los dieciocho años, los padres no se conocen: se temen o se idealizan. Todavía no se ha visto a la persona detrás del papel de padre, con su propia historia, sus miedos, aquello que a ellos también les hicieron. La promesa vigila a un fantasma, no a una persona.",
+      },
+      {
+        type: "paragraph",
+        text: "Y hay algo más incómodo: la promesa también se aprendió en esa casa. Reaccionar con dureza, no volver a hablar nunca de un tema, marcharse dando un portazo: son maneras heredadas de manejar el conflicto, con la misma procedencia que aquello que se jura no repetir. Se puede pasar media vida esquivando al padre y reproducir, con el mismo gesto, la huida del padre.",
+      },
+      {
+        type: "heading",
+        text: "Lo que no se mira, se repite",
+      },
+      {
+        type: "paragraph",
+        text: "Los patrones familiares no se transmiten por destino ni por genética: se aprenden. Aprendiste a resolver conflictos viendo cómo se resolvían, a expresar cariño viendo cómo se expresaba, a estar triste viendo qué se hacía con la tristeza. Ese aprendizaje no vive en la memoria que puedes consultar: vive en el cuerpo, en reflejos que se activan sin pedirte permiso. Por eso la vigilancia falla. Puedes controlar lo que dices en una conversación tranquila; el patrón aparece justo donde nadie te vigila: bajo estrés, con las personas que más quieres, con el cansancio de un martes. Y aparece, sobre todo, donde tienes menos distancia: cuesta ver de lejos a quien se tiene enfrente.",
+      },
+      {
+        type: "paragraph",
+        text: "La repetición no la detiene el rechazo. Lo que se rechaza con esa intensidad sigue presente, ocupando el mismo lugar central, aunque sea con el signo invertido: la hija que jura no ser como su madre puede acabar vigilando cada uno de sus impulsos con la misma severidad con la que su madre la vigilaba a ella. Eso ya lo vimos al escribir sobre las lealtades invisibles que heredamos sin saberlo: se puede ser fiel a una historia de muchas maneras, también oponiéndose a ella. Lo contrario de la repetición no es la oposición. Es el conocimiento: no se puede elegir lo que no se ve.",
+      },
+      {
+        type: "heading",
+        text: "Parecerse no es continuar",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene separar dos cosas que el miedo confunde. Parecerse a los padres es inevitable: su idioma emocional es la primera lengua que uno habló y, en algún punto, todos hablamos con acento. Continuar es otra cosa: es sostener en el presente soluciones que fueron respuesta a un contexto que ya no existe. La semejanza no decide nada por ti; solo te informa de dónde vienes. Decide lo que hagas con lo que reconoces.",
+      },
+      {
+        type: "paragraph",
+        text: "Y hay una parte del miedo que suele callar: no todo lo heredado duele. Muchas personas descubren, si miran con calma, que en ellas viven también la paciencia de su madre, el humor de su padre, aquella capacidad de quedarse cuando todo se tambaleaba. El miedo a parecerse solo anuncia la mitad de la herencia, la que se teme. La otra mitad —la que sostiene— solo aparece cuando se deja de vigilar y se empieza a mirar. Reconocer a los padres como personas fue, de hecho, el corazón de lo que escribimos sobre perdonarlos en la madurez adulta: no se trata de justificarlo todo, sino de dejar de pedirles que sean otra cosa para poder ver lo que son.",
+      },
+      {
+        type: "heading",
+        text: "Lo que se puede hacer en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, este trabajo no empieza con una promesa nueva y mejor. Empieza haciendo visible lo implícito: nombrar la casa de la que se viene, distinguir lo que pasó de lo que uno concluyó de lo que pasó, y mirar cómo aquellas conclusiones siguen trabajando hoy, en contextos donde no sirven. Ya lo apuntábamos al escribir sobre los roles familiares que sigues habitando: se puede sostener durante décadas un papel aprendido sin reconocerlo como papel.",
+      },
+      {
+        type: "paragraph",
+        text: "Desde ahí, la semejanza deja de ser una amenaza y se convierte en material. Se puede decidir qué se conserva —y algo se conserva siempre, y no siempre es malo—, qué se devuelve y qué se transforma en otra cosa. Entra también el trato que uno se da: hay personas que descubren que, cuando fallan, se hablan como les hablaban, con la misma impaciencia o el mismo desdén. Ese diálogo interno también se aprendió, y también se puede reaprender.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decirlo sin rodeos: la terapia no garantiza que el patrón no vaya a aparecer nunca. Aparecerá menos y se verá antes. Y lo que cambia de verdad es lo que pasa después: poder sostener una mirada propia sin despeñarse en la culpa, poder volver, pedir perdón si hace falta, reparar. No se trata de no tropezar nunca; se trata de no tener que negar que se ha tropezado.",
+      },
+      {
+        type: "paragraph",
+        text: "Quizá la pregunta de fondo no sea «¿acabaré como mis padres?». Esa pregunta no tiene respuesta honesta, porque nadie acaba siendo una sola cosa. La pregunta útil es otra: «¿qué hago con lo que ya vive en mí?». De la casa de la que uno viene no se sale del todo —tampoco hace falta—, pero no tiene por qué ser la casa que uno es. La madurez no consiste en no deber nada a quienes vinieron antes; consiste en saber exactamente qué se les debe, para poder elegir qué se hace con ello.",
+      },
+      {
+        type: "paragraph",
+        text: "Si algo de esto te resulta conocido —una frase que te heló al oírla con tu voz, una promesa de juventud que todavía hace guardia—, en Espai Emocions podemos acompañarte a mirarlo. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp: sin compromiso y con toda la calma que necesites.",
+      },
+    ],
+  },
 ];
