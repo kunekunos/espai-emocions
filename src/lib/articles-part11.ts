@@ -1510,4 +1510,169 @@ export const articlesPart11: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 10. parejas-reconstituidas-segunda-familia (Pilar: Terapia de pareja)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "parejas-reconstituidas-segunda-familia",
+    categoryCA: "Teràpia de parella",
+    categoryES: "Terapia de pareja",
+    titleCA:
+      "Parelles reconstituïdes: arribar a una família que ja existia",
+    titleES:
+      "Parejas reconstituidas: llegar a una familia que ya existía",
+    excerptCA:
+      "Quan t'enamores d'algú que ja té una família, no arribes a una pàgina en blanc: arribes a un llibre amb capítols escrits. Les segones parelles comencen enamorades i gestionant alhora, i gairebé ningú no els ha escrit el guió. Aquí explorem la sensació de ser un convidat a la pròpia casa, la lleialtat silenciosa dels fills, les gelosies per un passat en què no hi eres i l'error de desatendre la parella perquè tothom s'entengui.",
+    excerptES:
+      "Cuando te enamoras de alguien que ya tiene una familia, no llegas a una página en blanco: llegas a un libro con capítulos escritos. Las segundas parejas empiezan enamoradas y gestionando a la vez, y casi nadie les ha escrito el guion. Aquí exploramos la sensación de ser un invitado en la propia casa, la lealtad silenciosa de los hijos, los celos por un pasado en el que no estabas y el error de descuidar la pareja para que todos se lleven bien.",
+    datePublished: "2026-09-11",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha relacions que comencen a dues i relacions que comencen a tres, a quatre, a cinc. Quan t'enamores d'una persona que ja té una família —fills, una història compartida amb una altra persona, una casa amb els costums muntats— no arribes a una pàgina en blanc. Arribes a un llibre amb capítols escrits, amb anotacions al marge que no vas escriure tu i a les quals, tanmateix, hauràs d'aprendre a respondre.",
+      },
+      {
+        type: "paragraph",
+        text: "A les segones parelles se'ls demana una cosa que a les primeres no: començar enamorats i, alhora, gestors. Estimar molt i administrar molt. És una posició incòmoda, perquè cap de les dues coses no és suficient tota sola, i perquè gairebé ningú no en parla: culturalment tenim el guió de l'enamorament i el guió de la família, però no el guió del que passa quan tots dos coincideixen amb una història prèvia pel mig.",
+      },
+      {
+        type: "heading",
+        text: "Una casa amb els mobles col·locats",
+      },
+      {
+        type: "paragraph",
+        text: "Les famílies funcionen com les cases: tenen els mobles col·locats, els llocs assignats, ritus que ningú no recorda haver decidit. Qui arriba nou ho nota de seguida, encara que no sàpiga com anomenar-ho. Riu quan ningú més no riu. Descobreix que la paella del diumenge és innegociable, que el sofà té propietaris històrics, que hi ha temes que es voregen. Durant un temps —a vegades molt de temps— la sensació és la de ser un convidat magnífic en una casa aliena, encara que sigui la casa de la persona que estimes.",
+      },
+      {
+        type: "paragraph",
+        text: "L'error més comú no és equivocar-se amb els mobles: és creure que l'amor de parella garanteix, tot sol, un lloc a la família. Són dos vincles diferents, amb velocitats diferents. La parella pot anar molt ràpida i la família, amb raó, no: les famílies reconstituïdes no es fonen per decret del cor. Tenir lloc no és substituir ningú ni omplir un forat que ja té forma: és construir una relació nova, amb un altre nom, que no necessita assemblar-se a cap de les anteriors.",
+      },
+      {
+        type: "heading",
+        text: "Els llocs que ja estan ocupats",
+      },
+      {
+        type: "paragraph",
+        text: "Si hi ha fills, la cosa es complica d'una manera que no sempre s'explica amb honestedat. Els fills d'una separació solen tenir una lleialtat silenciosa cap al pare o la mare que no hi és. Estimar la persona nova pot semblar, per dins, una traïció a qui falta. Per això el rebuig inicial —la fredor, la contesta, aquella cortesia que glaça la taula— gairebé mai no és personal. És fidelitat. Interpretar-ho com un judici sobre qui ets converteix en ferida el que en realitat és la defensa que fa algú del seu propi món, sense haver triat cap de les decisions que l'han portat fins aquí.",
+      },
+      {
+        type: "paragraph",
+        text: "I per a qui arriba, la temptació simètrica: guanyar-se aquell afecte competint, complaent, convertint-se en el millor organitzador de plans o en el pare o la mare que faltava. El problema és que el lloc de pare o de mare ja està ocupat, amb tot el bo i tot el dolent, i pretendre ocupar-lo posa els fills en una tensió impossible: estimar-lo seria destronar algú. El lloc possible és un altre: un vincle propi, diferent, que no competeix pel mateix espai. Lent, sense garanties, adult. Curiosament, és l'únic que a llarg termini sosté.",
+      },
+      {
+        type: "heading",
+        text: "El passat que no es pot tenir",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una forma de gelosia de la qual gairebé ningú no parla perquè fa força vergonya: les gelosies del passat. Les anècdotes que comencen amb «quan vivíem a…», l'idioma compartit amb l'exparella, els viatges, les fotografies, el fet que existeixi una dècada de la teva parella en què tu no hi eres. És un territori estrany: no hi ha rival present i, tanmateix, hi ha rivalitat; no hi ha amenaça actual i, tanmateix, hi ha dolor. Pot donar ràbia sentir-ho, perquè sembla irracional. No ho és: és la resposta natural de qui estima i no pot ser a tota la història.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí hi ha una decisió de fons que les parelles reconstituïdes han de prendre, amb més o menys elegància: què es fa amb l'anterior. Hi ha dos extrems que fallen igual. El secret —parlar de l'exparella com si no existís, quan segueix existint en horaris, decisions i converses—. I el menyspreu, que posa els fills a triar i enverina tota la resta. La tercera via és la més difícil i l'única que construeix confiança: la presència serena. Qui hi va ser abans continua a la vida de la família de moltes maneres pràctiques, i poder parlar d'aquesta presència sense drama, sense secret i sense verí és, a les segones parelles, una forma tan real d'intimitat com qualsevol altra.",
+      },
+      {
+        type: "heading",
+        text: "La parella és l'estructura",
+      },
+      {
+        type: "paragraph",
+        text: "Una altra trampa freqüent: dedicar tota l'energia a fer que «tothom s'entengui» i desatendre el vincle de parella, que és justament el que sosté tota la resta. S'organitzen caps de setmana perfectes, negociacions d'aniversaris, estratègies per a les vacances… i la parella es converteix en un comitè d'organització que ja no es toca, no es desitja, no discuteix el que és seu. Quan això passa, la casa sencera es mou: els fills noten la fissura abans que ningú, encara que ningú no l'hagi dita.",
+      },
+      {
+        type: "paragraph",
+        text: "Una família reconstituïda no funciona per suma d'esforços individuals, sinó com un sistema nou, amb regles noves. Els ritus de la família prèvia valen per al vincle que els va crear; aquest altre vincle necessita els seus: el seu idioma, els seus diumenges, les seves bromes. És una feina lenta i poc espectacular, i és exactament la matèria de què està feta una família que sosté.",
+      },
+      {
+        type: "heading",
+        text: "El que pot fer una teràpia de parella aquí",
+      },
+      {
+        type: "paragraph",
+        text: "En una teràpia de parella amb una història prèvia pel mig, el primer que apareix poques vegades és l'organització: gairebé sempre és tot l'anterior, abans. Les gelosies que feien vergonya, la ràbia de sentir-se de visita a la pròpia vida, el cansament de tenir paciència sense data, la sospita d'estimar més del que tocava. Un espai on això es pugui dir sense que la casa caigui és poc freqüent, i és bona part del que la teràpia pot oferir: no una família unida per art de màgia, sinó dues persones que saben quina família estan construint i per què.",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú no arriba a una segona família per error. S'hi arriba, gairebé sempre, després d'haver perdut alguna cosa: una casa, un matrimoni, una versió de la vida que ja no serveix. Això és també una oportunitat poc comentada: la de construir amb plena consciència el que la primera vegada es va muntar sense saber com. Les famílies reconstituïdes no són famílies de segona mà ni remeis de l'anterior: són una altra cosa, amb el seu propi nom, si se'ls permet tenir-lo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si ets enmig d'aquest trànsit —enamorat d'algú amb història, convidat a la teva pròpia vida, cansat de tenir paciència sense data—, pot ajudar parlar-ne amb calma i amb qui no forma part de la taula. A Espai Emocions acompanyem parelles i famílies reconstituïdes des del respecte a cada història. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp: sense compromís i al teu ritme.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay relaciones que empiezan a dos y relaciones que empiezan a tres, a cuatro, a cinco. Cuando te enamoras de una persona que ya tiene una familia —hijos, una historia compartida con otra persona, una casa con sus costumbres montadas— no llegas a una página en blanco. Llegas a un libro con capítulos escritos, con anotaciones al margen que no escribiste tú y a las que, sin embargo, tendrás que aprender a responder.",
+      },
+      {
+        type: "paragraph",
+        text: "A las segundas parejas se les pide algo que a las primeras no: empezar enamorados y, al mismo tiempo, gestores. Querer mucho y administrar mucho. Es una posición incómoda, porque ninguna de las dos cosas es suficiente por sí sola, y porque casi nadie habla de ella: culturalmente tenemos el guion del enamoramiento y el guion de la familia, pero no el guion de lo que ocurre cuando ambos coinciden con una historia previa en medio.",
+      },
+      {
+        type: "heading",
+        text: "Una casa con los muebles colocados",
+      },
+      {
+        type: "paragraph",
+        text: "Las familias funcionan como las casas: tienen los muebles colocados, los sitios asignados, rituales que nadie recuerda haber decidido. Quien llega nuevo lo nota enseguida, aunque no sepa nombrarlo. Ríe cuando nadie más ríe. Descubre que la paella del domingo es innegociable, que el sofá tiene dueños históricos, que hay temas que se rodean. Durante un tiempo —a veces mucho tiempo— la sensación es la de ser un invitado estupendo en una casa ajena, aunque sea la casa de la persona que amas.",
+      },
+      {
+        type: "paragraph",
+        text: "El error más común no es equivocarse con los muebles: es creer que el amor de pareja garantiza, por sí solo, un lugar en la familia. Son dos vínculos distintos, con velocidades distintas. La pareja puede ir rapidísimo y la familia, con razón, no: las familias reconstituidas no se fundan por decreto del corazón. Tener sitio no es sustituir a nadie ni llenar un hueco que ya tiene forma: es construir una relación nueva, con otro nombre, que no necesita parecerse a ninguna de las anteriores.",
+      },
+      {
+        type: "heading",
+        text: "Los lugares que ya están ocupados",
+      },
+      {
+        type: "paragraph",
+        text: "Si hay hijos, la cosa se complica de una manera que no siempre se explica con honestidad. Los hijos de una separación suelen tener una lealtad silenciosa hacia el padre o la madre que no está. Querer a la persona nueva puede sentirse, por dentro, como una traición a quien falta. Por eso el rechazo inicial —la frialdad, la contestación, esa cortesía que hiela la mesa— casi nunca es personal. Es fidelidad. Interpretarlo como un juicio sobre quién eres convierte en herida lo que en realidad es la defensa que hace alguien de su propio mundo, sin haber elegido ninguna de las decisiones que le han traído hasta aquí.",
+      },
+      {
+        type: "paragraph",
+        text: "Y para quien llega, la tentación simétrica: ganarse ese afecto compitiendo, complaciendo, convirtiéndose en el mejor organizador de planes o en el padre o la madre que faltaba. El problema es que el lugar de padre o de madre ya está ocupado, con todo lo bueno y todo lo malo, y pretender ocuparlo pone a los hijos en una tensión imposible: quererle sería destronar a alguien. El lugar posible es otro: un vínculo propio, distinto, que no compite por el mismo sitio. Lento, sin garantías, adulto. Curiosamente, es el único que a largo plazo sostiene.",
+      },
+      {
+        type: "heading",
+        text: "El pasado que no se puede tener",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una forma de celos de la que casi nadie habla porque da bastante vergüenza: los celos del pasado. Las anécdotas que empiezan con «cuando vivíamos en…», el idioma compartido con la expareja, los viajes, las fotos, el hecho de que exista una década de tu pareja en la que tú no estabas. Es un territorio raro: no hay rival presente y, sin embargo, hay rivalidad; no hay amenaza actual y, sin embargo, hay dolor. Puede dar rabia sentirlo, porque parece irracional. No lo es: es la respuesta natural de quien ama y no puede estar en toda la historia.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí hay una decisión de fondo que las parejas reconstituidas tienen que tomar, con más o menos elegancia: qué se hace con el anterior. Hay dos extremos que fallan igual. El secreto —hablar de la expareja como si no existiera, cuando sigue existiendo en horarios, decisiones y conversaciones—. Y el desprecio, que pone a los hijos a elegir y contamina todo lo demás. La tercera vía es la más difícil y la única que construye confianza: la presencia serena. Quien estuvo antes sigue en la vida de la familia de muchas maneras prácticas, y poder hablar de esa presencia sin drama, sin secreto y sin veneno es, en las segundas parejas, una forma tan real de intimidad como cualquier otra.",
+      },
+      {
+        type: "heading",
+        text: "La pareja es la estructura",
+      },
+      {
+        type: "paragraph",
+        text: "Otra trampa frecuente: dedicar toda la energía a que «todos se lleven bien» y desatender el vínculo de pareja, que es justamente el que sostiene todo lo demás. Se organizan fines de semana perfectos, negociaciones de cumpleaños, estrategias para las vacaciones… y la pareja se convierte en un comité de organización que ya no se toca, no se desea, no discute lo suyo. Cuando eso pasa, la casa entera se mueve: los hijos notan la fisura antes que nadie, aunque nadie la haya dicho.",
+      },
+      {
+        type: "paragraph",
+        text: "Una familia reconstituida no funciona por suma de esfuerzos individuales, sino como un sistema nuevo, con reglas nuevas. Los rituales de la familia previa valen para el vínculo que los creó; este otro vínculo necesita los suyos: su idioma, sus domingos, sus bromas. Es una tarea lenta y poco espectacular, y es exactamente la materia de la que está hecha una familia que se sostiene.",
+      },
+      {
+        type: "heading",
+        text: "Lo que una terapia de pareja puede hacer aquí",
+      },
+      {
+        type: "paragraph",
+        text: "En una terapia de pareja con una historia previa en medio, lo primero que aparece casi nunca es la organización: casi siempre es todo lo anterior, antes. Los celos que daban vergüenza, la rabia de sentirse de visita en la propia vida, el cansancio de ser paciente sin fecha, la sospecha de amar más de lo que tocaba. Un espacio donde eso se pueda decir sin que la casa se caiga es poco frecuente, y es buena parte de lo que la terapia puede ofrecer: no una familia unida por arte de magia, sino dos personas que saben qué familia están construyendo y por qué.",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie llega a una segunda familia por error. Se llega, casi siempre, después de haber perdido algo: una casa, un matrimonio, una versión de la vida que ya no sirve. Eso es también una oportunidad poco comentada: la de construir con plena consciencia lo que la primera vez se armó sin saber cómo. Las familias reconstituidas no son familias de segunda mano ni remedios de la anterior: son otra cosa, con su propio nombre, si se les permite tenerlo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si estás en mitad de ese tránsito —enamorado de alguien con historia, huésped en tu propia vida, cansado de tener paciencia sin fecha—, puede ayudar hablarlo con calma y con quien no forma parte de la mesa. En Espai Emocions acompañamos a parejas y familias reconstituidas desde el respeto a cada historia. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp: sin compromiso y a tu ritmo.",
+      },
+    ],
+  },
 ];

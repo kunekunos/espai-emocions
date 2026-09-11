@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "parejas-reconstituidas-segunda-familia",
+    "categoryCA": "Teràpia de parella",
+    "categoryES": "Terapia de pareja",
+    "titleCA": "Parelles reconstituïdes: arribar a una família que ja existia",
+    "titleES": "Parejas reconstituidas: llegar a una familia que ya existía",
+    "excerptCA": "Quan t'enamores d'algú que ja té una família, no arribes a una pàgina en blanc: arribes a un llibre amb capítols escrits. Les segones parelles comencen enamorades i gestionant alhora, i gairebé ningú no els ha escrit el guió. Aquí explorem la sensació de ser un convidat a la pròpia casa, la lleialtat silenciosa dels fills, les gelosies per un passat en què no hi eres i l'error de desatendre la parella perquè tothom s'entengui.",
+    "excerptES": "Cuando te enamoras de alguien que ya tiene una familia, no llegas a una página en blanco: llegas a un libro con capítulos escritos. Las segundas parejas empiezan enamoradas y gestionando a la vez, y casi nadie les ha escrito el guion. Aquí exploramos la sensación de ser un invitado en la propia casa, la lealtad silenciosa de los hijos, los celos por un pasado en el que no estabas y el error de descuidar la pareja para que todos se lleven bien.",
+    "datePublished": "2026-09-11"
+  },
+  {
     "slug": "miedo-a-repetir-a-los-padres",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
