@@ -2264,6 +2264,10 @@ export const articlesPart2: ArticleContent[] = [
           "És normal arribar amb nervis. Moltes persones no saben què van a dir, temen que els jutgin o imaginen una conversa difícil de sostenir. La realitat és molt més senzilla: la primera sessió està pensada perquè tu parlis el just i el professional faci bona part de la feina d'orientació. A Espai Emocions treballem aquest primer encontre amb una lògica clara, que convé conèixer amb antelació per arribar amb menys incertesa.",
       },
       {
+        type: "paragraph",
+        text: "Aquesta guia no va dels nervis previs: d'això ja en vam escriure a l'article sobre l'ansietat abans de la primera sessió, que et pot ajudar si el missatge per demanar cita porta dies a mig escriure's. Aquí parlem d'allò que passa un cop ets a dins: com s'organitza la sessió, què s'hi pregunta, què hi pots portar, què et convé preguntar tu i què es decideix —i què no— en acabar-la.",
+      },
+      {
         type: "heading",
         text: "Què passa realment en aquesta primera trobada",
       },
@@ -2323,6 +2327,10 @@ export const articlesPart2: ArticleContent[] = [
           "Si vols entendre millor les diferències entre professionals, al nostre article sobre psicòleg i psiquiatre ho expliquem en detall.",
       },
       {
+        type: "paragraph",
+        text: "Sobre la forma del procés —quantes sessions solen necessitar-se i amb quina freqüència convé anar-hi— també hem escrit amb detall: l'article sobre quantes sessions de psicologia necessites i el que explica amb quina freqüència anar al psicòleg resolen les dues preguntes que més es repeteixen en aquesta fase.",
+      },
+      {
         type: "heading",
         text: "Com treballem la primera sessió a Espai Emocions",
       },
@@ -2364,6 +2372,74 @@ export const articlesPart2: ArticleContent[] = [
         ],
       },
       {
+        type: "heading",
+        text: "Què et convé preguntar tu",
+      },
+      {
+        type: "paragraph",
+        text:
+          "La primera sessió no és un examen on només tu ets l'examinat: també és el teu moment per mirar. Aquest espai, aquesta persona, aquesta manera de treballar. Preguntar no molesta cap professional seriós; al contrari, és la manera més ràpida de saber si allà t'hi quedaràs. Algunes preguntes que pots fer sense cap problema:",
+      },
+      {
+        type: "list",
+        items: [
+          "Quina experiència tens amb motius com el meu?",
+          "Com t'imagines el procés si continuem: freqüència, durada estimada, enfocament?",
+          "Què passa si em veig millor o pitjor del que esperava en poques setmanes?",
+          "Com gestionem les vacances, els canvis de sessió o les anul·lacions?",
+          "Treballeu també en línia, o hi ha moments del procés que recomanes presencial?",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "No cal fer-les totes, ni en aquest ordre, ni totes el primer dia. Però portar-ne dues o tres escrites ajuda aquell final de sessió on, de sobte, la ment es queda sense preguntes. Les més pràctiques —preus, assegurances, com arribar, cancel·lacions— ja tenen resposta a les preguntes freqüents del nostre centre; les més personals, en canvi, només les pots fer tu, allà.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "I hi ha una pregunta que molta gent oblida fer, potser perquè sembla òbvia: «què passa si, després d'aquesta primera sessió, decideixo que no?». La resposta hauria de ser sempre la mateixa: res. La primera visita no compromet a continuar, i un professional que et faci sentir el contrari t'està donant, precisament, una informació molt útil sobre si allà vols tornar.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Perquè al final, aquesta sessió serveix per a dues coses alhora: que el psicòleg entengui què et porta i que tu comprovis si aquell lloc et dona seguretat. La qualitat del vincle terapèutic és un dels factors que millor prediu si un procés funciona, i la primera sessió és on aquest vincle comença a existir.",
+      },
+      {
+        type: "heading",
+        text: "Mini-FAQ de la primera sessió",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quant dura la primera sessió?",
+            answer:
+              "Entre 50 i 60 minuts. N'hi ha prou per explicar el motiu de consulta, que el professional faci les seves preguntes i que en sortiu amb una primera hipòtesi de treball. No és una sessió més llarga perquè hi hagi «més a explicar»: la profunditat ja vindrà en les següents.",
+          },
+          {
+            question: "M'han de dir el diagnòstic el primer dia?",
+            answer:
+              "No necessàriament, i això no és un retard: és prudència. El diagnòstic, si cal formular-lo, forma part del procés d'avaluació, que a vegades requereix una segona sessió. El primer dia s'obté una hipòtesi de treball, no una etiqueta tancada.",
+          },
+          {
+            question: "Puc anar acompanyat o acompanyada?",
+            answer:
+              "Pots venir amb qui vulguis fins a la porta, i si et cal, aquesta persona pot esperar-te a la sala d'espera. La sessió, però, és individual: el material que s'hi treballa és personal i l'encuadre està pensat així. En teràpia de parella, és clar, la lògica és una altra: hi veniu els dos.",
+          },
+          {
+            question: "I si em quedo en blanc o no sé per on començar?",
+            answer:
+              "No passa res, i és molt freqüent. Dir «no sé per on començar» ja és un començament perfectament vàlid: el professional està entrenat per conduir la conversa des d'allà. Ningú no et demana un discurs preparat.",
+          },
+          {
+            question: "Puc demanar sessió online per a la primera visita?",
+            answer:
+              "Sí, a Espai Emocions oferim les dues modalitats per a aquest primer contacte. La primera visita online funciona igual de bé per valorar el motiu de consulta; moltes persones la combinen després amb sessions presencials. Sobre les diferències entre les dues modalitats, tens l'article sobre teràpia online versus presencial.",
+          },
+        ],
+      },
+      {
         type: "paragraph",
         text:
           "La primera sessió és l'inici d'un procés, no la seva prova definitiva. Allò decisiu no és com entres, sinó que donis el pas i que el professional faci bé la seva feina a partir d'aquí.",
@@ -2374,6 +2450,10 @@ export const articlesPart2: ArticleContent[] = [
         type: "paragraph",
         text:
           "Es normal llegar con nervios. Muchas personas no saben qué van a decir, temen que les juzguen o imaginan una conversación difícil de sostener. La realidad es mucho más sencilla: la primera sesión está pensada para que tú hables lo justo y el profesional haga buena parte del trabajo de orientación. En Espai Emocions trabajamos este primer encuentro con una lógica clara, que conviene conocer de antemano para llegar con menos incertidumbre.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta guía no va de los nervios previos: de eso ya escribimos en el artículo sobre la ansiedad antes de la primera sesión, que puede ayudarte si el mensaje para pedir cita lleva días a medio escribirse. Aquí hablamos de lo que ocurre una vez estás dentro: cómo se organiza la sesión, qué se pregunta, qué puedes llevar, qué te conviene preguntar tú y qué se decide —y qué no— al terminarla.",
       },
       {
         type: "heading",
@@ -2435,6 +2515,10 @@ export const articlesPart2: ArticleContent[] = [
           "Si quieres entender mejor las diferencias entre profesionales, en nuestro artículo sobre psicólogo y psiquiatra lo explicamos en detalle.",
       },
       {
+        type: "paragraph",
+        text: "Sobre la forma del proceso —cuántas sesiones suelen necesitarse y con qué frecuencia conviene ir— también hemos escrito con detalle: el artículo sobre cuántas sesiones de psicología necesitas y el que explica con qué frecuencia ir al psicólogo resuelven las dos preguntas que más se repiten en esta fase.",
+      },
+      {
         type: "heading",
         text: "Cómo trabajamos la primera sesión en Espai Emocions",
       },
@@ -2473,6 +2557,74 @@ export const articlesPart2: ArticleContent[] = [
           "Escribe una nota con lo que te trae. No para leerla, sino para no olvidar nada importante al hablar.",
           "No te exijas claridad total. El psicólogo no espera que llegues con el problema resuelto, sino que expliques cómo lo vives.",
           "Piensa qué te gustaría conseguir. Aunque sea de forma vaga, tener un objetivo orienta el proceso desde el inicio.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Qué te conviene preguntar tú",
+      },
+      {
+        type: "paragraph",
+        text:
+          "La primera sesión no es un examen donde solo tú eres el examinado: también es tu momento para mirar. Este espacio, esta persona, esta manera de trabajar. Preguntar no molesta a ningún profesional serio; al contrario, es la forma más rápida de saber si ahí te quedarás. Algunas preguntas que puedes hacer sin ningún problema:",
+      },
+      {
+        type: "list",
+        items: [
+          "¿Qué experiencia tienes con motivos como el mío?",
+          "¿Cómo imaginas el proceso si seguimos: frecuencia, duración estimada, enfoque?",
+          "¿Qué ocurre si me veo mejor o peor de lo que esperaba en pocas semanas?",
+          "¿Cómo gestionamos las vacaciones, los cambios de sesión o las cancelaciones?",
+          "¿Trabajáis también online, o hay momentos del proceso que recomiendas presencial?",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "No hace falta hacerlas todas, ni en ese orden, ni todas el primer día. Pero llevar dos o tres escritas ayuda en ese final de sesión donde, de pronto, la mente se queda sin preguntas. Las más prácticas —precios, seguros, cómo llegar, cancelaciones— ya tienen respuesta en las preguntas frecuentes de nuestro centro; las más personales, en cambio, solo puedes hacerlas tú, allí.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Y hay una pregunta que mucha gente olvida hacer, quizá porque parece obvia: «¿qué pasa si, después de esta primera sesión, decido que no?». La respuesta debería ser siempre la misma: nada. La primera visita no compromete a continuar, y un profesional que te haga sentir lo contrario te está dando, precisamente, una información muy útil sobre si allí quieres volver.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Porque al final, esta sesión sirve para dos cosas a la vez: que el psicólogo entienda qué te trae y que tú compruebes si ese lugar te da seguridad. La calidad del vínculo terapéutico es uno de los factores que mejor predicen que un proceso funcione, y la primera sesión es donde ese vínculo empieza a existir.",
+      },
+      {
+        type: "heading",
+        text: "Mini-FAQ de la primera sesión",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto dura la primera sesión?",
+            answer:
+              "Entre 50 y 60 minutos. Suficiente para explicar el motivo de consulta, que el profesional haga sus preguntas y que salgas con una primera hipótesis de trabajo. No es una sesión más larga porque haya «más que contar»: la profundidad ya llegará en las siguientes.",
+          },
+          {
+            question: "¿Me tienen que decir el diagnóstico el primer día?",
+            answer:
+              "No necesariamente, y eso no es un retraso: es prudencia. El diagnóstico, si hay que formularlo, forma parte del proceso de evaluación, que a veces requiere una segunda sesión. El primer día se obtiene una hipótesis de trabajo, no una etiqueta cerrada.",
+          },
+          {
+            question: "¿Puedo ir acompañado o acompañada?",
+            answer:
+              "Puedes venir con quien quieras hasta la puerta y, si lo necesitas, esa persona puede esperarte en la sala de espera. La sesión, sin embargo, es individual: el material que en ella se trabaja es personal y el encuadre está pensado así. En terapia de pareja, claro, la lógica es otra: vais los dos.",
+          },
+          {
+            question: "¿Y si me quedo en blanco o no sé por dónde empezar?",
+            answer:
+              "No pasa nada, y es muy frecuente. Decir «no sé por dónde empezar» ya es un comienzo perfectamente válido: el profesional está entrenado para conducir la conversación desde ahí. Nadie te pide un discurso preparado.",
+          },
+          {
+            question: "¿Puedo pedir sesión online para la primera visita?",
+            answer:
+              "Sí, en Espai Emocions ofrecemos las dos modalidades para este primer contacto. La primera visita online funciona igual de bien para valorar el motivo de consulta; muchas personas la combinan después con sesiones presenciales. Sobre las diferencias entre las dos modalidades, tienes el artículo sobre terapia online versus presencial.",
+          },
         ],
       },
       {
