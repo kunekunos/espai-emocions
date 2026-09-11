@@ -34,7 +34,7 @@ articles:
     titulo: "Ampliación: primera sesión de psicología (guía completa)"
     tipo: ampliacion
     notas: "Ampliar de descripción breve a guía completa: qué preguntar tú al psicólogo, qué llevar, mini-FAQ con schema, enlaces a cuantas-sesiones-psicologia-necesito y frecuencia-sesiones-psicologia. Cuidado: no duplicar contenido del artículo nuevo ansiedad-antes-primera-sesion (ese es el ángulo previo/nervios, este es el ángulo dentro/estructura)."
-    estado: pendiente
+    estado: publicado
     orden: 5
 
   - slug: necesito-psicologo-como-saberlo
