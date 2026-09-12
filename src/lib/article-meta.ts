@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "hablar-de-dinero-en-la-pareja",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Els diners a la parella: el que de veritat es diu quan discutiu per xifres",
+    "titleES": "El dinero en la pareja: lo que de verdad se dice cuando discutís por cifras",
+    "excerptCA": "Hi ha discussions que comencen en un compte i acaben en una altra cosa: en qui contribueix més, en qui decideix, en qui va ser cuidat de nen. Els diners són un dels temes més discutits de la vida adulta i, alhora, dels menys parlats: es negocien xifres sense anomenar la por, la culpa o el reconeixement que hi ha a sota. Aquí explorem què representen de debò els diners, què diuen de la història de cada persona i com pot ajudar una teràpia a convertir un compte pendent en una conversa possible.",
+    "excerptES": "Hay discusiones que empiezan en una factura y terminan en otra cosa: en quién contribuye más, en quién decide, en quién fue cuidado de niño. El dinero es uno de los temas más discutidos de la vida adulta y, al mismo tiempo, de los menos hablados: se negocian cifras sin nombrar el miedo, la culpa o el reconocimiento que hay debajo. Aquí exploramos qué representa realmente el dinero, qué dice de la historia de cada persona y cómo puede ayudar una terapia a convertir una cuenta pendiente en una conversa posible.",
+    "datePublished": "2026-09-12"
+  },
+  {
     "slug": "parejas-reconstituidas-segunda-familia",
     "categoryCA": "Teràpia de parella",
     "categoryES": "Terapia de pareja",
