@@ -185,4 +185,185 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
-];
+  // ---------------------------------------------------------------------------
+  // 2. mudarse-de-ciudad-edad-adulta (cambios vitales / identidad adulta, 2026-09-13)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "mudarse-de-ciudad-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA:
+      "Mudar-se de ciutat en l'edat adulta: quan el teu mapa canvia i tu amb ell",
+    titleES:
+      "Mudarse de ciudad en la edad adulta: cuando tu mapa cambia y tú con él",
+    excerptCA:
+      "Canviar de ciutat amb trenta, quaranta o cinquanta anys no és el mateix que fer-ho amb vint. Ja no tens l'edat de les mudances romàntiques; tens una vida construïda, un ofici, vincles, potser una família. Aquí explorem per què costa tant, què es perd de veritat quan canvies de lloc i què significa fer-ho sense deixar-te una part a la carretera. Perquè mudar-se bé no va de mobles: va de saber qui ets quan ningú et recorda qui eres.",
+    excerptES:
+      "Cambiar de ciudad con treinta, cuarenta o cincuenta años no es lo mismo que hacerlo con veinte. Ya no tienes la edad de las mudanzas románticas; tienes una vida construida, un oficio, vínculos, quizá una familia. Aquí exploramos por qué cuesta tanto, qué se pierde de verdad cuando cambias de lugar y qué significa hacerlo sin dejarte una parte en la carretera. Porque mudarse bien no va de muebles: va de saber quién eres cuando nadie te recuerda quién eras.",
+    datePublished: "2026-09-13",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha mudances que es fan amb caixes i mudances que es fan amb anys. La primera vegada que canvies de ciutat sent adult, descobreixes una cosa. Els mobles es venen, es trenquen o es porten. Però el problema és una altra cosa: quan arribes al lloc nou, continues sent qui eres. I ja no hi ha ningú que ho sàpiga.",
+      },
+      {
+        type: "paragraph",
+        text: "A Barcelona això ho sabem bé. Aquesta ciutat rep cada any adults que arriben per feina o per amor. També en rep que fugen d'una vida que ja no aguantava on era. I en veu marxar. Encara que ho pensis amb una caixa a la mà, el fons és sempre el mateix. Qui sóc quan el meu context desapareix? En aquest article explorem què es mou per dintre d'una mudança adulta. També què cal doler. I com pot ajudar una teràpia a arrelar sense renunciar a la pròpia història.",
+      },
+      {
+        type: "heading",
+        text: "La il·lusió del començament de zero",
+      },
+      {
+        type: "paragraph",
+        text: "Molta gent decideix mudar-se amb una idea a la butxaca: tornar a començar. El lloc nou promet una versió neta de la vida. Sense deutes vells, sense etiquetes de sempre, sense aquells amics que ja saben massa coses de tu. De fet, aquesta promesa és certa a mitges, i la meitat falsa és la que fa mal.",
+      },
+      {
+        type: "paragraph",
+        text: "El que comences de zero és el context, no la persona. Arribes a la ciutat nova amb la teva manera de vincular-te. També amb el teu humor, les teves por i els teus recursos. A més, arribes sense testimonis: ningú no coneix la teva història, i això alleugereix i desorienta alhora. Hi ha qui se sent lliure la primera setmana i estrany el primer mes. Normalment no és contradicció: són dues parts del mateix procés. Tanmateix, qui confon la llibertat inicial amb la fi del viatge es queda a mig camí.",
+      },
+      {
+        type: "heading",
+        text: "Què es perd realment (i no sempre és el que penses)",
+      },
+      {
+        type: "paragraph",
+        text: "La mudança adulta trenca tres coses que solen passar desapercebudes. La primera és la rutina: aquella xarxa invisible de cues al mercat, el cafè de sempre, el camí conegut. Sembla poc important fins que desapareix, i llavors costa admetre quant sostenia el dia a dia. La segona són els vincles de proximitat. No els amics íntims, sinó la resta: veïns, companys, la gent que et reconeix. Aquesta capa social és un múscul que costa anys de construir i es perd en dies.",
+      },
+      {
+        type: "paragraph",
+        text: "I la tercera és la versió de tu mateix que només existia allà. A casa eres «el que sempre està tranquil», «la que organitza tot», «el fill gran». En canvi, al lloc nou aquestes etiquetes no hi són. Per a algunes persones és un descans immens. Per a d'altres, una pèrdua: descobreixen que necessitaven aquells miralls per saber qui eren. Ara bé, aquest descobriment, amb temps, pot ser el començament d'una identitat menys prestada. Ja vam escriure sobre aquella identitat adulta que ja no et reconeixes. La mudança n'és una de les seves portes d'entrada.",
+      },
+      {
+        type: "heading",
+        text: "El dol de la ciutat que deixes",
+      },
+      {
+        type: "paragraph",
+        text: "Gairebé ningú no parla del dol de mudar-se, i per això molta gent el viu sense nom. Es pensa: si he decidit jo, si això és el que volia, què he de doler? Però el dol no depèn de qui va decidir. La pèrdua és real encara que l'hagis triada. Has perdut paisatges, olors, la presència física de la gent que estimes, potser una llengua de cada dia. En aquest sentit, fer el dol d'un lloc no és feblesa. És donar a la teva història el lloc que li pertoca.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, hi ha dolences concretes que convé anomenar. La culpa cap als pares que envellitzen lluny. O cap als fills que canvien d'escola per una decisió que no han pres. També hi ha la nostàlgia anticipada: aquell buit que apareix abans de marxar, quan mires els llocs per última vegada. De fet, reconèixer aquestes emocions evita que es converteixin en irritabilitat, insomni o distància amb els teus. El que no s'expressa a la mudança, normalment surt d'una altra manera.",
+      },
+      {
+        type: "heading",
+        text: "Quan la mudança decideix per tu",
+      },
+      {
+        type: "paragraph",
+        text: "No totes les mudances són triades. Hi ha trasllats laborals imposats, ruptures que canvien de ciutat, pares que necessiten cura, economies que obliguen a marxar. En aquests casos, a tot l'anterior s'hi suma una capa de ràbia o de dol per la decisió aliena. La pregunta adulta és una altra: com tornar a agafar les regnes del que sí que depèn de tu. El ritme d'arrelament, les decisions petites, la manera d'habitar el lloc nou.",
+      },
+      {
+        type: "paragraph",
+        text: "En canvi, hi ha mudances que són una fugida amb bona premsa. Si el que deixes és un problema no resolt, el lloc nou no el resoldrà. Només li canviarà l'adreça. I una relació, un dol o una identitat que no suportaves viatgen molt bé. Això no vol dir que mudar-se sigui un error. Vol dir que convé distingir entre «vull una altra vida» i «no puc amb la meva». La primera és una decisió. La segona és una conversa pendent amb tu mateix, i potser amb un professional.",
+      },
+      {
+        type: "heading",
+        text: "Com pot ajudar una teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar una mudança a consulta no va de decidir si et quedes o marxes. Va de tres coses més senzilles i més profundes. Primer, posar paraules al que es mou: el dol sense nom, la culpa, l'excitació que també fa por. Segon, revisar la pregunta de fons: què busco en aquest lloc, què m'enduc, què deixo. I tercer, sostenir el temps de l'arrelament, que és lent i poc fotogènic.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una cosa que sol aparèixer a consulta amb qui acaba d'arribar a una ciutat. És la pressió d'estar bé de seguida. Tothom pregunta com estàs, i al capdavall respons que bé, perquè tothom espera que ho estiguis. Tanmateix, arrelar tarda el que tarda. Les amistats de debò no surten en tres mesos; la ciutat no és casa fins que acumula història. En definitiva, la teràpia ofereix el que el lloc nou encara no pot oferir. Un espai on no has de semblar adaptat. Un lloc on la teva història anterior compta, no estorba.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per endur-te",
+      },
+      {
+        type: "paragraph",
+        text: "Si ets a mig camí d'una mudança, o tot just has arribat, potser et serveix una pregunta. No és «començar de nou», que és massa monumental. Prova aquesta: què vols que continuï sent cert de tu, sigui on sigui que visquis? És una pregunta de valors, no de geografia. La resposta és el que viatja bé. La gent que estimes de debò, la manera de treballar, allò que et fa riure.",
+      },
+      {
+        type: "paragraph",
+        text: "Si tot això et toca, potser vols companyia per al viatge. A Espai Emocions acompanyem adults en processos de canvi vital, a Barcelona o online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense compromís i al teu ritme.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay mudanzas que se hacen con cajas y mudanzas que se hacen con años. La primera vez que cambias de ciudad siendo adulto, descubres una cosa. Los muebles se venden, se rompen o se llevan. Pero el problema es otra cosa: cuando llegas al lugar nuevo, sigues siendo quien eras. Y ya no hay nadie que lo sepa.",
+      },
+      {
+        type: "paragraph",
+        text: "En Barcelona esto lo sabemos bien. Esta ciudad recibe cada año adultos que llegan por trabajo o por amor. También recibe a quienes huyen de una vida que ya no aguantaba donde estaba. Y los ve marchar. Aunque lo pienses con una caja en la mano, el fondo es siempre el mismo. ¿Quién soy cuando mi contexto desaparece? En este artículo exploramos qué se mueve por dentro de una mudanza adulta. También qué hay que doler. Y cómo puede ayudar una terapia a echar raíces sin renunciar a la propia historia.",
+      },
+      {
+        type: "heading",
+        text: "La ilusión del comienzo desde cero",
+      },
+      {
+        type: "paragraph",
+        text: "Mucha gente decide mudarse con una idea en el bolsillo: volver a empezar. El lugar nuevo promete una versión limpia de la vida. Sin deudas viejas, sin etiquetas de siempre, sin esos amigos que ya saben demasiadas cosas de ti. De hecho, esa promesa es cierta a medias, y la mitad falsa es la que duele.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que empiezas desde cero es el contexto, no la persona. Llegas a la ciudad nueva con tu manera de vincularte. También con tu humor, tus miedos y tus recursos. Además, llegas sin testigos: nadie conoce tu historia, y eso aligera y desorienta a la vez. Hay quien se siente libre la primera semana y extraño el primer mes. Normalmente no es contradicción: son dos partes del mismo proceso. Ahora bien, quien confunde la libertad inicial con el final del viaje se queda a mitad de camino.",
+      },
+      {
+        type: "heading",
+        text: "Qué se pierde realmente (y no siempre es lo que piensas)",
+      },
+      {
+        type: "paragraph",
+        text: "La mudanza adulta rompe tres cosas que suelen pasar inadvertidas. La primera es la rutina: esa red invisible de colas en el mercado, el café de siempre, el camino conocido. Parece poco importante hasta que desaparece, y entonces cuesta admitir cuánto sostenía el día a día. La segunda son los vínculos de proximidad. No los amigos íntimos, sino el resto: vecinos, compañeros, la gente que te reconoce. Esa capa social es un músculo que tarda años en construirse y días en perderse.",
+      },
+      {
+        type: "paragraph",
+        text: "Y la tercera es la versión de ti que solo existía allí. En casa eras «el que siempre está tranquilo», «la que organiza todo», «el hijo mayor». En cambio, en el lugar nuevo esas etiquetas no están. Para algunas personas es un descanso inmenso. Para otras, una pérdida: descubren que necesitaban esos espejos para saber quiénes eran. Ahora bien, ese descubrimiento, con tiempo, puede ser el comienzo de una identidad menos prestada. Ya escribimos sobre esa identidad adulta que ya no te reconoces. La mudanza es una de sus puertas de entrada.",
+      },
+      {
+        type: "heading",
+        text: "El duelo por la ciudad que dejas",
+      },
+      {
+        type: "paragraph",
+        text: "Casi nadie habla del duelo de mudarse, y por eso mucha gente lo vive sin nombre. Piensas: si lo decidí yo, si esto es lo que quería, ¿qué tengo que doler? Sin embargo, el duelo no depende de quién decidió. La pérdida es real aunque la hayas elegido. Has perdido paisajes, olores, la presencia física de la gente que quieres, quizá una lengua de cada día. En este sentido, doler un lugar no es debilidad. Es darle a tu historia el lugar que le corresponde.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, hay duelos concretos que conviene nombrar. La culpa hacia los padres que envejecen lejos. O hacia los hijos que cambian de escuela por una decisión que no tomaron. También está la nostalgia anticipada: ese vacío que aparece antes de irte, cuando miras los sitios por última vez. De hecho, reconocer estas emociones evita que se conviertan en irritabilidad, insomnio o distancia con los tuyos. Lo que no se expresa en la mudanza, normalmente sale de otro modo.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la mudanza decide por ti",
+      },
+      {
+        type: "paragraph",
+        text: "No todas las mudanzas son elegidas. Hay traslados laborales impuestos, rupturas que cambian de ciudad, padres que necesitan cuidados, economías que obligan a marchar. En estos casos, a todo lo anterior se suma una capa de rabia o de duelo por la decisión ajena. La pregunta adulta es otra: cómo recuperar las riendas de lo que sí depende de ti. Por ejemplo, el ritmo de arraigo, las decisiones pequeñas, la manera de habitar el lugar nuevo.",
+      },
+      {
+        type: "paragraph",
+        text: "En cambio, hay mudanzas que son una huida con buena prensa. Si lo que dejas es un problema no resuelto, el lugar nuevo no lo resolverá. Solo le cambiará la dirección. Y una relación, un duelo o una identidad que no soportabas viajan muy bien. Esto no significa que mudarse sea un error. Significa que conviene distinguir entre «quiero otra vida» y «no puedo con la mía». La primera es una decisión. La segunda, en cambio, es una conversación pendiente contigo, y quizá con un profesional.",
+      },
+      {
+        type: "heading",
+        text: "Cómo puede ayudar una terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar una mudanza en consulta no va de decidir si te quedas o marchas. Va de tres cosas más sencillas y más profundas. Primero, poner palabras a lo que se mueve: el duelo sin nombre, la culpa, la excitación que también asusta. Segundo, revisar la pregunta de fondo: qué busco en este lugar, qué me llevo, qué dejo. Y tercero, sostener el tiempo del arraigo, que es lento y poco fotogénico.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una cosa que suele aparecer en consulta con quien acaba de llegar a una ciudad. Es la presión de estar bien enseguida. Todos preguntan cómo estás, y al final respondes que bien, porque todos esperan que lo estés. Sin embargo, echar raíces tarda lo que tarda. Las amistades de verdad no salen en tres meses; la ciudad no es casa hasta que acumula historia. En definitiva, la terapia ofrece lo que el lugar nuevo aún no puede ofrecer. Un espacio donde no tienes que parecer adaptado. Un lugar donde tu historia anterior cuenta, no estorba.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta para llevarte",
+      },
+      {
+        type: "paragraph",
+        text: "Si estás a mitad de camino de una mudanza, o acabas de llegar, quizá te sirva una pregunta. No es «empezar de nuevo», que es demasiado monumental. Prueba esta: ¿qué quieres que siga siendo cierto de ti, sea donde sea que vivas? Es una pregunta de valores, no de geografía. La respuesta es lo que viaja bien. La gente que quieres de verdad, la manera de trabajar, aquello que te hace reír.",
+      },
+      {
+        type: "paragraph",
+        text: "Si todo esto te toca, quizá quieras compañía para el viaje. En Espai Emocions acompañamos a adultos en procesos de cambio vital, en Barcelona u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin compromiso y a tu ritmo.",
+      },
+    ],
+  },
+]

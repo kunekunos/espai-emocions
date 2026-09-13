@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "mudarse-de-ciudad-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Mudar-se de ciutat en l'edat adulta: quan el teu mapa canvia i tu amb ell",
+    "titleES": "Mudarse de ciudad en la edad adulta: cuando tu mapa cambia y tú con él",
+    "excerptCA": "Canviar de ciutat amb trenta, quaranta o cinquanta anys no és el mateix que fer-ho amb vint. Ja no tens l'edat de les mudances romàntiques; tens una vida construïda, un ofici, vincles, potser una família. Aquí explorem per què costa tant, què es perd de veritat quan canvies de lloc i què significa fer-ho sense deixar-te una part a la carretera. Perquè mudar-se bé no va de mobles: va de saber qui ets quan ningú et recorda qui eres.",
+    "excerptES": "Cambiar de ciudad con treinta, cuarenta o cincuenta años no es lo mismo que hacerlo con veinte. Ya no tienes la edad de las mudanzas románticas; tienes una vida construida, un oficio, vínculos, quizá una familia. Aquí exploramos por qué cuesta tanto, qué se pierde de verdad cuando cambias de lugar y qué significa hacerlo sin dejarte una parte en la carretera. Porque mudarse bien no va de muebles: va de saber quién eres cuando nadie te recuerda quién eras.",
+    "datePublished": "2026-09-13"
+  },
+  {
     "slug": "hablar-de-dinero-en-la-pareja",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
