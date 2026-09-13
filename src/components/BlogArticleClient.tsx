@@ -5,7 +5,7 @@ import { ArrowLeft } from "lucide-react";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { Reveal } from "@/components/Reveal";
-import { useLanguage } from "@/lib/i18n";
+import { useLanguage, type Lang } from "@/lib/i18n";
 import { trackCtaClick } from "@/lib/analytics";
 import type { ArticleMeta } from "@/lib/article-meta";
 import type { ContentBlock, ArticleContent } from "@/lib/articles";
@@ -100,7 +100,7 @@ export function BlogArticleClient({
 
             <div className="mt-12 space-y-6">
               {blocks.map((block, index) => (
-                <BlockRenderer key={index} block={block} index={index} />
+                <BlockRenderer key={index} block={block} index={index} lang={lang} />
               ))}
             </div>
 
@@ -124,7 +124,15 @@ export function BlogArticleClient({
   );
 }
 
-function BlockRenderer({ block, index }: { block: ContentBlock; index: number }) {
+function BlockRenderer({
+  block,
+  index,
+  lang,
+}: {
+  block: ContentBlock;
+  index: number;
+  lang: "CA" | "ES";
+}) {
   const delay = Math.min(index * 50, 400);
 
   switch (block.type) {
@@ -196,6 +204,28 @@ function BlockRenderer({ block, index }: { block: ContentBlock; index: number })
             </Reveal>
           ))}
         </div>
+      );
+    case "related":
+      return (
+        <Reveal delay={delay}>
+          <div className="space-y-4 mt-8">
+            {block.items.map((item, itemIndex) => (
+              <Link
+                key={itemIndex}
+                href={`/blog/${item.slug}`}
+                className="block bg-card rounded-2xl p-6 border border-border/40 hover:border-primary/40 hover:shadow-md transition-all duration-300 group"
+              >
+                <h3 className="text-lg font-heading text-foreground mb-2 group-hover:text-primary transition-colors leading-snug">
+                  {item.title}
+                </h3>
+                <p className="text-sm text-foreground/60 leading-relaxed">{item.desc}</p>
+                <span className="inline-block mt-3 text-sm text-primary font-medium">
+                  {lang === "CA" ? "Llegir" : "Leer"} →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </Reveal>
       );
     default:
       return null;

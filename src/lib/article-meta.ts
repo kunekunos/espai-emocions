@@ -688,8 +688,8 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "¿Necesito un psicólogo?",
     "titleCA": "Com saber si necessito un psicòleg? Senyals clares",
     "titleES": "¿Cómo saber si necesito un psicólogo? Señales claras",
-    "excerptCA": "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment de forma sostinguda, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si \\",
-    "excerptES": "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento de forma sostenida, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si \\",
+    "excerptCA": "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment sostingut, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si «és per a tant» és, en si mateixa, una de les senyals més freqüents que veiem a consulta. Aquest article ordena els criteris que usem per orientar qui dubta: què és passatger, què no i com es valora tot en una primera sessió.",
+    "excerptES": "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento sostenido, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si «es para tanto» es, en sí misma, una de las señales más frecuentes que vemos en consulta. Este artículo ordena los criterios que usamos para orientar a quien duda: qué es pasajero, qué no lo es y cómo se valora todo en una primera sesión.",
     "datePublished": "2026-07-05"
   },
   {

@@ -8,7 +8,11 @@ export type ContentBlock =
   | { type: "subheading"; text: string }
   | { type: "list"; items: string[] }
   | { type: "tips"; tips: { title: string; desc: string; how: string }[] }
-  | { type: "faq"; items: { question: string; answer: string }[] };
+  | { type: "faq"; items: { question: string; answer: string }[] }
+  | {
+      type: "related";
+      items: { slug: string; title: string; desc: string }[];
+    };
 
 export interface ArticleContent {
   slug: string;

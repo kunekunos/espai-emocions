@@ -1685,9 +1685,9 @@ export const articlesPart2: ArticleContent[] = [
     titleCA: "Com saber si necessito un psicòleg? Senyals clares",
     titleES: "¿Cómo saber si necesito un psicólogo? Señales claras",
     excerptCA:
-      "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment de forma sostinguda, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si \"és per a tant\" és, ella mateixa, una de les senyals més freqüents.",
+      "Convé buscar un psicòleg quan el malestar emocional persisteix setmanes, interfereix en el teu dia a dia i no es resol sol. No cal estar en crisi ni tenir un diagnòstic: si alguna cosa et limita, et preocupa o et genera patiment sostingut, un professional pot ajudar-te a entendre-ho i a treballar-ho. El dubte sobre si «és per a tant» és, en si mateixa, una de les senyals més freqüents que veiem a consulta. Aquest article ordena els criteris que usem per orientar qui dubta: què és passatger, què no i com es valora tot en una primera sessió.",
     excerptES:
-      "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento de forma sostenida, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si \"es para tanto\" es, ella misma, una de las señales más frecuentes.",
+      "Conviene buscar un psicólogo cuando el malestar emocional persiste semanas, interfiere en tu día a día y no se resuelve solo. No hace falta estar en crisis ni tener un diagnóstico: si algo te limita, te preocupa o te genera sufrimiento sostenido, un profesional puede ayudarte a entenderlo y a trabajarlo. La duda sobre si «es para tanto» es, en sí misma, una de las señales más frecuentes que vemos en consulta. Este artículo ordena los criterios que usamos para orientar a quien duda: qué es pasajero, qué no lo es y cómo se valora todo en una primera sesión.",
     datePublished: "2026-07-05",
     blocksCA: [
       {
@@ -1739,7 +1739,7 @@ export const articlesPart2: ArticleContent[] = [
       {
         type: "paragraph",
         text:
-          "Cap senyal aïllada és un diagnòstic. Però quan diverses coincideixen i es mantenen un temps raonable, esperar que passin soles rarament és la millor opció.",
+          "Cap senyal aïllada és un diagnòstic. Però quan diverses coincideixen i es mantenen un temps raonable, esperar que passin soles rarament és la millor opció. Si vols anar més enllà d'aquesta llista, hem escrit una peça complementària amb dotze senyals que convé deixar de normalitzar,article:senales-que-necesitas-terapia on cada senyal es desplega amb calma i remet al text que l'aprofundeix.",
       },
       {
         type: "heading",
@@ -1787,6 +1787,28 @@ export const articlesPart2: ArticleContent[] = [
         type: "paragraph",
         text:
           "Si allò que has llegit aquí et ressona, el més senzill és donar un primer pas concret. Pots escriure'ns i la Carmen o l'Esteve atendran personalment la teva consulta dins l'horari del centre.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article és el punt d'entrada d'una col·lecció: al llarg d'aquests mesos hem anat escrivint, una per una, les senyals que aquí només apuntem. A sota trobaràs els tretze textos que conformen aquesta col·lecció, amb una breu descripció de cadascun: si alguna cosa t'ha sonat mentre llegies això, és probable que trobis el teu tema.",
+      },
+      {
+        type: "related",
+        items: [
+          { slug: "senales-que-necesitas-terapia", title: "Senyals que necessites teràpia: 12 símptomes que convé deixar de normalitzar", desc: "El complement detallat d'aquest article: dotze senyals, una per una, cadascuna amb el seu text específic." },
+          { slug: "es-normal-estar-irritable-todo-el-tiempo", title: "És normal estar irritable tot el temps?", desc: "La irritabilitat sostinguda: una de les senyals més freqüents i més ignorades." },
+          { slug: "burnout-o-cansancio-como-distinguir", title: "Burnout o cansament: com distingir-los", desc: "Quan l'esgotament no marxa amb vacances, el nom del problema sol ser un altre." },
+          { slug: "cuerpo-dice-cabeza-calla-somatizar-tension", title: "Quan el cos diu el que el cap calla", desc: "La somatització: com reconèixer la tensió que s'expressa per vies físiques." },
+          { slug: "perfeccionismo-paraliza-adultos", title: "Quan el perfeccionisme paralitza", desc: "Deixar d'exigir-se tant no és rendir-se: és recuperar la vida que s'estava esperant." },
+          { slug: "pedir-ayuda-adultos-competentes", title: "La dificultat de demanar ajuda a l'edat adulta", desc: "Com millor funciona una persona, més sola sosté. Per què, i com sortir-ne." },
+          { slug: "malestar-sin-nombre-cuando-algo-no-encaixa", title: "Malestar sense nom: quan alguna cosa no encaixa", desc: "La senyal més difusa i una de les més reals: alguna cosa no va bé i encara no té paraules." },
+          { slug: "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas", title: "Quan tot costa més: els estats depressius adults", desc: "No totes les baixades tenen llàgrimes: així es veuen per dins a l'edat adulta." },
+          { slug: "tdah-adultos-como-reconocerlo", title: "TDAH en adults: senyals que passen desapercebudes", desc: "Distracció, desorganització i impulsivitat que ningú va saber anomenar a temps." },
+          { slug: "culpa-que-no-descansa-adultos", title: "La culpa que no descansa", desc: "Sentir-se responsable de tot no és maduresa: és una càrrega que es pot treballar." },
+          { slug: "ira-tardia-edad-adulta-cuando-lo-que-no-se-dijo-vuelve", title: "La ira tardana", desc: "Quan allò que no es va dir torna anys després, amb una força que sorprèn." },
+          { slug: "cuando-parar-da-miedo-el-descanso-que-no-llega", title: "Quan parar fa por", desc: "Per què a alguns adults els costa tant aturar-se, i què hi ha darrere." },
+          { slug: "psicologo-o-coach-diferencias", title: "Psicòleg o coach: quin necessites?", desc: "Dues figures que es confonen sovint; aquí, les fronteres clares." },
+        ],
       },
       {
         type: "heading",
@@ -1868,7 +1890,7 @@ export const articlesPart2: ArticleContent[] = [
       {
         type: "paragraph",
         text:
-          "Ninguna señal aislada es un diagnóstico. Pero cuando varias coinciden y se mantienen un tiempo razonable, esperar a que pasen solas rara vez es la mejor opción.",
+          "Ninguna señal aislada es un diagnóstico. Pero cuando varias coinciden y se mantienen un tiempo razonable, esperar a que pasen solas rara vez es la mejor opción. Si quieres ir más allá de esta lista, hemos escrito una pieza complementaria con doce señales que conviene dejar de normalizar,article:senales-que-necesitas-terapia donde cada señal se despliega con calma y remite al texto que la profundiza.",
       },
       {
         type: "heading",
@@ -1916,6 +1938,28 @@ export const articlesPart2: ArticleContent[] = [
         type: "paragraph",
         text:
           "Si lo que has leído aquí te resuena, el paso más sencillo es escribirnos. Carmen o Esteve atenderán personalmente tu consulta dentro del horario del centro.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo es el punto de entrada de una colección: a lo largo de estos meses hemos ido escribiendo, una a una, las señales que aquí solo apuntamos. Abajo encontrarás los trece textos que la conforman, con una breve descripción de cada uno: si algo te ha sonado mientras leías esto, es probable que encuentres tu tema.",
+      },
+      {
+        type: "related",
+        items: [
+          { slug: "senales-que-necesitas-terapia", title: "Señales de que necesitas terapia: 12 síntomas que conviene dejar de normalizar", desc: "El complemento detallado de este artículo: doce señales, una por una, cada una con su texto específico." },
+          { slug: "es-normal-estar-irritable-todo-el-tiempo", title: "¿Es normal estar irritable todo el tiempo?", desc: "La irritabilidad sostenida: una de las señales más frecuentes y más ignoradas." },
+          { slug: "burnout-o-cansancio-como-distinguir", title: "Burnout o cansancio: cómo distinguirlos", desc: "Cuando el agotamiento no se va con vacaciones, el nombre del problema suele ser otro." },
+          { slug: "cuerpo-dice-cabeza-calla-somatizar-tension", title: "Cuando el cuerpo dice lo que la cabeza calla", desc: "La somatización: cómo reconocer la tensión que se expresa por vías físicas." },
+          { slug: "perfeccionismo-paraliza-adultos", title: "Cuando el perfeccionismo paraliza", desc: "Dejar de exigirse tanto no es rendirse: es recuperar la vida que estaba esperando." },
+          { slug: "pedir-ayuda-adultos-competentes", title: "La dificultad de pedir ayuda en la edad adulta", desc: "Cuanto mejor funciona una persona, más sola sostiene. Por qué, y cómo salir de ahí." },
+          { slug: "malestar-sin-nombre-cuando-algo-no-encaixa", title: "Malestar sin nombre: cuando algo no encaja", desc: "La señal más difusa y una de las más reales: algo no va bien y todavía no tiene palabras." },
+          { slug: "estados-depresivos-edad-adulta-cuando-todo-cuesta-mas", title: "Cuando todo cuesta más: los estados depresivos adultos", desc: "No todos los bajones tienen lágrimas: así se ven por dentro en la edad adulta." },
+          { slug: "tdah-adultos-como-reconocerlo", title: "TDAH en adultos: señales que pasan desapercibidas", desc: "Distracción, desorganización e impulsividad que nadie supo nombrar a tiempo." },
+          { slug: "culpa-que-no-descansa-adultos", title: "La culpa que no descansa", desc: "Sentirse responsable de todo no es madurez: es una carga que se puede trabajar." },
+          { slug: "ira-tardia-edad-adulta-cuando-lo-que-no-se-dijo-vuelve", title: "La ira tardía", desc: "Cuando lo que no se dijo vuelve años después, con una fuerza que sorprende." },
+          { slug: "cuando-parar-da-miedo-el-descanso-que-no-llega", title: "Cuando parar da miedo", desc: "Por qué a algunos adultos les cuesta tanto pararse, y qué hay detrás." },
+          { slug: "psicologo-o-coach-diferencias", title: "Psicólogo o coach: ¿cuál necesitas?", desc: "Dos figuras que se confunden a menudo; aquí, las fronteras claras." },
+        ],
       },
       {
         type: "heading",

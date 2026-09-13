@@ -3,7 +3,11 @@ import fs from 'fs';
 
 function extractMeta(file) {
   const content = fs.readFileSync(file, 'utf8');
-  const matches = [...content.matchAll(/slug:\s*"([^"]+)"[\s\S]*?categoryCA:\s*"([^"]+)"[\s\S]*?categoryES:\s*"([^"]+)"[\s\S]*?titleCA:\s*"([^"]+)"[\s\S]*?titleES:\s*"([^"]+)"[\s\S]*?excerptCA:\s*"([^"]+)"[\s\S]*?excerptES:\s*"([^"]+)"[\s\S]*?datePublished:\s*"([^"]+)"/g)];
+  // Coincide solo con slugs a nivel de artículo: clave "slug" iniciando línea
+  // (cualquier sangría: los archivos históricos tienen 2/4/8 espacios), seguida
+  // de los metadatos del artículo. Así se ignoran los slugs anidados en una
+  // misma línea (p. ej. bloques "related" con { slug: ... }).
+  const matches = [...content.matchAll(/^[ \t]*slug:\s*"([^"]+)"[\s\S]*?categoryCA:\s*"([^"]+)"[\s\S]*?categoryES:\s*"([^"]+)"[\s\S]*?titleCA:\s*"([^"]+)"[\s\S]*?titleES:\s*"([^"]+)"[\s\S]*?excerptCA:\s*"([^"]+)"[\s\S]*?excerptES:\s*"([^"]+)"[\s\S]*?datePublished:\s*"([^"]+)"/gm)];
   return matches.map(m => ({
     slug: m[1], categoryCA: m[2], categoryES: m[3],
     titleCA: m[4], titleES: m[5],
