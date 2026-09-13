@@ -41,7 +41,7 @@ articles:
     titulo: "Consolidación: cómo saber si necesito un psicólogo (pilar del cluster)"
     tipo: ampliacion
     notas: "Añadir bloque Artículos relacionados hacia los 13 artículos de la categoría ¿Necesito un psicólogo?. Corregir excerpt truncado en article-meta.ts y en el CMS. Enlace al nuevo senales-que-necesitas-terapia."
-    estado: pendiente
+    estado: publicado
     orden: 6
 
   - slug: precio-psicologo-barcelona
