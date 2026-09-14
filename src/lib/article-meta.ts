@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "cambiar-de-profesion-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Canviar de professió en l'edat adulta: quan l'ofici ja no diu qui ets",
+    "titleES": "Cambiar de profesión en la edad adulta: cuando el oficio ya no dice quién eres",
+    "excerptCA": "Un currículum diu què saps fer; gairebé mai no diu qui ets. Per això canviar de professió als quaranta o als cinquanta no és només un càlcul de sous i mercats: és preguntar-se què queda de tu si deixa de ser cert allò que explicaves als sopars. Aquí explorem per què l'ofici pesa tant en la identitat adulta, com distingir un canvi madurat d'una fugida i què pot aportar una teràpia en aquest trànsit, sense prometre vocacions amagades ni rebrots absoluts.",
+    "excerptES": "Un currículum dice lo que sabes hacer; casi nunca dice quién eres. Por eso cambiar de profesión a los cuarenta o a los cincuenta no es solo un cálculo de sueldos y mercados: es preguntarse qué queda de ti si deja de ser cierto aquello que contabas en las cenas. Aquí exploramos por qué el oficio pesa tanto en la identidad adulta, cómo distinguir un cambio madurado de una huida y qué puede aportar una terapia en ese tránsito, sin prometer vocaciones escondidas ni rebotes definitivos.",
+    "datePublished": "2026-09-14"
+  },
+  {
     "slug": "mudarse-de-ciudad-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",

@@ -366,4 +366,185 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 3. cambiar-de-profesion-edad-adulta (cambios vitales / identidad adulta, 2026-09-14)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "cambiar-de-profesion-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA:
+      "Canviar de professió en l'edat adulta: quan l'ofici ja no diu qui ets",
+    titleES:
+      "Cambiar de profesión en la edad adulta: cuando el oficio ya no dice quién eres",
+    excerptCA:
+      "Un currículum diu què saps fer; gairebé mai no diu qui ets. Per això canviar de professió als quaranta o als cinquanta no és només un càlcul de sous i mercats: és preguntar-se què queda de tu si deixa de ser cert allò que explicaves als sopars. Aquí explorem per què l'ofici pesa tant en la identitat adulta, com distingir un canvi madurat d'una fugida i què pot aportar una teràpia en aquest trànsit, sense prometre vocacions amagades ni rebrots absoluts.",
+    excerptES:
+      "Un currículum dice lo que sabes hacer; casi nunca dice quién eres. Por eso cambiar de profesión a los cuarenta o a los cincuenta no es solo un cálculo de sueldos y mercados: es preguntarse qué queda de ti si deja de ser cierto aquello que contabas en las cenas. Aquí exploramos por qué el oficio pesa tanto en la identidad adulta, cómo distinguir un cambio madurado de una huida y qué puede aportar una terapia en ese tránsito, sin prometer vocaciones escondidas ni rebotes definitivos.",
+    datePublished: "2026-09-14",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Un currículum diu què saps fer. Gairebé mai no diu qui ets. I, tanmateix, moltes persones adultes no saben separar les dues coses: quan la feina va malament, senten que elles van malament. Per això la idea de canviar de professió als quaranta —o als cinquanta— desperta un vertigen particular. No és només un càlcul de sous i de mercats. És preguntar-se què queda de tu si deixa de ser cert allò que explicaves als sopars.",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta aquesta pregunta arriba cada vegada més, i poques vegades arriba sola. Es presenta com a cansament, com un diumenge a la nit impossible, com una enveja sana cap a qui va fer el canvi que tu vas ajornar. En aquest article explorem tres coses. Primera, per què l'ofici pesa tant en la identitat adulta. Segona, com distingir un canvi madurat d'una fugida. I tercera, què pot aportar una teràpia en aquest trànsit.",
+      },
+      {
+        type: "heading",
+        text: "El que el treball sostén (i no és només la nòmina)",
+      },
+      {
+        type: "paragraph",
+        text: "El treball organitza la vida adulta més del que admetem. Dóna estructura al dia, un lloc social, una resposta a la pregunta «a què et dediques». A més, durant anys funciona com un mirall: en ell et reconeixes capaç, útil, situat. Per això, quan l'ofici deixa de sostenir, no cau només el sou. També trontolla la història que explicaves sobre tu.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, hi ha persones que descobreixen tard que la seva identitat es va construir gairebé tota al voltant de l'ofici. «Sóc advocada», «sóc metge», «sóc docent». Ara bé, aquesta frase amaga la resta: els valors, els vincles, el sentit de l'humor. Quan l'ofici tremola, la persona sencera sent que tremola. Normalment no és així. Però cal temps —i distància— per comprovar-ho.",
+      },
+      {
+        type: "heading",
+        text: "Per què costa més als quaranta",
+      },
+      {
+        type: "paragraph",
+        text: "Canviar de carrera als vint-i-cinc anys és un risc; als quaranta, sembla una aposta contra tu mateix. Pesen els anys de formació, la jerarquia conquerida, les hipoteques, l'edat que es llegeix a les ofertes. En aquest sentit, el mercat és real i no convé idealitzar-lo. Tanmateix, gairebé sempre l'obstacle més dur no és extern. És la idea de començar de zero davant dels altres.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una culpa concreta que apareix a consulta: la sensació de llençar per la borda allò construït. A més, hi ha la por al judici («i ara què faràs?»). I sobretot hi ha el temps: als quaranta, una mala elecció ja no sembla corregible en una altra dècada. En canvi, la mateixa edat que estreny també regala una cosa que als vint no existia. Et permet saber millor qui ets i què no estàs disposat a repetir.",
+      },
+      {
+        type: "heading",
+        text: "La il·lusió de la vocació amagada",
+      },
+      {
+        type: "paragraph",
+        text: "El canvi de professió se sol buscar amb una idea romàntica: que en algun lloc hi ha una vocació veritable esperant ser trobada. Ara bé, la majoria de carreres adultes són construccions, no crides. Es van triar amb la informació d'aleshores, amb el context d'aleshores i amb les parts de tu que aleshores manaven.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això la pregunta útil no és «quina és la meva vertadera vocació», sinó una altra: quines parts de mi van quedar fora del camí? La curiositat que vas aparcar, la manera de treballar que trobes a faltar, els valors que l'oficina va anar erosionant. En definitiva, el canvi no sempre vol dir descobrir una cosa nova. A vegades vol dir tornar a una cosa que sabies i vas abandonar.",
+      },
+      {
+        type: "heading",
+        text: "Quan el malestar no ve del treball",
+      },
+      {
+        type: "paragraph",
+        text: "Cal una cautela: no tot el malestar amb la feina és de la feina. Un equip tòxic, un cap concret o una fase d'esgotament poden semblar un senyal vocacional. També al revés: a vegades el treball fa de pantalla d'alguna cosa més àmplia —una crisi vital, un dol, una relació que ja no sostén—. En aquests casos, se li demana al canvi de carrera el que només una conversa més fonda pot donar.",
+      },
+      {
+        type: "paragraph",
+        text: "Distingir-ho importa perquè les decisions preses enmig de la boira surten cares. Per exemple, hi ha qui dimiteix en plena fase d'esgotament i, dos anys després, a l'ofici nou, troba el mateix cansament amb un altre nom. El problema va viatjar amb la persona. No sempre passa, però a vegades sí. Per això convé decidir amb calma allò que es pot decidir amb calma.",
+      },
+      {
+        type: "heading",
+        text: "Què pot fer una teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar el canvi professional a consulta no consisteix a què un psicòleg et digui a què dedicar-te. Això no és teràpia. Consisteix a ordenar el que es mou per sota: què sosté la teva identitat, quins valors es van sentir traïts, quina por mana, quina part de la història demana fidelitat. A partir d'aquí, la decisió torna a ser teva. Però la pren una persona més lliure.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, una teràpia sostén el temps del trànsit, que sol ser llarg i poc espectacular: la formació paral·lela, la incertesa dels mesos intermedis, els sopars en què encara no tens resposta. En aquest espai també es distingeix l'urgent de l'important. Al capdavall, madurar una decisió professional és un procés semblant als altres processos adults. No va d'encertar i prou: va d'encertar amb coherència.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per endur-te",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquest tema t'ocupa, potser et serveix una pregunta menys monumental que «què faria si pogués?». Prova aquesta: què és el mínim que vols continuar tenint a la teva vida d'aquí a deu anys, i quina feina ho fa possible? A vegades la resposta sorprèn. Altres, en canvi, confirma el que ja sospitaves, i això també alleugereix.",
+      },
+      {
+        type: "paragraph",
+        text: "Si vols pensar aquest canvi amb acompanyament, a Espai Emocions treballem amb adults en processos de transició vital i professional, a Barcelona o online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense compromís i al teu ritme.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Un currículum dice lo que sabes hacer. Casi nunca dice quién eres. Y, sin embargo, muchas personas adultas no saben separar una cosa de la otra: cuando el trabajo va mal, sienten que ellas van mal. Por eso la idea de cambiar de profesión a los cuarenta —o a los cincuenta— despierta un vértigo particular. No es solo un cálculo de sueldos y mercados. Es preguntarse qué queda de ti si deja de ser cierto aquello que contabas en las cenas.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta esta pregunta llega cada vez más, y rara vez llega sola. Se presenta como cansancio, como un domingo por la noche imposible, como una envidia sana hacia quien hizo el cambio que tú aplazaste. En este artículo exploramos tres cosas. Primera, por qué el oficio pesa tanto en la identidad adulta. Segunda, cómo distinguir un cambio madurado de una huida. Y tercera, qué puede aportar una terapia en ese tránsito.",
+      },
+      {
+        type: "heading",
+        text: "Lo que el trabajo sostiene (y no es solo la nómina)",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo organiza la vida adulta más de lo que admitimos. Da estructura al día, un lugar social, una respuesta a la pregunta «a qué te dedicas». Además, durante años funciona como un espejo: en él te reconoces capaz, útil, situado. Por eso, cuando el oficio deja de sostener, no se cae solo el sueldo. También se tambalea la historia que contabas sobre ti.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, hay personas que descubren tarde que su identidad se construyó casi entera alrededor del oficio. «Soy abogada», «soy médico», «soy docente». Ahora bien, esa frase esconde el resto: los valores, los vínculos, el sentido del humor. Cuando el oficio tiembla, la persona entera siente que tiembla. Normalmente no es así. Pero se necesita tiempo —y distancia— para comprobarlo.",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta más a los cuarenta",
+      },
+      {
+        type: "paragraph",
+        text: "Cambiar de carrera con veinticinco años es un riesgo; con cuarenta, parece una apuesta contra ti mismo. Pesan los años de formación, la jerarquía conquistada, las hipotecas, la edad que se lee en las ofertas. En este sentido, el mercado es real y no conviene idealizarlo. Sin embargo, casi siempre el obstáculo más duro no es externo. Es la idea de empezar de cero delante de los demás.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una culpa concreta que aparece en consulta: la sensación de tirar por la borda lo construido. Además, está el miedo al juicio («¿y ahora qué harás?»). Y sobre todo el tiempo: a los cuarenta, una mala elección ya no parece corregible en otra década. En cambio, la misma edad que aprieta también regala algo que a los veinte no existía. Te permite saber mejor quién eres y qué no estás dispuesto a repetir.",
+      },
+      {
+        type: "heading",
+        text: "La ilusión de la vocación escondida",
+      },
+      {
+        type: "paragraph",
+        text: "El cambio de profesión suele buscarse con una idea romántica: que en algún lugar hay una vocación verdadera esperando ser encontrada. Ahora bien, la mayoría de las carreras adultas son construcciones, no llamadas. Se eligieron con la información de entonces, con el contexto de entonces y con las partes de ti que entonces mandaban.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso la pregunta útil no es «cuál es mi verdadera vocación», sino otra: ¿qué partes de mí quedaron fuera del camino? La curiosidad que aparcaste, la manera de trabajar que echas de menos, los valores que la oficina fue erosionando. En definitiva, el cambio no siempre significa descubrir algo nuevo. A veces significa volver a algo que sabías y abandonaste.",
+      },
+      {
+        type: "heading",
+        text: "Cuando el malestar no viene del trabajo",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene una cautela: no todo el malestar con el trabajo es del trabajo. Un equipo tóxico, un jefe concreto o una fase de agotamiento pueden parecer una señal vocacional. También al revés: a veces el trabajo funciona como pantalla de algo más ancho —una crisis vital, un duelo, una relación que ya no sostiene—. En esos casos, se le pide al cambio de carrera lo que solo una conversación más honda puede dar.",
+      },
+      {
+        type: "paragraph",
+        text: "Distinguirlo importa porque las decisiones tomadas en medio de la niebla salen caras. Por ejemplo, hay quien dimite en pleno burnout y, dos años después, en el oficio nuevo, encuentra el mismo cansancio con otro nombre. El problema viajó con la persona. No siempre ocurre, pero a veces sí. Por eso conviene decidir con calma aquello que se puede decidir con calma.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede hacer una terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajar el cambio profesional en consulta no consiste en que un psicólogo te diga a qué dedicarte. Eso no es terapia. Consiste en ordenar lo que se mueve por debajo: qué sostiene tu identidad, qué valores se sintieron traicionados, qué miedo manda, qué parte de la historia exige fidelidad. A partir de ahí, la decisión vuelve a ser tuya. Pero la toma una persona más libre.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, una terapia sostiene el tiempo del tránsito, que suele ser largo y poco espectacular: la formación paralela, la incertidumbre de los meses intermedios, las cenas en las que aún no tienes respuesta. En este espacio también se distingue lo urgente de lo importante. Al final, madurar una decisión profesional es un proceso parecido a los demás procesos adultos. No va de acertar sin más: va de acertar con coherencia.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta para llevarte",
+      },
+      {
+        type: "paragraph",
+        text: "Si este tema te ocupa, quizá te sirva una pregunta menos monumental que «¿qué haría si pudiera?». Prueba esta: ¿qué es lo mínimo que quieres seguir teniendo en tu vida de aquí a diez años, y qué trabajo lo hace posible? A veces la respuesta sorprende. Otras, en cambio, confirma lo que ya sospechabas, y eso también aligera.",
+      },
+      {
+        type: "paragraph",
+        text: "Si quieres pensar este cambio con acompañamiento, en Espai Emocions trabajamos con adultos en procesos de transición vital y profesional, en Barcelona u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin compromiso y a tu ritmo.",
+      },
+    ],
+  },
 ]
