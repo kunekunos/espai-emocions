@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "perder-padre-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Perdre un pare o una mare en l'edat adulta: el dol que arriba quan ja ets gran",
+    "titleES": "Perder a un padre o a una madre en la edad adulta: el duelo que llega cuando ya eres mayor",
+    "excerptCA": "Quan es mor un pare o una mare ja no ets nen, però el dolor té una edat antiga que no coincideix amb la teva. Perdre un progenitor als quaranta o als cinquanta vol dir descobrir qui ets sense la persona que va ser la teva primera referència, reorganitzar la família que queda i, a vegades, fer el dol d'una relació que va ser difícil. Aquí explorem per què aquest dol descol·loca tant, què fa diferent viure'l en l'edat adulta i com pot ajudar una teràpia a sostenir-lo.",
+    "excerptES": "Cuando muere un padre o una madre ya no eres niño, pero el dolor tiene una edad antigua que no coincide con la tuya. Perder a un progenitor a los cuarenta o a los cincuenta significa descubrir quién eres sin la persona que fue tu primera referencia, reorganizar la familia que queda y, a veces, hacer el duelo de una relación que fue difícil. Aquí exploramos por qué este duelo descoloca tanto, qué hace diferente vivirlo en la edad adulta y cómo puede ayudar una terapia a sostenerlo.",
+    "datePublished": "2026-09-15"
+  },
+  {
     "slug": "cambiar-de-profesion-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",

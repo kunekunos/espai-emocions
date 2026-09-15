@@ -547,4 +547,185 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. perder-padre-edad-adulta (cambios vitales / duelo adulto, 2026-09-15)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "perder-padre-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA:
+      "Perdre un pare o una mare en l'edat adulta: el dol que arriba quan ja ets gran",
+    titleES:
+      "Perder a un padre o a una madre en la edad adulta: el duelo que llega cuando ya eres mayor",
+    excerptCA:
+      "Quan es mor un pare o una mare ja no ets nen, però el dolor té una edat antiga que no coincideix amb la teva. Perdre un progenitor als quaranta o als cinquanta vol dir descobrir qui ets sense la persona que va ser la teva primera referència, reorganitzar la família que queda i, a vegades, fer el dol d'una relació que va ser difícil. Aquí explorem per què aquest dol descol·loca tant, què fa diferent viure'l en l'edat adulta i com pot ajudar una teràpia a sostenir-lo.",
+    excerptES:
+      "Cuando muere un padre o una madre ya no eres niño, pero el dolor tiene una edad antigua que no coincide con la tuya. Perder a un progenitor a los cuarenta o a los cincuenta significa descubrir quién eres sin la persona que fue tu primera referencia, reorganizar la familia que queda y, a veces, hacer el duelo de una relación que fue difícil. Aquí exploramos por qué este duelo descoloca tanto, qué hace diferente vivirlo en la edad adulta y cómo puede ayudar una terapia a sostenerlo.",
+    datePublished: "2026-09-15",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una frase que es repeteix a consulta cada vegada que algú perd un progenitor sent adult: «Sé que és normal, però no em recuperava d'això». La mort d'un pare o d'una mare és l'esperada de totes: saps que arribarà, l'has vista acostar-se potser durant anys. Tanmateix, quan passa, moltes persones competents i ordenades es descobreixen incapaços de continuar amb la vida que tenien perfectament muntada.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article parla d'això: del dol per un progenitor en l'edat adulta. Primer, per què descol·loca tant una pèrdua tan anunciada. Després, què té de particular fer-lo quan ja no ets jove. I finalment, com pot intervenir-hi una teràpia. Perquè aquest dol no va només de dir adéu a una persona: va de descobrir qui ets sense la teva primera referència.",
+      },
+      {
+        type: "heading",
+        text: "La pèrdua que tothom espera i ningú no coneix",
+      },
+      {
+        type: "paragraph",
+        text: "La mort d'un pare és, estadísticament, la pèrdua més freqüent de la vida adulta. Per això l'entorn hi sol respondre amb una compassió ràpida: «ja era gran», «ho havia d'esperar», «almenys va poder viure molt». Cada una d'aquestes frases vol protegir. Però, de fet, deixen la persona sola amb una sofrença que no té vocabulari: no pots queixar-te d'una cosa que el món considera previsible.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, hi ha un silenci particular: ningú no et demana explicaçions si falles per un fill o per un matrimoni, però perdre un pare setantenni no sembla prou «catastròfic» per aturar una vida. En conseqüència, molts adults endolats mengen el dol a mossegades petites, entre reunions, i s'exigeixen estar bé abans d'hora. Ara bé, el dol no va per edats del difunt. Va pel lloc que la persona ocupava en tu.",
+      },
+      {
+        type: "heading",
+        text: "El lloc que ningú més pot ocupar",
+      },
+      {
+        type: "paragraph",
+        text: "Un pare o una mare és la primera presència de la qual vas dependre per existir. Amb ells es va aprendre què era el món, què es podia demanar, què s'havia d'ocultar. Per això la seva mort no treu només una persona estimada: retira l'últim testimoni de la teva infantesa. És a dir, el teu vincle amb els teus orígens queda en mans de la teva memòria i dels teus germans, si n'hi ha.",
+      },
+      {
+        type: "paragraph",
+        text: "Això explica una experiència que molts adults descriuen amb vergonya: sentir-se, de sobte, orfe. Amb quaranta-cinc anys, amb una carrera, una casa i fills propis, apareix una sensació de desembarcament que ningú no havia avisat. No és una regressió ni una feblesa. És la manera que té la psique de dir que ha caigut un suport estructural. I les estructures, quan cauen, no es plànynen: s'endinsen.",
+      },
+      {
+        type: "heading",
+        text: "Fills adults, dol d'adults",
+      },
+      {
+        type: "paragraph",
+        text: "Viure aquesta pèrdua amb trenta, quaranta o cinquanta anys té especificitats que sovint queden sense nom. La primera: la mort arriba sovint després d'una llarga vellesa del pare, amb anys de deteriorament que ja van exigir un dol anticipat. Molts adults arriben al dia final esgotats de cuidar i, en canvi, el dolor els agafa igual. La segona: el dol conviu amb la vida productiva, i l'entorn espera normalitat en temps rècord.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una tercera especificitat, més subtil: amb els anys, la relació amb un pare sol ser complexa. Hi ha coses que mai no es van dir, reconciliacions a mitges, deutes emocionals. Per això el dol adult pot tenir capes: es plora la persona, però també la relació que ja no podrà millorar. De vegades, a més, es plora el pare que no es va tenir. Això és el més difícil d'explicar en un sopar, però és el que més pesa a consulta.",
+      },
+      {
+        type: "heading",
+        text: "Quan el dol i la història van junts",
+      },
+      {
+        type: "paragraph",
+        text: "Si la relació va ser dolorosa —un pare distant, crític o absent—, la mort produeix un doble desconcert. D'una banda, hi ha qui sent un alleujament, i la culpa immediata per aquest alleujament. De l'altra, hi ha qui descobreix que esperava, encara, una reparació que ja no arribarà mai. Plorar algú amb qui la relació va ser difícil és plorar dues coses alhora: la persona i la possibilitat perduda.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquests dols no segueixen el guió social: no hi ha «bona mort» que els consoli ni anecdotes que els omplin. Tanmateix, són completament legítims. Al capdavall, el dol no mesura la qualitat del vínculo: mesura la seva profunditat. I els vincles difícils solen ser profunds precisament perquè van costar tant. En aquest sentit, un dol així demana espai propi, no comparacions.",
+      },
+      {
+        type: "heading",
+        text: "Què pot fer una teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Una teràpia no pot tornar el pare, ni escurçar el temps que el dol necessita. El que sí pot fer és sostener el procés: donar un lloc on el dolor no hagi de ser breu ni exemplar, ajudar a distingir entre el dol per la persona i el dol per la història, i acompanyar les preguntes d'identitat que la pèrdua obre. Perquè, en fer-se gran, el fill descobreix què ha heretat i què vol deixar anar.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la teràpia pot ajudar quan el dol s'encalla: quan després de molts mesos la vida segueix aturada, quan apareix una depressió que no remet o quan la relació amb els germans —aquells altres testimonis— s'ha tornat impossible. En aquests casos, el problema sovint no és la tristesa, sinó el que la tristesa no ha pogut fer: moure's, integrar-se, deixar de ser una càrrega i convertir-se en memòria habitable.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per endur-te",
+      },
+      {
+        type: "paragraph",
+        text: "Si acabes de perdre un progenitor, potser et serveix una pregunta senzilla: què era el que només aquesta persona sabia de tu? De vegades la resposta és un consol: hi ha coses que només ella veia. Altres vegades és una feina: hi ha coses que només ella esperava. Al capdavall, fer-se gran també és això: decidir què fer, sense ella, amb allò que ella va posar en tu.",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquest dol t'ocupa més espai del que pots sostenir, a Espai Emocions acompanyem adults en processos de dol i en les crisis vitals que els acompanyen, a Barcelona o online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa i al teu ritme.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una frase que se repite en consulta cada vez que alguien pierde a un progenitor siendo adulto: «Sé que es normal, pero no me recuperaba de esto». La muerte de un padre o de una madre es la esperada de todas: sabes que llegará, la has visto acercarse quizá durante años. Sin embargo, cuando pasa, muchas personas competentes y ordenadas se descubren incapaces de continuar con la vida que tenían perfectamente montada.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo habla de eso: del duelo por un progenitor en la edad adulta. Primero, por qué descoloca tanto una pérdida tan anunciada. Después, qué tiene de particular hacerlo cuando ya no eres joven. Y finalmente, cómo puede intervenir una terapia. Porque este duelo no va solo de decir adiós a una persona: va de descubrir quién eres sin tu primera referencia.",
+      },
+      {
+        type: "heading",
+        text: "La pérdida que todo el mundo espera y nadie conoce",
+      },
+      {
+        type: "paragraph",
+        text: "La muerte de un padre es, estadísticamente, la pérdida más frecuente de la vida adulta. Por eso el entorno suele responder con una compasión rápida: «ya era mayor», «había que esperarlo», «al menos pudo vivir mucho». Cada una de esas frases quiere proteger. Pero, de hecho, dejan a la persona sola con un sufrimiento que no tiene vocabulario: no puedes quejarte de algo que el mundo considera previsible.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, hay un silencio particular: nadie te pide explicaciones si fallas por un hijo o por un matrimonio, pero perder a un padre septuagenario no parece bastante «catastrófico» para detener una vida. En consecuencia, muchos adultos en duelo comen el duelo a bocados pequeños, entre reuniones, y se exigen estar bien antes de tiempo. Ahora bien, el duelo no va por edades del difunto. Va por el lugar que la persona ocupaba en ti.",
+      },
+      {
+        type: "heading",
+        text: "El lugar que nadie más puede ocupar",
+      },
+      {
+        type: "paragraph",
+        text: "Un padre o una madre es la primera presencia de la que dependiste para existir. Con ellos se aprendió qué era el mundo, qué se podía pedir, qué había que ocultar. Por eso su muerte no quita solo a una persona querida: retira al último testigo de tu infancia. Es decir, tu vínculo con tus orígenes queda en manos de tu memoria y de tus hermanos, si los hay.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto explica una experiencia que muchos adultos describen con vergüenza: sentirse, de pronto, huérfano. Con cuarenta y cinco años, con una carrera, una casa e hijos propios, aparece una sensación de desembarco que nadie había anunciado. No es una regresión ni una debilidad. Es la manera que tiene la psique de decir que ha caído un soporte estructural. Y las estructuras, cuando caen, no se lamentan: se investigan.",
+      },
+      {
+        type: "heading",
+        text: "Hijos adultos, duelo de adultos",
+      },
+      {
+        type: "paragraph",
+        text: "Vivir esta pérdida con treinta, cuarenta o cincuenta años tiene especificidades que a menudo quedan sin nombre. La primera: la muerte llega muchas veces después de una larga vejez del padre, con años de deterioro que ya exigieron un duelo anticipatorio. Muchos adultos llegan al día final agotados de cuidar y, en cambio, el dolor los agarra igual. La segunda: el duelo convive con la vida productiva, y el entorno espera normalidad en tiempo récord.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una tercera especificidad, más sutil: con los años, la relación con un padre suele ser compleja. Hay cosas que nunca se dijeron, reconciliaciones a medias, deudas emocionales. Por eso el duelo adulto puede tener capas: se llora a la persona, pero también a la relación que ya no podrá mejorar. A veces, además, se llora al padre que no se tuvo. Eso es lo más difícil de explicar en una cena, pero es lo que más pesa en consulta.",
+      },
+      {
+        type: "heading",
+        text: "Cuando el duelo y la historia van juntos",
+      },
+      {
+        type: "paragraph",
+        text: "Si la relación fue dolorosa —un padre distante, crítico o ausente—, la muerte produce un doble desconcierto. Por un lado, hay quien siente un alivio, y la culpa inmediata por ese alivio. Por otro, hay quien descubre que esperaba, todavía, una reparación que ya no llegará nunca. Llorar a alguien con quien la relación fue difícil es llorar dos cosas a la vez: a la persona y a la posibilidad perdida.",
+      },
+      {
+        type: "paragraph",
+        text: "Estos duelos no siguen el guion social: no hay «buena muerte» que los consuele ni anécdotas que los llenen. Sin embargo, son completamente legítimos. Al final, el duelo no mide la calidad del vínculo: mide su profundidad. Y los vínculos difíciles suelen ser profundos precisamente porque costaron tanto. En este sentido, un duelo así pide espacio propio, no comparaciones.",
+      },
+      {
+        type: "heading",
+        text: "Qué puede hacer una terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Una terapia no puede devolver al padre, ni acortar el tiempo que el duelo necesita. Lo que sí puede hacer es sostener el proceso: dar un lugar donde el dolor no tenga que ser breve ni ejemplar, ayudar a distinguir entre el duelo por la persona y el duelo por la historia, y acompañar las preguntas de identidad que la pérdida abre. Porque, al hacerse mayor, el hijo descubre qué ha heredado y qué quiere soltar.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la terapia puede ayudar cuando el duelo se encalla: cuando después de muchos meses la vida sigue parada, cuando aparece una depresión que no remite o cuando la relación con los hermanos —esos otros testigos— se ha vuelto imposible. En esos casos, el problema a menudo no es la tristeza, sino lo que la tristeza no ha podido hacer: moverse, integrarse, dejar de ser una carga y convertirse en memoria habitable.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta para llevarte",
+      },
+      {
+        type: "paragraph",
+        text: "Si acabas de perder a un progenitor, quizá te sirva una pregunta sencilla: ¿qué era lo que solo esa persona sabía de ti? A veces la respuesta es un consuelo: hay cosas que solo ella veía. Otras veces es un trabajo: hay cosas que solo ella esperaba. Al final, hacerse mayor también es esto: decidir qué hacer, sin ella, con aquello que ella puso en ti.",
+      },
+      {
+        type: "paragraph",
+        text: "Si este duelo ocupa más espacio del que puedes sostener, en Espai Emocions acompañamos a adultos en procesos de duelo y en las crisis vitales que los acompañan, en Barcelona u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa y a tu ritmo.",
+      },
+    ],
+  },
 ]
