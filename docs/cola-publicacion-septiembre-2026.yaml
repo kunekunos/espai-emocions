@@ -48,7 +48,7 @@ articles:
     titulo: "Actualización: precio del psicólogo en Barcelona (Guía 2026)"
     tipo: ampliacion
     notas: "Revisar rangos de precios actuales y añadir tabla comparativa pública/privada actualizada. Mantener primera visita sin coste como diferencial. Enlaces: seguro-medico-psicologia-barcelona, recursos-salud-mental-gratuitos-barcelona, preguntas-frecuentes-psicologia-barcelona."
-    estado: pendiente
+    estado: publicado
     orden: 7
 
 reglas:
