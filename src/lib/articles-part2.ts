@@ -2003,15 +2003,20 @@ export const articlesPart2: ArticleContent[] = [
     titleCA: "Quant costa un psicòleg a Barcelona? Guia 2026",
     titleES: "¿Cuánto cuesta un psicólogo en Barcelona? Guía 2026",
     excerptCA:
-      "Preus de teràpia psicològica a Barcelona. Què influeix en el cost, rangs de preus, i com triar el psicòleg adequat segons el teu pressupost.",
+      "Quant costa una sessió de psicologia a Barcelona el 2026: rangs de preus reals segons perfil del professional, durada i modalitat, i una comparativa honesta entre sanitat pública, segur mèdic i consulta privada. Què convé mirar abans de triar només per preu, com calcular el cost mensual d'una teràpia i per què a Espai Emocions la primera visita és sense cost.",
     excerptES:
-      "Precios de terapia psicológica en Barcelona. Qué influye en el coste, rangos de precios, y cómo elegir el psicólogo adecuado según tu presupuesto.",
+      "Cuánto cuesta una sesión de psicología en Barcelona en 2026: rangos de precios reales según perfil del profesional, duración y modalidad, y una comparativa honesta entre sanidad pública, seguro médico y consulta privada. Qué conviene mirar antes de elegir solo por precio, cómo calcular el coste mensual de una terapia y por qué en Espai Emocions la primera visita es sin coste.",
     datePublished: "2026-04-20",
     blocksCA: [
       {
         type: "paragraph",
         text:
-          "El preu és una de les primeres dubtes quan es considera teràpia. Aquesta guia t'ajudarà a entendre els rangs de preus a Barcelona i quins factors els determinen.",
+          "El preu és sovint el primer filtre —i a vegades l'únic— quan algú considera començar teràpia. És comprensible: la teràpia és una despesa recurrent, no un pagament únic, i convé saber quant pesarà al pressupost abans de comprometre-s'hi. Aquesta guia reuneix els rangs de preus que es veuen actualment a Barcelona, què explica les diferències entre ells i com comparar opcions sense quedar-se només en la xifra.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Un avís honest abans de començar: cap article d'internet pot dir-te quant costarà exactament la teva teràpia, perquè el preu depèn del professional, de la durada i del ritme que el procés demani. Sí que pots saber, en canvi, entre quines xifres es mou el mercat, què convé preguntar abans de reservar i com es calcula el cost real d'un mes de teràpia. D'això va aquesta guia, actualitzada a 2026.",
       },
       {
         type: "heading",
@@ -2078,6 +2083,28 @@ export const articlesPart2: ArticleContent[] = [
       },
       {
         type: "heading",
+        text: "Sanitat pública, segur mèdic o consulta privada: comparativa",
+      },
+      {
+        type: "paragraph",
+        text:
+          "El preu d'una sessió només té sentit dins d'una comparació més àmplia: d'on surt la teva atenció, què inclou i què no. Aquestes són les tres vies que hi ha avui a Barcelona, amb els seus costos reals i els seus límits:",
+      },
+      {
+        type: "list",
+        items: [
+          "Sanitat pública (CatSalut, el teu CAP): cost 0 € per al pacient, però amb llista d'espera que pot ser de mesos, derivació prèvia del metge de capçalera i un nombre de sessions sovint limitat. Convé per a situacions que no poden esperar i per a qui el cost és l'obstacle principal.",
+          "Segur mèdic privat: copagament d'entre 5 i 20 € per sessió segons la pòlissa, però amb límits —normalment entre 4 i 10 sessions l'any— i un quadre mèdic tancat de professionals. Convé revisar la teva pòlissa concreta abans de decidir; tens el detall a la nostra guia sobre el segur mèdic i la psicologia.",
+          "Consulta privada: entre 50 i 90 € per sessió, amb llibertat total de triar professional, enfocament i ritme, i sense límit de sessions imposat. És la via amb més cost per sessió i menys cost d'oportunitat: qui paga, decideix.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "La comparació honesta és aquesta: la pública és gratuïta però lenta i limitada, la del segur és assequible però interrompuda —just quan el procés agafa interès, s'acaba el pack—, i la privada és la més cara per sessió i l'única que et garanteix continuïtat i elecció. Per a molts adults, la decisió no és tant quina via és millor sinó quina llista d'espera o quin límit de sessions poden sostenir. Si el cost és l'obstacle, també hi ha recursos de salut mental gratuïts o de baix cost a Barcelona que convé conèixer.",
+      },
+      {
+        type: "heading",
         text: "Un psicòleg més car és millor?",
       },
       {
@@ -2097,7 +2124,7 @@ export const articlesPart2: ArticleContent[] = [
       {
         type: "paragraph",
         text:
-          "El sistema públic de salut (CSS, CAP a Catalunya) ofereix atenció psicològica gratuïta. No obstant això, les llistes d'espera poden ser llargues (mesos), i no sempre hi ha accés ràpid a especialistes específics.",
+          "El sistema públic de salut (CatSalut, a través del teu CAP) ofereix atenció psicològica gratuïta. No obstant això, les llistes d'espera poden ser llargues (mesos), i no sempre hi ha accés ràpid a especialistes específics.",
       },
       {
         type: "paragraph",
@@ -2141,16 +2168,49 @@ export const articlesPart2: ArticleContent[] = [
           "Comparat amb altres despeses que considerem \"necessàries\" — gimnàs, streaming, menjars fora — la teràpia té un impacte profund en com et sents i funciones cada dia.",
       },
       {
+        type: "heading",
+        text: "El cost mensual real: com calcular-lo",
+      },
+      {
         type: "paragraph",
         text:
-          "Si tens dubtes sobre el preu, el millor és parlar directament amb el professional. Transparència i claredat des de l'inici eviten sorpreses.",
+          "El preu per sessió no és el millor indicador del que una teràpia pesarà al teu pressupost: el cost mensual depèn de la freqüència. Una sessió setmanal de 60 € costa 240 € al mes; una quinzenal, 120 €. Amb aquesta aritmètica senzilla, la pregunta útil no és «quant val la sessió?» sinó «quantes sessions necessito i amb quin ritme?». Sobre quantes sessions sol demanar cada problema vam escriure amb detall, i també sobre com triar la freqüència adequada: setmanal, quinzenal o mensual.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A més, la durada del procés influeix més que la tarifa. Un procés breu amb un professional més car pot acabar costant menys que un procés llarg amb tarifes baixes. Per això no convé triar només per preu: una sessió barata amb un enfocament que no t'escau acaba sortint més cara en temps i frustració.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Si tens dubtes sobre el preu, el millor és parlar directament amb el professional. Transparència i claredat des de l'inici eviten sorpreses. A Espai Emocions, la primera visita és sense cost: serveix per conèixer-nos, explicar què et porta i decidir amb calma si vols continuar, sense que el preu sigui l'obstacle per plantejar-s'ho.",
+      },
+      {
+        type: "heading",
+        text: "Per a seguir llegint",
+      },
+      {
+        type: "related",
+        items: [
+          { slug: "seguro-medico-psicologia-barcelona", title: "Cobreix el segur mèdic la psicologia a Barcelona?", desc: "Com funciona la cobertura de les asseguradores: copagaments, nombre de sessions i quadre mèdic, amb detall." },
+          { slug: "recursos-salud-mental-gratuitos-barcelona", title: "Recursos de salut mental gratuïts a Barcelona", desc: "On trobar atenció psicològica gratuïta o de baix cost: sanitat pública, recursos municipals i associacions." },
+          { slug: "preguntas-frecuentes-psicologia-barcelona", title: "Preguntes freqüents sobre psicologia a Barcelona", desc: "Tot el que la gent vol saber abans de demanar cita, respost amb claredat: preus, confidencialitat i durada." },
+          { slug: "cuantas-sesiones-psicologia-necesito", title: "Quantes sessions de psicologia necessito?", desc: "L'altra meitat del càlcul: què determina la durada d'un procés i quin horitzó és raonable esperar." },
+          { slug: "frecuencia-sesiones-psicologia", title: "Amb quina freqüència anar al psicòleg: setmanal, quinzenal o mensual", desc: "El ritme canvia el cost mensual i també el procés: com s'escull i per què." },
+        ],
       },
     ],
     blocksES: [
       {
         type: "paragraph",
         text:
-          "El precio es una de las primeras dudas cuando se considera terapia. Esta guía te ayudará a entender los rangos de precios en Barcelona y qué factores los determinan.",
+          "El precio es a menudo el primer filtro —y a veces el único— cuando alguien considera empezar terapia. Es comprensible: la terapia es un gasto recurrente, no un pago único, y conviene saber cuánto pesará en el presupuesto antes de comprometerse. Esta guía reúne los rangos de precios que se ven hoy en Barcelona, qué explica las diferencias entre ellos y cómo comparar opciones sin quedarse solo en la cifra.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Un aviso honesto antes de empezar: ningún artículo de internet puede decirte cuánto costará exactamente tu terapia, porque el precio depende del profesional, de la duración y del ritmo que el proceso pida. Sí puedes saber, en cambio, entre qué cifras se mueve el mercado, qué conviene preguntar antes de reservar y cómo se calcula el coste real de un mes de terapia. De eso va esta guía, actualizada a 2026.",
       },
       {
         type: "heading",
@@ -2217,6 +2277,28 @@ export const articlesPart2: ArticleContent[] = [
       },
       {
         type: "heading",
+        text: "Sanidad pública, seguro médico o consulta privada: comparativa",
+      },
+      {
+        type: "paragraph",
+        text:
+          "El precio de una sesión solo tiene sentido dentro de una comparación más amplia: de dónde sale tu atención, qué incluye y qué no. Estas son las tres vías que hay hoy en Barcelona, con sus costes reales y sus límites:",
+      },
+      {
+        type: "list",
+        items: [
+          "Sanidad pública (CAP): coste 0 € para el paciente, pero con listas de espera que pueden ser de meses, derivación previa del médico de cabecera y un número de sesiones a menudo limitado. Conviene para situaciones que no pueden esperar y para quien el coste es el obstáculo principal.",
+          "Seguro médico privado: copago de entre 5 y 20 € por sesión según la póliza, pero con límites —normalmente entre 4 y 10 sesiones al año— y un cuadro médico cerrado de profesionales. Conviene revisar tu póliza concreta antes de decidir; tienes el detalle en nuestra guía sobre el seguro médico y la psicología.",
+          "Consulta privada: entre 50 y 90 € por sesión, con libertad total de elegir profesional, enfoque y ritmo, y sin límite de sesiones impuesto. Es la vía con más coste por sesión y menos coste de oportunidad: quien paga, decide.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "La comparación honesta es esta: la pública es gratuita pero lenta y limitada, la del seguro es asequible pero interrumpida —justo cuando el proceso coge interés, se acaba el pack—, y la privada es la más cara por sesión y la única que te garantiza continuidad y elección. Para muchos adultos, la decisión no es tanto qué vía es mejor sino qué lista de espera o qué límite de sesiones pueden sostener. Si el coste es el obstáculo, también hay recursos de salud mental gratuitos o de bajo coste en Barcelona que conviene conocer.",
+      },
+      {
+        type: "heading",
         text: "¿Un psicólogo más caro es mejor?",
       },
       {
@@ -2236,12 +2318,12 @@ export const articlesPart2: ArticleContent[] = [
       {
         type: "paragraph",
         text:
-          "El sistema público de salud (CSS, CAP en Cataluña) ofrece atención psicológica gratuita. Sin embargo, las listas de espera pueden ser largas (meses), y no siempre hay acceso rápido a especialistas específicos.",
+          "El sistema público de salud (CatSalut, a través de tu CAP, en Cataluña) ofrece atención psicológica gratuita. Sin embargo, las listas de espera pueden ser largas (meses), y no siempre hay acceso rápido a especialistas específicos.",
       },
       {
         type: "paragraph",
         text:
-          "Algunos seguros de salud privados cubren terapia psicológica, parcial o totalmente. Es worth consultar con tu aseguradora.",
+          "Algunos seguros de salud privados cubren terapia psicológica, parcial o totalmente. Conviene consultarlo con tu aseguradora.",
       },
       {
         type: "heading",
@@ -2280,9 +2362,37 @@ export const articlesPart2: ArticleContent[] = [
           "Comparado con otros gastos que consideramos \"necesarios\" — gimnasio, streaming, comidas fuera — la terapia tiene un impacto profundo en cómo te sientes y funcionas cada día.",
       },
       {
+        type: "heading",
+        text: "El coste mensual real: cómo calcularlo",
+      },
+      {
         type: "paragraph",
         text:
-          "Si tienes dudas sobre el precio, lo mejor es hablar directamente con el profesional. Transparencia y claridad desde el inicio evitan sorpresas.",
+          "El precio por sesión no es el mejor indicador de cuánto pesará una terapia en tu presupuesto: el coste mensual depende de la frecuencia. Una sesión semanal de 60 € cuesta 240 € al mes; una quincenal, 120 €. Con esa aritmética sencilla, la pregunta útil no es «¿cuánto vale la sesión?» sino «¿cuántas sesiones necesito y con qué ritmo?». Sobre cuántas sesiones suele pedir cada problema escribimos con detalle, y también sobre cómo elegir la frecuencia adecuada: semanal, quincenal o mensual.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Además, la duración del proceso influye más que la tarifa. Un proceso breve con un profesional más caro puede acabar costando menos que un proceso largo con tarifas bajas. Por eso no conviene elegir solo por precio: una sesión barata con un enfoque que no te encaja acaba saliendo más cara en tiempo y frustración.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Si tienes dudas sobre el precio, lo mejor es hablar directamente con el profesional. Transparencia y claridad desde el inicio evitan sorpresas. En Espai Emocions, la primera visita es sin coste: sirve para conocernos, explicar qué te trae y decidir con calma si quieres continuar, sin que el precio sea el obstáculo para planteárselo.",
+      },
+      {
+        type: "heading",
+        text: "Para seguir leyendo",
+      },
+      {
+        type: "related",
+        items: [
+          { slug: "seguro-medico-psicologia-barcelona", title: "¿Cubre el seguro médico la psicología en Barcelona?", desc: "Cómo funciona la cobertura de las aseguradoras: copagos, número de sesiones y cuadro médico, con detalle." },
+          { slug: "recursos-salud-mental-gratuitos-barcelona", title: "Recursos de salud mental gratuitos en Barcelona", desc: "Dónde encontrar atención psicológica gratuita o de bajo coste: sanidad pública, recursos municipales y asociaciones." },
+          { slug: "preguntas-frecuentes-psicologia-barcelona", title: "Preguntas frecuentes sobre psicología en Barcelona", desc: "Todo lo que la gente quiere saber antes de pedir cita, respondido con claridad: precios, confidencialidad y duración." },
+          { slug: "cuantas-sesiones-psicologia-necesito", title: "¿Cuántas sesiones de psicología necesito?", desc: "La otra mitad del cálculo: qué determina la duración de un proceso y qué horizonte es razonable esperar." },
+          { slug: "frecuencia-sesiones-psicologia", title: "Con qué frecuencia ir al psicólogo: semanal, quincenal o mensual", desc: "El ritmo cambia el coste mensual y también el proceso: cómo se elige y por qué." },
+        ],
       },
     ],
   },

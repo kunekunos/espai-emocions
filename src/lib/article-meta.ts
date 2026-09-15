@@ -938,8 +938,8 @@ export const articleMeta: ArticleMeta[] = [
     "categoryES": "Info",
     "titleCA": "Quant costa un psicòleg a Barcelona? Guia 2026",
     "titleES": "¿Cuánto cuesta un psicólogo en Barcelona? Guía 2026",
-    "excerptCA": "Preus de teràpia psicològica a Barcelona. Què influeix en el cost, rangs de preus, i com triar el psicòleg adequat segons el teu pressupost.",
-    "excerptES": "Precios de terapia psicológica en Barcelona. Qué influye en el coste, rangos de precios, y cómo elegir el psicólogo adecuado según tu presupuesto.",
+    "excerptCA": "Quant costa una sessió de psicologia a Barcelona el 2026: rangs de preus reals segons perfil del professional, durada i modalitat, i una comparativa honesta entre sanitat pública, segur mèdic i consulta privada. Què convé mirar abans de triar només per preu, com calcular el cost mensual d'una teràpia i per què a Espai Emocions la primera visita és sense cost.",
+    "excerptES": "Cuánto cuesta una sesión de psicología en Barcelona en 2026: rangos de precios reales según perfil del profesional, duración y modalidad, y una comparativa honesta entre sanidad pública, seguro médico y consulta privada. Qué conviene mirar antes de elegir solo por precio, cómo calcular el coste mensual de una terapia y por qué en Espai Emocions la primera visita es sin coste.",
     "datePublished": "2026-04-20"
   },
   {
