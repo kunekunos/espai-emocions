@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "mi-pareja-esta-deprimida",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "La meva parella està deprimida: acompanyar sense desaparèixer",
+    "titleES": "Mi pareja está deprimida: acompañar sin desaparecer",
+    "excerptCA": "«La meva parella fa mesos que no és la mateixa». Qui truca a consulta sovint no és la persona deprimida, sinó qui hi conviu. Acompanyar algú en un estat depressiu és una de les experiències més exigents de la vida adulta: apareixen la preocupació, la ràbia, la culpa i un cansament que gairebé ningú no s'atreveix a anomenar. Aquí explorem què significa acompanyar sense perdre't, què ajuda de debò i quan convé buscar ajuda professional.",
+    "excerptES": "«Mi pareja lleva meses sin ser la misma». Quien llama a consulta muchas veces no es la persona deprimida, sino quien vive con ella. Acompañar a alguien en un estado depresivo es una de las experiencias más exigentes de la vida adulta: aparecen la preocupación, la rabia, la culpa y un cansancio que casi nadie se atreve a nombrar. Aquí exploramos qué significa acompañar sin perderse, qué ayuda de verdad y cuándo conviene buscar ayuda profesional.",
+    "datePublished": "2026-09-16"
+  },
+  {
     "slug": "perder-padre-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",

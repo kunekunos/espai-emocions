@@ -728,4 +728,233 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 5. mi-pareja-esta-deprimida (pareja / estados depresivos, 2026-09-16)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "mi-pareja-esta-deprimida",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "La meva parella està deprimida: acompanyar sense desaparèixer",
+    titleES:
+      "Mi pareja está deprimida: acompañar sin desaparecer",
+    excerptCA:
+      "«La meva parella fa mesos que no és la mateixa». Qui truca a consulta sovint no és la persona deprimida, sinó qui hi conviu. Acompanyar algú en un estat depressiu és una de les experiències més exigents de la vida adulta: apareixen la preocupació, la ràbia, la culpa i un cansament que gairebé ningú no s'atreveix a anomenar. Aquí explorem què significa acompanyar sense perdre't, què ajuda de debò i quan convé buscar ajuda professional.",
+    excerptES:
+      "«Mi pareja lleva meses sin ser la misma». Quien llama a consulta muchas veces no es la persona deprimida, sino quien vive con ella. Acompañar a alguien en un estado depresivo es una de las experiencias más exigentes de la vida adulta: aparecen la preocupación, la rabia, la culpa y un cansancio que casi nadie se atreve a nombrar. Aquí exploramos qué significa acompañar sin perderse, qué ayuda de verdad y cuándo conviene buscar ayuda profesional.",
+    datePublished: "2026-09-16",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«La meva parella fa mesos que no és la mateixa». És una de les frases que més arriben a consulta quan qui truca no és la persona deprimida, sinó qui hi conviu. Aquesta perspectiva quasi no té literatura: s'escriu molt sobre la depressió des de dins i molt poc des del punt de vista de qui acompanya. Tanmateix, acompanyar algú en un estat depressiu és una de les experiències més exigents de la vida adulta.",
+      },
+      {
+        type: "paragraph",
+        text: "Cal dir-ho des del principi: qui acompanya també pateix. No és pacient, però tampoc no és fora. Viu a la mateixa casa, dorm al mateix llit i sosté, sovint en silenci, una barreja de preocupació, ràbia, culpa i cansament que amb prou feines pot anomenar. En aquest article explorem què significa acompanyar sense desaparèixer, què ajuda de debò i què no, i quan convé demanar ajuda professional.",
+      },
+      {
+        type: "heading",
+        text: "Un estat depressiu no és una tristesa amb un altre nom",
+      },
+      {
+        type: "paragraph",
+        text: "La depressió s'explica malament, fins i tot entre qui la viu. No és tristesa intensa ni un baixó llarg: és, més aviat, un tancament progressiu. La persona deixa de gaudir del que gaudia, el desig s'apaga, el cos pesa i el futur es veu pla. A vegades hi ha plor; d'altres, res. Precisament aquesta absència d'expressió confon qui acompanya: busca senyals de dolor i troba indiferència.",
+      },
+      {
+        type: "paragraph",
+        text: "D'aquí surt una interpretació que fa mal: «ja no li importo». Ara bé, la manca d'interès d'un estat depressiu no és cap a tu; és cap a tot, inclosa la pròpia vida. La persona no s'ha apartat de la relació: s'ha apartat de gairebé tot. Entendre-ho canvia l'enquadrament. Qui acompanya deixa de preguntar-se «què li he fet» i comença a preguntar-se «com està avui».",
+      },
+      {
+        type: "heading",
+        text: "L'acompanyant invisible",
+      },
+      {
+        type: "paragraph",
+        text: "A casa hi ha dues persones sostenint, però només una sembla necessitar ajuda. Qui acompanya organitza, treballa, escolta, sosté la casa i guarda el propi malestar per no sumar. Amb el temps, aquesta funció es converteix en una gàbia: no pot estar malament perquè l'altre està pitjor; no pot demanar perquè l'altre no pot donar; no pot queixar-se perquè sona egoista.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta posició té un cost que arriba tard o d'hora: irritabilitat, insomni, distància, ressentiment. I amb el ressentiment arriba la culpa, perquè ningú no vol ressentir-se amb algú que pateix. En aquest sentit, anomenar el que sent qui acompanya no és cap deslleialtat: és condició per sostenir. Ningú no cuida bé des de l'esgotament indefinit.",
+      },
+      {
+        type: "heading",
+        text: "Què ajuda i què sobra",
+      },
+      {
+        type: "paragraph",
+        text: "Davant el tancament de la persona deprimida, la temptació de qui acompanya és la força: animar, proposar sortides, empenyer. Normalment obté el contrari. L'ànim arriba com a exigència i la proposta com a retret. Ara bé, això no vol dir rendir-se ni deixar de convidar. Vol dir canviar l'objectiu: no pas «que s'animi», sinó «que el vincle no es trenqui».",
+      },
+      {
+        type: "paragraph",
+        text: "El que sol ajudar és discret i poc heroic: presència constant sense asfíxia, rutines compartides, gestos concrets en comptes de discursos, preguntes obertes i acceptar les respostes planes. «No sé què dir-te, però aquí estic» val més que qualsevol frase elaborada. Per exemple, caminar junts mitja hora acostuma sostenir més que qualsevol conversa sobre el que passa.",
+      },
+      {
+        type: "heading",
+        text: "L'amor sosté, però no tracta",
+      },
+      {
+        type: "paragraph",
+        text: "Apareix una culpa particular en qui acompanya: «si de veritat l'estimés, la trauria d'això». De fet, és una de les creences més doloroses i més esteses. La depressió és un estat amb components biològics, psicològics i relacionals; no es desmunta amb afecte, per molt afecte que hi hagi. L'amor sosté el terra; el tractament canvia el clima.",
+      },
+      {
+        type: "paragraph",
+        text: "Demanar-li a la relació una cosa que no pot donar desgasta els dos. Qui acompanya es converteix en terapeuta aficionat, la persona deprimida en un cas, i la parella perd el seu lloc. En canvi, quan existeix el tractament professional, la relació pot tornar a ser el que era: un lloc d'intimitat, no de cura.",
+      },
+      {
+        type: "heading",
+        text: "La parella també és pacient",
+      },
+      {
+        type: "paragraph",
+        text: "Un estat depressiu reorganitza la relació sencera. El desig es desfasa, les responsabilitats es desequilibrén i la irritabilitat arriba de vegades en forma de cops verbals que no es poden prendre del tot com a personals. Però fan mal igual. En aquest sentit, la parella funciona com un sistema: el que li passa a un recau sobre els dos, sense excepció.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això, en molts casos, la teràpia de parella no és cap extra: és part del tractament. No substitueix la teràpia individual de la persona deprimida, però sí que dóna un lloc on anomenar el ressentiment sense trair, recol·locar el que es va desequilibrar i aprendre a discutir de nou. A més, evita que la recuperació d'un es construeixi sobre l'esgotament de l'altre.",
+      },
+      {
+        type: "heading",
+        text: "Qui acompanya també necessita un lloc propi",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una idea que costa acceptar: qui acompanya algú amb depressió també pot necessitar el seu propi espai psicològic. No perquè estigui «pitjor del que diu», sinó perquè sostenir exigeix sostenir-se. Una teràpia pròpia permet posar en paraules la ràbia i la culpa que no cap a casa, i recuperar decisions que l'emergència havia pres al seu lloc.",
+      },
+      {
+        type: "paragraph",
+        text: "També compta la xarxa: amistats, família, persones que escoltin sense aconsellar a distància. Ara bé, el criteri no és resistir més temps, sinó acompanyar amb humanitat i amb límits. Al capdavall, cuidar-se no és cap luxe de qui acompanya: és l'única manera que la cura duri.",
+      },
+      {
+        type: "heading",
+        text: "Quan la situació demana més que paciència",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha senyals que no admeten espera: parlar de morir o de no voler continuar, un empitjorament sostingut, abandonar la feina, la higiene o el menjar, o consumir alcohol per sostenir-se. Davant qualsevol d'aquestes, cal buscar ajuda professional com més aviat millor; en una crisi amb risc, contactar amb urgències o amb el 112. La prevenció del suïcidi és una prioritat sanitària, no un secret de parella.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalment, el primer pas és una teràpia individual per a la persona que pateix. En paral·lel, es valora si la parella necessita la seva. I si el malestar de qui acompanya ja ocupa més espai del que pot sostenir, també és un motiu legítim de consulta. En definitiva, demanar ajuda d'hora per qualsevol dels dos és cuidar els dos.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per endur-te",
+      },
+      {
+        type: "paragraph",
+        text: "Si l'estat de la teva parella millorés demà, què hauria canviat en tu durant aquests mesos? A vegades la resposta revela un procés propi esperant, amb noms tan concrets com cansament, ràbia o por. Recuperar la relació, al capdavall, inclou recuperar les dues persones que la formen.",
+      },
+      {
+        type: "paragraph",
+        text: "Si vius aquesta situació, a Espai Emocions acompanyem estats depressius en adults i també les parelles que els sostenen, a Barcelona o online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa i al teu ritme.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«Mi pareja lleva meses sin ser la misma». Es una de las frases que más llegan a consulta cuando quien llama no es la persona deprimida, sino quien vive con ella. Esta perspectiva casi no tiene literatura: se escribe mucho sobre la depresión desde dentro y muy poco desde el lado de quien acompaña. Sin embargo, acompañar a alguien en un estado depresivo es una de las experiencias más exigentes de la vida adulta.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decirlo desde el principio: quien acompaña también sufre. No es paciente, pero tampoco está fuera. Vive en la misma casa, duerme en la misma cama y sostiene, a menudo en silencio, una mezcla de preocupación, rabia, culpa y cansancio que apenas puede nombrar. En este artículo exploramos qué significa acompañar sin desaparecer, qué ayuda de verdad y qué no, y cuándo conviene pedir ayuda profesional.",
+      },
+      {
+        type: "heading",
+        text: "Un estado depresivo no es una tristeza con otro nombre",
+      },
+      {
+        type: "paragraph",
+        text: "La depresión suele explicarse mal, incluso entre quienes la viven. No es tristeza intensa ni un bajón largo: es, más bien, un cierre progresivo. La persona deja de disfrutar de lo que disfrutaba, el deseo se apaga, el cuerpo pesa y el futuro se ve plano. A veces hay llanto; otras veces, nada. Precisamente esa ausencia de expresión confunde a quien acompaña: busca señales de dolor y encuentra indiferencia.",
+      },
+      {
+        type: "paragraph",
+        text: "De ahí sale una interpretación que daña: «ya no le importo». Ahora bien, la falta de interés de un estado depresivo no es hacia ti; es hacia todo, incluida su propia vida. La persona no se ha apartado de la relación: se ha apartado de casi todo. Entender esto cambia el encuadre. Quien acompaña deja de preguntarse «qué le he hecho» y empieza a preguntarse «cómo está hoy».",
+      },
+      {
+        type: "heading",
+        text: "El acompañante invisible",
+      },
+      {
+        type: "paragraph",
+        text: "En casa hay dos personas sosteniendo, pero solo una parece necesitar ayuda. Quien acompaña organiza, trabaja, escucha, sostiene la casa y guarda su propio malestar para no sumar. Con el tiempo, esa función se vuelve una jaula: no puede estar mal porque el otro está peor; no puede pedir porque el otro no puede dar; no puede quejarse porque suena egoísta.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta posición tiene un coste que aparece tarde o temprano: irritabilidad, insomnio, distancia, resentimiento. Y con el resentimiento llega la culpa, porque nadie quiere resentirse con alguien que sufre. En este sentido, nombrar lo que siente quien acompaña no es deslealtad: es condición para sostener. Nadie cuida bien desde el agotamiento indefinido.",
+      },
+      {
+        type: "heading",
+        text: "Qué ayuda y qué sobra",
+      },
+      {
+        type: "paragraph",
+        text: "Frente al cierre de la persona deprimida, la tentación de quien acompaña es la fuerza: animar, proponer planes, empujar. Normalmente obtiene lo contrario. El ánimo llega como exigencia y la propuesta como reproche. Ahora bien, esto no significa rendirse ni dejar de invitar. Significa cambiar el objetivo: no «que se anime», sino «que el vínculo no se rompa».",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que suele ayudar es discreto y poco heroico: presencia constante sin asfixia, rutinas compartidas, gestos concretos en lugar de discursos, preguntas abiertas y aceptar las respuestas planas. «No sé qué decir, pero aquí estoy» vale más que cualquier frase elaborada. Por ejemplo, caminar juntos media hora suele sostener más que cualquier conversación sobre lo que le pasa.",
+      },
+      {
+        type: "heading",
+        text: "El amor sostiene, pero no trata",
+      },
+      {
+        type: "paragraph",
+        text: "Aparece una culpa particular en quien acompaña: «si de verdad la quisiera, la sacaría de esto». De hecho, es una de las creencias más dolorosas y más extendidas. La depresión es un estado con componentes biológicos, psicológicos y relacionales; no se desmonta con cariño, por mucho cariño que haya. El amor sostiene el suelo; el tratamiento cambia el clima.",
+      },
+      {
+        type: "paragraph",
+        text: "Pedirle a la relación algo que no puede dar desgasta a los dos. Quien acompaña se convierte en terapeuta aficionado, la persona deprimida en un caso, y la pareja pierde su lugar. En cambio, cuando existe el tratamiento profesional, la relación puede volver a ser lo que era: un lugar de intimidad, no de cura.",
+      },
+      {
+        type: "heading",
+        text: "La pareja también es paciente",
+      },
+      {
+        type: "paragraph",
+        text: "Un estado depresivo reorganiza la relación entera. El deseo se desfasa, las responsabilidades se desequilibran y la irritabilidad llega a veces en forma de golpes verbales que no pueden tomarse del todo como personales. Pero duelen igual. En este sentido, la pareja funciona como un sistema: lo que le pasa a uno recae sobre los dos, sin excepción.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso, en muchos casos, la terapia de pareja no es un extra: es parte del tratamiento. No sustituye la terapia individual de la persona deprimida, pero sí da un lugar donde nombrar el resentimiento sin traicionar, recolocar lo que se desequilibró y aprender a discutir de nuevo. Además, evita que la recuperación de uno se construya sobre el agotamiento del otro.",
+      },
+      {
+        type: "heading",
+        text: "Quien acompaña también necesita un lugar propio",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una idea que cuesta aceptar: quien acompaña a alguien con depresión también puede necesitar su propio espacio psicológico. No porque esté «peor de lo que dice», sino porque sostener exige sostenerse. Una terapia propia permite poner en palabras la rabia y la culpa que no caben en casa, y recuperar decisiones que la emergencia había tomado por él o por ella.",
+      },
+      {
+        type: "paragraph",
+        text: "También cuenta la red: amistades, familia, personas que escuchen sin aconsejar a distancia. Ahora bien, el criterio no es resistir más tiempo, sino acompañar con humanidad y con límites. Al final, cuidarse no es un lujo de quien acompaña: es la única manera de que el cuidado dure.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la situación pide más que paciencia",
+      },
+      {
+        type: "paragraph",
+        text: "Hay señales que no admiten espera: hablar de morir o de no querer seguir, un empeoramiento sostenido, abandonar el trabajo, la higiene o la comida, o consumir alcohol para sostenerse. Ante cualquiera de ellas, hay que buscar ayuda profesional cuanto antes; en una crisis con riesgo, contactar con urgencias o con el 112. La prevención del suicidio es una prioridad sanitaria, no un secreto de pareja.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalmente, el primer paso es una terapia individual para la persona que sufre. En paralelo, se valora si la pareja necesita la suya. Y si el malestar de quien acompaña ya ocupa más espacio del que puede sostener, también es un motivo legítimo de consulta. En definitiva, pedir ayuda temprano por cualquiera de los dos es cuidar a los dos.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta para llevarte",
+      },
+      {
+        type: "paragraph",
+        text: "Si el estado de tu pareja mejorara mañana, ¿qué habría cambiado en ti durante estos meses? A veces la respuesta revela un proceso propio esperando, con nombres tan concretos como cansancio, rabia o miedo. Recuperar la relación, al final, incluye recuperar a las dos personas que la forman.",
+      },
+      {
+        type: "paragraph",
+        text: "Si vives esta situación, en Espai Emocions acompañamos estados depresivos en adultos y también a las parejas que los sostienen, en Barcelona u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa y a tu ritmo.",
+      },
+    ],
+  },
 ]
