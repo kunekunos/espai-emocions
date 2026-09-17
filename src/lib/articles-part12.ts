@@ -957,4 +957,185 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 6. mi-pareja-no-quiere-ir-a-terapia (pareja, 2026-09-17)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "mi-pareja-no-quiere-ir-a-terapia",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "La meva parella no vol anar a teràpia: quan un dels dos diu que no",
+    titleES:
+      "Mi pareja no quiere ir a terapia: cuando uno de los dos dice que no",
+    excerptCA:
+      "«Jo volia venir tots dos». Qui arriba sola a consulta sovint porta aquesta frase com si tancés una porta: si no hi anem tots dos, res no pot començar. És una idea comprensible, però falsa. Aquí explorem què hi ha realment darrere d'aquest «no», per què pressionar quasi mai no funciona, què sí que queda a les teves mans i per què començar sol no és una segona opció.",
+    excerptES:
+      "«Yo quería venir los dos». Quien llega solo a consulta suele traer esa frase como si cerrara una puerta: si no vamos los dos, nada puede empezar. Es una idea comprensible, pero falsa. Aquí exploramos qué hay realmente detrás de ese «no», por qué presionar casi nunca funciona, qué sí queda en tus manos y por qué empezar solo no es una segunda opción.",
+    datePublished: "2026-09-17",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "L'escena es repeteix amb una precisió notable. Una persona arriba a consulta, sola, i en algun moment de la primera sessió diu: «Jo volia venir tots dos. La meva parella no vol». Porta la frase com si tanqués una porta: si no venim tots dos, la teràpia no pot començar. La idea és comprensible, però és falsa. I sostenir-la té un cost.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article explorem què sol haver-hi darrere d'aquest «no» i per què pressionar quasi mai no funciona. També hi veuràs quins espais reals queden oberts quan un dels dos no vol donar el pas. Perquè sí que en queden. Més dels que semblen.",
+      },
+      {
+        type: "heading",
+        text: "El que s'escolta quan algú diu que no",
+      },
+      {
+        type: "paragraph",
+        text: "Un «no vull anar a teràpia» rarament és un «no» a la teràpia. És un «no» a alguna cosa que aquesta paraula representa per a qui la diu. Per a algunes persones, anar a teràpia significa admetre que han fracassat. En la relació, en la vida, en la imatge que sostenien. Per a d'altres significa lliurar la roba bruta a un desconegut: explicar què passa dins de casa. A més, deixar que algú fiqui les mans al vincle.",
+      },
+      {
+        type: "paragraph",
+        text: "I per a moltes significa, senzillament, perdre: si ell reconeix el problema, queda com el culpable. Darrere del rebuig quasi sempre hi ha una història. A vegades és una experiència anterior dolenta: una teràpia mal portada, un professional que va prendre partit. A vegades és el pes del après a casa. A la meva família, els problemes es resolien dintre i no es contaven fora. I a vegades és por en estat pur: por del que sortirà i del que es dirà. Por de descobrir alguna cosa que després no podrà ignorar.",
+      },
+      {
+        type: "heading",
+        text: "La negativa que no sempre és una negativa",
+      },
+      {
+        type: "paragraph",
+        text: "Cal afinar l'escolta, perquè els «no» no són tots iguals. Hi ha un «no» definitiu. Però també hi ha un «no per ara» i un «no d'aquesta manera». A més, n'hi ha un de més simple: un «no» dit sense saber bé què s'ha dit que no. Moltes persones acceptarien parlar amb algú si sabessin què hi trobaran. El que rebutgen és la versió imaginada: el divan, el judici, l'interrogatori on un té raó i l'altre perd.",
+      },
+      {
+        type: "paragraph",
+        text: "També pesa com va arribar la proposta. Si «anem a teràpia» va aparèixer enmig d'una discussió, probablement no s'escoltà com una invitació, sinó com un veredicte. Al capdavall, alguna cosa va tan malament que cal un àrbitre. Normalment ningú no accepta de bona gana ser portat a judici. En canvi, la mateixa frase dita en un moment tranquil obre una porta diferent. Dita en calma, com a pregunta i no com a sentència, s'escolta d'una altra manera.",
+      },
+      {
+        type: "heading",
+        text: "Per què pressionar no funciona",
+      },
+      {
+        type: "paragraph",
+        text: "La maniobra més habitual davant la negativa és la insistència. Tota la lògica del món: si la parella millorés, tots dos hi guanyarien; aleshores repetir i buscar proves sembla raonable. Ara bé, la insistència produeix quasi sempre l'efecte contrari. Cada pressió confirma la sospita que la teràpia és una causa contra ell. El rebuig s'endureix per dignitat. Un empeny, l'altre es planta; com més empeny un, més es planta l'altre.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la insistència té un altre efecte menys visible: posa la relació en pausa. Mentre un espera que l'altre cedeixi, la vida en comú queda suspesa. Es discuteix menys del que passa i més de si vindrà a teràpia. De fet, el tema es converteix en el tema. Ja vam escriure sobre com discutir sense trencar. Aquí la trampa és semblant, perquè la discussió sobre la teràpia substitueix la conversa sobre la relació.",
+      },
+      {
+        type: "heading",
+        text: "El que queda a les teves mans",
+      },
+      {
+        type: "paragraph",
+        text: "Dir que no pots obligar ningú no és dir que no puguis fer res. Pots canviar el marc: parlar del que sents i no del que ell fa malament. «Estic cansada de discutir» s'escolta diferent que «tu necessites ajuda». Pots baixar la temperatura: una invitació no necessita ultimàtum per ser seriosa. També pots anomenar la por que potser hi ha a sota. «No has d'anar per demostrar que m'equivoco; s'hi pot anar només per veure com és».",
+      },
+      {
+        type: "paragraph",
+        text: "També pots presentar el primer pas en la seva mida real. Una teràpia no comença amb un compromís de per vida. Comença amb una visita, amb conèixer el professional, amb preguntar com es treballa. Si la por és al desconegut, val la pena llegir sobre l'ansietat abans de la primera sessió. Normalment, el que s'hi troba és molt més tranquil del que la imaginació dibuixa. De fet, hi ha parelles que van arribar a consulta així. El «no» es va convertir en «va, una visita, i ja ho veurem».",
+      },
+      {
+        type: "heading",
+        text: "Començar sol no és una segona opció",
+      },
+      {
+        type: "paragraph",
+        text: "I si el «no» continua ahí, queda l'opció que quasi ningú no considera de primeres: començar tu. Hi ha una idea estesa: que la teràpia de parella només funciona si hi van tots dos. És una veritat parcial. La relació és un sistema: quan una part del sistema canvia, el sistema sencer es reorganitza. La teràpia individual d'un dels dos altera les regles del joc a casa. A vegades, és la millor manera que l'altre s'interessi pel seu propi procés.",
+      },
+      {
+        type: "paragraph",
+        text: "Començar sol no és rendir-se ni trair la parella. És sostenir-te mentre la relació decideix què vol ser. També és honest. Si el que vols és que algú t'escolti i t'ajudi a veure clar, això ja és un motiu suficient. Ja vam escriure sobre el silenci a la parella. Moltes vegades, qui demana teràpia no busca arreglar l'altre: busca deixar d'estar sola amb el que veu.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per endur-te",
+      },
+      {
+        type: "paragraph",
+        text: "Què estàs esperant que canviï la teva parella per començar a cuidar la relació des del teu costat? A vegades la resposta revela alguna cosa incòmoda: que la conversa pendent no és amb ell. Al capdavall, la porta de la teràpia no s'obre empenyent l'altre, sinó aturant-se al llindar. I això, paradoxalment, és el que més vegades mou qui no volia entrar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes aquesta situació, a Espai Emocions atenem teràpies de parella a Barcelona. També acompanyem processos individuals dins de la relació, presencials o online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa i al teu ritme.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La escena se repite con una precisión notable. Una persona llega a consulta, sola, y en algún momento de la primera sesión dice: «Yo quería venir los dos. Mi pareja no quiere». Trae la frase como si cerrara una puerta: si no venimos los dos, la terapia no puede empezar. La idea es comprensible, pero es falsa. Y sostenerla tiene un coste.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo exploramos qué suele haber detrás de ese «no» y por qué presionar casi nunca funciona. También verás qué espacios reales quedan abiertos cuando uno de los dos no quiere dar el paso. Porque sí quedan. Más de los que parecen.",
+      },
+      {
+        type: "heading",
+        text: "Lo que se oye cuando alguien dice que no",
+      },
+      {
+        type: "paragraph",
+        text: "Un «no quiero ir a terapia» rara vez es un «no» a la terapia. Es un «no» a algo que esa palabra representa para quien la dice. Para algunas personas, ir a terapia significa admitir que fracasaron. En la relación, en la vida, en la imagen que sostenían. Para otras significa entregar la ropa sucia a un desconocido: contar lo que pasa dentro de casa. Además, dejar que alguien meta las manos en el vínculo.",
+      },
+      {
+        type: "paragraph",
+        text: "Y para muchas significa, sencillamente, perder: si él reconoce el problema, queda como el culpable. Detrás del rechazo casi siempre hay una historia. A veces es una experiencia anterior mala: una terapia mal llevada, un profesional que tomó partido. A veces es el peso de lo aprendido en casa. En mi familia, los problemas se resolvían dentro y no se contaban fuera. Y a veces es miedo en estado puro: miedo a lo que saldrá y a lo que se dirá. Miedo a descubrir algo que después no podrá ignorar.",
+      },
+      {
+        type: "heading",
+        text: "La negativa que no siempre es una negativa",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene afinar la escucha, porque los «no» no son todos iguales. Hay un «no» definitivo. Pero también hay un «no por ahora» y un «no de esa manera». Además, hay uno más simple: un «no» dicho sin saber bien qué se ha dicho que no. Muchas personas aceptarían hablar con alguien si supieran qué van a encontrar. Rechazan la versión imaginada: el diván, el juicio, el interrogatorio donde uno gana y el otro pierde.",
+      },
+      {
+        type: "paragraph",
+        text: "También pesa cómo llegó la propuesta. Si «vamos a terapia» apareció en mitad de una discusión, probablemente no se oyó como invitación, sino como veredicto. Al final, algo va tan mal que hace falta un árbitro. Normalmente nadie acepta de buen grado ser llevado a juicio. En cambio, la misma frase dicha en un momento tranquilo abre una puerta distinta. Dicha en calma, como pregunta y no como sentencia, suena de otra manera.",
+      },
+      {
+        type: "heading",
+        text: "Por qué presionar no funciona",
+      },
+      {
+        type: "paragraph",
+        text: "La maniobra más habitual ante la negativa es la insistencia. Toda la lógica del mundo: si la pareja mejorara, ambos ganarían; entonces repetir y argumentar parece razonable. Ahora bien, la insistencia produce casi siempre el efecto contrario. Cada presión confirma la sospecha de que la terapia es una causa contra él. El rechazo se endurece por dignidad. Uno empuja, el otro se planta; cuanto más empuja uno, más se planta el otro.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la insistencia tiene otro efecto menos visible: pone la relación en pausa. Mientras uno espera que el otro ceda, la vida en común queda suspendida. Se discute menos de lo que pasa y más de si irá a terapia. De hecho, el tema se convierte en el tema. Ya escribimos sobre cómo discutir sin romper. Aquí la trampa es parecida, porque la discusión sobre la terapia sustituye a la conversación sobre la relación.",
+      },
+      {
+        type: "heading",
+        text: "Lo que queda en tus manos",
+      },
+      {
+        type: "paragraph",
+        text: "Decir que no puedes obligar a nadie no es decir que no puedas hacer nada. Puedes cambiar el marco: hablar de lo que sientes y no de lo que él hace mal. «Estoy cansada de discutir» suena distinto que «tú necesitas ayuda». Puedes bajar la temperatura: una invitación no necesita ultimátum para ser seria. También puedes nombrar el miedo que quizá hay detrás. «No tienes que ir para demostrar que me equivoco; se puede ir solo para ver cómo es».",
+      },
+      {
+        type: "paragraph",
+        text: "También puedes presentar el primer paso en su tamaño real. Una terapia no empieza con un compromiso de por vida. Empieza con una visita, con conocer al profesional, con preguntar cómo se trabaja. Si el miedo es a lo desconocido, vale la pena leer sobre la ansiedad antes de la primera sesión. Normalmente, lo que allí se encuentra es mucho más tranquilo de lo que la imaginación dibuja. De hecho, hay parejas que llegaron a consulta así. El «no» se convirtió en «vale, una visita, y vemos».",
+      },
+      {
+        type: "heading",
+        text: "Empezar solo no es una segunda opción",
+      },
+      {
+        type: "paragraph",
+        text: "Y si el «no» sigue ahí, queda la opción que casi nadie considera de primeras: empezar tú. Hay una idea extendida: que la terapia de pareja solo funciona si van los dos. Es una verdad parcial. La relación es un sistema: cuando una parte del sistema cambia, el sistema entero se reorganiza. La terapia individual de uno de los dos altera las reglas del juego en casa. A veces, es el mejor modo de que el otro se interese por su propio proceso.",
+      },
+      {
+        type: "paragraph",
+        text: "Empezar solo no es rendirse ni traicionar a la pareja. Es sostenerte mientras la relación decide qué quiere ser. También es honesto. Si quieres que alguien te escuche y te ayude a ver claro, eso ya es motivo suficiente. Ya escribimos sobre el silencio en la pareja. Muchas veces, quien pide terapia no busca arreglar al otro: busca dejar de estar sola con lo que ve.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta para llevarte",
+      },
+      {
+        type: "paragraph",
+        text: "¿Qué estás esperando que cambie tu pareja para empezar a cuidar la relación desde tu lado? A veces la respuesta revela algo incómodo: que la conversación pendiente no es con él. Al final, la puerta de la terapia no se abre empujando al otro, sino deteniéndose en el umbral. Y eso, paradójicamente, es lo que más veces mueve a quien no quería entrar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces esta situación, en Espai Emocions atendemos terapias de pareja en Barcelona. También acompañamos procesos individuales dentro de la relación, presenciales u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa y a tu ritmo.",
+      },
+    ],
+  },
 ]

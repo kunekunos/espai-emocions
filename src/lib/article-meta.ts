@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "mi-pareja-no-quiere-ir-a-terapia",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "La meva parella no vol anar a teràpia: quan un dels dos diu que no",
+    "titleES": "Mi pareja no quiere ir a terapia: cuando uno de los dos dice que no",
+    "excerptCA": "«Jo volia venir tots dos». Qui arriba sola a consulta sovint porta aquesta frase com si tancés una porta: si no hi anem tots dos, res no pot començar. És una idea comprensible, però falsa. Aquí explorem què hi ha realment darrere d'aquest «no», per què pressionar quasi mai no funciona, què sí que queda a les teves mans i per què començar sol no és una segona opció.",
+    "excerptES": "«Yo quería venir los dos». Quien llega solo a consulta suele traer esa frase como si cerrara una puerta: si no vamos los dos, nada puede empezar. Es una idea comprensible, pero falsa. Aquí exploramos qué hay realmente detrás de ese «no», por qué presionar casi nunca funciona, qué sí queda en tus manos y por qué empezar solo no es una segunda opción.",
+    "datePublished": "2026-09-17"
+  },
+  {
     "slug": "mi-pareja-esta-deprimida",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
