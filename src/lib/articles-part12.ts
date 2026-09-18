@@ -1138,4 +1138,185 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 7. celos-en-la-pareja-adulta (pareja / relaciones adultas, 2026-09-18)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "celos-en-la-pareja-adulta",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA:
+      "Els gelos en la parella adulta: el que hi ha sota la sospita",
+    titleES:
+      "Los celos en la pareja adulta: lo que hay debajo de la sospecha",
+    excerptCA:
+      "Els gelos són un dels temes que arriben a consulta amb més vergonya i menys conversa. Se senten a totes les edats, inclosa l'adulta, i quasi mai no són el que semblen: són una alarma que parla del vincle, però també de la història que cada persona porta posada. Aquí explorem el que hi ha sota la sospita, com distingir els gelos sense fonament dels que en tenen, per què la vigilància no protegeix res i com pot ajudar la teràpia a separar dues converses que sovint es barregen.",
+    excerptES:
+      "Los celos son uno de los temas que llegan a consulta con más vergüenza y menos conversación. Se sienten a todas las edades, incluida la adulta, y casi nunca son lo que parecen: son una alarma que habla del vínculo, pero también de la historia que cada persona trae puesta. Aquí exploramos lo que hay debajo de la sospecha, cómo distinguir los celos sin fundamento de los que lo tienen, por qué la vigilancia no protege nada y cómo puede ayudar la terapia a separar dos conversaciones que a menudo se mezclan.",
+    datePublished: "2026-09-18",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "De tots els temes que arriben a consulta, pocs vénen amb tanta vergonya com els gelos. La gent pregunta per l'ansietat sense rubor, explica el dol amb naturalitat, descriu els estats depressius sense abaixar la veu. Els gelos, en canvi, es confessen gairebé en veu baixa. Tenen alguna cosa que avergonyeix: sonen a adolescència, a inseguretat, a alguna cosa que ja no hauria d'aparèixer a aquestes altures de la vida. I tanmateix hi apareixen: als quaranta, als cinquanta, en relacions de molts anys, en segones parelles.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article explorem què són realment els gelos en la vida adulta, què diuen de la teva història i del vincle. També hi veuràs com es poden treballar sense que destrueixin justament allò que intenten protegir. Perquè els gelos tenen una paradoxa coneguda: rarament protegeixen la relació; quasi sempre la van desmuntant per dins.",
+      },
+      {
+        type: "heading",
+        text: "El que els gelos no són",
+      },
+      {
+        type: "paragraph",
+        text: "Els gelos no són una prova d'amor, encara que durant molt de temps s'hagin venut com a tal. Aquella idea romàntica que qui t'estima et vigila ha fet molt de mal. Tampoc no són, en la majoria dels casos, un defecte de caràcter ni una feblesa moral. Són una senyal: una barreja de por, alerta i necessitat de certesa que es dispara quan alguna cosa del vincle es mou. La paraula clau és aquesta: alguna cosa del vincle. Els gelos parlen sempre de la relació, però també, quasi sempre, d'alguna cosa anterior a la relació.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, hi ha persones que han sentit gelos a totes les seves parelles i d'altres que no els han sentit mai. La diferència no és quant estimaven, sinó la història que cadascuna portava posada. Per això convé començar per aquí: els gelos adults quasi sempre tenen arrels més antigues que la parella actual.",
+      },
+      {
+        type: "heading",
+        text: "La història que arriba amb tu",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú no sent gelos des de zero. Qui sent gelos porta una història on la confiança es va trencar alguna vegada, o mai no es va arribar a construir. A vegades és un desamor vist a casa de petit: dos adults que es vigilaven, es reprovaven o es mentien. Altres vegades és una traïció viscuda en primera persona, anys enrere, que va quedar cicatritzant sense revisar. També hi ha qui va aprendre que l'afecte era un recurs escàs: calia guanyar-lo, defensar-lo, no deixar-lo anar.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan aquesta història no s'ha mirat, qualsevol gest ambigu del present la reactiva sencera. Un missatge que triga, una mirada en un sopar, un canvi de to: el sistema d'alarma no distingeix entre l'escena actual i l'antiga. Normalment la persona ho sap i pateix per això. Veus que reaccions desmesuradament, t'avergonyeixes de la teva sospita, promets no repetir-la. Però l'alarma no s'apaga amb bones intencions; s'apaga mirant d'on ve.",
+      },
+      {
+        type: "heading",
+        text: "Quan la sospita té fonament",
+      },
+      {
+        type: "paragraph",
+        text: "Fins aquí, la mirada apunta cap endins. Però hi ha una altra cara que convé anomenar sense embuts: a vegades els gelos detecten alguna cosa real. No tota sospita és projecció; alguna és informació. La distància que ha crescut, els silencis que s'han tornat costum, una infidelitat que encara no ha sortit a la llum. L'instint, en aquests casos, no fabrica res: recull dades.",
+      },
+      {
+        type: "paragraph",
+        text: "La diferència canvia completament el treball. Quan els gelos tenen fonament, la conversa no és només interna; és una conversa de parella sobre allò que ha passat, sobre la confiança i sobre si hi ha res a reconstruir. Ja vam escriure sobre quedar o marxar després d'una infidelitat. Confondre els dos plans és un error freqüent: hi ha qui tracta una traïció real com si fos només la seva inseguretat, i hi ha qui tracta la seva inseguretat com si fos una traïció real. Distingir-ho amb honestitat és el primer pas de qualsevol procés.",
+      },
+      {
+        type: "heading",
+        text: "La vigilància no protegeix",
+      },
+      {
+        type: "paragraph",
+        text: "La reacció més habitual davant els gelos és la vigilància: revisar el telèfon, demanar comptes de les hores, seguir les xarxes, controlar. Produceix un alleujament de minuts i una desconfiança de fons. A més, té un cost doble: en l'altre va tancant la porta que els gelos pretenien mantenir oberta. Ningú no s'acosta amb ganes a qui el mira com un sospitós.",
+      },
+      {
+        type: "paragraph",
+        text: "I en qui vigila, el cost no és menor. Viure pendent de proves és viure en estat d'alerta permanent: cansa el cos i consumeix la relació per dins. És el mateix mecanisme que vam descriure en parlar de la necessitat de control. Al final, la vigilància converteix la casa en un interrogatori. La seguretat que busca no arriba mai per aquesta via, perquè la desconfiança sempre troba una dada nova per revisar. Al capdavall, la confiança no s'aconsegueix espiant: es construeix parlant i, quan ja no es pot construir, es diu.",
+      },
+      {
+        type: "heading",
+        text: "Treballar els gelos: dues converses diferents",
+      },
+      {
+        type: "paragraph",
+        text: "En teràpia, els gelos s'obren quasi sempre en dues converses diferents. La primera és la que cada persona necessita tenir amb ella mateixa: d'on ve l'alarma, quina història l'encén, quina part de la identitat se sent en perill quan l'altra persona s'allunya. Aquest treball és individual i no requereix que la parella hi sigui present. De fet, a vegades és millor que no hi sigui.",
+      },
+      {
+        type: "paragraph",
+        text: "La segona és la que la parella necessita tenir: què ha passat, quins acords sostenen la relació, què es pot prometre i què no. Aquesta conversa no es pot fer amb garanties; es fa amb honestitat. A vegades porta a reconstruir la confiança. En canvi, altres vegades porta a anomenar que la relació s'ha acabat. En tots dos casos, el procés retorna alguna cosa valuosa: saber on ets. En definitiva, madurar no és deixar de sentir gelos mai; és deixar de governar la vida des d'ells.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per endur-te",
+      },
+      {
+        type: "paragraph",
+        text: "Què tems perdre exactament quan apareixen els gelos: l'altra persona o el terra que trepitjaves? La resposta no sempre és la que sembla. Molts gelos no defensen la parella, sinó la pròpia identitat de qui els sent: el lloc, el rol, la certesa de ser escollit. Mirar aquesta pregunta amb honestitat ja mou alguna cosa. Perquè la confiança, al final, no se l'exigeix a l'altre: es construeix entre els dos.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes aquesta situació, a Espai Emocions atenem teràpies de parella a Barcelona. També acompanyem processos individuals dins de la relació, presencials o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses i al teu ritme.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "De todos los temas que llegan a consulta, pocos vienen con tanta vergüenza como los celos. La gente pregunta por la ansiedad sin sonrojo, explica el duelo con naturalidad, describe los estados depresivos sin bajar la voz. Los celos, en cambio, se confiesan casi en susurro. Tienen algo que avergüenza: suenan a adolescencia, a inseguridad, a algo que a estas alturas de la vida no debería aparecer. Y sin embargo aparecen: a los cuarenta, a los cincuenta, en relaciones de muchos años, en segundas parejas.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo exploramos qué son realmente los celos en la vida adulta, qué dicen de tu historia y del vínculo. También verás cómo se pueden trabajar sin que destruyan justo aquello que intentan proteger. Porque los celos tienen una paradoja conocida: rara vez protegen la relación; casi siempre la van desmontando por dentro.",
+      },
+      {
+        type: "heading",
+        text: "Lo que los celos no son",
+      },
+      {
+        type: "paragraph",
+        text: "Los celos no son una prueba de amor, aunque durante mucho tiempo se hayan vendido como tal. Aquella idea romántica de que quien te quiere te vigila ha hecho mucho daño. Tampoco son, en la mayoría de los casos, un defecto de carácter ni una flaqueza moral. Son una señal: una mezcla de miedo, alerta y necesidad de certeza que se dispara cuando algo del vínculo se mueve. La palabra clave es esa: algo del vínculo. Los celos hablan siempre de la relación, pero también, casi siempre, de algo anterior a la relación.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, hay personas que han sentido celos en todas sus parejas y otras que no los han sentido nunca. La diferencia no está en cuánto querían, sino en la historia que cada una traía puesta. Por eso conviene empezar por ahí: los celos adultos casi siempre tienen raíces más antiguas que la pareja actual.",
+      },
+      {
+        type: "heading",
+        text: "La historia que llega contigo",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie siente celos desde cero. Quien siente celos trae una historia donde la confianza se rompió alguna vez, o nunca llegó a construirse. A veces es un desamor visto en casa de niño: dos adultos que se vigilaban, se reprochaban o se mentían. Otras veces es una traición vivida en primera persona, años atrás, que quedó cicatrizando sin revisar. También hay quien aprendió que el afecto era un recurso escaso: había que ganarlo, defenderlo, no soltarlo.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando esa historia no se ha mirado, cualquier gesto ambiguo del presente la reactiva entera. Un mensaje que tarda, una mirada en una cena, un cambio de tono: el sistema de alarma no distingue entre la escena actual y la antigua. Normalmente la persona lo sabe y sufre por ello. Ves que reaccionas desmesuradamente, te avergüenza tu sospecha, prometes no repetirla. Pero la alarma no se apaga con buenas intenciones; se apaga mirando de dónde viene.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la sospecha tiene fundamento",
+      },
+      {
+        type: "paragraph",
+        text: "Hasta aquí, la mirada apunta hacia dentro. Pero hay otra cara que conviene nombrar sin rodeos: a veces los celos detectan algo real. No toda sospecha es proyección; alguna es información. La distancia que ha crecido, los silencios que se han vuelto costumbre, una infidelidad que todavía no ha salido a la luz. El instinto, en estos casos, no fabrica nada: recoge datos.",
+      },
+      {
+        type: "paragraph",
+        text: "La diferencia cambia por completo el trabajo. Cuando los celos tienen fundamento, la conversación no es solo interna; es una conversación de pareja sobre lo que ha pasado, sobre la confianza y sobre si hay algo que reconstruir. Ya escribimos sobre quedar o marchar después de una infidelidad. Confundir los dos planos es un error frecuente: hay quien trata una traición real como si fuera solo su inseguridad, y hay quien trata su inseguridad como si fuera una traición real. Distinguirlo con honestidad es el primer paso de cualquier proceso.",
+      },
+      {
+        type: "heading",
+        text: "La vigilancia no protege",
+      },
+      {
+        type: "paragraph",
+        text: "La reacción más habitual ante los celos es la vigilancia: revisar el teléfono, pedir cuentas de las horas, seguir las redes, controlar. Produce un alivio de minutos y una desconfianza de fondo. Además, tiene un coste doble: en el otro va cerrando la puerta que los celos pretendían mantener abierta. Nadie se acerca con ganas a quien lo mira como a un sospechoso.",
+      },
+      {
+        type: "paragraph",
+        text: "Y en quien vigila, el coste no es menor. Vivir pendiente de pruebas es vivir en estado de alerta permanente: agota el cuerpo y consume la relación por dentro. Es el mismo mecanismo que describimos al hablar de la necesidad de control. Al final, la vigilancia convierte la casa en un interrogatorio. La seguridad que busca no llega nunca por esa vía, porque la desconfianza siempre encuentra un dato nuevo que revisar. En definitiva, la confianza no se consigue espiando: se construye hablando y, cuando ya no se puede construir, se dice.",
+      },
+      {
+        type: "heading",
+        text: "Trabajar los celos: dos conversaciones distintas",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, los celos se abren casi siempre en dos conversaciones distintas. La primera es la que cada persona necesita tener consigo misma: de dónde viene la alarma, qué historia la enciende, qué parte de la identidad se siente en peligro cuando la otra persona se aleja. Este trabajo es individual y no requiere que la pareja esté presente. De hecho, a veces es mejor que no lo esté.",
+      },
+      {
+        type: "paragraph",
+        text: "La segunda es la que la pareja necesita tener: qué ha pasado, qué acuerdos sostienen la relación, qué se puede prometer y qué no. Esta conversación no se puede hacer con garantías; se hace con honestidad. A veces lleva a reconstruir la confianza. En cambio, otras veces lleva a nombrar que la relación se ha acabado. En ambos casos, el proceso devuelve algo valioso: saber dónde estás. En definitiva, madurar no es dejar de sentir celos nunca; es dejar de gobernar la vida desde ellos.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta para llevarte",
+      },
+      {
+        type: "paragraph",
+        text: "¿Qué temes perder exactamente cuando aparecen los celos: a la otra persona o el suelo que pisabas? La respuesta no siempre es la que parece. Muchos celos no defienden a la pareja, sino la propia identidad de quien los siente: el lugar, el rol, la certeza de ser elegido. Mirar esa pregunta con honestidad ya mueve algo. Porque la confianza, al final, no se le exige al otro: se construye entre los dos.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces esta situación, en Espai Emocions atendemos terapias de pareja en Barcelona. También acompañamos procesos individuales dentro de la relación, presenciales u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa y a tu ritmo.",
+      },
+    ],
+  },
 ]

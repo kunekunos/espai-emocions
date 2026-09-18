@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "celos-en-la-pareja-adulta",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Els gelos en la parella adulta: el que hi ha sota la sospita",
+    "titleES": "Los celos en la pareja adulta: lo que hay debajo de la sospecha",
+    "excerptCA": "Els gelos són un dels temes que arriben a consulta amb més vergonya i menys conversa. Se senten a totes les edats, inclosa l'adulta, i quasi mai no són el que semblen: són una alarma que parla del vincle, però també de la història que cada persona porta posada. Aquí explorem el que hi ha sota la sospita, com distingir els gelos sense fonament dels que en tenen, per què la vigilància no protegeix res i com pot ajudar la teràpia a separar dues converses que sovint es barregen.",
+    "excerptES": "Los celos son uno de los temas que llegan a consulta con más vergüenza y menos conversación. Se sienten a todas las edades, incluida la adulta, y casi nunca son lo que parecen: son una alarma que habla del vínculo, pero también de la historia que cada persona trae puesta. Aquí exploramos lo que hay debajo de la sospecha, cómo distinguir los celos sin fundamento de los que lo tienen, por qué la vigilancia no protege nada y cómo puede ayudar la terapia a separar dos conversaciones que a menudo se mezclan.",
+    "datePublished": "2026-09-18"
+  },
+  {
     "slug": "mi-pareja-no-quiere-ir-a-terapia",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
