@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "estilos-apego-adultos-por-que-repites-los-mismos-vinculos",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Estils d'apego en adults: per què reps els mateixos vincles",
+    "titleES": "Estilos de apego en adultos: por qué repites los mismos vínculos",
+    "excerptCA": "Hi ha persones que asseguren que «sempre trien malament», però la veritat és més senzilla i més profunda: no trien, repeteixen. L'apego és la manera que el cos i el sistema nerviós van aprendre de buscar proximitat quan teníem anys i encara no sabíem dir-la. Aquí explorem què són els estils d'apego en l'edat adulta, per què no són una etiqueta definitiva i com es treballen a la teràpia aquells guions de relació que semblen escrits abans de conèixer l'altre.",
+    "excerptES": "Hay personas que aseguran que «siempre eligen mal», pero la verdad es más sencilla y más honda: no eligen, repiten. El apego es la manera que el cuerpo y el sistema nervioso aprendieron de buscar proximidad cuando teníamos años y aún no sabíamos nombrarla. Aquí exploramos qué son los estilos de apego en la edad adulta, por qué no son una etiqueta definitiva y cómo se trabajan en terapia esos guiones de relación que parecen escritos antes de conocer al otro.",
+    "datePublished": "2026-09-19"
+  },
+  {
     "slug": "celos-en-la-pareja-adulta",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

@@ -1319,4 +1319,201 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 8. estilos-apego-adultos-por-que-repites-los-mismos-vinculos (relaciones / madurez, 2026-09-19)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "estilos-apego-adultos-por-que-repites-los-mismos-vinculos",
+    categoryCA: "Relacions",
+    categoryES: "Relaciones",
+    titleCA:
+      "Estils d'apego en adults: per què reps els mateixos vincles",
+    titleES:
+      "Estilos de apego en adultos: por qué repites los mismos vínculos",
+    excerptCA:
+      "Hi ha persones que asseguren que «sempre trien malament», però la veritat és més senzilla i més profunda: no trien, repeteixen. L'apego és la manera que el cos i el sistema nerviós van aprendre de buscar proximitat quan teníem anys i encara no sabíem dir-la. Aquí explorem què són els estils d'apego en l'edat adulta, per què no són una etiqueta definitiva i com es treballen a la teràpia aquells guions de relació que semblen escrits abans de conèixer l'altre.",
+    excerptES:
+      "Hay personas que aseguran que «siempre eligen mal», pero la verdad es más sencilla y más honda: no eligen, repiten. El apego es la manera que el cuerpo y el sistema nervioso aprendieron de buscar proximidad cuando teníamos años y aún no sabíamos nombrarla. Aquí exploramos qué son los estilos de apego en la edad adulta, por qué no son una etiqueta definitiva y cómo se trabajan en terapia esos guiones de relación que parecen escritos antes de conocer al otro.",
+    datePublished: "2026-09-19",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quan algú explica la seva història de relacions, sol aparèixer un patró. Els noms canvien; l'estructura, no. Va haver-hi una parella que no estava disponible i una altra que tampoc. Va haver-hi una relació on vas sostenir tu i una altra on vas sostenir tu. I quan fas la pregunta correcta —per què t'atreus sempre cap al mateix tipus de persona—, la resposta no és que tinguis mala sort.",
+      },
+      {
+        type: "paragraph",
+        text: "La resposta té un nom vell: apeg. No és un terme de moda, encara que últimament es digui molt. És la manera que el cos i el sistema nerviós van aprendre de buscar proximitat i seguretat quan érem massa petits per dir res, i és molt més estable que la memòria. En aquest article explorem què signifiquen els estils d'apego en l'edat adulta, per què no són una etiqueta definitiva i com es pot treballar allò que, de moment, es repeteix sense permís teu.",
+      },
+      {
+        type: "heading",
+        text: "Què és l'apego (i què no és)",
+      },
+      {
+        type: "paragraph",
+        text: "L'apego és el sistema biològic que ens empeny a buscar la proximitat d'una figura de referència quan ens sentim insegurs. Neix per sobreviure: un nador cuidat és un nador protegit. Però en tu va fer alguna cosa més: va aprendre com funciona l'aproximació. Va aprendre si plorar servia, si la proximitat arribava, si mostrar necessitat acostava o espantava, si t'havies d'espavilar sol.",
+      },
+      {
+        type: "paragraph",
+        text: "D'aquest aprenentatge en surt un estil: la manera característica que tens d'apropar-te, d'exigir, d'evitar, d'idealitzar i de marxar. Ara bé, un estil no és un diagnòstic ni una condemna. És una adaptació. De fet, va ser una bona resposta a un context concret; el problema és que s'ha continuat aplicant quan el context ja no és aquell. Un estil d'apego no diu qui ets: diu què vas aprendre, i el que s'aprèn es pot revisar.",
+      },
+      {
+        type: "heading",
+        text: "Com es nota cada estil en la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "En la vida adulta, els estils es reconeixen més pel que passa quan la relació trembla que pel que dius quan està tranquil·la. L'estil ansios, per exemple, no és «ser intens»: és viure amb un termòstat que detecta distància abans que existeixi. Un missatge sense resposta no és un missatge sense resposta; és un senyal. I el cos reacciona com si la marxa fos real. La ràbia que apareix en aquestes situacions no és manipulació: és pànic amb veu de protesta.",
+      },
+      {
+        type: "paragraph",
+        text: "L'estil evitador, en canvi, no és «ser independent»: és haver après que la proximitat sostenida és perillosa o inútil. Quan la relació trembla, l'evitador no s'acosta: redueix. Baixa el volum del vincle i puja el de la feina, del gimnàs o del silenci. A vegades sembla calma; a dintre és distància. I l'estil desorganitzat, el més complex, combina les dues ordres contradictòries: «vine» i «ves-te'n» en el mateix gest. És el més dolorós de sostenir i el que més beneficis obté d'un acompanyament professional.",
+      },
+      {
+        type: "paragraph",
+        text: "Convé dir una cosa amb claredat: cap estil és millor persona que cap altre. L'ansios no és més immadur; l'evitador no és més fort. Són dues respostes al mateix aprendre, i les dues tenen un cost quan funcionen soltes. En canvi, quan dues persones entenen els seus estils, moltes discussions deixen de ser misterioses. No és que siguéssiu incompatibles: és que els vostres sistemes d'alarma parlen idiomes diferents.",
+      },
+      {
+        type: "heading",
+        text: "Per què reps: el patró no és casual",
+      },
+      {
+        type: "paragraph",
+        text: "Ara ve el més incòmode. Els estils d'apego no són neutrals entre ells: s'atrauen. L'ansios i l'evitador, per exemple, formen la parella més repetida de totes. Per què? Perquè cadascun confirma la història de l'altre. L'ansios espera distància i la troba; l'evitador espera exigència i la troba. Cap dels dos és el dolent de la pel·lícula: tots dos es troben com qui torna a casa, encara que la casa faci mal.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, el patró es reforça amb la química mateixa de l'encontre. Allò que resulta intens i inevitable —«mai m'havia sentit això per ningú»— a vegades no és amor extraordinari: és reconeixement. El teu sistema reconeix una emoció antiga i la confon amb destí. Per això les persones tranquil·les i disponibles poden semblar, al principi, avorrides: no encenen cap alarma coneguda. Això explica molt millor el «sempre trien malament» que qualsevol teoria de la sort.",
+      },
+      {
+        type: "paragraph",
+        text: "El patró també funciona fora de la parella. Es nota en amistats que sostenen més del que reben. De fet, apareix en la manera de demanar (o no demanar) ajuda a la feina i en aquella sensació d'estar sempre una mica sol encara que envoltat de gent. Ja vam escriure sobre la soledat que no depèn de la companyia; l'apego és una de les seves arrels més freqüents.",
+      },
+      {
+        type: "heading",
+        text: "Què es pot fer (i què no)",
+      },
+      {
+        type: "paragraph",
+        text: "Primer, el que no. Llegir sobre apeg no cura res per si sol, i conèixer la teoria pot convertir-se en una nova manera de no canviar: «sóc evitador, és el que sóc». Això és usar el llenguatge com una gàbia, no com una porta. Tampoc no serveix fer diagnòstics de l'altre: l'etiqueta que poses a la teva parella sol ser la part del teu sistema que no vols mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, el que sí es pot fer és millor notícia: l'apego no està tancat. La recerca parla d'un «apego guanyat» —earned security, en anglès—: persones que, a través de relacions significatives i de teràpia, van reorganitzar el seu estil. No és un canvi ràpid ni voluntarista; és un aprenentatge emocional que passa a través de l'experiència, no de la lectura. En altres paraules: es canvia a través de vincles, no d'informació.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta, l'apego no es treballa com un tema teòric sinó com una experiència que es desplega en viu. La relació terapèutica és, ella mateixa, un vincle: apareixen les mateixes forces que apareixen fora. La persona ansiosa traurà el cap per comprovar si el psicòleg segueix ahí; l'evitadora farà sessions fluïdes i després pensarà a deixar-ho «perquè ja està». Aquestes reaccions no són distraccions del procés: són el procés. Observar-les amb curiositat i sense judici és part del treball.",
+      },
+      {
+        type: "paragraph",
+        text: "El treball concret sol anar per tres vies. Primer, reconèixer el propi estil sense vergonya, entenent que va ser una resposta intel·ligent a un context. Després, identificar els moments on el sistema s'encén —la pregunta sense resposta, el to canviat, el silenci— i aprendre a quedar-s'hi en lloc d'obeir automàticament. I finalment, sostenir experiències correctores: relacions, també la terapèutica, on la proximitat no és sinònim de perill. A més, quan la teràpia és de parella, els dos estils es poden mirar junts: discutir menys per no entendre, i més per entendre.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per endur-te",
+      },
+      {
+        type: "paragraph",
+        text: "No cal que sàpigues el nom del teu estil per començar. N'hi ha prou amb una pregunta honesta: quan la persona important s'allunya —de veritat o només segons el teu termòstat—, què fa el teu cos? S'acosta, s'allunya o es queda paralitzat? La resposta d'aquesta pregunta val més que qualsevol test d'internet. I és un bon lloc per on començar aquesta conversa amb tu mateix.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes aquests patrons en les teves relacions, a Espai Emocions acompanyem processos individuals i de parella amb adults, a Barcelona o online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp, al teu ritme i sense compromís.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Cuando alguien cuenta su historia de relaciones, suele aparecer un patrón. Los nombres cambian; la estructura, no. Hubo una pareja que no estaba disponible y otra que tampoco. Hubo una relación donde sostuviste tú y otra donde sostuviste tú. Y cuando haces la pregunta correcta —por qué te acercas siempre al mismo tipo de persona—, la respuesta no es que tengas mala suerte.",
+      },
+      {
+        type: "paragraph",
+        text: "La respuesta tiene un nombre antiguo: apego. No es un término de moda, aunque últimamente se diga mucho. Es la manera que el cuerpo y el sistema nervioso aprendieron de buscar proximidad y seguridad cuando éramos demasiado pequeños para decir nada, y es mucho más estable que la memoria. En este artículo exploramos qué significan los estilos de apego en la edad adulta. Verás por qué no son una etiqueta definitiva y cómo se puede trabajar aquello que, por ahora, se repite sin tu permiso.",
+      },
+      {
+        type: "heading",
+        text: "Qué es el apego (y qué no es)",
+      },
+      {
+        type: "paragraph",
+        text: "El apego es el sistema biológico que nos empuja a buscar la cercanía de una figura de referencia cuando nos sentimos inseguros. Nace para sobrevivir: un bebé cuidado es un bebé protegido. Pero en ti hizo algo más: aprendió cómo funciona la aproximación. Aprendió si llorar servía, si la cercanía llegaba, si mostrar necesidad acercaba o espantaba, si tenías que arreglárselas solo.",
+      },
+      {
+        type: "paragraph",
+        text: "De ese aprendizaje sale un estilo: la manera característica que tienes de acercarte, de pedir, de evitar, de idealizar y de marcharte. Ahora bien, un estilo no es un diagnóstico ni una condena. Es una adaptación. De hecho, fue una buena respuesta a un contexto concreto; el problema es que se ha seguido aplicando cuando el contexto ya no es aquel. Un estilo de apego no dice quién eres: dice qué aprendiste, y lo que se aprende se puede revisar.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se nota cada estilo en la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "En la vida adulta, los estilos se reconocen más por lo que pasa cuando la relación tiembla que por lo que dices cuando está tranquila. El estilo ansioso, por ejemplo, no es «ser intenso»: es vivir con un termostato que detecta distancia antes de que exista. Un mensaje sin respuesta no es un mensaje sin respuesta; es una señal. Y el cuerpo reacciona como si la marcha fuera real. La rabia que aparece en esas situaciones no es manipulación: es pánico con voz de protesta.",
+      },
+      {
+        type: "paragraph",
+        text: "El estilo evitativo, en cambio, no es «ser independiente»: es haber aprendido que la cercanía sostenida es peligrosa o inútil. Cuando la relación tiembla, el evitativo no se acerca: reduce. Baja el volumen del vínculo y sube el del trabajo, del gimnasio o del silencio. A veces parece calma; por dentro es distancia. Y el estilo desorganizado, el más complejo, combina las dos órdenes contradictorias: «ven» y «vete» en el mismo gesto. Es el más doloroso de sostentar y el que más se beneficia de un acompañamiento profesional.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decir una cosa con claridad: ningún estilo es mejor persona que ningún otro. El ansioso no es más inmaduro; el evitativo no es más fuerte. Son dos respuestas al mismo aprendizaje, y las dos tienen un coste cuando funcionan sueltas. En cambio, cuando dos personas entienden sus estilos, muchas discusiones dejan de ser misteriosas. No es que fuerais incompatibles: es que vuestros sistemas de alarma hablan idiomas diferentes.",
+      },
+      {
+        type: "heading",
+        text: "Por qué repites: el patrón no es casual",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora viene lo más incómodo. Los estilos de apego no son neutrales entre sí: se atraen. El ansioso y el evitativo, por ejemplo, forman la pareja más repetida de todas. ¿Por qué? Porque cada uno confirma la historia del otro. El ansioso espera distancia y la encuentra; el evitativo espera exigencia y la encuentra. Ninguno de los dos es el malo de la película: ambos se encuentran como quien vuelve a casa, aunque la casa duela.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, el patrón se refuerza con la propia química del encuentro. Aquello que resulta intenso e inevitable —«nunca había sentido esto por nadie»— a veces no es amor extraordinario: es reconocimiento. Tu sistema reconoce una emoción antigua y la confunde con destino. Por eso las personas tranquilas y disponibles pueden parecer, al principio, aburridas: no encienden ninguna alarma conocida. Esto explica mucho mejor el «siempre elijo mal» que cualquier teoría de la suerte.",
+      },
+      {
+        type: "paragraph",
+        text: "El patrón también funciona fuera de la pareja. Se nota en amistades donde sostienes más de lo que recibes. De hecho, aparece en la manera de pedir (o no pedir) ayuda en el trabajo y en esa sensación de estar siempre un poco solo aunque haya gente alrededor. Ya escribimos sobre la soledad que no depende de la compañía; el apego es una de sus raíces más frecuentes.",
+      },
+      {
+        type: "heading",
+        text: "Qué se puede hacer (y qué no)",
+      },
+      {
+        type: "paragraph",
+        text: "Primero, lo que no. Leer sobre apego no cura nada por sí solo, y conocer la teoría puede convertirse en una nueva manera de no cambiar: «soy evitativo, es lo que soy». Eso es usar el lenguaje como una jaula, no como una puerta. Tampoco sirve diagnosticar al otro: la etiqueta que le pones a tu pareja suele ser la parte de tu sistema que no quieres mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, lo que sí se puede hacer es mejor noticia: el apego no está cerrado. La investigación habla de un «apego ganado» —earned security, en inglés—: personas que, a través de relaciones significativas y de terapia, reorganizaron su estilo. No es un cambio rápido ni voluntarista; es un aprendizaje emocional que ocurre a través de la experiencia, no de la lectura. En otras palabras: se cambia a través de vínculos, no de información.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, el apego no se trabaja como un tema teórico sino como una experiencia que se despliega en vivo. La relación terapéutica es, ella misma, un vínculo: aparecen las mismas fuerzas que aparecen fuera. La persona ansiosa asomará la cabeza para comprobar si el psicólogo sigue ahí; la evitativa hará sesiones fluidas y luego pensará en dejarlo «porque ya está». Esas reacciones no son distracciones del proceso: son el proceso. Observarlas con curiosidad y sin juicio es parte del trabajo.",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo concreto suele ir por tres vías. Primero, reconocer el propio estilo sin vergüenza, entendiendo que fue una respuesta inteligente a un contexto. Después, identificar los momentos donde el sistema se enciende —la pregunta sin respuesta, el tono cambiado, el silencio— y aprender a quedarse ahí en lugar de obedecer automáticamente. Y por último, sostener experiencias correctoras: relaciones, también la terapéutica, donde la cercanía no es sinónimo de peligro. Además, cuando la terapia es de pareja, los dos estilos se pueden mirar juntos: discutir menos por no entender, y más por entender.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta para llevarte",
+      },
+      {
+        type: "paragraph",
+        text: "No hace falta que sepas el nombre de tu estilo para empezar. Basta una pregunta honesta: cuando la persona importante se aleja —de verdad o solo según tu termostato—, qué hace tu cuerpo. ¿Se acerca, se aleja o se queda paralizado? La respuesta a esa pregunta vale más que cualquier test de internet. Y es un buen lugar por donde empezar esta conversación contigo mismo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces estos patrones en tus relaciones, en Espai Emocions acompañamos procesos individuales y de pareja con adultos, en Barcelona u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp, a tu ritmo y sin compromiso.",
+      },
+    ],
+  },
 ]
