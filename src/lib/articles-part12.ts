@@ -1516,4 +1516,219 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 9. la-voz-critica-interna-adultos (identidad / autocrítica adulta, 2026-09-20)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "la-voz-critica-interna-adultos",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "La veu crítica interna: qui et parla així i per què l'escoltes",
+    titleES:
+      "La voz crítica interna: quién te habla así y por qué le escuchas",
+    excerptCA:
+      "Hi ha una conversa que sostenim cada dia i de la qual quasi ningú no parla: la que mantens amb la veu que et corregeix. Repassa el que vas dir a la reunió, comenta el teu cos al mirall i dicta la sentència del dia abans de dormir. Aquí explorem d'on surt la veu crítica interna, per què es confon amb l'exigència sana, què fa en la vida adulta —rumiació, bloqueig, distància a la parella— i com es treballa a la teràpia la relació amb aquesta part que jutja. Sense prometre silencis definitius: es tracta de recuperar l'autoritat sobre el propi judici.",
+    excerptES:
+      "Hay una conversación que sostienes cada día y de la que casi nadie habla: la que mantienes con la voz que te corrige. Repasa lo que dijiste en la reunión, comenta tu cuerpo frente al espejo y dicta la sentencia del día antes de dormir. Aquí exploramos de dónde sale la voz crítica interna, por qué se confunde con la exigencia sana, qué hace en la vida adulta —rumiación, bloqueo, distancia en la pareja— y cómo se trabaja en terapia la relación con esa parte que juzga. Sin prometer silencios definitivos: se trata de recuperar la autoridad sobre el propio juicio.",
+    datePublished: "2026-09-20",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una conversa que sostenim cada dia i de la qual quasi ningú no parla. No passa en veu alta i ningú més no l'escolta. Tanmateix, té més autoritat sobre tu que moltes de les persones que estimes. És la conversa amb la veu que et corregeix: la que repassa el que vas dir a la reunió. També és la que comenta el teu cos al mirall i la que dicta sentència just abans de dormir. En aquest article la diem pel seu nom: la veu crítica interna.",
+      },
+      {
+        type: "paragraph",
+        text: "El remarcable no és que existeixi. El remarcable és la relació que mantenim amb ella. Li concedim una autoritat que no donaríem a cap amic. A més, li creiem amb una facilitat que no concedim a gairebé ningú. Aquí explorem d'on surt aquesta veu i per què es confon amb l'exigència sana. També veurem com es treballa, a la teràpia, la relació amb aquesta part que jutja.",
+      },
+      {
+        type: "heading",
+        text: "El que la veu crítica no és",
+      },
+      {
+        type: "paragraph",
+        text: "Cal començar per una distinció. Tothom necessita una instància que avaluï: la que revisa si actuem d'acord amb els nostres valors. A més, és la que adverteix errors i sosté estàndards professionals. Aquesta capacitat de judici és maduresa, no patologia. De fet, sense ella no hi hauria responsabilitat possible, ni aprenentatge, ni ofici que millore.",
+      },
+      {
+        type: "paragraph",
+        text: "La veu crítica, en canvi, és una altra cosa. No avalua: sentencia. No assenyala un error: l'estén a la persona sencera. No diu «això ha sortit malament», sinó «no dones la talla». A més, no s'apaga quan la tasca s'acaba. Continua repassant el que ja està fet, el que no es va fer i el que es tem que vindrà. En aquest punt, doncs, deixa de ser exigència. Es converteix en un dany interior que treballa cada dia sense contracte ni descans.",
+      },
+      {
+        type: "heading",
+        text: "D'on surt aquesta veu",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú no neix parlant-se així. La veu crítica s'aprèn, normalment als llocs on vam aprendre gairebé tot: la casa, l'escola, els primers treballs. Interioritzem els tons amb què ens van corregir. I, amb els anys, els seguim fent servir encara que qui els feia servir ja no hi sigui. De fet, moltes persones descobreixen a teràpia una cosa sorprenent. La frase exacta amb què es castiguen avui la va dir algú concret fa trenta anys.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això l'autocrítica sovint funciona com una lleialtat: mantenir la veu equival a seguir connectat amb qui la va instal·lar. De fet, ja vam escriure sobre les lleialtats invisibles que heretem sense saber-ho. La veu crítica n'és una de les seves formes més freqüents. També pot ser una estratègia de protecció: si em critico jo abans, ningú no em criticarà per sorpresa. Ara bé, la lògica que va tenir sentit aleshores acaba costant més que el perill que evitava.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha, a més, veus que no venen de casa. Entorns competitius, cultures de la imatge, oficis on l'error es paga car: tot això deixa tonalitat. En qualsevol cas, la pregunta útil no és qui té la culpa, sinó qui sosté la veu avui. I aquesta resposta és una: tu. No per culpa, sinó perquè és l'únic lloc des d'on la relació es pot canviar.",
+      },
+      {
+        type: "heading",
+        text: "Què fa la veu crítica en la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta, l'autocrítica arriba disfressada de molts motius. De fet, qui consulta per angoixa sovint descobreix, escoltant bé, un diàleg ininterromput de retrets. Ja vam parlar de la rumiació ansiosa i del preu que paga qui no pot deixar de rumiar. En aquest sentit, la veu crítica és, sovint, el seu motor.",
+      },
+      {
+        type: "paragraph",
+        text: "També hi ha qui consulta per bloqueig: decisions que no s'acaben de prendre. Cada opció passa per un tribunal sense apel·lació. Vam escriure sobre aquella paràlisi de decisió que esgota a l'edat adulta. Per això, amb aquesta veu al damunt, triar es converteix en un examen perpetu.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha la parella. Quan la veu interna és dura, qualsevol comentari de l'altre arriba amplificat. Llavors, una observació petita es converteix en la confirmació d'una sentència que ja portaves escrita. Vam escriure sobre la parella com a mirall del que no volem veure. Ara bé, amb la veu crítica al damunt, el mirall es distorsiona i la distància creix.",
+      },
+      {
+        type: "heading",
+        text: "Treballar la veu a la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia humanista no proposa substituir la veu crítica per un rètol de frases amables. L'objectiu no és l'autoengany positiu, sinó una altra cosa: recuperar l'autoritat sobre el propi judici. Al capdavall, es tracta de reconèixer la veu, entendre què va intentar protegir i decidir amb quina humanitat et vols parlar. Ja vam explicar com funciona la teràpia humanista. De fet, aquest n'és un dels escenaris centrals.",
+      },
+      {
+        type: "paragraph",
+        text: "En el treball amb parts, la veu crítica deixa de ser «jo». Passa a ser una part amb història: una part que va tenir una funció i que pot estar cansada. Sobretot, no és la persona sencera. Al capdavall, madurar no consisteix a deixar d'escoltar-te, sinó a deixar de creure't tot el que et dius. El judici torna a ser teu, amb el teu context, els teus valors i la teva coherència.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la veu crítica",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "És el mateix la veu crítica que el perfeccionisme?",
+          answer: "No exactament. El perfeccionisme és l'estàndard impossible; en canvi, la veu crítica és el to amb què es comenta l'incompliment. Normalment hi van junts: tens l'article sobre quan el perfeccionisme paralitza per veure-ho amb detall.",
+        },
+        {
+          question: "Es pot fer callar la veu crítica per sempre?",
+          answer: "Cap procés seriós no ho promet. De fet, el que sol canviar, amb treball, és la relació amb ella. La veu es torna menys creïble, menys sorollosa i menys al comandament. La veu pot continuar existint; el que es recupera és l'autoritat.",
+        },
+        {
+          question: "Tenir veu crítica vol dir que la meva història va ser difícil?",
+          answer: "No necessàriament. Moltes veus s'instal·len fora de casa: l'escola, els entorns competitius, la cultura de la imatge. Cada història s'escolta en el seu context. Per això, el procés no es limita a buscar orígens, sinó a sostenir el present.",
+        },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una relació per reparar",
+      },
+      {
+        type: "paragraph",
+        text: "La relació amb tu mateix és l'única que no pots deixar. Per això convé mirar-la amb el mateix criteri amb què mires les altres. Si una amistat et parlés com et parles tu, fa temps que l'hauries revisada. En definitiva, no es tracta d'eliminar cap part teva, sinó de deixar de donar-li la presidència.",
+      },
+      {
+        type: "paragraph",
+        text: "Si t'has reconegut en aquesta veu, a Espai Emocions acompanyem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte. O escriure'ns per WhatsApp, al teu ritme i sense compromís.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una conversación que sostienes cada día y de la que casi nadie habla. No ocurre en voz alta y no la escucha nadie más. Sin embargo, tiene más autoridad sobre ti que muchas de las personas que quieres. Es la conversación con la voz que te corrige: la que repasa lo que dijiste en la reunión. También es la que comenta tu cuerpo frente al espejo y la que dicta sentencia justo antes de dormir. En este artículo la llamamos por su nombre: la voz crítica interna.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo llamativo no es que exista. Lo llamativo es la relación que mantenemos con ella. Le concedemos una autoridad que no daríamos a ningún amigo. Además, le creemos con una facilidad que no concedemos a casi nadie. Aquí exploramos de dónde viene esa voz y por qué se confunde con la exigencia sana. También verás cómo se trabaja en terapia la relación con esa parte que juzga.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la voz crítica no es",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene empezar por una distinción. Todas las personas necesitamos una instancia que evalúe: la que revisa si actuamos de acuerdo con nuestros valores. Además, es la que advierte errores y sostiene estándares profesionales. Esa capacidad de juicio es madurez, no patología. De hecho, sin ella no habría responsabilidad posible, ni aprendizaje, ni oficio que mejore.",
+      },
+      {
+        type: "paragraph",
+        text: "La voz crítica, en cambio, es otra cosa. No evalúa: sentencia. No señala un error: lo extiende a la persona entera. No dice «esto salió mal», sino «no das la talla». Además, no se apaga cuando la tarea termina. Sigue repasando lo ya hecho, lo que no se hizo y lo que se teme que vendrá. En ese punto, por tanto, deja de ser exigencia. Se convierte en un daño interior que trabaja cada día sin contrato ni descanso.",
+      },
+      {
+        type: "heading",
+        text: "De dónde viene esa voz",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie nace hablándose así. La voz crítica se aprende, normalmente en los lugares donde aprendimos casi todo: la casa, la escuela, los primeros trabajos. Interiorizamos los tonos con que fuimos corregidos. Y, con los años, seguimos usándolos aunque quien los usaba ya no esté. De hecho, muchas personas descubren en terapia algo sorprendente. La frase exacta con la que se castigan hoy la dijo alguien concreto hace treinta años.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso la autocrítica suele funcionar como una lealtad: mantener la voz equivale a seguir conectado con quien la instaló. De hecho, ya escribimos sobre esas lealtades invisibles que heredamos sin saberlo. La voz crítica es una de sus formas más frecuentes. También puede ser una estrategia de protección: si me critico yo primero, nadie me criticará por sorpresa. Ahora bien, la lógica que tuvo sentido entonces acaba costando más que el peligro que evitaba.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay, además, voces que no vienen de casa. Entornos competitivos, culturas de la imagen, oficios donde el error se paga caro: todo eso deja tonalidad. En cualquier caso, la pregunta útil no es quién tiene la culpa, sino quién sostiene la voz hoy. Y esa respuesta es una: tú. No por culpa, sino porque es el único lugar desde el que la relación se puede cambiar.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la voz crítica hace en la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, la autocrítica llega disfrazada de muchos motivos. De hecho, quien consulta por ansiedad suele descubrir, al escuchar bien, un diálogo interrumpido de reproches. Ya hablamos de la rumiación ansiosa y del precio que paga quien no puede dejar de rumiar. En este sentido, la voz crítica es, a menudo, su motor.",
+      },
+      {
+        type: "paragraph",
+        text: "También hay quien consulta por bloqueo: decisiones que nunca se terminan de tomar. Cada opción pasa por un tribunal sin apelación. Escribimos sobre esa parálisis de decisión que agota en la edad adulta. Por eso, con esta voz encima, elegir se convierte en un examen perpetuo.",
+      },
+      {
+        type: "paragraph",
+        text: "Y está la pareja. Cuando la voz interna es dura, cualquier comentario del otro llega amplificado. Entonces, una observación pequeña se convierte en la confirmación de una sentencia que ya traías escrita. Ya escribimos sobre la pareja como espejo de lo que no queremos ver. Ahora bien, con la voz crítica encima, el espejo se distorsiona y la distancia crece.",
+      },
+      {
+        type: "heading",
+        text: "Trabajar la voz en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia humanista no propone sustituir la voz crítica por un cartel de frases amables. El objetivo no es el autoengaño positivo, sino otra cosa: recuperar la autoridad sobre el propio juicio. Al final, se trata de reconocer la voz, entender qué intentó proteger y decidir con qué humanidad quieres hablarte. Ya explicamos cómo funciona la terapia humanista. De hecho, este es uno de sus escenarios centrales.",
+      },
+      {
+        type: "paragraph",
+        text: "En el trabajo con partes, la voz crítica deja de ser «yo». Pasa a ser una parte con historia: una parte que tuvo una función y que puede estar cansada. Sobre todo, no es la persona entera. Al final, madurar no consiste en dejar de escucharte, sino en dejar de creerte todo lo que te dices. El juicio vuelve a ser tuyo, con tu contexto, tus valores y tu coherencia.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la voz crítica",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "¿Es lo mismo la voz crítica que el perfeccionismo?",
+          answer: "No exactamente. El perfeccionismo es el estándar imposible; en cambio, la voz crítica es el tono con el que se comenta el incumplimiento. Normalmente van juntos: tienes el artículo sobre cuándo el perfeccionismo paraliza para verlo con detalle.",
+        },
+        {
+          question: "¿Se puede hacer callar la voz crítica para siempre?",
+          answer: "Ningún proceso serio lo promete. De hecho, lo que suele cambiar, con trabajo, es la relación con ella. La voz se vuelve menos creíble, menos ruidosa y menos al mando. La voz puede seguir existiendo; lo que se recupera es la autoridad.",
+        },
+        {
+          question: "¿Tener voz crítica significa que mi historia fue difícil?",
+          answer: "No necesariamente. Muchas voces se instalan fuera de casa: la escuela, los entornos competitivos, la cultura de la imagen. Cada historia se escucha en su contexto. Por eso, el proceso no se limita a buscar orígenes, sino a sostener el presente.",
+        },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una relación por reparar",
+      },
+      {
+        type: "paragraph",
+        text: "La relación contigo es la única que no puedes dejar. Por eso conviene mirarla con el mismo criterio con el que miras las demás. Si una amistad te hablara como te hablas tú, hace tiempo que la habrías revisado. En definitiva, no se trata de eliminar ninguna parte tuya, sino de dejar de darle la presidencia.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te has reconocido en esta voz, en Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto. O escribirnos por WhatsApp, a tu ritmo y sin compromiso.",
+      },
+    ],
+  },
 ]

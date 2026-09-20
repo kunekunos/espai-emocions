@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "la-voz-critica-interna-adultos",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La veu crítica interna: qui et parla així i per què l'escoltes",
+    "titleES": "La voz crítica interna: quién te habla así y por qué le escuchas",
+    "excerptCA": "Hi ha una conversa que sostenim cada dia i de la qual quasi ningú no parla: la que mantens amb la veu que et corregeix. Repassa el que vas dir a la reunió, comenta el teu cos al mirall i dicta la sentència del dia abans de dormir. Aquí explorem d'on surt la veu crítica interna, per què es confon amb l'exigència sana, què fa en la vida adulta —rumiació, bloqueig, distància a la parella— i com es treballa a la teràpia la relació amb aquesta part que jutja. Sense prometre silencis definitius: es tracta de recuperar l'autoritat sobre el propi judici.",
+    "excerptES": "Hay una conversación que sostienes cada día y de la que casi nadie habla: la que mantienes con la voz que te corrige. Repasa lo que dijiste en la reunión, comenta tu cuerpo frente al espejo y dicta la sentencia del día antes de dormir. Aquí exploramos de dónde sale la voz crítica interna, por qué se confunde con la exigencia sana, qué hace en la vida adulta —rumiación, bloqueo, distancia en la pareja— y cómo se trabaja en terapia la relación con esa parte que juzga. Sin prometer silencios definitivos: se trata de recuperar la autoridad sobre el propio juicio.",
+    "datePublished": "2026-09-20"
+  },
+  {
     "slug": "estilos-apego-adultos-por-que-repites-los-mismos-vinculos",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
