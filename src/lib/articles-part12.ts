@@ -1731,4 +1731,225 @@ export const articlesPart12: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 10. miedo-a-envejecer-edad-adulta (crisis existenciales / cambios vitales, 2026-09-21)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "miedo-a-envejecer-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA:
+      "La por d'envelleir: què et preocupa realment quan mires cap endavant",
+    titleES:
+      "El miedo a envejecer: qué te preocupa realmente cuando miras hacia delante",
+    excerptCA:
+      "Hi ha una por que no sempre es diu així. A vegades es presenta com pressa per arribar a tot, com obsessió per la imatge o com un cansament que no quadra amb la vida que tens. Enveix —el verb— és l'única cosa que compartim totes les persones, i tanmateix és un dels assumptes que menys conversa pròpia té. Aquí explorem què hi ha de veritat i què de distorsió en la por d'envelleir a l'edat adulta, per què s'activa tan sovint al voltant dels quaranta i els cinquanta, i com es treballa a la teràpia la relació amb el temps que queda.",
+    excerptES:
+      "Hay un miedo que no siempre se llama así. A veces se presenta como prisa por llegar a todo, como obsesión por la imagen o como un cansancio que no encaja con la vida que tienes. Envejecer —el verbo— es lo único que compartimos todas las personas y, sin embargo, es uno de los asuntos con menos conversación propia. Aquí exploramos qué hay de verdad y qué de distorsión en el miedo a envejecer en la edad adulta, por qué se activa tan a menudo alrededor de los cuarenta y los cincuenta, y cómo se trabaja en terapia la relación con el tiempo que queda.",
+    datePublished: "2026-09-21",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "No tothom arriba a dir-ho amb aquestes paraules. La por d'envelleir rarament es presenta amb el seu nom a una consulta. Arriba disfressada d'altres coses. Per exemple, una pressa sobtada per canviar de feina. També una inquietud que s'instal·la després d'un aniversari rodó. O un mirall que comença a mirar-se amb desconfiança. A vegades és la frase d'una coneguda: «encara no he fet res de la llista». Altres vegades, un silenci davant de plans que fa cinc anys feien il·lusió.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem anomenar aquesta por i mirar-la de prop. Què es tem, exactament, quan es tem enveixir? Per què aquesta por s'activa tan sovint a la maduresa adulta, just quan la vida sol ser més estable? I, sobretot, què es pot fer amb ella. Enveix és, de fet, l'única cosa veritablement compartida per totes les persones. Ara bé, cada cultura —i cada història— li dona un significat diferent.",
+      },
+      {
+        type: "heading",
+        text: "Què es tem quan es tem enveixir",
+      },
+      {
+        type: "paragraph",
+        text: "Convé separar les pors que hi ha dins del sac. La primera és la més evident: el cos. Es tem el dolor, la malaltia, la pèrdua de capacitats, la dependència. És una por real, i no té sentit negar-la. Ara bé, convé dir una altra cosa. La majoria de la sofisticació d'una vida adulta —el criteri, els vincles, la manera de comprendre's— no es perd pel fet de fer anys.",
+      },
+      {
+        type: "paragraph",
+        text: "La segona por és menys visible i sovint pesa més: la de temps. No tant la quantitat, sinó la qualitat. La sensació que la llista de coses que encara poden passar s'escurça més ràpid que la llista de coses que ja no tornaran. Aquesta comptabilitat silenciosa genera una urgència especial a la maduresa. És la sensació d'haver arribat a un punt on cada decisió tanca més portes de les que obre.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha una tercera por, la més profunda: la del sentit. Envelleir obliga a respondre preguntes que la joventut podia ajornar. Com he emprat el meu temps? Qui he estat per a la gent que estimo? Què falta perquè la meva història sigui la meva? Aquestes preguntes no són patologia: són el material mateix de qualsevol procés de maduresa. De fet, ja vam escriure sobre aquella crisi de la meitat de la vida. Tan sovint es redueix a un tòpic, i tanmateix és una de les experiències més reals de la maduresa. La por d'envelleir n'és un dels seus rostres.",
+      },
+      {
+        type: "heading",
+        text: "Per què ara: la maduresa com a mirall",
+      },
+      {
+        type: "paragraph",
+        text: "Als vint anys, el futur és un territori obert. Als quaranta i als cinquanta, en canvi, el futur té forma: s'assembla a la vida que tens. Aquesta és la raó per la qual la por d'envelleir rarament visita la joventut. La maduresa funciona com un mirall: mostra què s'ha construït, què s'ha postergat i què ja no tindrà una segona oportunitat igual.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest sentit, la por sovint no és als anys, sinó al desajust. A la distància entre la vida que es duu i la que es considerava pròpia. De fet, és una versió més intensa d'aquell malestar sense nom que ens ocupa des de fa mesos. Alguna cosa no encaixa, i encara no té paraules. Els aniversaris i els cossos només activen l'alarma; el focus és un altre.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha, a més, un context que no ajuda. Vivim en una cultura que tracta l'edat com una cosa a amagar, no a habitar. La publicitat i les xarxes ofereixen la il·lusió d'una joventut perpètua i converteixen cada any en una cosa a disculpar. Ningú no és immune a aquest soroll. Ara bé, el problema no és l'edat: és el criteri amb què cada persona mesura si la seva vida ha estat prou. I aquest criteri es pot examinar.",
+      },
+      {
+        type: "heading",
+        text: "Quan la por es converteix en patró",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una diferència entre tenir por i organitzar la vida al voltant de la por. La segona té senyals recognoscibles. Una relació amb el mirall i amb la imatge que ocupa molt més espai interior del que ocupava. Una pressa crònica que converteix qualsevol plaer en una altra cosa pendent. Decisions importants —de parella, de feina, de lloc— preses amb la lògica de fugir del temps, no d'anar cap a alguna cosa.",
+      },
+      {
+        type: "paragraph",
+        text: "També hi ha persones que envelleix amb negació: abandonen projectes «perquè ja és tard», rebutgen vincles nous, es retiren de la vida abans d'hora. En aquest cas, la por no s'expressa com a angoixa, sinó com a resignació anticipada. Ara bé, les dues formes comparteixen una mateixa creença: que el valor d'una vida esgota amb el temps que li queda. És una creença falsa, i treballar-la canvia molt.",
+      },
+      {
+        type: "heading",
+        text: "Treballar la relació amb el temps",
+      },
+      {
+        type: "paragraph",
+        text: "A la teràpia, la por d'envelleir no es tracta com un símptoma a eliminar, sinó com una porta d'entrada a preguntes que mereixen resposta. Quin criteri estàs fent servir per mesurar la teva vida? De qui és, aquest criteri? Què hi hauria de veritat a la teva història perquè el temps restant no et semblés una amenaça? Sovint, sota la por, hi ha valors que mai no es van arribar a posar en joc. En aquest sentit, convé recuperar allò que vam explorar sobre els valors que canvien sense avisar. Moltes crisis de la maduresa són, en realitat, valors que demanen ser escoltats.",
+      },
+      {
+        type: "paragraph",
+        text: "El treball té dues direccions. La primera, mirar la pròpia història sense reduir-la: reconèixer el que s'ha construït, no només el que falta. La segona, mirar el futur sense la comptabilitat del terror: no com una llista decreixent, sinó com un territori que encara és teu. Entre les dues hi ha la coherència: la sensació d'estar fent servir el temps en allò que, de debò, consideres teu.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la por d'envelleir",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És el mateix la por d'envelleir que una crisi dels quaranta?",
+            answer:
+              "Es toquen, però no coincideixen. La crisi dels quaranta és una reorganització profunda de prioritats i identitat; en canvi, la por d'envelleir pot existir sense crisi i viceversa. Normalment, la por és una de les veus que apareix dins d'una crisi, no tot el fenomen.",
+          },
+          {
+            question: "Preocupar-se per l'edat és vanitat?",
+            answer:
+              "No necessàriament. De fet, quan la preocupació és persistent, sol anar més enllà de la imatge: toca el sentit del propi temps i el valor donat a la pròpia vida. La cultura de la imatge amplifica la part visible, però el fons sol ser una altra cosa.",
+          },
+          {
+            question: "Es pot viure l'edat sense aquesta por?",
+            answer:
+              "Cap vida adulta està lliure de moments de por; tanmateix, la por no ha de ser el criteri amb què s'organitza la vida. Amb treball, el temps es pot tornar territori en lloc d'amenaça. En aquest sentit, la maduresa consisteix a habitar l'edat pròpia, no a defensar-se d'ella.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un temps que és teu",
+      },
+      {
+        type: "paragraph",
+        text: "La por d'envelleir, escoltada amb atenció, diu una cosa útil: que el temps importa. El problema no és aquesta constatació, sinó la conclusió que se'n treu. El valor d'una vida no es mesura pel que li queda, sinó per la profunditat amb què s'habita. Al capdavall, envelleir bé no és resistir-se al canvi: és continuar sent autor de la pròpia història mentre el context canvia.",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquesta por ocupa un lloc massa gran a la teva vida, a Espai Emocions acompanyem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte. O escriure'ns per WhatsApp, al teu ritme i sense compromís.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "No todo el mundo llega a decirlo con esas palabras. El miedo a envejecer rara vez se presenta con su nombre en una consulta. Llega disfrazado de otras cosas. Por ejemplo, una prisa repentina por cambiar de trabajo. También una inquietud que se instala después de un cumpleaños redondo. O un espejo que empieza a mirarse con desconfianza. A veces es la frase de una conocida: «todavía no he hecho nada de la lista». Otras veces, un silencio ante planes que hace cinco años ilusionaban.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos llamar a ese miedo y mirarlo de cerca. ¿Qué se teme, exactamente, cuando se teme envejecer? ¿Por qué ese miedo se activa tan a menudo en la madurez adulta, justo cuando la vida suele ser más estable? Y, sobre todo, qué se puede hacer con él. Envejecer es, de hecho, lo único verdaderamente compartido por todas las personas. Ahora bien, cada cultura —y cada historia— le da un significado distinto.",
+      },
+      {
+        type: "heading",
+        text: "Qué se teme cuando se teme envejecer",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene separar los miedos que hay dentro del saco. El primero es el más evidente: el cuerpo. Se teme el dolor, la enfermedad, la pérdida de capacidades, la dependencia. Es un miedo real, y no tiene sentido negarlo. Ahora bien, conviene decir algo más. La mayor parte de lo que hace valiosa una vida adulta —el criterio, los vínculos, la manera de comprenderse— no se pierde por el hecho de cumplir años.",
+      },
+      {
+        type: "paragraph",
+        text: "El segundo miedo es menos visible y a menudo pesa más: el del tiempo. No tanto la cantidad, sino la calidad. La sensación de que la lista de cosas que todavía pueden pasar se acorta más rápido que la lista de cosas que ya no volverán. Esa contabilidad silenciosa genera una urgencia especial en la madurez. Es la sensación de haber llegado a un punto donde cada decisión cierra más puertas de las que abre.",
+      },
+      {
+        type: "paragraph",
+        text: "Y hay un tercer miedo, el más profundo: el del sentido. Envejecer obliga a responder preguntas que la juventud podía aplazar. ¿Cómo he usado mi tiempo? ¿Quién he sido para la gente que quiero? ¿Qué falta para que mi historia sea mía? Esas preguntas no son patología: son el material mismo de cualquier proceso de madurez. De hecho, ya escribimos sobre esa crisis de la mitad de la vida. Tan a menudo se reduce a un tópico, y sin embargo es una de las experiencias más reales de la madurez. El miedo a envejecer es uno de sus rostros.",
+      },
+      {
+        type: "heading",
+        text: "Por qué ahora: la madurez como espejo",
+      },
+      {
+        type: "paragraph",
+        text: "A los veinte años, el futuro es un territorio abierto. A los cuarenta y a los cincuenta, en cambio, el futuro tiene forma: se parece a la vida que tienes. Esa es la razón por la que el miedo a envejecer rara vez visita la juventud. La madurez funciona como un espejo: muestra qué se ha construido, qué se ha pospuesto y qué ya no tendrá una segunda oportunidad igual.",
+      },
+      {
+        type: "paragraph",
+        text: "En este sentido, el miedo a menudo no es a los años, sino al desajuste. A la distancia entre la vida que se lleva y la que se consideraba propia. De hecho, es una versión más intensa de ese malestar sin nombre que venimos explorando. Algo no encaja, y todavía no tiene palabras. Los cumpleaños y los cuerpos solo activan la alarma; el foco es otro.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay, además, un contexto que no ayuda. Vivimos en una cultura que trata la edad como algo que ocultar, no que habitar. La publicidad y las redes ofrecen la ilusión de una juventud perpetua y convierten cada año en algo que pedir perdón. Nadie es inmune a ese ruido. Ahora bien, el problema no es la edad: es el criterio con el que cada persona mide si su vida ha sido suficiente. Y ese criterio se puede examinar.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo el miedo se convierte en patrón",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una diferencia entre tener miedo y organizar la vida alrededor del miedo. La segunda tiene señales reconocibles. Una relación con el espejo y con la imagen que ocupa mucho más espacio interior del que ocupaba. Una prisa crónica que convierte cualquier placer en otra cosa pendiente. Decisiones importantes —de pareja, de trabajo, de lugar— tomadas con la lógica de huir del tiempo, no de ir hacia algo.",
+      },
+      {
+        type: "paragraph",
+        text: "También hay personas que envejecen con negación: abandonan proyectos «porque ya es tarde», rechazan vínculos nuevos, se retiran de la vida antes de tiempo. En ese caso, el miedo no se expresa como angustia, sino como resignación anticipada. Ahora bien, las dos formas comparten la misma creencia: que el valor de una vida se agota con el tiempo que le queda. Es una creencia falsa, y trabajarla cambia mucho.",
+      },
+      {
+        type: "heading",
+        text: "Trabajar la relación con el tiempo",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, el miedo a envejecer no se trata como un síntoma a eliminar, sino como una puerta de entrada a preguntas que merecen respuesta. ¿Qué criterio estás usando para medir tu vida? ¿De quién es ese criterio? ¿Qué habría de verdad en tu historia para que el tiempo restante no te pareciera una amenaza? A menudo, bajo el miedo, hay valores que nunca llegaron a ponerse en juego. En este sentido, conviene recuperar lo que exploramos sobre los valores que cambian sin avisar. Muchas crisis de la madurez son, en realidad, valores que piden ser escuchados.",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo tiene dos direcciones. La primera, mirar la propia historia sin reducirla: reconocer lo que se ha construido, no solo lo que falta. La segunda, mirar el futuro sin la contabilidad del terror: no como una lista decreciente, sino como un territorio que sigue siendo tuyo. Entre las dos está la coherencia: la sensación de estar usando el tiempo en aquello que, de verdad, consideras tuyo.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el miedo a envejecer",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es lo mismo el miedo a envejecer que una crisis de los cuarenta?",
+            answer:
+              "Se tocan, pero no coinciden. La crisis de los cuarenta es una reorganización profunda de prioridades e identidad; en cambio, el miedo a envejecer puede existir sin crisis, y viceversa. Normalmente, el miedo es una de las voces que aparecen dentro de una crisis, no todo el fenómeno.",
+          },
+          {
+            question: "¿Preocuparse por la edad es vanidad?",
+            answer:
+              "No necesariamente. De hecho, cuando la preocupación es persistente, suele ir más allá de la imagen: toca el sentido del propio tiempo y el valor concedido a la propia vida. La cultura de la imagen amplifica la parte visible, pero el fondo suele ser otra cosa.",
+          },
+          {
+            question: "¿Se puede vivir la edad sin ese miedo?",
+            answer:
+              "Ninguna vida adulta está libre de momentos de miedo; sin embargo, el miedo no tiene que ser el criterio con el que se organiza la vida. Con trabajo, el tiempo puede volver a ser territorio en lugar de amenaza. En este sentido, la madurez consiste en habitar la edad propia, no en defenderse de ella.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un tiempo que es tuyo",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo a envejecer, escuchado con atención, dice algo útil: que el tiempo importa. El problema no es esa constatación, sino la conclusión que se saca de ella. El valor de una vida no se mide por lo que le queda, sino por la profundidad con la que se habita. Al final, envejecer bien no es resistirse al cambio: es seguir siendo autor de la propia historia mientras el contexto cambia.",
+      },
+      {
+        type: "paragraph",
+        text: "Si ese miedo ocupa un lugar demasiado grande en tu vida, en Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto. O escribirnos por WhatsApp, a tu ritmo y sin compromiso.",
+      },
+    ],
+  },
 ]

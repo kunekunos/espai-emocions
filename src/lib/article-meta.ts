@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "miedo-a-envejecer-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "La por d'envelleir: què et preocupa realment quan mires cap endavant",
+    "titleES": "El miedo a envejecer: qué te preocupa realmente cuando miras hacia delante",
+    "excerptCA": "Hi ha una por que no sempre es diu així. A vegades es presenta com pressa per arribar a tot, com obsessió per la imatge o com un cansament que no quadra amb la vida que tens. Enveix —el verb— és l'única cosa que compartim totes les persones, i tanmateix és un dels assumptes que menys conversa pròpia té. Aquí explorem què hi ha de veritat i què de distorsió en la por d'envelleir a l'edat adulta, per què s'activa tan sovint al voltant dels quaranta i els cinquanta, i com es treballa a la teràpia la relació amb el temps que queda.",
+    "excerptES": "Hay un miedo que no siempre se llama así. A veces se presenta como prisa por llegar a todo, como obsesión por la imagen o como un cansancio que no encaja con la vida que tienes. Envejecer —el verbo— es lo único que compartimos todas las personas y, sin embargo, es uno de los asuntos con menos conversación propia. Aquí exploramos qué hay de verdad y qué de distorsión en el miedo a envejecer en la edad adulta, por qué se activa tan a menudo alrededor de los cuarenta y los cincuenta, y cómo se trabaja en terapia la relación con el tiempo que queda.",
+    "datePublished": "2026-09-21"
+  },
+  {
     "slug": "la-voz-critica-interna-adultos",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
