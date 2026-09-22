@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "vidas-desincronizadas-edad-adulta",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Vides desincronitzades: quan la vida dels altres va a un altre ritme que la teva",
+    "titleES": "Vidas desincronizadas: cuando la vida de los demás va a otro ritmo que la tuya",
+    "excerptCA": "Hi ha un malestar que no sempre té nom: sentir que la teva vida i la dels altres van a ritmes diferents. Tu et separes i tothom renova la hipoteca; tu vols fills i el teu grup ja no en parla; tu canvies de ciutat i els teus amics s'arrelen. Aquí explorem per què la comparació fa tant de mal a l'edat adulta, què hi ha de veritat sota la sensació d'arribar tard (o massa d'hora) a la vida i com es treballa a la teràpia la relació amb el propi ritme. Sense calendari ideal: només el teu temps i la teva direcció.",
+    "excerptES": "Hay un malestar que no siempre tiene nombre: sentir que tu vida y la de los demás van a ritmos diferentes. Tú te separas y todo el mundo renueva la hipoteca; tú quieres hijos y tu grupo ya no habla del tema; tú cambias de ciudad y tus amigos echan raíces. Aquí exploramos por qué la comparación duele tanto en la edad adulta, qué hay de verdad bajo la sensación de llegar tarde (o demasiado pronto) a la vida y cómo se trabaja en terapia la relación con el propio ritmo. Sin calendario ideal: solo tu tiempo y tu dirección.",
+    "datePublished": "2026-09-22"
+  },
+  {
     "slug": "miedo-a-envejecer-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
