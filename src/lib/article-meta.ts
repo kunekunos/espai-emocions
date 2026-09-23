@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "lo-que-dices-en-terapia-se-queda-en-terapia",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Com funciona la terapia",
+    "titleCA": "El que dius en teràpia es queda en teràpia: la confidencialitat explicada sense tecnicismes",
+    "titleES": "Lo que dices en terapia se queda en terapia: la confidencialidad explicada sin tecnicismos",
+    "excerptCA": "Hi ha una pregunta que gairebé ningú no fa en veu alta: «podré explicar el que em passa sense que se sàpiga fora de la consulta?» Aquest article la respon amb detall. Què és exactament el secret professional en psicoteràpia, com el protegeix la llei, quines són les úniques excepcions —molt poques— i què canvia quan fas teràpia online. La intimitat no és un detall administratiu: és la condició que fa possible parlar de debò.",
+    "excerptES": "Hay una pregunta que casi nadie dice en voz alta: «¿podré contar lo que me pasa sin que se sepa fuera de la consulta?» Este artículo la responde con detalle. Qué es exactamente el secreto profesional en psicoterapia, cómo lo protege la ley, cuáles son las únicas excepciones —muy pocas— y qué cambia cuando haces terapia online. La intimidad no es un detalle administrativo: es la condición que hace posible hablar de verdad.",
+    "datePublished": "2026-09-23"
+  },
+  {
     "slug": "vidas-desincronizadas-edad-adulta",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
