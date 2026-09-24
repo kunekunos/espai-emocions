@@ -484,4 +484,233 @@ export const articlesPart13: ArticleContent[] = [
       },
     ],
   },
-]
+  // ---------------------------------------------------------------------------
+  // 3. jubilacion-crisis-identidad-adulta (cambios vitales, 2026-09-24)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "jubilacion-crisis-identidad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Jubilació: qui ets quan la feina deixa de definir-te",
+    titleES: "Jubilación: quién eres cuando el trabajo deja de defininirte",
+    excerptCA: "Hi ha comiats que ningú no assaja. La jubilació no és només el final de la feina: és una pregunta d'identitat que la vida laboral mantenia apartada. Qui ets quan el càrrec desapareix, el calendari es buida i la utilitat deixa de respondre per tu. Aquí explorem què es perd de debò —temps, vincle, reconeixement—, per què moltes persones la viuen amb una ambivalència que amb prou feines s'atreveixen a anomenar i com es treballa a teràpia aquesta darrera gran transició de la vida adulta.",
+    excerptES: "Hay despedidas que nadie ensaya. La jubilación no es solo el fin del trabajo: es una pregunta de identidad que la vida laboral mantenía apartada. Quién eres cuando el cargo desaparece, el calendario se vacía y la utilidad deja de responder por ti. Aquí exploramos qué se pierde de verdad —tiempo, vínculo, reconocimiento—, por qué muchas personas la viven con una ambivalencia que apenas se atreven a nombrar y cómo se trabaja en terapia esta última gran transición de la vida adulta.",
+    datePublished: "2026-09-24",
+      blocksCA: [
+        {
+          type: "paragraph",
+          text: "Hi ha comiats que es preparen durant anys i d'altres que ningú no assaja. La jubilació és dels segons. Durant dècades, la feina organitza el temps, ordena les converses i respon, gairebé sense demanar-ho, a una pregunta delicada: qui ets. Per això, quan arriba l'últim dia, moltes persones senten alguna cosa més que alleujament. Senten que es queda fora una part d'elles mateixes.",
+        },
+        {
+          type: "paragraph",
+          text: "Aquest article parla de la jubilació com a crisi d'identitat adulta. No com a tràmit administratiu ni com a etapa daurada de la publicitat, sinó com el que sol ser: un canvi profund en la manera de sostenir-se al món. De fet, hi ha qui la viu amb entusiasme; ara bé, també hi ha qui la travessa amb un buit que amb prou feines s'atreveix a anomenar.",
+        },
+        {
+          type: "heading",
+          text: "La feina com a identitat prestada",
+        },
+        {
+          type: "paragraph",
+          text: "A l'edat adulta, la pregunta «a què et dediques?» funciona com a presentació. Respon abans que tu expliquis res més. A més, per a moltes persones la professió no és només una activitat: és una manera de veure's. «Soc metgessa», «porto l'empresa de la família»: cada frase sostén una identitat construïda durant dècades.",
+        },
+        {
+          type: "paragraph",
+          text: "Els psicòlegs ho anomenen identitat laboral. Normalment, no és cap problema: un rol clar dona estructura, pertinença i reconeixement. Ara bé, quan aquest rol desapareix de cop, la identitat que sostenia queda suspesa. En aquest sentit, jubilar-se s'assembla a una adolescència tardana: la mateixa pregunta —qui soc— amb una altra biografia.",
+        },
+        {
+          type: "heading",
+          text: "El que es perd i poques vegades s'anomena",
+        },
+        {
+          type: "paragraph",
+          text: "La jubilació treu de cop tres estructures invisibles. La primera és el temps: tot el dia, sense horaris que el sostinguin. La segona és el vincle: els companys amb qui es compartien la tensió i l'humor desapareixen amb una rapidesa que sorprèn. La tercera és la utilitat: la sensació quotidiana que allò que fas importa a algú.",
+        },
+        {
+          type: "paragraph",
+          text: "De fet, aquesta última és la més difícil de perdre. La societat valora la productivitat; en conseqüència, molts adults jubilats senten que passen a un segon pla. Ningú no ho diu: simplement es nota. Menys trucades, menys reunions, menys preguntes. A més, el malestar sol aparèixer disfressat: insomni, irritabilitat, discussions de parella, símptomes físics sense causa clara.",
+        },
+        {
+          type: "heading",
+          text: "La pregunta que torna: qui soc ara",
+        },
+        {
+          type: "paragraph",
+          text: "Darrere del buit hi ha una pregunta antiga que la vida laboral mantenia apartada: qui soc quan no produeixo, quan no decideixo, quan ningú no em necessita. Moltes persones la posposen durant anys perquè la feina els respondia per elles. Tanmateix, la jubilació la posa al mig de la taula.",
+        },
+        {
+          type: "paragraph",
+          text: "La crisi també conté una oportunitat. Per exemple, permet distingir entre allò que un feia i allò que valora: la part de l'ofici que importa, la que s'acomiada sense culpa, la que es transforma. Al capdavall, madurar és precisament això: sostenir la identitat pròpia sense dependre d'un escenari extern.",
+        },
+        {
+          type: "heading",
+          text: "Com es treballa a teràpia",
+        },
+        {
+          type: "paragraph",
+          text: "A consulta, la jubilació sol arribar amb vergonya. «Hauria d'estar contenta», diu la persona, «i tanmateix em sento perduda». La feina terapèutica comença per legitimar aquesta ambivalència: sentir dolor enmig d'un canvi anunciat no és ingratitud. És humanitat.",
+        },
+        {
+          type: "paragraph",
+          text: "Després, el procés té diverses direccions. La primera, acomiadar la identitat que se'n va: anomenar-la, agrair-la, deixar-la marxar. La segona, reconstruir el vincle: quines relacions de la feina mereixen continuar fora d'ella. La tercera, revisar els valors: què volia aquesta persona, de jove, abans que l'ofici l'organitzés. En definitiva, es tracta de passar d'una identitat prestada a una identitat pròpia.",
+        },
+        {
+          type: "heading",
+          text: "Preguntes freqüents: la jubilació i la identitat",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "És normal sentir-se malament en jubilar-se si ho he desitjat durant anys?",
+              answer: "Sí. De fet, desitjar el descans i enyorar el rol no es contradiuen: són dues veritats simultànies. A més, l'ambivalència forma part de qualsevol dol.",
+            },
+            {
+              question: "És diferent jubilar-se per acomiadament o malaltia?",
+              answer: "Normalment, sí, perquè no hi ha comiat preparat. En canvi, la jubilació triada permet assajar la sortida; la imposada arriba sense marc i sol necessitar més acompanyament.",
+            },
+            {
+              question: "Pot afectar la parella?",
+              answer: "Sens dubte. Compartir de cop més hores i menys estructures tensa els vincles; tanmateix, també permet retrobar-se. En aquest sentit, la teràpia de parella ajuda a redistribuir l'espai comú.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "Preguntes freqüents: quan demanar ajuda",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "Quan convé consultar un psicòleg després de la jubilació?",
+              answer: "Quan el malestar s'instal·la: insomni persistent, tristesa sostinguda, aïllament o discussions que no cedeixen. Per exemple, si després de sis mesos la vida segueix sense un ordre propi, convé demanar ajuda.",
+            },
+            {
+              question: "La teràpia consisteix a buscar una segona activitat?",
+              answer: "No necessàriament. A vegades apareix un projecte nou; ara bé, altres vegades el que emergeix és una altra cosa: més presència, més vincle, menys pressa. Al capdavall, la teràpia acompanya la pregunta d'identitat; no la resol amb una agenda.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "El temps que ve",
+        },
+        {
+          type: "paragraph",
+          text: "La jubilació, ben acompanyada, pot ser el que la paraula promet: jubileu, no només cessament. Ara bé, aquest pas no passa sol. Normalment exigeix revisar la història, els vincles i els valors. En definitiva, és una de les darreres grans transicions de la vida adulta i, com totes, mereix una conversa pròpia.",
+        },
+        {
+          type: "paragraph",
+          text: "Si la jubilació s'acosta, o ja ha arribat i pesa més del que esperaves, a Espai Emocions acompanyem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte, o escriure'ns per WhatsApp. Sense pressa: precisament d'això va.",
+        },
+      ],
+      blocksES: [
+        {
+          type: "paragraph",
+          text: "Hay despedidas que se preparan durante años y otras que nadie ensaya. La jubilación es de las segundas. Durante décadas, el trabajo organiza el tiempo, ordena las conversaciones y responde, casi sin pedirlo, a una pregunta delicada: quién eres. Por eso, cuando llega el último día, muchas personas sienten algo más que alivio. Sienten que se queda fuera una parte de sí mismas.",
+        },
+        {
+          type: "paragraph",
+          text: "Este artículo habla de la jubilación como crisis de identidad adulta. No como trámite administrativo ni como etapa dorada de la publicidad, sino como lo que suele ser: un cambio profundo en la manera de sostenerse en el mundo. De hecho, hay quien la vive con entusiasmo; ahora bien, también hay quien la atraviesa con un vacío que apenas se atreve a nombrar.",
+        },
+        {
+          type: "heading",
+          text: "El trabajo como identidad prestada",
+        },
+        {
+          type: "paragraph",
+          text: "En la edad adulta, la pregunta «¿a qué te dedicas?» funciona como presentación. Responde antes de que tú expliques nada más. Además, para muchas personas la profesión no es solo una actividad: es un modo de verse. «Soy médica», «llevo la empresa de mi familia»: cada frase sostiene una identidad construida durante décadas.",
+        },
+        {
+          type: "paragraph",
+          text: "Los psicólogos lo llaman identidad laboral. Normalmente, no es ningún problema: un rol claro da estructura, pertenencia y reconocimiento. Ahora bien, cuando ese rol desaparece de golpe, la identidad que sostenía queda suspendida. En este sentido, jubilarse se parece a una adolescencia tardía: la misma pregunta —quién soy— con otra biografía.",
+        },
+        {
+          type: "heading",
+          text: "Lo que se pierde y pocas veces se nombra",
+        },
+        {
+          type: "paragraph",
+          text: "La jubilación quita de una vez tres estructuras invisibles. La primera es el tiempo: el día entero, sin horarios que lo sostengan. La segunda es el vínculo: los compañeros con quienes se compartían la tensión y el humor desaparecen con una rapidez que sorprende. La tercera es la utilidad: la sensación cotidiana de que lo que haces le importa a alguien.",
+        },
+        {
+          type: "paragraph",
+          text: "De hecho, esta última es la más difícil de perder. La sociedad valora la productividad; en consecuencia, muchos adultos jubilados sienten que pasan a un segundo plano. Nadie lo dice: simplemente se nota. Menos llamadas, menos reuniones, menos preguntas. Además, el malestar suele aparecer disfrazado: insomnio, irritabilidad, discusiones de pareja, síntomas físicos sin causa clara.",
+        },
+        {
+          type: "heading",
+          text: "La pregunta que vuelve: quién soy ahora",
+        },
+        {
+          type: "paragraph",
+          text: "Detrás del vacío hay una pregunta antigua que la vida laboral mantenía apartada: quién soy cuando no produzco, cuando no decido, cuando nadie me necesita. Muchas personas la posponen durante años porque el trabajo la respondía por ellas. Sin embargo, la jubilación la coloca en el centro de la mesa.",
+        },
+        {
+          type: "paragraph",
+          text: "La crisis también contiene una oportunidad. Por ejemplo, permite distinguir entre lo que uno hacía y lo que valora: la parte del oficio que importa, la que se despide sin culpa, la que se transforma. Al final, madurar es precisamente esto: sostener la propia identidad sin depender de un escenario externo.",
+        },
+        {
+          type: "heading",
+          text: "Cómo se trabaja en terapia",
+        },
+        {
+          type: "paragraph",
+          text: "En consulta, la jubilación suele llegar con vergüenza. «Debería estar contento», dice la persona, «y sin embargo me siento perdido». El trabajo terapéutico empieza por legitimar esa ambivalencia: sentir dolor en medio de un cambio anunciado no es ingratitud. Es humanidad.",
+        },
+        {
+          type: "paragraph",
+          text: "Después, el proceso tiene varias direcciones. La primera, despedir la identidad que se va: nombrarla, agradecerla, dejarla marchar. La segunda, reconstruir el vínculo: qué relaciones del trabajo merecen continuar fuera de él. La tercera, revisar los valores: qué quería esta persona, de joven, antes de que el oficio la organizara. En definitiva, se trata de pasar de una identidad prestada a una identidad propia.",
+        },
+        {
+          type: "heading",
+          text: "Preguntas frecuentes: la jubilación y la identidad",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "¿Es normal sentirse mal al jubilarse si lo he deseado durante años?",
+              answer: "Sí. De hecho, desear el descanso y echar de menos el rol no se contradicen: son dos verdades simultáneas. Además, la ambivalencia forma parte de cualquier duelo.",
+            },
+            {
+              question: "¿Es diferente jubilarse por despido o enfermedad?",
+              answer: "Normalmente, sí, porque no hay despedida preparada. En cambio, la jubilación elegida permite ensayar la salida; la impuesta llega sin marco y suele necesitar más acompañamiento.",
+            },
+            {
+              question: "¿Puede afectar a la pareja?",
+              answer: "Sin duda. Compartir de golpe más horas y menos estructuras tensa los vínculos; sin embargo, también permite redescubrirse. En este sentido, la terapia de pareja ayuda a redistribuir el espacio común.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "Preguntas frecuentes: cuándo pedir ayuda",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "¿Cuándo conviene consultar a un psicólogo tras la jubilación?",
+              answer: "Cuando el malestar se instala: insomnio persistente, tristeza sostenida, aislamiento o discusiones que no ceden. Por ejemplo, si tras seis meses la vida sigue sin un orden propio, conviene pedir ayuda.",
+            },
+            {
+              question: "¿La terapia consiste en buscar una segunda actividad?",
+              answer: "No necesariamente. A veces aparece un proyecto nuevo; ahora bien, otras veces lo que emerge es otra cosa: más presencia, más vínculo, menos prisa. Al final, la terapia acompaña la pregunta de identidad; no la resuelve con una agenda.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "El tiempo que viene",
+        },
+        {
+          type: "paragraph",
+          text: "La jubilación, bien acompañada, puede ser lo que la palabra promete: júbilo, no solo cese. Ahora bien, ese paso no ocurre solo. Normalmente exige revisar la historia, los vínculos y los valores. En definitiva, es una de las últimas grandes transiciones de la vida adulta y, como todas, merece una conversación propia.",
+        },
+        {
+          type: "paragraph",
+          text: "Si la jubilación se acerca, o ya ha llegado y pesa más de lo esperado, en Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto, o escribirnos por WhatsApp. Sin prisa: precisamente de eso va.",
+        },
+      ],
+  },
+];
