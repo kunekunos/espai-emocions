@@ -17,7 +17,7 @@ export const articleMeta: ArticleMeta[] = [
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
     "titleCA": "Jubilació: qui ets quan la feina deixa de definir-te",
-    "titleES": "Jubilación: quién eres cuando el trabajo deja de defininirte",
+    "titleES": "Jubilación: quién eres cuando el trabajo deja de definirte",
     "excerptCA": "Hi ha comiats que ningú no assaja. La jubilació no és només el final de la feina: és una pregunta d'identitat que la vida laboral mantenia apartada. Qui ets quan el càrrec desapareix, el calendari es buida i la utilitat deixa de respondre per tu. Aquí explorem què es perd de debò —temps, vincle, reconeixement—, per què moltes persones la viuen amb una ambivalència que amb prou feines s'atreveixen a anomenar i com es treballa a teràpia aquesta darrera gran transició de la vida adulta.",
     "excerptES": "Hay despedidas que nadie ensaya. La jubilación no es solo el fin del trabajo: es una pregunta de identidad que la vida laboral mantenía apartada. Quién eres cuando el cargo desaparece, el calendario se vacía y la utilidad deja de responder por ti. Aquí exploramos qué se pierde de verdad —tiempo, vínculo, reconocimiento—, por qué muchas personas la viven con una ambivalencia que apenas se atreven a nombrar y cómo se trabaja en terapia esta última gran transición de la vida adulta.",
     "datePublished": "2026-09-24"
