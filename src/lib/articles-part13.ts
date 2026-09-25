@@ -711,6 +711,249 @@ export const articlesPart13: ArticleContent[] = [
           type: "paragraph",
           text: "Si la jubilación se acerca, o ya ha llegado y pesa más de lo esperado, en Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto, o escribirnos por WhatsApp. Sin prisa: precisamente de eso va.",
         },
-      ],
-  },
-];
+        ],
+        },
+        // ---------------------------------------------------------------------------
+        // 4. ansiedad-domingo-tarde (ansiedad adulta, 2026-09-25)
+        // ---------------------------------------------------------------------------
+        {
+        slug: "ansiedad-domingo-tarde",
+        categoryCA: "Ansietat",
+        categoryES: "Ansiedad",
+        titleCA:
+        "L'ansietat del diumenge a la tarda: quan la setmana et pregunta",
+        titleES:
+        "La ansiedad del domingo por la tarde: cuando la semana te pregunta",
+        excerptCA:
+        "Hi ha un malestar amb horari fix que gairebé ningú no anomena en veu alta: la inquietud que apareix el diumenge, cap a les sis de la tarda, quan la llum baixa i la casa calla. No és tristesa ni cansament; és anticipació. Aquí explorem per què el cos comença a preparar el dilluns abans que arribi, què diu aquesta inquietud de la vida que es porta —feina, vincles, identitat— i com es treballa a la teràpia. Sense demonizar la calma del diumenge: escoltant el que la setmana, amb el seu soroll, no deixa sentir.",
+        excerptES:
+        "Hay un malestar con horario fijo que casi nadie nombra en voz alta: la inquietud que aparece el domingo, hacia las seis de la tarde, cuando la luz baja y la casa calla. No es tristeza ni cansancio; es anticipación. Aquí exploramos por qué el cuerpo empieza a preparar el lunes antes de que llegue, qué dice esta inquietud de la vida que se lleva —trabajo, vínculos, identidad— y cómo se trabaja en terapia. Sin demonizar la calma del domingo: escuchando lo que la semana, con su ruido, no deja oír.",
+        datePublished: "2026-09-25",
+        blocksCA: [
+        {
+          type: "paragraph",
+          text: "Hi ha un malestar amb horari fix que gairebé ningú no anomena en veu alta. Apareix el diumenge, cap a les sis de la tarda, quan la llum baixa i la casa comença a callar. No és exactament tristesa. Ara bé, tampoc no és descans. És una inquietud difusa que moltes persones adultes reconeixen abans de saber explicar-la: l'ansietat del diumenge a la tarda.",
+        },
+        {
+          type: "paragraph",
+          text: "Aquest article parla d'aquesta inquietud. No és cap excentricitat ni cap moda de benestar: de fet, té la seva lògica. El diumenge a la tarda condensa alguna cosa molt humana. D'una banda, la setmana que s'acaba demana balanç. De l'altra, la setmana que ve demana preparació. Entre totes dues, la ment adulta es posa a treballar sense demanar permís.",
+        },
+        {
+          type: "heading",
+          text: "Un malestar amb horari propi",
+        },
+        {
+          type: "paragraph",
+          text: "L'ansietat del diumenge té trets reconeixibles. Arriba amb la caiguda de la llum, no amb cap esdeveniment concret. A més, apareix fins i tot en caps de setmana agradables: l'excursió va sortir bé i el dinar va ser llarg i plaent; tanmateix, cap a la mitja tarda baixa un teló fi. La conversa perd guspira, el cos s'inquieta i apareix la necessitat vaga de «fer alguna cosa», sense saber què.",
+        },
+        {
+          type: "paragraph",
+          text: "Els psicòlegs ho descriuen com ansietat anticipatòria amb rellotge. El cos comença a preparar el dilluns abans que arribi el dilluns. Normalment no hi ha cap motiu puntual: la reunió de dimarts, el correu pendent, la sensació que la setmana ve carregada. El sistema nerviós no distingeix gaire entre anticipar i viure; per això, la tarda del diumenge pot semblar una jornada que encara no ha començat.",
+        },
+        {
+          type: "heading",
+          text: "El que la setmana diu de tu",
+        },
+        {
+          type: "paragraph",
+          text: "El diumenge a la tarda funciona com un mirall poc amable. En la vida adulta, aquesta inquietud sol créixer quan alguna cosa de la vida encaixa malament. A vegades és la feina: la sensació que el que ve no representa el que vols. A vegades és la parella, la família o simplement una pregunta d'identitat que portes mesos ajornant. La setmana que arriba no és només una setmana: és una versió condensada del teu dia a dia.",
+        },
+        {
+          type: "paragraph",
+          text: "Per això convé prendre-la seriosament. L'ansietat del diumenge no sempre anuncia un problema gran; ara bé, és informació. Assenyala on s'acumula la tensió, quines relacions pesen, quines tasques s'aguanten en lloc d'escollir-se. De fet, moltes persones descobreixen a consulta que aquell malestar va ser el primer avís honest d'un esgotament més gran. Ja vam parlar del burnout en un altre article; el diumenge és, sovint, la seva taquicàrdia silenciosa.",
+        },
+        {
+          type: "heading",
+          text: "Quan el diumenge pesa més del compte",
+        },
+        {
+          type: "paragraph",
+          text: "No tota inquietud del diumenge és patològica. És normal sentir una certa malenconia quan s'acaba una cosa bona. Tanmateix, hi ha senyals que mereixen atenció. La primera és la intensitat: si cada setmana apareix irritabilitat, opressió al pit o insomni, ja no parlem d'un matís del descans. La segona és la generalització: quan el malestar avança cap al dijous a la tarda, o cap a les vacances, alguna cosa més gran s'està dient.",
+        },
+        {
+          type: "paragraph",
+          text: "També compta el cost. Algunes persones organitzen el cap de setmana sencer per no sentir la tarda del diumenge: plans sense treva, pantalles, alcohol. Funciona durant una temporada; no obstant això, l'estratègia cobra el seu preu. L'evitació calma el símptoma i deixa intacta la causa. En canvi, quan el diumenge es pot habitar amb calma, tot i incomodar, sol ser senyal d'una vida més coherent amb ella mateixa.",
+        },
+        {
+          type: "heading",
+          text: "Com es treballa a la teràpia",
+        },
+        {
+          type: "paragraph",
+          text: "A consulta, l'ansietat del diumenge es treballa en dues direccions. La primera és simptomàtica: entendre què activa el cos, quins pensaments apareixen en bucle i quines decisions petites de la setmana poden baixar la tensió. La segona és més fonda. Es tracta d'escoltar què diu aquell malestar de la vida que es porta: la feina, els vincles, els valors, la identitat.",
+        },
+        {
+          type: "paragraph",
+          text: "Moltes vegades, el procés revela una pregunta silenciosa: vull aquesta vida que comença el dilluns? La resposta no sempre és canviar-ho tot. A vegades és ajustar: delegar, posar límits, recuperar espai propi. Altres vegades, en canvi, la pregunta obre una crisi necessària que la persona portava anys ajornant. En definitiva, el diumenge a la tarda és una invitació incòmoda a revisar la pròpia coherència.",
+        },
+        {
+          type: "heading",
+          text: "Preguntes freqüents: l'ansietat del diumenge",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "Per què em passa el diumenge i no el dissabte?",
+              answer:
+                "Perquè el dissabte no amenaça amb res: la setmana encara és lluny. En canvi, el diumenge a la tarda la ment ja anticipa el dilluns. A més, el contrast entre el temps lliure i el temps obligat ho accentua.",
+            },
+            {
+              question: "És el mateix que la «síndrome del diumenge»?",
+              answer:
+                "Molta gent ho anomena així. Ara bé, més que una síndrome, és una reacció comprensible a setmanes carregades. Es converteix en problema quan es repeteix amb intensitat cada setmana.",
+            },
+            {
+              question: "Es pot combatre amb rutines de diumenge?",
+              answer:
+                "Les rutines ajuden alguns cossos a sentir seguretat. Tanmateix, per si soles no responen la pregunta de fons: quina part de la teva vida genera aquesta anticipació. En aquest sentit, són un suport, no una resposta.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "Preguntes freqüents: quan consultar",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "Quan convé parlar amb un psicòleg?",
+              answer:
+                "Quan la inquietud es repeteix cada setmana, altera la son o el diumenge es converteix en un dia que cal sobreviure. Per exemple, si fa mesos que dura, convé revisar-ho amb ajuda professional.",
+            },
+            {
+              question: "La teràpia online serveix per a aquest malestar?",
+              answer:
+                "Sí. De fet, és un motiu de consulta molt habitual per videoconsulta. L'ansietat anticipatòria es treballa bé amb continuïtat setmanal, presencial o online.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "El diumenge com a conversa",
+        },
+        {
+          type: "paragraph",
+          text: "L'ansietat del diumenge a la tarda no és un enemic que hagi de desaparèixer. És una conversa interna que la setmana, amb el seu soroll, no permet escoltar. Prendre-la seriosament vol dir preguntar-se, amb honestitat, què hi ha en el dilluns que el cos no vol trobar. A vegades la resposta és petita i manejable. Altres vegades és la porta d'un canvi més important. Al capdavall, madurar també és saber de què està feta la pròpia quietud.",
+        },
+        {
+          type: "paragraph",
+          text: "Si els diumenges a la tarda s'han tornat difícils, a Espai Emocions acompanyem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa: precisament d'això va.",
+        },
+        ],
+        blocksES: [
+        {
+          type: "paragraph",
+          text: "Hay un malestar con horario fijo que casi nadie nombra en voz alta. Aparece el domingo, hacia las seis de la tarde, cuando la luz baja y la casa empieza a callar. No es exactamente tristeza. Ahora bien, tampoco es descanso. Es una inquietud difusa que muchas personas adultas reconocen antes de saber explicarla: la ansiedad del domingo por la tarde.",
+        },
+        {
+          type: "paragraph",
+          text: "Este artículo habla de esa inquietud. No es una excentricidad ni una moda de bienestar: de hecho, tiene su propia lógica. El domingo por la tarde condensa algo muy humano. Por un lado, la semana que termina pide balance. Por otro, la semana que empieza exige preparación. Entre ambas, la mente adulta se pone a trabajar sin pedir permiso.",
+        },
+        {
+          type: "heading",
+          text: "Un malestar con horario propio",
+        },
+        {
+          type: "paragraph",
+          text: "La ansiedad del domingo tiene rasgos reconocibles. Llega con la caída de la luz, no con un acontecimiento concreto. Además, aparece incluso en fines de semana agradables: la excursión salió bien y la comida fue larga y placentera; sin embargo, hacia media tarde baja un telón fino. La conversación pierde chispa, el cuerpo se inquieta y aparece la necesidad vaga de «hacer algo», sin saber qué.",
+        },
+        {
+          type: "paragraph",
+          text: "Los psicólogos lo describen como ansiedad anticipatoria con reloj. El cuerpo empieza a preparar el lunes antes de que llegue el lunes. Normalmente no hay un motivo puntual: la reunión del martes, el correo pendiente, la sensación de que la semana viene cargada. El sistema nervioso apenas distingue entre anticipar y vivir; por eso, la tarde del domingo puede sentirse como una jornada que todavía no ha empezado.",
+        },
+        {
+          type: "heading",
+          text: "Lo que la semana dice de ti",
+        },
+        {
+          type: "paragraph",
+          text: "El domingo por la tarde funciona como un espejo poco amable. En la vida adulta, esa inquietud suele crecer cuando algo de la vida encaja mal. A veces es el trabajo: la sensación de que lo que viene no representa lo que quieres. A veces es la pareja, la familia o simplemente una pregunta de identidad que llevas meses aplazando. La semana que llega no es solo una semana: es una versión condensada de tu día a día.",
+        },
+        {
+          type: "paragraph",
+          text: "Por eso conviene tomarla en serio. La ansiedad del domingo no siempre anuncia un problema grande; ahora bien, es información. Señala dónde se acumula la tensión, qué relaciones pesan, qué tareas se soportan en lugar de elegirse. De hecho, muchas personas descubren en consulta que ese malestar fue el primer aviso honesto de un agotamiento mayor. Ya hablamos del burnout en otro artículo; el domingo es, a menudo, su taquicardia silenciosa.",
+        },
+        {
+          type: "heading",
+          text: "Cuando el domingo pesa más de la cuenta",
+        },
+        {
+          type: "paragraph",
+          text: "No toda inquietud del domingo es patológica. Es normal sentir cierta melancolía cuando termina algo bueno. Sin embargo, hay señales que merecen atención. La primera es la intensidad: si cada semana aparecen irritabilidad, opresión en el pecho o insomnio, ya no hablamos de un matiz del descanso. La segunda es la generalización: cuando el malestar avanza hacia el jueves por la tarde, o hacia las vacaciones, algo más grande se está diciendo.",
+        },
+        {
+          type: "paragraph",
+          text: "También importa el costo. Algunas personas organizan el fin de semana entero para no sentir la tarde del domingo: planes sin tregua, pantallas, alcohol. Funciona durante una temporada; no obstante, la estrategia cobra su precio. La evitación calma el síntoma y deja intacta la causa. En cambio, cuando el domingo se puede habitar con calma, aunque incomode, suele ser señal de una vida más coherente consigo misma.",
+        },
+        {
+          type: "heading",
+          text: "Cómo se trabaja en terapia",
+        },
+        {
+          type: "paragraph",
+          text: "En consulta, la ansiedad del domingo se trabaja en dos direcciones. La primera es sintomática: entender qué activa el cuerpo, qué pensamientos aparecen en bucle y qué pequeñas decisiones de la semana pueden bajar la tensión. La segunda es más honda. Se trata de escuchar qué dice ese malestar de la vida que se lleva: el trabajo, los vínculos, los valores, la identidad.",
+        },
+        {
+          type: "paragraph",
+          text: "Muchas veces, el proceso revela una pregunta silenciosa: ¿quiero esta vida que empieza el lunes? La respuesta no siempre es cambiarlo todo. A veces es ajustar: delegar, poner límites, recuperar espacio propio. Otras veces, en cambio, la pregunta abre una crisis necesaria que la persona llevaba años postergando. En definitiva, el domingo por la tarde es una invitación incómoda a revisar la propia coherencia.",
+        },
+        {
+          type: "heading",
+          text: "Preguntas frecuentes: la ansiedad del domingo",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "¿Por qué me pasa el domingo y no el sábado?",
+              answer:
+                "Porque el sábado no amenaza con nada: la semana sigue lejos. En cambio, el domingo por la tarde la mente ya anticipa el lunes. Además, el contraste entre el tiempo libre y el tiempo obligado lo acentúa.",
+            },
+            {
+              question: "¿Es lo mismo que la «síndrome del domingo»?",
+              answer:
+                "Mucha gente lo llama así. Ahora bien, más que un síndrome, es una reacción comprensible a semanas cargadas. Se vuelve problema cuando se repite con intensidad cada semana.",
+            },
+            {
+              question: "¿Se puede combatir con rutinas de domingo?",
+              answer:
+                "Las rutinas ayudan a algunos cuerpos a sentir seguridad. Sin embargo, por sí solas no responden la pregunta de fondo: qué parte de tu vida genera esa anticipación. En este sentido, son un soporte, no una respuesta.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "Preguntas frecuentes: cuándo consultar",
+        },
+        {
+          type: "faq",
+          items: [
+            {
+              question: "¿Cuándo conviene hablar con un psicólogo?",
+              answer:
+                "Cuando la inquietud se repite cada semana, altera el sueño o el domingo se convierte en un día que hay que sobrevivir. Por ejemplo, si lleva meses así, conviene revisarlo con ayuda profesional.",
+            },
+            {
+              question: "¿La terapia online sirve para este malestar?",
+              answer:
+                "Sí. De hecho, es un motivo de consulta muy habitual por videoconsulta. La ansiedad anticipatoria se trabaja bien con continuidad semanal, presencial u online.",
+            },
+          ],
+        },
+        {
+          type: "heading",
+          text: "El domingo como conversación",
+        },
+        {
+          type: "paragraph",
+          text: "La ansiedad del domingo por la tarde no es un enemigo que deba desaparecer. Es una conversación interna que la semana, con su ruido, no permite escuchar. Tomarla en serio significa preguntarse, con honestidad, qué hay en el lunes que el cuerpo no quiere encontrar. A veces la respuesta es pequeña y manejable. Otras veces es la puerta de un cambio más importante. Al final, madurar también es saber de qué está hecha la propia quietud.",
+        },
+        {
+          type: "paragraph",
+          text: "Si los domingos por la tarde se han vuelto difíciles, en Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: precisamente de eso va.",
+        },
+        ],
+        },
+        ];

@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "ansiedad-domingo-tarde",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "L'ansietat del diumenge a la tarda: quan la setmana et pregunta",
+    "titleES": "La ansiedad del domingo por la tarde: cuando la semana te pregunta",
+    "excerptCA": "Hi ha un malestar amb horari fix que gairebé ningú no anomena en veu alta: la inquietud que apareix el diumenge, cap a les sis de la tarda, quan la llum baixa i la casa calla. No és tristesa ni cansament; és anticipació. Aquí explorem per què el cos comença a preparar el dilluns abans que arribi, què diu aquesta inquietud de la vida que es porta —feina, vincles, identitat— i com es treballa a la teràpia. Sense demonizar la calma del diumenge: escoltant el que la setmana, amb el seu soroll, no deixa sentir.",
+    "excerptES": "Hay un malestar con horario fijo que casi nadie nombra en voz alta: la inquietud que aparece el domingo, hacia las seis de la tarde, cuando la luz baja y la casa calla. No es tristeza ni cansancio; es anticipación. Aquí exploramos por qué el cuerpo empieza a preparar el lunes antes de que llegue, qué dice esta inquietud de la vida que se lleva —trabajo, vínculos, identidad— y cómo se trabaja en terapia. Sin demonizar la calma del domingo: escuchando lo que la semana, con su ruido, no deja oír.",
+    "datePublished": "2026-09-25"
+  },
+  {
     "slug": "jubilacion-crisis-identidad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
