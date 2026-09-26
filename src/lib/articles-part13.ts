@@ -956,4 +956,233 @@ export const articlesPart13: ArticleContent[] = [
         },
         ],
         },
-        ];
+  // ---------------------------------------------------------------------------
+  // 5. familia-politica-suegros-pareja (familia / pareja, 2026-09-26)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "familia-politica-suegros-pareja",
+    categoryCA: "Família",
+    categoryES: "Familia",
+    titleCA:
+      "La família política: quan els sogres entren a la parella",
+    titleES:
+      "La familia política: cuando los suegros entran en la pareja",
+    excerptCA:
+      "Hi ha un vincle que ningú no escull: la família política. Arriba amb la parella, amb les seves costums, els seus silencis i les seves maneres d'estimar. Aquest article explora per què el conflicte amb els sogres gairebé mai no és només amb els sogres: com cada persona tradueix la seva família d'origen, quines lleialtats s'activen, què s'hi juga de debò sota les discussions sobre visites i dinars i com es treballa en teràpia individual i de parella. Sense exigir afecte per decret: construint acords amb maduresa.",
+    excerptES:
+      "Hay un vínculo que nadie elige: la familia política. Llega con la pareja, con sus costumbres, sus silencios y sus maneras de querer. Este artículo explora por qué el conflicto con los suegros casi nunca es solo con los suegros: cómo cada persona traduce su familia de origen, qué lealtades se activan, qué se juega de verdad bajo las discusiones sobre visitas y comidas y cómo se trabaja en terapia individual y de pareja. Sin exigir cariño por decreto: construyendo acuerdos con madurez.",
+    datePublished: "2026-09-26",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha vincles que s'escullen i vincles que arriben. La família política pertany al segon grup: apareix amb la parella, sense haver-la triat i sense haver estat triada. A més, arriba amb història pròpia: costums, silencis, bromes i maneres d'estimar que no s'entenen a la primera.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article parla d'aquest vincle peculiar. De fet, és un dels motius de consulta més freqüents en teràpia de parella, encara que rarament es presenti amb el seu nom. Normalment arriba disfressat: la discussió sobre els dinars, les visites, els regals o les vacances. En canvi, a sota sol haver-hi una cosa més important: com se sosté la parella davant les dues famílies d'origen.",
+      },
+      {
+        type: "heading",
+        text: "Un vincle que ningú no escull",
+      },
+      {
+        type: "paragraph",
+        text: "Amb els sogres no hi ha període d'enamorament ni negociació prèvia. Un dia hi són; l'endemà, ja formen part de la teva vida. Ara bé, s'espera d'aquesta relació una intimitat que només el temps construeix. Per exemple, s'espera que una sogra cuidi, opini o ajudi com si fos de la família, quan amb prou feines hi ha història compartida.",
+      },
+      {
+        type: "paragraph",
+        text: "La paradoxa és clara: intimitat sense història, expectatives sense acord. De fet, moltes persones adultes senten que han d'estimar la família política perquè la parella l'estima. Tanmateix, el vincle no funciona per decret. La maduresa, en aquest punt, consisteix a reconèixer que es pot respectar i cuidar qui encara no es coneix del tot.",
+      },
+      {
+        type: "heading",
+        text: "Com entra el conflicte",
+      },
+      {
+        type: "paragraph",
+        text: "El conflicte amb la família política rarament comença amb un fet greu. Normalment s'acumula en detalls: el comentari sobre la casa, la comparació amb l'altre fill, la visita que ningú no agraeix, el silenci quan tu parles. Cada peça pesa poc; tanmateix, el conjunt comença a pesar.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, el conflicte té un tret propi: gairebé mai no és només teu. Allò que molesta dels sogres quasi sempre toca també la parella. La pregunta incòmoda apareix sola: què fa la teva parella mentre això passa? Per això, la majoria de discussions sobre sogres són, en realitat, discussions sobre la parella.",
+      },
+      {
+        type: "heading",
+        text: "Lleialtats i traduccions",
+      },
+      {
+        type: "paragraph",
+        text: "En tota parella convergeixen dues històries. Cada persona arriba amb la seva família d'origen a dins: les seves lleialtats, els seus deutes afectius, els seus temes pendents. En aquest sentit, cadascú fa també de traductor de la pròpia família. Quan els sogres parlen, la parella escolta coses que tu no sents; i viceversa.",
+      },
+      {
+        type: "paragraph",
+        text: "Per exemple, una frase que per a la teva parella és normal, per a tu pot sonar a invasió. La discussió de fons no és la frase: és què fa cadascú amb ella. Ara bé, aquí s'hi juga una pregunta de coherència: a qui pertany primer la teva responsabilitat? Cap resposta no val sempre; tanmateix, convé que sigui explícita i compartida.",
+      },
+      {
+        type: "heading",
+        text: "El que s'hi juga de debò",
+      },
+      {
+        type: "paragraph",
+        text: "Sota el tema visible quasi sempre hi ha preguntes més profundes. A quina família pertany la parella? Qui decideix, qui acompanya i qui queda fora? Quant de la història de cadascú encara mana en el present? A vegades, a més, el conflicte amb els sogres és la manera civilitzada de discutir amb la pròpia parella alguna cosa que no s'atreveix a dir-se directe.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això la crisi amb la família política pot ser una oportunitat. De fet, obliga la parella a construir acords propis: com visitar, com opinar, com posar límits sense trencar. Aquesta feina no la pot fer la família política; en canvi, sí que la pot fer la relació. Al capdavall, madurar és separar-se una mica de la família que s'hereta per fundar la que es construeix.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa en teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta, aquest tema s'aborda des de dos llocs. En teràpia individual, la relació pròpia amb els sogres: què t'activa, quina història toca, quina autonomia et falta. En teràpia de parella, els acords: què pertany a la parella i què pertany a les famílies, com es decideix plegats i com es comunica sense intermediaris.",
+      },
+      {
+        type: "paragraph",
+        text: "L'objectiu no és que els sogres causin bé ni que el malestar desaparegui. Normalment, el procés persegueix una cosa més modesta i més real: que la parella sostingui les seves decisions amb coherència. Quan això passa, la relació amb la família política sol calmar-se sola. A més, les visites deixen de ser un examen i tornen a ser el que eren: un dinar, una tarda, una estona.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: els sogres i la parella",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Cal estimar la família política?",
+            answer:
+              "No. De fet, el vincle no es pot ordenar des de la raó. Es pot respectar, cuidar i conèixer; l'afecte, si arriba, arriba amb la història compartida.",
+          },
+          {
+            question: "La meva parella s'ha de posar sempre al meu costat?",
+            answer:
+              "No sempre, però sí tenir clar on és la seva responsabilitat. Ara bé, demanar lleialtat cega sol empobrir la relació; convé negociar acords explícits.",
+          },
+          {
+            question: "Quan convé anar a teràpia per aquest tema?",
+            answer:
+              "Quan el tema es repeteix cada mes, ocupa discussions que no s'acaben o comença a fer mal a la parella. Per exemple, si les visites es planifiquen amb por, és un bon moment per consultar-ho.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Tancar sense trencar",
+      },
+      {
+        type: "paragraph",
+        text: "La família política no s'escull, però sí que es pot habitar amb maduresa. Això significa, entre altres coses, no demanar a la parella que triï entre la seva història i el seu present. En definitiva, els acords construïts plegats valen més que les victòries a cada discussió. Al capdavall, el vincle amb els sogres mesura, quasi sempre, la solidesa del vincle entre vosaltres.",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquest tema pesa en la teva relació, a Espai Emocions treballem teràpia individual i de parella amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa: els vincles mereixen una conversa.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay vínculos que se eligen y vínculos que llegan. La familia política pertenece al segundo grupo: aparece con la pareja, sin haberla elegido y sin haber sido elegida. Además, llega con historia propia: costumbres, silencios, chistes y maneras de querer que no se entienden a la primera.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo habla de ese vínculo peculiar. De hecho, es uno de los motivos de consulta más frecuentes en terapia de pareja, aunque rara vez se presente con su nombre. Normalmente llega disfrazado: la discusión sobre las comidas, las visitas, los regalos o las vacaciones. En cambio, debajo suele haber algo más importante: cómo se sostiene la pareja frente a sus dos familias de origen.",
+      },
+      {
+        type: "heading",
+        text: "Un vínculo que nadie elige",
+      },
+      {
+        type: "paragraph",
+        text: "Con los suegros no hay periodo de enamoramiento ni negociación previa. Un día están; al siguiente, ya forman parte de tu vida. Ahora bien, se espera de esta relación una intimidad que solo el tiempo construye. Por ejemplo, se espera que una suegra cuide, opine o ayude como si fuera de la familia, cuando apenas hay historia compartida.",
+      },
+      {
+        type: "paragraph",
+        text: "La paradoja es clara: intimidad sin historia, expectativas sin acuerdo. De hecho, muchas personas adultas sienten que deben querer a la familia política porque la pareja la quiere. Sin embargo, el vínculo no funciona por decreto. La madurez, en este punto, consiste en reconocer que se puede respetar y cuidar a quien todavía no se conoce del todo.",
+      },
+      {
+        type: "heading",
+        text: "Cómo entra el conflicto",
+      },
+      {
+        type: "paragraph",
+        text: "El conflicto con la familia política rara vez empieza con un hecho grave. Normalmente se acumula en detalles: el comentario sobre la casa, la comparación con el otro hijo, la visita que nadie agradece, el silencio cuando tú hablas. Cada pieza pesa poco; sin embargo, el conjunto empieza a pesar.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, el conflicto tiene un rasgo propio: casi nunca es solo tuyo. Lo que molesta de los suegros casi siempre toca también a la pareja. La pregunta incómoda aparece sola: ¿qué hace tu pareja mientras eso pasa? Por eso, la mayoría de discusiones sobre suegros son, en realidad, discusiones sobre la pareja.",
+      },
+      {
+        type: "heading",
+        text: "Lealtades y traducciones",
+      },
+      {
+        type: "paragraph",
+        text: "En toda pareja convergen dos historias. Cada persona llega con su familia de origen dentro: sus lealtades, sus deudas afectivas, sus temas pendientes. En este sentido, cada uno actúa también como traductor de su propia familia. Cuando los suegros hablan, la pareja escucha cosas que tú no oyes; y viceversa.",
+      },
+      {
+        type: "paragraph",
+        text: "Por ejemplo, una frase que para tu pareja es normal, para ti puede sonar a invasión. La discusión de fondo no es la frase: es qué hace cada uno con ella. Ahora bien, aquí se juega una pregunta de coherencia: ¿a quién pertenece primero tu responsabilidad? Ninguna respuesta vale siempre; sin embargo, conviene que sea explícita y compartida.",
+      },
+      {
+        type: "heading",
+        text: "Lo que se juega de verdad",
+      },
+      {
+        type: "paragraph",
+        text: "Bajo el tema visible casi siempre hay preguntas más profundas. ¿A qué familia pertenece la pareja? ¿Quién decide, quién acompaña y quién queda fuera? ¿Cuánto de la historia de cada uno sigue mandando en el presente? A veces, además, el conflicto con los suegros es la manera civilizada de discutir con la pareja algo que no se dice de frente.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso la crisis con la familia política puede ser una oportunidad. De hecho, obliga a la pareja a construir acuerdos propios: cómo visitar, cómo opinar, cómo poner límites sin romper. Ese trabajo no puede hacerlo la familia política; en cambio, sí puede hacerlo la relación. Al final, madurar es separarse un poco de la familia que se hereda para fundar la que se construye.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, este tema se aborda desde dos sitios. En terapia individual, la propia relación con los suegros: qué te activa, qué historia toca, qué autonomía te falta. En terapia de pareja, los acuerdos: qué pertenece a la pareja y qué pertenece a las familias, cómo se decide junto y cómo se comunica sin intermediarios.",
+      },
+      {
+        type: "paragraph",
+        text: "El objetivo no es que los suegros caigan bien ni que desaparezca el malestar. Normalmente, el proceso persigue algo más modesto y más real: que la pareja sostenga sus decisiones con coherencia. Cuando eso ocurre, la relación con la familia política suele calmarse sola. Además, las visitas dejan de ser un examen y vuelven a ser lo que eran: una comida, una tarde, un rato.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: los suegros y la pareja",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Hay que querer a la familia política?",
+            answer:
+              "No. De hecho, el vínculo no se puede ordenar desde la razón. Se puede respetar, cuidar y conocer; el cariño, si llega, llega con la historia compartida.",
+          },
+          {
+            question: "¿Mi pareja debe ponerse siempre de mi lado?",
+            answer:
+              "No siempre, pero sí tener claro dónde está su responsabilidad. Ahora bien, pedir lealtad ciega suele empobrecer la relación; conviene negociar acuerdos explícitos.",
+          },
+          {
+            question: "¿Cuándo conviene ir a terapia por este tema?",
+            answer:
+              "Cuando el tema se repite cada mes, ocupa discusiones que no acaban o empieza a dañar a la pareja. Por ejemplo, si las visitas se planean con miedo, es buen momento para consultarlo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Cerrar sin romper",
+      },
+      {
+        type: "paragraph",
+        text: "La familia política no se elige, pero sí se puede habitar con madurez. Eso significa, entre otras cosas, no pedir a la pareja que elija entre su historia y su presente. En definitiva, los acuerdos construidos juntos valen más que las victorias en cada discusión. Al final, el vínculo con los suegros mide, casi siempre, la solidez del vínculo entre vosotros.",
+      },
+      {
+        type: "paragraph",
+        text: "Si este tema pesa en tu relación, en Espai Emocions trabajamos terapia individual y de pareja con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: los vínculos merecen una conversación.",
+      },
+    ],
+  },
+];

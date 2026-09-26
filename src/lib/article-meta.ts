@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "familia-politica-suegros-pareja",
+    "categoryCA": "Família",
+    "categoryES": "Familia",
+    "titleCA": "La família política: quan els sogres entren a la parella",
+    "titleES": "La familia política: cuando los suegros entran en la pareja",
+    "excerptCA": "Hi ha un vincle que ningú no escull: la família política. Arriba amb la parella, amb les seves costums, els seus silencis i les seves maneres d'estimar. Aquest article explora per què el conflicte amb els sogres gairebé mai no és només amb els sogres: com cada persona tradueix la seva família d'origen, quines lleialtats s'activen, què s'hi juga de debò sota les discussions sobre visites i dinars i com es treballa en teràpia individual i de parella. Sense exigir afecte per decret: construint acords amb maduresa.",
+    "excerptES": "Hay un vínculo que nadie elige: la familia política. Llega con la pareja, con sus costumbres, sus silencios y sus maneras de querer. Este artículo explora por qué el conflicto con los suegros casi nunca es solo con los suegros: cómo cada persona traduce su familia de origen, qué lealtades se activan, qué se juega de verdad bajo las discusiones sobre visitas y comidas y cómo se trabaja en terapia individual y de pareja. Sin exigir cariño por decreto: construyendo acuerdos con madurez.",
+    "datePublished": "2026-09-26"
+  },
+  {
     "slug": "ansiedad-domingo-tarde",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
