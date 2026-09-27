@@ -1185,4 +1185,209 @@ export const articlesPart13: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 5. siempre-he-sido-asi-caracter-destino (identidad / madurez, 2026-09-27)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "siempre-he-sido-asi-caracter-destino",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "«Sempre he estat així»: fins a quin punt el teu caràcter és el teu destí",
+    titleES:
+      "«Siempre he sido así»: hasta qué punto tu carácter es tu destino",
+    excerptCA:
+      "«Jo sóc així» és la frase amb què molts adults tanquen la porta a qualsevol canvi: a la feina, a la parella, a la teràpia. Aquest article l'examina amb calma. Quina part del caràcter ve del temperament i quina de la història apresa, per què la frase guanya força a partir dels quaranta, què es pot moure de debò en un procés terapèutic i què convé acceptar. Sense promeses de transformació: maduresa és coherència, no una altra personalitat.",
+    excerptES:
+      "«Yo soy así» es la frase con la que muchos adultos cierran la puerta a cualquier cambio: en el trabajo, en la pareja, en la terapia. Este artículo la examina con calma. Qué parte del carácter viene del temperamento y cuál de la historia aprendida, por qué la frase gana fuerza a partir de los cuarenta, qué puede moverse de verdad en un proceso terapéutico y qué conviene aceptar. Sin promesas de transformación: madurez es coherencia, no otra personalidad.",
+    datePublished: "2026-09-27",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«Jo sóc així.» Hi ha frases que tanquen més portes de les que obren, i aquesta n'és una. Es diu amb orgull, amb cansament o amb un punt de desafiament. A més, apareix gairebé sempre al mateix moment: quan algú suggereix que alguna cosa podria ser d'una altra manera. A partir dels trenta, la frase pesa més que qualsevol argument. Tanmateix, convé examinar-la amb calma: amaga mitja biografia.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article parla d'aquesta frase i del que amaga. De fet, «sempre he estat així» és també la porta per on molta gent entra a teràpia: no pas per canviar de personalitat, sinó per comprovar si la frase és del tot certa. A més, convé saber quina part del caràcter depèn de la història i quina se sosté en la biologia. Aquí explorem què es pot moure de debò en un procés terapèutic, sense promeses de transformació.",
+      },
+      {
+        type: "heading",
+        text: "Ser així: una biografia condensada",
+      },
+      {
+        type: "paragraph",
+        text: "Quan algú diu «sóc així», normalment descriu un costum, no una essència. La desconfiança, el perfeccionisme, la ironia defensiva o la dificultat per demanar tenen un origen: van ser respostes. Al seu moment, servien per sobreviure en una família o en una relació. Ara bé, la resposta es va fixar i va seguir actuant molt després que el context desaparegués. De fet, això és el caràcter, en bona part: història condensada en costum.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta mirada té una conseqüència important. Allò que es va aprendre es pot tornar a examinar; en canvi, allò que es presenta com a essència no admet conversa. Per exemple, una persona que «sempre ha estat ansiosa» sol descobrir que va aprendre a estar alerta perquè a casa seva calia. A més, entén que aquell mode de ser la va protegir durant anys. La pregunta madura no és si era evitable; és si encara mereix manar.",
+      },
+      {
+        type: "heading",
+        text: "Què pot dir avui la psicologia",
+      },
+      {
+        type: "paragraph",
+        text: "La psicologia distingeix dues capes que el llenguatge quotidià barreja. D'una banda, el temperament: la base biològica amb què arribes al món. De l'altra, el caràcter: el mode en què aquesta base es va modelant amb la història i els vincles. El temperament amb prou feines s'escull; tanmateix, tampoc no condemna. De fet, la recerca actual mostra plasticitat real: maneres de sentir i de vincular-se que es reorganitzen als quaranta o als cinquanta.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, convé ser honest: el canvi adult no consisteix a fabricar una personalitat nova. El que es mou és una altra cosa. Per exemple, la relació amb les pròpies parts: la crítica que castiga o la que complaïa tothom. També es mou la llibertat per triar quan una manera de ser serveix i quan no. En definitiva, la teràpia no et converteix en una altra persona; et torna el comandament sobre la que ets.",
+      },
+      {
+        type: "heading",
+        text: "Per què la frase apareix ara",
+      },
+      {
+        type: "paragraph",
+        text: "La frase es diu a qualsevol edat, tot i que sol fer nosa en acostar-se la meitat de la vida. Fins llavors, «ser així» tenia avantatges: identitat, estabilitat i fins i tot encant. A més, l'entorn demanava poc examen: hi havia feina, parella, projectes. En canvi, entre els quaranta i els cinquanta el context es mou. Els fills creixen, les relacions es revisen, el cos avisa i la feina deixa de justificar-ho tot. Normalment, és llavors quan la frase comença a sobrar.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la frase també protegeix. Si sempre has estat així, no hi ha res a mirar ni cap decisió a revisar. En aquest sentit, funciona com una renúncia silenciosa: tanca la pregunta abans que incomodi. Tanmateix, té un preu. Allò que protegeix de l'esforç, també separa de la vida que podria haver-hi. Al capdavall, moltes persones consulten quan el preu es nota més que la seguretat.",
+      },
+      {
+        type: "heading",
+        text: "Canviar el que es pot, acceptar el que no",
+      },
+      {
+        type: "paragraph",
+        text: "A la consulta, el treball amb el caràcter té dues direccions. La primera, acceptar allò que no depèn de tu: la sensibilitat alta, la intensitat emocional, el ritme mental. La segona, retornar moviment al que sí depèn: els modes defensius que ja no serveixen o els valors heretats sense revisar. A vegades, acceptar és el més difícil; moltes persones arriben demanant sentir menys. Ara bé, la meta no és una altra personalitat: és coherència entre les parts.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest procés demana temps i una relació sòlida: el caràcter no es toca per decret. De fet, s'examina millor acompanyat, perquè els costums propis costen de veure des de dins. A més, no totes les parts necessiten canviar; algunes, senzillament, han de deixar de manar. Per exemple, l'autocrítica pot passar de jutge a conseller sense desaparèixer. En definitiva, madurar és triar quines parts de la teva història vols seguir.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: el caràcter i la teràpia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Pot la teràpia canviar el meu caràcter?",
+            answer:
+              "Pot canviar la teva relació amb ell. De fet, sol ser el que basta: els modes automàtics perden força quan es comprenen. La personalitat no es reemplaça; en canvi, es reorganitza.",
+          },
+          {
+            question: "Quina diferència hi ha entre temperament i caràcter?",
+            answer:
+              "El temperament és la base biològica amb què neixes. El caràcter, en canvi, és aquesta base modelada per la història i els vincles. Per això, el segon té més marge de moviment.",
+          },
+          {
+            question: "És massa tard per canviar als cinquanta?",
+            answer:
+              "No. La plasticitat emocional no caduca amb l'edat; a més, la maduresa aporta una cosa que als vint falta: història pròpia per treballar. Ara bé, el procés demana paciència.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una frase dita d'una altra manera",
+      },
+      {
+        type: "paragraph",
+        text: "«Sempre he estat així» es pot dir d'una altra manera: «així em vaig tornar». No és un joc de paraules; és un canvi de posició. La primera versió tanca el passat i absol el present. La segona, en canvi, torna la història al mapa i, amb ella, la responsabilitat: si hi va haver un camí que va arribar aquí, pot haver-hi un altre que en surti. Al capdavall, la maduresa no consisteix a deixar de ser qui ets; consisteix a arribar a ser-ho del tot.",
+      },
+      {
+        type: "paragraph",
+        text: "Si fa anys que repeteixes que ets així i alguna cosa dins teu ja no s'ho creu, potser val la pena parlar-ne. A Espai Emocions treballem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa i sense compromís: al teu ritme, que ja veus que també sap canviar.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«Yo soy así.» Hay frases que cierran más puertas de las que abren, y esta es una de ellas. Se dice con orgullo, con cansancio o con un punto de desafío. Además, aparece casi siempre en el mismo momento: cuando alguien sugiere que algo podría ser de otro modo. A partir de los treinta, la frase pesa más que cualquier argumento. Sin embargo, conviene examinarla con calma: esconde media biografía.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo habla de esa frase y de lo que esconde. De hecho, «siempre he sido así» es también la puerta por la que mucha gente entra en terapia: no para cambiar de personalidad, sino para comprobar si la frase es del todo cierta. Además, conviene saber qué parte del carácter depende de la historia y cuál se sostiene en la biología. Aquí exploramos qué puede moverse de verdad en un proceso terapéutico, sin promesas de transformación.",
+      },
+      {
+        type: "heading",
+        text: "Ser así: una biografía condensada",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando alguien dice «soy así», normalmente describe una costumbre, no una esencia. La desconfianza, el perfeccionismo, la ironía defensiva o la dificultad para pedir tienen un origen: fueron respuestas. En su momento, servían para sobrevivir en una familia o en una relación. Ahora bien, la respuesta quedó fijada y siguió actuando mucho después de que el contexto desapareciera. De hecho, eso es el carácter en buena medida: historia condensada en hábito.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta mirada tiene una consecuencia importante. Lo que se aprendió puede volver a examinarse; en cambio, lo que se presenta como esencia no admite conversación. Por ejemplo, una persona que «siempre ha sido ansiosa» suele descubrir, en terapia, que aprendió a estar alerta porque en su casa hacía falta. Además, entiende que ese modo de estar le protegió durante años. La pregunta madura no es si era evitable; es si todavía merece seguir mandando.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la psicología puede decir hoy",
+      },
+      {
+        type: "paragraph",
+        text: "La psicología distingue dos capas que el lenguaje cotidiano mezcla. Por un lado, el temperamento: la base biológica con la que llegas al mundo. Por otro, el carácter: el modo en que esa base se moldea con la historia y los vínculos. El temperamento apenas se elige; sin embargo, tampoco condena. De hecho, la investigación actual muestra plasticidad real: maneras de sentir y de vincularse que se reorganizan con la edad.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, conviene ser honesto: el cambio adulto no consiste en fabricar una personalidad nueva. Lo que se mueve es otra cosa. Por ejemplo, la relación con las propias partes: la crítica que castiga, la que complacía a todos, la que no pedía. También se mueve la libertad para elegir cuándo una manera de ser sirve y cuándo no. En definitiva, la terapia no te convierte en otra persona; te devuelve el mando sobre la que eres.",
+      },
+      {
+        type: "heading",
+        text: "Por qué la frase aparece ahora",
+      },
+      {
+        type: "paragraph",
+        text: "La frase se dice a cualquier edad, aunque suele volverse incómoda al acercarse la mitad de la vida. Hasta entonces, «ser así» tuvo ventajas: identidad, estabilidad y hasta encanto. Además, el entorno pedía poco examen: había trabajo, pareja, proyectos. En cambio, entre los cuarenta y los cincuenta el contexto cambia. Los hijos crecen, las relaciones se revisan, el cuerpo avisa y el trabajo deja de justificarlo todo. Normalmente, es entonces cuando la frase empieza a sobrar.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene añadir algo más: la frase también protege. Si siempre has sido así, no hay nada que mirar ni ninguna decisión que revisar. En este sentido, funciona como una claudicación silenciosa: cierra la pregunta antes de que incomode. Sin embargo, tiene un precio. Lo que protege del esfuerzo, también aparta de la vida que podría haber. Al final, muchas personas consultan cuando el precio se nota más que la seguridad.",
+      },
+      {
+        type: "heading",
+        text: "Cambiar lo que se puede, aceptar lo que no",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, el trabajo con el carácter tiene dos direcciones. La primera, aceptar lo que no depende de ti: la sensibilidad alta, la intensidad emocional, el ritmo mental. La segunda, devolver movimiento a lo que sí: modos defensivos que ya no sirven o valores heredados sin revisar. A veces, aceptar es lo más difícil; muchas personas llegan pidiendo sentir menos. Ahora bien, la meta no es otra personalidad: es coherencia interna.",
+      },
+      {
+        type: "paragraph",
+        text: "Este proceso requiere tiempo y una relación terapéutica sólida, porque el carácter no se toca por decreto. De hecho, se examina mejor acompañado: las propias costumbres son difíciles de ver desde dentro. Además, no todas las partes necesitan cambiar; algunas necesitan simplemente dejar de mandar. Por ejemplo, la autocrítica puede pasar de juez a consejero sin desaparecer. En definitiva, madurar consiste en elegir con qué partes de tu historia quieres seguir y cuáles han cumplido ya su función.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el carácter y la terapia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Puede la terapia cambiar mi carácter?",
+            answer:
+              "Puede cambiar tu relación con él. De hecho, es lo que suele bastar: los modos automáticos pierden fuerza cuando se comprenden. La personalidad no se reemplaza; en cambio, se reorganiza.",
+          },
+          {
+            question: "¿Qué diferencia hay entre temperamento y carácter?",
+            answer:
+              "El temperamento es la base biológica con la que naces. El carácter, en cambio, es esa base moldeada por la historia y los vínculos. Por eso, el segundo tiene más margen de movimiento.",
+          },
+          {
+            question: "¿Es demasiado tarde para cambiar a los cincuenta?",
+            answer:
+              "No. La plasticidad emocional no caduca con la edad; además, la madurez aporta algo que a los veinte falta: historia propia para trabajar. Ahora bien, el proceso exige paciencia.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una frase dicha de otro modo",
+      },
+      {
+        type: "paragraph",
+        text: "«Siempre he sido así» puede decirse de otro modo: «así me volví». No es un juego de palabras; es un cambio de posición. La primera versión cierra el pasado y absuelve el presente. La segunda, en cambio, devuelve la historia al mapa y con ella la responsabilidad: si hubo un camino que llegó aquí, puede haber otro que salga. Al final, la madurez no consiste en dejar de ser quien eres; consiste en llegar a serlo del todo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas años repitiendo que eres así y algo en ti ya no se lo cree, quizá vale la pena conversarlo. En Espai Emocions trabajamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa y sin compromiso: a tu manera, que ya ves que también sabe cambiar.",
+      },
+    ],
+  },
 ];

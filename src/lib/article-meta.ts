@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "siempre-he-sido-asi-caracter-destino",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "«Sempre he estat així»: fins a quin punt el teu caràcter és el teu destí",
+    "titleES": "«Siempre he sido así»: hasta qué punto tu carácter es tu destino",
+    "excerptCA": "«Jo sóc així» és la frase amb què molts adults tanquen la porta a qualsevol canvi: a la feina, a la parella, a la teràpia. Aquest article l'examina amb calma. Quina part del caràcter ve del temperament i quina de la història apresa, per què la frase guanya força a partir dels quaranta, què es pot moure de debò en un procés terapèutic i què convé acceptar. Sense promeses de transformació: maduresa és coherència, no una altra personalitat.",
+    "excerptES": "«Yo soy así» es la frase con la que muchos adultos cierran la puerta a cualquier cambio: en el trabajo, en la pareja, en la terapia. Este artículo la examina con calma. Qué parte del carácter viene del temperamento y cuál de la historia aprendida, por qué la frase gana fuerza a partir de los cuarenta, qué puede moverse de verdad en un proceso terapéutico y qué conviene aceptar. Sin promesas de transformación: madurez es coherencia, no otra personalidad.",
+    "datePublished": "2026-09-27"
+  },
+  {
     "slug": "familia-politica-suegros-pareja",
     "categoryCA": "Família",
     "categoryES": "Familia",
