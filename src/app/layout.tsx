@@ -121,6 +121,19 @@ const localBusinessJsonLd = {
       closes: "20:00",
     },
   ],
+  areaServed: [
+    { "@type": "Place", name: "Sant Pau – Dos de Maig, Barcelona" },
+    { "@type": "Place", name: "Baix Guinardó, Barcelona" },
+    { "@type": "Place", name: "Guinardó, Barcelona" },
+    { "@type": "Place", name: "Camp de l'Arpa, Barcelona" },
+    { "@type": "Place", name: "La Sagrera, Barcelona" },
+    { "@type": "Place", name: "Sant Martí, Barcelona" },
+    { "@type": "Place", name: "El Clot, Barcelona" },
+    { "@type": "Place", name: "Sagrada Família, Barcelona" },
+    { "@type": "Place", name: "Eixample, Barcelona" },
+    { "@type": "Place", name: "Barcelona" },
+    { "@type": "Place", name: "Ripoll" },
+  ],
   sameAs: ["https://espaiemocions.es"],
   founder: [
     {
