@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "miedo-a-enfermar-ansiedad-por-la-salud",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "La por d'emmalaltir: quan el cos deixa de ser un lloc segur",
+    "titleES": "El miedo a enfermar: cuando el cuerpo deja de ser un lugar seguro",
+    "excerptCA": "Hi ha una por que no sempre es diu així: apareix quan busques un símptoma al mòbil a les tres de la matinada, quan esperes una prova mèdica o quan recordes com va emmalaltir la teva mare. Aquí explorem què és l'ansietat per la salut, per què s'activa tan sovint a la segona meitat de la vida, què hi ha sota la comprovació constant i com es treballa a la teràpia. Sense reduir la por a una etiqueta: tornar a habitar un cos que, com tots, és vulnerable.",
+    "excerptES": "Hay un miedo que no siempre se llama así: aparece cuando buscas un síntoma en el móvil a las tres de la madrugada, cuando esperas una prueba médica o cuando recuerdas cómo enfermó tu madre. Aquí exploramos qué es la ansiedad por la salud, por qué se activa tan a menudo en la segunda mitad de la vida, qué hay debajo de la comprobación constante y cómo se trabaja en terapia. Sin reducir el miedo a una etiqueta: volver a habitar un cuerpo que, como todos, es vulnerable.",
+    "datePublished": "2026-09-28"
+  },
+  {
     "slug": "siempre-he-sido-asi-caracter-destino",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",

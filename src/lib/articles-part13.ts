@@ -1390,4 +1390,207 @@ export const articlesPart13: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 7. miedo-a-enfermar-ansiedad-por-la-salud (ansiedad / cuerpo, 2026-09-28)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "miedo-a-enfermar-ansiedad-por-la-salud",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "La por d'emmalaltir: quan el cos deixa de ser un lloc segur",
+    titleES: "El miedo a enfermar: cuando el cuerpo deja de ser un lugar seguro",
+    excerptCA:
+      "Hi ha una por que no sempre es diu així: apareix quan busques un símptoma al mòbil a les tres de la matinada, quan esperes una prova mèdica o quan recordes com va emmalaltir la teva mare. Aquí explorem què és l'ansietat per la salut, per què s'activa tan sovint a la segona meitat de la vida, què hi ha sota la comprovació constant i com es treballa a la teràpia. Sense reduir la por a una etiqueta: tornar a habitar un cos que, com tots, és vulnerable.",
+    excerptES:
+      "Hay un miedo que no siempre se llama así: aparece cuando buscas un síntoma en el móvil a las tres de la madrugada, cuando esperas una prueba médica o cuando recuerdas cómo enfermó tu madre. Aquí exploramos qué es la ansiedad por la salud, por qué se activa tan a menudo en la segunda mitad de la vida, qué hay debajo de la comprobación constante y cómo se trabaja en terapia. Sin reducir el miedo a una etiqueta: volver a habitar un cuerpo que, como todos, es vulnerable.",
+    datePublished: "2026-09-28",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una escena que es repeteix en moltes cases de matinada. Un formigueig a l'esquena, un batec una mica més fort que de costum, una taca a la pell que no recordaves tenir. El mòbil s'encén; el cercador, també. Al cap de mitja hora, el formigueig segueix igual, però ara té nom, pronòstic i pàgina web. La por d'emmalaltir no sempre es presenta com a por: de fet, sol presentar-se com a investigació.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article parla d'aquesta por i del seu terreny favorit: el cos propi a la segona meitat de la vida. No és una por infantil, ni una excentricitat. De fet, forma part del paisatge emocional de molts adults lúcids que, a més, es cuiden: fan esport, es revisen, porten una dieta impecable. Ara bé, hi ha una diferència entre cuidar-se i vigilar-se. Aquesta diferència és el fil d'aquest text.",
+      },
+      {
+        type: "heading",
+        text: "Un cos que ara parla més alt",
+      },
+      {
+        type: "paragraph",
+        text: "Fins als trenta, el cos sol fer de fons: hi és, però no pregunta res. En canvi, a partir dels quaranta comença a fer-se notar. Un genoll que grinyola, una digestió que ja no perdona, un cansament que dura dos dies. Cada canvi té una explicació senzilla —l'edat, el sedentarisme, la història—, però la sensació de vulnerabilitat no escolta explicacions. En aquest sentit, moltes persones descobreixen, sense dir-ho a ningú, que el cos ha deixat de ser un lloc segur.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha contextos que amplifiquen aquesta sensibilitat. Per exemple, haver vist emmalaltir un pare o una mare: la seva malaltia deixa de ser una notícia i es converteix en un calendari. També pesa haver passat per un espant —una prova que va sortir malament i després no res—. Normalment, l'ansietat per la salut no neix del no-res: neix d'una història on el cos va deixar de ser fiable.",
+      },
+      {
+        type: "heading",
+        text: "L'espiral de la comprovació",
+      },
+      {
+        type: "paragraph",
+        text: "La por d'emmalaltir s'alimenta d'un gest que sembla raonable: comprovar. Tocar el gangli, comptar els batecs, rellegir el mateix article, demanar una segona opinió al cercador. Cada comprovació ofereix un alleujament breu; ara bé, l'alleujament dura menys que el dubte. De fet, el cervell n'extreu una lliçó equivocada: hi havia un perill, l'he mirat, he sobreviscut. La propera vegada, demanarà comprovar més.",
+      },
+      {
+        type: "paragraph",
+        text: "El cercle es tanca sol: com més es mira el cos, més senyals s'hi troben, i com més senyals, més ganes de mirar. A més, l'atenció altera el que observa: un batec pensat ja batega més fort. Tanmateix, la persona no inventa res; nota alguna cosa real. Per això, repetir «no és res» no serveix de gaire. Allò que cal desactivar no és la sensació: és la interpretació.",
+      },
+      {
+        type: "heading",
+        text: "Què hi ha sota la por",
+      },
+      {
+        type: "paragraph",
+        text: "Quan a la consulta es pregunta què fallaria realment si la malaltia arribés, les respostes van més enllà del cos. Caure pesat als altres; quedar-se fora del projecte; perdre el control de la pròpia biografia. En aquest sentit, la por d'emmalaltir és, moltes vegades, una por a la dependència i a la finitud disfressada de medicina. Ningú no busca un diagnòstic: busca garanties que ningú no pot donar.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, aquesta por sovint fa de dipòsit. Per exemple, hi ha èpoques —una pèrdua, una parella que es refreda, una feina que buida— on l'angoixa necessita un objecte concret per no desbordar-se. El cos és l'objecte perfecte: sempre està disponible i sempre respon. Moltes persones descobreixen, un cop treballada la por, que a sota hi havia un dol que ningú no havia fet.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "El treball terapèutic amb l'ansietat per la salut no comença per la por: comença per la relació amb el cos. Primer, ordenar què és senyal i què és soroll, amb el metge de capçalera com a aliat quan cal. Després, mirar la història: què va ensenyar aquesta persona sobre la malaltia, qui va emmalaltir a casa seva, què es va permetre sentir llavors. De fet, moltes pautes de vigilància es van aprendre molt abans del primer símptoma.",
+      },
+      {
+        type: "paragraph",
+        text: "Amb el temps, el treball es va fent més ampli. Tornar a tenir confiança en el cos no vol dir ignorar-lo: vol dir deixar de viure'l com un sospitós. A més, apareix una pregunta més gran: com vols viure el temps que tens, amb la vulnerabilitat inclosa. La por no desapareix per decret; en canvi, deixa d'organitzar els dies. Al capdavall, l'objectiu no és creure't immortal: és tornar a pensar en altres coses.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la por d'emmalaltir",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És hipocondria?",
+            answer:
+              "El terme clàssic és hipocondria; ara bé, avui es parla d'ansietat per la salut. De fet, aquest canvi de nom ja és un canvi de mirada: no és una excentricitat, és una manera de patir que es pot treballar.",
+          },
+          {
+            question: "He d'evitar el metge per no alimentar la por?",
+            answer:
+              "No. El que cal és una aliança amb el metge de capçalera: qui decideix què convé revisar és el professional, no l'ansietat. A més, unes revisions ordenades són el contrari del cercador a les tres de la matinada.",
+          },
+          {
+            question: "Quan convé consultar un psicòleg?",
+            answer:
+              "Quan la preocupació ocupa més lloc del que voldries: si condiciona el menjar, el son, els plans o les relacions. Per exemple, si evites revisions que vols fer, és bon moment per consultar-ho.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un cos per tornar a habitar",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una diferència enorme entre un cos vigilat i un cos habitat. El primer es revisa; el segon es viu. La maduresa té aquí una tasca silenciosa: fer les paus amb un cos que canvia i que, com tots, té data de caducitat. En definitiva, no es tracta de creure que no passarà res: es tracta de tornar a tenir vida entre prova i prova.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, si la preocupació per la salut t'ocupa més lloc del que vols, es pot treballar. A Espai Emocions treballem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa: el cos també agraeix que l'escoltin.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una escena que se repite en muchas casas de madrugada. Un hormigueo en la espalda, un latido un poco más fuerte de lo habitual, una mancha en la piel que no recordabas tener. El móvil se enciende; el buscador, también. Media hora después, el hormigueo sigue igual, pero ahora tiene nombre, pronóstico y página web. El miedo a enfermar no siempre se presenta como miedo: de hecho, suele presentarse como investigación.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo habla de ese miedo y de su terreno favorito: el cuerpo propio en la segunda mitad de la vida. No es un miedo infantil, ni una excentricidad. De hecho, forma parte del paisaje emocional de muchos adultos lúcidos que, además, se cuidan: hacen deporte, se revisan, llevan una dieta impecable. Ahora bien, hay una diferencia entre cuidarse y vigilarse. Esa diferencia es el hilo de este texto.",
+      },
+      {
+        type: "heading",
+        text: "Un cuerpo que ahora habla más alto",
+      },
+      {
+        type: "paragraph",
+        text: "Hasta los treinta, el cuerpo suele hacer de fondo: está, pero no pregunta nada. En cambio, a partir de los cuarenta empieza a hacerse notar. Una rodilla que cruje, una digestión que ya no perdona, un cansancio que dura dos días. Cada cambio tiene una explicación sencilla —la edad, el sedentarismo, la historia—, pero la sensación de vulnerabilidad no escucha explicaciones. En este sentido, muchas personas descubren, sin decírselo a nadie, que el cuerpo ha dejado de ser un lugar seguro.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay contextos que amplifican esta sensibilidad. Por ejemplo, haber visto enfermar a un padre o a una madre: su enfermedad deja de ser una noticia y se convierte en un calendario. También pesa haber pasado por un susto —una prueba que salió mal y luego nada—. Normalmente, la ansiedad por la salud no nace de la nada: nace de una historia donde el cuerpo dejó de ser fiable.",
+      },
+      {
+        type: "heading",
+        text: "La espiral de la comprobación",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo a enfermar se alimenta de un gesto que parece razonable: comprobar. Tocar el ganglio, contar los latidos, releer el mismo artículo, pedir una segunda opinión al buscador. Cada comprobación ofrece un alivio breve; ahora bien, el alivio dura menos que la duda. De hecho, el cerebro extrae de ahí una lección equivocada: había un peligro, lo he mirado, he sobrevivido. La próxima vez, pedirá comprobar más.",
+      },
+      {
+        type: "paragraph",
+        text: "El círculo se cierra solo: cuanto más se mira el cuerpo, más señales se encuentran, y cuantas más señales, más ganas de mirar. Además, la atención altera lo que observa: un latido pensado ya late más fuerte. Sin embargo, la persona no inventa nada; nota algo real. Por eso, repetir «no es nada» no sirve de mucho. Lo que hay que desactivar no es la sensación: es la interpretación.",
+      },
+      {
+        type: "heading",
+        text: "Qué hay debajo del miedo",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando en consulta se pregunta qué fallaría de verdad si la enfermedad llegara, las respuestas van más allá del cuerpo. Caer pesado sobre los demás; quedarse fuera del proyecto; perder el control de la propia biografía. En este sentido, el miedo a enfermar es, muchas veces, un miedo a la dependencia y a la finitud disfrazado de medicina. Nadie busca un diagnóstico: busca garantías que nadie puede dar.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, este miedo suele hacer de depósito. Por ejemplo, hay épocas —una pérdida, una pareja que se enfría, un trabajo que vacía— donde la angustia necesita un objeto concreto para no desbordarse. El cuerpo es el objeto perfecto: siempre está disponible y siempre responde. Muchas personas descubren, una vez trabajado el miedo, que debajo había un duelo que nadie había hecho.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo terapéutico con la ansiedad por la salud no empieza por el miedo: empieza por la relación con el cuerpo. Primero, ordenar qué es señal y qué es ruido, con el médico de cabecera como aliado cuando hace falta. Después, mirar la historia: qué enseñó esta persona sobre la enfermedad, quién enfermó en su casa, qué se le permitió sentir entonces. De hecho, muchas pautas de vigilancia se aprendieron mucho antes del primer síntoma.",
+      },
+      {
+        type: "paragraph",
+        text: "Con el tiempo, el trabajo se vuelve más amplio. Recuperar la confianza en el cuerpo no significa ignorarlo: significa dejar de vivirlo como a un sospechoso. Además, aparece una pregunta mayor: cómo quieres vivir el tiempo que tienes, con la vulnerabilidad incluida. El miedo no desaparece por decreto; en cambio, deja de organizar los días. Al final, el objetivo no es creerte inmortal: es volver a pensar en otras cosas.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el miedo a enfermar",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es hipocondría?",
+            answer:
+              "El término clásico es hipocondría; ahora bien, hoy se habla de ansiedad por la salud. De hecho, ese cambio de nombre ya es un cambio de mirada: no es una excentricidad, es una forma de sufrir que se puede trabajar.",
+          },
+          {
+            question: "¿Tengo que evitar al médico para no alimentar el miedo?",
+            answer:
+              "No. Lo que hace falta es una alianza con el médico de cabecera: quien decide qué conviene revisar es el profesional, no la ansiedad. Además, unas revisiones ordenadas son lo contrario del buscador a las tres de la madrugada.",
+          },
+          {
+            question: "¿Cuándo conviene consultar a un psicólogo?",
+            answer:
+              "Cuando la preocupación ocupa más lugar del que quisieras: si condiciona la comida, el sueño, los planes o las relaciones. Por ejemplo, si evitas revisiones que quieres hacer, es buen momento para consultarlo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un cuerpo para volver a habitar",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una diferencia enorme entre un cuerpo vigilado y un cuerpo habitado. El primero se revisa; el segundo se vive. La madurez tiene aquí una tarea silenciosa: hacer las paces con un cuerpo que cambia y que, como todos, tiene fecha de caducidad. En definitiva, no se trata de creer que no pasará nada: se trata de volver a tener vida entre prueba y prueba.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, si la preocupación por la salud te está ocupando más lugar del que quieres, se puede trabajar. En Espai Emocions trabajamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: el cuerpo también agradece que lo escuchen.",
+      },
+    ],
+  },
 ];
