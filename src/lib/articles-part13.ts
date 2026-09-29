@@ -1593,4 +1593,225 @@ export const articlesPart13: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 8. solteria-edad-adulta (relaciones / madurez, 2026-09-29)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "solteria-edad-adulta",
+    categoryCA: "Relacions",
+    categoryES: "Relaciones",
+    titleCA:
+      "La solteria a l'edat adulta: quan la teva vida no necessita justificació",
+    titleES:
+      "La soltería en la edad adulta: cuando tu vida no necesita justificación",
+    excerptCA:
+      "La solteria a l'edat adulta es viu sovint com un estat provisional que exigeix justificar-se: als dinars, a la feina, a cada «i tu, amb qui?». Aquí explorem la diferència entre soledat i solteria, què pesa de debò quan no arriba la parella, com deixar de viure en sala d'espera i com la teràpia ajuda a sostenir una vida pròpia. Sense romantitzar ni patologitzar: la maduresa és coherència, amb parella o sense.",
+    excerptES:
+      "La soltería en la edad adulta se vive a menudo como un estado provisional que exige justificarse: en las comidas, en el trabajo, en cada «¿y tú, con quién?». Aquí exploramos la diferencia entre soledad y soltería, qué pesa de verdad cuando no llega la pareja, cómo dejar de vivir en sala de espera y cómo la terapia ayuda a sostener una vida propia. Sin romantizar ni patologizar: madurez es coherencia, con pareja o sin ella.",
+    datePublished: "2026-09-29",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quantes vegades has explicat enguany que estàs bé com estàs? La pregunta arriba als dinars de família, a la feina, a la cita que et van muntar: i tu, amb qui? Hi ha persones que responen amb tranquil·litat. D'altres, en canvi, fa anys que contesten amb una nota de defensa, com si la solteria fos un estat provisional que exigeix justificar-se. Aquest article va d'aquesta nota.",
+      },
+      {
+        type: "paragraph",
+        text: "La solteria adulta ocupa un lloc estrany a la nostra cultura. Mai no ha estat tan visible: persones de quaranta i cinquanta anys que viuen soles per elecció; tanmateix, mai no ha estat tan comentada. De fet, poques vides demanen avui tanta explicació contínua. La sospita de fons gairebé mai no es diu, però s'intueix: que darrere hi ha una manca que espera remei. En aquest text proposem el contrari: mirar aquesta vida amb el mateix respecte amb què es mira qualsevol altra.",
+      },
+      {
+        type: "heading",
+        text: "Un estat que s'explica",
+      },
+      {
+        type: "paragraph",
+        text: "Pensa, per exemple, en les preguntes que es fan en un dinar. A qui viu en parella, gairebé ningú no li pregunta si està segur de la seva elecció. En canvi, la vida d'una persona soltera sol demanar un petit expedient: si és per lliure o per descart, si és transitòria o definitiva. A vegades, a més, el to és de condol, com si la vida pròpia necessités validació externa per ser legítima.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta asimetria té un cost real. Normalment, la persona acaba defensant-se d'una acusació que ningú no formula del tot i, amb el temps, aquesta defensa es fa interior. Moltes persones solteres reconeixen que se senten obligades a demostrar felicitat o equilibri. Ara bé, cap vida no demana tants justificants com la que es viu sense parella. Per això, la pregunta interessant no és per què algú està sol, sinó per què la cultura necessita que s'expliqui.",
+      },
+      {
+        type: "heading",
+        text: "Escollida, esperada o les dues coses",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades la solteria és una decisió conscient. Hi ha persones que, a la maduresa, saben que la vida en parella els treu més del que els dóna; per això trien una altra arquitectura per als seus dies. De fet, no és una postura ni un despit: és una preferència informada per la pròpia història.",
+      },
+      {
+        type: "paragraph",
+        text: "Altres vegades, en canvi, la solteria és una espera no reconeguda. La persona desitja un vincle i, tanmateix, no ha arribat; o va arribar i no es va sostenir. Per exemple, després d'una separació llarga o d'un dol que va deixar la vida en pausa. Aquesta versió sol fer més mal, perquè conviu amb una pregunta incòmoda: i si no arriba?",
+      },
+      {
+        type: "heading",
+        text: "Quasi sempre, una barreja",
+      },
+      {
+        type: "paragraph",
+        text: "I gairebé sempre, tot i que costi admetre-ho, la solteria real és una barreja: parts que trien, parts que esperen, parts que ja no saben què volen. En aquest sentit, la maduresa no consisteix a resoldre l'ambivalència amb una etiqueta. Consisteix a sostenir-la sense que la vida es quedi en pausa mentrestant.",
+      },
+      {
+        type: "heading",
+        text: "El que pesa de debò",
+      },
+      {
+        type: "paragraph",
+        text: "Quan aquest tema apareix a la consulta, el malestar rarament és l'absència de parella en si. El que pesa és una altra cosa: el dol per la vida que s'imaginava als vint i no va arribar; el temps de ser mare o pare, quan importa; la por d'envellir sense una xarxa propera. A més, pesa la comparació: la vida dels altres que arriba en format de fotografia.",
+      },
+      {
+        type: "paragraph",
+        text: "Cal separar dues paraules que sovint es confonen. La solteria és una condició: no hi ha parella. La soledat és una experiència: falta vincle. Es pot estar en parella i sentir-se sol; també es pot viure sense parella i sentir-se acompanyat per amics, família i comunitat. De fet, ja vam escriure sobre la soledat a l'edat adulta. Confondre les dues fa mal, perquè porta a buscar parella com qui busca un remei, i no un vincle.",
+      },
+      {
+        type: "heading",
+        text: "Una vida pròpia no és una sala d'espera",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una diferència enorme entre fer vida mentre s'espera i construir una vida pròpia. La primera converteix els anys en abansala: la casa és provisional, els plans són provisionals, la felicitat queda posposada fins que arribi qui l'activi. La segona, en canvi, assumeix una cosa més madura: que la vida d'ara és la vida. Si arriba un vincle, arribarà a una vida habitada, no a un pis amoblat d'esperança.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no significa renunciar al desig de parella, ni fingir una autosuficiència que ningú no sosté del tot. Significa ordenar la coherència interna: que allò que vols —companyia, intimitat, família, llibertat— orienti les teves decisions, i no la por al què diran. En aquest sentit, la teràpia no empeny ningú ni al vincle ni a la soledat. Ajuda a distingir quina part de tu vol cadascuna de les dues coses.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la solteria adulta",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Estar solter als quaranta és senyal que alguna cosa va malament?",
+            answer:
+              "No. És una de les tantes formes que té avui una vida adulta. Ara bé, si fa mal, aquest dolor tampoc no és cap anormalitat. Cal mirar-lo amb calma, perquè sol parlar del desig o del dol, no d'un defecte de la persona.",
+          },
+          {
+            question: "I si vull parella i no arriba?",
+            answer:
+              "És una posició honrada i freqüent. En aquest cas, el treball té dos fronts: sostenir el desig sense que es converteixi en ansietat i, alhora, no posar la vida en pausa mentre arriba. A vegades, a més, convé revisar quins patrons de vincle es repeteixen; ja vam tractar els estils d'apego en un altre article.",
+          },
+          {
+            question: "Pot ajudar la teràpia si no vull canviar d'estat civil?",
+            answer:
+              "Sí, de fet és una consulta habitual. La teràpia no té per objectiu casar-te ni convèncer-te que no necessites ningú. És un espai per revisar la relació que tens amb tu: la teva història, els teus valors, els teus vincles. En definitiva, perquè la vida sigui teva, sigui quina sigui la seva forma.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La vida que ja és aquí",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta «i tu, amb qui?» es pot respondre de moltes maneres. La més madura potser és la més senzilla: amb mi, amb la meva gent, amb el que estic construint. Al capdavall, una vida adulta no es mesura per la persona amb qui es comparteix, sinó per la coherència amb què es sosté.",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquest tema toca alguna cosa teva —el desig, l'espera, el soroll social o la relació amb el teu propi temps—, es pot treballar. A Espai Emocions acompanyem processos individuals d'adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa: la teva vida actual ja és un bon lloc per començar.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Cuántas veces has explicado este año que estás bien como estás? La pregunta llega en las comidas de familia, en la oficina, en la cita que te montaron sin pedirlo: ¿y tú, con quién? Hay personas que responden con tranquilidad. Otras, en cambio, llevan años contestando con una nota de defensa en la voz, como si la soltería fuera un estado provisional que exige justificarse. Este artículo va de esa nota.",
+      },
+      {
+        type: "paragraph",
+        text: "La soltería adulta ocupa un lugar extraño en nuestra cultura. Nunca ha sido tan visible: personas de cuarenta y cincuenta años que viven solas por elección; sin embargo, nunca ha sido tan comentada. De hecho, pocas vidas piden hoy tanta explicación continua. La sospecha de fondo casi nunca se dice, pero se intuye: que detrás hay una carencia esperando remedio. En este texto proponemos lo contrario: mirar esa vida con el mismo respeto con que se mira cualquier otra.",
+      },
+      {
+        type: "heading",
+        text: "Un estado que se explica",
+      },
+      {
+        type: "paragraph",
+        text: "Piensa, por ejemplo, en las preguntas que se hacen en una comida. A quien vive en pareja casi nadie le pregunta si está seguro de su elección. En cambio, la vida de una persona soltera suele requerir un pequeño expediente: si es por libre o por descarte, si es transitoria o definitiva. A veces, además, el tono es de pésame, como si la vida propia necesitara validación externa para ser legítima.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta asimetría tiene un coste real. Normalmente, la persona acaba defendiéndose de una acusación que nadie formula del todo y, con el tiempo, esa defensa se vuelve interior. Muchas personas solteras reconocen que se sienten obligadas a demostrar felicidad o equilibrio. Ahora bien, ninguna vida pide tantos justificantes como la que se vive sin pareja. Por eso, la pregunta interesante no es por qué alguien está solo, sino por qué la cultura necesita que se explique.",
+      },
+      {
+        type: "heading",
+        text: "Elegida, esperada o las dos cosas",
+      },
+      {
+        type: "paragraph",
+        text: "A veces la soltería es una decisión consciente. Hay personas que, en la madurez, saben que la vida en pareja les quita más de lo que les da; por eso eligen otra arquitectura para sus días. De hecho, no es una pose ni un despecho: es una preferencia informada por la propia historia.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, en cambio, la soltería es una espera no reconocida. La persona quiere un vínculo y, sin embargo, no ha llegado; o llegó y no se sostuvo. Por ejemplo, después de una separación larga o de un duelo que dejó la vida en pausa. Esta versión suele doler más, porque convive con una pregunta incómoda: ¿y si no llega?",
+      },
+      {
+        type: "heading",
+        text: "Casi siempre, una mezcla",
+      },
+      {
+        type: "paragraph",
+        text: "Y casi siempre, aunque cueste admitirlo, la soltería real es una mezcla: partes que eligen, partes que esperan, partes que ya no saben qué quieren. En este sentido, la madurez no consiste en resolver la ambivalencia con una etiqueta. Consiste en sostenerla sin que la vida se ponga en pausa mientras tanto.",
+      },
+      {
+        type: "heading",
+        text: "Lo que pesa de verdad",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando este tema aparece en consulta, el malestar rara vez es la ausencia de pareja en sí. Lo que pesa es otra cosa: el duelo por la vida que se imaginaba a los veinte y no llegó; el tiempo de ser madre o padre, cuando importa; el miedo a envejecer sin una red cercana. Además, pesa la comparación: la vida de los demás que llega en formato de fotografía.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene separar dos palabras que suelen confundirse. La soltería es una condición: no hay pareja. La soledad es una experiencia: falta vínculo. Se puede estar en pareja y sentirse solo; también se puede vivir sin pareja y sentirse acompañado por amigos, familia y comunidad. De hecho, ya escribimos sobre la soledad en la edad adulta. Confundir las dos hace daño, porque lleva a buscar pareja como quien busca un remedio, y no un vínculo.",
+      },
+      {
+        type: "heading",
+        text: "Una vida propia no es una sala de espera",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una diferencia enorme entre hacer vida mientras se espera y construir una vida propia. La primera convierte los años en antesala: la casa es provisional, los planes son provisionales, la felicidad queda pospuesta hasta que llegue quien la active. La segunda, en cambio, asume algo más maduro: que la vida de ahora es la vida. Si llega un vínculo, llegará a una vida habitada, no a un piso amueblado de esperanza.",
+      },
+      {
+        type: "paragraph",
+        text: "Eso no significa renunciar al deseo de pareja, ni fingir una autosuficiencia que nadie sostiene del todo. Significa ordenar la coherencia interna: que lo que quieres —compañía, intimidad, familia, libertad— oriente tus decisiones, y no el miedo al qué dirán. En este sentido, la terapia no empuja a nadie ni al vínculo ni a la soledad. Ayuda a distinguir qué parte de ti quiere cada cosa.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la soltería adulta",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Estar soltero a los cuarenta es señal de que algo va mal?",
+            answer:
+              "No. Es una de las muchas formas que tiene hoy una vida adulta. Ahora bien, si duele, ese dolor tampoco es una anormalidad. Conviene mirarlo con calma, porque suele hablar del deseo o del duelo, no de un defecto de la persona.",
+          },
+          {
+            question: "¿Y si quiero pareja y no llega?",
+            answer:
+              "Es una posición honesta y frecuente. En ese caso, el trabajo tiene dos frentes: sostener el deseo sin que se convierta en ansiedad y, al mismo tiempo, no poner la vida en pausa mientras llega. A veces, además, conviene revisar qué patrones de vínculo se repiten; ya tratamos los estilos de apego en otro artículo.",
+          },
+          {
+            question: "¿Puede ayudar la terapia si no quiero cambiar de estado civil?",
+            answer:
+              "Sí, de hecho es una consulta habitual. La terapia no tiene como objetivo casarte ni convencerte de que no necesitas a nadie. Es un espacio para revisar la relación que tienes contigo: tu historia, tus valores, tus vínculos. En definitiva, para que la vida sea tuya, sea cual sea su forma.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La vida que ya está aquí",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta «¿y tú, con quién?» se puede responder de muchas maneras. La más madura quizá sea la más sencilla: conmigo, con mi gente, con lo que estoy construyendo. Al final, una vida adulta no se mide por la persona con quien se comparte, sino por la coherencia con que se sostiene.",
+      },
+      {
+        type: "paragraph",
+        text: "Si este tema toca algo tuyo —el deseo, la espera, el ruido social o la relación con tu propio tiempo—, se puede trabajar. En Espai Emocions acompañamos procesos individuales de adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: tu vida actual ya es un buen lugar para empezar.",
+      },
+    ],
+  },
 ];

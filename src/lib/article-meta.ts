@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "solteria-edad-adulta",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "La solteria a l'edat adulta: quan la teva vida no necessita justificació",
+    "titleES": "La soltería en la edad adulta: cuando tu vida no necesita justificación",
+    "excerptCA": "La solteria a l'edat adulta es viu sovint com un estat provisional que exigeix justificar-se: als dinars, a la feina, a cada «i tu, amb qui?». Aquí explorem la diferència entre soledat i solteria, què pesa de debò quan no arriba la parella, com deixar de viure en sala d'espera i com la teràpia ajuda a sostenir una vida pròpia. Sense romantitzar ni patologitzar: la maduresa és coherència, amb parella o sense.",
+    "excerptES": "La soltería en la edad adulta se vive a menudo como un estado provisional que exige justificarse: en las comidas, en el trabajo, en cada «¿y tú, con quién?». Aquí exploramos la diferencia entre soledad y soltería, qué pesa de verdad cuando no llega la pareja, cómo dejar de vivir en sala de espera y cómo la terapia ayuda a sostener una vida propia. Sin romantizar ni patologizar: madurez es coherencia, con pareja o sin ella.",
+    "datePublished": "2026-09-29"
+  },
+  {
     "slug": "miedo-a-enfermar-ansiedad-por-la-salud",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
