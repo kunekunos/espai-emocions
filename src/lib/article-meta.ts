@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "las-cuatro-de-la-manana",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "Les quatre del matí: quan la ment fa balanç de la teva vida",
+    "titleES": "Las cuatro de la mañana: cuando la mente hace balance de tu vida",
+    "excerptCA": "Hi ha una hora que molts adults coneixen de memòria: les quatre del matí, quan el cos desperta i el cap encén la taula d'auditoria. Aquí explorem per què la matinada amplia tot el que fa mal, de què fa balanç exactament la ment nocturna, quan un despertar sostingut és una senyal a escoltar i com es treballa a la teràpia. Sense guerra contra el son: portar a la llum del dia el que la nit pregunta.",
+    "excerptES": "Hay una hora que muchos adultos conocen de memoria: las cuatro de la mañana, cuando el cuerpo despierta y la cabeza enciende la mesa de auditoría. Aquí exploramos por qué la madrugada amplifica todo lo que duele, de qué hace balance exactamente la mente nocturna, cuándo un despertar sostenido es una señal a escuchar y cómo se trabaja en terapia. Sin guerra contra el sueño: traer a la luz del día lo que la noche pregunta.",
+    "datePublished": "2026-09-30"
+  },
+  {
     "slug": "solteria-edad-adulta",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",

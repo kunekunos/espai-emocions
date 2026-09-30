@@ -1814,4 +1814,217 @@ export const articlesPart13: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 9. las-cuatro-de-la-manana (ansiedad / insomnio, 2026-09-30)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "las-cuatro-de-la-manana",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA:
+      "Les quatre del matí: quan la ment fa balanç de la teva vida",
+    titleES:
+      "Las cuatro de la mañana: cuando la mente hace balance de tu vida",
+    excerptCA:
+      "Hi ha una hora que molts adults coneixen de memòria: les quatre del matí, quan el cos desperta i el cap encén la taula d'auditoria. Aquí explorem per què la matinada amplia tot el que fa mal, de què fa balanç exactament la ment nocturna, quan un despertar sostingut és una senyal a escoltar i com es treballa a la teràpia. Sense guerra contra el son: portar a la llum del dia el que la nit pregunta.",
+    excerptES:
+      "Hay una hora que muchos adultos conocen de memoria: las cuatro de la mañana, cuando el cuerpo despierta y la cabeza enciende la mesa de auditoría. Aquí exploramos por qué la madrugada amplifica todo lo que duele, de qué hace balance exactamente la mente nocturna, cuándo un despertar sostenido es una señal a escuchar y cómo se trabaja en terapia. Sin guerra contra el sueño: traer a la luz del día lo que la noche pregunta.",
+    datePublished: "2026-09-30",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una hora que molts adults reconeixen sense mirar el rellotge: les quatre del matí. La casa calla, l'habitació és fosca i, en canvi, el cap s'encén. En pocs segons passes del son a l'auditoria: la feina, la parella, el cos, el temps que passa. La matinada té la seva manera d'obrir expedients, i no demana permís.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article parla d'aquesta hora tan coneguda. De fet, molts adults no han perdut mai l'art d'adormir-se: han perdut l'art de continuar dormint. No és, doncs, només una qüestió de dormir poc. És una qüestió de què fa la ment quan ningú la distreu. Ara bé, abans de tractar-la com una avaria, val la pena escoltar què diu.",
+      },
+      {
+        type: "heading",
+        text: "Una franja amb la seva pròpia lògica",
+      },
+      {
+        type: "paragraph",
+        text: "La matinada funciona amb una lògica diferent de la del dia. A aquesta hora, el cos duu hores sense descans i no hi ha tasques que competeixin per l'atenció. Per exemple, durant el dia una preocupació espera el seu torn; a les quatre, en canvi, té tota la sala per a ella sola. La ment nocturna fa balanç sense advocat defensor.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, aquesta franja té un efecte conegut: tot sembla més gran. La conversa pendent esdevé prova de distància; el dubte laboral, sentència; el cos que canvia, amenaça. Normalment, cap d'aquestes lectures desapareix al matí; senzillament, recuperen mida. Per tant, la pregunta nocturna no és del tot falsa: és una pregunta sense el context que la faria respondable.",
+      },
+      {
+        type: "heading",
+        text: "De què fa balanç la matinada",
+      },
+      {
+        type: "paragraph",
+        text: "Qui ha passat nits així reconeix el repertori. La feina que ja no il·lusiona. La parella que s'ha tornat logística. Els pares que envellixen, el temps propi que no arriba, la vida que a aquesta hora sembla una decisió tancada. En aquest sentit, el despertar actua com una cita amb les preguntes que el dia posposa. A més, acostuma a repetir temes: escenaris nous cada nit, però sempre el mateix fons.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això convé tractar la ment de les quatre amb un cert respecte. És una auditora descortesa, cert. Tanmateix, rarament s'inventa els expedients: tria els que existeixen. El problema no és que pregunti; és que pregunti a fosques, amb una veu que sona a veritat definitiva. De fet, la feina terapèutica no consisteix a fer-la callar, sinó a portar les seves preguntes a la llum del dia.",
+      },
+      {
+        type: "heading",
+        text: "Quan el despertar és una senyal",
+      },
+      {
+        type: "paragraph",
+        text: "No tot despertar de matinada és patològic: al llarg de la nit, tothom desperta breument i torna a dormir. Ara bé, hi ha matisos que mereixen escolta. El primer és la freqüència: setmanes de despertars a la mateixa hora, cada cop amb més dificultat per tornar a dormir.",
+      },
+      {
+        type: "paragraph",
+        text: "El segon és el moment: adormir-se amb facilitat i despertar massa d'hora és un patró clàssic dels estats depressius. El tercer és el context: pèrdues i conflictes que el dia no acaba de digerir.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest sentit, el cos sovint fa d'avantguarda del malestar: quan alguna cosa demana ser mirada, es presenta de nit, amb les defenses baixes. A més, el despertar precoç sostingut acompanya sovint tristesa, cansament o pèrdua d'interès. Al capdavall, si fa setmanes que et despertes amb la mateixa càrrega, és una senyal que mereix atenció.",
+      },
+      {
+        type: "heading",
+        text: "Què es treballa a la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Contràriament al que molts esperen, la teràpia no comença per la higiene del son. Comença per la pregunta que fa la nit: quins temes es repeteixen, què s'ha mogut fa poc, què s'evita de dia. A partir d'aquí, el treball agafa dues direccions. D'una banda, desmuntar la rumiació nocturna i la seva lògica de catastrofisme. De l'altra, mirar de debò allò que la matinada assenyala: el vincle, la feina, el propi temps. Al capdavall, quan el dia es torna parlable, la nit acostuma a deixar de ser un tribunal.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, quan darrere del despertar hi ha un estat depressiu o d'ansietat sostinguda, tractar l'estat és la manera més honesta de tractar el son. De fet, el descans sol tornar quan la vida recupera mida i color. Ara bé, això no es pot decretar: exigeix un procés, temps i una relació terapèutica sòlida.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: el despertar de matinada",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Per què em desperto sempre a la mateixa hora?",
+            answer:
+              "El cos treballa amb ritmes i, a més, aprèn associacions: si diverses nits despertes amb angoixa, el despertar esdevé una cita. Tanmateix, el contingut importa més que l'hora.",
+          },
+          {
+            question: "Com sé si és insomni o alguna cosa més?",
+            answer:
+              "Si dura setmanes i acompanya tristesa, cansament o pèrdua d'interès, cal una valoració professional. El despertar precoç sostingut és una senyal freqüent en estats depressius; en canvi, un despertar aïllat és vida normal.",
+          },
+          {
+            question: "Serveix d'alguna cosa intentar no pensar en res?",
+            answer:
+              "Com a estratègia única, poc. De fet, forçar el buit intensifica la rumiació. És més útil treure urgència al despertar i portar el tema a consulta.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El dia que la matinada deixa de jutjar",
+      },
+      {
+        type: "paragraph",
+        text: "Les quatre del matí no són una sentència: són una hora. La ment que es desperta sol ser la part més honesta —i la menys educada— d'una persona: la que porta els llibres de la seva vida sense filtres. En definitiva, no es tracta d'aconseguir que calli. Es tracta de donar-li, de dia, una resposta que pugui acceptar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si fa setmanes que la matinada fa balanç de la teva vida i el dia no troba lloc per respondre, potser és el moment de parlar-ne amb algú. A Espai Emocions acompanyem adults en processos individuals, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. De dia, que és quan les coses recuperen la seva mida.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una hora que muchos adultos reconocen sin mirar el reloj: las cuatro de la mañana. La casa calla, la habitación está a oscuras y, en cambio, la cabeza se enciende. En pocos segundos pasas del sueño a la auditoría: el trabajo, la pareja, el cuerpo, el tiempo que pasa. La madrugada tiene su manera de abrir expedientes, y no pide permiso.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo habla de esa hora tan conocida. De hecho, muchos adultos no han perdido nunca el arte de dormirse: han perdido el arte de seguir dormidos. No es, por tanto, solo una cuestión de dormir poco. Es una cuestión de qué hace la mente cuando nadie la distrae. Ahora bien, antes de tratarla como una avería, vale la pena escuchar qué dice.",
+      },
+      {
+        type: "heading",
+        text: "Una franja con su propia lógica",
+      },
+      {
+        type: "paragraph",
+        text: "La madrugada funciona con una lógica distinta de la del día. A esa hora, el cuerpo lleva horas sin descansar y no hay tareas que compitan por la atención. Por ejemplo, durante el día una preocupación espera su turno; a las cuatro, en cambio, tiene toda la sala para ella sola. La mente nocturna hace balance sin abogado defensor.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, esta franja tiene un efecto conocido: todo parece más grande. La conversación pendiente se vuelve prueba de distancia; la duda laboral, sentencia; el cuerpo que cambia, amenaza. Normalmente, ninguna de estas lecturas desaparece por la mañana; sencillamente, recupera su tamaño. Por eso, la pregunta nocturna no es del todo falsa: es una pregunta sin el contexto que la haría respondible.",
+      },
+      {
+        type: "heading",
+        text: "De qué hace balance la madrugada",
+      },
+      {
+        type: "paragraph",
+        text: "Quien ha pasado noches así reconoce el repertorio. El trabajo que ya no ilusiona. La pareja que se ha vuelto logística. Los padres que envejecen, el tiempo propio que no llega, la vida que a esa hora parece una decisión cerrada. En este sentido, el despertar actúa como una cita con las preguntas que el día pospone. Además, suele repetir temas: escenarios nuevos cada noche, pero siempre el mismo fondo.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso conviene tratar a la mente de las cuatro con cierto respeto. Es una auditora descortés, cierto. Sin embargo, rara vez inventa los expedientes: elige los que existen. El problema no es que pregunte; es que pregunte a oscuras, con una voz que suena a verdad definitiva. De hecho, el trabajo terapéutico no consiste en hacerla callar, sino en traer sus preguntas a la luz del día.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo el despertar es una señal",
+      },
+      {
+        type: "paragraph",
+        text: "No todo despertar de madrugada es patológico: a lo largo de la noche, todo el mundo despierta brevemente y vuelve a dormir. Ahora bien, hay matices que merecen escucha. El primero es la frecuencia: semanas de despertares a la misma hora, cada vez con más dificultad para volver a dormir.",
+      },
+      {
+        type: "paragraph",
+        text: "El segundo es el momento: dormirse con facilidad y despertar demasiado pronto es un patrón clásico de los estados depresivos. El tercero es el contexto: pérdidas y conflictos que el día no acaba de digerir.",
+      },
+      {
+        type: "paragraph",
+        text: "En este sentido, el cuerpo suele hacer de vanguardia del malestar: cuando algo pide ser mirado, se presenta de noche, con las defensas bajas. Además, el despertar precoz sostenido acompaña a menudo a la tristeza, el cansancio o la pérdida de interés. Al final, si llevas semanas despertándote con la misma carga, es una señal que merece atención.",
+      },
+      {
+        type: "heading",
+        text: "Qué se trabaja en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Al contrario de lo que muchos esperan, la terapia no empieza por la higiene del sueño. Empieza por la pregunta que hace la noche: qué temas se repiten, qué se ha movido hace poco, qué se evita de día. A partir de ahí, el trabajo toma dos direcciones. Por un lado, desmontar la rumiación nocturna y su lógica de catastrofismo. Por otro, mirar de verdad aquello que la madrugada señala: el vínculo, el trabajo, el tiempo propio. Al final, cuando el día se vuelve hablable, la noche suele dejar de ser un tribunal.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, cuando detrás del despertar hay un estado depresivo o de ansiedad sostenida, tratar ese estado es la manera más honesta de tratar el sueño. De hecho, el descanso suele volver cuando la vida recupera tamaño y color. Ahora bien, esto no se puede decretar: exige un proceso, tiempo y una relación terapéutica sólida.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el despertar de madrugada",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Por qué me despierto siempre a la misma hora?",
+            answer:
+              "El cuerpo trabaja con ritmos y, además, aprende asociaciones: si varias noches despiertas con angustia, el despertar se convierte en una cita. Sin embargo, el contenido importa más que la hora.",
+          },
+          {
+            question: "¿Cómo sé si es insomnio o algo más?",
+            answer:
+              "Si dura semanas y acompaña a tristeza, cansancio o pérdida de interés, conviene una valoración profesional. El despertar precoz sostenido es una señal frecuente en estados depresivos; en cambio, un despertar aislado es vida normal.",
+          },
+          {
+            question: "¿Sirve de algo intentar no pensar en nada?",
+            answer:
+              "Como estrategia única, poco. De hecho, forzar el vacío intensifica la rumiación. Es más útil quitarle urgencia al despertar y traer el tema a consulta.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El día en que la madrugada deja de juzgar",
+      },
+      {
+        type: "paragraph",
+        text: "Las cuatro de la mañana no son una sentencia: son una hora. La mente que despierta suele ser la parte más honesta —y la menos educada— de una persona: la que lleva los libros de su vida sin filtros. En definitiva, no se trata de conseguir que calle. Se trata de darle, de día, una respuesta que pueda aceptar.",
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas semanas haciendo balance a las cuatro de la mañana y el día no encuentra lugar para responder, quizá es el momento de hablarlo con alguien. En Espai Emocions acompañamos a adultos en procesos individuales, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. De día, que es cuando las cosas recuperan su tamaño.",
+      },
+    ],
+  },
 ];
