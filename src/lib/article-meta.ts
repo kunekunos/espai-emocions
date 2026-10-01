@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "dificultad-para-llorar",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La dificultat per plorar: quan alguna cosa demana sortir",
+    "titleES": "La dificultad para llorar: cuando algo no encuentra salida",
+    "excerptCA": "La dificultat per plorar és més comuna del que sembla: aquí explorem què l'aguanta, què amaga sota el silenci i com es treballa en teràpia.",
+    "excerptES": "La dificultad para llorar es más común de lo que parece: qué la sostiene, qué esconde bajo el silencio y cómo se trabaja en terapia.",
+    "datePublished": "2026-10-01"
+  },
+  {
     "slug": "las-cuatro-de-la-manana",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",

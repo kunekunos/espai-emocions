@@ -2027,4 +2027,217 @@ export const articlesPart13: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 10. dificultad-para-llorar (identidad, 2026-10-01)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "dificultad-para-llorar",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA:
+      "La dificultat per plorar: quan alguna cosa demana sortir",
+    titleES:
+      "La dificultad para llorar: cuando algo no encuentra salida",
+    excerptCA:
+      "La dificultat per plorar és més comuna del que sembla: aquí explorem què l'aguanta, què amaga sota el silenci i com es treballa en teràpia.",
+    excerptES:
+      "La dificultad para llorar es más común de lo que parece: qué la sostiene, qué esconde bajo el silencio y cómo se trabaja en terapia.",
+    datePublished: "2026-10-01",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha una escena que es repeteix en moltes vides adultes. La persona plora amb una pel·lícula, amb una cançó, amb la victòria d'un desconegut a la tele. Ara bé, quan la cosa és seva —el duel, la ruptura, la por—, els ulls es queden secs. La dificultat per plorar és una de les queixes més freqüents que arriben a consulta. Tanmateix, poques vegades es diu amb aquestes paraules: normalment arriba disfressada de «jo no sóc de plorar».",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article parla d'aquest bloqueig. De fet, no és cap patologia: és una manera d'habituar-se al propi món intern. Plorar és una funció, no un luxe; tanmateix, molts adults la tenen bloquejada. Aquí explorem d'on ve la dificultat per plorar, què hi ha a sota i com es treballa a la teràpia. Sense forçar cap llàgrima: el plor, quan torna, torna sol.",
+      },
+      {
+        type: "heading",
+        text: "Un bloqueig amb moltes cares",
+      },
+      {
+        type: "paragraph",
+        text: "El bloqueig no sempre es veu igual. Hi ha qui no pot plorar ni al funeral del seu pare. N'hi ha que només plora dins del cotxe, aparcat, amb la ràdio posada. També hi ha qui llora amb qualsevol cosa menor: un anunci, una sèrie, una notícia dolça. Ara bé, amb el dolor propi, els ulls es queden secs.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquestes cares tenen un fons comú. En primer lloc, el plor propi es viu com una pèrdua de control. Per això, el cos només el deixa passar quan ningú no mira. En segon lloc, hi ha una distància estranya entre el que la persona sent i el que pot expressar. A vegades, a més, conviu amb una sensació molt física: el nus a la gola que no baixa mai.",
+      },
+      {
+        type: "heading",
+        text: "D'on ve la dificultat per plorar",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú no neix amb els ulls secs. De fet, el plor és l'eina de regulació més antiga: els nadons ploren per existir i per descarregar tensió. La dificultat per plorar s'aprèn, i s'aprèn aviat. Per exemple, en cases on plorar feia nosa: «no passa res», «ja ets gran».",
+      },
+      {
+        type: "paragraph",
+        text: "També s'aprèn per assignació de papers: el nen fort, la nena responsable, qui va haver de sostenir els altres. Tots van rebre el mateix missatge: plorar no era segur, no convenia o no tocava. En la vida adulta, a més, cada llàgrima continguda confirma la regla.",
+      },
+      {
+        type: "paragraph",
+        text: "El gènere, en aquest sentit, té pes. A molts homes se'ls va ensenyar que plorar era feblesa; a moltes dones, que feia perdre autoritat. Ara bé, el resultat convergeix: el mateix nus a la gola i la mateixa frase. «Jo no sóc de plorar» és, moltes vegades, una biografia resumida.",
+      },
+      {
+        type: "heading",
+        text: "Què hi ha sota el plor que no arriba",
+      },
+      {
+        type: "paragraph",
+        text: "Contenir emocions té un cost. De fet, el cos que no plora no deixa de sentir: deixa de descarregar. La tensió s'acumula a la musculatura, a la mandíbula, a l'estómac. A vegades es converteix en insomni, en irritabilitat, en aquell cansament que no descansa. Tanmateix, la sequedat exterior no és absència de dolor: és dolor sense canal.",
+      },
+      {
+        type: "paragraph",
+        text: "Convé separar dues coses que sovint es confonen. No sentir és una cosa; no permetre'n l'expressió és una altra. Moltes persones que «no ploren» senten moltíssim. Ara bé, el sentiment circula per dins sense sortida, com una carta que mai no s'envia. De fet, ja vam escriure sobre el cos que diu el que el cap calla. Per això, el treball terapèutic no busca fabricar llàgrimes: busca obrir el canal que la història va tancar.",
+      },
+      {
+        type: "heading",
+        text: "El plor a la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "A la consulta, aquest tema es tracta amb respecte. Ningú no plora perquè li ho demanin. Ara bé, quan el material surt —una memòria, un reconeixement—, el plor arriba sol, sovint amb sorpresa: «feia anys que no ho feia». El plor a consulta, a més, no és una crisi: és un contacte. La persona toca alguna cosa que era seva i que havia quedat fora de servei.",
+      },
+      {
+        type: "paragraph",
+        text: "El plor té, a més, una funció ben descrita per la recerca: descarrega i reorganitza. Després d'un plor vertader, molta gent dorm millor i pensa amb més claredat. Ara bé, a la consulta no es persegueixen les llàgrimes com a objectiu. Es persegueix la coherència: que el que sents i el que expresses tornin a ser la mateixa cosa. Les llàgrimes, quan tornen, són la conseqüència.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la dificultat per plorar",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Plorar poc és senyal de ser una persona forta?",
+            answer:
+              "No. De fet, la força i el bloqueig sovint es confonen. Moltes vegades, la persona «forta» de la família és qui no va poder deixar de ser-ho. La força de debò, a més, inclou poder-se commoure.",
+          },
+          {
+            question: "I si mai no he plorat? Puc recuperar-ho?",
+            answer:
+              "Sí. De fet, no es tracta d'aprendre una tècnica. Es tracta de revisar què va tancar el canal: papers, història, por a perdre el control. El plor, aleshores, torna sense ser buscat.",
+          },
+          {
+            question: "Plorar massa també és un problema?",
+            answer:
+              "El criteri no és la quantitat, sinó la llibertat. Plorar cada dia amb descàrrega és una cosa; en canvi, no poder aturar-ho és una altra. A més, un canvi sobtat en qualsevol sentit sempre mereix escolta.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El que el plor ordena",
+      },
+      {
+        type: "paragraph",
+        text: "El plor no arregla res per si sol; tanmateix, ordena. Quan torna, les coses es posen al seu lloc. El dolor fa mal; la tristesa té cara de tristesa; el cos deixa d'aguantar el que no necessita sostenir. En definitiva, no es tracta de ser una persona més ploranera. Es tracta de ser una persona més habitable per a un mateix.",
+      },
+      {
+        type: "paragraph",
+        text: "Si t'has reconegut en aquestes línies —els ulls secs quan tot demanava llàgrimes—, es pot treballar. A Espai Emocions acompanyem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa: el teu plor ja sap el camí; només necessita que li obrin la porta.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay una escena que se repite en muchas vidas adultas. La persona llora con una película, con una canción, con la victoria de un desconocido en la tele. Sin embargo, cuando el tema es suyo —el duelo, la ruptura, el miedo—, los ojos se quedan secos. La dificultad para llorar es una de las quejas más frecuentes que llegan a consulta. Normalmente, además, llega disfrazada de «yo no soy de llorar».",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo habla de ese bloqueo. De hecho, no es una patología: es una forma de habitar el propio mundo interior. Llorar es una función, no un lujo; ahora bien, muchos adultos la tienen bloqueada. Aquí exploramos de dónde viene la dificultad para llorar, qué hay debajo y cómo se trabaja en terapia. Sin forzar ninguna lágrima: el llanto, cuando vuelve, vuelve solo.",
+      },
+      {
+        type: "heading",
+        text: "Un bloqueo con muchas caras",
+      },
+      {
+        type: "paragraph",
+        text: "El bloqueo no siempre se ve igual. Hay quien no puede llorar ni en el funeral de su padre. Hay quien solo llora dentro del coche, aparcado, con la radio puesta. También hay quien llora con cualquier cosa menor: un anuncio, una serie, una noticia dulce. Ahora bien, con el dolor propio, los ojos se quedan secos.",
+      },
+      {
+        type: "paragraph",
+        text: "Estas caras comparten un fondo. En primer lugar, el llanto propio se vive como una pérdida de control. Por eso, el cuerpo solo lo deja pasar cuando nadie mira. En segundo lugar, hay una distancia extraña entre lo que la persona siente y lo que puede expresar. A veces, además, convive con una sensación muy física: el nudo en la garganta que nunca baja.",
+      },
+      {
+        type: "heading",
+        text: "De dónde viene la dificultad para llorar",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie nace con los ojos secos. De hecho, el llanto es la herramienta de regulación más antigua: los bebés lloran para existir y para descargar tensión. La dificultad para llorar se aprende, y se aprende pronto. Por ejemplo, en casas donde llorar molestaba: «no pasa nada», «ya eres grande».",
+      },
+      {
+        type: "paragraph",
+        text: "También se aprende por asignación de papeles: el niño fuerte, la niña responsable, quien tuvo que sostener a los demás. Todos recibieron el mismo mensaje: llorar no era seguro, no convenía o no tocaba. En la vida adulta, además, cada lágrima contenida confirma la regla.",
+      },
+      {
+        type: "paragraph",
+        text: "El género, en este sentido, pesa. A muchos hombres les enseñaron que el llanto era debilidad; a muchas mujeres, que hacía perder autoridad. Ahora bien, el resultado converge: el mismo nudo en la garganta y la misma frase. «Yo no soy de llorar» es, muchas veces, una biografía resumida.",
+      },
+      {
+        type: "heading",
+        text: "Qué hay debajo del llanto que no llega",
+      },
+      {
+        type: "paragraph",
+        text: "Contener emociones tiene un coste. De hecho, el cuerpo que no llora no deja de sentir: deja de descargar. La tensión se acumula en la musculatura, en la mandíbula, en el estómago. A veces se convierte en insomnio, en irritabilidad, en ese cansancio que no descansa. Sin embargo, la sequedad exterior no es ausencia de dolor: es dolor sin canal.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene separar dos cosas que suelen confundirse. No sentir es una cosa; no permitir la expresión es otra. Muchas personas que «no lloran» sienten muchísimo. Ahora bien, el sentimiento circula por dentro sin salida, como una carta que nunca se envía. De hecho, ya escribimos sobre el cuerpo que dice lo que la cabeza calla. Por eso, el trabajo terapéutico no busca fabricar lágrimas: busca abrir el canal que la historia cerró.",
+      },
+      {
+        type: "heading",
+        text: "El llanto en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, este tema se trata con respeto. Nadie llora porque se lo pidan. Ahora bien, cuando el material sale —un recuerdo, un reconocimiento—, el llanto llega solo, a menudo con sorpresa: «hacía años que no lo hacía». El llanto en consulta, además, no es una crisis: es un contacto. La persona toca algo que era suyo y que había quedado fuera de servicio.",
+      },
+      {
+        type: "paragraph",
+        text: "El llanto tiene, además, una función bien descrita por la investigación: descarga y reorganiza. Después de un llanto verdadero, mucha gente duerme mejor y piensa con más claridad. Ahora bien, en consulta no se persiguen las lágrimas como objetivo. Se persigue la coherencia: que lo que sientes y lo que expresas vuelvan a ser lo mismo. Las lágrimas, cuando vuelven, son la consecuencia.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la dificultad para llorar",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Llorar poco es señal de ser una persona fuerte?",
+            answer:
+              "No. De hecho, la fuerza y el bloqueo a menudo se confunden. Muchas veces, la persona «fuerte» de la familia es quien no pudo dejar de serlo. La fuerza de verdad, además, incluye poder conmoverse.",
+          },
+          {
+            question: "¿Y si nunca he llorado? ¿Puedo recuperarlo?",
+            answer:
+              "Sí. De hecho, no se trata de aprender una técnica. Se trata de revisar qué cerró el canal: papeles, historia, miedo a perder el control. El llanto, entonces, vuelve sin ser buscado.",
+          },
+          {
+            question: "¿Llorar mucho también es un problema?",
+            answer:
+              "El criterio no es la cantidad, sino la libertad. Llorar cada día con descarga es una cosa; en cambio, no poder pararlo es otra. Además, un cambio brusco en cualquier sentido siempre merece escucha.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Lo que el llanto ordena",
+      },
+      {
+        type: "paragraph",
+        text: "El llanto no arregla nada por sí solo; sin embargo, ordena. Cuando vuelve, las cosas se ponen en su sitio. El dolor duele; la tristeza tiene cara de tristeza; el cuerpo deja de sostener lo que no necesita sostener. En definitiva, no se trata de ser una persona más llorona. Se trata de ser una persona más habitable para uno mismo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te has reconocido en estas líneas —los ojos secos cuando todo pedía lágrimas—, se puede trabajar. En Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: tu llanto ya sabe el camino; solo necesita que le abran la puerta.",
+      },
+    ],
+  },
 ];
