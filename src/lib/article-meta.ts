@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "sensacion-impostor-edad-adulta",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Sensació d'impostor: quan el teu èxit no se sent teu",
+    "titleES": "Sensación de impostor: cuando tu éxito no se siente tuyo",
+    "excerptCA": "La sensació d'impostor no marxa amb els èxits: què l'aguanta, per què resisteix a les proves i com es treballa en la teràpia d'adults.",
+    "excerptES": "La sensación de impostor no se marcha con los logros: qué la sostiene, por qué resiste a las pruebas y cómo se trabaja en terapia de adultos.",
+    "datePublished": "2026-10-02"
+  },
+  {
     "slug": "dificultad-para-llorar",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
