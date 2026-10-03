@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "miedo-al-compromiso-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Por al compromís: quan estimar i quedar-se no coincideixen",
+    "titleES": "Miedo al compromiso: cuando querer y quedarse no coinciden",
+    "excerptCA": "La por al compromís no és immaduresa: què l'aguanta de debò, per què s'activa quan el vincle va bé i com es treballa a teràpia de parella.",
+    "excerptES": "El miedo al compromiso no es inmadurez: qué lo sostiene de verdad, por qué se activa cuando el vínculo va bien y cómo se trabaja en terapia de pareja.",
+    "datePublished": "2026-10-03"
+  },
+  {
     "slug": "sensacion-impostor-edad-adulta",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",

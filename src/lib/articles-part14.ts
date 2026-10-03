@@ -207,4 +207,207 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 2. miedo-al-compromiso-pareja (pareja, 2026-10-03)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "miedo-al-compromiso-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "Por al compromís: quan estimar i quedar-se no coincideixen",
+    titleES: "Miedo al compromiso: cuando querer y quedarse no coinciden",
+    excerptCA:
+      "La por al compromís no és immaduresa: què l'aguanta de debò, per què s'activa quan el vincle va bé i com es treballa a teràpia de parella.",
+    excerptES:
+      "El miedo al compromiso no es inmadurez: qué lo sostiene de verdad, por qué se activa cuando el vínculo va bien y cómo se trabaja en terapia de pareja.",
+    datePublished: "2026-10-03",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La por al compromís és una de les experiències més freqüents a la consulta de parella. No sempre arriba amb aquest nom. A vegades es disfressa de dubtes raonables: si és la persona adequada, si és el moment, si convé esperar. Altres vegades apareix com un malestar difús que creix quan el vincle es fa més estable. La paradoxa és coneguda: com més bé va la relació, més s'activa l'alarma.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article proposa mirar aquesta fugida sense mofa i amb profunditat. Qui tem comprometre's no sol ser més superficial ni menys capaç d'estimar. De fet, el problema gairebé mai no és la manca d'amor: és allò que el compromís comença a significar. Renúncia, pèrdua d'autonomia, la possibilitat d'equivocar-se. Entendre aquest significat és el punt de partida de qualsevol treball seriós.",
+      },
+      {
+        type: "heading",
+        text: "Què és (i què no és) la por al compromís",
+      },
+      {
+        type: "paragraph",
+        text: "La por al compromís no és cap diagnòstic ni cap raresa del caràcter. Normalment és una experiència relacional: sensacions, pensaments i conductes que apareixen quan la relació avança cap a etapes irreversibles. Anar a viure junts, parlar de futur, conèixer les famílies, decidir un projecte comú. Davant de cada llindar, la mateixa pregunta: i si m'equivoco?",
+      },
+      {
+        type: "paragraph",
+        text: "Convé distingir-la de dues coses. D'una banda, de la prudència: dubtar abans d'una decisió gran és seny, no fugida. De l'altra, de la immaduresa. Moltes persones de quaranta anys, plenament adultes en tota la resta, encara la pateixen. A més, la fugida té un patró recognoscible. Relacions que es trenquen just quan anaven bé, amors sostinguts a distància, parelles impossibles triades d'entrada. Ara bé, la persona no deixa d'estimar; deixa de quedar-se.",
+      },
+      {
+        type: "heading",
+        text: "D'on ve la fugida quan hi ha amor",
+      },
+      {
+        type: "paragraph",
+        text: "Gairebé mai no neix de la parella actual. Normalment la por és més antiga que la relació. A vegades ve de la història familiar: parelles que es van fer mal, un vincle on quedar-se volia dir perdre's. Altres vegades ve d'una identitat construïda sobre l'autonomia: algú que va aprendre aviat a comptar només amb si mateix. En aquest context, el compromís no sona a llar; sona a trampa. Conèixer aquesta història no excusa la fugida; tanmateix, ajuda a treballar-hi.",
+      },
+      {
+        type: "paragraph",
+        text: "També pesa la por d'equivocar-se i de no poder tornar enrere. El compromís es viu com una aposta sense retorn. Si falla, es pensa, hi haurà temps perdut i mal causat. Algunes persones queden atrapades entre dos duels: renunciar a la llibertat o renunciar a la relació. Per això la paràlisi no és irracional: és la suma de dues pors legítimes que demanen ser ordenades.",
+      },
+      {
+        type: "heading",
+        text: "Com es viu per dins",
+      },
+      {
+        type: "paragraph",
+        text: "Per dins, l'experiència és més patiment que frivolitat. Qui la pateix vol quedar-se i no pot. Apareix una sensació d'ofec —el pit clos, la necessitat de sortir— seguida de culpa per sentir el que es sent. Després arriba la distància: més nits fora, menys plans de futur, converses que s'eviten. I amb ella, una explicació raonable: «és que la relació té problemes». Tanmateix, el problema sol ser que el vincle s'acostava a un llindar.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la fugida és instantània per a qui la pateix i gradual als ulls de la parella. Un dels dos nota que l'altre ja no hi és del tot. En aquest sentit, hem parlat dels vincles que es repeteixen i de la por a la intimitat: tots dos temes es creuen amb aquest. De fet, qui tem comprometre's tem ser conegut del tot i no ser suficient.",
+      },
+      {
+        type: "heading",
+        text: "La por al compromís a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta, el treball no consisteix a convèncer ningú de quedar-se. Consisteix a desmuntar el significat que el compromís va adquirir en la història de cada persona. Per això s'exploren tres direccions. Primer, la història: quins models de parella es van viure i què es va aprendre sobre quedar-se. Després, les parts que fugen: de què protegeixen i què creuen que es perdria. Finalment, la coherència entre valors i vida: voler un vincle estable i no poder sostenir-lo assenyala la porta d'entrada.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan la parella acudeix junta, el focus canvia. La teràpia permet anomenar la fugida sense judici i distingir entre un «no vull» i un «encara no puc». A més, ofereix un lloc a l'altre costat: viure a prop d'algú que amenaça amb marxar també desgasta. L'objectiu no és que ningú signi res. És que la decisió, sigui quina sigui, neixi de la llibertat i no del pànic.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la por al compromís",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "La por al compromís és més freqüent en homes?",
+            answer:
+              "La cultura l'ha associat als homes, però apareix en persones de tots els gèneres. Al capdavall, la fugida no és qüestió de valentia; gairebé sempre és qüestió d'història.",
+          },
+          {
+            question: "Se supera trobant la persona adequada?",
+            answer:
+              "No del tot. De fet, amb la persona adequada sol intensificar-se al principi, perquè s'hi té més a perdre. La relació pot ajudar; el treball personal decideix.",
+          },
+          {
+            question: "Quan convé consultar?",
+            answer:
+              "Quan el patró es repeteix i fa mal: bones relacions que s'abandonen, o una solitud que ja no es tria. En aquest punt, un procés individual o de parella ajuda a ordenar la decisió.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Quedar-se també és una decisió",
+      },
+      {
+        type: "paragraph",
+        text: "La por al compromís no es venç amb discursos de valentia. Es desmunta comprenent què va significar, en cada història, quedar-se. La maduresa no consisteix a signar sense por, sinó a triar amb totes les dades. En definitiva, la pregunta no és si ets dels que es queden o dels que fugen. És si et pots permetre, almenys un cop, quedar-te sense deixar de ser tu.",
+      },
+      {
+        type: "paragraph",
+        text: "Si et reconeixes en aquest patró, es pot treballar. A Espai Emocions acompanyem processos individuals i de parella amb adults, a Barcelona i en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses: quedar-se, quan toca, també s'aprèn.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El miedo al compromiso es una de las experiencias más frecuentes en la consulta de pareja. No siempre llega con ese nombre. A veces se disfraza de dudas razonables: si es la persona adecuada, si es el momento, si conviene esperar. Otras veces aparece como un malestar difuso que crece cuando el vínculo se vuelve más estable. La paradoja es conocida: cuanto mejor va la relación, más se activa la alarma.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo propone mirar esa fuga sin burla y con profundidad. Quien teme comprometerse no suele ser más superficial ni menos capaz de querer. De hecho, el problema casi nunca es la falta de amor: es lo que el compromiso empieza a significar. Renuncia, pérdida de autonomía, la posibilidad de elegir mal. Entender ese significado es el punto de partida de cualquier trabajo serio.",
+      },
+      {
+        type: "heading",
+        text: "Qué es (y qué no es) el miedo al compromiso",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo al compromiso no es un diagnóstico ni una rareza del carácter. Normalmente es una experiencia relacional: sensaciones, pensamientos y conductas que aparecen cuando la relación avanza hacia etapas irreversibles. Mudarse juntos, hablar de futuro, conocer a las familias, decidir un proyecto común. Ante cada umbral, la misma pregunta: ¿y si me equivoco?",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene distinguirlo de dos cosas. Por un lado, de la prudencia: dudar antes de una decisión grande es sensatez, no fuga. Por otro, de la inmadurez. Muchas personas de cuarenta años, plenamente adultas en todo lo demás, lo siguen padeciendo. Además, la fuga tiene un patrón reconocible. Relaciones que se rompen justo cuando iban bien, amores sostenidos a distancia, parejas imposibles elegidas de antemano. Ahora bien, la persona no deja de querer; deja de quedarse.",
+      },
+      {
+        type: "heading",
+        text: "De dónde viene la fuga cuando hay amor",
+      },
+      {
+        type: "paragraph",
+        text: "Casi nunca nace de la pareja actual. Normalmente el miedo es más antiguo que la relación. A veces procede de la historia familiar: parejas que se rompieron haciendo daño, un modelo de vínculo donde quedarse significaba perderse. Otras veces viene de una identidad construida sobre la autonomía: alguien que aprendió temprano a contar solo consigo mismo. En ese contexto, el compromiso no suena a hogar; suena a trampa. Conocer esa historia no excusa la fuga; sin embargo, ayuda a trabajarla.",
+      },
+      {
+        type: "paragraph",
+        text: "También pesa el miedo a elegir mal y a no poder volver atrás. El compromiso se vive como una apuesta sin retorno. Si falla, se piensa, habrá tiempo perdido y daño causado. Algunas personas quedan atrapadas entre dos duelos: renunciar a la libertad o renunciar a la relación. Por eso la parálisis no es irracional: es la suma de dos miedos legítimos que piden ser ordenados.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se vive por dentro",
+      },
+      {
+        type: "paragraph",
+        text: "Por dentro, la experiencia es más sufrimiento que frivolidad. Quien la padece quiere quedarse y no puede. Aparece una sensación de encierro —el pecho apretado, la urgencia de salir— seguida de culpa por sentir lo que se siente. Después llega la distancia: más noches fuera, menos planes de futuro, conversaciones que se evitan. Y con ella, una explicación razonable: «es que la relación tiene problemas». Sin embargo, el problema suele ser que el vínculo se acercaba a un borde.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la fuga es instantánea para quien la sufre y gradual a los ojos de la pareja. Uno de los dos nota que el otro ya no está del todo. En este sentido, ya escribimos sobre los vínculos que se repiten y sobre el miedo a ser visto en la intimidad: ambos temas se cruzan con este. De hecho, quien teme comprometerse teme ser conocido del todo y no ser suficiente.",
+      },
+      {
+        type: "heading",
+        text: "El miedo al compromiso en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, el trabajo no consiste en convencer a nadie de quedarse. Consiste en desmontar el significado que el compromiso adquirió en la historia de cada persona. Por eso se exploran tres direcciones. Primero, la historia: qué modelos de pareja se vivieron y qué se aprendió sobre quedarse. Después, las partes que huyen: de qué protegen y qué creen que se perdería. Finalmente, la coherencia entre valores y vida: querer un vínculo estable y no poder sostenerlo señala la puerta de entrada.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando la pareja acude junta, el foco cambia. La terapia permite nombrar la fuga sin juicio y distinguir entre un «no quiero» y un «todavía no puedo». Además, ofrece un lugar al otro lado: vivir cerca de alguien que amenaza con irse también desgasta. El objetivo no es que nadie firme nada. Es que la decisión, sea cual sea, nazca de la libertad y no del pánico.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre el miedo al compromiso",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿El miedo al compromiso es más frecuente en hombres?",
+            answer:
+              "La cultura lo ha asociado a los hombres, pero aparece en personas de todos los géneros. Además, la fuga no es cuestión de valentía; casi siempre es cuestión de historia.",
+          },
+          {
+            question: "¿Se supera encontrando a la persona adecuada?",
+            answer:
+              "No del todo. De hecho, con la persona adecuada suele intensificarse al principio, porque hay más que perder. La relación puede ayudar; el trabajo personal decide.",
+          },
+          {
+            question: "¿Cuándo conviene consultar?",
+            answer:
+              "Cuando el patrón se repite y duele: buenas relaciones que se abandonan, o una soledad que ya no se elige. En ese punto, un proceso individual o de pareja ayuda a ordenar la decisión.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Quedarse también es una decisión",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo al compromiso no se vence con discursos de valentía. Se desmonta comprendiendo qué significó, en cada historia, quedarse. La madurez no consiste en firmar sin miedo, sino en elegir con todos los datos. En definitiva, la pregunta no es si eres de los que se quedan o de los que huyen. Es si te puedes permitir, al menos una vez, quedarte sin dejar de ser tú.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te reconoces en este patrón, se puede trabajar. En Espai Emocions acompañamos procesos individuales y de pareja con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: quedarse, cuando toca, también se aprende.",
+      },
+    ],
+  },
 ];
