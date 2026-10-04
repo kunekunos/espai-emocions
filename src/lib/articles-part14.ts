@@ -410,4 +410,223 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 3. vida-en-pausa-edad-adulta (canvis vitals, 2026-10-04)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "vida-en-pausa-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Vida en pausa: quan tot espera una decisió pendent",
+    titleES: "Vida en pausa: cuando todo espera una decisión",
+    excerptCA:
+      "La vida en pausa apareix quan ajornes decisions importants: què sosté aquesta espera i com la teràpia ajuda a recuperar moviment.",
+    excerptES:
+      "La vida en pausa aparece cuando aplazas decisiones importantes: qué sostiene esa espera y cómo la terapia ayuda a recuperar movimiento.",
+    datePublished: "2026-10-04",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La vida en pausa no sempre es veu des de fora. Pots treballar, cuidar una casa, respondre missatges i quedar amb gent. Tanmateix, per dins hi ha una sensació estranya: tot sembla provisional fins que arribi una decisió que no acaba d'arribar. Canviar de feina, separar-te, quedar-te, marxar de ciutat, parlar amb algú, començar una teràpia. La vida continua, però una part de tu espera permís.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta espera no és mandra ni falta de caràcter. Normalment és una forma de protecció. De fet, quan una decisió toca identitat, vincles i valors, no es resol només amb informació. El problema no és saber què convé sobre el paper. El problema és suportar el que canviarà quan deixis de viure en pausa.",
+      },
+      {
+        type: "heading",
+        text: "La vida en pausa no és quietud real",
+      },
+      {
+        type: "paragraph",
+        text: "Quan dius que estàs parat, sovint no ho estàs. Per dins hi ha molt moviment: imaginar escenaris, anticipar conseqüències, revisar converses, calcular danys. A més, cada dia que passa sembla confirmar que encara no és el moment. Aquesta espera cansa perquè exigeix força sense produir moviment visible.",
+      },
+      {
+        type: "paragraph",
+        text: "La pausa també pot semblar prudència. I a vegades ho és. Hi ha decisions que necessiten temps, especialment quan afecten una parella, una família o un projecte de vida. Ara bé, la prudència escolta i madura. La vida en pausa, en canvi, repeteix. Torna sempre a les mateixes preguntes i cada resposta obre un altre dubte. Per això no descansa: manté la porta oberta, però no et deixa travessar-la.",
+      },
+      {
+        type: "heading",
+        text: "Què sosté la vida en pausa",
+      },
+      {
+        type: "paragraph",
+        text: "Sovint la sosté la por de fer mal. Prendre una decisió important pot afectar persones estimades, i aquesta consciència parla bé de tu. Tanmateix, quan la responsabilitat es converteix en paràlisi, ja no cuida ningú del tot. La decisió no presa també té efectes: distància, irritabilitat, absència, una vida compartida que perd veritat.",
+      },
+      {
+        type: "paragraph",
+        text: "També la sosté la por d'equivocar-te. En la vida adulta, moltes decisions semblen irreversibles perquè ja hi ha història, diners, vincles i expectatives. A més, pot aparèixer una fantasia molt exigent: esperar fins a tenir una certesa neta. Però les decisions madures gairebé mai no arriben amb certesa absoluta. Arriben quan pots assumir la part de risc que et correspon.",
+      },
+      {
+        type: "paragraph",
+        text: "Finalment, hi ha una raó més profunda: quedar-te en pausa evita trobar-te amb qui series després. Si deixes una feina, ja no ets només la persona competent que aguanta. Si parles amb tu parella, potser la relació deixa de protegir-se en el silenci. Si demanes ajuda, la imatge d'autonomia total es mou. En aquest sentit, la pausa protegeix una identitat antiga.",
+      },
+      {
+        type: "heading",
+        text: "El cost íntim de seguir esperant",
+      },
+      {
+        type: "paragraph",
+        text: "El cost de la vida en pausa no sempre és dramàtic. De vegades és més subtil: una alegria que no acaba d'entrar, una presència a mitges, la sensació d'estar mirant la pròpia vida des del passadís. Com que res no esclata, sembla que encara es pot sostenir. Però el cos acostuma a parlar abans: insomni, tensió, rumiació, irritabilitat o cansament sense una causa clara.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la pausa empobreix els vincles. Qui espera massa temps sol estar menys disponible. Escolta, però amb una part del cap en un altre lloc. Estima, però sense comprometre del tot la seva presència. En aquest sentit, no decidir també comunica. De vegades diu a l'altre: «encara no sé si hi soc». I aquesta frase, encara que no es pronunciï, pesa.",
+      },
+      {
+        type: "heading",
+        text: "Treballar la vida en pausa a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A teràpia no es tracta d'empènyer-te a decidir ràpid. De fet, decidir sota pressió pot ser una altra manera de fugir. El procés comença per entendre què està aturat exactament. No és el mateix no saber què vols que saber-ho i no atrevir-te. Tampoc és el mateix necessitar temps que haver convertit el temps en una defensa.",
+      },
+      {
+        type: "paragraph",
+        text: "Després s'exploren les parts implicades. Una part vol moviment; una altra tem perdre estabilitat; una altra intenta no fer mal; una altra vol seguir sent la persona que sempre ha pogut amb tot. Quan aquestes parts es poden escoltar sense que cap domini l'escena, apareix una decisió més habitable. No perfecta, però més pròpia.",
+      },
+      {
+        type: "paragraph",
+        text: "També es treballa la relació entre decisió i coherència. A vegades moure's no vol dir trencar res, sinó començar una conversa. Altres vegades implica assumir una pèrdua. En qualsevol cas, la maduresa no consisteix a evitar conseqüències, sinó a viure d'acord amb valors prou clars per sostenir-les.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la vida en pausa",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Com sé si necessito temps o estic evitant?",
+            answer:
+              "El temps ajuda quan aporta més claredat o més calma. En canvi, és evitació quan només repeteix el mateix circuit i cada setmana et deixa més lluny de tu.",
+          },
+          {
+            question: "La teràpia em dirà què he de fer?",
+            answer:
+              "No. Un procés terapèutic no decideix per tu. Ara bé, pot ajudar-te a distingir por, desig, responsabilitat i lleialtat, perquè la decisió sigui més teva.",
+          },
+          {
+            question: "I si decideixo i després m'equivoco?",
+            answer:
+              "Aquesta possibilitat existeix. Tanmateix, seguir en pausa també és una elecció amb conseqüències. La teràpia ajuda a assumir el risc sense exigir certeses impossibles.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Tornar a posar la vida en moviment",
+      },
+      {
+        type: "paragraph",
+        text: "La vida en pausa sol començar com una protecció i acabar com una habitació massa petita. Al principi evita el vertigen; després evita també la vitalitat. Sortir-ne no sempre significa prendre una gran decisió demà. A vegades el primer moviment és més humil: dir en veu alta què fa temps que saps, reconèixer el preu de l'espera o deixar que algú t'acompanyi a ordenar la pregunta.",
+      },
+      {
+        type: "paragraph",
+        text: "Si et reconeixes en aquesta espera, es pot treballar. A Espai Emocions acompanyem processos individuals amb adults, a Barcelona i online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses, però també sense quedar-te indefinidament al llindar: la teva vida no necessita ser perfecta per començar a moure's.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La vida en pausa no siempre se ve desde fuera. Puedes trabajar, cuidar una casa, responder mensajes y quedar con gente. Sin embargo, por dentro hay una sensación extraña: todo parece provisional hasta que llegue una decisión que no termina de llegar. Cambiar de trabajo, separarte, quedarte, irte de ciudad, hablar con alguien, empezar una terapia. La vida continúa, pero una parte de ti espera permiso.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta espera no es pereza ni falta de carácter. Normalmente es una forma de protección. De hecho, cuando una decisión toca identidad, vínculos y valores, no se resuelve solo con información. El problema no es saber qué conviene sobre el papel. El problema es soportar lo que cambiará cuando dejes de vivir en pausa.",
+      },
+      {
+        type: "heading",
+        text: "La vida en pausa no es quietud real",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando dices que estás parado, a menudo no lo estás. Por dentro hay mucho movimiento: imaginar escenarios, anticipar consecuencias, revisar conversaciones, calcular daños. Además, cada día que pasa parece confirmar que todavía no es el momento. Esa espera cansa porque exige fuerza sin producir movimiento visible.",
+      },
+      {
+        type: "paragraph",
+        text: "La pausa también puede parecer prudencia. Y a veces lo es. Hay decisiones que necesitan tiempo, especialmente cuando afectan a una pareja, una familia o un proyecto de vida. Ahora bien, la prudencia escucha y madura. La vida en pausa, en cambio, repite. Vuelve siempre a las mismas preguntas y cada respuesta abre otra duda. Por eso no descansa: mantiene la puerta abierta, pero no te deja atravesarla.",
+      },
+      {
+        type: "heading",
+        text: "Qué sostiene la vida en pausa",
+      },
+      {
+        type: "paragraph",
+        text: "A menudo la sostiene el miedo a hacer daño. Tomar una decisión importante puede afectar a personas queridas, y esa conciencia habla bien de ti. Sin embargo, cuando la responsabilidad se convierte en parálisis, ya no cuida del todo a nadie. La decisión no tomada también tiene efectos: distancia, irritabilidad, ausencia, una vida compartida que pierde verdad.",
+      },
+      {
+        type: "paragraph",
+        text: "También la sostiene el miedo a equivocarte. En la vida adulta, muchas decisiones parecen irreversibles porque ya hay historia, dinero, vínculos y expectativas. Además, puede aparecer una fantasía muy exigente: esperar hasta tener una certeza limpia. Pero las decisiones maduras casi nunca llegan con certeza absoluta. Llegan cuando puedes asumir la parte de riesgo que te corresponde.",
+      },
+      {
+        type: "paragraph",
+        text: "Finalmente, hay una razón más profunda: quedarte en pausa evita encontrarte con quien serías después. Si dejas un trabajo, ya no eres solo la persona competente que aguanta. Si hablas con tu pareja, quizá la relación deja de protegerse en el silencio. Si pides ayuda, la imagen de autonomía total se mueve. En este sentido, la pausa protege una identidad antigua.",
+      },
+      {
+        type: "heading",
+        text: "El coste íntimo de seguir esperando",
+      },
+      {
+        type: "paragraph",
+        text: "El coste de la vida en pausa no siempre es dramático. A veces es más sutil: una alegría que no termina de entrar, una presencia a medias, la sensación de estar mirando la propia vida desde el pasillo. Como nada estalla, parece que todavía se puede sostener. Pero el cuerpo suele hablar antes: insomnio, tensión, rumiación, irritabilidad o cansancio sin una causa clara.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la pausa empobrece los vínculos. Quien espera demasiado tiempo suele estar menos disponible. Escucha, pero con una parte de la cabeza en otro lugar. Quiere, pero sin comprometer del todo su presencia. En este sentido, no decidir también comunica. A veces le dice al otro: «todavía no sé si estoy». Y esa frase, aunque no se pronuncie, pesa.",
+      },
+      {
+        type: "heading",
+        text: "Trabajar la vida en pausa en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia no se trata de empujarte a decidir rápido. De hecho, decidir bajo presión puede ser otra manera de huir. El proceso empieza por entender qué está detenido exactamente. No es lo mismo no saber qué quieres que saberlo y no atreverte. Tampoco es lo mismo necesitar tiempo que haber convertido el tiempo en una defensa.",
+      },
+      {
+        type: "paragraph",
+        text: "Después se exploran las partes implicadas. Una parte quiere movimiento; otra teme perder estabilidad; otra intenta no hacer daño; otra quiere seguir siendo la persona que siempre ha podido con todo. Cuando esas partes pueden escucharse sin que ninguna domine la escena, aparece una decisión más habitable. No perfecta, pero más propia.",
+      },
+      {
+        type: "paragraph",
+        text: "También se trabaja la relación entre decisión y coherencia. A veces moverse no significa romper nada, sino iniciar una conversación. Otras veces implica asumir una pérdida. En cualquier caso, la madurez no consiste en evitar consecuencias, sino en vivir de acuerdo con valores lo bastante claros como para sostenerlas.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la vida en pausa",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cómo sé si necesito tiempo o estoy evitando?",
+            answer:
+              "El tiempo ayuda cuando aporta más claridad o más calma. En cambio, es evitación cuando solo repite el mismo circuito y cada semana te deja más lejos de ti.",
+          },
+          {
+            question: "¿La terapia me dirá qué tengo que hacer?",
+            answer:
+              "No. Un proceso terapéutico no decide por ti. Ahora bien, puede ayudarte a distinguir miedo, deseo, responsabilidad y lealtad, para que la decisión sea más tuya.",
+          },
+          {
+            question: "¿Y si decido y después me equivoco?",
+            answer:
+              "Esa posibilidad existe. Sin embargo, seguir en pausa también es una elección con consecuencias. La terapia ayuda a asumir el riesgo sin exigir certezas imposibles.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Volver a poner la vida en movimiento",
+      },
+      {
+        type: "paragraph",
+        text: "La vida en pausa suele empezar como una protección y terminar como una habitación demasiado pequeña. Al principio evita el vértigo; después evita también la vitalidad. Salir de ahí no siempre significa tomar una gran decisión mañana. A veces el primer movimiento es más humilde: decir en voz alta lo que llevas tiempo sabiendo, reconocer el precio de la espera o dejar que alguien te acompañe a ordenar la pregunta.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te reconoces en esta espera, se puede trabajar. En Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa, pero también sin quedarte indefinidamente en el umbral: tu vida no necesita ser perfecta para empezar a moverse.",
+      },
+    ],
+  },
 ];

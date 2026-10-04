@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "vida-en-pausa-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Vida en pausa: quan tot espera una decisió pendent",
+    "titleES": "Vida en pausa: cuando todo espera una decisión",
+    "excerptCA": "La vida en pausa apareix quan ajornes decisions importants: què sosté aquesta espera i com la teràpia ajuda a recuperar moviment.",
+    "excerptES": "La vida en pausa aparece cuando aplazas decisiones importantes: qué sostiene esa espera y cómo la terapia ayuda a recuperar movimiento.",
+    "datePublished": "2026-10-04"
+  },
+  {
     "slug": "miedo-al-compromiso-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
