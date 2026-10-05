@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "pareja-a-distancia-edad-adulta",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Relació a distància: quan l'amor no comparteix mapa",
+    "titleES": "Relación a distancia: cuando el amor no comparte mapa",
+    "excerptCA": "Una relació a distància en l'edat adulta posa a prova el vincle: què l'aguanta, què la desgasta i com es treballa a teràpia de parella.",
+    "excerptES": "Una relación a distancia en la edad adulta pone a prueba el vínculo: qué lo sostiene, qué lo desgasta y cómo se trabaja en terapia de pareja.",
+    "datePublished": "2026-10-05"
+  },
+  {
     "slug": "vida-en-pausa-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",

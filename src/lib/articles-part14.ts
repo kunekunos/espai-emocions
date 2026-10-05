@@ -629,4 +629,263 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. pareja-a-distancia-edad-adulta (pareja, 2026-10-05)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "pareja-a-distancia-edad-adulta",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "Relació a distància: quan l'amor no comparteix mapa",
+    titleES: "Relación a distancia: cuando el amor no comparte mapa",
+    excerptCA:
+      "Una relació a distància en l'edat adulta posa a prova el vincle: què l'aguanta, què la desgasta i com es treballa a teràpia de parella.",
+    excerptES:
+      "Una relación a distancia en la edad adulta pone a prueba el vínculo: qué lo sostiene, qué lo desgasta y cómo se trabaja en terapia de pareja.",
+    datePublished: "2026-10-05",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Una relació a distància en l'edat adulta gairebé mai no comença com una aventura. Normalment comença amb dues vides ja construïdes: una feina en una altra ciutat, fills d'una relació anterior, un projecte que no es pot moure. I també amb una pregunta honesta: volem que això segueixi existint d'aquí a un any?",
+      },
+      {
+        type: "paragraph",
+        text: "El que segueix no és un manual d'optimisme. És una mirada al que la distància canvia de debò en un vincle adult. També al desgast que gairebé ningú apren a anomenar. I al lloc que té la teràpia de parella quan els quilòmetres pesen més que les ganes.",
+      },
+      {
+        type: "heading",
+        text: "El que la distància canvia de debò",
+      },
+      {
+        type: "paragraph",
+        text: "Contra el romanticisme digital, la distància no conserva la relació: la transforma. El contacte diari es converteix en cita, i la cita es converteix en agenda. A més, la parella perd allò que a la convivència sosté el vincle sense planificar-ho: el gest petit, la xerrada de no-res, el cos que descansa a prop.",
+      },
+      {
+        type: "paragraph",
+        text: "La distància també redistribueix la imaginació. Quan no veus l'altra persona, la construeixes per dins. A vegades aquesta construcció acosta; moltes vegades alimenta rumiacions, gelosia o una desconfiança que abans no existia. Per això no n'hi ha prou amb més trucades: cal una relació més explícita, amb menys ambigüitat que la convivència.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha un canvi silenciós que gairebé ningú anticipa: en l'edat adulta, la distància obliga a decidir. Sense convivència, el vincle no avança per inèrcia. De fet, cada setmana la parella tria: mantenir, aparcar o tancar. Aquesta llibertat és també una exigència.",
+      },
+      {
+        type: "heading",
+        text: "La relació a distància no és una versió menor de l'amor",
+      },
+      {
+        type: "paragraph",
+        text: "Cal dir-ho amb claredat: una relació a distància no és un amor de segona. De fet, algunes parelles a distància es coneixen millor que moltes que comparteixen sostre, perquè no tenen més remei que parlar. La conversa es converteix en la casa comuna: allí es viu, es discuteix i s'acompanya.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, la distància no perdona allò que la convivència dissimula. Les decisions postergades, el desig que no s'anomena, l'asimetria de qui es mou més: tot això s'acumula sense l'abraçada que repararia. En aquest sentit, el problema rarament és la distància; és allò que la distància deixa de tapar.",
+      },
+      {
+        type: "heading",
+        text: "El desgast que gairebé ningú apren a anomenar",
+      },
+      {
+        type: "paragraph",
+        text: "El desgast típic no és dramàtic. És més aviat una erosió: videotrucades que s'escurcen, converses que reparteixen informació sense intimitat, agendes que només encaixen de nit i amb cansament. Després arriba la culpa per no tenir ganes i la comparació amb parelles que es veuen cada dia.",
+      },
+      {
+        type: "paragraph",
+        text: "També apareix una asimetria molt adulta: gairebé sempre hi ha una vida més arrelada i una altra més disponible per moure's. Si aquesta diferència no es parla, es converteix en deute silenciós. Qui es muda sent que ho lliura tot; qui es queda, que decideix pels dos. En canvi, quan la parella anomena aquesta asimetria, deixa de ser una sentència i comença a ser una negociació.",
+      },
+      {
+        type: "heading",
+        text: "Treballar la relació a distància a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia de parella no la necessita una relació a distància per estar trencada; la necessita per estar decidint. Un espai sistemàtic permet distingir tres plànols que a la videotrucada es barregen: l'amor, el projecte comú i la logística. A més, permet fer la pregunta que dorm sota moltes discussions: cap on anem i qui mourà la seva vida?",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta es treballa, per exemple, el ritme real de cadascú i les lleialtats que compliquen un trasllat. També els acords amb data: quan, on i amb quines condicions es tornarà a compartir mapa. I la part menys visible: quines parts de cadascú s'activen amb la distància, les que temen perdre's o les que descansen lluny. L'objectiu no és salvar la relació a tota costa. És que la decisió —quedar-se, acostar-se o acomiadar-se— sigui coherent i no només cansada.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la relació a distància",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Les relacions a distància funcionen en l'edat adulta?",
+            answer:
+              "Algunes sí, i molt bé. Ara bé, no funcionen soles: demanen més conversa explícita i decisions amb calendari.",
+          },
+          {
+            question: "És normal perdre les ganes de la videotrucada?",
+            answer:
+              "Sí. De fet, el cansament sol ser de la pantalla, no del vincle. Cal substituir part d'aquest temps per trucades de veu, cartes o plans compartits.",
+          },
+          {
+            question: "Quant pot durar sense un pla?",
+            answer:
+              "Poc. La distància s'aguanta millor quan existeix una direcció: una data, un lloc, un acord. De fet, sense horitzó el vincle gasta més del que nodreix.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: abans de decidir",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quan convé la teràpia de parella?",
+            answer:
+              "Quan la conversa gira en cercles, quan una decisió gran està encallada o quan el desgast ja sona a retret. També, en general, abans d'un trasllat.",
+          },
+          {
+            question: "Es pot fer teràpia de parella a distància?",
+            answer:
+              "Sí. De fet, moltes parelles la fan així, en línia i des de ciutats diferents. El vincle terapèutic no necessita el mateix despatx.",
+          },
+          {
+            question: "I si al final decidim separar-nos?",
+            answer:
+              "Llavors la teràpia també compleix la seva funció: permet un tancament honest, sense deixar la relació en un limbo de missatges espaiats.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un mapa compartit es construeix",
+      },
+      {
+        type: "paragraph",
+        text: "Cap relació a distància no s'aguanta per nostàlgia. S'aguanta per projecte: dues persones que saben cap on van i què estan disposades a moure. Al capdavall, la distància no decideix res per si sola; només posa la decisió al centre, on ja era.",
+      },
+      {
+        type: "paragraph",
+        text: "Si la teva relació a distància ha entrat en desgast o en cruïlla, es pot treballar. A Espai Emocions acompanyem teràpies de parella a Barcelona i en línia, també amb els dos membres en ciutats diferents. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense pressa, però amb direcció: perquè l'amor, a més d'estimar-se, necessita saber cap on.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Una relación a distancia en la edad adulta casi nunca empieza como una aventura. Normalmente empieza con dos vidas ya construidas: un trabajo en otra ciudad, unos hijos de una relación anterior, un proyecto que no se puede mover. Y también con una pregunta honesta: ¿queremos que esto siga existiendo dentro de un año?",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que sigue no es un manual de optimismo. Es una mirada a lo que la distancia cambia de verdad en un vínculo adulto. También al desgaste que casi nadie enseña a nombrar. Y al lugar que tiene la terapia de pareja cuando los kilómetros pesan más que las ganas.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la distancia cambia de verdad",
+      },
+      {
+        type: "paragraph",
+        text: "Contra el romanticismo digital, la distancia no conserva la relación: la transforma. El contacto diario se vuelve cita, y la cita se vuelve agenda. Además, la pareja pierde lo que en la convivencia sostiene el vínculo sin planificarlo: el gesto pequeño, la charla de nada, el cuerpo que descansa cerca.",
+      },
+      {
+        type: "paragraph",
+        text: "La distancia también redistribuye la imaginación. Cuando no ves a la otra persona, la construyes por dentro. A veces esa construcción acerca; muchas veces alimenta rumiaciones, celos o una desconfianza que antes no existía. Por eso no basta con más llamadas: lo que hace falta es una relación más explícita, con menos ambigüedad que la convivencia.",
+      },
+      {
+        type: "paragraph",
+        text: "Y hay un cambio silencioso que casi nadie anticipa: en la edad adulta, la distancia obliga a decidir. Sin convivencia, el vínculo no avanza por inercia. De hecho, cada semana la pareja elige: mantener, aparcar o cerrar. Esta libertad es también una exigencia.",
+      },
+      {
+        type: "heading",
+        text: "La relación a distancia no es una versión menor del amor",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene decirlo con claridad: una relación a distancia no es un amor de segunda. De hecho, algunas parejas a distancia se conocen mejor que muchas que comparten techo, porque no tienen más remedio que hablar. La conversación se vuelve la casa común: allí se vive, se discute y se acompaña.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, la distancia no perdona lo que la convivencia disimula. Las decisiones postergadas, el deseo que no se nombra, la asimetría de quién se mueve más: todo eso se acumula sin el abrazo que repararía. En este sentido, el problema rara vez es la distancia; es lo que la distancia deja de tapar.",
+      },
+      {
+        type: "heading",
+        text: "El desgaste que casi nadie enseña a nombrar",
+      },
+      {
+        type: "paragraph",
+        text: "El desgaste típico no es dramático. Es más bien una erosión: videollamadas que se acortan, conversaciones que reparten información sin intimidad, agendas que solo encajan de noche y con cansancio. Después llega la culpa por no tener ganas y la comparación con parejas que se ven cada día.",
+      },
+      {
+        type: "paragraph",
+        text: "También aparece una asimetría muy adulta: casi siempre hay una vida más enraizada y otra más disponible para moverse. Si esa diferencia no se habla, se convierte en deuda silenciosa. Quien se muda siente que lo entrega todo; quien se queda, que decide por los dos. En cambio, cuando la pareja nombra esa asimetría, deja de ser una sentencia y empieza a ser una negociación.",
+      },
+      {
+        type: "heading",
+        text: "Trabajar la relación a distancia en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia de pareja no la necesita una relación a distancia por estar rota; la necesita por estar decidiendo. Un espacio sistemático permite distinguir tres planos que en la videollamada se mezclan: el amor, el proyecto común y la logística. Además, permite hacer la pregunta que duerme bajo muchas discusiones: ¿hacia dónde vamos y quién va a mover su vida?",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta se trabaja, por ejemplo, el ritmo real de cada uno y las lealtades que complican una mudanza. También los acuerdos con fecha: cuándo, dónde y con qué condiciones se volverá a compartir mapa. Y la parte menos visible: qué partes de cada uno se activan con la distancia, las que temen perderse o las que descansan lejos. El objetivo no es salvar la relación a toda costa. Es que la decisión —quedarse, acercarse o despedirse— sea coherente y no solo cansada.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la relación a distancia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Las relaciones a distancia funcionan en la edad adulta?",
+            answer:
+              "Algunas sí, y muy bien. Ahora bien, no funcionan solas: requieren más conversación explícita y decisiones con calendario.",
+          },
+          {
+            question: "¿Es normal perder las ganas de la videollamada?",
+            answer:
+              "Sí. De hecho, el cansancio suele ser de la pantalla, no del vínculo. Conviene sustituir parte de ese tiempo por llamadas de voz, cartas o planes compartidos.",
+          },
+          {
+            question: "¿Cuánto puede durar sin un plan?",
+            answer:
+              "Poco. La distancia sostiene mejor cuando existe una dirección: una fecha, un lugar, un acuerdo. De hecho, sin horizonte el vínculo gasta más de lo que nutre.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: antes de decidir",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuándo conviene la terapia de pareja?",
+            answer:
+              "Cuando la conversación gira en círculos, cuando una decisión grande está atascada o cuando el desgaste ya suena a reproche. También, en general, antes de una mudanza.",
+          },
+          {
+            question: "¿Se puede hacer terapia de pareja a distancia?",
+            answer:
+              "Sí. De hecho, muchas parejas la hacen así, en línea y desde ciudades distintas. El vínculo terapéutico no necesita el mismo despacho.",
+          },
+          {
+            question: "¿Y si al final decidimos separarnos?",
+            answer:
+              "Entonces la terapia también cumple su función: permite un cierre honesto, sin dejar la relación en un limbo de mensajes espaciados.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un mapa compartido se construye",
+      },
+      {
+        type: "paragraph",
+        text: "Ninguna relación a distancia se sostiene por nostalgia. Se sostiene por proyecto: dos personas que saben hacia dónde van y qué están dispuestas a mover. Al final, la distancia no decide nada por sí misma; solo pone la decisión en el centro, donde ya estaba.",
+      },
+      {
+        type: "paragraph",
+        text: "Si tu relación a distancia ha entrado en desgaste o en encrucijada, se puede trabajar. En Espai Emocions acompañamos terapias de pareja en Barcelona y en línea, también con los dos miembros en ciudades distintas. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa, pero con dirección: porque el amor, además de quererse, necesita saber hacia dónde.",
+      },
+    ],
+  },
 ];
