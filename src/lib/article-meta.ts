@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "perder-el-trabajo-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Perdre la feina: quan perds molt més que un lloc",
+    "titleES": "Perder el trabajo: cuando se tambalea quién eres",
+    "excerptCA": "Perdre la feina en l'edat adulta sacseja molt més que l'economia: identitat, autonomia i vincles. Què mou aquesta crisi i com es treballa.",
+    "excerptES": "Perder el trabajo en la edad adulta sacude mucho más que la economía: identidad, autonomía y vínculos. Qué mueve esta crisis y cómo se transita.",
+    "datePublished": "2026-10-06"
+  },
+  {
     "slug": "pareja-a-distancia-edad-adulta",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

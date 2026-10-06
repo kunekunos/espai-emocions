@@ -888,4 +888,247 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 5. perder-el-trabajo-edad-adulta (cambios vitales, 2026-10-06)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "perder-el-trabajo-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Perdre la feina: quan perds molt més que un lloc",
+    titleES: "Perder el trabajo: cuando se tambalea quién eres",
+    excerptCA:
+      "Perdre la feina en l'edat adulta sacseja molt més que l'economia: identitat, autonomia i vincles. Què mou aquesta crisi i com es treballa.",
+    excerptES:
+      "Perder el trabajo en la edad adulta sacude mucho más que la economía: identidad, autonomía y vínculos. Qué mueve esta crisis y cómo se transita.",
+    datePublished: "2026-10-06",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Perdre la feina en l'edat adulta gairebé mai no s'explica en veu alta. S'explica amb eufemismes —«estic en un moment de transició»— i es digereix en silenci. Tanmateix, el cop va molt més enllà de l'ensurt econòmic: toca la identitat, l'autonomia i el lloc que un creu ocupar al món.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article no ve a donar ànims ràpids. Més aviat, proposa entendre què es mou per dins quan desapareix el que ordenava la setmana. Perquè perdre la feina també és perdre una resposta: la que donaves quan algú et preguntava a què et dedicaves. Al capdavall, la pregunta que queda és més fonda. Qui ets quan ningú no pregunta per tu?",
+      },
+      {
+        type: "heading",
+        text: "El que sosté la feina, més enllà del sou",
+      },
+      {
+        type: "paragraph",
+        text: "La feina no només paga factures. De fet, també ordena el temps, sosté trobades i ofereix una mirada externa que confirma que un existeix i rinde. Normalment no es valora aquesta funció fins que falta. A més, per a moltes persones la professió condensa tota la història: els estudis, els esforços, els llocs viscuts.",
+      },
+      {
+        type: "paragraph",
+        text: "Per exemple, pensa en la pregunta més comuna de qualsevol presentació: a què et dediques? Respondre era fàcil. En canvi, ara la mateixa pregunta obliga a sostenir una veritat incòmoda. Per això moltes persones eviten les trobades socials justament quan més necessiten vincle.",
+      },
+      {
+        type: "paragraph",
+        text: "D'una banda hi ha la pèrdua material: ingressos, seguretat, previsió. De l'altra, la pèrdua simbòlica: estatus, pertinença, propòsit. Totes dues dolen. Ara bé, la segona sol trigar més a rebre cura.",
+      },
+      {
+        type: "heading",
+        text: "Les fases d'una crisi que no és només econòmica",
+      },
+      {
+        type: "paragraph",
+        text: "El primer impacte sol ser atordiment. El cap repassa contractes, xifres i estalvis; el cos, en canvi, va més a poc a poc. Després arriba una fase d'activisme: currículums, cursos, contactes, entrevistes. Moltes vegades aquest impuls és útil. A vegades, però, només tapa la por amb moviment.",
+      },
+      {
+        type: "paragraph",
+        text: "Més tard apareix el desànim. Les respostes no arriben, el mercat silencia i l'ànim baixa de to. Després —o al mateix temps— arriba la reorganització: la persona es pregunta què volia de debò, més enllà del sou i del títol. En definitiva, la crisi es converteix en conversa amb la pròpia història.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta seqüència no és universal ni lineal. Ara bé, convé saber que el desànim no vol dir fracàs: forma part del dol. Perquè perdre la feina també és un dol, encara que pocs l'anomenen així.",
+      },
+      {
+        type: "heading",
+        text: "El temps sense estructura",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un efecte que sorprèn tothom: els dies s'allarguen. Sense horaris ni reunions, el temps es torna viscós. A més, moltes persones descobreixen que la feina sostenia una part de l'organització mental: prioritats, ritmes, descansos. Quan desapareix, tot demana una decisió constant: què faig ara?",
+      },
+      {
+        type: "paragraph",
+        text: "Normalment, la resposta és culpa. La persona s'exigeix productivitat cada dia i cada nit es ret compta. En canvi, el cos demana un altre ritme: pair, descansar, reordenar. Per això convé construir una estructura petita i honesta, no un règim d'autocàstig. Al capdavall, l'atur no és una feina a temps complet.",
+      },
+      {
+        type: "heading",
+        text: "La vergonya de perdre la feina en la maduresa",
+      },
+      {
+        type: "paragraph",
+        text: "La vergonya és l'emoció més silenciosa d'aquesta crisi. La nostra cultura segueix mesurant el valor de les persones per la seva feina; per això perdre-la es viu com un veredicte. Moltes persones, llavors, s'amaguen: deixen de quedar amb amics i esmolen la frase pública «quelcom està sortint». Per dins, en canvi, en circula una altra: «alguna cosa he fet malament».",
+      },
+      {
+        type: "paragraph",
+        text: "El context, a més, pesa: perfils joves, hipoteques actives, fills a càrrec. A vegades s'hi afegeix una frase cruel: ho vaig fer tot bé i no va bastar. En la parella l'impacte també és real: rols que es gronxen i por de convertir-se en una càrrega. Per això convé posar-ho en paraules aviat; ja vam escriure sobre parlar de diners, i l'atur hi afegeix capes.",
+      },
+      {
+        type: "heading",
+        text: "Quin procés s'obre quan la feina es tanca",
+      },
+      {
+        type: "paragraph",
+        text: "En teràpia, perdre la feina no s'aborda només com un problema pràctic. De fet, és una ocasió seriosa —mai alegre— per revisar tres capes: la història (què significava la feina a la família), els valors (si la vida professional responia a desitjos propis o a guions heretats) i la identitat (distingir qui ets del càrrec que ocupaves).",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest procés no substitueix la cerca de feina; ara bé, l'ordena. Després, moltes persones busquen d'una altra manera: amb menys urgència per demostrar i més claredat sobre el que volen. Al final, la coherència també és un actiu professional. A més, acompanyar el dol i recuperar l'autonomia és feina de debò, encara que no deixi rastre a LinkedIn.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: perdre la feina",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Necessito psicologia o només trobar feina?",
+            answer:
+              "Si el malestar es limita a la part pràctica, potser n'hi ha prou amb orientació professional. Ara bé, quan afecta l'ànim, la son o els vincles, un procés terapèutic ajuda a travessar-ho amb més recursos.",
+          },
+          {
+            question: "Quant dura aquesta crisi?",
+            answer:
+              "No hi ha un termini universal. Depèn del vincle amb la feina, del context familiar i del suport disponible. En qualsevol cas, la intensitat sol cedir quan la persona recupera capacitat de decisió.",
+          },
+          {
+            question: "I si no trobo res igual a l'anterior?",
+            answer:
+              "A vegades la sortida és un relleu, no una tornada. Per això convé explorar quines parts de l'ofici vols conservar i quines han caducat.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un lloc des del qual reconstruir",
+      },
+      {
+        type: "paragraph",
+        text: "Perdre la feina dol perquè es perden, de cop, estructura, reconeixement i un futur previst. Tanmateix, també deixa oberta una pregunta valuosa: què faries si el teu valor no depengués del càrrec? Ningú no hauria de respondre-la tot sol ni amb presses. Al capdavall, la maduresa no consisteix a no trontollar; consisteix a saber qui ets mentre ho fas.",
+      },
+      {
+        type: "paragraph",
+        text: "Si et reconeixes en aquest moment, es pot treballar. A Espai Emocions acompanyem processos individuals amb adults, a Barcelona i en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses, però sense quedar-te sol amb la part que fa mal.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Perder el trabajo en la edad adulta casi nunca se cuenta en voz alta. Se explica con eufemismos —«estoy en un momento de transición»— y se digiere en silencio. Sin embargo, el golpe excede con mucho el susto económico: toca la identidad, la autonomía y el lugar que uno cree ocupar en el mundo.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo no viene a dar ánimos rápidos. Más bien, propone entender qué se mueve por dentro cuando desaparece lo que ordenaba la semana. Porque perder el trabajo también es perder una respuesta: la que dabas cuando alguien preguntaba a qué te dedicabas. Al final, la pregunta que queda es más honda. ¿Quién eres cuando nadie pregunta por ti?",
+      },
+      {
+        type: "heading",
+        text: "Lo que el trabajo sostiene, más allá del sueldo",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo no solo paga facturas. De hecho, también ordena el tiempo, sostiene encuentros y ofrece una mirada externa que confirma que uno existe y rinde. Normalmente no se valora esa función hasta que falta. Además, para muchas personas la profesión condensa la historia entera: los estudios, los esfuerzos, los lugares vividos.",
+      },
+      {
+        type: "paragraph",
+        text: "Por ejemplo, piensa en la pregunta más común de cualquier presentación: ¿a qué te dedicas? Responder era fácil. En cambio, ahora la misma pregunta obliga a sostener una verdad incómoda. Por eso muchas personas evitan los encuentros sociales justo cuando más necesitan vínculo.",
+      },
+      {
+        type: "paragraph",
+        text: "Por un lado está la pérdida material: ingresos, seguridad, previsión. Por otro, la pérdida simbólica: estatus, pertenencia, propósito. Ambas duelen. Ahora bien, la segunda suele tardar más en recibir cuidado.",
+      },
+      {
+        type: "heading",
+        text: "Las fases de una crisis que no es solo económica",
+      },
+      {
+        type: "paragraph",
+        text: "El primer impacto suele ser aturdimiento. La cabeza repasa contratos, cifras y ahorros; el cuerpo, en cambio, va más despacio. Después llega una fase de activismo: currículums, cursos, contactos, entrevistas. Muchas veces ese empuje es útil. A veces, sin embargo, solo tapa el miedo con movimiento.",
+      },
+      {
+        type: "paragraph",
+        text: "Luego aparece el desánimo. Las respuestas no llegan, el mercado silencia y el ánimo baja de tono. Después —o al mismo tiempo— llega la reorganización: la persona se pregunta qué quería de verdad, más allá del sueldo y del título. En definitiva, la crisis se convierte en conversación con la propia historia.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta secuencia no es universal ni lineal. Ahora bien, conviene saber que el desánimo no significa fracaso: forma parte del duelo. Porque perder el trabajo también es un duelo, aunque pocos lo nombren así.",
+      },
+      {
+        type: "heading",
+        text: "El tiempo sin estructura",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un efecto que sorprende a todos: los días se alargan. Sin horarios ni reuniones, el tiempo se vuelve viscoso. Además, muchas personas descubren que el trabajo sostenía parte de la organización mental: prioridades, ritmos, descansos. Cuando desaparece, todo exige una decisión constante: ¿qué hago ahora?",
+      },
+      {
+        type: "paragraph",
+        text: "Normalmente, la respuesta es culpa. La persona se exige productividad cada día y cada noche se hace cuentas. En cambio, el cuerpo pide otro ritmo: digerir, descansar, reordenar. Por eso conviene construir una estructura pequeña y honesta, no un régimen de autocastigo. Al final, el desempleo no es un empleo a tiempo completo.",
+      },
+      {
+        type: "heading",
+        text: "La vergüenza de perder el trabajo en la madurez",
+      },
+      {
+        type: "paragraph",
+        text: "La vergüenza es la emoción más silenciosa de esta crisis. Nuestra cultura sigue midiendo el valor de las personas por su trabajo; por eso perderlo se vive como un veredicto. Muchas personas entonces se ocultan: dejan de quedar con amigos y afilan la frase pública «algo está saliendo». Por dentro, en cambio, circula otra: «algo he hecho mal».",
+      },
+      {
+        type: "paragraph",
+        text: "El contexto, además, pesa: perfiles jóvenes, hipotecas activas, hijos a cargo. A veces se añade una frase cruel: lo hice todo bien y no bastó. En la pareja el impacto también es real: roles que se tambalean y miedo a convertirse en carga. Por eso conviene ponerlo en palabras pronto; ya escribimos sobre hablar de dinero, y el desempleo añade capas.",
+      },
+      {
+        type: "heading",
+        text: "Qué proceso se abre cuando el trabajo se cierra",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, perder el trabajo no se aborda solo como un problema práctico. De hecho, es una ocasión seria —nunca alegre— para revisar tres capas: la historia (qué significaba el trabajo en la familia), los valores (si la vida profesional respondía a deseos propios o a guiones heredados) y la identidad (distinguir quién eres del cargo que ocupabas).",
+      },
+      {
+        type: "paragraph",
+        text: "Este proceso no sustituye la búsqueda de empleo; ahora bien, la ordena. Después de él, muchas personas buscan distinto: con menos urgencia por demostrar y más claridad sobre lo que quieren. Al final, la coherencia también es un activo profesional. Además, acompañar el duelo y recuperar la autonomía es trabajo real, aunque no deje huella en LinkedIn.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: perder el trabajo",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Necesito psicología o solo encontrar trabajo?",
+            answer:
+              "Si el malestar se limita a la parte práctica, quizá baste orientación profesional. Ahora bien, cuando afecta al ánimo, al sueño o a los vínculos, un proceso terapéutico ayuda a atravesarlo con más recursos.",
+          },
+          {
+            question: "¿Cuánto dura esta crisis?",
+            answer:
+              "No hay un plazo universal. Depende del vínculo con el trabajo, del contexto familiar y del apoyo disponible. En cualquier caso, la intensidad suele ceder cuando la persona recupera capacidad de decisión.",
+          },
+          {
+            question: "¿Y si no encuentro nada igual a lo anterior?",
+            answer:
+              "A veces la salida es un relevo, no una vuelta. Por eso conviene explorar qué partes del oficio quieres conservar y cuáles han caducado.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un lugar desde el que reconstruir",
+      },
+      {
+        type: "paragraph",
+        text: "Perder el trabajo duele porque se pierden, de golpe, estructura, reconocimiento y un futuro previsto. Sin embargo, también deja abierta una pregunta valiosa: ¿qué harías si tu valor no dependiera del cargo? Nadie debería responderla solo ni con prisa. Al final, la madurez no consiste en no tambalear; consiste en saber quién eres mientras lo haces.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te reconoces en este momento, se puede trabajar. En Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y en línea. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa, pero sin quedarte solo con la parte que duele.",
+      },
+    ],
+  },
 ];
