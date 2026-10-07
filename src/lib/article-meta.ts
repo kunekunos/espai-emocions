@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "crisis-de-los-40",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Crisi dels 40: quan un aniversari et descoloca la vida",
+    "titleES": "Crisis de los 40: cuando un cumplea\\u00f1os te descoloca la vida",
+    "excerptCA": "La crisi dels 40 no \\u00e9s cap t\\u00f2pic de felicitacions: qu\\u00e8 l'aguanta, per qu\\u00e8 s'activa als aniversaris rodons i com es treballa a ter\\u00e0pia.",
+    "excerptES": "La crisis de los 40 no es un t\\u00f3pico de felicitaciones: qu\\u00e9 la sostiene, por qu\\u00e9 asoma en los cumplea\\u00f1os redondos y c\\u00f3mo se trabaja en terapia.",
+    "datePublished": "2026-10-07"
+  },
+  {
     "slug": "perder-el-trabajo-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",

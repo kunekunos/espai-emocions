@@ -1131,4 +1131,239 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 6. crisis-de-los-40 (identidad, 2026-10-07)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "crisis-de-los-40",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "Crisi dels 40: quan un aniversari et descoloca la vida",
+    titleES: "Crisis de los 40: cuando un cumplea\u00f1os te descoloca la vida",
+    excerptCA: "La crisi dels 40 no \u00e9s cap t\u00f2pic de felicitacions: qu\u00e8 l'aguanta, per qu\u00e8 s'activa als aniversaris rodons i com es treballa a ter\u00e0pia.",
+    excerptES: "La crisis de los 40 no es un t\u00f3pico de felicitaciones: qu\u00e9 la sostiene, por qu\u00e9 asoma en los cumplea\u00f1os redondos y c\u00f3mo se trabaja en terapia.",
+    datePublished: "2026-10-07",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La crisi dels 40 rarament arriba el dia de l'aniversari. Normalment apareix abans o després, amb forma de desassossec. De cop, la vida que has construït es mira des de fora i ja no es reconeix del tot. No hi ha cap crisi externa; tanmateix, alguna cosa s'ha començat a moure.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest article no va de motos noves ni de felicitacions de tòpic. De fet, la crisi dels 40 pot arribar als 35 o als 49. També existeix en persones que mai no van comprar res per tapar-la. El que emergeix a mitjan vida és una pregunta seriosa. La vida que he construït, encara és meva?",
+      },
+      {
+        type: "heading",
+        text: "Què és (i què no és) la crisi dels 40",
+      },
+      {
+        type: "paragraph",
+        text: "El tòpic la presenta com un caprici o una vanitat. Ara bé, a la consulta es veu una altra cosa. És un moment en què l'estructura de la vida deixa de sostenir-se tota sola. La feina, la parella, el pis i els èxits segueixen al seu lloc. En canvi, la pregunta pel sentit, abans ajornable, es fa urgent.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això la crisi dels 40 no és cap patologia. És, més aviat, un punt de revisió. La meitat de la vida funciona com un mirall: s'hi comparen la vida somiada i la vida viscuda. A més, aquest balanç no sempre surt malament. A vegades només mostra que la persona ha canviat i la vida, encara no.",
+      },
+      {
+        type: "heading",
+        text: "Per què emergeix a prop dels aniversaris rodons",
+      },
+      {
+        type: "paragraph",
+        text: "Els aniversaris rodons fan visible el temps. De fet, no porten res de nou; només ordenen el que ja hi havia. Als 40 es creuen diverses línies. Hi ha els projectes que ja s'han complert i els que no arribaran tal com estaven. També hi apareix el temps que probablement queda.",
+      },
+      {
+        type: "paragraph",
+        text: "El cos també hi participa. Normalment comença a demanar coses diferents: més descans, menys soroll, menys actuació. A això s'hi suma el context: pares que envelliren, fills que creixen, amistats que es reordenen. En aquest sentit, l'aniversari no provoca la crisi. Li posa data.",
+      },
+      {
+        type: "paragraph",
+        text: "La comparació tampoc no ajuda. Normalment, a aquesta edat es mira al voltant: carreres que arrenquen, parelles que es consoliden, vides que semblen encaixar. Però la comparació mesura el visible, i la crisi dels 40 pregunta per l'intern. A més, cada vida té el seu propi rellotge.",
+      },
+      {
+        type: "heading",
+        text: "El fons: coherència, no edat",
+      },
+      {
+        type: "paragraph",
+        text: "Quan aquest malestar arriba a consulta, gairebé mai no és l'edat el que fa mal. És la distància entre la vida que es porta i la persona que s'ha anat sent. Amb els anys, moltes parts pròpies van quedar aparades: la creativitat, el desig, la tendresa, la rebel·lia, el plaer tranquil. La crisi dels 40 emergeix, sovint, quan aquesta distància es fa insuportable.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això les solucions ràpides deixen tan buit com el problema. Ara bé, aviat la persona es retroba amb si mateixa al lloc nou. La pregunta de fons no és quina vida vull: és quines parts meves vaig deixar fora de la vida que tinc.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí convé una precisió: sentir això no vol dir haver triat malament. De fet, moltes decisions dels trenta van ser les millors possibles amb la informació d'aleshores. Revisar no és trair: és continuar la història amb més dades.",
+      },
+      {
+        type: "heading",
+        text: "Com es viu per dins",
+      },
+      {
+        type: "paragraph",
+        text: "El mapa intern és variat. Hi ha insomni, despertars a mitja nit, irritabilitat, un cansament estrany, tristesa sense motiu clar. També hi ha decisions que es tornen obsessives: deixar la feina, trencar la parella, canviar de ciutat. En canvi, l'altra cara és la vida en pausa: seguir com si res mentre alguna cosa interna ja no respon.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, sol afegir-s'hi culpa: «no hauria de queixar-me, tinc sort». Aquesta culpa aïlla. De fet, és una trampa habitual: aquest desassossec es viu pitjor quan es compara amb problemes més visibles. Però la profunditat d'una pregunta no depèn de la gravetat aparent de la situació.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest procés no es resol amb certeses, sinó amb comprensió. Primer s'ordena l'experiència: què s'ha mogut, quan i amb quin senyal. Després es revisa la història: quines decisions es van prendre i amb quines idees d'un mateix. Finalment es recupera l'autonomia: decidir des de qui ets avui, no des de qui vas jurar ser als vint.",
+      },
+      {
+        type: "paragraph",
+        text: "L'objectiu no és una vida nova, sinó una vida més teva. En aquest sentit, la maduresa consisteix a acceptar el que ja no ocorrerà. I, al mateix temps, actuar sobre el que segueix a les teves mans. La crisi dels 40, ben acompanyada, esdevé així una correcció de rumb i no una demolició.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la crisi dels 40",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Tothom té la crisi dels 40?",
+            answer: "No amb la mateixa intensitat. Depèn de la història, del context i de quanta coherència hi havia abans. En qualsevol cas, és una experiència força comuna entre adults.",
+          },
+          {
+            question: "Es confon amb depressió?",
+            answer: "A vegades coincideixen. Ara bé, no són el mateix: una crisi pot ser un moviment de creixement amb moments durs. Quan el malestar s'instal·la i limita, convé una valoració professional.",
+          },
+          {
+            question: "Quan convé consultar?",
+            answer: "Quan el desassossec dura, desgasta o empeny a decisions impulsius. Com més aviat es posa en paraules, menys sol costar el reajustament.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Tenir l'edat de la teva vida",
+      },
+      {
+        type: "paragraph",
+        text: "Vista des de l'altre costat, la crisi dels 40 no és cap amenaça. És una oportunitat seriosa de revisar el contracte amb la pròpia vida abans que la inèrcia el renovi tota sola. Ningú no hauria de tornar a signar sense llegir-lo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquest desassossec et resulta familiar, es pot treballar. A Espai Emocions acompanyem processos individuals amb adults, a Barcelona i en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses: les preguntes importants rarament exigeixen resposta immediata, però sí companyia.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La crisis de los 40 rara vez llega el día del cumpleaños. Normalmente aparece antes o después, con forma de desasosiego. De pronto, la vida que has construido se mira desde fuera y ya no se reconoce del todo. No hay crisis externa; sin embargo, algo ha empezado a moverse.",
+      },
+      {
+        type: "paragraph",
+        text: "Este artículo no va de motos nuevas ni de tópicos de felicitación. De hecho, la crisis de los 40 puede llegar a los 35 o a los 49. También existe en personas que nunca compraron nada para taparla. Lo que emerge a mitad de la vida es una pregunta seria. ¿La vida que he construido sigue siendo la mía?",
+      },
+      {
+        type: "heading",
+        text: "Qué es (y qué no es) la crisis de los 40",
+      },
+      {
+        type: "paragraph",
+        text: "El tópico la presenta como capricho o vanidad. Ahora bien, en consulta se ve otra cosa. Es un momento en que la estructura de la vida deja de sostenerse sola. El trabajo, la pareja, la casa y los logros siguen ahí. En cambio, la pregunta por el sentido, antes posponible, se vuelve urgente.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso la crisis de los 40 no es una patología. Es, más bien, un punto de revisión. La mitad de la vida funciona como un espejo: se comparan la vida soñada y la vida vivida. Además, ese balance no siempre sale mal. A veces solo muestra que la persona ha cambiado y la vida, todavía no.",
+      },
+      {
+        type: "heading",
+        text: "Por qué emerge cerca de los cumpleaños redondos",
+      },
+      {
+        type: "paragraph",
+        text: "Los cumpleaños redondos hacen visible el tiempo. De hecho, no traen nada nuevo; solo ordenan lo que ya estaba. A los 40 se cruzan varias líneas. Están los proyectos que ya se han cumplido y los que no llegarán tal como estaban. También aparece el tiempo que probablemente queda.",
+      },
+      {
+        type: "paragraph",
+        text: "El cuerpo también participa. Normalmente empieza a pedir cosas distintas: más descanso, menos ruido, menos actuación. A esto se suma el contexto: padres que envejecen, hijos que crecen, amistades que se reordenan. En este sentido, el cumpleaños no provoca la crisis. Le pone fecha.",
+      },
+      {
+        type: "paragraph",
+        text: "La comparación tampoco ayuda. Normalmente, a esta edad se mira alrededor: carreras que despegan, parejas que se consolidan, vidas que parecen encajar. Pero la comparación mide lo visible, y la crisis de los 40 pregunta por lo interno. Además, cada vida tiene su propio reloj.",
+      },
+      {
+        type: "heading",
+        text: "El fondo: coherencia, no edad",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando este malestar llega a consulta, casi nunca es la edad lo que duele. Es la distancia entre la vida que se lleva y la persona que se ha ido siendo. Con los años, muchas partes propias quedaron aparcadas: la creatividad, el deseo, la ternura, la rebeldía, el placer tranquilo. La crisis de los 40 emerge, a menudo, cuando esa distancia se vuelve insoportable.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso las soluciones rápidas dejan tan vacío como el problema. Ahora bien, pronto la persona se reencuentra consigo misma en el sitio nuevo. La pregunta de fondo no es qué vida quiero: es qué partes mías dejé fuera de la vida que tengo.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí conviene una precisión: sentir esto no significa haber elegido mal. De hecho, muchas decisiones de los treinta fueron las mejores posibles con la información de entonces. Revisar no es traicionar: es continuar la historia con más datos.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se vive por dentro",
+      },
+      {
+        type: "paragraph",
+        text: "El mapa interno es variado. Hay insomnio, despertares a mitad de noche, irritabilidad, un cansancio raro, tristeza sin motivo claro. También hay decisiones que se vuelven obsesivas: dejar el trabajo, romper la pareja, mudarse. En cambio, la otra cara es la vida en pausa: seguir como si nada mientras algo interno ya no responde.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, suele añadirse culpa: «no debería quejarme, tengo suerte». Esa culpa aísla. De hecho, es una trampa habitual: este desasosiego se vive peor cuando se compara con problemas más visibles. Pero la profundidad de una pregunta no depende de la gravedad aparente de la situación.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Este proceso no se resuelve con certezas, sino con comprensión. Primero se ordena la experiencia: qué se ha movido, cuándo y con qué señal. Después se revisa la historia: qué decisiones se tomaron y con qué ideas de uno mismo. Finalmente se recupera la autonomía: decidir desde quien eres hoy, no desde quien juraste ser a los veinte.",
+      },
+      {
+        type: "paragraph",
+        text: "El objetivo no es una vida nueva, sino una vida más tuya. En este sentido, la madurez consiste en aceptar lo que ya no va a ocurrir. Y, al mismo tiempo, actuar sobre lo que sigue en tus manos. La crisis de los 40, bien acompañada, se convierte en una corrección de rumbo y no en una demolición.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la crisis de los 40",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Todo el mundo tiene la crisis de los 40?",
+            answer: "No con la misma intensidad. Depende de la historia, del contexto y de cuánta coherencia había antes. En cualquier caso, es una experiencia muy común entre adultos.",
+          },
+          {
+            question: "¿Se confunde con depresión?",
+            answer: "A veces coinciden. Ahora bien, no son lo mismo: una crisis puede ser un movimiento de crecimiento con momentos duros. Cuando el malestar se instala y limita, conviene una valoración profesional.",
+          },
+          {
+            question: "¿Cuándo conviene consultar?",
+            answer: "Cuando el desasosiego dura, desgasta o empuja a decisiones impulsivas. Cuanto antes se pone en palabras, menos suele costar el reajuste.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Tener la edad de tu vida",
+      },
+      {
+        type: "paragraph",
+        text: "Vista desde el otro lado, la crisis de los 40 no es una amenaza. Es una oportunidad seria de revisar el contrato con la propia vida antes de que la inercia lo renueve solo. Nadie debería firmar de nuevo sin leerlo.",
+      },
+      {
+        type: "paragraph",
+        text: "Si este desasosiego te resulta familiar, se puede trabajar. En Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y en línea. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: las preguntas importantes rara vez exigen respuesta inmediata, pero sí compañía.",
+      },
+    ],
+  },
 ];
