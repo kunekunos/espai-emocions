@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "duelo-por-un-amigo",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Duel per un amic: la pèrdua que ningú reconeix",
+    "titleES": "Duelo por un amigo: la pérdida que nadie nombra",
+    "excerptCA": "El duel per un amic amb prou feines té reconeixement social: per què fa tant de mal, què el fa diferent i com es treballa a la teràpia d'adults.",
+    "excerptES": "El duelo por un amigo apenas tiene reconocimiento social: por qué duele tanto, qué lo hace distinto y cómo se transita en la terapia de adultos.",
+    "datePublished": "2026-10-08"
+  },
+  {
     "slug": "crisis-de-los-40",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",

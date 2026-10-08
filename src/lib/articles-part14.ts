@@ -1366,4 +1366,267 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 7. duelo-por-un-amigo (relaciones, 2026-10-08)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "duelo-por-un-amigo",
+    categoryCA: "Relacions",
+    categoryES: "Relaciones",
+    titleCA: "Duel per un amic: la pèrdua que ningú reconeix",
+    titleES: "Duelo por un amigo: la pérdida que nadie nombra",
+    excerptCA: "El duel per un amic amb prou feines té reconeixement social: per què fa tant de mal, què el fa diferent i com es treballa a la teràpia d'adults.",
+    excerptES: "El duelo por un amigo apenas tiene reconocimiento social: por qué duele tanto, qué lo hace distinto y cómo se transita en la terapia de adultos.",
+    datePublished: "2026-10-08",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha pèrdues que el món sap anomenar: la d'un pare, la d'una parella. En canvi, el duel per un amic amb prou feines té lloc al diccionari social. No existeix una paraula per a qui el perd, no hi ha cap ritu que el reconeixi, no hi ha permís oficial per estar setmanes enfonsat. A vegades es pregunta per la família; a vegades, senzillament, s'espera que segueixis funcionant. Tanmateix, el dolor és real.",
+      },
+      {
+        type: "paragraph",
+        text: "En la maduresa, aquesta experiència té una gravetat particular. De fet, l'amistat adulta és un vincle escollit i sostingut durant anys: qui la perd no perd només companyia, sinó un testimoni de la seva història. Per això aquest article mira de cara el duel per un amic: què el fa diferent, per què costa tant i com es transita sense presses ni culpa.",
+      },
+      {
+        type: "heading",
+        text: "Un duel sense rang social",
+      },
+      {
+        type: "paragraph",
+        text: "La societat organitza el dolor segons rangs. Per exemple, en un funeral hi ha un lloc reconegut per a la parella i per als fills; l'amic, en canvi, ocupa una posició ambigua: ni família ni simple conegut. A més, el permís social per estar malament sol caducar aviat. «Ja ha passat temps», insinuen els voltants, com si la profunditat d'un vincle es mesurés amb un carnet.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest fenomen té nom en la literatura del duel: duel desvalgut, una pèrdua real que no rep el reconeixement que mereix. Ara bé, el dolor no necessita validació externa per existir. En aquest sentit, la persona aprèn a amagar-lo: demana dies lliures «per temes personals», canvia de tema quan algú pregunta i continua funcionant amb una pena silenciosa a dins.",
+      },
+      {
+        type: "heading",
+        text: "Per què fa tant de mal perdre un amic",
+      },
+      {
+        type: "paragraph",
+        text: "L'amistat adulta és una relació lliure en el sentit més ple: ningú la institucionalitza, ningú la firma, ningú l'exigeix. Precisament per això, sostingir-la durant vint anys diu molt de dues persones. De fet, un amic de tants anys és el guardià de versions teves que gairebé ningú recorda: qui eres als vint-i-cinc, el que dubtava, el que s'equivocava amb una generositat que avui et fa tendresa.",
+      },
+      {
+        type: "paragraph",
+        text: "Perdre'l és perdre un arxiu de la teva identitat. A més, amb ell se'n va una manera concreta de riure, un to de veu que et buscava, un context compartit que ningú més pot reconstruir. En aquest sentit, el duel per un amic inclou una feina doble: acomiadar la persona i acomiadar qui eres amb ella. Per això cansa tant.",
+      },
+      {
+        type: "heading",
+        text: "El que desperta en la maduresa",
+      },
+      {
+        type: "paragraph",
+        text: "La mort d'un amic arriba, normalment, abans que altres pèrdues i obre una esquerda en la sensació de tenir tot el temps al davant. Per això el duel per un amic sol activar preguntes adormides: què faig amb la meva vida, amb qui la vull compartir, què fa anys que ajorno. A vegades aquesta pèrdua reordena prioritats amb una cruesa que cap propòsit d'any nou aconsegueix.",
+      },
+      {
+        type: "paragraph",
+        text: "També remou el mapa relacional. Als quaranta, fer amics de veritat costa; de fet, la vida adulta està dissenyada per estretir cercles. Perdre un amic deixa un buit amb efectes ecosistèmics: el grup es queda mut, els àpats queden orfes, el ritual compartit s'interromp. Ara bé, moltes persones recuperen vincles adormits i cuiden amb més intenció els que queden.",
+      },
+      {
+        type: "heading",
+        text: "La culpa del vincle lliure",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa és una visitant habitual d'aquest duel: el missatge no enviat, la trucada pendent, l'any en què us vau allunyar. A més, l'amistat no té obligacions escrites, i aquesta llibertat deixa la porta oberta a una culpa infinita: mai no se sap si n'hi va haver prou. Normalment, però, hi va haver molt més del que la memòria dolorosa recorda.",
+      },
+      {
+        type: "paragraph",
+        text: "Part de la feina consisteix a separar la responsabilitat real de l'exigència impossible. En aquest sentit, demanar compte d'allò que depenia de tu és maduresa; castigar-te per no haver estat perfecte és una altra cosa. Al capdavall, un vincle sostingut durant anys ja deia prou de tu.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa el duel per un amic a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Abans de res, el duel necessita espai i llenguatge. Anomenar la pèrdua amb la seva mida real —«era el meu millor amic», «vam parlar tota la vida»— ja és un acte terapèutic. A més, a consulta s'ajuda a localitzar què s'ha perdut exactament: la persona, el paper que ocupava, la part de la història que sostenia, els projectes compartits que ja no seran.",
+      },
+      {
+        type: "paragraph",
+        text: "El procés no consisteix a oblidar, sinó a reorganitzar el vincle. De fet, la recerca sobre el duel ha abandonat la idea de «tancar i passar pàgina»: avui es parla de vincles que continuen. Per exemple, algunes persones mantenen ritus senzills: escriure-li, visitar llocs compartits, explicar la seva història a qui no el va conèixer. Tot això és maduresa, no feblesa.",
+      },
+      {
+        type: "heading",
+        text: "Quan convé demanar ajuda",
+      },
+      {
+        type: "paragraph",
+        text: "Quan el duel s'encalla —insomni persistent, culpa corrosiva, aïllament o un desassossec que no cedeix al cap d'un any— convé consultar. En teràpia, normalment, es treballa amb la pena i també amb allò que l'amistat ensenyava: quins valors despertava, quina llibertat permetia, quines parts teves creixien al seu costat.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, honorar un amic també és continuar fent servir allò que et va deixar. En aquest sentit, la teràpia no busca esborrar el buit, sinó donar-li un lloc suportable dins d'una vida que continua. A més, molts processos de duel necessiten poc més que temps, companyia i paraules exactes.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: el duel per un amic",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal patir tant per la mort d'un amic?",
+            answer: "Sí. De fet, la intensitat del duel depèn de la profunditat del vincle, no de la seva categoria legal. Un amic de dècades sosté tanta història com qualsevol altre vincle.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quant de temps dura aquest duel?",
+            answer: "No hi ha termini fix. Normalment s'integra en onades cada cop menys intenses; ara bé, si no baixa al cap d'un any o es complica, convé consultar.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Com acompanyo algú que viu aquesta pèrdua?",
+            answer: "Amb presència i sense minimitzar. Per exemple, anomenar la pèrdua, preguntar-hi i no apressar el «ja estàs bé» ajuda més que cap consell.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El lloc que continua",
+      },
+      {
+        type: "paragraph",
+        text: "La mort d'un amic deixa una cadira buida que cap discurs omple. Tanmateix, amb el temps aquesta absència pot convertir-se en un lloc intern: l'amic deixa de ser al costat i passa a ser en la manera com mires certes coses, en un acudit que només enteníeu vosaltres, en una part de tu que ell va ajudar a construir.",
+      },
+      {
+        type: "paragraph",
+        text: "En definitiva, patir tant no és cap exageració: el duel per un amic és la prova que aquella relació importava. Si aquest esquinç et pesa i no troba lloc, es pot treballar. A Espai Emocions acompanyem processos individuals amb adults, a Barcelona i en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses: els vincles importants no s'acomiaden d'un cop.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay pérdidas que el mundo sabe nombrar: la de un padre, la de una pareja. En cambio, el duelo por un amigo apenas tiene lugar en el diccionario social. No existe una palabra para quien lo pierde, no hay un rito que lo reconozca, no hay permiso oficial para estar semanas deshecho. A veces se pregunta por la familia; a veces, simplemente, se espera que sigas funcionando. Sin embargo, el dolor es real.",
+      },
+      {
+        type: "paragraph",
+        text: "En la madurez, esta experiencia tiene una gravedad particular. De hecho, la amistad adulta es un vínculo elegido y sostenido durante años: quien la pierde no pierde solo compañía, sino un testigo de su historia. Por eso este artículo mira de frente el duelo por un amigo: qué lo hace distinto, por qué cuesta tanto y cómo se transita sin prisa y sin culpa.",
+      },
+      {
+        type: "heading",
+        text: "Un duelo sin rango social",
+      },
+      {
+        type: "paragraph",
+        text: "La sociedad organiza el dolor según rangos. Por ejemplo, en un funeral hay un lugar reconocido para la pareja y para los hijos; el amigo, en cambio, ocupa una posición ambigua: ni familia ni simple conocido. Además, el permiso social para estar mal suele caducar pronto. «Ya ha pasado tiempo», insinúan los alrededores, como si la profundidad de un vínculo se midiera con un carnet.",
+      },
+      {
+        type: "paragraph",
+        text: "Este fenómeno tiene nombre en la literatura del duelo: duelo desvalido, una pérdida real que no recibe el reconocimiento que merece. Ahora bien, el dolor no necesita validación externa para existir. En este sentido, la persona aprende a esconderlo: pide días libres «por temas personales», cambia de tema cuando alguien pregunta y sigue funcionando con una pena silenciosa dentro.",
+      },
+      {
+        type: "heading",
+        text: "Por qué duele tanto perder a un amigo",
+      },
+      {
+        type: "paragraph",
+        text: "La amistad adulta es una relación libre en el sentido más pleno: nadie la institucionaliza, nadie la firma, nadie la exige. Precisamente por eso, sostenerla durante veinte años dice mucho de dos personas. De hecho, un amigo de tantos años es el guardián de versiones tuyas que casi nadie recuerda: quien eras a los veinticinco, el que dudaba, el que se equivocaba con una generosidad que hoy te da ternura.",
+      },
+      {
+        type: "paragraph",
+        text: "Perderlo es perder un archivo de tu identidad. Además, con él se va una forma concreta de reír, un tono de voz que te buscaba, un contexto compartido que nadie más puede reconstruir. En este sentido, el duelo por un amigo incluye una tarea doble: despedir a la persona y despedir a quien tú eras con ella. Por eso cansa tanto.",
+      },
+      {
+        type: "heading",
+        text: "Lo que despierta en la madurez",
+      },
+      {
+        type: "paragraph",
+        text: "La muerte de un amigo llega, normalmente, antes que otras pérdidas y abre una grieta en la sensación de tener todo el tiempo por delante. Por eso el duelo por un amigo suele activar preguntas dormidas: qué hago con mi vida, con quién quiero compartirla, qué llevo años aplazando. A veces esta pérdida reordena prioridades con una crudeza que ningún propósito de año nuevo consigue.",
+      },
+      {
+        type: "paragraph",
+        text: "También remueve el mapa relacional. A los cuarenta, hacer amigos de verdad cuesta; de hecho, la vida adulta está diseñada para estrechar círculos. Perder a un amigo deja un vacío con efectos ecosistémicos: el grupo se queda mudo, las comidas quedan huérfanas, el ritual compartido se interrumpe. Ahora bien, muchas personas recuperan vínculos dormidos y cuidan con más intención los que quedan.",
+      },
+      {
+        type: "heading",
+        text: "La culpa del vínculo libre",
+      },
+      {
+        type: "paragraph",
+        text: "La culpa es una visitante habitual de este duelo: el mensaje no enviado, la llamada pendiente, el año en que os alejasteis. Además, la amistad no tiene obligaciones escritas, y esa libertad deja la puerta abierta a una culpa infinita: nunca se sabe si se estuvo suficiente. Normalmente, sin embargo, hubo mucho más de lo que la memoria dolorosa recuerda.",
+      },
+      {
+        type: "paragraph",
+        text: "Parte del trabajo consiste en separar la responsabilidad real de la exigencia imposible. En este sentido, pedir cuenta de lo que dependía de ti es madurez; castigarte por no haber sido perfecto es otra cosa. Al final, un vínculo sostenido durante años ya decía bastante de ti.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja el duelo por un amigo en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Antes de nada, el duelo necesita espacio y lenguaje. Nombrar la pérdida con su tamaño real —«era mi mejor amigo», «hablamos toda la vida»— ya es un acto terapéutico. Además, en consulta se ayuda a localizar qué se ha perdido exactamente: la persona, el papel que ocupaba, la parte de la historia que sostenía, los proyectos compartidos que ya no serán.",
+      },
+      {
+        type: "paragraph",
+        text: "El proceso no consiste en olvidar, sino en reorganizar el vínculo. De hecho, la investigación sobre el duelo ha abandonado la idea de «cerrar y pasar página»: hoy se habla de vínculos que continúan. Por ejemplo, algunas personas mantienen rituales sencillos: escribirle, visitar lugares compartidos, contar su historia a quien no lo conoció. Todo eso es madurez, no debilidad.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene pedir ayuda",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando el duelo se atasca —insomnio persistente, culpa corrosiva, aislamiento o un desasosiego que no cede al año— conviene consultar. En terapia, normalmente, se trabaja con la pena y también con lo que la amistad enseñaba: qué valores despertaba, qué libertad permitía, qué partes tuyas crecían a su lado.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, honrar a un amigo también es seguir usando lo que te dejó. En este sentido, la terapia no busca borrar el vacío, sino darle un lugar soportable dentro de una vida que continúa. Además, muchos procesos de duelo necesitan poco más que tiempo, compañía y palabras exactas.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el duelo por un amigo",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal sufrir tanto por la muerte de un amigo?",
+            answer: "Sí. De hecho, la intensidad del duelo depende de la profundidad del vínculo, no de su categoría legal. Un amigo de décadas sostiene tanta historia como cualquier otro vínculo.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto tiempo dura este duelo?",
+            answer: "No hay plazo fijo. Normalmente se integra en oleadas cada vez menos intensas; ahora bien, si no baja al año o se complica, conviene consultar.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cómo acompaño a alguien que vive esta pérdida?",
+            answer: "Con presencia y sin minimizar. Por ejemplo, nombrar la pérdida, preguntar por ella y no apresurar el «ya estás bien» ayuda más que cualquier consejo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El lugar que sigue",
+      },
+      {
+        type: "paragraph",
+        text: "La muerte de un amigo deja una silla vacía que ningún discurso llena. Sin embargo, con el tiempo esa ausencia puede convertirse en un lugar interno: el amigo deja de estar al lado y pasa a estar en la manera en que miras ciertas cosas, en un chiste que solo vosotros entendíais, en una parte de ti que él ayudó a construir.",
+      },
+      {
+        type: "paragraph",
+        text: "En definitiva, dolerse tanto no es una exageración: el duelo por un amigo es la prueba de que aquella relación importaba. Si este desgarro te pesa y no encuentra lugar, se puede trabajar. En Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y en línea. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: los vínculos importantes no se despiden de golpe.",
+      },
+    ],
+  },
 ];
