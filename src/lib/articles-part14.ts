@@ -1366,267 +1366,754 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
-  // ---------------------------------------------------------------------------
-  // 7. duelo-por-un-amigo (relaciones, 2026-10-08)
-  // ---------------------------------------------------------------------------
-  {
-    slug: "duelo-por-un-amigo",
-    categoryCA: "Relacions",
-    categoryES: "Relaciones",
-    titleCA: "Duel per un amic: la pèrdua que ningú reconeix",
-    titleES: "Duelo por un amigo: la pérdida que nadie nombra",
-    excerptCA: "El duel per un amic amb prou feines té reconeixement social: per què fa tant de mal, què el fa diferent i com es treballa a la teràpia d'adults.",
-    excerptES: "El duelo por un amigo apenas tiene reconocimiento social: por qué duele tanto, qué lo hace distinto y cómo se transita en la terapia de adultos.",
-    datePublished: "2026-10-08",
-    blocksCA: [
-      {
-        type: "paragraph",
-        text: "Hi ha pèrdues que el món sap anomenar: la d'un pare, la d'una parella. En canvi, el duel per un amic amb prou feines té lloc al diccionari social. No existeix una paraula per a qui el perd, no hi ha cap ritu que el reconeixi, no hi ha permís oficial per estar setmanes enfonsat. A vegades es pregunta per la família; a vegades, senzillament, s'espera que segueixis funcionant. Tanmateix, el dolor és real.",
-      },
-      {
-        type: "paragraph",
-        text: "En la maduresa, aquesta experiència té una gravetat particular. De fet, l'amistat adulta és un vincle escollit i sostingut durant anys: qui la perd no perd només companyia, sinó un testimoni de la seva història. Per això aquest article mira de cara el duel per un amic: què el fa diferent, per què costa tant i com es transita sense presses ni culpa.",
-      },
-      {
-        type: "heading",
-        text: "Un duel sense rang social",
-      },
-      {
-        type: "paragraph",
-        text: "La societat organitza el dolor segons rangs. Per exemple, en un funeral hi ha un lloc reconegut per a la parella i per als fills; l'amic, en canvi, ocupa una posició ambigua: ni família ni simple conegut. A més, el permís social per estar malament sol caducar aviat. «Ja ha passat temps», insinuen els voltants, com si la profunditat d'un vincle es mesurés amb un carnet.",
-      },
-      {
-        type: "paragraph",
-        text: "Aquest fenomen té nom en la literatura del duel: duel desvalgut, una pèrdua real que no rep el reconeixement que mereix. Ara bé, el dolor no necessita validació externa per existir. En aquest sentit, la persona aprèn a amagar-lo: demana dies lliures «per temes personals», canvia de tema quan algú pregunta i continua funcionant amb una pena silenciosa a dins.",
-      },
-      {
-        type: "heading",
-        text: "Per què fa tant de mal perdre un amic",
-      },
-      {
-        type: "paragraph",
-        text: "L'amistat adulta és una relació lliure en el sentit més ple: ningú la institucionalitza, ningú la firma, ningú l'exigeix. Precisament per això, sostingir-la durant vint anys diu molt de dues persones. De fet, un amic de tants anys és el guardià de versions teves que gairebé ningú recorda: qui eres als vint-i-cinc, el que dubtava, el que s'equivocava amb una generositat que avui et fa tendresa.",
-      },
-      {
-        type: "paragraph",
-        text: "Perdre'l és perdre un arxiu de la teva identitat. A més, amb ell se'n va una manera concreta de riure, un to de veu que et buscava, un context compartit que ningú més pot reconstruir. En aquest sentit, el duel per un amic inclou una feina doble: acomiadar la persona i acomiadar qui eres amb ella. Per això cansa tant.",
-      },
-      {
-        type: "heading",
-        text: "El que desperta en la maduresa",
-      },
-      {
-        type: "paragraph",
-        text: "La mort d'un amic arriba, normalment, abans que altres pèrdues i obre una esquerda en la sensació de tenir tot el temps al davant. Per això el duel per un amic sol activar preguntes adormides: què faig amb la meva vida, amb qui la vull compartir, què fa anys que ajorno. A vegades aquesta pèrdua reordena prioritats amb una cruesa que cap propòsit d'any nou aconsegueix.",
-      },
-      {
-        type: "paragraph",
-        text: "També remou el mapa relacional. Als quaranta, fer amics de veritat costa; de fet, la vida adulta està dissenyada per estretir cercles. Perdre un amic deixa un buit amb efectes ecosistèmics: el grup es queda mut, els àpats queden orfes, el ritual compartit s'interromp. Ara bé, moltes persones recuperen vincles adormits i cuiden amb més intenció els que queden.",
-      },
-      {
-        type: "heading",
-        text: "La culpa del vincle lliure",
-      },
-      {
-        type: "paragraph",
-        text: "La culpa és una visitant habitual d'aquest duel: el missatge no enviat, la trucada pendent, l'any en què us vau allunyar. A més, l'amistat no té obligacions escrites, i aquesta llibertat deixa la porta oberta a una culpa infinita: mai no se sap si n'hi va haver prou. Normalment, però, hi va haver molt més del que la memòria dolorosa recorda.",
-      },
-      {
-        type: "paragraph",
-        text: "Part de la feina consisteix a separar la responsabilitat real de l'exigència impossible. En aquest sentit, demanar compte d'allò que depenia de tu és maduresa; castigar-te per no haver estat perfecte és una altra cosa. Al capdavall, un vincle sostingut durant anys ja deia prou de tu.",
-      },
-      {
-        type: "heading",
-        text: "Com es treballa el duel per un amic a teràpia",
-      },
-      {
-        type: "paragraph",
-        text: "Abans de res, el duel necessita espai i llenguatge. Anomenar la pèrdua amb la seva mida real —«era el meu millor amic», «vam parlar tota la vida»— ja és un acte terapèutic. A més, a consulta s'ajuda a localitzar què s'ha perdut exactament: la persona, el paper que ocupava, la part de la història que sostenia, els projectes compartits que ja no seran.",
-      },
-      {
-        type: "paragraph",
-        text: "El procés no consisteix a oblidar, sinó a reorganitzar el vincle. De fet, la recerca sobre el duel ha abandonat la idea de «tancar i passar pàgina»: avui es parla de vincles que continuen. Per exemple, algunes persones mantenen ritus senzills: escriure-li, visitar llocs compartits, explicar la seva història a qui no el va conèixer. Tot això és maduresa, no feblesa.",
-      },
-      {
-        type: "heading",
-        text: "Quan convé demanar ajuda",
-      },
-      {
-        type: "paragraph",
-        text: "Quan el duel s'encalla —insomni persistent, culpa corrosiva, aïllament o un desassossec que no cedeix al cap d'un any— convé consultar. En teràpia, normalment, es treballa amb la pena i també amb allò que l'amistat ensenyava: quins valors despertava, quina llibertat permetia, quines parts teves creixien al seu costat.",
-      },
-      {
-        type: "paragraph",
-        text: "Al final, honorar un amic també és continuar fent servir allò que et va deixar. En aquest sentit, la teràpia no busca esborrar el buit, sinó donar-li un lloc suportable dins d'una vida que continua. A més, molts processos de duel necessiten poc més que temps, companyia i paraules exactes.",
-      },
-      {
-        type: "heading",
-        text: "Preguntes freqüents: el duel per un amic",
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "És normal patir tant per la mort d'un amic?",
-            answer: "Sí. De fet, la intensitat del duel depèn de la profunditat del vincle, no de la seva categoria legal. Un amic de dècades sosté tanta història com qualsevol altre vincle.",
-          },
-        ],
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "Quant de temps dura aquest duel?",
-            answer: "No hi ha termini fix. Normalment s'integra en onades cada cop menys intenses; ara bé, si no baixa al cap d'un any o es complica, convé consultar.",
-          },
-        ],
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "Com acompanyo algú que viu aquesta pèrdua?",
-            answer: "Amb presència i sense minimitzar. Per exemple, anomenar la pèrdua, preguntar-hi i no apressar el «ja estàs bé» ajuda més que cap consell.",
-          },
-        ],
-      },
-      {
-        type: "heading",
-        text: "El lloc que continua",
-      },
-      {
-        type: "paragraph",
-        text: "La mort d'un amic deixa una cadira buida que cap discurs omple. Tanmateix, amb el temps aquesta absència pot convertir-se en un lloc intern: l'amic deixa de ser al costat i passa a ser en la manera com mires certes coses, en un acudit que només enteníeu vosaltres, en una part de tu que ell va ajudar a construir.",
-      },
-      {
-        type: "paragraph",
-        text: "En definitiva, patir tant no és cap exageració: el duel per un amic és la prova que aquella relació importava. Si aquest esquinç et pesa i no troba lloc, es pot treballar. A Espai Emocions acompanyem processos individuals amb adults, a Barcelona i en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses: els vincles importants no s'acomiaden d'un cop.",
-      },
-    ],
-    blocksES: [
-      {
-        type: "paragraph",
-        text: "Hay pérdidas que el mundo sabe nombrar: la de un padre, la de una pareja. En cambio, el duelo por un amigo apenas tiene lugar en el diccionario social. No existe una palabra para quien lo pierde, no hay un rito que lo reconozca, no hay permiso oficial para estar semanas deshecho. A veces se pregunta por la familia; a veces, simplemente, se espera que sigas funcionando. Sin embargo, el dolor es real.",
-      },
-      {
-        type: "paragraph",
-        text: "En la madurez, esta experiencia tiene una gravedad particular. De hecho, la amistad adulta es un vínculo elegido y sostenido durante años: quien la pierde no pierde solo compañía, sino un testigo de su historia. Por eso este artículo mira de frente el duelo por un amigo: qué lo hace distinto, por qué cuesta tanto y cómo se transita sin prisa y sin culpa.",
-      },
-      {
-        type: "heading",
-        text: "Un duelo sin rango social",
-      },
-      {
-        type: "paragraph",
-        text: "La sociedad organiza el dolor según rangos. Por ejemplo, en un funeral hay un lugar reconocido para la pareja y para los hijos; el amigo, en cambio, ocupa una posición ambigua: ni familia ni simple conocido. Además, el permiso social para estar mal suele caducar pronto. «Ya ha pasado tiempo», insinúan los alrededores, como si la profundidad de un vínculo se midiera con un carnet.",
-      },
-      {
-        type: "paragraph",
-        text: "Este fenómeno tiene nombre en la literatura del duelo: duelo desvalido, una pérdida real que no recibe el reconocimiento que merece. Ahora bien, el dolor no necesita validación externa para existir. En este sentido, la persona aprende a esconderlo: pide días libres «por temas personales», cambia de tema cuando alguien pregunta y sigue funcionando con una pena silenciosa dentro.",
-      },
-      {
-        type: "heading",
-        text: "Por qué duele tanto perder a un amigo",
-      },
-      {
-        type: "paragraph",
-        text: "La amistad adulta es una relación libre en el sentido más pleno: nadie la institucionaliza, nadie la firma, nadie la exige. Precisamente por eso, sostenerla durante veinte años dice mucho de dos personas. De hecho, un amigo de tantos años es el guardián de versiones tuyas que casi nadie recuerda: quien eras a los veinticinco, el que dudaba, el que se equivocaba con una generosidad que hoy te da ternura.",
-      },
-      {
-        type: "paragraph",
-        text: "Perderlo es perder un archivo de tu identidad. Además, con él se va una forma concreta de reír, un tono de voz que te buscaba, un contexto compartido que nadie más puede reconstruir. En este sentido, el duelo por un amigo incluye una tarea doble: despedir a la persona y despedir a quien tú eras con ella. Por eso cansa tanto.",
-      },
-      {
-        type: "heading",
-        text: "Lo que despierta en la madurez",
-      },
-      {
-        type: "paragraph",
-        text: "La muerte de un amigo llega, normalmente, antes que otras pérdidas y abre una grieta en la sensación de tener todo el tiempo por delante. Por eso el duelo por un amigo suele activar preguntas dormidas: qué hago con mi vida, con quién quiero compartirla, qué llevo años aplazando. A veces esta pérdida reordena prioridades con una crudeza que ningún propósito de año nuevo consigue.",
-      },
-      {
-        type: "paragraph",
-        text: "También remueve el mapa relacional. A los cuarenta, hacer amigos de verdad cuesta; de hecho, la vida adulta está diseñada para estrechar círculos. Perder a un amigo deja un vacío con efectos ecosistémicos: el grupo se queda mudo, las comidas quedan huérfanas, el ritual compartido se interrumpe. Ahora bien, muchas personas recuperan vínculos dormidos y cuidan con más intención los que quedan.",
-      },
-      {
-        type: "heading",
-        text: "La culpa del vínculo libre",
-      },
-      {
-        type: "paragraph",
-        text: "La culpa es una visitante habitual de este duelo: el mensaje no enviado, la llamada pendiente, el año en que os alejasteis. Además, la amistad no tiene obligaciones escritas, y esa libertad deja la puerta abierta a una culpa infinita: nunca se sabe si se estuvo suficiente. Normalmente, sin embargo, hubo mucho más de lo que la memoria dolorosa recuerda.",
-      },
-      {
-        type: "paragraph",
-        text: "Parte del trabajo consiste en separar la responsabilidad real de la exigencia imposible. En este sentido, pedir cuenta de lo que dependía de ti es madurez; castigarte por no haber sido perfecto es otra cosa. Al final, un vínculo sostenido durante años ya decía bastante de ti.",
-      },
-      {
-        type: "heading",
-        text: "Cómo se trabaja el duelo por un amigo en terapia",
-      },
-      {
-        type: "paragraph",
-        text: "Antes de nada, el duelo necesita espacio y lenguaje. Nombrar la pérdida con su tamaño real —«era mi mejor amigo», «hablamos toda la vida»— ya es un acto terapéutico. Además, en consulta se ayuda a localizar qué se ha perdido exactamente: la persona, el papel que ocupaba, la parte de la historia que sostenía, los proyectos compartidos que ya no serán.",
-      },
-      {
-        type: "paragraph",
-        text: "El proceso no consiste en olvidar, sino en reorganizar el vínculo. De hecho, la investigación sobre el duelo ha abandonado la idea de «cerrar y pasar página»: hoy se habla de vínculos que continúan. Por ejemplo, algunas personas mantienen rituales sencillos: escribirle, visitar lugares compartidos, contar su historia a quien no lo conoció. Todo eso es madurez, no debilidad.",
-      },
-      {
-        type: "heading",
-        text: "Cuándo conviene pedir ayuda",
-      },
-      {
-        type: "paragraph",
-        text: "Cuando el duelo se atasca —insomnio persistente, culpa corrosiva, aislamiento o un desasosiego que no cede al año— conviene consultar. En terapia, normalmente, se trabaja con la pena y también con lo que la amistad enseñaba: qué valores despertaba, qué libertad permitía, qué partes tuyas crecían a su lado.",
-      },
-      {
-        type: "paragraph",
-        text: "Al final, honrar a un amigo también es seguir usando lo que te dejó. En este sentido, la terapia no busca borrar el vacío, sino darle un lugar soportable dentro de una vida que continúa. Además, muchos procesos de duelo necesitan poco más que tiempo, compañía y palabras exactas.",
-      },
-      {
-        type: "heading",
-        text: "Preguntas frecuentes: el duelo por un amigo",
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "¿Es normal sufrir tanto por la muerte de un amigo?",
-            answer: "Sí. De hecho, la intensidad del duelo depende de la profundidad del vínculo, no de su categoría legal. Un amigo de décadas sostiene tanta historia como cualquier otro vínculo.",
-          },
-        ],
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "¿Cuánto tiempo dura este duelo?",
-            answer: "No hay plazo fijo. Normalmente se integra en oleadas cada vez menos intensas; ahora bien, si no baja al año o se complica, conviene consultar.",
-          },
-        ],
-      },
-      {
-        type: "faq",
-        items: [
-          {
-            question: "¿Cómo acompaño a alguien que vive esta pérdida?",
-            answer: "Con presencia y sin minimizar. Por ejemplo, nombrar la pérdida, preguntar por ella y no apresurar el «ya estás bien» ayuda más que cualquier consejo.",
-          },
-        ],
-      },
-      {
-        type: "heading",
-        text: "El lugar que sigue",
-      },
-      {
-        type: "paragraph",
-        text: "La muerte de un amigo deja una silla vacía que ningún discurso llena. Sin embargo, con el tiempo esa ausencia puede convertirse en un lugar interno: el amigo deja de estar al lado y pasa a estar en la manera en que miras ciertas cosas, en un chiste que solo vosotros entendíais, en una parte de ti que él ayudó a construir.",
-      },
-      {
-        type: "paragraph",
-        text: "En definitiva, dolerse tanto no es una exageración: el duelo por un amigo es la prueba de que aquella relación importaba. Si este desgarro te pesa y no encuentra lugar, se puede trabajar. En Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y en línea. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: los vínculos importantes no se despiden de golpe.",
-      },
-    ],
+  // ---------------------------------------------------------------------------
+
+  // 7. duelo-por-un-amigo (relaciones, 2026-10-08)
+
+  // ---------------------------------------------------------------------------
+
+  {
+
+    slug: "duelo-por-un-amigo",
+
+    categoryCA: "Relacions",
+
+    categoryES: "Relaciones",
+
+    titleCA: "Duel per un amic: la pèrdua que ningú reconeix",
+
+    titleES: "Duelo por un amigo: la pérdida que nadie nombra",
+
+    excerptCA: "El duel per un amic amb prou feines té reconeixement social: per què fa tant de mal, què el fa diferent i com es treballa a la teràpia d'adults.",
+
+    excerptES: "El duelo por un amigo apenas tiene reconocimiento social: por qué duele tanto, qué lo hace distinto y cómo se transita en la terapia de adultos.",
+
+    datePublished: "2026-10-08",
+
+    blocksCA: [
+
+      {
+
+        type: "paragraph",
+
+        text: "Hi ha pèrdues que el món sap anomenar: la d'un pare, la d'una parella. En canvi, el duel per un amic amb prou feines té lloc al diccionari social. No existeix una paraula per a qui el perd, no hi ha cap ritu que el reconeixi, no hi ha permís oficial per estar setmanes enfonsat. A vegades es pregunta per la família; a vegades, senzillament, s'espera que segueixis funcionant. Tanmateix, el dolor és real.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "En la maduresa, aquesta experiència té una gravetat particular. De fet, l'amistat adulta és un vincle escollit i sostingut durant anys: qui la perd no perd només companyia, sinó un testimoni de la seva història. Per això aquest article mira de cara el duel per un amic: què el fa diferent, per què costa tant i com es transita sense presses ni culpa.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Un duel sense rang social",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La societat organitza el dolor segons rangs. Per exemple, en un funeral hi ha un lloc reconegut per a la parella i per als fills; l'amic, en canvi, ocupa una posició ambigua: ni família ni simple conegut. A més, el permís social per estar malament sol caducar aviat. «Ja ha passat temps», insinuen els voltants, com si la profunditat d'un vincle es mesurés amb un carnet.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Aquest fenomen té nom en la literatura del duel: duel desvalgut, una pèrdua real que no rep el reconeixement que mereix. Ara bé, el dolor no necessita validació externa per existir. En aquest sentit, la persona aprèn a amagar-lo: demana dies lliures «per temes personals», canvia de tema quan algú pregunta i continua funcionant amb una pena silenciosa a dins.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Per què fa tant de mal perdre un amic",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "L'amistat adulta és una relació lliure en el sentit més ple: ningú la institucionalitza, ningú la firma, ningú l'exigeix. Precisament per això, sostingir-la durant vint anys diu molt de dues persones. De fet, un amic de tants anys és el guardià de versions teves que gairebé ningú recorda: qui eres als vint-i-cinc, el que dubtava, el que s'equivocava amb una generositat que avui et fa tendresa.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Perdre'l és perdre un arxiu de la teva identitat. A més, amb ell se'n va una manera concreta de riure, un to de veu que et buscava, un context compartit que ningú més pot reconstruir. En aquest sentit, el duel per un amic inclou una feina doble: acomiadar la persona i acomiadar qui eres amb ella. Per això cansa tant.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "El que desperta en la maduresa",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La mort d'un amic arriba, normalment, abans que altres pèrdues i obre una esquerda en la sensació de tenir tot el temps al davant. Per això el duel per un amic sol activar preguntes adormides: què faig amb la meva vida, amb qui la vull compartir, què fa anys que ajorno. A vegades aquesta pèrdua reordena prioritats amb una cruesa que cap propòsit d'any nou aconsegueix.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "També remou el mapa relacional. Als quaranta, fer amics de veritat costa; de fet, la vida adulta està dissenyada per estretir cercles. Perdre un amic deixa un buit amb efectes ecosistèmics: el grup es queda mut, els àpats queden orfes, el ritual compartit s'interromp. Ara bé, moltes persones recuperen vincles adormits i cuiden amb més intenció els que queden.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "La culpa del vincle lliure",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La culpa és una visitant habitual d'aquest duel: el missatge no enviat, la trucada pendent, l'any en què us vau allunyar. A més, l'amistat no té obligacions escrites, i aquesta llibertat deixa la porta oberta a una culpa infinita: mai no se sap si n'hi va haver prou. Normalment, però, hi va haver molt més del que la memòria dolorosa recorda.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Part de la feina consisteix a separar la responsabilitat real de l'exigència impossible. En aquest sentit, demanar compte d'allò que depenia de tu és maduresa; castigar-te per no haver estat perfecte és una altra cosa. Al capdavall, un vincle sostingut durant anys ja deia prou de tu.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Com es treballa el duel per un amic a teràpia",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Abans de res, el duel necessita espai i llenguatge. Anomenar la pèrdua amb la seva mida real —«era el meu millor amic», «vam parlar tota la vida»— ja és un acte terapèutic. A més, a consulta s'ajuda a localitzar què s'ha perdut exactament: la persona, el paper que ocupava, la part de la història que sostenia, els projectes compartits que ja no seran.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "El procés no consisteix a oblidar, sinó a reorganitzar el vincle. De fet, la recerca sobre el duel ha abandonat la idea de «tancar i passar pàgina»: avui es parla de vincles que continuen. Per exemple, algunes persones mantenen ritus senzills: escriure-li, visitar llocs compartits, explicar la seva història a qui no el va conèixer. Tot això és maduresa, no feblesa.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Quan convé demanar ajuda",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Quan el duel s'encalla —insomni persistent, culpa corrosiva, aïllament o un desassossec que no cedeix al cap d'un any— convé consultar. En teràpia, normalment, es treballa amb la pena i també amb allò que l'amistat ensenyava: quins valors despertava, quina llibertat permetia, quines parts teves creixien al seu costat.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Al final, honorar un amic també és continuar fent servir allò que et va deixar. En aquest sentit, la teràpia no busca esborrar el buit, sinó donar-li un lloc suportable dins d'una vida que continua. A més, molts processos de duel necessiten poc més que temps, companyia i paraules exactes.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Preguntes freqüents: el duel per un amic",
+
+      },
+
+      {
+
+        type: "faq",
+
+        items: [
+
+          {
+
+            question: "És normal patir tant per la mort d'un amic?",
+
+            answer: "Sí. De fet, la intensitat del duel depèn de la profunditat del vincle, no de la seva categoria legal. Un amic de dècades sosté tanta història com qualsevol altre vincle.",
+
+          },
+
+        ],
+
+      },
+
+      {
+
+        type: "faq",
+
+        items: [
+
+          {
+
+            question: "Quant de temps dura aquest duel?",
+
+            answer: "No hi ha termini fix. Normalment s'integra en onades cada cop menys intenses; ara bé, si no baixa al cap d'un any o es complica, convé consultar.",
+
+          },
+
+        ],
+
+      },
+
+      {
+
+        type: "faq",
+
+        items: [
+
+          {
+
+            question: "Com acompanyo algú que viu aquesta pèrdua?",
+
+            answer: "Amb presència i sense minimitzar. Per exemple, anomenar la pèrdua, preguntar-hi i no apressar el «ja estàs bé» ajuda més que cap consell.",
+
+          },
+
+        ],
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "El lloc que continua",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La mort d'un amic deixa una cadira buida que cap discurs omple. Tanmateix, amb el temps aquesta absència pot convertir-se en un lloc intern: l'amic deixa de ser al costat i passa a ser en la manera com mires certes coses, en un acudit que només enteníeu vosaltres, en una part de tu que ell va ajudar a construir.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "En definitiva, patir tant no és cap exageració: el duel per un amic és la prova que aquella relació importava. Si aquest esquinç et pesa i no troba lloc, es pot treballar. A Espai Emocions acompanyem processos individuals amb adults, a Barcelona i en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses: els vincles importants no s'acomiaden d'un cop.",
+
+      },
+
+    ],
+
+    blocksES: [
+
+      {
+
+        type: "paragraph",
+
+        text: "Hay pérdidas que el mundo sabe nombrar: la de un padre, la de una pareja. En cambio, el duelo por un amigo apenas tiene lugar en el diccionario social. No existe una palabra para quien lo pierde, no hay un rito que lo reconozca, no hay permiso oficial para estar semanas deshecho. A veces se pregunta por la familia; a veces, simplemente, se espera que sigas funcionando. Sin embargo, el dolor es real.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "En la madurez, esta experiencia tiene una gravedad particular. De hecho, la amistad adulta es un vínculo elegido y sostenido durante años: quien la pierde no pierde solo compañía, sino un testigo de su historia. Por eso este artículo mira de frente el duelo por un amigo: qué lo hace distinto, por qué cuesta tanto y cómo se transita sin prisa y sin culpa.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Un duelo sin rango social",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La sociedad organiza el dolor según rangos. Por ejemplo, en un funeral hay un lugar reconocido para la pareja y para los hijos; el amigo, en cambio, ocupa una posición ambigua: ni familia ni simple conocido. Además, el permiso social para estar mal suele caducar pronto. «Ya ha pasado tiempo», insinúan los alrededores, como si la profundidad de un vínculo se midiera con un carnet.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Este fenómeno tiene nombre en la literatura del duelo: duelo desvalido, una pérdida real que no recibe el reconocimiento que merece. Ahora bien, el dolor no necesita validación externa para existir. En este sentido, la persona aprende a esconderlo: pide días libres «por temas personales», cambia de tema cuando alguien pregunta y sigue funcionando con una pena silenciosa dentro.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Por qué duele tanto perder a un amigo",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La amistad adulta es una relación libre en el sentido más pleno: nadie la institucionaliza, nadie la firma, nadie la exige. Precisamente por eso, sostenerla durante veinte años dice mucho de dos personas. De hecho, un amigo de tantos años es el guardián de versiones tuyas que casi nadie recuerda: quien eras a los veinticinco, el que dudaba, el que se equivocaba con una generosidad que hoy te da ternura.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Perderlo es perder un archivo de tu identidad. Además, con él se va una forma concreta de reír, un tono de voz que te buscaba, un contexto compartido que nadie más puede reconstruir. En este sentido, el duelo por un amigo incluye una tarea doble: despedir a la persona y despedir a quien tú eras con ella. Por eso cansa tanto.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Lo que despierta en la madurez",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La muerte de un amigo llega, normalmente, antes que otras pérdidas y abre una grieta en la sensación de tener todo el tiempo por delante. Por eso el duelo por un amigo suele activar preguntas dormidas: qué hago con mi vida, con quién quiero compartirla, qué llevo años aplazando. A veces esta pérdida reordena prioridades con una crudeza que ningún propósito de año nuevo consigue.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "También remueve el mapa relacional. A los cuarenta, hacer amigos de verdad cuesta; de hecho, la vida adulta está diseñada para estrechar círculos. Perder a un amigo deja un vacío con efectos ecosistémicos: el grupo se queda mudo, las comidas quedan huérfanas, el ritual compartido se interrumpe. Ahora bien, muchas personas recuperan vínculos dormidos y cuidan con más intención los que quedan.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "La culpa del vínculo libre",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La culpa es una visitante habitual de este duelo: el mensaje no enviado, la llamada pendiente, el año en que os alejasteis. Además, la amistad no tiene obligaciones escritas, y esa libertad deja la puerta abierta a una culpa infinita: nunca se sabe si se estuvo suficiente. Normalmente, sin embargo, hubo mucho más de lo que la memoria dolorosa recuerda.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Parte del trabajo consiste en separar la responsabilidad real de la exigencia imposible. En este sentido, pedir cuenta de lo que dependía de ti es madurez; castigarte por no haber sido perfecto es otra cosa. Al final, un vínculo sostenido durante años ya decía bastante de ti.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Cómo se trabaja el duelo por un amigo en terapia",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Antes de nada, el duelo necesita espacio y lenguaje. Nombrar la pérdida con su tamaño real —«era mi mejor amigo», «hablamos toda la vida»— ya es un acto terapéutico. Además, en consulta se ayuda a localizar qué se ha perdido exactamente: la persona, el papel que ocupaba, la parte de la historia que sostenía, los proyectos compartidos que ya no serán.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "El proceso no consiste en olvidar, sino en reorganizar el vínculo. De hecho, la investigación sobre el duelo ha abandonado la idea de «cerrar y pasar página»: hoy se habla de vínculos que continúan. Por ejemplo, algunas personas mantienen rituales sencillos: escribirle, visitar lugares compartidos, contar su historia a quien no lo conoció. Todo eso es madurez, no debilidad.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Cuándo conviene pedir ayuda",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Cuando el duelo se atasca —insomnio persistente, culpa corrosiva, aislamiento o un desasosiego que no cede al año— conviene consultar. En terapia, normalmente, se trabaja con la pena y también con lo que la amistad enseñaba: qué valores despertaba, qué libertad permitía, qué partes tuyas crecían a su lado.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "Al final, honrar a un amigo también es seguir usando lo que te dejó. En este sentido, la terapia no busca borrar el vacío, sino darle un lugar soportable dentro de una vida que continúa. Además, muchos procesos de duelo necesitan poco más que tiempo, compañía y palabras exactas.",
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "Preguntas frecuentes: el duelo por un amigo",
+
+      },
+
+      {
+
+        type: "faq",
+
+        items: [
+
+          {
+
+            question: "¿Es normal sufrir tanto por la muerte de un amigo?",
+
+            answer: "Sí. De hecho, la intensidad del duelo depende de la profundidad del vínculo, no de su categoría legal. Un amigo de décadas sostiene tanta historia como cualquier otro vínculo.",
+
+          },
+
+        ],
+
+      },
+
+      {
+
+        type: "faq",
+
+        items: [
+
+          {
+
+            question: "¿Cuánto tiempo dura este duelo?",
+
+            answer: "No hay plazo fijo. Normalmente se integra en oleadas cada vez menos intensas; ahora bien, si no baja al año o se complica, conviene consultar.",
+
+          },
+
+        ],
+
+      },
+
+      {
+
+        type: "faq",
+
+        items: [
+
+          {
+
+            question: "¿Cómo acompaño a alguien que vive esta pérdida?",
+
+            answer: "Con presencia y sin minimizar. Por ejemplo, nombrar la pérdida, preguntar por ella y no apresurar el «ya estás bien» ayuda más que cualquier consejo.",
+
+          },
+
+        ],
+
+      },
+
+      {
+
+        type: "heading",
+
+        text: "El lugar que sigue",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "La muerte de un amigo deja una silla vacía que ningún discurso llena. Sin embargo, con el tiempo esa ausencia puede convertirse en un lugar interno: el amigo deja de estar al lado y pasa a estar en la manera en que miras ciertas cosas, en un chiste que solo vosotros entendíais, en una parte de ti que él ayudó a construir.",
+
+      },
+
+      {
+
+        type: "paragraph",
+
+        text: "En definitiva, dolerse tanto no es una exageración: el duelo por un amigo es la prueba de que aquella relación importaba. Si este desgarro te pesa y no encuentra lugar, se puede trabajar. En Espai Emocions acompañamos procesos individuales con adultos, en Barcelona y en línea. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa: los vínculos importantes no se despiden de golpe.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------------------------
+  // 8. menopausia-salud-emocional (cambios vitales, 2026-10-09)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "menopausia-salud-emocional",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Menopausia i salut emocional: més enllà dels sofocs",
+    titleES: "Menopausia y salud emocional: más allá de los sofocos",
+    excerptCA:
+      "Menopausia i salut emocional: ansietat, ànim baix i identitat en trànsit. Què sosté aquesta etapa i com s'acompanya a teràpia.",
+    excerptES:
+      "Menopausia y salud emocional: ansiedad, ánimo bajo e identidad en tránsito. Qué sostiene esta etapa y cómo se acompaña en terapia.",
+    datePublished: "2026-10-09",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Entre menopausia i salut emocional hi ha una relació que encara viu envoltada de silenci. Es parla de sofocs, de cicles que canvien, de visites ginecològiques. Ara bé, gairebé ningú esmenta l'ànim: la tristesa sobtada, la irritabilitat, l'insomni que arriba sense avisar o la sensació de no reconèixer-se. Aquesta etapa mereix nom i companyia, com qualsevol crisi vital adulta.",
+      },
+      {
+        type: "paragraph",
+        text: "A quaranta anys llargs o a cinquanta, moltes persones es troben amb un canvi del qual ningú els havia parlat. De fet, la generació que avui travessa la menopausia va créixer sense paraules per anomenar-la. Per això, quan arriba, se sol viure amb vergonya i en solitari. En aquest sentit, aquesta transició mereix la mateixa profunditat que qualsevol altra crisi adulta: lluny de tòpics, de presses i de silencis.",
+      },
+      {
+        type: "heading",
+        text: "Menopausia i salut emocional: el que passa a dins",
+      },
+      {
+        type: "paragraph",
+        text: "Lo hormonal només és una part. La menopausia no és un fet puntual, sinó una transició que pot durar anys. Durant aquest temps, les hormones baixen de manera irregular. El son canvia, la temperatura canvia, l'energia canvia. A més, la irritabilitat és tan freqüent com malinterpretada: l'entorn la llegeix com a caràcter, quan és malestar. La recerca associa aquesta etapa amb més vulnerabilitat a l'ànim baix i a l'ansietat.",
+      },
+      {
+        type: "paragraph",
+        text: "Tanmateix, l'experiència no és universal. Cada història pesa: com es va viure el propi cicle, la relació amb el cos, la cultura i el context. A vegades, a més, la menopausia arriba abans d'hora: després d'una cirurgia o d'un tractament mèdic. En aquests casos, el dol per la fertilitat es barreja amb la malaltia. De fet, allò físic i allò emocional no van per separat: s'aguanten o es desgasten plegats.",
+      },
+      {
+        type: "heading",
+        text: "Perimenopausa: quan el canvi arriba abans d'avisar",
+      },
+      {
+        type: "paragraph",
+        text: "El cos canvia molt abans de l'última regla. La perimenopausa pot allargar-se anys, amb cicles irregulars, son fràgil i una sensibilitat nova a l'estrès. Moltes dones consulten llavors per ansietat o per insomni, sense relacionar-ho amb la transició. De fet, és habitual atribuir-ho tot a la feina o a l'edat: «suposo que estic saturada». Ara bé, quan el context es calma i l'ànim no es referma, alguna cosa més està passant.",
+      },
+      {
+        type: "paragraph",
+        text: "Posar nom a l'etapa alleuja, i no pas poc. Normalment, la incertesa de no saber què passa multiplica el malestar: es dubta del propi cap, es tem perdre el control i un es culpa per no rendir com abans. En canvi, entendre que hi ha una transició en marxa retorna el marc. Per això convé, a més de la psicoteràpia, una revisió ginecològica que ordeni allò físic.",
+      },
+      {
+        type: "heading",
+        text: "Identitat en trànsit: qui ets mentre tot canvia",
+      },
+      {
+        type: "paragraph",
+        text: "La menopausia també pregunta per la identitat. No és només una etapa hormonal: és un canvi de posició en la pròpia història. Moltes dones travessen aquests anys entre pares que es fan vells, fills que marxen i parelles que es replantegen. A més, una cultura que premia la joventut fa la resta: el cos que canvia fa mal també per la mirada social. De sobte, ocupar espai amb autoritat o amb desig es converteix en una negociació íntima.",
+      },
+      {
+        type: "paragraph",
+        text: "El silenci generacional pesa, a més. Les mares l'anomenaven «l'edat» i l'amagaven, com si fos una derrota. Ara bé, heretar aquella vergonya no obliga a repetir-la. Al capdavall, anomenar aquesta etapa amb naturalitat també és un acte de maduresa: separar la pròpia vàlua del calendari biològic. La pregunta no és aturar l'envelliment, sinó qui decideixes ser mentre passa.",
+      },
+      {
+        type: "heading",
+        text: "El desig i la parella: el que es mou",
+      },
+      {
+        type: "paragraph",
+        text: "En aquesta etapa, el desig també canvia de ritme. En algunes parelles, la intimitat es refreda per esgotament o per silenci. També pesa la por de no encaixar amb la pròpia imatge. De fet, moltes dones descriuen aquests anys com un desert sobtat; tanmateix, sovint és esgotament i silenci acumulats. En canvi, quan la parella sosté la conversa, s'obre una intimitat diferent: menys escenogràfica i més franca.",
+      },
+      {
+        type: "paragraph",
+        text: "La irritabilitat i l'insomni també posen a prova el vincle. Quan una arriba irritable i esgotada, la parella ho rep; tanmateix, poques parelles parlen del que passa de debò. En canvi, sostenir aquesta conversa —cos, desig, cansament, por— canvia el clima de casa. Per això, moltes dones consulten en parella: no perquè el vincle estigui trencat, sinó perquè necessita adaptar-se.",
+      },
+      {
+        type: "heading",
+        text: "Com s'acompanya a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta, el treball comença per donar paraula a l'experiència. Moltes persones arriben amb anys d'autocrítica: «m'esto tornant boja», «ja no valc per al mateix». La teràpia primer ordena el que passa: símptomes, història, context i vincles. Després, obre preguntes més fondes. Quines parts de la identitat depenien del cicle, de la fertilitat o del rol de cuidadora? Quins valors volen ara la paraula? També s'acompanya el dol pel que no serà, sense quedar-s'hi atrapada.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la teràpia coordina mirades quan cal. Si l'insomni o l'ànim baix no cedeixen, convé valorar-ho amb ginecologia o amb psiquiatria. En aquest sentit, acompanyar psicològicament no substitueix el tractament hormonal quan pertoca; ho complementa. La coherència és atendre la persona completa: cos, història i relació. I també respectar el ritme de cadascuna, sense receptes de superació.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la menopausia i les emocions",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "La menopausia causa depressió?",
+            answer:
+              "No directament. Ara bé, la vulnerabilitat augmenta a la perimenopausa, sobretot amb antecedents previs o estrès acumulat. Si l'ànim cau i no es referma en setmanes, convé una valoració professional.",
+          },
+          {
+            question: "Hormones o història: d'on surt el que sento?",
+            answer:
+              "De les dues coses. Les hormones amplifiquen; tanmateix, la història i el context ordenen l'experiència: cures, imatge corporal, vincles i dols propis d'aquesta etapa.",
+          },
+          {
+            question: "Serveix la psicoteràpia si ja segueixo tractament hormonal?",
+            answer:
+              "Sí, treballen plans diferents. El tractament alleuja allò físic; la teràpia acompanya identitat, vincles i coherència. A més, totes dues mirades es poden coordinar quan convingui.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una etapa amb paraula",
+      },
+      {
+        type: "paragraph",
+        text: "La menopausia no és una malaltia ni una decadència: és una transició amb cos, història i sentit. Com tota crisi adulta, demana comprensió abans que pressa. En definitiva, la salut emocional d'aquests anys no depèn de tornar enrere. Depèn de sostenir qui ets mentre tot canvia. També de dir-ho en veu alta, encara que ningú ho hagi fet abans.",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquesta etapa et pesa més del que sembla, es pot acompanyar. A Espai Emocions treballem amb adults en processos de canvi vital, a Barcelona i en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Sense presses i sense tòpics: aquesta transició, com totes, mereix paraules exactes.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Entre menopausia y salud emocional existe una relación que sigue envuelta en silencio. Se habla de sofocos, de ciclos que cambian, de visitas ginecológicas. Ahora bien, casi nadie menciona el ánimo: la tristeza repentina, la irritabilidad, el insomnio que llega sin avisar o la sensación de no reconocerse. Esta etapa merece nombre y compañía, como cualquier crisis vital adulta.",
+      },
+      {
+        type: "paragraph",
+        text: "A los cuarenta y tantos o a los cincuenta, muchos se encuentran con un cambio del que nadie les habló. De hecho, la generación que hoy atraviesa la menopausia creció sin palabras para nombrarla. Por eso, cuando llega, suele vivirse con vergüenza y a solas. En este sentido, esta transición merece la misma profundidad que cualquier otra crisis adulta: lejos de tópicos, de prisa y de silencios.",
+      },
+      {
+        type: "heading",
+        text: "Menopausia y salud emocional: lo que ocurre dentro",
+      },
+      {
+        type: "paragraph",
+        text: "Lo hormonal es solo una parte. La menopausia no es un suceso puntual, sino una transición que puede abarcar varios años. Durante ese tiempo, las hormonas descienden de forma irregular. El sueño cambia, la temperatura cambia, la energía cambia. Además, la irritabilidad es tan frecuente como malinterpretada: el entorno la lee como carácter, cuando es malestar. La investigación asocia esta etapa con más vulnerabilidad al ánimo bajo y a la ansiedad.",
+      },
+      {
+        type: "paragraph",
+        text: "Sin embargo, la experiencia no es universal. Cada historia pesa: el modo en que se vivió el propio ciclo, la relación con el cuerpo, la cultura y el contexto. A veces, además, la menopausia llega antes de tiempo: tras una cirugía o un tratamiento médico. En esos casos, el duelo por la fertilidad se mezcla con la enfermedad. De hecho, lo físico y lo emocional no van por separado: se sostienen o se desgastan juntos.",
+      },
+      {
+        type: "heading",
+        text: "Perimenopausia: cuando el cambio llega antes de avisar",
+      },
+      {
+        type: "paragraph",
+        text: "El cuerpo cambia mucho antes de la última regla. La perimenopausia puede extenderse varios años, con ciclos irregulares, sueño frágil y una sensibilidad nueva al estrés. Muchas mujeres consultan entonces por ansiedad o por insomnio, sin conectarlo con la transición. De hecho, es habitual atribuirlo todo al trabajo o a la edad: «supongo que estoy saturada». Ahora bien, cuando el contexto se calma y el ánimo no remonta, algo más está ocurriendo.",
+      },
+      {
+        type: "paragraph",
+        text: "Poner nombre a la etapa alivia, y no poco. Normalmente, la incertidumbre de no saber qué pasa multiplica el malestar: se duda de la propia cabeza, se teme perder el control y se culpa una por no rendir como antes. En cambio, comprender que hay una transición en curso devuelve el marco. Por eso conviene, además de la psicoterapia, una revisión ginecológica que ordene lo físico.",
+      },
+      {
+        type: "heading",
+        text: "Identidad en tránsito: quién eres mientras todo cambia",
+      },
+      {
+        type: "paragraph",
+        text: "La menopausia también pregunta por la identidad. No es solo una etapa hormonal: es un cambio de posición en la propia historia. Muchas mujeres atraviesan estos años entre padres que envejecen, hijos que se van y parejas que se replantean. Además, una cultura que premia la juventud hace el resto: el cuerpo que cambia duele también por la mirada social. De repente, ocupar espacio con autoridad o con deseo se vuelve una negociación íntima.",
+      },
+      {
+        type: "paragraph",
+        text: "El silencio generacional pesa, además. Las madres la llamaban «la edad» y la escondían, como si fuera una derrota. Ahora bien, heredar esa vergüenza no obliga a repetirla. Al final, nombrar esta etapa con naturalidad también es un acto de madurez: separar la propia valía del calendario biológico. La pregunta no es frenar el envejecimiento, sino quién decides ser mientras ocurre.",
+      },
+      {
+        type: "heading",
+        text: "El deseo y la pareja: lo que se mueve",
+      },
+      {
+        type: "paragraph",
+        text: "En esta etapa, el deseo también cambia de ritmo. En algunas parejas, la intimidad se enfría por agotamiento o por silencio. También pesa el miedo de no encajar con la propia imagen. De hecho, muchas mujeres describen estos años como un desierto súbito; sin embargo, casi siempre hay agotamiento y silencio acumulados. En cambio, cuando la pareja sostiene la conversación, se abre una intimidad distinta: menos escenográfica y más franca.",
+      },
+      {
+        type: "paragraph",
+        text: "La irritabilidad y el insomnio también ponen a prueba el vínculo. Cuando alguien llega irritable y agotado, la pareja lo recibe; sin embargo, pocas parejas hablan de lo que pasa de verdad. En cambio, sostener esa conversación —cuerpo, deseo, cansancio, miedo— cambia el clima de casa. Por eso, muchas mujeres consultan en pareja: no porque el vínculo esté roto, sino porque necesita adaptarse.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se acompaña en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, el trabajo empieza por dar palabra a la experiencia. Muchas personas llegan con años de autocrítica: «me estoy volviendo loca», «ya no valgo para lo mismo». La terapia primero ordena lo que ocurre: síntomas, historia, contexto y vínculos. Después, abre preguntas más hondas. ¿Qué partes de la identidad dependían del ciclo, de la fertilidad o del rol de cuidadora? ¿Qué valores quieren la palabra ahora? También se acompaña el duelo por lo que no será, sin quedar atrapada en él.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la terapia coordina miradas cuando hace falta. Si el insomnio o el ánimo bajo no ceden, conviene valorarlo con ginecología o con psiquiatría. En este sentido, acompañar psicológicamente no sustituye el tratamiento hormonal cuando procede; lo complementa. La coherencia está en atender a la persona completa: cuerpo, historia y relación. Y también en respetar el ritmo de cada una, sin recetas de superación.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la menopausia y las emociones",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿La menopausia causa depresión?",
+            answer:
+              "No directamente. Ahora bien, la vulnerabilidad aumenta en la perimenopausia, sobre todo con antecedentes previos o estrés acumulado. Si el ánimo cae y no remonta en semanas, conviene una valoración profesional.",
+          },
+          {
+            question: "¿Hormonas o historia: de dónde sale lo que siento?",
+            answer:
+              "De las dos cosas. Las hormonas amplifican; sin embargo, la historia y el contexto ordenan la experiencia: cuidados, imagen corporal, vínculos y duelos propios de esta etapa.",
+          },
+          {
+            question: "¿Sirve la psicoterapia si ya sigo un tratamiento hormonal?",
+            answer:
+              "Sí, trabajan planos distintos. El tratamiento alivia lo físico; la terapia acompaña identidad, vínculos y coherencia. Además, ambas miradas pueden coordinarse cuando convenga.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una etapa con palabra",
+      },
+      {
+        type: "paragraph",
+        text: "La menopausia no es una enfermedad ni una decadencia: es una transición con cuerpo, historia y sentido. Como toda crisis adulta, pide comprensión antes que prisa. En definitiva, la salud emocional de estos años no depende de volver atrás. Depende de sostener quién eres mientras todo cambia. También de decirlo en voz alta, aunque nadie lo haya hecho antes.",
+      },
+      {
+        type: "paragraph",
+        text: "Si esta etapa te pesa más de lo que parece, se puede acompañar. En Espai Emocions trabajamos con adultos en procesos de cambio vital, en Barcelona y en línea. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Sin prisa y sin tópicos: esta transición, como todas, merece palabras exactas.",
+      },
+    ],
   },
 ];

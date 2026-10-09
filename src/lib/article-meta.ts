@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "menopausia-salud-emocional",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Menopausia i salut emocional: més enllà dels sofocs",
+    "titleES": "Menopausia y salud emocional: más allá de los sofocos",
+    "excerptCA": "Menopausia i salut emocional: ansietat, ànim baix i identitat en trànsit. Què sosté aquesta etapa i com s'acompanya a teràpia.",
+    "excerptES": "Menopausia y salud emocional: ansiedad, ánimo bajo e identidad en tránsito. Qué sostiene esta etapa y cómo se acompaña en terapia.",
+    "datePublished": "2026-10-09"
+  },
+  {
     "slug": "duelo-por-un-amigo",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
