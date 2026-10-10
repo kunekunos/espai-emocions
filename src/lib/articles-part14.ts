@@ -2116,4 +2116,207 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 9. soledad-en-la-pareja (pareja, 2026-10-10)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "soledad-en-la-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "Solitud a la parella: sentir-te sol compartint vida",
+    titleES: "Soledad en la pareja: sentirse solo compartiendo vida",
+    excerptCA:
+      "La solitud a la parella no sempre anuncia el final: què la sosté, per què apareix després d'anys i com es treballa a teràpia de parella.",
+    excerptES:
+      "La soledad en la pareja no siempre anuncia el final: qué la sostiene, por qué aparece después de años y cómo se trabaja en terapia de pareja.",
+    datePublished: "2026-10-10",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La solitud a la parella és una de les experiències més confuses que existeixen. Esteu acompanyats, compartiu casa, rutina i potser fills; tanmateix, per dins et sents sol. A vegades fa més mal que qualsevol discussió, perquè no hi ha res evident que assenyalar. De fet, moltes persones dubten abans de consultar-ho: «com estaré sol si tinc parella?». Aquesta pregunta mereix una resposta seriosa.",
+      },
+      {
+        type: "paragraph",
+        text: "Sentir-te sol dins d'una relació no vol dir que el vincle estigui condemnat. Tampoc que siguis tu el problema. La solitud apareix quan la connexió emocional es va apagant, i això pot passar als dos anys o als vint. En aquest sentit, aquest malestar mereix profunditat: d'on surt, què diu de la relació i com es recupera la presència compartida.",
+      },
+      {
+        type: "heading",
+        text: "Solitud a la parella: un malestar invisible",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest malestar és difícil de nomenar davant dels altres. Normalment, les parelles que el viuen segueixen funcionant en públic: feina, amics, plans familiars. Ningú discuteix de manera escandalosa; ara bé, dins de casa la conversa es redueix a la logística. Qui recull els fills, què es soparà, el banc i les factures. La convivència s'ordena, però la intimitat desapareix.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, qui ho viu sol callar-ho per vergonya. Comparar per dins amb altres parelles que semblen riure sempre no ajuda. Per això moltes persones aguanten anys sense dir-ho en veu alta, fins que un dia la distància ja sembla part del caràcter del vincle. En canvi, anomenar la solitud és el primer pas per entendre-la.",
+      },
+      {
+        type: "heading",
+        text: "Com s'instal·la la distància",
+      },
+      {
+        type: "paragraph",
+        text: "La solitud rarament arriba de cop. De fet, es construeix en petits ajornaments: converses que es deixen per demà, desig que no s'esmenta, conflictes que s'eviten per no discutir. Cada evitació protegeix del malestar immediat; tanmateix, també treu una peça del vincle. Després d'un temps, la parella es desperta en una casa silenciosa sense saber quan es van apagar els llums.",
+      },
+      {
+        type: "paragraph",
+        text: "El context també pesa. Feines exigents, criança, pares que es fan grans, pantalles: tot competeix contra el temps compartit. A més, en la maduresa adulta cadascú canvia: creixen interessos, valors i preguntes noves. Si la relació no acompanya aquests canvis, dues persones poden seguir estimant-se i, al mateix temps, viure en mons paral·lels. Per això la solitud no sempre és manca d'amor; moltes vegades és manca de contacte.",
+      },
+      {
+        type: "heading",
+        text: "Què diu la solitud de la relació",
+      },
+      {
+        type: "paragraph",
+        text: "Sentir-te sol en parella sol assenyalar que alguna cosa del vincle demana renovació. A vegades és un dol: la parella que era ja no existeix i la que ve encara no té forma. Altres vegades és una queixa no dita: ràbia, decepció o cansament que mai va trobar paraula. La solitud funciona llavors com a missatgera; per això convé escoltar-la abans de tapar-la.",
+      },
+      {
+        type: "paragraph",
+        text: "També pot reflectir alguna cosa més personal. Per exemple, qui mai va aprendre a mostrar-se en la seva història familiar pot seguir sense fer-ho en la parella, i sentir-se invisible fins i tot sentint-se estimat. En aquest sentit, la teràpia distingeix allò que pertany al vincle d'allò que pertany a la pròpia història. A més, la responsabilitat gairebé mai és d'un de sol: la distància es construeix entre dos.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "A la teràpia, el treball comença per tornar la paraula a l'experiència. Moltes parelles porten anys sense dir «em sento sol» dins de casa; tanmateix, ho diuen tot el temps de manera indirecta: retrets, ironia, cansament. L'espai terapèutic ordena aquesta confusió i permet escoltar-se sense interrupcions ni defensa. De fet, sovint és la primera conversa real en mesos.",
+      },
+      {
+        type: "paragraph",
+        text: "Després, el procés s'aprofundeix. Quines parts de cadascú van deixar de tenir lloc a la relació? Què s'espera de l'altre i del propi lloc? Quina història d'origen es repeteix aquí? La maduresa del vincle no consisteix a recuperar la parella inicial, sinó a construir presència sobre qui sou avui. A més, quan la solitud arrela en el personal, la teràpia individual pot complementar el treball.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: solitud a la parella",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Sentir-se sol en parella vol dir que la relació s'ha acabat?",
+            answer:
+              "No necessàriament. La solitud sol indicar distància emocional, no manca d'amor. De fet, moltes parelles recuperen la connexió en anomenar el malestar. Ara bé, si després del treball compartit no hi ha canvi, cal revisar amb calma quin lloc vol ocupar cadascú.",
+          },
+          {
+            question: "És millor callar-ho per no empitjorar les coses?",
+            answer:
+              "No. El silenci protegeix a curt termini; tanmateix, alimenta la distància a llarg termini. Normalment, expressar-ho amb cura («em sento sol, vull canviar-ho») obre una conversa diferent del retret. Si costa fer-ho a casa, la teràpia ofereix un lloc segur per començar.",
+          },
+          {
+            question: "Quan convé teràpia de parella i quan individual?",
+            answer:
+              "Depèn del malestar. Si la solitud neix del vincle, la teràpia de parella sol ser la via principal. En canvi, si arrela en la història personal, la individual pot acompanyar millor. A vegades, totes dues es combinen al llarg del procés.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Tornar a triar el vincle",
+      },
+      {
+        type: "paragraph",
+        text: "La solitud a la parella, encara que faci mal, també pot ser un punt de gir. Al capdavall, moltes relacions madures no es salven per atzar: es salven perquè algú diu en veu alta que falta alguna cosa. Anomenar la distància és un acte de responsabilitat, i també de respecte per la història compartida.",
+      },
+      {
+        type: "paragraph",
+        text: "Si et reconeixes en aquestes línies, es pot treballar. A Espai Emocions acompanyem parelles i adults a Barcelona i en línia, amb calma i sense judicis. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. La solitud no es resol sola; en canvi, un vincle amb presència sí que es pot reconstruir.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La soledad en la pareja es una de las experiencias más confusas que existen. Estáis acompañados, compartís casa, rutina y quizá hijos; sin embargo, por dentro te sientes solo. A veces duele más que cualquier discusión, porque no hay nada evidente que señalar. De hecho, muchas personas dudan antes de consultarlo: «¿cómo voy a estar solo si tengo pareja?». Esa pregunta merece una respuesta seria.",
+      },
+      {
+        type: "paragraph",
+        text: "Sentirte solo dentro de una relación no significa que el vínculo esté condenado. Tampoco que tú seas el problema. La soledad aparece cuando la conexión emocional se va apagando, y eso puede ocurrir a los dos años o a los veinte. En este sentido, este malestar merece profundidad: de dónde sale, qué dice de la relación y cómo se recupera la presencia compartida.",
+      },
+      {
+        type: "heading",
+        text: "Soledad en la pareja: un malestar invisible",
+      },
+      {
+        type: "paragraph",
+        text: "Este malestar es difícil de nombrar ante los demás. Normalmente, las parejas que lo viven siguen funcionando en público: trabajo, amigos, planes familiares. Nadie discute de forma escandalosa; ahora bien, dentro de casa la conversación se reduce a la logística. Quién recoge a los niños, qué se cena, el banco y las facturas. La convivencia se ordena, pero la intimidad desaparece.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, quien lo vive suele callarlo por vergüenza. Comparar por dentro con otras parejas que parecen reírse siempre no ayuda. Por eso muchas personas aguantan años sin decirlo en voz alta, hasta que un día la distancia ya parece parte del carácter del vínculo. En cambio, nombrar la soledad es el primer paso para entenderla.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se instala la distancia",
+      },
+      {
+        type: "paragraph",
+        text: "La soledad rara vez llega de golpe. De hecho, se construye en pequeños aplazamientos: conversaciones que se dejan para mañana, deseo que no se menciona, conflictos que se evitan para no discutir. Cada evitación protege del malestar inmediato; sin embargo, también retira una pieza del vínculo. Después de un tiempo, la pareja despierta en una casa silenciosa sin saber cuándo se apagaron las luces.",
+      },
+      {
+        type: "paragraph",
+        text: "El contexto también pesa. Trabajos exigentes, crianza, padres que envejecen, pantallas: todo compite contra el tiempo compartido. Además, en la madurez adulta cada uno cambia: crecen intereses, valores y preguntas nuevas. Si la relación no acompaña esos cambios, dos personas pueden seguir queriéndose y, al mismo tiempo, vivir en mundos paralelos. Por eso la soledad no siempre es falta de amor; muchas veces es falta de contacto.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la soledad dice de la relación",
+      },
+      {
+        type: "paragraph",
+        text: "Sentirse solo en pareja suele señalar que algo del vínculo pide renovación. A veces es un duelo: la pareja que era ya no existe y la que viene todavía no tiene forma. Otras veces es una queja no dicha: rabia, decepción o cansancio que nunca encontró palabra. La soledad funciona entonces como mensajera; por eso conviene escucharla antes de taparla.",
+      },
+      {
+        type: "paragraph",
+        text: "También puede reflejar algo más personal. Por ejemplo, quien nunca aprendió a mostrarse en su historia familiar puede seguir sin hacerlo en la pareja, y sentirse invisible incluso sintiéndose querido. En este sentido, la terapia distingue lo que pertenece al vínculo de lo que pertenece a la propia historia. Además, la responsabilidad casi nunca es de uno solo: la distancia se construye entre dos.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, el trabajo empieza por devolver palabra a la experiencia. Muchas parejas llevan años sin decir «me siento solo» dentro de casa; sin embargo, lo dicen todo el tiempo de forma indirecta: reproches, ironía, cansancio. El espacio terapéutico ordena esa confusión y permite escucharse sin interrupciones ni defensiva. De hecho, a menudo es la primera conversación real en meses.",
+      },
+      {
+        type: "paragraph",
+        text: "Después, el proceso profundiza. ¿Qué partes de cada uno dejaron de tener sitio en la relación? ¿Qué se espera del otro y del propio lugar? ¿Qué historia de origen se repite aquí? La madurez del vínculo no consiste en recuperar la pareja inicial, sino en construir presencia sobre quienes sois hoy. Además, cuando la soledad hunde raíces en lo personal, la terapia individual puede complementar el trabajo.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: soledad en la pareja",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Sentirse solo en pareja significa que la relación se ha acabado?",
+            answer:
+              "No necesariamente. La soledad suele indicar distancia emocional, no falta de amor. De hecho, muchas parejas recuperan la conexión al nombrar el malestar. Ahora bien, si tras el trabajo compartido no hay cambio, conviene revisar con calma qué lugar quiere ocupar cada uno.",
+          },
+          {
+            question: "¿Es mejor callarlo para no empeorar las cosas?",
+            answer:
+              "No. El silencio protege a corto plazo; sin embargo, alimenta la distancia a largo plazo. Normalmente, expresarlo con cuidado («me siento solo, quiero cambiarlo») abre una conversación distinta al reproche. Si cuesta hacerlo en casa, la terapia ofrece un lugar seguro para empezar.",
+          },
+          {
+            question: "¿Cuándo conviene terapia de pareja y cuándo individual?",
+            answer:
+              "Depende del malestar. Si la soledad nace del vínculo, la terapia de pareja suele ser la vía principal. En cambio, si hunde raíces en la historia personal, la individual puede acompañar mejor. A veces, ambas se combinan a lo largo del proceso.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Volver a elegir el vínculo",
+      },
+      {
+        type: "paragraph",
+        text: "La soledad en la pareja, aunque duela, también puede ser un punto de giro. Al final, muchas relaciones maduras no se salvan por azar: se salvan porque alguien dice en voz alta que falta algo. Nombrar la distancia es un acto de responsabilidad, y también de respeto por la historia compartida.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te reconoces en estas líneas, se puede trabajar. En Espai Emocions acompañamos a parejas y a adultos en Barcelona y online, con calma y sin juicios. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. La soledad no se resuelve sola; en cambio, un vínculo con presencia sí se puede reconstruir.",
+      },
+    ],
+  },
 ];

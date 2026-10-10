@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "soledad-en-la-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Solitud a la parella: sentir-te sol compartint vida",
+    "titleES": "Soledad en la pareja: sentirse solo compartiendo vida",
+    "excerptCA": "La solitud a la parella no sempre anuncia el final: què la sosté, per què apareix després d'anys i com es treballa a teràpia de parella.",
+    "excerptES": "La soledad en la pareja no siempre anuncia el final: qué la sostiene, por qué aparece después de años y cómo se trabaja en terapia de pareja.",
+    "datePublished": "2026-10-10"
+  },
+  {
     "slug": "menopausia-salud-emocional",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
