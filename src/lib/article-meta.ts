@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "andropausia-salud-emocional",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Andropausia i salut emocional: el canvi silenciós",
+    "titleES": "Andropausia y salud emocional: el cambio silencioso",
+    "excerptCA": "L'andropausia no és només hormonal: vitalitat baixa, irritabilitat i identitat en revisió. Què la sosté i com s'acompanya a teràpia.",
+    "excerptES": "La andropausia no es solo hormonal: vitalidad baja, irritabilidad e identidad en revisión. Qué la sostiene y cómo se acompaña en terapia.",
+    "datePublished": "2026-10-11"
+  },
+  {
     "slug": "soledad-en-la-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

@@ -2319,4 +2319,224 @@ export const articlesPart14: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 10. andropausia-salud-emocional (cambios vitales, 2026-10-11)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "andropausia-salud-emocional",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Andropausia i salut emocional: el canvi silenciós",
+    titleES: "Andropausia y salud emocional: el cambio silencioso",
+    excerptCA:
+      "L'andropausia no és només hormonal: vitalitat baixa, irritabilitat i identitat en revisió. Què la sosté i com s'acompanya a teràpia.",
+    excerptES:
+      "La andropausia no es solo hormonal: vitalidad baja, irritabilidad e identidad en revisión. Qué la sostiene y cómo se acompaña en terapia.",
+    datePublished: "2026-10-11",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "L'andropausia és, probablement, el canvi vital més silenciós de l'home adult. No té una data clara al calendari ni cap paper que la certifiqui; tan sols apareixen senyals disperses: un cansament diferent, un ànim més pla, una irritabilitat que abans no existia. Molts homes d'entre quaranta i seixanta anys les noten i no saben com anomenar-les. De fet, la majoria no les comenta amb ningú.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest text posa nom a aquesta transició i la mira sense alarmisme. No és un diagnòstic, perquè cada cos i cada història són diferents. Ara bé, entendre què passa ajuda a travessar-ho amb més responsabilitat: distingir el biològic, el biogràfic i l'existencial. En aquest sentit, l'andropausia també pot convertir-se en una ocasió de maduresa.",
+      },
+      {
+        type: "heading",
+        text: "Què és i què no és l'andropausia",
+      },
+      {
+        type: "paragraph",
+        text: "L'andropausia fa referència al descens gradual de testosterona que es produeix als homes a partir dels quaranta o cinquanta anys. A diferència de la menopausia, no atura cap funció de manera brusca ni afecta tothom igual. Per això molts professionals prefereixen parlar d'un canvi hormonal lent abans que d'una malaltia. La paraula importa menys que l'experiència.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, convé desmuntar un mite: aquest canvi no és el final de la virilitat ni anuncia vellesa. És una etapa més del cicle vital, tan natural com l'adolescència, però molt menys acompanyada socialment. En canvi, el silenci que l'envolta converteix un procés normal en una font de vergonya. Anomenar-lo ja és, de fet, un primer gest de salut.",
+      },
+      {
+        type: "heading",
+        text: "Com es nota al cos i a l'ànim",
+      },
+      {
+        type: "paragraph",
+        text: "Al cos, les senyals solen ser un cansament que no descansa, menys força física, canvis a la son i al desig, i una recuperació més lenta després de l'esforç. Cap senyal no és dramàtica per separat; totes juntes, tanmateix, dibuixen un clima nou. Normalment, l'home es compara amb qui era fa cinc anys i no reconeix el d'ara.",
+      },
+      {
+        type: "paragraph",
+        text: "A l'ànim apareixen irritabilitat, tristesa de baixa intensitat i una pèrdua d'interès que es confon amb esgotament laboral. De fet, molts homes arriben a consulta pensant que tenen un problema de feina quan el problema és més ample. La diferència amb la depressió importa; ara bé, tots dos quadres es poden creuar. Per això convé una mirada professional que ordeni el conjunt.",
+      },
+      {
+        type: "heading",
+        text: "La revisió de vida que porta incorporada",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest canvi hormonal coincideix gairebé sempre amb una època de balanç. Fills que creixen o marxen, pares que envelliren, una feina que ja no il·lusiona, un cos que demana un altre ritme. El context amplifica el biològic. En aquest sentit, l'andropausia funciona com un mirall: obliga a preguntar-se qui s'és quan la identitat ja no s'aguanta amb el mateix rendiment.",
+      },
+      {
+        type: "paragraph",
+        text: "Molts homes hi descobreixen una crisi de coherència. Van viure dècades complint expectatives alienes i, de cop, el motor s'atura un moment. Apareixen preguntes incòmodes: què vull jo, què he fet amb la meva història, quins vincles vull cuidar. A més, per temudes que siguin, també són una porta. La maduresa consisteix, precisament, a sostenir-les sense fugir.",
+      },
+      {
+        type: "heading",
+        text: "Parella, desig i paraula",
+      },
+      {
+        type: "paragraph",
+        text: "A la parella, aquest trànsit també deixa petjada. El desig canvia de forma, la paciència s'escurça i la comunicació pot relliscar cap al silenci. A més, moltes parelles viuen aquesta època alhora o a prop, i això multiplica els malentesos. Per això convé traduir el canvi en paraules compartides; si no, cadascú interpreta a la seva manera i la distància creix.",
+      },
+      {
+        type: "paragraph",
+        text: "Parlar-ne no és fàcil per a qui va aprendre que un home no explica el que sent. Tanmateix, dir què passa alleuja més que callar-ho. En aquest sentit, la parella que acompanya aquest canvi sol sortir més forta de l'altre costat.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta, el treball comença per distingir capes. Quina part del malestar és hormonal, quina biogràfica i quina existencial? Per respondre-ho, a vegades convé coordinar-se amb medicina per revisar l'estat físic. Després, la teràpia obre un espai on el rendiment no mesura el valor de la persona. Allà s'exploren la història, els vincles i els valors que sostenen la identitat.",
+      },
+      {
+        type: "paragraph",
+        text: "L'objectiu no és tornar als trenta anys. És integrar el canvi amb coherència: acceptar el que ja no depèn d'un i actuar sobre el que sí. L'autonomia adulta també es guanya així, triant com habitar aquesta etapa. Al capdavall, moltes persones descriuen el procés com una segona oportunitat per conèixer-se.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: andropausia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "L'andropausia afecta tots els homes?",
+            answer:
+              "El descens hormonal es produeix en general; ara bé, la seva intensitat i el seu impacte emocional varien molt. De fet, hi ha homes que tot just el noten i d'altres que viuen una crisi profunda. La història personal pesa tant com la biologia.",
+          },
+          {
+            question: "Es confon amb la depressió?",
+            answer:
+              "A vegades s'assemblen: ànim baix, cansament, pèrdua d'interès. Tanmateix, la depressió és un quadre clínic que necessita el seu propi tractament. Quan el malestar dura setmanes o limita la vida quotidiana, cal una avaluació professional seriosa.",
+          },
+          {
+            question: "Quan convé consultar?",
+            answer:
+              "Quan el malestar persisteix, quan l'ànim baixa o quan la relació pateix. Consultar no és feblesa; de fet, és un acte de responsabilitat amb la pròpia vida. La primera visita serveix per ordenar el quadre i decidir plegats els passos.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un canvi amb paraula",
+      },
+      {
+        type: "paragraph",
+        text: "L'andropausia no és una derrota ni una malaltia: és una transició que demana ser habitada. Igual que la menopausia, mereix informació, companyia i criteri. Si et reconeixes en aquestes línies, pots demanar una primera visita a Espai Emocions, a Barcelona o en línia. Acompanyem homes adults a travessar aquest canvi amb calma, profunditat i sense judicis. Anomenar el que passa és, a més, començar a viure'l d'una altra manera.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La andropausia es, probablemente, el cambio vital más silencioso del hombre adulto. No tiene una fecha clara en el calendario ni ningún papel que la certifique; tan solo aparecen señales dispersas: un cansancio distinto, un ánimo más plano, una irritabilidad que antes no existía. Muchos hombres de entre cuarenta y sesenta años las notan y no saben cómo llamarlas. De hecho, la mayoría no las comenta con nadie.",
+      },
+      {
+        type: "paragraph",
+        text: "Este texto pone nombre a esa transición y la mira sin alarmismo. No es un diagnóstico, porque cada cuerpo y cada historia son diferentes. Ahora bien, entender qué ocurre ayuda a atravesarlo con más responsabilidad: distinguir lo biológico, lo biográfico y lo existencial. En este sentido, la andropausia también puede convertirse en una ocasión de madurez.",
+      },
+      {
+        type: "heading",
+        text: "Qué es y qué no es la andropausia",
+      },
+      {
+        type: "paragraph",
+        text: "La andropausia hace referencia al descenso gradual de testosterona que se produce en los hombres a partir de los cuarenta o cincuenta años. A diferencia de la menopausia, no detiene ninguna función de forma brusca ni afecta a todos por igual. Por eso muchos profesionales prefieren hablar de un cambio hormonal lento antes que de una enfermedad. La palabra importa menos que la experiencia.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, conviene desmontar un mito: este cambio no es el final de la virilidad ni anuncia vejez. Es una etapa más del ciclo vital, tan natural como la adolescencia, aunque mucho menos acompañada socialmente. En cambio, el silencio que la rodea convierte un proceso normal en una fuente de vergüenza. Nombrarlo ya es, de hecho, un primer gesto de salud.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se nota en el cuerpo y en el ánimo",
+      },
+      {
+        type: "paragraph",
+        text: "En el cuerpo, las señales suelen ser un cansancio que no descansa, menos fuerza física, cambios en el sueño y el deseo, y una recuperación más lenta después del esfuerzo. Ninguna señal es dramática por separado; todas juntas, sin embargo, dibujan un clima nuevo. Normalmente, el hombre se compara con quien era hace cinco años y no reconoce al de ahora.",
+      },
+      {
+        type: "paragraph",
+        text: "En el ánimo aparecen irritabilidad, tristeza de baja intensidad y una pérdida de interés que se confunde con agotamiento laboral. De hecho, muchos hombres llegan a consulta pensando que tienen un problema de trabajo cuando el problema es más ancho. La diferencia con la depresión importa; ahora bien, ambos cuadros pueden cruzarse. Por eso conviene una mirada profesional que ordene el conjunto.",
+      },
+      {
+        type: "heading",
+        text: "La revisión de vida que trae incorporada",
+      },
+      {
+        type: "paragraph",
+        text: "Este cambio hormonal coincide casi siempre con una época de balance. Hijos que crecen o se van, padres que envejecen, un trabajo que ya no ilusiona, un cuerpo que pide otro ritmo. El contexto amplifica lo biológico. En este sentido, la andropausia funciona como un espejo: obliga a preguntarse quién se es cuando la identidad ya no se sostiene con el mismo rendimiento.",
+      },
+      {
+        type: "paragraph",
+        text: "Muchos hombres descubren ahí una crisis de coherencia. Vivieron décadas cumpliendo expectativas ajenas y, de pronto, el motor se detiene un momento. Aparecen preguntas incómodas: qué quiero yo, qué hice con mi historia, qué vínculos quiero cuidar. Además, por temidas que sean, también son una puerta. La madurez consiste, precisamente, en sostenerlas sin huir.",
+      },
+      {
+        type: "heading",
+        text: "Pareja, deseo y palabra",
+      },
+      {
+        type: "paragraph",
+        text: "En la pareja, este tránsito también deja huella. El deseo cambia de forma, la paciencia se acorta y la comunicación puede resbalar hacia el silencio. Además, muchas parejas viven esta época a la vez o cerca, y eso multiplica los malentendidos. Por eso conviene traducir el cambio en palabras compartidas; si no, cada uno interpreta a su manera y la distancia crece.",
+      },
+      {
+        type: "paragraph",
+        text: "Hablarlo no es fácil para quien aprendió que un hombre no explica lo que siente. Sin embargo, decir qué ocurre alivia más que callarlo. En este sentido, la pareja que acompaña este cambio suele salir más fuerte al otro lado.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, el trabajo empieza por distinguir capas. ¿Qué parte del malestar es hormonal, cuál biográfica y cuál existencial? Para responderlo, a veces conviene coordinarse con medicina para revisar el estado físico. Después, la terapia abre un espacio donde el rendimiento no mide el valor de la persona. Allí se exploran la historia, los vínculos y los valores que sostienen la identidad.",
+      },
+      {
+        type: "paragraph",
+        text: "El objetivo no es volver a los treinta años. Es integrar el cambio con coherencia: aceptar lo que ya no depende de uno y actuar sobre lo que sí. La autonomía adulta también se gana así, eligiendo cómo habitar esta etapa. Al final, muchas personas describen el proceso como una segunda oportunidad para conocerse.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: andropausia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿La andropausia afecta a todos los hombres?",
+            answer:
+              "El descenso hormonal se produce en general; ahora bien, su intensidad y su impacto emocional varían mucho. De hecho, hay hombres que apenas lo notan y otros que viven una crisis profunda. La historia personal pesa tanto como la biología.",
+          },
+          {
+            question: "¿Se confunde con la depresión?",
+            answer:
+              "A veces se parecen: ánimo bajo, cansancio, pérdida de interés. Sin embargo, la depresión es un cuadro clínico que necesita su propio tratamiento. Cuando el malestar dura semanas o limita la vida diaria, conviene una evaluación profesional seria.",
+          },
+          {
+            question: "¿Cuándo conviene consultar?",
+            answer:
+              "Cuando el malestar persiste, cuando el ánimo cae o cuando la relación sufre. Consultar no es debilidad; de hecho, es un acto de responsabilidad con la propia vida. La primera visita sirve para ordenar el cuadro y decidir juntos los pasos.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un cambio con palabra",
+      },
+      {
+        type: "paragraph",
+        text: "La andropausia no es una derrota ni una enfermedad: es una transición que pide ser habitada. Igual que la menopausia, merece información, compañía y criterio. Si te reconoces en estas líneas, puedes pedir una primera visita en Espai Emocions, en Barcelona o online. Acompañamos a hombres adultos a atravesar este cambio con calma, profundidad y sin juicios. Nombrar lo que ocurre es, además, empezar a vivirlo de otra manera.",
+      },
+    ],
+  },
 ];
