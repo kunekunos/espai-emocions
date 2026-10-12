@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "amistad-con-expareja",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Amistat amb una ex parella: quan el vincle no s'acaba",
+    "titleES": "Amistad con una expareja: cuando el vínculo no termina",
+    "excerptCA": "Es pot tenir amistat amb una ex parella? Què exigeix aquesta transició, per què a vegades fa mal sostenir-la i quan convé deixar anar el contacte amb cura.",
+    "excerptES": "¿Se puede tener amistad con una expareja? Qué exige esa transición, por qué a veces duele sostenerla y cuándo conviene soltar el contacto con cuidado.",
+    "datePublished": "2026-10-12"
+  },
+  {
     "slug": "andropausia-salud-emocional",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",

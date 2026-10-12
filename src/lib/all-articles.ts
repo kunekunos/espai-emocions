@@ -12,6 +12,7 @@ import { articlesPart11 } from "@/lib/articles-part11";
 import { articlesPart12 } from "@/lib/articles-part12";
 import { articlesPart13 } from "@/lib/articles-part13";
 import { articlesPart14 } from "@/lib/articles-part14";
+import { articlesPart15 } from "@/lib/articles-part15";
 
 export const allArticles = [
   ...articles,
@@ -28,4 +29,5 @@ export const allArticles = [
   ...articlesPart12,
   ...articlesPart13,
   ...articlesPart14,
+  ...articlesPart15,
 ];
