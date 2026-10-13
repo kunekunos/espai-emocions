@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "baja-por-ansiedad",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "Baixa per ansietat: quan el cos diu prou",
+    "titleES": "Baja por ansiedad: cuando el cuerpo dice basta",
+    "excerptCA": "La baixa per ansietat no és feblesa: què significa realment, com sostenir-la sense culpa i com preparar el retorn a la feina pas a pas.",
+    "excerptES": "La baja por ansiedad no es debilidad: qué significa realmente, cómo sostenerla sin culpa y cómo preparar el regreso al trabajo paso a paso.",
+    "datePublished": "2026-10-13"
+  },
+  {
     "slug": "amistad-con-expareja",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
