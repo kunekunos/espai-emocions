@@ -432,4 +432,215 @@ export const articlesPart15: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 3. volver-casa-padres-edad-adulta (cambios vitales, 2026-10-14)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "volver-casa-padres-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Tornar a casa dels pares: quan la vida et porta enrere",
+    titleES: "Volver a casa de los padres: cuando la vida te lleva atrás",
+    excerptCA:
+      "Tornar a casa dels pares d'adult no és fracassar: què significa aquest retorn, per què fa tant de mal i com viure'l sense perdre't.",
+    excerptES:
+      "Volver a casa de los padres de adulto no es fracasar: qué significa este retorno, por qué duele tanto y cómo vivirlo sin perderse.",
+    datePublished: "2026-10-14",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Tornar a casa dels pares en l'edat adulta és una experiència molt més freqüent del que sembla. Un divorci, una feina que desapareix, uns estalvis que no arriben: molts adults tornen a creuar una porta de la qual ja s'havien acomiadat. A més, cada cop passa més sovint, perquè els lloguers i unes vides menys estables ho han convertit en un fet normal. Ara bé, normal no vol dir indolor.",
+      },
+      {
+        type: "paragraph",
+        text: "Des de la psicologia, aquest trànsit s'ha mirat sempre amb un cert pudor, com si fos un pas enrere. De fet, a consulta arriba sobretot com una qüestió d'identitat: qui sóc si torno a ser fill a la casa d'on vaig marxar? En aquest article volem ordenar què vol dir aquest retorn, per què fa tant de mal i què ajuda a viure'l sense perdre el camí fet.",
+      },
+      {
+        type: "heading",
+        text: "Què significa, avui, tornar a casa dels pares",
+      },
+      {
+        type: "paragraph",
+        text: "Tornar a casa dels pares és, en primer lloc, un fet pràctic: compartir de nou espai, horaris, normes i diners amb persones que ja no han de criar-te. A més, és un fet simbòlic, perquè la casa torna a mesurar la teva vida justament quan pensaves que ja la mesuraves tu. La importància d'aquest doble registre és gran, i explica per què una decisió raonable pot doler tant.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalment, ningú no torna per gust, sinó per necessitat: una ruptura, un acomiadament, un lloguer que ja no es pot pagar, una malaltia a la família. Per això el retorn sol arribar amb dos sentiments enganxats, l'alleujament immediat i una vergonya callada. Tanmateix, tornar no és fracassar. De fet, utilitzar els recursos que tens —i la família n'és un— és un acte de responsabilitat, sempre que el retorn no es confongui amb el destí.",
+      },
+      {
+        type: "heading",
+        text: "El lloc que tornes a ocupar: per què fa mal",
+      },
+      {
+        type: "paragraph",
+        text: "El psiquiatre Murray Bowen descrivia la diferenciació com la capacitat de ser un mateix dins la família sense deixar de pertànyer-hi. En aquest sentit, el retorn posa a prova aquesta capacitat com poques situacions. Quan creues la porta, la casa tendeix a reactivar papers antics: el fill fiable, el fill difícil, el que sempre arriba tard a taula.",
+      },
+      {
+        type: "paragraph",
+        text: "Els pares no solen fer-ho amb mala fe; és el que el cos de la família recorda. Però aquells papers xoquen amb la persona adulta que t'has tornat. D'aquí el neguit d'unes setmanes que es fan eternes: ningú no et tracta com a un nen i, alhora, tot funciona com sempre. A més, et descobreixes responent com als divuit anys, i això inquieta més que qualsevol discussió.",
+      },
+      {
+        type: "heading",
+        text: "El context pesa: no tots els retorns són iguals",
+      },
+      {
+        type: "paragraph",
+        text: "No tots els retorns s'assemblen. Per exemple, no és el mateix tornar tres mesos per refer estalvis després d'un acomiadament que instal·lar-t'hi per cuidar un pare que envelleix. En el primer cas, el retorn té forma de pausa; en el segon, de nova etapa amb un dol a dins. També pesa el contracte emocional: una casa on es negocien normes adultes no és una casa on tot torna a ser com abans.",
+      },
+      {
+        type: "paragraph",
+        text: "El context cultural juga a favor. Al sud d'Europa, la família sempre ha funcionat com a xarxa de suport real: pisos compartits, economies que s'ajunten, cures que circulen. Per això convé mirar el retorn sense el vernís de vergonya que arrosseguen altres cultures. En aquest sentit, la pregunta útil no és «què diran», sinó «què necessito ara i durant quant de temps».",
+      },
+      {
+        type: "heading",
+        text: "Com viure el retorn sense perdre't",
+      },
+      {
+        type: "paragraph",
+        text: "Sostenir bé un retorn demana claredat abans que afecte. Convé acordar normes explícites: què es comparteix, quines feines fa cadascú, quant dura la convivència i quan es revisarà.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, cal mantenir espais propis: la feina, les amistats, una habitació amb porta i una agenda que no es justifica. Finalment, la part difícil: no demanar a la casa dels pares el que no pot donar. Cap retorn substitueix la vida pròpia.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades, el retorn desenterra temes que la distància mantenia tapats: el dol d'una ruptura, una relació que va quedar a mig dir, el sentit d'una carrera que no acaba d'arrencar. La teràpia ajuda precisament aquí, perquè ofereix un espai que no és ni la casa ni la feina: un lloc on pensar el retorn sense haver-ne de fugir. De fet, molts processos personals comencen així, amb una vida que canvia de lloc.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: tornar a casa dels pares",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Fins quan és normal viure amb els pares?",
+            answer:
+              "No hi ha una edat límit vàlida per a tothom. La pregunta útil és una altra: el retorn sosté el teu projecte o el substitueix? Mentre et sosté, és un recurs; en canvi, quan el substitueix, convé revisar-lo.",
+          },
+          {
+            question: "Com evito tornar a ser el fill de sempre?",
+            answer:
+              "Amb fets més que amb explicacions: normes acordades, economies separades i decisions pròpies sostingudes amb respecte. La casa s'acostuma a la persona adulta més ràpid del que sembla.",
+          },
+          {
+            question: "I si la relació amb ells ja és difícil?",
+            answer:
+              "Llavors el retorn demana més estructura, no menys: espais i horaris propis, i suport professional si cal. A vegades, cuidar el vincle exigeix primer cuidar-se.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un retorn que també pot reparar",
+      },
+      {
+        type: "paragraph",
+        text: "Tornar a casa dels pares també pot ser una oportunitat poc romàntica però real: conèixer-los com a adults, dir el que no es va dir, agrair el que sí. Moltes persones descobreixen, amb el temps, que la segona convivència repara coses que la primera va deixar pendents. En definitiva, el retorn no mesura el teu èxit; mesura el moment que vius. I els moments, per sort, canvien.",
+      },
+      {
+        type: "paragraph",
+        text: "Si has tornat a la casa familiar i el retorn et pesa més del que esperaves, es pot pensar en companyia. A Espai Emocions, centre de psicologia de Barcelona, els nostres psicòlegs col·legiats acompanyem crisis vitals i canvis de vida. Ho fem des de la psicoteràpia per a adults i parelles, presencial o online. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. A vegades, habitar bé un retorn és el començament de la propera sortida.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Volver a casa de los padres en la edad adulta es una experiencia mucho más frecuente de lo que parece. Un divorcio, un empleo que desaparece, unos ahorros que no llegan: muchos adultos vuelven a cruzar una puerta de la que ya se habían despedido. Además, cada vez ocurre más a menudo, porque los alquileres y unas vidas menos estables lo han convertido en un hecho normal. Ahora bien, normal no significa indoloro.",
+      },
+      {
+        type: "paragraph",
+        text: "Desde la psicología, este tránsito se ha mirado siempre con cierto pudor, como si fuera un paso atrás. De hecho, en consulta llega sobre todo como una cuestión de identidad: ¿quién soy si vuelvo a ser hijo en la casa de la que salí? En este artículo queremos ordenar qué significa este regreso, por qué duele tanto y qué ayuda a vivirlo sin perder el camino recorrido.",
+      },
+      {
+        type: "heading",
+        text: "Qué significa, hoy, volver a casa de los padres",
+      },
+      {
+        type: "paragraph",
+        text: "Volver a casa de los padres es, en primer lugar, un hecho práctico: compartir de nuevo espacio, horarios, normas y dinero con personas que ya no tienen que criarte. Además, es un hecho simbólico, porque la casa vuelve a medir tu vida justo cuando pensabas que ya la medías tú. La importancia de ese doble registro es grande, y explica por qué una decisión razonable puede doler tanto.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalmente, nadie vuelve por gusto, sino por necesidad: una ruptura, un despido, un alquiler que ya no se puede pagar, una enfermedad en la familia. Por eso el retorno suele llegar con dos sentimientos pegados, el alivio inmediato y una vergüenza callada. Sin embargo, volver no es fracasar. De hecho, usar los recursos que tienes —y la familia es uno de ellos— es un acto de responsabilidad, siempre que el retorno no se confunda con el destino.",
+      },
+      {
+        type: "heading",
+        text: "El lugar que vuelves a ocupar: por qué duele",
+      },
+      {
+        type: "paragraph",
+        text: "El psiquiatra Murray Bowen describía la diferenciación como la capacidad de ser uno mismo dentro de la familia sin dejar de pertenecer a ella. En este sentido, el retorno pone a prueba esa capacidad como pocas situaciones. Cuando cruzas la puerta, la casa tiende a reactivar papeles antiguos: el hijo fiable, el hijo difícil, el que siempre llega tarde a la mesa.",
+      },
+      {
+        type: "paragraph",
+        text: "Los padres no suelen hacerlo con mala fe; es lo que el cuerpo de la familia recuerda. Sin embargo, esos papeles chocan con la persona adulta que te has vuelto. De ahí la desazón de unas semanas que se hacen eternas: nadie te trata como a un niño y, al mismo tiempo, todo funciona como siempre. Además, te descubres respondiendo como a los dieciocho, y eso inquieta más que cualquier discusión.",
+      },
+      {
+        type: "heading",
+        text: "El contexto pesa: no todos los retornos son iguales",
+      },
+      {
+        type: "paragraph",
+        text: "No todos los retornos se parecen. Por ejemplo, no es lo mismo volver tres meses para rehacer ahorros después de un despido que instalarse para cuidar a un padre que envejece. En el primer caso, el retorno tiene forma de pausa; en el segundo, de nueva etapa con un duelo dentro. También pesa el contrato emocional: una casa donde se negocian normas adultas no es una casa donde todo vuelve a ser como antes.",
+      },
+      {
+        type: "paragraph",
+        text: "El contexto cultural juega a favor. En el sur de Europa, la familia siempre ha funcionado como red de apoyo real: pisos compartidos, economías que se juntan, cuidados que circulan. Por eso conviene mirar el retorno sin el barniz de vergüenza que arrastran otras culturas. En este sentido, la pregunta útil no es «qué dirán», sino «qué necesito ahora y durante cuánto tiempo».",
+      },
+      {
+        type: "heading",
+        text: "Cómo vivir el retorno sin perderte",
+      },
+      {
+        type: "paragraph",
+        text: "Sostener bien un retorno exige claridad antes que cariño. Conviene acordar normas explícitas: qué se comparte, qué tareas hace cada cual, cuánto dura la convivencia y cuándo se revisará.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, conviene mantener espacios propios: el trabajo, las amistades, una habitación con puerta y una agenda que no se justifica. Finalmente, la parte difícil: no pedir a la casa de tus padres lo que no puede dar. Ningún retorno sustituye la vida propia.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, el retorno desentierra temas que la distancia mantenía tapados: el duelo de una ruptura, una relación que quedó a medias, el sentido de una carrera que no acaba de arrancar. La terapia ayuda precisamente aquí, porque ofrece un espacio que no es ni la casa ni el trabajo: un lugar donde pensar el retorno sin tener que huir de él. De hecho, muchos procesos personales empiezan así, con una vida que cambia de sitio.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: volver a casa de los padres",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Hasta cuándo es normal vivir con los padres?",
+            answer:
+              "No hay una edad límite válida para todos. La pregunta útil es otra: ¿el retorno sostiene tu proyecto o lo sustituye? Mientras te sostiene, es un recurso; en cambio, cuando lo sustituye, conviene revisarlo.",
+          },
+          {
+            question: "¿Cómo evito volver a ser el hijo de siempre?",
+            answer:
+              "Con hechos más que con explicaciones: normas acordadas, economías separadas y decisiones propias sostenidas con respeto. La casa se acostumbra a la persona adulta más rápido de lo que parece.",
+          },
+          {
+            question: "¿Y si la relación con ellos ya es difícil?",
+            answer:
+              "Entonces el retorno exige más estructura, no menos: espacios y horarios propios, y apoyo profesional si hace falta. A veces, cuidar el vínculo exige cuidarse primero.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un retorno que también puede reparar",
+      },
+      {
+        type: "paragraph",
+        text: "Volver a casa de los padres también puede ser una oportunidad poco romántica pero real: conocerlos como adultos, decir lo que no se dijo, agradecer lo que sí. Muchas personas descubren, con el tiempo, que la segunda convivencia repara cosas que la primera dejó pendientes. En definitiva, el retorno no mide tu éxito; mide el momento que vives. Y los momentos, por suerte, cambian.",
+      },
+      {
+        type: "paragraph",
+        text: "Si has vuelto a la casa familiar y el retorno pesa más de lo que esperabas, se puede pensar en compañía. En Espai Emocions, centro de psicología de Barcelona, nuestros psicólogos colegiados acompañamos crisis vitales y cambios de vida. Lo hacemos desde la psicoterapia para adultos y parejas, presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. A veces, habitar bien un retorno es el comienzo de la próxima salida.",
+      },
+    ],
+  },
 ];

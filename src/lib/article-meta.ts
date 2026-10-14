@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "volver-casa-padres-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Tornar a casa dels pares: quan la vida et porta enrere",
+    "titleES": "Volver a casa de los padres: cuando la vida te lleva atrás",
+    "excerptCA": "Tornar a casa dels pares d'adult no és fracassar: què significa aquest retorn, per què fa tant de mal i com viure'l sense perdre't.",
+    "excerptES": "Volver a casa de los padres de adulto no es fracasar: qué significa este retorno, por qué duele tanto y cómo vivirlo sin perderse.",
+    "datePublished": "2026-10-14"
+  },
+  {
     "slug": "baja-por-ansiedad",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
