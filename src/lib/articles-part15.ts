@@ -643,4 +643,231 @@ export const articlesPart15: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. vida-se-hace-pequena-evitacion (ansiedad, 2026-10-15)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "vida-se-hace-pequena-evitacion",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "La vida es fa més petita: quan evites per por",
+    titleES: "La vida se hace más pequeña: cuando evitas por miedo",
+    excerptCA:
+      "La vida es fa més petita quan evites per por: què és l'evitació, per què calma avui i encongeix demà, i com es recupera el terreny a teràpia.",
+    excerptES:
+      "La vida se hace más pequeña cuando evitas por miedo: qué es la evitación, por qué calma hoy y encoje mañana, y cómo se recupera el terreno en terapia.",
+    datePublished: "2026-10-15",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La vida es fa més petita quan l'ansietat comença a decidir el mapa. Primer deixes de conduir per l'autopista; després, de dormir fora de casa; més endavant, d'anar al cinema sol. A més, cada decisió sembla raonable, perquè cada evitació porta un alleujament immediat. Així, sense drama, un dia descobreixes que el teu món cap en un grapat de carrers.",
+      },
+      {
+        type: "paragraph",
+        text: "En psicologia, aquest moviment té un nom precís: evitació. De fet, és el mecanisme que sosté gairebé totes les ansietats adultes, de la por a volar al malestar difús que ja no sap d'on ve. En aquest article veurem per què evitar calma avui i encongeix demà; també veurem com es recupera, amb calma, el terreny perdut.",
+      },
+      {
+        type: "heading",
+        text: "Què és l'evitació i per què calma tan bé",
+      },
+      {
+        type: "paragraph",
+        text: "L'evitació és el conjunt de conductes amb què una persona s'aparta del que li genera por. Calma de debò, i ràpid: si no condueixes, la tensió baixa en minuts. A més, cada fugida confirma al sistema nerviós que allò era, en efecte, un perill. Per això l'alleujament no és el final del problema, sinó el seu manteniment.",
+      },
+      {
+        type: "paragraph",
+        text: "Per aquesta raó l'evitació es sosté sola: no s'aguanta en la lògica, sinó en l'experiència repetida. La por no es corregeix amb explicacions; es corregeix amb trobades. En aquest sentit, la teràpia de l'ansietat no consisteix a obligar-te a res, sinó a fer possible una trobada graduada amb el que temes, al teu ritme.",
+      },
+      {
+        type: "heading",
+        text: "La identitat, també més petita",
+      },
+      {
+        type: "paragraph",
+        text: "Cada evitació, a més, deixa petjada en la identitat. La persona comença a explicar-se com «algú que no condueix» o «algú que no parla de certes coses», i la història es va estrenyent també en el relat. Al capdavall, les històries que expliquem decideixen el que ens atrevim a intentar. Per això, recuperar terreny no és només tornar a fer: és tornar a ser algú capaç de fer.",
+      },
+      {
+        type: "heading",
+        text: "La firma de l'evitació: com reconèixer-la",
+      },
+      {
+        type: "paragraph",
+        text: "Convé, a més, no confondre evitar amb no voler. Hi ha gustos que canvien i plans que es deixen anar sense drama. En canvi, l'evitació té una firma clara: on hi havia desig o necessitat, apareix alleujament quan la situació desapareix i malestar quan s'acosta. Aquesta doble senyal la delata.",
+      },
+      {
+        type: "paragraph",
+        text: "El procés, gairebé mai, no és espectacular. Normalment comença amb un episodi de por intensa: una crisi d'angoixa al túnel, un vol que es va fer etern, un sopar insuportable. Després arriba la decisió petita: no repetir aquella situació. I el descans que segueix confirma, en aparença, que va ser una bona idea.",
+      },
+      {
+        type: "heading",
+        text: "La vida es fa més petita, sense decisió conscient",
+      },
+      {
+        type: "paragraph",
+        text: "Amb el temps, però, la llista creix. Primer s'evita el que s'assembla: l'autopista, no només el túnel. Després, el que s'assembla a l'assemblat: el cotxe, les corbes, la muntanya. Moltes persones consulten, per exemple, quan deixen de fer coses que ni els feien por; ja no és por a volar, és por a la por.",
+      },
+      {
+        type: "paragraph",
+        text: "Cal afegir un matís: la reducció també es mesura per dins. Abans s'evitava una carretera; ara s'evita pensar en la feina de dilluns. Abans s'ajornava un viatge; ara s'ajorna una conversa. Al final, el que s'estreny no és el mapa, sinó la capacitat d'habitar-lo.",
+      },
+      {
+        type: "heading",
+        text: "Evitar converses: l'altra manera d'encongir",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una forma callada d'aquest procés, molt freqüent a partir dels quaranta: l'evitació emocional. No s'eviten llocs, sinó converses. No es diu el que es sent per no incomodar; s'ajorna la conversa de parella que remou; s'abandona el projecte per no exposar-se al judici. El món exterior segueix igual de gran, però l'habitable s'ha anat reduint.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta variant enganya més, perquè es disfressa de prudència. Tanmateix, els seus efectes són semblants: menys converses, menys trobades, menys vida compartida. Per això, quan algú explica que «ja no parlem de gairebé res», convé preguntar-se què s'ha anat evitant, amb la millor intenció, durant anys.",
+      },
+      {
+        type: "paragraph",
+        text: "A la parella passa el mateix. S'evita el tema dels fills, dels diners o del desig per no trencar una calma fràgil. Ara bé, la calma comprada amb silenci és cara: al capdavall, la factura arriba amb interessos.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: l'evitació i l'ansietat",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Evitar és sempre un problema?",
+            answer:
+              "No sempre. A vegades evitar és seny: no tornar a una relació que fa mal també és evitar, i és maduresa. La diferència és si l'evitació respon al context o el substitueix.",
+          },
+          {
+            question: "Com sé si el meu món s'està encongint?",
+            answer:
+              "Amb una pregunta incòmoda però útil: fas avui menys coses que fa dos anys, sense haver-ho decidit? Si la resposta és sí, val la pena mirar-ho amb calma.",
+          },
+          {
+            question: "La teràpia obliga a afrontar-ho tot de cop?",
+            answer:
+              "Al contrari: això seria una forma de duresa que no defensem. El treball és graduat, amb una escala de situacions dissenyada amb tu i un acompanyament que sosté cada pas.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Recuperar terreny sense heroïcitats",
+      },
+      {
+        type: "paragraph",
+        text: "Recuperar el món perdut no exigeix valentia espectacular. Exigeix, més aviat, mètode i paciència: comprendre quina part de tu es protegeix, reconèixer-ne la funció en la història i tornar al present la seva mida real. També demana, moltes vegades, un vincle professional que aguanti el procés quan el cos demani retirar-se. La maduresa, aquí, no és no sentir por; és no deixar que ella decideixi.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes la teva vida en aquest mapa més estret, es pot pensar en companyia. A Espai Emocions, centre de psicologia de Barcelona, els nostres psicòlegs col·legiats acompanyem l'ansietat en adults. Ho fem des de la psicoteràpia individual i de parella, presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. A vegades, la vida torna a créixer pel mateix lloc per on va començar a encongir-se: amb una passa petita i acompanyada.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La vida se hace más pequeña cuando la ansiedad empieza a decidir el mapa. Primero dejas de conducir por la autovía; después, de dormir fuera de casa; más tarde, de ir solo al cine. Además, cada decisión parece razonable, porque cada evitación trae un alivio inmediato. Así, sin drama, un día descubres que tu mundo cabe en un puñado de calles.",
+      },
+      {
+        type: "paragraph",
+        text: "En psicología, este movimiento tiene un nombre preciso: evitación. De hecho, es el mecanismo que sostiene casi todas las ansiedades adultas, del miedo a volar al malestar difuso que ya no sabe de dónde viene. En este artículo veremos por qué evitar calma hoy y estrecha mañana; también veremos cómo se recupera, con calma, el terreno perdido.",
+      },
+      {
+        type: "heading",
+        text: "Qué es la evitación y por qué calma tan bien",
+      },
+      {
+        type: "paragraph",
+        text: "La evitación es el conjunto de conductas con las que una persona se aparta de lo que le genera miedo. Calma de verdad, y rápido: si no conduces, la tensión baja en minutos. Además, cada huida confirma al sistema nervioso que aquello era, en efecto, un peligro. Por eso el alivio no es el final del problema, sino su mantenimiento.",
+      },
+      {
+        type: "paragraph",
+        text: "Por esa razón la evitación se sostiene sola: no se apoya en la lógica, sino en la experiencia repetida. El miedo no se corrige con explicaciones; se corrige con encuentros. En este sentido, la terapia de la ansiedad no consiste en obligarte a nada, sino en hacer posible un encuentro graduado con lo temido, a tu ritmo.",
+      },
+      {
+        type: "heading",
+        text: "La identidad, también más pequeña",
+      },
+      {
+        type: "paragraph",
+        text: "Cada evitación, además, deja huella en la identidad. La persona empieza a explicarse como «alguien que no conduce» o «alguien que no habla de ciertas cosas», y la historia se va estrechando también en el relato. Al final, las historias que contamos deciden lo que nos atrevemos a intentar. Por eso, recuperar terreno no es solo volver a hacer: es volver a ser alguien capaz de hacer.",
+      },
+      {
+        type: "heading",
+        text: "La firma de la evitación: cómo reconocerla",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene, además, no confundir evitar con no querer. Hay gustos que cambian y planes que se sueltan sin drama. En cambio, la evitación tiene una firma clara: donde había deseo o necesidad, aparece alivio cuando la situación desaparece y malestar cuando se aproxima. Esa doble señal la delata.",
+      },
+      {
+        type: "paragraph",
+        text: "El proceso, casi nunca, es espectacular. Normalmente empieza con un episodio de miedo intenso: un ataque de pánico en el túnel, un vuelo que se hizo eterno, una cena insoportable. Después llega la decisión pequeña: no repetir aquella situación. Y el descanso que sigue confirma, en apariencia, que fue una buena idea.",
+      },
+      {
+        type: "heading",
+        text: "La vida se hace más pequeña, sin decisión consciente",
+      },
+      {
+        type: "paragraph",
+        text: "Con el tiempo, sin embargo, la lista crece. Primero se evita lo parecido: la autovía, no solo el túnel. Después, lo que se parece a lo parecido: el coche, las curvas, la montaña. Muchas personas consultan, por ejemplo, cuando dejan de hacer cosas que ni les asustaban; ya no es miedo a volar, es miedo al miedo.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene añadir un matiz: la reducción también se mide por dentro. Antes se evitaba una carretera; ahora se evita pensar en el trabajo del lunes. Antes se aplazaba un viaje; ahora se aplaza una conversación. Al final, lo que se estrecha no es el mapa, sino la capacidad de habitarlo.",
+      },
+      {
+        type: "heading",
+        text: "Evitar conversaciones: la otra forma de encoger",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una forma callada de este proceso, muy frecuente a partir de los cuarenta: la evitación emocional. No se evitan lugares, sino conversaciones. No se dice lo que se siente para no incomodar; se pospone la conversación de pareja que remueve; se abandona el proyecto por no exponerse al juicio. El mundo exterior sigue igual de grande, pero el habitable se ha ido reduciendo.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta variante engaña más, porque se disfraza de prudencia. Sin embargo, sus efectos son parecidos: menos conversaciones, menos encuentros, menos vida compartida. Por eso, cuando alguien cuenta que «ya no hablamos de casi nada», conviene preguntarse qué se ha ido evitando, con la mejor intención, durante años.",
+      },
+      {
+        type: "paragraph",
+        text: "En la pareja ocurre igual. Se evita el tema de los hijos, del dinero o del deseo para no romper una calma frágil. Ahora bien, la calma comprada con silencio es cara: al final, la factura llega con intereses.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la evitación y la ansiedad",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Evitar es siempre un problema?",
+            answer:
+              "No siempre. A veces evitar es sensatez: no volver a una relación dañina también es evitar, y es madurez. La diferencia está en si la evitación responde al contexto o lo sustituye.",
+          },
+          {
+            question: "¿Cómo sé si mi mundo se está estrechando?",
+            answer:
+              "Con una pregunta incómoda pero útil: ¿haces hoy menos cosas que hace dos años, sin haberlo decidido? Si la respuesta es sí, merece la pena mirarlo con calma.",
+          },
+          {
+            question: "¿La terapia obliga a enfrentarlo todo de golpe?",
+            answer:
+              "Al contrario: eso sería una forma de crudeza que no defendemos. El trabajo es graduado, con una escalera de situaciones diseñada contigo y un acompañamiento que sostiene cada paso.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Recuperar terreno sin heroicidades",
+      },
+      {
+        type: "paragraph",
+        text: "Recuperar el mundo perdido no exige valentía espectacular. Exige, más bien, método y paciencia: comprender qué parte de ti se protege, reconocer su función en la historia y, al mismo tiempo, devolver al presente su tamaño real. También pide, muchas veces, un vínculo profesional que aguante el proceso cuando el cuerpo pida retirarse. La madurez, aquí, no consiste en no sentir miedo; consiste en no dejar que decida él.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces tu vida en este mapa más estrecho, se puede pensar en compañía. En Espai Emocions, centro de psicología de Barcelona, nuestros psicólogos colegiados acompañamos la ansiedad en adultos. Lo hacemos desde la psicoterapia individual y de pareja, presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. A veces, la vida vuelve a crecer por el mismo sitio por donde empezó a encoger: con un paso pequeño y acompañado.",
+      },
+    ],
+  },
 ];

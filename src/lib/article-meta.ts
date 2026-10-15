@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "vida-se-hace-pequena-evitacion",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "La vida es fa més petita: quan evites per por",
+    "titleES": "La vida se hace más pequeña: cuando evitas por miedo",
+    "excerptCA": "La vida es fa més petita quan evites per por: què és l'evitació, per què calma avui i encongeix demà, i com es recupera el terreny a teràpia.",
+    "excerptES": "La vida se hace más pequeña cuando evitas por miedo: qué es la evitación, por qué calma hoy y encoje mañana, y cómo se recupera el terreno en terapia.",
+    "datePublished": "2026-10-15"
+  },
+  {
     "slug": "volver-casa-padres-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
