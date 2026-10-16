@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "persona-altamente-sensible-adulta",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Persona altament sensible: sentir molt no és un defecte",
+    "titleES": "Persona altamente sensible: sentir mucho no es un defecto",
+    "excerptCA": "Ser una persona altament sensible no és un trastorn: què és l'alta sensibilitat a l'edat adulta, per què esgota i com habitar-la sense apagar-te.",
+    "excerptES": "Ser una persona altamente sensible no es un trastorno: qué es la alta sensibilidad en la edad adulta, por qué agota y cómo habitarla sin apagarte.",
+    "datePublished": "2026-10-16"
+  },
+  {
     "slug": "vida-se-hace-pequena-evitacion",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",

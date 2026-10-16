@@ -870,4 +870,213 @@ export const articlesPart15: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 5. persona-altamente-sensible-adulta (identidad, 2026-10-16)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "persona-altamente-sensible-adulta",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "Persona altament sensible: sentir molt no és un defecte",
+    titleES: "Persona altamente sensible: sentir mucho no es un defecto",
+    excerptCA:
+      "Ser una persona altament sensible no és un trastorn: què és l'alta sensibilitat a l'edat adulta, per què esgota i com habitar-la sense apagar-te.",
+    excerptES:
+      "Ser una persona altamente sensible no es un trastorno: qué es la alta sensibilidad en la edad adulta, por qué agota y cómo habitarla sin apagarte.",
+    datePublished: "2026-10-16",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Ser una persona altament sensible vol dir registrar el món amb el volum més alt: els sorolls, les mirades, els ambients carregats, l'ànim dels altres. A consulta de psicologia ho expliquen molts adults que funcionen bé i, tanmateix, arriben esgotats de sentir. De fet, la sensibilitat alta no és un trastorn: és una manera de processar l'experiència amb més profunditat.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article et proposem mirar aquesta sensibilitat sense romanticismes ni etiquetes de butxaca. Veurem què significa, per què es confon amb l'ansietat i com habitar-la amb coherència. Al capdavall, la pregunta no és com sentir menys, sinó com sentir sense perdre't.",
+      },
+      {
+        type: "heading",
+        text: "Què significa ser una persona altament sensible",
+      },
+      {
+        type: "paragraph",
+        text: "La persona altament sensible processa la informació amb més deteniment. De fet, el seu sistema nerviós filtra menys i percep més matisos abans de reaccionar. El concepte el va descriure la psicòloga Elaine Aron als anys noranta. Segons els seus estudis, prop d'una de cada cinc persones el comparteix. La utilitat és doble: explica cansaments que semblaven misteriosos. I evita tractar com a malaltia alguna cosa que no ho és.",
+      },
+      {
+        type: "paragraph",
+        text: "Quatre trets la descriuen. La profunditat de processament: pensar les coses per dins, sovint massa. La sobreestimulació: ambients carregats que altres sostenen sense adonar-se'n. La intensitat emocional: el viscut arriba més endins. I la sensibilitat al subtil: canvis de to, de llum, d'humor. Ara bé, cap tret aïllat és un problema; el decisiu és com es combinen en la teva història.",
+      },
+      {
+        type: "heading",
+        text: "Quan la sensibilitat es confon amb un problema",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes persones altament sensibles arriben a consulta amb una sospita: creuen que tenen ansietat o «alguna cosa» que cal arreglar. A vegades és cert, perquè la sensibilitat pot conviure amb un quadre d'ansietat o amb estats depressius. Ara bé, el diagnòstic no explica la manera de sentir. Per exemple, una oficina saturada desgasta més qui registra més. En canvi, la mateixa persona pot florir en un entorn tranquil. Per això el context pesa tant com la biografia.",
+      },
+      {
+        type: "paragraph",
+        text: "La confusió també té un preu. De fet, hi ha persones que passen anys intentant deixar de sentir. Distracció permanent, exigència de «no ser tan intenses», evitació silenciosa de sopars i multituds. Tanmateix, el problema gairebé mai no és la sensibilitat: és la manca d'un context que la sostingui. La diferència entre una sensibilitat habitada i una de desbordada, en definitiva, és una diferència de condicions.",
+      },
+      {
+        type: "heading",
+        text: "El cost invisible de sentir més",
+      },
+      {
+        type: "paragraph",
+        text: "Sentir més costa, encara que no de manera visible. Després d'una jornada amb molta gent, moltes persones sensibles necessiten silenci per recompondre's. A més, pesa l'exigència cultural: a qui sent molt se li diu que «s'ho pren tot massa a pit» o que «és massa». Amb el temps, aquestes frases s'interioritzen com a defectes. I amb els defectes arriba la vergonya: la de sentir, la de necessitar pauses, la de no ser com els altres.",
+      },
+      {
+        type: "paragraph",
+        text: "L'esgotament de la sensibilitat alta s'assembla al burnout: irritabilitat, son fràgil, sensació de viure al límit. Però hi ha una diferència important: no cal treballar de més per desbordar-se. A vegades n'hi ha prou amb viure massa temps en un ambient exigent. Per això fracassen els descansos «com els de tothom»: el que s'aguanta no és només el cos, sinó el sistema sensorial.",
+      },
+      {
+        type: "heading",
+        text: "Habitar la sensibilitat amb coherència",
+      },
+      {
+        type: "paragraph",
+        text: "El treball psicològic no busca apagar la sensibilitat. Busca, més aviat, comprendre d'on ve la idea que sentir és un defecte. També acceptar el que no s'escull i recuperar decisió sobre el que sí depèn de tu: límits, context, vincles. En aquest sentit, maduresa no és sentir menys. És sostenir el que es sent sense que governi tota la vida per dins.",
+      },
+      {
+        type: "paragraph",
+        text: "També convé revisar la relació amb l'etiqueta. Normalment, anomenar-se «persona altament sensible» produeix primer alleujament; després, l'etiqueta pot explicar-ho tot i no deixar moure's. La identitat és més ampla que qualsevol tret. Al capdavall, el decisiu no és el nom, sinó la coherència entre el que sents i com vius.",
+      },
+      {
+        type: "heading",
+        text: "La sensibilitat alta en les relacions",
+      },
+      {
+        type: "paragraph",
+        text: "La sensibilitat té, a més, una cara relacional. De fet, qui sent molt capta l'estat d'ànim dels altres gairebé abans que el verbalitzin, i a vegades acaba carregant emocions que no són seves. En les parelles, això té conseqüències: un dia pot semblar que tot va bé i, en canvi, la persona sensible ja ha registrat la tensió ambiental. Per exemple, en una relació estable, la sensibilitat alta pot convertir-se en una vigilància que desgasta o en una profunditat que uneix. La diferència, una vegada més, no és el tret: és la coherència amb què s'habita.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la sensibilitat alta",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Ser altament sensible és el mateix que ser introvertit?",
+            answer:
+              "No, encara que se solapen. De fet, hi ha persones sensibles i extrovertides: gaudeixen de la gent i, a més, necessiten recuperar-se després. La sensibilitat descriu com processes; la introversió, on trobes repòs.",
+          },
+          {
+            question: "Es pot «deixar de ser» tan sensible?",
+            answer:
+              "El llindar sensorial no s'escull; en canvi, la vida sí que es pot dissenyar al seu favor. A consulta no busquem que sentis menys, sinó que la sensibilitat deixi de costar tan car.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Sentir molt, habitar bé",
+      },
+      {
+        type: "paragraph",
+        text: "Ser una persona altament sensible a l'edat adulta es pot viure com a càrrega o com a profunditat. La diferència, normalment, no depèn de la sensibilitat mateixa, sinó de la comprensió, el context i l'acompanyament. En definitiva, no es tracta d'endurir-se. Es tracta d'habitar la pròpia manera de sentir amb responsabilitat.",
+      },
+      {
+        type: "paragraph",
+        text: "Si et reconeixes en aquesta descripció i la sensibilitat et costa més del que sosté, es pot pensar en companyia. A Espai Emocions, centre de psicologia de Barcelona, treballem amb adults des d'una psicoteràpia humanista i integradora, presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. A vegades, sentir molt comença a pesar menys quan algú ajuda a ordenar-ho.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Ser una persona altamente sensible significa registrar el mundo con el volumen más alto: los ruidos, las miradas, los ambientes tensos, el ánimo de los demás. En consulta de psicología lo cuentan muchos adultos que funcionan bien y, sin embargo, llegan agotados de sentir. De hecho, la sensibilidad alta no es un trastorno: es una forma de procesar la experiencia con más profundidad.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo te proponemos mirar esta sensibilidad sin romanticismos ni etiquetas de bolsillo. Veremos qué significa, por qué se confunde con la ansiedad y cómo habitarla con coherencia. Al final, la pregunta no es cómo sentir menos, sino cómo sentir sin perderse.",
+      },
+      {
+        type: "heading",
+        text: "Qué significa ser una persona altamente sensible",
+      },
+      {
+        type: "paragraph",
+        text: "La persona altamente sensible procesa la información con más detenimiento. De hecho, su sistema nervioso filtra menos y percibe más matices antes de reaccionar. El concepto lo describió la psicóloga Elaine Aron en los años noventa. Según sus estudios, cerca de una de cada cinco personas lo comparte. La utilidad es doble: explica cansancios que parecían misteriosos. Y evita tratar como enfermedad algo que no lo es.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuatro rasgos la describen. La profundidad de procesamiento: pensar las cosas por dentro, a menudo de más. La sobreestimulación: ambientes cargados que otros sostienen sin darse cuenta. La intensidad emocional: lo vivido llega más adentro. Y la sensibilidad a lo sutil: cambios de tono, de luz, de humor. Ahora bien, ningún rasgo aislado es un problema; lo decisivo es cómo se combinan en tu historia.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo la sensibilidad se confunde con un problema",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas personas altamente sensibles llegan a consulta con una sospecha: creen que tienen ansiedad o «algo» que arreglar. A veces es verdad, porque la sensibilidad puede convivir con un cuadro de ansiedad o con estados depresivos. Ahora bien, el diagnóstico no explica la forma de sentir. Por ejemplo, una oficina saturada desgasta más a quien registra más. En cambio, la misma persona puede florecer en un entorno tranquilo. Por eso el contexto pesa tanto como la biografía.",
+      },
+      {
+        type: "paragraph",
+        text: "La confusión también tiene un precio. De hecho, hay personas que pasan años intentando dejar de sentir. Distracción permanente, exigencia de «no ser tan intensas», evitación silenciosa de cenas y multitudes. Sin embargo, el problema casi nunca es la sensibilidad: es la falta de un contexto que la sostenga. La diferencia entre una sensibilidad habitada y una desbordada, en definitiva, es una diferencia de condiciones.",
+      },
+      {
+        type: "heading",
+        text: "El coste invisible de sentir más",
+      },
+      {
+        type: "paragraph",
+        text: "Sentir más cuesta, aunque no de forma visible. Después de una jornada con mucha gente, muchas personas sensibles necesitan silencio para recomponerse. Además, pesa la exigencia cultural: a quien siente mucho se le dice que «se lo toma todo a pecho» o que «es demasiado». Con el tiempo, esas frases se interiorizan como defectos. Y con los defectos llega la vergüenza: la de sentir, la de necesitar pausas, la de no ser como los demás.",
+      },
+      {
+        type: "paragraph",
+        text: "El agotamiento de la sensibilidad alta se parece al burnout: irritabilidad, sueño frágil, sensación de vivir al límite. Pero hay una diferencia importante: no hace falta trabajar de más para desbordarse. A veces basta con vivir demasiado tiempo en un ambiente exigente. Por eso fracasan los descansos «como los de todo el mundo»: lo que se agota no es solo el cuerpo, sino el sistema sensorial.",
+      },
+      {
+        type: "heading",
+        text: "Habitar la sensibilidad con coherencia",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo psicológico no busca apagar la sensibilidad. Busca, más bien, comprender de dónde viene la idea de que sentir es un defecto. También aceptar lo que no se elige y recuperar decisión sobre lo que sí depende de ti: límites, contexto, vínculos. En este sentido, madurez no consiste en sentir menos. Consiste en sostener lo que se siente sin que gobierne por dentro toda la vida.",
+      },
+      {
+        type: "paragraph",
+        text: "También conviene revisar la relación con la etiqueta. Normalmente, nombrarse «persona altamente sensible» produce primero alivio; después, la etiqueta puede explicar todo y no dejar moverse. La identidad es más ancha que cualquier rasgo. Al final, lo decisivo no es el nombre, sino la coherencia entre lo que sientes y cómo vives.",
+      },
+      {
+        type: "heading",
+        text: "La sensibilidad alta en las relaciones",
+      },
+      {
+        type: "paragraph",
+        text: "La sensibilidad tiene, además, una cara relacional. De hecho, quien siente mucho capta el estado de ánimo de los demás casi antes de que lo verbalicen, y a veces acaba cargando emociones que no son suyas. En las parejas, esto tiene consecuencias: un día puede parecer que todo va bien y, en cambio, la persona sensible ya ha registrado la tensión ambiental. Por ejemplo, en una relación estable, la sensibilidad alta puede convertirse en una vigilancia que desgasta o en una profundidad que une. La diferencia, una vez más, no es el rasgo: es la coherencia con la que se habita.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la sensibilidad alta",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Ser altamente sensible es lo mismo que ser introvertido?",
+            answer:
+              "No, aunque se solapan. De hecho, hay personas sensibles y extrovertidas: disfrutan de la gente y, además, necesitan recuperarse después. La sensibilidad describe cómo procesas; la introversión, dónde encuentras reposo.",
+          },
+          {
+            question: "¿Se puede «dejar de ser» tan sensible?",
+            answer:
+              "El umbral sensorial no se elige; en cambio, la vida sí se puede diseñar a su favor. En consulta no buscamos que sientas menos, sino que la sensibilidad deje de costar tan caro.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Sentir mucho, habitar bien",
+      },
+      {
+        type: "paragraph",
+        text: "Ser una persona altamente sensible en la edad adulta puede vivirse como carga o como profundidad. La diferencia, normalmente, no depende de la sensibilidad misma, sino de la comprensión, el contexto y el acompañamiento. En definitiva, no se trata de endurecerse. Se trata de habitar la propia manera de sentir con responsabilidad.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te reconoces en esta descripción y la sensibilidad te cuesta más de lo que sostiene, se puede pensar en compañía. En Espai Emocions, centro de psicología de Barcelona, trabajamos con adultos desde una psicoterapia humanista e integradora, presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. A veces, sentir mucho empieza a pesar menos cuando alguien ayuda a ordenarlo.",
+      },
+    ],
+  },
 ];
