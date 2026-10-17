@@ -1079,4 +1079,197 @@ export const articlesPart15: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 6. miedo-a-ser-feliz (ansiedad, 2026-10-17)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "miedo-a-ser-feliz",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "La por de ser feliç: quan allò bo inquieta",
+    titleES: "El miedo a ser feliz: cuando lo bueno inquieta",
+    excerptCA:
+      "La por de ser feliç no és estranya: per què la calma desassossega, d'on ve aquesta protecció apresa i com es treballa a la psicoteràpia d'adults.",
+    excerptES:
+      "El miedo a ser feliz no es raro: por qué la calma inquieta, de dónde viene esta protección aprendida y cómo se trabaja en la psicoterapia de adultos.",
+    datePublished: "2026-10-17",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La por de ser feliç és una de les formes més silencioses d'ansietat que arriben a consulta. La persona que l'experimenta no es defineix per la tristesa; més aviat, descobreix que la calma la desassossega i que les bones notícies li produeixen una alerta difusa. A més, sol anar acompanyada de culpa: sembla un privilegi no gaudir del que va bé. En psicologia, aquest fenomen té sentit, història i una explicació concreta.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article et proposem mirar aquesta por amb calma. Veurem què és la por de ser feliç, per què apareix a l'edat adulta i com es treballa en psicoteràpia. De fet, no és un tret rar ni una contradicció: és una protecció apresa que, en algun moment, va servir. Ara bé, quan la protecció pesa més que la vida, convé revisar-la amb ajuda professional.",
+      },
+      {
+        type: "heading",
+        text: "Què és, en realitat, la por de ser feliç",
+      },
+      {
+        type: "paragraph",
+        text: "La por de ser feliç és la dificultat per sostenir allò bo: una alerta interna que es dispara quan la vida es tranquil·litza. Moltes persones ho descriuen amb precisió: «quan tot va bé, espero que passi alguna cosa». Aquesta reacció es relaciona amb l'ansietat anticipatòria, i la seva funció és reduir la sorpresa d'un possible cop. En aquest sentit, no és un rebuig de l'alegria; és una vigilància que impedeix habitar-la.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, aquesta por sol mostrar-se en gestos petits. Per exemple, no celebrar fins que el contracte és firmat, restar mèrit als èxits o imaginar el pitjor desenllàs just al moment dolç. També apareix a les relacions: quan algú s'acosta amb cura, la desconfiança creix en lloc de disminuir. Al capdavall, allò bo es torna un terreny relliscós.",
+      },
+      {
+        type: "heading",
+        text: "Per què allò bo inquieta",
+      },
+      {
+        type: "paragraph",
+        text: "La calma inquieta perquè, per a algunes històries, va ser el silenci previ a la tempesta. Normalment, qui tem ser feliç va créixer en un context on allò bo no durava o on el benestar convocava el conflicte. El sistema nerviós va aprendre llavors una regla implícita: la pau és provisional. Per això, quan arriba la calma, el cos la llegeix com una amenaça i prepara la defensa.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, hi ha una raó identitària. Si la vida d'una persona s'ha organitzat al voltant de l'esforç i la supervivència, sentir-se bé la descolloca: ja no sap qui és quan no lluita. En canvi, la dificultat coneguda, encara que faci mal, ofereix identitat. Així doncs, l'alegria no s'evita per masoquisme; s'evita perquè amenaça de desordenar la manera pròpia d'existir.",
+      },
+      {
+        type: "heading",
+        text: "La història que ensenya a protegir-se",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú neix amb aquesta por. S'aprèn, per exemple, després de pèrdues primerenques, en entorns familiars impredictibles o en etapes on l'esperança es va pagar cara. En aquests contextes, il·lusionar-se es va viure com un perill: obrir el pit era exposar-se. De fet, molts adults reconeixen la frase familiar: «no cantis victòria abans d'hora».",
+      },
+      {
+        type: "paragraph",
+        text: "La protecció, a més, es converteix en una part de la identitat. Una part interna vigila perquè res no faci mal; una altra, en canvi, vol viure, jugar i triar. La tensió entre totes dues agota per dins i produeix la sensació d'avançar amb el fre de mà posat. Al capdavall, la persona funciona, però no descansa: aconsegueix, però no gaudeix.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa aquesta por en teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "En psicoteràpia, aquesta por no s'elimina: s'escolta i es revisa. El procés comença per comprendre la funció de la protecció: quina història la va crear i de què et va defensar. Després, es construeix una relació diferent amb allò bo, tot tolerant la calma en dosis que el cos pugui sostenir. La coherència interna importa més que la felicitat aparent. En aquest sentit, l'objectiu és que les teves decisions i la teva manera de sentir parlin el mateix idioma.",
+      },
+      {
+        type: "paragraph",
+        text: "Treballar-ho també implica mirar el context actual. A vegades la por avisa d'alguna cosa real; d'altres, només repeteix un guió antic. Distingir els dos casos és part central del procés terapèutic. Per això, en consulta, no es discuteix amb la por: s'hi conversa fins que deixa de decidir per tu.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la por de ser feliç",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "La por de ser feliç és un trastorn?",
+            answer:
+              "No apareix així als manuals diagnòstics. Tanmateix, convé atendre-la quan limita la vida: si t'impedeix celebrar, comprometre't o descansar, mereix una mirada professional.",
+          },
+          {
+            question: "Per què em passa justament quan tot va bé?",
+            answer:
+              "Perquè la teva atenció deixa d'estar ocupada resolent problemes. En aquest buit apareix l'alerta que abans quedava emmascarada; a més, la calma activa la vella regla que la pau és provisional.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "L'alegria com a territori",
+      },
+      {
+        type: "paragraph",
+        text: "La por de ser feliç es pot transformar en una informació valiosa: diu on et va colpejar la vida i què encara no has pogut deixar de vigilar. La maduresa no consisteix a gaudir per decret, sinó a recuperar, mica en mica, el dret a allò bo. En definitiva, no es tracta de vigilar menys per esforç, sinó de descobrir que ja no necessites tanta vigilància.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconeixes aquesta por en la teva història i ocupa espai a la vida, es pot pensar en companyia. A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles des d'una psicoteràpia humanista i integradora, presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. A vegades, l'alegria deixa de fer por quan algú ajuda a sostenir-la.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El miedo a ser feliz es una de las formas más calladas de ansiedad que llegan a consulta. La persona que lo experimenta no se define por la tristeza; más bien, descubre que la calma la desasosiega y que las buenas noticias le producen una alerta difusa. Además, suele acompañarse de culpa: parece un privilegio no disfrutar de lo que va bien. En psicología, este fenómeno tiene sentido, historia y una explicación concreta.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo te proponemos mirar este miedo con calma. Veremos qué es el miedo a ser feliz, por qué aparece en la edad adulta y cómo se trabaja en psicoterapia. De hecho, no es un rasgo raro ni una contradicción: es una protección aprendida que, en algún momento, sirvió. Ahora bien, cuando la protección pesa más que la vida, conviene revisarla con ayuda profesional.",
+      },
+      {
+        type: "heading",
+        text: "Qué es, en realidad, el miedo a ser feliz",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo a ser feliz es la dificultad para sostener lo bueno: una alerta interna que se dispara cuando la vida se tranquiliza. Muchas personas lo describen con precisión: «cuando todo va bien, espero que pase algo». Esta reacción se relaciona con la ansiedad anticipatoria, y su función es reducir la sorpresa de un posible golpe. En este sentido, no es un rechazo de la alegría; es una vigilancia que impide habitarla.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, este miedo suele mostrarse en gestos pequeños. Por ejemplo, no celebrar hasta que el contrato está firmado, restar mérito a los logros o imaginar el desenlace peor justo en el momento dulce. También aparece en las relaciones: cuando alguien se acerca con cuidado, la desconfianza crece en lugar de disminuir. Al final, lo bueno se convierte en terreno resbaladizo.",
+      },
+      {
+        type: "heading",
+        text: "Por qué lo bueno inquieta",
+      },
+      {
+        type: "paragraph",
+        text: "La calma inquieta porque, para algunas historias, fue el silencio previo a la tormenta. Normalmente, quien teme ser feliz creció en un contexto donde lo bueno no duraba o donde el bienestar convocaba el conflicto. El sistema nervioso aprendió entonces una regla implícita: la paz es provisional. Por eso, cuando llega la calma, el cuerpo la lee como amenaza y prepara la defensa.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, existe una razón identitaria. Si la vida de una persona se ha organizado alrededor del esfuerzo y la supervivencia, sentirse bien la descoloca: ya no sabe quién es cuando no lucha. En cambio, la dificultad conocida, aunque duela, ofrece identidad. Así pues, la alegría no se evita por masoquismo; se evita porque amenaza con desordenar la propia manera de existir.",
+      },
+      {
+        type: "heading",
+        text: "La historia que enseña a protegerse",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie nace con este miedo. Se aprende, por ejemplo, después de pérdidas tempranas, en entornos familiares imprevisibles o en etapas donde la esperanza se pagó cara. En esos contextos, ilusionarse se vivió como un peligro: abrir el pecho era exponerse. De hecho, muchos adultos reconocen la frase familiar: «no cantes victoria antes de tiempo».",
+      },
+      {
+        type: "paragraph",
+        text: "La protección, además, se convierte en una parte de la identidad. Una parte interna vigila para que nada duela demasiado; otra, en cambio, quiere vivir, jugar y elegir. La tensión entre ambas agota por dentro y produce la sensación de avanzar con el freno de mano echado. Al final, la persona funciona, pero no descansa: consigue, pero no disfruta.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja este miedo en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En psicoterapia, este miedo no se elimina: se escucha y se revisa. El proceso empieza por comprender la función de la protección: qué historia la creó y de qué te defendió. Después, se construye una relación distinta con lo bueno, tolerando la calma en dosis que el cuerpo pueda sostener. La coherencia interna importa más que la felicidad aparente. En este sentido, el objetivo es que tus decisiones y tu manera de sentir hablen el mismo idioma.",
+      },
+      {
+        type: "paragraph",
+        text: "Trabajarlo también implica mirar el contexto actual. A veces el miedo avisa de algo real; otras veces solo repite un guion antiguo. Distinguir ambos casos es parte central del proceso terapéutico. Por eso, en consulta, no se discute con el miedo: se conversa con él hasta que deja de decidir por ti.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el miedo a ser feliz",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿El miedo a ser feliz es un trastorno?",
+            answer:
+              "No aparece así en los manuales diagnósticos. Sin embargo, conviene atenderlo cuando limita la vida: si te impide celebrar, comprometerte o descansar, merece una mirada profesional.",
+          },
+          {
+            question: "¿Por qué me pasa justo cuando todo va bien?",
+            answer:
+              "Porque tu atención deja de estar ocupada resolviendo problemas. En ese hueco aparece la alerta que antes quedaba enmascarada; además, la calma activa la vieja regla de que la paz es provisional.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La alegría como territorio",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo a ser feliz puede transformarse en una información valiosa: dice dónde te golpeó la vida y qué todavía no has podido dejar de vigilar. La madurez no consiste en disfrutar por decreto, sino en recuperar, poco a poco, el derecho a lo bueno. En definitiva, no se trata de vigilar menos por esfuerzo, sino de descubrir que ya no necesitas tanta vigilancia.",
+      },
+      {
+        type: "paragraph",
+        text: "Si reconoces este miedo en tu historia y le quita espacio a la vida, se puede pensar en compañía. En Espai Emocions, centro de psicología de Barcelona, trabajamos con adultos y parejas desde una psicoterapia humanista e integradora, presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. A veces, la alegría deja de dar miedo cuando alguien ayuda a sostenerla.",
+      },
+    ],
+  },
 ];

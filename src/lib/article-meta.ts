@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "miedo-a-ser-feliz",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "La por de ser feliç: quan allò bo inquieta",
+    "titleES": "El miedo a ser feliz: cuando lo bueno inquieta",
+    "excerptCA": "La por de ser feliç no és estranya: per què la calma desassossega, d'on ve aquesta protecció apresa i com es treballa a la psicoteràpia d'adults.",
+    "excerptES": "El miedo a ser feliz no es raro: por qué la calma inquieta, de dónde viene esta protección aprendida y cómo se trabaja en la psicoterapia de adultos.",
+    "datePublished": "2026-10-17"
+  },
+  {
     "slug": "persona-altamente-sensible-adulta",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
