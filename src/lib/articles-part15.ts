@@ -1272,4 +1272,210 @@ export const articlesPart15: ArticleContent[] = [
       },
     ],
   },
+  {
+    slug: "hacer-amigos-adulto",
+    categoryCA: "Relacions",
+    categoryES: "Relaciones",
+    titleCA: "Fer amics d'adult: per què costa i com es teixeix",
+    titleES: "Hacer amigos de adulto: por qué cuesta y cómo se teje",
+    excerptCA:
+      "Fer amics d'adult costa més que de jove: per què canvia el vincle, quines condicions el sostenen i on neixen les amistats noves.",
+    excerptES:
+      "Hacer amigos de adulto cuesta más que de joven: por qué cambia el vínculo, qué condiciones lo sostienen y dónde nacen las amistades nuevas.",
+    datePublished: "2026-10-18",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Fer amics d'adult s'ha convertit en una de les converses més freqüents que escoltem a consulta. Moltes persones de quaranta anys funcionen bé a la feina i sostenen la família; tanmateix, confessen una sensació incòmoda: tenen contactes, però poques amistats. De fet, la psicologia ha estudiat aquest fenomen i no l'explica cap defecte de caràcter. La vida adulta canvia les condicions del vincle i, amb elles, l'esforç que costa construir-lo.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar la pregunta amb calma: per què costa tant fer amics d'adult, què necessita una amistat per sostenir-se i on comença aquest teixit. No hi ha respostes universals; hi ha context, història i petites decisions que es poden recuperar. Al capdavall, l'amistat no és qüestió de sort, sinó de condicions.",
+      },
+      {
+        type: "heading",
+        text: "Per què costa tant fer amics d'adult",
+      },
+      {
+        type: "paragraph",
+        text: "Fer amics d'adult costa perquè canvien les tres condicions que ho feien fàcil de jove: temps, context compartit i desimboltura. A l'adolescència, l'amistat es construïa sense proposar-ho; a vegades naixia d'hores repetides, de les mateixes aules, del mateix avorriment. En canvi, la vida adulta reparteix el temps entre feina, parella, fills i descans. Per això, un diumenge a casa pot guanyar a qualsevol pla: no és tristesa, és una agenda amb poc marge.",
+      },
+      {
+        type: "paragraph",
+        text: "A això s'hi suma un canvi intern. Amb els anys acumulem històries de vincles que van fer mal: amistats que es van refredar, confiances traïdes, distàncies que ningú va decidir. Per això, la maduresa que protegeix és la mateixa que alenteix l'accés. Obrir-se ja no surt gratis; es mesura. Normalment no és orgull: és experiència.",
+      },
+      {
+        type: "heading",
+        text: "Què necessita una amistat adulta",
+      },
+      {
+        type: "paragraph",
+        text: "L'amistat adulta es sosté en tres condicions: proximitat repetida, reciprocitat i espai per respirar. La primera és el context. Els estudis de psicologia social coincideixen que el vincle neix de l'exposició freqüent a la mateixa persona; de fet, es coneix com a efecte de mera exposició. Tanmateix, la vida adulta no organitza aquesta freqüència, i cal crear-la a mà.",
+      },
+      {
+        type: "paragraph",
+        text: "La reciprocitat és la segona condició. Una amistat no es sosté amb admiració ni amb utilitat, sinó amb cura en les dues direccions: preguntar i ser preguntat, sostenir i ser sostingut. En aquest sentit, moltes persones esperen ser escollides sense atrevir-se a triar. Ara bé, el vincle adult exigeix responsabilitat: algú dóna el primer pas, i aquest algú sol ser qui troba més a faltar l'amistat.",
+      },
+      {
+        type: "heading",
+        text: "Que el vincle pugui respirar",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera condició és la més silenciosa: permetre que el vincle respiri. De jove, l'amistat demanava presència constant; d'adult, competeix amb feines, fills i parelles que no coneixem. En canvi, l'amistat madura no exigeix coincidir en tot; exigeix saber que el vincle segueix allà encara que el calendari estrenyi. Per això, una amistat adulta pot dormir mesos i despertar intacta.",
+      },
+      {
+        type: "heading",
+        text: "La paradoxa de la proximitat",
+      },
+      {
+        type: "paragraph",
+        text: "Existeix una paradoxa incòmoda: mai no hi va haver tantes eines per connectar i, alhora, costa tant sentir-se acompanyat. Les xarxes socials mostren la façana d'una vida social plena; en canvi, la solitud entre adults de trenta a cinquanta anys creix a les enquestes europees. A més, l'agenda adulta confon contacte amb vincle: anomenem amistat el que, a vegades, és només cortesia.",
+      },
+      {
+        type: "paragraph",
+        text: "La solitud que apareix aquí no és dramàtica; és tèbia i silenciosa. A vegades es nota en una festa on coneixes tothom i no et fies de ningú. Altres vegades apareix en canviar de ciutat amb la feina resolta i la tarda buida. Al capdavall, no és manca de gent al voltant: és manca de llocs on un pot ser ell mateix sense representació.",
+      },
+      {
+        type: "heading",
+        text: "On neixen les amistats noves",
+      },
+      {
+        type: "paragraph",
+        text: "Les amistats adultes comencen, gairebé sempre, en tres territoris: els interessos sostinguts, els processos compartits i els espais d'obertura. Un curs, una muntanya, un cor, un grup de lectura: qualsevol activitat setmanal retorna el que la vida adulta treu, un motiu per repetir-se. Per exemple, començar alguna cosa nova als quaranta permet conèixer persones en el mateix moment vital. A més, compartir un procés crea una confiança ràpida i natural.",
+      },
+      {
+        type: "paragraph",
+        text: "També neixen allà on un es deixa veure. L'obertura no consisteix a explicar la vida íntima a un desconegut; consisteix a retirar, una mica, la façana professional. A vegades n'hi ha prou amb respondre amb honestitat quan algú et pregunta com estàs. En definitiva, l'amistat necessita humanitat exposada: ningú s'encaprica amb una façana.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: fer amics d'adult",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal tenir tan pocs amics d'adult?",
+            answer:
+              "Més normal del que sembla. Els canvis de ciutat, la criança i la feina redueixen la vida social de molts adults. A més, reconèixer-ho amb honestitat ja forma part del canvi.",
+          },
+          {
+            question: "Es poden fer amics de debò als quaranta?",
+            answer:
+              "Sí, tot i que el ritme és diferent. L'amistat adulta creix a poc a poc, amb presència repetida i reciprocitat. Tanmateix, quan apareix, sol ser més fonda: s'escull des de la maduresa, no per atzar.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una amistat que comença tard no arriba tard",
+      },
+      {
+        type: "paragraph",
+        text: "Fer amics d'adult no és recuperar l'adolescència; és teixir vincles amb la persona que ja ets. La maduresa regala alguna cosa que de jove no existia: escollir amb criteri, sense l'urgència d'agradar a tothom. Per això, l'amistat adulta arriba menys vegades, però quan arriba, sosté més.",
+      },
+      {
+        type: "paragraph",
+        text: "Si la solitud pesa i ocupa un espai que ja no vols sostenir tot sol, es pot pensar en companyia. A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles des d'una psicoteràpia humanista i integradora, presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. A vegades, la conversa que falta comença en un lloc segur.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hacer amigos de adulto se ha convertido en una de las conversaciones más frecuentes que escuchamos en consulta. Muchas personas de cuarenta años funcionan bien en el trabajo y sostienen a su familia; sin embargo, confiesan una sensación incómoda: tienen contactos, pero pocas amistades. De hecho, la psicología ha estudiado este fenómeno y no lo explica un defecto de carácter. La vida adulta cambia las condiciones del vínculo y, con ellas, el esfuerzo que cuesta construirlo.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar la pregunta con calma: por qué cuesta tanto hacer amigos de adulto, qué necesita una amistad para sostenerse y dónde empieza ese tejido. No hay respuestas universales; hay contexto, historia y pequeñas decisiones que se pueden recuperar. Al final, la amistad no es un asunto de suerte, sino de condiciones.",
+      },
+      {
+        type: "heading",
+        text: "Por qué cuesta tanto hacer amigos de adulto",
+      },
+      {
+        type: "paragraph",
+        text: "Hacer amigos de adulto cuesta porque cambian las tres condiciones que lo hacían fácil de joven: tiempo, contexto compartido y desvergüenza. En la adolescencia, la amistad se construía sin proponerla; a veces nacía de horas repetidas, de las mismas aulas, del mismo aburrimiento. En cambio, la vida adulta reparte el tiempo entre trabajo, pareja, hijos y descanso. Por eso, un domingo en casa puede ganar a cualquier plan: no es tristeza, es una agenda con poco margen.",
+      },
+      {
+        type: "paragraph",
+        text: "A esto se suma un cambio interno. Con los años acumulamos historias de vínculos que dolieron: amistades que se enfriaron, confianzas traicionadas, distancias que nadie decidió. Por eso, la madurez que protege es la misma que vuelve más lento el acceso. Abrirse ya no sale gratis; se mide. Normalmente no es orgullo: es experiencia.",
+      },
+      {
+        type: "heading",
+        text: "Qué necesita una amistad adulta",
+      },
+      {
+        type: "paragraph",
+        text: "La amistad adulta se sostiene en tres condiciones: proximidad repetida, reciprocidad y espacio para respirar. La primera es el contexto. Los estudios de psicología social coinciden en que el vínculo nace de la exposición frecuente a la misma persona; de hecho, se conoce como efecto de mera exposición. Sin embargo, la vida adulta no organiza esa frecuencia, y hay que crearla a mano.",
+      },
+      {
+        type: "paragraph",
+        text: "La reciprocidad es la segunda condición. Una amistad no se sostiene con admiración ni con utilidad, sino con cuidado en ambas direcciones: preguntar y ser preguntado, sostener y ser sostenido. En este sentido, muchas personas esperan ser elegidas sin arriesgarse a elegir. Ahora bien, el vínculo adulto exige responsabilidad: alguien da el primer paso, y ese alguien suele ser quien más echa de menos la amistad.",
+      },
+      {
+        type: "heading",
+        text: "Que el vínculo pueda respirar",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera condición es la más silenciosa: permitir que el vínculo respire. De joven, la amistad pedía presencia constante; de adulto, compite con trabajos, hijos y parejas que no conocemos. En cambio, la amistad madura no exige coincidir en todo; exige saber que el vínculo sigue ahí aunque el calendario apriete. Por eso, una amistad adulta puede dormir meses y despertar intacta.",
+      },
+      {
+        type: "heading",
+        text: "La paradoja de la cercanía",
+      },
+      {
+        type: "paragraph",
+        text: "Existe una paradoja incómoda: nunca hubo tantas herramientas para conectar y, a la vez, cuesta tanto sentirse acompañado. Las redes sociales muestran la fachada de una vida social llena; en cambio, la soledad entre adultos de treinta a cincuenta años crece en las encuestas europeas. Además, la agenda adulta confunde contacto con vínculo: llamamos amistad a lo que, a veces, es solo cortesía.",
+      },
+      {
+        type: "paragraph",
+        text: "La soledad que aparece aquí no es dramática; es tibia y silenciosa. A veces se nota en una fiesta donde conoces a todos y no te fías de ninguno. Otras veces aparece al mudarte de ciudad con el trabajo resuelto y la tarde vacía. Al final, no es falta de gente alrededor: es falta de lugares donde uno puede ser él mismo sin representación.",
+      },
+      {
+        type: "heading",
+        text: "Dónde nacen las amistades nuevas",
+      },
+      {
+        type: "paragraph",
+        text: "Las amistades adultas empiezan, casi siempre, en tres territorios: los intereses sostenidos, los procesos compartidos y los espacios de apertura. Un curso, una montaña, un coro, un grupo de lectura: cualquier actividad semanal devuelve lo que la vida adulta quita, un motivo para repetirse. Por ejemplo, empezar algo nuevo a los cuarenta permite conocer personas en el mismo momento vital. Además, compartir un proceso crea una confianza rápida y natural.",
+      },
+      {
+        type: "paragraph",
+        text: "También nacen donde uno se deja ver. La apertura no consiste en contar la vida íntima a un desconocido; consiste en retirar, un poco, la fachada profesional. A veces basta responder con honestidad cuando alguien pregunta cómo estás. En definitiva, la amistad necesita humanidad expuesta: nadie se encariña con una fachada.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: hacer amigos de adulto",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal tener tan pocos amigos de adulto?",
+            answer:
+              "Más normal de lo que parece. Los cambios de ciudad, la crianza y el trabajo reducen la vida social de muchos adultos. Además, reconocerlo con honestidad ya forma parte del cambio.",
+          },
+          {
+            question: "¿Se pueden hacer amigos de verdad a los cuarenta?",
+            answer:
+              "Sí, aunque el ritmo es distinto. La amistad adulta crece despacio, con presencia repetida y reciprocidad. Sin embargo, cuando aparece, suele ser más honda: se elige desde la madurez, no por azar.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una amistad que empieza tarde no llega tarde",
+      },
+      {
+        type: "paragraph",
+        text: "Hacer amigos de adulto no es recuperar la adolescencia; es tejer vínculos con la persona que ya eres. La madurez regala algo que de joven no existía: elegir con criterio, sin la urgencia de caer bien a todo el mundo. Por eso, la amistad adulta llega menos veces, pero cuando llega, sostiene más.",
+      },
+      {
+        type: "paragraph",
+        text: "Si la soledad pesa y ocupa un espacio que ya no quieres sostener solo, se puede pensar en compañía. En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas desde una psicoterapia humanista e integradora, presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. A veces, la conversación que falta empieza en un lugar seguro.",
+      },
+    ],
+  },
 ];

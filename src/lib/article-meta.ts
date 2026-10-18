@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "hacer-amigos-adulto",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "Fer amics d'adult: per què costa i com es teixeix",
+    "titleES": "Hacer amigos de adulto: por qué cuesta y cómo se teje",
+    "excerptCA": "Fer amics d'adult costa més que de jove: per què canvia el vincle, quines condicions el sostenen i on neixen les amistats noves.",
+    "excerptES": "Hacer amigos de adulto cuesta más que de joven: por qué cambia el vínculo, qué condiciones lo sostienen y dónde nacen las amistades nuevas.",
+    "datePublished": "2026-10-18"
+  },
+  {
     "slug": "miedo-a-ser-feliz",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
