@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "duelo-por-una-mascota",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "El dol per una mascota: quan perds algú de casa",
+    "titleES": "El duelo por una mascota: cuando pierdes a alguien de casa",
+    "excerptCA": "El dol per una mascota és un dol real, encara que l'entorn el minimitzi: per què fa tant de mal, què el fa diferent i com es transita.",
+    "excerptES": "El duelo por una mascota es un duelo real, aunque el entorno lo minimice: por qué duele tanto, qué lo hace distinto y cómo se transita.",
+    "datePublished": "2026-10-19"
+  },
+  {
     "slug": "hacer-amigos-adulto",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",

@@ -1478,4 +1478,197 @@ export const articlesPart15: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 8. duelo-por-una-mascota (cambios vitales, 2026-10-19)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "duelo-por-una-mascota",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "El dol per una mascota: quan perds algú de casa",
+    titleES: "El duelo por una mascota: cuando pierdes a alguien de casa",
+    excerptCA:
+      "El dol per una mascota és un dol real, encara que l'entorn el minimitzi: per què fa tant de mal, què el fa diferent i com es transita.",
+    excerptES:
+      "El duelo por una mascota es un duelo real, aunque el entorno lo minimice: por qué duele tanto, qué lo hace distinto y cómo se transita.",
+    datePublished: "2026-10-19",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "El dol per una mascota és una de les pèrdues que més arriben a consulta i, en canvi, una de les que menys reconeixement troben fora. Qui el viu ha perdut algú que dormia al seu costat, esperava el seu retorn i omplia la casa de presència. Tanmateix, l'entorn sol respondre amb frases benintencionades que, al capdavall, afanyen l'oblit. Per això convé dir-ho clar: aquesta pèrdua fa mal, i fa mal de debò.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar el dol per una mascota amb la mateixa seriositat que qualsevol altra pèrdua. Veurem per què fa tant de mal, què el fa diferent, com sostenir la culpa de qui cuida i quan demanar companyia professional. Al capdavall, la profunditat del dolor no depèn de l'espècie, sinó del vincle.",
+      },
+      {
+        type: "heading",
+        text: "Per què el dol per una mascota fa tant de mal",
+      },
+      {
+        type: "paragraph",
+        text: "Un vincle es mesura pel que sosté, no per l'espècie de qui l'habita. La relació amb una mascota és quotidiana, física i constant: passejades, horaris, rites d'arribada, presència silenciosa en els dies difícils. De fet, la recerca sobre l'apegament documenta que aquests llaços activen el mateix sistema de vinculació que ens uneix a les persones importants. Per això, quan falta, el cos enyora: la mà busca el llom, l'orella espera un soroll, la rutina apareix trencada.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la mascota sol ser testimoni d'etapes senceres de la vida: una mudança, una separació, uns anys durs de feina. Perdre-la és perdre també qui va acompanyar aquella història. En aquest sentit, el dol no acomiada només un ésser estimat; acomiada la versió d'un mateix que va compartir aquells anys amb ella.",
+      },
+      {
+        type: "heading",
+        text: "Una pèrdua que l'entorn no sempre valida",
+      },
+      {
+        type: "paragraph",
+        text: "En psicologia es coneix com a dol desautoritzat: una pèrdua real que l'entorn no reconeix com a legítima. A la mort d'una mascota se li escapa un «era només un gos», un «ja et consolaràs amb un altre» o, directament, silenci. Tanmateix, qui pateix necessita el contrari: que el seu dolor tingui lloc, nom i testimonis.",
+      },
+      {
+        type: "paragraph",
+        text: "La manca de validació té un efecte concret. Quan l'entorn afanya l'oblit, la persona aprèn a amagar el dolor per no semblar exagerada; el procés es fa més solitari i, a vegades, més llarg. Ara bé, hi ha una bona notícia: el dol no necessita permís extern per ser real. Necessita, més aviat, espai interior i algú que l'escolti sense mesurar-lo.",
+      },
+      {
+        type: "heading",
+        text: "La culpa de qui decideix",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes mascotes s'acomiaden amb una decisió mèdica complicada: quant tractament, quant sofriment, quan prou. Aquesta responsabilitat deixa una marca pròpia. La ment revisa el calendari, els símptomes, les paraules del veterinari, i es pregunta si va ser massa aviat o massa tard. A vegades, la culpa s'instal·la justament on hi va haver més amor.",
+      },
+      {
+        type: "paragraph",
+        text: "Tanmateix, decidir també va ser una manera de cuidar. Triar el final d'algú que no pot triar-lo és un dels actes de responsabilitat més difícils que existeixen. En aquest sentit, la culpa demana una resposta diferent de la raó: reconèixer que, amb la informació i l'afecte d'aquell moment, es va actuar com es va poder. La coherència no és no dubtar; és haver-hi estat.",
+      },
+      {
+        type: "heading",
+        text: "La casa que queda: acomiades i temps",
+      },
+      {
+        type: "paragraph",
+        text: "El dol per una mascota té una geografia concreta: el plat vora la porta, el ronsal al penjador, la catifa on dormia. Cada objecte és una petita alarma d'absència. Per això no hi ha una única forma correcta d'ordenar-los. Algunes persones necessiten retirar-los aviat; altres, durant mesos. Ambdues opcions són legítimes, perquè el dol té el seu propi calendari.",
+      },
+      {
+        type: "paragraph",
+        text: "Els ritus també ajuden. Enterrar amb cura, plantar alguna cosa, escriure unes línies, guardar el collar en un lloc visible o, senzillament, plorar en veu alta. De fet, acomiadar-se no és oblidar: és donar a la relació un final digne d'ella. Moltes persones descobreixen que, quan el dolor es pot expressar, deixa de necessitar tanta força per contenir-se.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: el dol per una mascota",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal sentir tant de dolor per una mascota?",
+            answer:
+              "Sí, i no hi ha mesura honesta que digui el contrari. El dolor parla del vincle, no d'exageració. De fet, quan l'entorn el minimitza, sol fer encara més mal: el sofriment que no es pot mostrar pesa el doble.",
+          },
+          {
+            question: "Hauria d'adoptar una altra mascota aviat?",
+            answer:
+              "No hi ha resposta universal. Adoptar abans d'acomiadar la pèrdua sol buscar substituir allò irreemplaçable; adoptar després, en canvi, pot obrir una història nova. Normalment, la clau és l'honestedat amb un mateix: obro la porta des del desig o des del buit?",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Quan el dolor necessita companyia",
+      },
+      {
+        type: "paragraph",
+        text: "El dol per una mascota no se supera amb força de voluntat ni amb terminis. Es travessa caminant, amb dies millors, dies pitjors i la presència d'algú que no el mesuri. Si el teu s'ha aturat en el temps, si la culpa no descansa o si la casa buida pesa massa, es pot pensar en companyia.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles en dols i transicions vitals des d'una psicoteràpia humanista i integradora, presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Tota pèrdua mereix un lloc on poder anomenar-se.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El duelo por una mascota es una de las pérdidas que más llegan a consulta y, en cambio, una de las que menos reconocimiento encuentran fuera. Quien la vive ha perdido a alguien que dormía a su lado, esperaba su regreso y llenaba la casa de presencia. Sin embargo, el entorno suele responder con frases bienintencionadas que, al final, apuran el olvido. Por eso conviene decirlo claro: esta pérdida duele, y duele de verdad.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar el duelo por una mascota con la misma seriedad que cualquier otra pérdida. Veremos por qué duele tanto, qué lo hace distinto, cómo sostener la culpa de quien cuida y cuándo pedir compañía profesional. Al final, la profundidad del dolor no depende de la especie, sino del vínculo.",
+      },
+      {
+        type: "heading",
+        text: "Por qué el duelo por una mascota duele tanto",
+      },
+      {
+        type: "paragraph",
+        text: "Un vínculo se mide por lo que sostiene, no por la especie de quien lo habita. La relación con una mascota es cotidiana, física y constante: paseos, horarios, ritos de llegada, presencia silenciosa en los días difíciles. De hecho, la investigación sobre el apego documenta que estos lazos activan el mismo sistema de vinculación que nos une a las personas importantes. Por eso, cuando falta, el cuerpo echa de menos: la mano busca el lomo, el oído espera un ruido, la rutina aparece rota.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la mascota suele ser testigo de etapas enteras de la vida: una mudanza, una separación, unos años duros de trabajo. Perderla es perder también a quien acompañó esa historia. En este sentido, el duelo no solo despide a un ser querido; despide la versión de uno mismo que compartió esos años con ella.",
+      },
+      {
+        type: "heading",
+        text: "Una pérdida que el entorno no siempre valida",
+      },
+      {
+        type: "paragraph",
+        text: "En psicología se conoce como duelo desautorizado: una pérdida real que el entorno no reconoce como legítima. A la muerte de una mascota se le escapa un «era solo un perro», un «ya te consolarás con otro» o, directamente, silencio. Sin embargo, quien sufre necesita lo contrario: que su dolor tenga lugar, nombre y testigos.",
+      },
+      {
+        type: "paragraph",
+        text: "La falta de validación tiene un efecto concreto. Cuando el entorno apura el olvido, la persona aprende a esconder el dolor para no parecer exagerada; el proceso se vuelve más solitario y, a veces, más largo. Ahora bien, hay una buena noticia: el duelo no necesita permiso externo para ser real. Necesita, más bien, espacio interior y alguien que lo escuche sin medirlo.",
+      },
+      {
+        type: "heading",
+        text: "La culpa de quien decide",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas mascotas se despiden con una decisión médica complicada: cuánto tratamiento, cuánto sufrimiento, cuándo basta. Esa responsabilidad deja una marca propia. La mente revisa el calendario, los síntomas, las palabras del veterinario, y se pregunta si fue demasiado pronto o demasiado tarde. A veces, la culpa se instala justo donde hubo más amor.",
+      },
+      {
+        type: "paragraph",
+        text: "Sin embargo, decidir también fue una forma de cuidar. Elegir el final de alguien que no puede elegirlo es uno de los actos de responsabilidad más difíciles que existen. En este sentido, la culpa pide una respuesta distinta de la razón: reconocer que, con la información y el cariño de aquel momento, se actuó como se pudo. La coherencia no está en no dudar; está en haber estado ahí.",
+      },
+      {
+        type: "heading",
+        text: "La casa que queda: despedidas y tiempo",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo por una mascota tiene una geografía concreta: el cuenco junto a la puerta, la correa en el perchero, la manta donde dormía. Cada objeto es una pequeña alarma de ausencia. Por eso no hay una única forma correcta de ordenarlos. Algunas personas necesitan retirarlos pronto; otras, durante meses. Ambas opciones son legítimas, porque el duelo tiene su propio calendario.",
+      },
+      {
+        type: "paragraph",
+        text: "Los rituales también ayudan. Enterrar con cuidado, plantar algo, escribir unas líneas, guardar el collar en un lugar visible o, simplemente, llorar en voz alta. De hecho, despedirse no es olvidar: es dar a la relación un final digno de ella. Muchas personas descubren que, cuando el dolor puede expresarse, deja de necesitar tanta fuerza para contenerse.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el duelo por una mascota",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal sentir tanto dolor por una mascota?",
+            answer:
+              "Sí, y no hay medida honesta que diga lo contrario. El dolor habla del vínculo, no de exageración. De hecho, cuando el entorno lo minimiza, suele doler aún más: el sufrimiento que no se puede mostrar pesa el doble.",
+          },
+          {
+            question: "¿Debería adoptar otra mascota pronto?",
+            answer:
+              "No hay respuesta universal. Adoptar antes de despedir la pérdida suele buscar reemplazar lo irreemplazable; adoptar después, en cambio, puede abrir una historia nueva. Normalmente, la clave es la honestidad con uno mismo: ¿abro la puerta desde el deseo o desde el vacío?",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Cuando el dolor necesita compañía",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo por una mascota no se supera con fuerza de voluntad ni con plazos. Se atraviesa caminando, con días mejores, días peores y la presencia de alguien que no lo mida. Si el tuyo se ha detenido en el tiempo, si la culpa no descansa o si la casa vacía pesa demasiado, se puede pensar en compañía.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas en duelos y transiciones vitales desde una psicoterapia humanista e integradora, presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Toda pérdida merece un lugar donde poder nombrarse.",
+      },
+    ],
+  },
 ];
