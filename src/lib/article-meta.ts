@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "carga-mental-en-la-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "La càrrega mental a la parella: quan pensar també és una feina",
+    "titleES": "La carga mental en la pareja: cuando pensar también es un trabajo",
+    "excerptCA": "La càrrega mental a la parella és la feina invisible de pensar i planificar la vida en comú: per què esgota, per què costa veure-la i com es reparteix.",
+    "excerptES": "La carga mental en la pareja es el trabajo invisible de pensar y planificar la vida común: por qué agota, por qué cuesta verlo y cómo se reparte de verdad.",
+    "datePublished": "2026-10-20"
+  },
+  {
     "slug": "duelo-por-una-mascota",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
