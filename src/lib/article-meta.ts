@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "miedo-a-la-muerte-edad-adulta",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "La por a la mort a l'edat adulta: quan el final pregunta",
+    "titleES": "Miedo a la muerte en la edad adulta: cuando el final pregunta",
+    "excerptCA": "La por a la mort a l'edat adulta no és morbosa: és una pregunta per la pròpia vida. Què revela, quan preocupa i com es treballa a la teràpia.",
+    "excerptES": "El miedo a la muerte en la edad adulta no es morboso: es una pregunta por la propia vida. Qué revela, cuándo preocupa y cómo se trabaja en terapia.",
+    "datePublished": "2026-10-21"
+  },
+  {
     "slug": "carga-mental-en-la-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

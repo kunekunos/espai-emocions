@@ -1855,7 +1855,200 @@ export const articlesPart15: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si te reconoces en esta historia, en Espai Emocions, centro de psicología de Barcelona, acompañamos a parejas que quieren repartir mejor lo que sostienen juntas, con una psicoterapia humanista presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Pensar la vida en compañía también se aprende.",
-      }
+      },
+    ],
+  },
+  // ---------------------------------------------------------------------------
+  // 10. miedo-a-la-muerte-edad-adulta (cambios vitales, 2026-10-21)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "miedo-a-la-muerte-edad-adulta",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "La por a la mort a l'edat adulta: quan el final pregunta",
+    titleES: "Miedo a la muerte en la edad adulta: cuando el final pregunta",
+    excerptCA:
+      "La por a la mort a l'edat adulta no és morbosa: és una pregunta per la pròpia vida. Què revela, quan preocupa i com es treballa a la teràpia.",
+    excerptES:
+      "El miedo a la muerte en la edad adulta no es morboso: es una pregunta por la propia vida. Qué revela, cuándo preocupa y cómo se trabaja en terapia.",
+    datePublished: "2026-10-21",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La por a la mort a l'edat adulta rarament s'anuncia amb el seu nom. Arriba de nit, amb un aniversari rodó, després d'una pèrdua o d'un diagnòstic, i es disfressa d'insomni, d'urgència o d'una pregunta que no marxa: «estic vivint la vida que volia?». De fet, és una de les consultes més íntimes que rep un psicòleg, i també una de les més humanes.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar-la sense dramatisme ni argot. Veurem com es presenta aquesta por, què diu de la pròpia vida, quan convé demanar ajuda i com la sosté la psicoteràpia. Al capdavall, no es tracta d'eliminar-la. Es tracta d'escoltar quina pregunta amaga, perquè aquesta pregunta gairebé mai no parla de la mort. Parla de la vida que s'està vivint.",
+      },
+      {
+        type: "heading",
+        text: "Com es presenta la por a la mort a l'edat adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta por té formes concretes. A vegades són pensaments que arriben sense permís, de matinada, amb el cor accelerat. Altres vegades és un impuls compulsiu per revisar el cos, buscar símptomes o demanar tranquil·litat mèdica que mai no basta. També pot ser evitació: no anar a funerals, no parlar del tema, canviar de canal. L'ansietat per la salut comparteix aquesta mecànica i, de fet, els límits sovint es confonen.",
+      },
+      {
+        type: "paragraph",
+        text: "N'hi ha una altra forma, més silenciosa. No és pànic: és un teló de fons. Moltes persones adultes descriuen una sensació de compte enrere, una presa de consciència sobtada que la vida no és infinita. Aquesta forma no sempre genera angoixa aguda; en canvi, deixa un malestar difús, una urgència per viure una altra cosa, un rancor subtil amb el temps. Reconèixer-la a consulta, a més, sol portar alleugeriment. Allò que no tenia nom comença a tenir-lo.",
+      },
+      {
+        type: "heading",
+        text: "Què revela aquesta por sobre la pròpia vida",
+      },
+      {
+        type: "paragraph",
+        text: "La psicologia existencial sosté una idea incòmoda i alliberadora: la por a la mort és, gairebé sempre, una pregunta per la vida. Quan algú comença a témer el final, convé mirar què hi ha al voltant. Hi ha coherència entre allò que aquesta persona valora i el que fa cada dia? Hi ha vincles que sostenen, o relacions de pura costum? Hi ha projectes que importen, o només agenda? La por intensifica el que ja hi era: si la vida encaixa, la finitud entristeix; si no encaixa, aterra.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això aquest tema apareix tant a les crisis de la maduresa. L'edat adulta porta les primeres pèrdues reals: un pare, una amiga, un company de feina. A més, el cos comença a demanar comptes i la llista d'anys per endavant s'escurça. En aquest context, la por funciona com una alarma de coherència. No pregunta si morirem, sinó si estem vivint. I aquesta pregunta, ben sostinguda, pot canviar decisions de fons: parella, feina, lloc, ritme.",
+      },
+      {
+        type: "heading",
+        text: "Quan la por a la mort esdevé un problema",
+      },
+      {
+        type: "paragraph",
+        text: "Pensar en la mort de tant en tant és part de la condició humana; cap psicòleg seriós no pretén extirpar-ho. Ara bé, hi ha senyals que demanen atenció. La principal és la interferència: quan el tema roba hores de son, condiciona plans o dispara revisions constants del cos. Una altra senyal és la rumiació: el mateix pensament donant voltes, sense arribar enlloc, amb pics de pànic nocturn.",
+      },
+      {
+        type: "paragraph",
+        text: "També compta el context. Un dol recent, un ensurt mèdic o la mort d'algú proper poden activar aquesta por durant mesos, i això és esperable. En canvi, quan el malestar persisteix sense motiu aparent, creix o s'acompanya d'estats depressius, convé consultar-ho. No perquè existeixi un «grau patològic» universal, sinó perquè el patiment sostingut mereix companyia professional. Demanar ajuda, en aquest sentit, no és exagerar. És responsabilitat amb la pròpia vida.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la por a la mort",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal pensar en la mort sovint?",
+            answer:
+              "Sí, sobretot a l'edat adulta. La consciència de la finitud apareix després de pèrdues, aniversaris assenyalats o canvis d'etapa. Ara bé, si el pensament genera angoixa constant o limita la vida quotidiana, convé consultar-ho amb un psicòleg.",
+          },
+          {
+            question: "La teràpia promet treure aquesta por?",
+            answer:
+              "No, i cap teràpia honesta ho hauria de prometre. La psicoteràpia ajuda a comprendre quina pregunta amaga la por, a baixar-ne la intensitat i a traduir-la en decisions coherents. Al final, el que canvia no és la mort: és la relació amb la pròpia vida.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a la psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "En un enfocament humanista i existencial, el treball no consisteix a discutir amb la por, sinó a donar-li espai i paraula. Sovint, la persona que tem la mort no n'ha parlat mai amb ningú; el fet de pensar-ho en veu alta, amb calma i sense judicis, ja ordena. La teràpia també posa la por en context: història, vincles, valors i la manera pròpia de relacionar-se amb allò que no es controla.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, es treballa la part pràctica. Quan la por inclou revisions, insomni o pànic, hi ha eines clíniques per baixar l'activació; quan inclou decisions paralitzades, la conversa ajuda a ordenar. Amb el temps, molts pacients no deixen de pensar en la mort. La pensen d'una altra manera: amb menys urgència i amb més direcció. L'objectiu real és que la finitud deixi de ser una amenaça i esdevingui un marc de sentit.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta per la vida, ben mirada",
+      },
+      {
+        type: "paragraph",
+        text: "La por a la mort a l'edat adulta, sostinguda amb calma, pot convertir-se en una brúixola. Ens recorda que el temps és finit, que les relacions importen i que algunes decisions no poden esperar per sempre. Les tradicions sapiencials ho han dit sempre, i la psicologia contemporània ho confirma: qui accepta la pròpia finitud tendeix a viure amb més intenció, no amb menys ganes.",
+      },
+      {
+        type: "paragraph",
+        text: "Si aquest tema t'habita des de fa temps, a Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles que travessen crisis existencials amb psicoteràpia presencial o en línia, a càrrec de psicòlegs col·legiats. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Pensar la finitud també és una manera de cuidar la vida.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El miedo a la muerte en la edad adulta rara vez se anuncia con su nombre. Aparece de noche, con un cumpleaños redondo, después de una pérdida o de un diagnóstico, y se disfraza de insomnio, de urgencia o de una pregunta que no suelta: «¿estoy viviendo la vida que quería?». De hecho, es una de las consultas más íntimas que recibe un psicólogo, y también una de las más humanas.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirarlo sin dramatismo ni jerga. Veremos cómo se presenta este miedo, qué dice de la propia vida, cuándo conviene pedir ayuda y cómo lo sostiene la psicoterapia. Al final, no se trata de eliminarlo. Se trata de escuchar qué pregunta esconde, porque esa pregunta casi nunca habla de la muerte. Habla de la vida que se está viviendo.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se presenta el miedo a la muerte en la edad adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Este miedo tiene formas concretas. A veces son pensamientos que llegan sin permiso, de madrugada, con el corazón acelerado. Otras veces es un impulso compulsivo por revisar el cuerpo, buscar síntomas o pedir tranquilidad médica que nunca basta. También puede ser evitación: no acudir a funerales, no hablar del tema, cambiar de canal. La ansiedad por la salud comparte esta mecánica y, de hecho, los límites se confunden a menudo.",
+      },
+      {
+        type: "paragraph",
+        text: "Existe otra forma, más silenciosa. No es pánico: es un telón de fondo. Muchas personas adultas describen una sensación de cuenta atrás, una toma de conciencia repentina de que la vida no es infinita. Esta forma no siempre genera angustia aguda; en cambio, deja un malestar difuso, una urgencia por vivir algo distinto, un rencor sutil con el tiempo. Reconocerla en consulta, además, suele traer alivio. Lo que no tenía nombre empieza a tenerlo.",
+      },
+      {
+        type: "heading",
+        text: "Qué revela este miedo sobre la propia vida",
+      },
+      {
+        type: "paragraph",
+        text: "La psicología existencial sostiene una idea incómoda y liberadora: el miedo a la muerte es, casi siempre, una pregunta por la vida. Cuando alguien empieza a temer el final, conviene mirar qué hay alrededor. ¿Hay coherencia entre lo que esa persona valora y lo que hace cada día? ¿Hay vínculos que sostienen, o relaciones de pura costumbre? ¿Hay proyectos que importan, o solo agenda? El miedo intensifica lo que ya estaba: si la vida encaja, la finitud entristece; si no encaja, aterroriza.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso este tema aparece tanto en las crisis de la madurez. La edad adulta trae las primeras pérdidas reales: un padre, una amiga, un compañero de trabajo. Además, el cuerpo empieza a pedir cuentas y la lista de años por delante se acorta. En ese contexto, el miedo funciona como una alarma de coherencia. No pregunta si moriremos, sino si estamos viviendo. Y esa pregunta, bien sostenida, puede cambiar decisiones de fondo: pareja, trabajo, lugar, ritmo.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo el miedo a la muerte se convierte en un problema",
+      },
+      {
+        type: "paragraph",
+        text: "Pensar en la muerte de vez en cuando es parte de la condición humana; ningún psicólogo serio pretende extirparlo. Ahora bien, hay señales que piden atención. La principal es la interferencia: cuando el tema roba horas de sueño, condiciona planes o dispara chequeos constantes del cuerpo. Otra señal es la rumiación: el mismo pensamiento dando vueltas, sin llegar a ninguna parte, con picos de pánico nocturno.",
+      },
+      {
+        type: "paragraph",
+        text: "También importa el contexto. Un duelo reciente, un susto médico o la muerte de alguien cercano pueden activar este miedo durante meses, y eso es esperable. En cambio, cuando el malestar persiste sin motivo aparente, crece o se acompaña de estados depresivos, conviene consultarlo. No porque exista un «grado patológico» universal, sino porque el sufrimiento sostenido merece compañía profesional. Pedir ayuda, en este sentido, no es exagerar. Es responsabilidad con la propia vida.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre el miedo a la muerte",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal pensar en la muerte a menudo?",
+            answer:
+              "Sí, sobre todo en la edad adulta. La conciencia de la finitud aparece tras pérdidas, cumpleaños señalados o cambios de etapa. Ahora bien, si el pensamiento genera angustia constante o limita la vida cotidiana, conviene consultarlo con un psicólogo.",
+          },
+          {
+            question: "¿La terapia promete quitar este miedo?",
+            answer:
+              "No, y ninguna honesta debería prometerlo. La psicoterapia ayuda a comprender qué pregunta esconde el miedo, a bajar su intensidad y a traducirlo en decisiones coherentes. Al final, lo que cambia no es la muerte: es la relación con la propia vida.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "En un enfoque humanista y existencial, el trabajo no consiste en discutir con el miedo, sino en darle espacio y palabra. A menudo, la persona que teme la muerte nunca ha hablado del tema con nadie; el simple hecho de pensarlo en voz alta, con calma y sin juicios, ya ordena. La terapia también pone el miedo en contexto: historia, vínculos, valores y la manera propia de relacionarse con lo que no se controla.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, se trabaja la parte práctica. Cuando el miedo incluye chequeos, insomnio o pánico, hay herramientas clínicas para bajar la activación; cuando incluye decisiones paralizadas, la conversación ayuda a ordenar. Con el tiempo, muchos pacientes no dejan de pensar en la muerte. La piensan distinto: con menos urgencia y con más dirección. El objetivo real es que la finitud deje de ser una amenaza y empiece a ser un marco de sentido.",
+      },
+      {
+        type: "heading",
+        text: "Una pregunta por la vida, bien mirada",
+      },
+      {
+        type: "paragraph",
+        text: "El miedo a la muerte en la edad adulta, sostenido con calma, puede convertirse en una brújula. Nos recuerda que el tiempo es finito, que las relaciones importan y que ciertas decisiones no pueden esperar para siempre. Las tradiciones sapienciales lo han dicho siempre, y la psicología contemporánea lo confirma: quien acepta su finitud tiende a vivir con más intención, no con menos ganas.",
+      },
+      {
+        type: "paragraph",
+        text: "Si este tema te habita desde hace tiempo, en Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas que atraviesan crisis existenciales con psicoterapia presencial u online, a cargo de psicólogos colegiados. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Pensar la finitud también es una manera de cuidar la vida.",
+      },
     ],
   },
 ];
