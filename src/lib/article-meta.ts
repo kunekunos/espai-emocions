@@ -13,6 +13,18 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "relacion-con-tu-cuerpo-edad-adulta",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La relació amb el teu cos a l'edat adulta",
+    "titleES": "La relación con tu cuerpo en la edad adulta",
+    "excerptCA":
+      "La relació amb el teu cos canvia amb l'edat: l'espill, la veu crítica i el cansament. Com recuperar una mirada més habitada des de la psicologia.",
+    "excerptES":
+      "La relación con tu cuerpo cambia con la edad: el espejo, la voz crítica y el cansancio. Cómo recuperar una mirada más habitada desde la psicología.",
+    "datePublished": "2026-10-22"
+  },
+  {
     "slug": "miedo-a-la-muerte-edad-adulta",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
