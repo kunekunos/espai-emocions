@@ -13,15 +13,23 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "no-me-reconozco-en-mi-vida",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "«No em reconec en la meva vida»: què passa quan tot encaixa per fora",
+    "titleES": "«No me reconozco en mi vida»: qué pasa cuando todo encaja por fuera",
+    "excerptCA": "No reconèixer-te en la teva vida pròpia és una crisi d'identitat d'adult, no un fracàs: què vol dir, per què s'activa a la maduresa i com es treballa.",
+    "excerptES": "No reconocerte en tu vida es una crisis de identidad adulta, no un fracaso: qué significa, por qué se activa en la maduresa y cómo se trabaja en terapia.",
+    "datePublished": "2026-10-23"
+  },
+  {
     "slug": "relacion-con-tu-cuerpo-edad-adulta",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
     "titleCA": "La relació amb el teu cos a l'edat adulta",
     "titleES": "La relación con tu cuerpo en la edad adulta",
-    "excerptCA":
-      "La relació amb el teu cos canvia amb l'edat: l'espill, la veu crítica i el cansament. Com recuperar una mirada més habitada des de la psicologia.",
-    "excerptES":
-      "La relación con tu cuerpo cambia con la edad: el espejo, la voz crítica y el cansancio. Cómo recuperar una mirada más habitada desde la psicología.",
+    "excerptCA": "La relació amb el teu cos canvia amb l'edat: l'espill, la veu crítica i el cansament. Com recuperar una mirada més habitada des de la psicologia.",
+    "excerptES": "La relación con tu cuerpo cambia con la edad: el espejo, la voz crítica y el cansancio. Cómo recuperar una mirada más habitada desde la psicología.",
     "datePublished": "2026-10-22"
   },
   {
