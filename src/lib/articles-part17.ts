@@ -197,4 +197,213 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 2. como-es-una-sesion-de-terapia-de-pareja (Pareja, 2026-10-24)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "como-es-una-sesion-de-terapia-de-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "Com és una sessió de teràpia de parella: què passa a dins",
+    titleES: "Cómo es una sesión de terapia de pareja: qué pasa dentro",
+    excerptCA:
+      "Com és una sessió de teràpia de parella: qui parla, què fa el psicòleg i què es treballa cada setmana. Explicat amb calma i de tu a tu.",
+    excerptES:
+      "Cómo es una sesión de terapia de pareja: quién habla, qué hace el psicólogo y qué se trabaja cada semana. Explicado con calma y de tú a tú.",
+    datePublished: "2026-10-24",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Com és una sessió de teràpia de parella? És la pregunta que es fan moltes parelles abans de demanar hora en un centre de psicologia. Conèixer què passa a dins treu ferro al primer pas; la incertesa, en canvi, fa que molts ho deixin passar mesos. En aquest article t'ho expliquem amb calma: com s'organitza una sessió, qui parla i què fa el psicòleg. També veurem què es treballa al llarg del procés.",
+      },
+      {
+        type: "paragraph",
+        text: "Una sessió de teràpia de parella no és un judici ni un desempat. És, abans de res, una hora tranquil·la i ordenada on dues persones adultes tornen a mirar-se amb companyia professional. Sovint és l'únic moment de la setmana en què la relació té la paraula. Per això funciona menys com una intromissió i més com una cita amb el propi vincle.",
+      },
+      {
+        type: "heading",
+        text: "Com és la primera sessió de teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "La primera sessió és, sobretot, una conversa de presentació. Normalment hi assistiu els dos, perquè el professional necessita escoltar les dues veus des del començament. Cada persona explica, amb el seu temps, com veu el moment i què li fa mal. El psicòleg no talla ni corregeix; pren notes i ordena el que sent.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta hora inicial serveix per a tres coses. Primer, entendre la història: com us vau conèixer, què us va unir i quan va arribar el gir. Després, veure el patró: què es repeteix cada vegada que discutiu i què fa cadascú mentre l'altre reacciona. Finalment, acordar el marc de treball: freqüència, durada i manera de procedir. Al capdavall, un començament clar redueix la por de parlar.",
+      },
+      {
+        type: "heading",
+        text: "Qui parla i què fa el psicòleg a cada sessió",
+      },
+      {
+        type: "paragraph",
+        text: "A les sessions següents, l'espai es reparteix amb una regla senzilla: ningú s'ha de quedar sense veu. Hi ha parelles que necessiten més temps per a cada un; n'hi ha d'altres que necessiten aprendre a callar a temps. El psicòleg va modulant aquest equilibri sessió rere sessió.",
+      },
+      {
+        type: "paragraph",
+        text: "El psicòleg de parella no fa d'àrbitre i tampoc dona la raó a ningú. La seva feina és sostenir la conversa quan escalfa, posar noms al que es repeteix i recuperar l'objectiu compartit quan es perd. Per exemple, quan un ataca, l'altre es tanca; adonar-se d'aquest moviment val més que guanyar la discussió. En aquest sentit, cada sessió funciona com un mirall lent: us ensenya el ball complet, no només l'últim pas.",
+      },
+      {
+        type: "heading",
+        text: "Què es treballa sessió a sessió en la teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "El procés no va de resoldre temes solts, sinó d'entendre el patró que els sosté. Al llarg de les sessions es treballa la comunicació: com escolteu, com pregunteu, com demaneu i com retireu. A més, es treballa el vincle: la confiança, el desig, el repartiment de la vida quotidiana i els papers heretats de cada família. L'objectiu, en definitiva, és recuperar coherència entre el que cada un sent i el que la parella fa.",
+      },
+      {
+        type: "paragraph",
+        text: "També hi ha espai per a la història individual. És freqüent que el psicòleg vegi cada persona per separat en algun moment, per conèixer el context que cadascú porta a la relació. Aquestes converses a soles no són un interrogatori secret; ajuden el professional a tenir una vista completa. Després, allò que cal compartir es posa en comú amb respecte per la intimitat de cadascú.",
+      },
+      {
+        type: "heading",
+        text: "Allò que no es diu també ocupa lloc",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un detall que sorprèn tothom: la teràpia de parella també treballa allò que no es diu. Els silencis, els horaris, els malentesos de calendari; tot allò que es va deixar de comentar ocupa lloc. Per això moltes sessions comencen amb una pregunta aparentment petita.",
+      },
+      {
+        type: "heading",
+        text: "La sessió no és un judici: què no és la teràpia de parella",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia de parella no serveix per guanyar les discussions de casa. Tampoc serveix perquè un professional decideixi qui té raó o si us heu de separar: aquesta decisió, si arriba, és vostra. Moltes parelles venen pensant que el psicòleg dirà qui falla; després descobreixen que el que es mira és la relació, no la culpa.",
+      },
+      {
+        type: "paragraph",
+        text: "Convé desmuntar una altra idea. Anar a teràpia de parella no vol dir que la relació estigui trencada ni que sigueu un fracàs. Vol dir, en canvi, que dos adults decideixen cuidar una cosa que els importa. De fet, demanar ajuda a temps és més maduresa que rendició.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre les sessions de parella",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Hi hem d'anar tots dos a la primera sessió?",
+            answer:
+              "Normalment, sí. La sessió inicial serveix per escoltar les dues veus des del primer minut, i això marca el to de tot el procés. Ara bé, si un dels dos s'hi resisteix, es pot parlar primer amb el psicòleg i trobar la manera de fer el pas plegats. De fet, la resistència inicial també és informació útil.",
+          },
+          {
+            question: "La teràpia de parella serveix per decidir si seguim junts?",
+            answer:
+              "Serveix per veure-hi més clar, però no és la seva única funció. Hi ha parelles que arriben a una decisió honrada i d'altres que reconstrueixen el vincle des de zero. En tot cas, la decisió neix del treball compartit, no d'una sentència del psicòleg.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una hora per a la relació",
+      },
+      {
+        type: "paragraph",
+        text: "Saber com és una sessió de teràpia de parella és el primer pas per demanar-la sense por. Al capdavall, una sessió no és un tribunal ni una urgència: és una hora tranquil·la, setmanal o quinzenal, on la relació torna a tenir lloc. La maduresa d'una parella es nota, precisament, en la capacitat de mirar-se amb ajuda quan tot sol ja no abasta.",
+      },
+      {
+        type: "paragraph",
+        text: "Si ho esteu pensant, a Espai Emocions, centre de psicologia de Barcelona, fem psicoteràpia per a adults i parelles, amb psicòlegs col·legiats, de manera presencial o en línia. Podeu demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Començar no us compromet a res més que a mirar-vos.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Cómo es una sesión de terapia de pareja? Es la pregunta que se hacen muchas parejas antes de pedir hora en un centro de psicología. Conocer qué pasa dentro le quita hierro al primer paso; la incertidumbre, en cambio, hace que muchos lo dejen pasar meses. En este artículo te lo explicamos con calma: cómo se organiza una sesión, quién habla y qué hace el psicólogo. También veremos qué se trabaja a lo largo del proceso.",
+      },
+      {
+        type: "paragraph",
+        text: "Una sesión de terapia de pareja no es un juicio ni un desempate. Es, antes que nada, una hora tranquila y ordenada donde dos personas adultas vuelven a mirarse con compañía profesional. A menudo es el único momento de la semana en el que la relación tiene la palabra. Por eso funciona menos como una intromisión y más como una cita con el propio vínculo.",
+      },
+      {
+        type: "heading",
+        text: "Cómo es la primera sesión de terapia de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "La primera sesión es, sobre todo, una conversación de presentación. Normalmente asistís los dos, porque el profesional necesita escuchar las dos voces desde el principio. Cada persona explica, con su tiempo, cómo ve el momento y qué le duele. El psicólogo no corta ni corrige; toma notas y ordena lo que escucha.",
+      },
+      {
+        type: "paragraph",
+        text: "Esa hora inicial sirve para tres cosas. Primero, entender la historia: cómo os conocisteis, qué os unió y cuándo llegó el giro. Después, ver el patrón: qué se repite cada vez que discutís y qué hace cada uno mientras el otro reacciona. Finalmente, acordar el marco de trabajo: frecuencia, duración y manera de proceder. Al final, un comienzo claro reduce el miedo a hablar.",
+      },
+      {
+        type: "heading",
+        text: "Quién habla y qué hace el psicólogo en cada sesión",
+      },
+      {
+        type: "paragraph",
+        text: "En las sesiones siguientes, el espacio se reparte con una regla sencilla: nadie debe quedarse sin voz. Hay parejas que necesitan más tiempo para cada uno; hay otras que necesitan aprender a callar a tiempo. El psicólogo va modulando ese equilibrio sesión tras sesión.",
+      },
+      {
+        type: "paragraph",
+        text: "El psicólogo de pareja no actúa como árbitro y tampoco da la razón a nadie. Su trabajo es sostener la conversación cuando se calienta, poner nombres a lo que se repite y recuperar el objetivo compartido cuando se pierde. Por ejemplo, cuando uno ataca, el otro se cierra; darse cuenta de ese movimiento vale más que ganar la discusión. En este sentido, cada sesión funciona como un espejo lento: os enseña el baile completo, no solo el último paso.",
+      },
+      {
+        type: "heading",
+        text: "Qué se trabaja sesión a sesión en la terapia de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "El proceso no va de resolver temas sueltos, sino de entender el patrón que los sostiene. A lo largo de las sesiones se trabaja la comunicación: cómo escucháis, cómo preguntáis, cómo pedís y cómo os retiráis. Además, se trabaja el vínculo: la confianza, el deseo, el reparto de la vida cotidiana y los papeles heredados de cada familia. El objetivo, en definitiva, es recuperar coherencia entre lo que cada uno siente y lo que la pareja hace.",
+      },
+      {
+        type: "paragraph",
+        text: "También hay espacio para la historia individual. Es frecuente que el psicólogo vea a cada persona por separado en algún momento, para conocer el contexto que cada uno lleva a la relación. Esas conversaciones a solas no son un interrogatorio secreto; ayudan al profesional a tener una vista completa. Después, aquello que conviene compartir se pone en común con respeto por la intimidad de cada uno.",
+      },
+      {
+        type: "heading",
+        text: "Lo que no se dice también ocupa sitio",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un detalle que sorprende a todo el mundo: la terapia de pareja también trabaja lo que no se dice. Los silencios, los horarios, los malentendidos del calendario; todo aquello que se dejó de comentar ocupa sitio. Por eso muchas sesiones empiezan con una pregunta aparentemente pequeña.",
+      },
+      {
+        type: "heading",
+        text: "La sesión no es un juicio: qué no es la terapia de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia de pareja no sirve para ganar las discusiones de casa. Tampoco sirve para que un profesional decida quién tiene razón o si debéis separaros: esa decisión, si llega, es vuestra. Muchas parejas vienen pensando que el psicólogo dirá quién falla; después descubren que lo que se mira es la relación, no la culpa.",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene desmontar otra idea. Ir a terapia de pareja no significa que la relación esté rota ni que seáis un fracaso. Significa, en cambio, que dos adultos deciden cuidar algo que les importa. De hecho, pedir ayuda a tiempo es más madurez que rendición.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre las sesiones de pareja",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Tenemos que ir los dos a la primera sesión?",
+            answer:
+              "Normalmente, sí. La sesión inicial sirve para escuchar las dos voces desde el primer minuto, y eso marca el tono de todo el proceso. Ahora bien, si uno de los dos se resiste, se puede hablar primero con el psicólogo y encontrar la manera de dar el paso juntos. De hecho, la resistencia inicial también es información útil.",
+          },
+          {
+            question: "¿La terapia de pareja sirve para decidir si seguimos juntos?",
+            answer:
+              "Sirve para ver con más claridad, pero no es su única función. Hay parejas que llegan a una decisión honesta y otras que reconstruyen el vínculo desde cero. En todo caso, la decisión nace del trabajo compartido, no de una sentencia del psicólogo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una hora para la relación",
+      },
+      {
+        type: "paragraph",
+        text: "Saber cómo es una sesión de terapia de pareja es el primer paso para pedirla sin miedo. Al final, una sesión no es un tribunal ni una urgencia: es una hora tranquila, semanal o quincenal, donde la relación vuelve a tener sitio. La madurez de una pareja se nota, precisamente, en la capacidad de mirarse con ayuda cuando a solas ya no alcanza.",
+      },
+      {
+        type: "paragraph",
+        text: "Si lo estáis pensando, en Espai Emocions, centro de psicología de Barcelona, hacemos psicoterapia para adultos y parejas, con psicólogos colegiados, de manera presencial u online. Podéis pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Empezar no os compromete a nada más que a miraros.",
+      },
+    ],
+  },
 ];

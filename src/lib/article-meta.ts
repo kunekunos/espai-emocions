@@ -13,13 +13,23 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "como-es-una-sesion-de-terapia-de-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Com és una sessió de teràpia de parella: què passa a dins",
+    "titleES": "Cómo es una sesión de terapia de pareja: qué pasa dentro",
+    "excerptCA": "Com és una sessió de teràpia de parella: qui parla, què fa el psicòleg i què es treballa cada setmana. Explicat amb calma i de tu a tu.",
+    "excerptES": "Cómo es una sesión de terapia de pareja: quién habla, qué hace el psicólogo y qué se trabaja cada semana. Explicado con calma y de tú a tú.",
+    "datePublished": "2026-10-24"
+  },
+  {
     "slug": "no-me-reconozco-en-mi-vida",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
     "titleCA": "«No em reconec en la meva vida»: què passa quan tot encaixa per fora",
     "titleES": "«No me reconozco en mi vida»: qué pasa cuando todo encaja por fuera",
-    "excerptCA": "No reconèixer-te en la teva vida pròpia és una crisi d'identitat d'adult, no un fracàs: què vol dir, per què s'activa a la maduresa i com es treballa.",
-    "excerptES": "No reconocerte en tu vida es una crisis de identidad adulta, no un fracaso: qué significa, por qué se activa en la maduresa y cómo se trabaja en terapia.",
+    "excerptCA": "«No em reconec en la meva vida»: no és un fracàs, és una crisi d'identitat adulta. Què vol dir, per què s'activa i com es treballa a la teràpia.",
+    "excerptES": "«No me reconozco en mi vida»: no es un fracaso, es una crisis de identidad adulta. Qué significa, por qué aparece y cómo se trabaja en terapia.",
     "datePublished": "2026-10-23"
   },
   {
