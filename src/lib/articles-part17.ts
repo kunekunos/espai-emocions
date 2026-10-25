@@ -406,4 +406,235 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 3. verguenza-de-pedir-ayuda (¿Necesito un psicólogo?, 2026-10-25)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "verguenza-de-pedir-ayuda",
+    categoryCA: "Necessito un psicòleg?",
+    categoryES: "¿Necesito un psicólogo?",
+    titleCA: "La vergonya de demanar ajuda: per què costa tant",
+    titleES: "La vergüenza de pedir ayuda: por qué cuesta tanto",
+    excerptCA:
+      "La vergonya de demanar ajuda no és feblesa: és un aprenentatge que es pot desmuntar. Què la sosté, per què fa callar i com es treballa a la teràpia.",
+    excerptES:
+      "La vergüenza de pedir ayuda no es debilidad: es un aprendizaje que se puede desmontar. Qué la sostiene, por qué silencia y cómo se trabaja en terapia.",
+    datePublished: "2026-10-25",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La vergonya de demanar ajuda és, amb diferència, el mur més silenciós que trobem a la consulta de psicologia. A Barcelona l'escoltem cada setmana, en persones competents que porten mesos aguantant: la vergonya els diu que demanar és rendir-se, que un adult amb recursos hauria de poder tot sol. Aquest article va d'aquest mur: què el sosté, per què es fa tan pesat i com es desmunta, amb calma, a la psicoteràpia.",
+      },
+      {
+        type: "paragraph",
+        text: "Abans de seguir, una aclarició important. La vergonya que apareix quan demanes ajuda no és un defecte de caràcter; és un aprenentatge que algun dia va servir per a alguna cosa. Per això no es combat amb voluntat. S'entén, es posa en context i, a poc a poc, deixa de decidir per tu.",
+      },
+      {
+        type: "heading",
+        text: "Què és la vergonya de demanar ajuda",
+      },
+      {
+        type: "paragraph",
+        text: "La vergonya de demanar ajuda és la sensació d'exposició que apareix quan algú considera mostrar el seu malestar. És una emoció social: no necessita públic real, perquè el tribunal viu a dins. El seu missatge és doble. Primer, que la teva dificultat et desacredita. Després, que qui et vegi demanar esperarà menys de tu.",
+      },
+      {
+        type: "paragraph",
+        text: "A diferència de la culpa, que diu «has fet alguna cosa malament», la vergonya diu «ets alguna cosa malament». Per això mossega més endins. Moltes persones la confonen amb senzillesa («no sóc de queixar-me»); en canvi, a sota sol haver-hi por al judici. Normalment, aquesta por es va aprendre on les emocions no tenien lloc.",
+      },
+      {
+        type: "heading",
+        text: "Autosuficiència: l'armadura que pesa",
+      },
+      {
+        type: "paragraph",
+        text: "En moltes cases, la fortalesa es va ensenyar com a silenci. Qui demanava, molesta; qui aguantava, era admirable. Amb aquesta educació, demanar ajuda d'adult se sent com una traïció a allò après. És freqüent, per exemple, en persones que van créixer tenint cura d'altres i van aprendre que la seva feina era sostenir, no demanar.",
+      },
+      {
+        type: "paragraph",
+        text: "La paradox és que l'autosuficiència funciona… fins que deixa de funcionar. La persona sosté, produeix i resol; a més, en rep elogis. Però el preu es paga a dins: aïllament, insomni, irritabilitat o aquesta sensació de viure en mode gestió. Al capdavall, com millor funciona algú, més sol sosté. La vergonya acaba de tancar el cercle: com que ningú veu el preu, ningú convida a explicar-lo.",
+      },
+      {
+        type: "heading",
+        text: "Què passa mentre la vergonya calla",
+      },
+      {
+        type: "paragraph",
+        text: "Callar té conseqüències. El malestar que no troba paraula busca una altra sortida: tensió cervical, son trencat, rumiació nocturna, distància amb la parella. És la lògica de la somatització: el cos acaba dient allò que la vergonya no deixa dir. En aquest sentit, demanar ajuda a temps no és dramatitzar; és evitar que el cos hagi de cridar.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la vergonya s'alimenta a si mateixa. Com més esperes, més gran sembla allò que calles i més vergonya fa explicar-ho. Per això tantes persones arriben a consulta dient «no sé per què he trigat tant». La resposta gairebé mai és mandra. És, més aviat, que ningú els havia donat permís.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa la vergonya a la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A la psicoteràpia, la vergonya no es confronta de cara; es desmunta amb companyia. La primera feina és del vincle: que la relació sigui prou segura perquè el silenci més vell trobi lloc. Després arriba la història: de qui es va aprendre que demanar era perillós i què es va perdre per aquest mandat.",
+      },
+      {
+        type: "paragraph",
+        text: "Amb el temps, la feina apunta a l'autonomia real. Es tracta de distingir l'autosuficiència apresa de la responsabilitat madura: una et protegeix per por; l'altra et sosté per elecció. En definitiva, demanar ajuda no és el contrari de ser fort. Sovint, de fet, és la seva forma més madura.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la vergonya de demanar ajuda",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Demanar ajuda em farà veure'm fràgil davant dels altres?",
+            answer:
+              "Només si la demanessis sense criteri, i no és el cas. Triar amb qui parlar del que et passa és un acte de maduresa, no de fragilitat. De fet, la fragilitat real és aguantar fins que el cos o la relació paguin la factura. La vergonya, en canvi, confon exposició amb perill.",
+          },
+          {
+            question: "I si, en explicar-ho, descobreixo que el meu problema no és per a tant?",
+            answer:
+              "Llavors hauràs guanyat informació valuosa i un dubte resolt. Tanmateix, gairebé mai passa: si alguna cosa et treu la son, ja és per a tant, perquè ja t'està passant. L'alleujament d'explicar-ho no depèn de la gravetat; depèn de deixar d'estar sol amb allò.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: quan demanar visita",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quant de malestar cal per consultar un psicòleg?",
+            answer:
+              "No hi ha una nota de tall. El senyal més fiable no és la intensitat, sinó la persistència: setmanes d'insomni, rumiació, irritabilitat o distància amb allò que estimes. Si dubtes, a més, una primera visita informativa serveix per aclarir-ho sense compromís.",
+          },
+          {
+            question: "Puc demanar una primera visita només per provar?",
+            answer:
+              "Sí, i és habitual. Una primera sessió serveix per conèixer-vos, plantejar el motiu i veure si hi ha encaix amb el professional. No compromet a un procés complet; ara bé, sol desmuntar la meitat de les pors amb què s'arriba.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Demanar no et fa més petit",
+      },
+      {
+        type: "paragraph",
+        text: "La vergonya de demanar ajuda se sosté en una idea falsa: que qui demana ha fracassat. En realitat, demana qui ha identificat alguna cosa que li importa i decideix ocupar-se'n. Al capdavall, la maduresa no consisteix a no necessitar ningú; consisteix a triar bé a qui.",
+      },
+      {
+        type: "paragraph",
+        text: "Si portes temps aguantant en silenci, a Espai Emocions, centre de psicologia de Barcelona, fem psicoteràpia per a adults i parelles, amb psicòlegs col·legiats, de manera presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Explicar-ho no et farà menys; callar-ho tampoc et farà més.",
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La vergüenza de pedir ayuda es, con diferencia, el muro más silencioso que encontramos en consulta de psicología. En Barcelona lo escuchamos cada semana, en personas competentes que llevan meses aguantando: la vergüenza les dice que pedir es rendirse, que un adulto con recursos debería poder solo. Este artículo va de ese muro: qué lo sostiene, por qué se vuelve tan pesado y cómo se desmonta, con calma, en psicoterapia.",
+      },
+      {
+        type: "paragraph",
+        text: "Antes de seguir, una aclaración importante. La vergüenza que aparece al pedir ayuda no es un defecto de carácter; es un aprendizaje que algún día sirvió para algo. Por eso no se combate con voluntad. Se entiende, se pone en contexto y, poco a poco, deja de decidir por ti.",
+      },
+      {
+        type: "heading",
+        text: "Qué es la vergüenza de pedir ayuda",
+      },
+      {
+        type: "paragraph",
+        text: "La vergüenza de pedir ayuda es la sensación de exposición que aparece cuando alguien considera mostrar su malestar. Es una emoción social: no necesita público real, porque el tribunal vive dentro. Su mensaje es doble. Primero, que tu dificultad te desacredita. Después, que quien te vea pedir esperará menos de ti.",
+      },
+      {
+        type: "paragraph",
+        text: "A diferencia de la culpa, que dice «has hecho algo mal», la vergüenza dice «eres algo mal». Por eso muerde más hondo. Muchas personas la confunden con sencillez («no soy de quejarme»); en cambio, debajo suele haber miedo al juicio. Normalmente, ese miedo se aprendió donde las emociones no tenían sitio.",
+      },
+      {
+        type: "heading",
+        text: "Autosuficiencia: la armadura que pesa",
+      },
+      {
+        type: "paragraph",
+        text: "En muchos hogares, la fortaleza se enseñó como silencio. Quien pedía, molestaba; quien aguantaba, era admirable. Con esa educación, pedir ayuda de adulto se siente como una traición a lo aprendido. Es frecuente, por ejemplo, en personas que crecieron cuidando a otros y aprendieron que su tarea era sostener, no pedir.",
+      },
+      {
+        type: "paragraph",
+        text: "La paradoja es que la autosuficiencia funciona… hasta que deja de funcionar. La persona sostiene, produce y resuelve; además, recibe elogios por ello. Pero el precio se paga dentro: aislamiento, insomnio, irritabilidad o esa sensación de vivir en modo gestión. Al final, cuanto mejor funciona alguien, más solo sostiene. La vergüenza acaba de cerrar el círculo: como nadie ve el precio, nadie invita a contarlo.",
+      },
+      {
+        type: "heading",
+        text: "Qué pasa mientras la vergüenza calla",
+      },
+      {
+        type: "paragraph",
+        text: "Callar tiene consecuencias. El malestar que no encuentra palabra busca otra salida: tensión cervical, sueño roto, rumiación nocturna, distancia en la pareja. Es la lógica de la somatización: el cuerpo acaba diciendo lo que la vergüenza no deja decir. En este sentido, pedir ayuda a tiempo no es dramatizar; es evitar que el cuerpo tenga que gritar.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la vergüenza se retroalimenta. Cuanto más esperas, más grande parece lo que callas y más vergüenza da contarlo. Por eso tantas personas llegan a consulta diciendo «no sé por qué he tardado tanto». La respuesta casi nunca es pereza. Es, más bien, que nadie les había dado permiso.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja la vergüenza en la terapia",
+      },
+      {
+        type: "paragraph",
+        text: "En la psicoterapia, la vergüenza no se confronta de frente; se desmonta con compañía. El primer trabajo es del vínculo: que la relación sea lo bastante segura para que el silencio más viejo encuentre sitio. Después llega la historia: de quién se aprendió que pedir era peligroso y qué se perdió por ese mandato.",
+      },
+      {
+        type: "paragraph",
+        text: "Con el tiempo, el trabajo apunta a la autonomía real. Se trata de distinguir la autosuficiencia aprendida de la responsabilidad madura: una te protege por miedo; la otra te sostiene por elección. En definitiva, pedir ayuda no es lo contrario de ser fuerte. A menudo, de hecho, es su forma más madura.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la vergüenza de pedir ayuda",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Pedir ayuda me hará verme frágil delante de los demás?",
+            answer:
+              "Solo si la pidieras sin criterio, y no es el caso. Elegir con quién hablar de lo que te pasa es un acto de madurez, no de fragilidad. De hecho, la fragilidad real está en aguantar hasta que el cuerpo o la relación paguen la factura. La vergüenza, en cambio, confunde exposición con peligro.",
+          },
+          {
+            question: "¿Y si al contarlo descubro que mi problema no es para tanto?",
+            answer:
+              "Entonces habrás ganado información valiosa y una duda resuelta. Sin embargo, casi nunca ocurre: si algo te quita el sueño, ya es para tanto, porque ya te está ocurriendo. El alivio de contarlo no depende de la gravedad; depende de dejar de estar solo con ello.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: cuándo pedir cita",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto malestar hace falta para consultar a un psicólogo?",
+            answer:
+              "No hay una nota de corte. La señal más fiable no es la intensidad, sino la persistencia: semanas de insomnio, rumiación, irritabilidad o distancia con lo que quieres. Si dudas, además, una primera visita informativa sirve para aclararlo sin compromiso.",
+          },
+          {
+            question: "¿Puedo pedir una primera visita solo para probar?",
+            answer:
+              "Sí, y es habitual. Una primera sesión sirve para conoceros, plantear el motivo y ver si hay encaje con el profesional. No compromete a un proceso completo; sin embargo, sí suele desmontar la mitad de los miedos con los que se llegó.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Pedir no te hace más pequeño",
+      },
+      {
+        type: "paragraph",
+        text: "La vergüenza de pedir ayuda se sostiene en una idea falsa: que quienes piden han fracasado. En realidad, pide quien ha identificado algo que le importa y decide ocuparse de ello. Al final, la madurez no consiste en no necesitar a nadie; consiste en elegir bien a quién.",
+      },
+      {
+        type: "paragraph",
+        text: "Si llevas tiempo aguantando en silencio, en Espai Emocions, centro de psicología de Barcelona, hacemos psicoterapia para adultos y parejas, con psicólogos colegiados, de manera presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Contarlo no te hará menos; guardarlo tampoco te hará más.",
+      },
+    ],
+  },
 ];

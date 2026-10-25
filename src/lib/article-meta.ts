@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "verguenza-de-pedir-ayuda",
+    "categoryCA": "Necessito un psicòleg?",
+    "categoryES": "¿Necesito un psicólogo?",
+    "titleCA": "La vergonya de demanar ajuda: per què costa tant",
+    "titleES": "La vergüenza de pedir ayuda: por qué cuesta tanto",
+    "excerptCA": "La vergonya de demanar ajuda no és feblesa: és un aprenentatge que es pot desmuntar. Què la sosté, per què fa callar i com es treballa a la teràpia.",
+    "excerptES": "La vergüenza de pedir ayuda no es debilidad: es un aprendizaje que se puede desmontar. Qué la sostiene, por qué silencia y cómo se trabaja en terapia.",
+    "datePublished": "2026-10-25"
+  },
+  {
     "slug": "como-es-una-sesion-de-terapia-de-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
