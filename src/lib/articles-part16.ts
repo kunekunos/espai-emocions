@@ -106,6 +106,13 @@ export const articlesPart16: ArticleContent[] = [
         type: "paragraph",
         text: "Si la relació amb el teu cos s'ha convertit en un camp de batalla, es pot pensar en companyia. A Espai Emocions, centre de psicologia de Barcelona, treballem amb adults i parelles des d'una psicoteràpia humanista i integradora. Les sessions poden ser presencials o en línia, amb psicòlegs col·legiats. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. El cos no és un problema a resoldre; és el lloc des del qual, cada dia, vius.",
       },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg humanista a Barcelona" },
+          { url: "/terapia-autoestima-barcelona", label: "Teràpia per a l'autoestima a Barcelona" },
+        ],
+      },
     ],
     blocksES: [
       {
@@ -194,6 +201,13 @@ export const articlesPart16: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si la relación con tu cuerpo se ha vuelto un campo de batalla, se puede pensar en compañía. En Espai Emocions, centro de psicología de Barcelona, trabajamos con adultos y parejas desde una psicoterapia humanista e integradora. Las sesiones pueden ser presenciales u online, con psicólogos colegiados. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. El cuerpo no es un problema por resolver; es el lugar desde el que, cada día, vives.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo humanista en Barcelona" },
+          { url: "/terapia-autoestima-barcelona", label: "Terapia para la autoestima en Barcelona" },
+        ],
       },
     ],
   },

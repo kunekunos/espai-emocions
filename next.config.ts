@@ -10,11 +10,6 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
-        source: "/contacto",
-        destination: "/psicologo-barcelona",
-        permanent: true,
-      },
-      {
         source: "/tratamiento-adicciones-barcelona",
         destination: "/psicologo-barcelona",
         permanent: true,

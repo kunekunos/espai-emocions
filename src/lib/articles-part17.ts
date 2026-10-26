@@ -106,6 +106,13 @@ export const articlesPart17: ArticleContent[] = [
         type: "paragraph",
         text: "Si fa temps que vius aquesta distància amb la teva pròpia vida, es pot mirar amb companyia. A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles des d'una psicoteràpia humanista i integradora, amb psicòlegs col·legiats, de manera presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. La teva vida no està trencada; està demanant que l'habitis.",
       },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — primera visita" },
+          { url: "/crisis-vital-barcelona", label: "Teràpia per a crisis vitals a Barcelona" },
+        ],
+      },
     ],
     blocksES: [
       {
@@ -194,6 +201,13 @@ export const articlesPart17: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si hace tiempo que vives esa distancia con tu propia vida, se puede mirar con compañía. En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas desde una psicoterapia humanista e integradora, con psicólogos colegiados, de manera presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Tu vida no está rota; está pidiendo que la habites.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — primera visita" },
+          { url: "/crisis-vital-barcelona", label: "Terapia para crisis vitales en Barcelona" },
+        ],
       },
     ],
   },
@@ -307,6 +321,13 @@ export const articlesPart17: ArticleContent[] = [
         type: "paragraph",
         text: "Si ho esteu pensant, a Espai Emocions, centre de psicologia de Barcelona, fem psicoteràpia per a adults i parelles, amb psicòlegs col·legiats, de manera presencial o en línia. Podeu demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Començar no us compromet a res més que a mirar-vos.",
       },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòlegs de parella a Barcelona" },
+          { url: "/terapia-pareja-barcelona", label: "Teràpia de parella a Barcelona" },
+        ],
+      },
     ],
     blocksES: [
       {
@@ -403,6 +424,13 @@ export const articlesPart17: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si lo estáis pensando, en Espai Emocions, centro de psicología de Barcelona, hacemos psicoterapia para adultos y parejas, con psicólogos colegiados, de manera presencial u online. Podéis pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Empezar no os compromete a nada más que a miraros.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogos de pareja en Barcelona" },
+          { url: "/terapia-pareja-barcelona", label: "Terapia de pareja en Barcelona" },
+        ],
       },
     ],
   },
@@ -527,6 +555,13 @@ export const articlesPart17: ArticleContent[] = [
         type: "paragraph",
         text: "Si portes temps aguantant en silenci, a Espai Emocions, centre de psicologia de Barcelona, fem psicoteràpia per a adults i parelles, amb psicòlegs col·legiats, de manera presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Explicar-ho no et farà menys; callar-ho tampoc et farà més.",
       },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg humanista a Barcelona" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
     ],
     blocksES: [
       {
@@ -634,6 +669,13 @@ export const articlesPart17: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si llevas tiempo aguantando en silencio, en Espai Emocions, centro de psicología de Barcelona, hacemos psicoterapia para adultos y parejas, con psicólogos colegiados, de manera presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Contarlo no te hará menos; guardarlo tampoco te hará más.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo humanista en Barcelona" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
       },
     ],
   },
@@ -749,6 +791,13 @@ export const articlesPart17: ArticleContent[] = [
       type: "paragraph",
       text: "Si aquesta tardor l'ànim se t'ha posat massa gris, es pot mirar amb companyia. A Espai Emocions, centre de psicologia de Barcelona, fem psicoteràpia per a adults i parelles, amb psicòlegs col·legiats, de manera presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. L'estació passa; allò que sents mentrestant també mereix cura.",
     },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
     ],
     blocksES: [
     {
@@ -848,6 +897,13 @@ export const articlesPart17: ArticleContent[] = [
       type: "paragraph",
       text: "Si este otoño el ánimo se te ha puesto demasiado gris, se puede mirar con compañía. En Espai Emocions, centro de psicología de Barcelona, hacemos psicoterapia para adultos y parejas, con psicólogos colegiados, de manera presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. La estación pasa; lo que sientes mientras tanto también merece cuidado.",
     },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
     ],
   },
 ];

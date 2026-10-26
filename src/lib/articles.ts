@@ -12,6 +12,10 @@ export type ContentBlock =
   | {
       type: "related";
       items: { slug: string; title: string; desc: string }[];
+    }
+  | {
+      type: "serviceLinks";
+      links: { url: string; label: string }[];
     };
 
 export interface ArticleContent {

@@ -205,6 +205,29 @@ function BlockRenderer({
           ))}
         </div>
       );
+    case "serviceLinks":
+      return (
+        <Reveal delay={delay}>
+          <div className="bg-card rounded-2xl p-6 mt-8 border border-border/40">
+            <h3 className="text-lg font-heading text-foreground mb-3">
+              {lang === "CA"
+                ? "Com et podem acompanyar"
+                : "Cómo te podemos acompañar"}
+            </h3>
+            <div className="flex flex-col sm:flex-row sm:flex-wrap gap-3">
+              {block.links.map((l) => (
+                <Link
+                  key={l.url}
+                  href={l.url}
+                  className="text-primary hover:text-primary/80 transition-colors font-medium leading-relaxed"
+                >
+                  {l.label} →
+                </Link>
+              ))}
+            </div>
+          </div>
+        </Reveal>
+      );
     case "related":
       return (
         <Reveal delay={delay}>

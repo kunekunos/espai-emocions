@@ -1768,7 +1768,14 @@ export const articlesPart15: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si et reconeixes en aquesta història, a Espai Emocions, centre de psicologia de Barcelona, acompanyem parelles que volen repartir millor allò que sostenen juntes, amb una psicoteràpia humanista presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Pensar la vida en companyia també s'aprèn.",
-      }
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg humanista a Barcelona — Espai Emocions" },
+          { url: "/terapia-pareja-barcelona", label: "Teràpia de parella a Barcelona" },
+        ],
+      },
     ],
     blocksES: [
       {
@@ -1855,6 +1862,13 @@ export const articlesPart15: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si te reconoces en esta historia, en Espai Emocions, centro de psicología de Barcelona, acompañamos a parejas que quieren repartir mejor lo que sostienen juntas, con una psicoterapia humanista presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Pensar la vida en compañía también se aprende.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo humanista en Barcelona — Espai Emocions" },
+          { url: "/terapia-pareja-barcelona", label: "Terapia de pareja en Barcelona" },
+        ],
       },
     ],
   },
@@ -1960,6 +1974,13 @@ export const articlesPart15: ArticleContent[] = [
         type: "paragraph",
         text: "Si aquest tema t'habita des de fa temps, a Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles que travessen crisis existencials amb psicoteràpia presencial o en línia, a càrrec de psicòlegs col·legiats. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Pensar la finitud també és una manera de cuidar la vida.",
       },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/terapia-duelo-barcelona", label: "Teràpia de dol a Barcelona" },
+        ],
+      },
     ],
     blocksES: [
       {
@@ -2048,6 +2069,13 @@ export const articlesPart15: ArticleContent[] = [
       {
         type: "paragraph",
         text: "Si este tema te habita desde hace tiempo, en Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas que atraviesan crisis existenciales con psicoterapia presencial u online, a cargo de psicólogos colegiados. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Pensar la finitud también es una manera de cuidar la vida.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/terapia-duelo-barcelona", label: "Terapia de duelo en Barcelona" },
+        ],
       },
     ],
   },
