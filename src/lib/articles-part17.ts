@@ -637,4 +637,217 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 4. tristeza-de-otono (Canvis vitals, 2026-10-26)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "tristeza-de-otono",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "La tristesa de tardor: quan la llum se'n va massa aviat",
+    titleES: "La tristeza de otoño: cuando la luz se va demasiado pronto",
+    excerptCA:
+      "La tristesa de tardor no és exageració: és la resposta del cos a una llum que se'n va. Què és, per què baixa l'ànim i com travessar l'estació.",
+    excerptES:
+      "La tristeza de otoño no es exageración: es la respuesta del cuerpo a una luz que se va. Qué es, por qué baja el ánimo y cómo atravesar la estación.",
+    datePublished: "2026-10-26",
+    blocksCA: [
+    {
+      type: "paragraph",
+      text: "La tristesa de tardor arriba cada any sense avisar. Un dia surts de la feina i ja és fosc; dues setmanes després, l'ànim també ha baixat. A la consulta de psicologia, a Barcelona, aquest avís es repeteix cada octubre. Ho diuen persones adultes i competents, amb la vida més o menys en ordre. No entenen per què es senten més apagades, més lentes i més fràgils.",
+    },
+    {
+      type: "paragraph",
+      text: "En aquest article volem posar nom a aquesta baixada estacional. Veurem què és la tristesa de tardor, què la sosté i com travessar-la sense exigir-te l'ànim de l'estiu. De fet, no sempre hi ha un problema al darrere. A vegades només hi ha un cos responent amb honestedat al canvi de llum, i saber-ho canvia força la manera de portar-ho.",
+    },
+    {
+      type: "heading",
+      text: "Què és la tristesa de tardor",
+    },
+    {
+      type: "paragraph",
+      text: "La tristesa de tardor és una baixada de l'estat d'ànim lligada al canvi d'estació. Apareix quan els dies s'escurcen i la llum natural escasseja. Es nota en forma de cansament d'hora, menys ganes de fer plans i un ànim més gris. No és peresa, ni dramatisme, ni feblesa; és una resposta de l'organisme a un senyal real.",
+    },
+    {
+      type: "paragraph",
+      text: "La importància d'entendre-la bé és no confondre-la amb altres coses. Si saps què et passa, deixes de barallar-t'hi i comences a acompanyar-te d'una altra manera. En canvi, si la vius com un error personal, la castigues amb exigència: més plans, més ritme, més pressa. I aquesta baralla, gairebé sempre, engrandeix l'esgotament.",
+    },
+    {
+      type: "heading",
+      text: "Llum, rellotge intern i ànim: per què baixa a la tardor",
+    },
+    {
+      type: "paragraph",
+      text: "La llum no és un detall decoratiu per al cervell; és el seu rellotge principal. Amb la foscor d'hora, el cos fabrica més melatonina, l'hormona que prepara la son. L'ànim i les ganes de fer s'ajusten en conseqüència. El canvi d'hora de finals d'octubre avança la nit just quan més pesa. De cop, les sis de la tarda semblen les deu.",
+    },
+    {
+      type: "paragraph",
+      text: "A més, la vida social canvia amb l'estació. Els plans a l'aire lliure s'apaguen, el cos demana interior i el calendari s'omple d'obligacions. Per a moltes persones adultes, la tardor funciona com un descens de revolucions obligat. Normalment no és res greu; tanmateix, convé prendre'l seriosament quan la baixada s'instal·la setmanes.",
+    },
+    {
+      type: "heading",
+      text: "Quan la tristesa de tardor toca alguna cosa més antiga",
+    },
+    {
+      type: "paragraph",
+      text: "A vegades, la tardor no baixa l'ànim només per la llum. També funciona com un mirall: l'any s'acaba, torna la rutina i arriba l'hora dels balanços. Estacions com aquesta activen preguntes adultes: en què se'n va anar l'any, què es va posposar, quins canvis segueixen esperant. De fet, molts processos de revisió vital comencen a la tardor, no al gener.",
+    },
+    {
+      type: "paragraph",
+      text: "Hi ha alguna cosa més. L'arribada del fred redueix les trobades i, per a qui ja venia sentint-se sol, l'estació engrandeix la distància. En aquest sentit, la tristesa de tardor pot ser la punta visible d'alguna cosa que ja hi era. A sota, a vegades, hi ha un dol sense tancar, una relació a mitges o una feina que ja no representa. Per això convé mirar-la amb curiositat, i no només amb paciència.",
+    },
+    {
+      type: "heading",
+      text: "Com travessar la tardor sense exigir-te l'ànim de l'estiu",
+    },
+    {
+      type: "paragraph",
+      text: "El primer és no barallar-se amb la temporada. La tardor no s'arregla; s'habita. Ajuden gestos senzills: llum natural a primera hora, caminar encara que sigui mitja hora, protegir la son. Sostenir uns pocs vincles que alimentin també pesa més del que sembla. No són receptes màgiques; són maneres de treballar amb el cos i no contra ell. Amb ritme diferent, la tardor també fa lloc.",
+    },
+    {
+      type: "paragraph",
+      text: "També ajuda ajustar les expectatives. A la tardor pots seguir volent coses; simplement, algunes costen més. Triar amb criteri quins plans es mantenen i quins s'ajornen és maduresa, no rendició. I quan l'ànim no acompanyi, la coherència pot seguir existint: fer el que importa encara que no apeteixi del tot. Al capdavall, la temporada també ensenya a estimar-se a un ritme més lent.",
+    },
+    {
+      type: "heading",
+      text: "Quan convé consultar un psicòleg",
+    },
+    {
+      type: "paragraph",
+      text: "La frontera que convé vigilar és la persistència. Si l'ànim baix s'instal·la més de dues o tres setmanes, alguna cosa més que l'estació està passant. També compta l'impacte: la son trencada, la feina que costa sostenir, els vincles que es refreden. En aquell punt, un psicòleg ajuda a distingir si és només la tardor o si hi ha alguna cosa més al darrere.",
+    },
+    {
+      type: "paragraph",
+      text: "Consultar no és dramatitzar. De fet, és la manera més honesta de saber què està passant. La teràpia també sosté allò que la tardor activa: el posposat, el callat, allò que demana revisió. L'estació, en canvi, no ho resol sola.",
+    },
+    {
+      type: "heading",
+      text: "Preguntes freqüents sobre la tristesa de tardor",
+    },
+    {
+      type: "faq",
+      items: [
+        {
+          question: "La tristesa de tardor és una depressió?",
+          answer: "No sempre. Pot ser una adaptació passatgera a la llum. Tanmateix, si s'allarga, trenca la son o buida allò que abans agradava, pot ser l'inici d'un estat depressiu. La diferència la marquen la persistència i l'impacte, no la intensitat d'un dia dolent. Amb dubtes, una primera visita aclareix molt.",
+        },
+        {
+          question: "És normal sentir-se més trist quan es fa fosc aviat?",
+          answer: "Sí, i és més habitual del que es explica. El cos llegeix la foscor d'hora com una ordre de recollir-se. El problema no és sentir-ho; és creure que falles per sentir-ho. Anomenar-ho treu, de fet, força pes.",
+        },
+      ],
+    },
+    {
+      type: "heading",
+      text: "Una estació per habitar a un altre ritme",
+    },
+    {
+      type: "paragraph",
+      text: "La tristesa de tardor no és un enemic a expulsar. És una estació que demana un altre ritme: més interior, més calma, menys exigència. Les persones adultes que la travessen millor no són les que no la senten. Són les que l'escolten sense obeir-la i cuiden la força del que ve. Al capdavall, baixar revolucions també és una forma de maduresa.",
+    },
+    {
+      type: "paragraph",
+      text: "Si aquesta tardor l'ànim se t'ha posat massa gris, es pot mirar amb companyia. A Espai Emocions, centre de psicologia de Barcelona, fem psicoteràpia per a adults i parelles, amb psicòlegs col·legiats, de manera presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. L'estació passa; allò que sents mentrestant també mereix cura.",
+    },
+    ],
+    blocksES: [
+    {
+      type: "paragraph",
+      text: "La tristeza de otoño llega cada año sin avisar. Un día sales del trabajo y ya es de noche; dos semanas después, el ánimo también ha bajado. En la consulta de psicología, en Barcelona, este aviso se repite cada octubre. Lo dicen personas adultas y competentes, con la vida más o menos en orden. No entienden por qué se sienten más apagadas, más lentas y más frágiles.",
+    },
+    {
+      type: "paragraph",
+      text: "En este artículo queremos poner nombre a esa bajada estacional. Veremos qué es la tristeza de otoño, qué la sostiene y cómo atravesarla sin exigirte el ánimo del verano. De hecho, no siempre hay un problema detrás. A veces solo hay un cuerpo respondiendo con honestidad al cambio de luz, y saberlo cambia bastante el modo de llevarlo.",
+    },
+    {
+      type: "heading",
+      text: "Qué es la tristeza de otoño",
+    },
+    {
+      type: "paragraph",
+      text: "La tristeza de otoño es una bajada del estado de ánimo ligada al cambio de estación. Aparece cuando los días se acortan y la luz natural escasea. Se nota en forma de cansancio temprano, menos ganas de hacer planes y un ánimo más gris. No es pereza, ni dramatismo, ni debilidad; es una respuesta del organismo a una señal real.",
+    },
+    {
+      type: "paragraph",
+      text: "La importancia de entenderla bien está en no confundirla con otras cosas. Si sabes qué te pasa, dejas de pelearte con ello y empiezas a acompañarte de otro modo. En cambio, si la vives como un fallo personal, la castigas con exigencia: más planes, más ritmo, más prisa. Y esa pelea, casi siempre, agranda el agotamiento.",
+    },
+    {
+      type: "heading",
+      text: "Luz, reloj interno y ánimo: por qué baja en otoño",
+    },
+    {
+      type: "paragraph",
+      text: "La luz no es un detalle decorativo para el cerebro; es su reloj principal. Con la oscuridad temprana, el cuerpo fabrica más melatonina, la hormona que prepara el sueño. El ánimo y las ganas de hacer se ajustan en consecuencia. El cambio de hora de finales de octubre adelanta la noche justo cuando más pesa. De golpe, las seis de la tarde parecen las diez.",
+    },
+    {
+      type: "paragraph",
+      text: "Además, la vida social cambia con la estación. Los planes al aire libre se apagan, el cuerpo pide interior y el calendario se llena de obligaciones. Para muchas personas adultas, el otoño funciona como un descenso de revoluciones obligado. Normalmente no es nada grave; sin embargo, conviene tomarlo en serio cuando el bajón se queda semanas.",
+    },
+    {
+      type: "heading",
+      text: "Cuando la tristeza de otoño toca algo más antiguo",
+    },
+    {
+      type: "paragraph",
+      text: "A veces, el otoño no baja el ánimo solo por la luz. También funciona como espejo: el año se acaba, vuelve la rutina y llega la hora de los balances. Estaciones así activan preguntas adultas: en qué se fue el año, qué se pospuso, qué cambios siguen esperando. De hecho, muchos procesos de revisión vital empiezan en otoño, no en enero.",
+    },
+    {
+      type: "paragraph",
+      text: "Hay algo más. La entrada del frío reduce los encuentros y, para quien ya venía sintiéndose solo, la estación agranda la distancia. En este sentido, la tristeza de otoño puede ser la punta visible de algo que ya estaba. Debajo, a veces, hay un duelo sin cerrar, una relación a medias o un trabajo que ya no representa. Por eso conviene mirarla con curiosidad, y no solo con paciencia.",
+    },
+    {
+      type: "heading",
+      text: "Cómo atravesar el otoño sin exigirte el ánimo del verano",
+    },
+    {
+      type: "paragraph",
+      text: "Lo primero es no pelearse con la temporada. El otoño no se arregla; se habita. Ayudan gestos sencillos: luz natural a primera hora, caminar aunque sea media hora, proteger el sueño. Sostener unos pocos vínculos que nutran también pesa más de lo que parece. No son recetas mágicas; son maneras de trabajar con el cuerpo en vez de contra él. Con ritmo distinto, el otoño también da lugar.",
+    },
+    {
+      type: "paragraph",
+      text: "También ayuda ajustar las expectativas. En otoño puedes seguir queriendo cosas; simplemente, algunas cuestan más. Elegir con criterio qué planes se mantienen y cuáles se posponen es madurez, no rendición. Y cuando el ánimo no acompañe, la coherencia puede seguir existiendo: hacer lo que importa aunque no apetezca del todo. Al final, la temporada también enseña a quererse a ritmo bajo.",
+    },
+    {
+      type: "heading",
+      text: "Cuándo conviene consultar a un psicólogo",
+    },
+    {
+      type: "paragraph",
+      text: "La frontera que conviene vigilar es la persistencia. Si el ánimo bajo se queda más de dos o tres semanas, algo más que la estación está pasando. También importa el impacto: el sueño roto, el trabajo que cuesta sostener, los vínculos que se enfrían. En ese punto, un psicólogo ayuda a distinguir si es solo la estación o si hay algo más detrás.",
+    },
+    {
+      type: "paragraph",
+      text: "Consultar no es dramatizar. De hecho, es la manera más honesta de saber qué está pasando. La terapia también sostiene lo que el otoño activó: lo pospuesto, lo callado, lo que pide revisión. La estación, en cambio, no lo resuelve sola.",
+    },
+    {
+      type: "heading",
+      text: "Preguntas frecuentes sobre la tristeza de otoño",
+    },
+    {
+      type: "faq",
+      items: [
+        {
+          question: "¿La tristeza de otoño es una depresión?",
+          answer: "No siempre. Puede ser una adaptación pasajera a la luz. Sin embargo, si se alarga, rompe el sueño o vacía lo que antes gustaba, puede haber algo más. La diferencia la marcan la persistencia y el impacto, no la intensidad de un día malo. Ante la duda, una primera visita aclara mucho.",
+        },
+        {
+          question: "¿Es normal sentirse más triste cuando oscurece pronto?",
+          answer: "Sí, y es más habitual de lo que se cuenta. El cuerpo lee la oscuridad temprana como una orden de recogerse. El problema no es sentirlo; es creer que fallas por sentirlo. Nombrarlo reduce, de hecho, bastante carga.",
+        },
+      ],
+    },
+    {
+      type: "heading",
+      text: "Una estación para habitar a otro ritmo",
+    },
+    {
+      type: "paragraph",
+      text: "La tristeza de otoño no es un enemigo al que expulsar. Es una estación que pide otro ritmo: más interior, más calma, menos exigencia. Las personas adultas que la atraviesan mejor no son las que no la sienten. Son las que la escuchan sin obedecerla y cuidan la fuerza de lo que viene. Al final, bajar revoluciones también es una forma de madurez.",
+    },
+    {
+      type: "paragraph",
+      text: "Si este otoño el ánimo se te ha puesto demasiado gris, se puede mirar con compañía. En Espai Emocions, centro de psicología de Barcelona, hacemos psicoterapia para adultos y parejas, con psicólogos colegiados, de manera presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. La estación pasa; lo que sientes mientras tanto también merece cuidado.",
+    },
+    ],
+  },
 ];

@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "tristeza-de-otono",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "La tristesa de tardor: quan la llum se'n va massa aviat",
+    "titleES": "La tristeza de otoño: cuando la luz se va demasiado pronto",
+    "excerptCA": "La tristesa de tardor no és exageració: és la resposta del cos a una llum que se'n va. Què és, per què baixa l'ànim i com travessar l'estació.",
+    "excerptES": "La tristeza de otoño no es exageración: es la respuesta del cuerpo a una luz que se va. Qué es, por qué baja el ánimo y cómo atravesar la estación.",
+    "datePublished": "2026-10-26"
+  },
+  {
     "slug": "verguenza-de-pedir-ayuda",
     "categoryCA": "Necessito un psicòleg?",
     "categoryES": "¿Necesito un psicólogo?",
