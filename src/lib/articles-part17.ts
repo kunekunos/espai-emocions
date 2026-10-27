@@ -906,4 +906,227 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 5. recaida-emocional (Ansietat, 2026-10-27)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "recaida-emocional",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "La recaiguda emocional: quan el malestar torna",
+    titleES: "La recaída emocional: cuando el malestar vuelve",
+    excerptCA:
+      "La recaiguda emocional no esborra el teu progrés: és part del procés. Què vol dir tornar a estar malament, per què passa i com se sosté a la teràpia.",
+    excerptES:
+      "La recaída emocional no borra tu progreso: es parte del proceso. Qué significa volver a estar mal, por qué ocurre y cómo se sostiene en terapia.",
+    datePublished: "2026-10-27",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«Ja estava millor i he tornat a estar malament.» A la consulta de psicologia, a Barcelona, aquesta frase arriba carregada de dues coses: malestar i vergonya. La recaiguda emocional, però, és més habitual del que sembla. Tornar a estar malament no és una excepció trista de la millora; moltes vegades, n'és una etapa.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem treure't un pes de sobre. Veurem què és una recaiguda emocional, per què el malestar torna encara que estiguis millor i com se sosté en una psicoteràpia. De fet, recaure no vol dir que res hagi servit. Vol dir que hi ha alguna cosa que encara demana atenció, i això ho canvia tot.",
+      },
+      {
+        type: "heading",
+        text: "Què és la recaiguda emocional",
+      },
+      {
+        type: "paragraph",
+        text: "Una recaiguda emocional és el retorn d'un malestar que ja havies travessat. Es reconeix, per exemple, en l'ansietat que torna, l'ànim que baixa o l'insomni que reapareix. No és un dia dolent, sinó una setmana o més d'un paisatge conegut. Apareix, normalment, quan la vida demana més del que tens: estrès acumulat, una pèrdua, un canvi o, simplement, cansament.",
+      },
+      {
+        type: "paragraph",
+        text: "La importància d'entendre-la bé és decisiva. Si la llegeixes com una fallada, la resposta és exigir-te i amagar-te. Si, en canvi, la llegeixes com a informació, la resposta és cuidar-te i mirar què ha passat. En aquest sentit, la recaiguda és menys un final que una pregunta sobre allò que s'ha mogut a la teva vida.",
+      },
+      {
+        type: "heading",
+        text: "Per què el malestar torna encara que estiguis millor",
+      },
+      {
+        type: "paragraph",
+        text: "La millora emocional no és una línia recta. Avança, s'atura i, a vegades, fa passos enrere. Així funciona el sistema nerviós, i així funciona també la vida: cap procés humà progressa sense alts i baixos. Per això, tornar a estar malament no demostra que no hagis millorat.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, hi ha moments de vulnerabilitat que no es trien: per exemple, un canvi de feina, una discussió important, un dol o un excés sostingut. Ara bé, res d'això esborra el que vas aprendre. El que va canviar a dins continua canviat; simplement, el moment et demana tornar-ho a aplicar.",
+      },
+      {
+        type: "heading",
+        text: "Recaure no és tornar al punt de partida",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una diferència grossa entre la primera caiguda i aquesta. La primera vegada, normalment, no sabies ni què et passava. Ara tens paraula: reconeixes els signes, saps què et va ajudar i detectes abans quan alguna cosa no va. Aquesta distància és progrés, encara que no sembli.",
+      },
+      {
+        type: "paragraph",
+        text: "Al capdavall, la maduresa no consisteix a no caure mai més. Consisteix a saber què fer quan passes per una mala època: demanar ajuda abans, baixar el ritme abans i parlar-te amb més humanitat. En aquest sentit, una recaiguda ben travessada et pot deixar més sòlid que abans.",
+      },
+      {
+        type: "heading",
+        text: "Com se sosté una recaiguda a la psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A la teràpia, una recaiguda no es viu com una urgència, sinó com una informació valuosa. Es mira amb calma: què ha canviat al teu context, què has estat aguantant, quines eines has deixat d'usar i quines parts teves demanen escolta. El vincle terapèutic, a més, fa de suport mentre el malestar fa la seva passada.",
+      },
+      {
+        type: "paragraph",
+        text: "El que es treballa, a més, té poc de genèric. Cada persona recau per raons pròpies: un excés de responsabilitat, un vincle que fa nosa o un ritme insostenible. Per això, en comptes de repetir el que ja vas fer, la teràpia mira què necessita aquesta recaiguda concreta. A vegades, en canvi, no cal refer res: cal fer lloc al que arriba.",
+      },
+      {
+        type: "heading",
+        text: "Tornar a la teràpia després d'un temps",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, moltes persones tornen a consulta després d'anys, i aquesta tornada és una bona notícia, no un fracàs. Significa que valores el que vas construir i que prefereixes no portar-ho en soledat. La freqüència de les sessions s'ajusta al moment; el vincle, en canvi, ja està fet i pesa.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la recaiguda emocional",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Si torno a estar malament, vol dir que la teràpia no va servir?",
+            answer:
+              "No. La millora no esborra la vulnerabilitat, i cap procés humà és immune a les baixades. De fet, el que es va treballar segueix dins: eines, comprensió i paraula per a això que ara torna. A més, amb perspectiva, la recaiguda acostuma a ser més curta i més sostinguda que la primera vegada.",
+          },
+          {
+            question: "Com sé si és una recaiguda o només un mal dia?",
+            answer:
+              "Compta la durada i l'impacte. Un dia dolent passa i no deixa rastre; una recaiguda s'instal·la setmanes i toca la son, la feina o els vincles. Si notes que el paisatge conegut torna i no marxa, convé consultar. Tanmateix, no cal esperar a estar del tot malament per demanar ajuda.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Recaure també forma part del procés",
+      },
+      {
+        type: "paragraph",
+        text: "Una recaiguda emocional no cancel·la res del camí fet. La vida adulta no promet estatilitat eterna; proposa, en canvi, una manera més habitada de portar les etapes fosques. El que diferencia una persona madura no és que no baixi mai. És que baixa sabent qui és i a qui pot demanar companyia.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això, si el malestar ha tornat i t'has convençut que és un pas enrere, deixa't acompanyar a mirar-ho. A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles des d'una psicoteràpia humanista i integradora, amb psicòlegs col·legiats, de manera presencial o en línia. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Tornar a estar malament és dur; fer-ho en soledat és opcional.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/crisis-vital-barcelona", label: "Teràpia per a crisis vitals a Barcelona" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«Ya estaba mejor y he vuelto a estar mal.» En consulta de psicología, en Barcelona, esta frase llega cargada de dos cosas: malestar y vergüenza. La recaída emocional, sin embargo, es más habitual de lo que parece. Volver a estar mal no es una excepción triste de la mejora; muchas veces, es una etapa más.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos quitarte un peso de encima. Veremos qué es una recaída emocional, por qué el malestar vuelve aunque estés mejor y cómo se sostiene en una psicoterapia. De hecho, recaer no significa que nada haya servido. Significa que hay algo que todavía pide atención, y eso lo cambia todo.",
+      },
+      {
+        type: "heading",
+        text: "Qué es una recaída emocional",
+      },
+      {
+        type: "paragraph",
+        text: "Una recaída emocional es la vuelta de un malestar que ya habías atravesado. Se reconoce, por ejemplo, en la ansiedad que regresa, el ánimo que baja o el insomnio que reaparece. No es un día malo, sino una semana o más de un paisaje conocido. Aparece, normalmente, cuando la vida pide más de lo que tienes: estrés acumulado, una pérdida, un cambio o, simplemente, agotamiento.",
+      },
+      {
+        type: "paragraph",
+        text: "La importancia de entenderla bien es decisiva. Si la lees como un fallo, la respuesta es exigirte y esconderte. Si, en cambio, la lees como información, la respuesta es cuidarte y mirar qué ha pasado. En este sentido, la recaída es menos un final que una pregunta sobre lo que se ha movido en tu vida.",
+      },
+      {
+        type: "heading",
+        text: "Por qué el malestar vuelve aunque estés mejor",
+      },
+      {
+        type: "paragraph",
+        text: "La mejora emocional no es una línea recta. Avanza, se detiene y, a veces, da pasos atrás. Así funciona el sistema nervioso, y así funciona también la vida: ningún proceso humano progresa sin altibajos. Por eso, volver a estar mal no demuestra que no hayas mejorado.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, hay momentos de vulnerabilidad que no se eligen: por ejemplo, un cambio de trabajo, una discusión importante, un duelo o un exceso sostenido. Ahora bien, nada de eso borra lo que aprendiste. Lo que cambió por dentro sigue cambiado; simplemente, el momento te pide volver a aplicarlo.",
+      },
+      {
+        type: "heading",
+        text: "Recaer no es volver al punto de partida",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una diferencia grande entre la primera caída y esta. La primera vez, normalmente, no sabías ni qué te pasaba. Ahora tienes palabra: reconoces las señales, sabes qué te ayudó y detectas antes cuándo algo no va. Esa distancia es progreso, aunque no lo parezca.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, la madurez no consiste en no caer nunca más. Consiste en saber qué hacer cuando atraviesas una mala época: pedir ayuda antes, bajar el ritmo antes y hablarte con más humanidad. En este sentido, una recaída bien atravesada puede dejarte más sólido que antes.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se sostiene una recaída en la psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, una recaída no se vive como una urgencia, sino como una información valiosa. Se mira con calma: qué ha cambiado en tu contexto, qué has estado aguantando, qué herramientas has dejado de usar y qué partes tuyas siguen pidiendo escucha. La relación terapéutica, además, hace de soporte mientras el malestar pasa.",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que se trabaja, además, tiene poco de genérico. Cada persona recae por razones propias: un exceso de responsabilidad, un vínculo que estorba o un ritmo insostenible. Por eso, en vez de repetir lo que ya hiciste, la terapia mira qué necesita esta recaída concreta. A veces, en cambio, no hace falta rehacer nada: hace falta hacer sitio a lo que llega.",
+      },
+      {
+        type: "heading",
+        text: "Volver a terapia después de un tiempo",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, muchas personas vuelven a consulta después de años, y esa vuelta es una buena noticia, no un fracaso. Significa que valoras lo que construiste y que prefieres no llevarlo en soledad. La frecuencia de las sesiones se ajusta al momento; el vínculo, en cambio, ya está hecho y pesa.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la recaída emocional",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Si vuelvo a estar mal, ¿significa que la terapia no sirvió?",
+            answer:
+              "No. La mejora no borra la vulnerabilidad, y ningún proceso humano es inmune a las bajadas. De hecho, lo que se trabajó sigue dentro: herramientas, comprensión y palabra para esto que ahora vuelve. Además, con perspectiva, la recaída suele ser más corta y mejor sostenida que la primera vez.",
+          },
+          {
+            question: "¿Cómo sé si es una recaída o solo un día malo?",
+            answer:
+              "Cuenta la duración y el impacto. Un día malo pasa y no deja rastro; una recaída se instala semanas y toca el sueño, el trabajo o los vínculos. Si notas que el paisaje conocido vuelve y no se va, conviene consultar. Sin embargo, no hace falta esperar a estar del todo mal para pedir ayuda.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Recaer también forma parte del proceso",
+      },
+      {
+        type: "paragraph",
+        text: "Una recaída emocional no cancela nada del camino hecho. La vida adulta no promete estabilidad eterna; propone, en cambio, una manera más habitada de llevar las etapas oscuras. Lo que diferencia a una persona madura no es que nunca baje. Es que baja sabiendo quién es y a quién puede pedir compañía.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso, si el malestar ha vuelto y te has convencido de que es un paso atrás, déjate acompañar a mirarlo. En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas desde una psicoterapia humanista e integradora, con psicólogos colegiados, de manera presencial u online. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Volver a estar mal es duro; hacerlo en soledad es opcional.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/crisis-vital-barcelona", label: "Terapia para crisis vitales a Barcelona" },
+        ],
+      },
+    ],
+  },
 ];

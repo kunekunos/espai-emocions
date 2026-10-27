@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "recaida-emocional",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "La recaiguda emocional: quan el malestar torna",
+    "titleES": "La recaída emocional: cuando el malestar vuelve",
+    "excerptCA": "La recaiguda emocional no esborra el teu progrés: és part del procés. Què vol dir tornar a estar malament, per què passa i com se sosté a la teràpia.",
+    "excerptES": "La recaída emocional no borra tu progreso: es parte del proceso. Qué significa volver a estar mal, por qué ocurre y cómo se sostiene en terapia.",
+    "datePublished": "2026-10-27"
+  },
+  {
     "slug": "tristeza-de-otono",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
