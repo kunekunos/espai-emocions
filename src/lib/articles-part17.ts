@@ -1129,4 +1129,211 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 6. no-se-lo-que-siento-alexitimia (Identitat, 2026-10-28)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "no-se-lo-que-siento-alexitimia",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "«No sé què sento»: l'alexitimia en adults",
+    titleES: "«No sé lo que siento»: la alexitimia en adultos",
+    excerptCA:
+      "«No sé què sento»: quan les emocions no tenen paraula. Què és l'alexitimia en adults, per què apareix i com es treballa a la teràpia.",
+    excerptES:
+      "«No sé lo que siento»: cuando las emociones no tienen palabra. Qué es la alexitimia en adultos, por qué aparece y cómo se trabaja en terapia.",
+    datePublished: "2026-10-28",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«No sé què sento.» A consulta de psicologia, aquesta frase arriba més del que sembla. La diu gent adulta i funcional, que explica bé qualsevol tema de feina o de família. Tanmateix, quan la pregunta va per dintre, la resposta es buida: «estic regular», «normal», «no ho sé». No és manca d'interès ni fredor. És una dificultat amb nom propi: l'alexitimia en adults.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem posar ordre en aquesta experiència. Veurem què és, com es nota al dia a dia, per què es forma i com es treballa a la psicoteràpia. De fet, no saber què sents no vol dir que no sentis. Vol dir que ningú et va ensenyar a posar-hi paraula; i això, a diferència d'altres coses, té remei.",
+      },
+      {
+        type: "heading",
+        text: "Què és l'alexitimia en adults",
+      },
+      {
+        type: "paragraph",
+        text: "L'alexitimia és una dificultat per identificar i descriure les pròpies emocions. Impedeix, o complica seriosament, distingir entre el que sent el cos i el que passa per dintre. La importància de l'alexitimia en adults és relacional: qui no troba la paraula, tampoc troba la manera de compartir-se. Per això, la pregunta «què sents?» pot semblar més difícil que qualsevol examen.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, l'alexitimia no és absència d'emoció. La persona sent: el cos es tensa, la son es trenca, el pit es tanca. El que falta és el mapa, no el territori. A més, cal saber que és un tret en gradació: no tot es dona igual a cada persona. En canvi, sí que hi ha un denominador comú: un vocabulari emocional molt reduït.",
+      },
+      {
+        type: "heading",
+        text: "«No sé què sento»: senyals al dia a dia",
+      },
+      {
+        type: "paragraph",
+        text: "Els senyals són discrets i quotidians. Per exemple, descriure't amb dues o tres paraules («bé», «esgotat», «normal») i poques més. També decidir sempre des de la lògica, perquè el desig no dona senyal clara. O descobrir el que senties molt després: primer el malestar, setmanes més tard, el seu nom. A més, és freqüent una vida interior amb poc soroll, que de vegades es confon amb calma.",
+      },
+      {
+        type: "paragraph",
+        text: "A les relacions es nota encara més. A vegades, la parella o els amics diuen que costes d'abastar. Moltes vegades, no saps si vols ser amb algú, ni on, ni què et fa mal d'un vincle. De fet, l'alexitimia sol veure's des de fora abans que des de dintre: els altres l'anomenen abans que un mateix. Tanmateix, sentir-ho pot ser un bon començament.",
+      },
+      {
+        type: "heading",
+        text: "Per què apareix a la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú neix sense paraules per al que sent; s'aprenen o no s'aprenen. Normalment, l'alexitimia creix en contextos on les emocions no tenien lloc: famílies pràctiques, moments durs, la regla d'aguantar i seguir. També hi ha rols que la conreen: el fort de la família, el que mai falla, el que resol. En aquest sentit, deixar d'anomenar va ser, al seu moment, una manera de sobreviure.",
+      },
+      {
+        type: "paragraph",
+        text: "A la vida adulta, el cost s'acumula. Per exemple, detectar tard el burnout, perquè el cos va avisar abans que la paraula. O discutir sense saber per què, amb la sensació que alguna cosa no encaixa i sense poder dir-ho. A vegades, a més, apareix una pregunta d'identitat: si no sé què sento, com sabré què vull? Al capdavall, aquesta pregunta porta molta gent a teràpia.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa l'alexitimia a la psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A la psicoteràpia amb adults, la feina és pacient i corporal. No es tracta de memoritzar llistes d'emocions, sinó de recuperar el senyal: què fa el teu cos, quan es tensa, què passa quan algú et pregunta per tu. La teràpia humanista, de fet, treballa exactament allà: en el contacte amb l'experiència interna, sense pressa i sense judici. Anomenar arriba després, quan ja hi ha alguna cosa per anomenar.",
+      },
+      {
+        type: "paragraph",
+        text: "Amb el temps, la paraula construeix el pont entre sensació i decisió. A poc a poc, el vocabulari s'eixampla i es fa propi: no «estic regular», sinó «estic frustrat, necessito aire». Amb això, la relació també canvia; pots demanar, posar límits, triar. Per això, la teràpia no busca fer-te més expressiu per estètica, sinó tornar-te informació sobre tu mateix.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre l'alexitimia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "L'alexitimia és un trastorn?",
+            answer:
+              "No exactament. Es descriu com un tret o dificultat, present en graus diversos a molta gent adulta. A vegades acompanya altres quadres, com la depressió o l'estrès mantingut, però no defineix la persona. A teràpia es mira igual que qualsevol altra cosa: com a informació sobre com vas aprendre a ser al món.",
+          },
+          {
+            question: "Es pot millorar a l'edat adulta?",
+            answer:
+              "Sí, i de manera notable. El vocabulari emocional s'entrena com una llengua: escoltant, anomenant, corregint. A més, el cos recorda; amb pràctica, els avisos abans muts comencen a distingir-se. Ara bé, convé fer-ho acompanyat, perquè aprendre a sentir en solitud sol quedar a mitges.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Sentir també s'aprèn",
+      },
+      {
+        type: "paragraph",
+        text: "«No sé què sento» no és el final d'una frase; és el començament d'una conversa. Posar paraula al que passa dintre no és un luxe: és la base de l'autonomia, del desig i dels vincles que sí que s'escullen. A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles des d'una psicoteràpia humanista i integradora, amb psicòlegs col·legiats, de manera presencial o en línia.",
+      },
+      {
+        type: "paragraph",
+        text: "Si t'has reconegut en aquestes línies, potser no necessites respostes ràpides, sinó un lloc on la pregunta es pugui sostenir. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb el nom exacte del que sents; amb la intenció n'hi ha prou.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«No sé lo que siento.» En consulta de psicología esta frase aparece más de lo que imaginamos. La dice gente adulta y funcional, que explica bien cualquier asunto de trabajo o de familia. Sin embargo, cuando la pregunta va por dentro, la respuesta se vacía: «estoy regular», «normal», «no sé». No es falta de interés ni frialdad. Es una dificultad con nombre propio: la alexitimia en adultos.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos poner orden en esa experiencia. Veremos qué es, cómo se nota en el día a día, por qué se forma y cómo se trabaja en psicoterapia. De hecho, no saber qué sientes no significa que no sientas. Significa que nadie te enseñó a ponerle palabra; y eso, a diferencia de otras cosas, tiene arreglo.",
+      },
+      {
+        type: "heading",
+        text: "Qué es la alexitimia en adultos",
+      },
+      {
+        type: "paragraph",
+        text: "La alexitimia es una dificultad para identificar y describir las propias emociones. Impide, o complica seriamente, distinguir entre lo que siente el cuerpo y lo que pasa por dentro. La importancia de la alexitimia en adultos está en su efecto relacional: quien no encuentra la palabra, tampoco encuentra el modo de compartirse. Por eso, la pregunta «¿qué sientes?» puede resultar más difícil que cualquier examen.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, la alexitimia no es ausencia de emoción. La persona siente: el cuerpo se tensa, el sueño se rompe, el pecho se cierra. Lo que falta es el mapa, no el territorio. Además, conviene saber que es un rasgo en gradación: no todo se da igual en cada persona. En cambio, sí suele haber un denominador común: un vocabulario emocional muy reducido.",
+      },
+      {
+        type: "heading",
+        text: "«No sé lo que siento»: señales en el día a día",
+      },
+      {
+        type: "paragraph",
+        text: "Las señales son discretas y cotidianas. Por ejemplo, describirse con dos o tres palabras («bien», «agotado», «normal») y pocas más. También decidir siempre desde la lógica, porque el deseo no da señal clara. O descubrir lo que sentiste mucho después: primero el malestar, semanas más tarde, su nombre. Además, es frecuente una vida interior con poco ruido, que a veces se confunde con calma.",
+      },
+      {
+        type: "paragraph",
+        text: "En las relaciones se nota aún más. A veces, la pareja o los amigos dicen que cuesta alcanzarte. Muchas veces, no sabes si quieres estar con alguien, ni dónde, ni qué te duele de un vínculo. De hecho, la alexitimia suele verse desde fuera antes que desde dentro: los demás la nombran antes que uno mismo. Sin embargo, oírlo puede ser un buen principio.",
+      },
+      {
+        type: "heading",
+        text: "Por qué aparece en la vida adulta",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie nace sin palabras para lo que siente; se aprenden o no se aprenden. Normalmente, la alexitimia crece en contextos donde las emociones no tenían sitio: familias prácticas, momentos duros, la regla de aguantar y seguir. También hay roles que la cultivan: el fuerte de la familia, el que nunca falla, el que resuelve. En este sentido, dejar de nombrar fue, en su momento, una manera de sobrevivir.",
+      },
+      {
+        type: "paragraph",
+        text: "En la vida adulta, el coste se acumula. Por ejemplo, detectar tarde el burnout, porque el cuerpo avisó antes que la palabra. O discutir sin saber por qué, con la sensación de que algo no encaja y sin poder decirlo. A veces, además, aparece una pregunta de identidad: si no sé lo que siento, ¿cómo sé lo que quiero? Al final, esa pregunta trae a mucha gente a terapia.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja la alexitimia en psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "En psicoterapia con adultos, el trabajo es paciente y corporal. No se trata de memorizar listas de emociones, sino de recuperar la señal: qué hace tu cuerpo, cuándo se tensa, qué ocurre cuando alguien te pregunta por ti. La terapia humanista, de hecho, trabaja exactamente ahí: en el contacto con la experiencia interna, sin prisa y sin juicio. Nombrar llega después, cuando ya hay algo que nombrar.",
+      },
+      {
+        type: "paragraph",
+        text: "Con el tiempo, la palabra construye el puente entre sensación y decisión. Poco a poco, el vocabulario se amplía y se vuelve propio: no «estoy regular», sino «estoy frustrado, necesito aire». Con eso, la relación también cambia; puedes pedir, poner límites, elegir. Por eso, la terapia no busca hacerte más expresivo por estética, sino devolverte información sobre ti mismo.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la alexitimia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿La alexitimia es un trastorno?",
+            answer:
+              "No exactamente. Se describe como un rasgo o dificultad, presente en distintos grados en mucha gente adulta. A veces acompaña a otros cuadros, como la depresión o el estrés mantenido, pero no define a la persona. En terapia se mira igual que cualquier otra cosa: como información sobre cómo aprendiste a estar en el mundo.",
+          },
+          {
+            question: "¿Se puede mejorar en la edad adulta?",
+            answer:
+              "Sí, y de forma notable. El vocabulario emocional se entrena como una lengua: escuchando, nombrando, corrigiendo. Además, el cuerpo recuerda; con práctica, los avisos antes mudos empiezan a distinguirse. Ahora bien, conviene hacerlo acompañado, porque aprender a sentir en soledad suele quedar a medias.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Sentir también se aprende",
+      },
+      {
+        type: "paragraph",
+        text: "«No sé lo que siento» no es el final de una frase; es el principio de una conversación. Poner palabra a lo que pasa dentro no es un lujo: es la base de la autonomía, del deseo y de los vínculos que sí se eligen. En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas desde una psicoterapia humanista e integradora, con psicólogos colegiados, de manera presencial u online.",
+      },
+      {
+        type: "paragraph",
+        text: "Si te has reconocido en estas líneas, quizá no necesitas respuestas rápidas, sino un lugar donde la pregunta se pueda sostener. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con el nombre exacto de lo que sientes; con la intención basta.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
 ];

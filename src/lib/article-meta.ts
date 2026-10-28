@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "no-se-lo-que-siento-alexitimia",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "«No sé què sento»: l'alexitimia en adults",
+    "titleES": "«No sé lo que siento»: la alexitimia en adultos",
+    "excerptCA": "«No sé què sento»: quan les emocions no tenen paraula. Què és l'alexitimia en adults, per què apareix i com es treballa a la teràpia.",
+    "excerptES": "«No sé lo que siento»: cuando las emociones no tienen palabra. Qué es la alexitimia en adultos, por qué aparece y cómo se trabaja en terapia.",
+    "datePublished": "2026-10-28"
+  },
+  {
     "slug": "recaida-emocional",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
