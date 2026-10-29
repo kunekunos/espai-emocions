@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "conversaciones-pendientes-con-tus-padres",
+    "categoryCA": "Família",
+    "categoryES": "Familia",
+    "titleCA": "Converses pendents amb els teus pares abans que sigui tard",
+    "titleES": "Conversaciones pendientes con tus padres antes de que sea tarde",
+    "excerptCA": "Hi ha converses pendents amb els teus pares que el calendari no espera. Què preguntar, com obrir-les i què fer quan ja no és possible parlar.",
+    "excerptES": "Hay conversaciones pendientes con tus padres que el calendario no espera. Qué preguntar, cómo abrirlas y qué hacer cuando ya no es posible hablar.",
+    "datePublished": "2026-10-29"
+  },
+  {
     "slug": "no-se-lo-que-siento-alexitimia",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",

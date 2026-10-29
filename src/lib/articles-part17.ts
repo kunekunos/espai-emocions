@@ -1336,4 +1336,212 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 7. conversaciones-pendientes-con-tus-padres (Família, 2026-10-29)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "conversaciones-pendientes-con-tus-padres",
+    categoryCA: "Família",
+    categoryES: "Familia",
+    titleCA: "Converses pendents amb els teus pares abans que sigui tard",
+    titleES: "Conversaciones pendientes con tus padres antes de que sea tarde",
+    excerptCA:
+      "Hi ha converses pendents amb els teus pares que el calendari no espera. Què preguntar, com obrir-les i què fer quan ja no és possible parlar.",
+    excerptES:
+      "Hay conversaciones pendientes con tus padres que el calendario no espera. Qué preguntar, cómo abrirlas y qué hacer cuando ya no es posible hablar.",
+    datePublished: "2026-10-29",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "A la consulta de psicologia, a Barcelona, sentim sovint una variant de la mateixa frase: «quan el meu pare ja no hi sigui, em penediré de no haver-li preguntat més». Darrere hi ha el tema d'aquest article: les converses pendents amb els teus pares. Són preguntes sobre la seva història, les seves decisions i els seus silencis que fa anys vas deixant per a un altre dia. No són tràmits; formen part de saber d'on vens.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article mirarem aquestes converses sense pressa. Veurem què són, per què s'ajornen, què s'hi juga i com es treballen en una psicoteràpia. També veurem què fer quan ja no és possible tenir-les. Al capdavall, aquestes converses no busquen respostes perfectes; busquen un lloc a la teva història on també hi càpigues tu.",
+      },
+      {
+        type: "heading",
+        text: "Què són les converses pendents amb els teus pares",
+      },
+      {
+        type: "paragraph",
+        text: "Les converses pendents amb els teus pares són les que van quedar sense obrir: com era la seva joventut, a què van renunciar, per què mai no van parlar d'aquell any. Solen barrejar el quotidià i el profund. A més, cada família té les seves: hi ha cases on es pregunta poc. La importància d'aquestes converses no és només informativa; és identitària. En aquest sentit, saber dels teus pares és completar el mapa de qui ets.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades és una sola pregunta que pesa. Moltes vegades, en canvi, és un conjunt difús que encara no sap dir el seu nom. Per exemple: qui era la meva mare abans de ser mare, què somiava el meu pare, quina versió de la seva vida explicaria avui si ningú no l'interrompés. Ara bé, no cal arribar amb la pregunta perfecta. De fet, reconèixer que la conversa és pendent ja és mig camí.",
+      },
+      {
+        type: "heading",
+        text: "Per què s'ajornen aquestes converses",
+      },
+      {
+        type: "paragraph",
+        text: "Normalment, no és manca d'interès. És pudor i costum. Moltes famílies funcionen bé en la logística i malament en la intimitat: es parla de salut, de dates, de sopars, però no del que passa per dintre. Per això la pregunta important s'evapora entre el cafè i els plats. També hi pesen els rols: a la quarantena encara ets el fill o la filla, i hi ha temes que no semblen propis d'aquest paper.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, la pressa de la vida adulta ajuda a ajornar. Les visites són curtes, les trucades ràpides, i sempre sembla que hi haurà una ocasió millor. Tanmateix, entre els quaranta i els cinquanta la consciència del temps canvia. Els pares envelleixen i algunes portes es tornen més difícils d'obrir. Al capdavall, la conversa pendent rarament s'ajorna pel tema; s'ajorna pel moment que mai no arriba.",
+      },
+      {
+        type: "heading",
+        text: "Què s'hi juga: història i identitat",
+      },
+      {
+        type: "paragraph",
+        text: "D'una banda, hi ha la història. Els teus pares són les últimes persones que recorden com era el món abans de tu; amb ells se'n va un arxiu que ningú més no guarda. De l'altra, hi ha la identitat: moltes preguntes als pares són, al fons, preguntes sobre tu. D'on ve aquesta manera meva d'estimar? Aquesta por és meva o heretada? En aquest sentit, la conversa amb ells també és una conversa amb tu mateix.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, hi ha el temps. No cal dramatitzar, però convé ser honest: hi ha converses que, si no passen, ja no passen. Molta gent adulta arriba a consulta amb el dolor afegit del que no va preguntar. En canvi, qui va obrir aquestes converses, encara que fos a mitges i amb torpesa, sol sostenir millor els dols. Per això no és un assumpte d'edat, sinó de moment vital.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballen a la psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A teràpia no treballem amb un guió de preguntes, sinó amb el terreny: què vols saber de veritat, per a què ho vols saber i què faràs amb la resposta. A vegades l'objectiu no és que el teu pare parli, sinó que tu puguis preguntar des del desig i no des del retret. La psicoteràpia, de fet, comença moltes vegades sent la conversa que no es pot tenir a casa.",
+      },
+      {
+        type: "paragraph",
+        text: "I quan les converses pendents ja no poden passar, per una mort, per una demència o per una distància que no es redueix, el treball continua. Es pot escriure la carta que no s'enviarà, reconstruir la història amb germans i records, sostenir la pregunta encara que ningú no respongui. En definitiva, la conversa pendent pot seguir viva dintre teu. Al capdavall, saber d'on vens també és decidir què en fas.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre les converses pendents",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "I si el meu pare o la meva mare no vol parlar?",
+            answer:
+              "És freqüent, i no invalida l'intent. Algunes persones necessiten temps; altres només parlen de biaix, amb una fotografia o una recepta pel mig. Convé no convertir la conversa en un interrogatori, ni la manca de resposta en un desengany. A vegades, a més, la pregunta es respon anys després, sense avisar.",
+          },
+          {
+            question: "Què faig si ja no puc parlar amb ells?",
+            answer:
+              "La conversa pot continuar d'una altra manera. Escriure, recordar amb altres persones, portar la pregunta a teràpia: tot això sosté el procés. També és cert que fa més mal sense resposta. Ara bé, el vincle intern no es tanca quan l'altra persona falta. Per això convé treballar-lo, en lloc de deixar-lo mut.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Començar per on ets",
+      },
+      {
+        type: "paragraph",
+        text: "Les converses pendents amb els teus pares no exigeixen un moment solemne ni un discurs preparat. Exigeixen començar per on ets: una pregunta al cotxe, un «com eres tu a la meva edat», una escolta sense apressar. La maduresa també és això: triar la conversa en lloc d'esperar que el temps l'organitzi.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles des d'una psicoteràpia humanista i integradora, amb psicòlegs col·legiats, de manera presencial o en línia. Si fa temps que tens preguntes que no surten, potser no necessites un pla, sinó un lloc per ordenar-les. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb la pregunta ben formulada; n'hi ha prou amb la intenció.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "En consulta de psicología, en Barcelona, escuchamos a menudo una variación de la misma frase: «cuando mi padre ya no esté, me arrepentiré de no haberle preguntado más». Detrás está el tema de este artículo: las conversaciones pendientes con tus padres. Son preguntas sobre su historia, sus decisiones y sus silencios que llevas años dejando para otro día. No son trámites; forman parte de saber de dónde vienes.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo miraremos las conversaciones pendientes con tus padres sin prisa. Veremos qué son, por qué se posponen, qué se juega en ellas y cómo se trabajan en una psicoterapia. También veremos qué hacer cuando ya no es posible tenerlas. Al final, estas conversaciones no buscan respuestas perfectas; buscan un lugar en tu historia donde quepas tú también.",
+      },
+      {
+        type: "heading",
+        text: "Qué son las conversaciones pendientes con tus padres",
+      },
+      {
+        type: "paragraph",
+        text: "Las conversaciones pendientes con tus padres son las que quedaron sin abrir: cómo fue su juventud, a qué renunciaron, qué les dolió, por qué nunca hablaron de aquel año. Suelen mezclar lo cotidiano y lo profundo. Además, cada familia tiene las suyas: hay casas donde no se pregunta y casas donde se pregunta poco. La importancia de estas conversaciones no es solo informativa; es identitaria. En este sentido, saber de tus padres es completar el mapa de quien eres.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces es una sola pregunta que pesa. Muchas veces, en cambio, es un conjunto difuso que todavía no sabe decir su nombre. Por ejemplo: quién era mi madre antes de ser madre, qué soñaba mi padre, qué versión de su vida contaría hoy si nadie lo interrumpiera. Ahora bien, no hace falta llegar con la pregunta perfecta. De hecho, reconocer que la conversación está pendiente ya es medio camino.",
+      },
+      {
+        type: "heading",
+        text: "Por qué se posponen estas conversaciones",
+      },
+      {
+        type: "paragraph",
+        text: "Normalmente, no es desinterés. Es pudor y costumbre. Muchas familias funcionan bien en la logística y mal en la intimidad: se habla de salud, de fechas, de cenas, pero no del interior. Por eso la pregunta importante se desvanece entre la sobremesa y los platos. También pesan los roles: a los cuarenta y tantos sigues siendo el hijo o la hija, y hay temas que no parecen propios de ese papel.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, la prisa de la vida adulta ayuda a posponer. Las visitas son cortas, las llamadas rápidas, y siempre parece que habrá una ocasión mejor. Sin embargo, entre los cuarenta y los cincuenta la conciencia del tiempo cambia. Los padres envejecen y algunas puertas se vuelven más difíciles de abrir. Al final, la conversación pendiente raramente se aplaza por el tema; se aplaza por el momento que nunca llega.",
+      },
+      {
+        type: "heading",
+        text: "Qué se juega: historia e identidad",
+      },
+      {
+        type: "paragraph",
+        text: "Por un lado, está la historia. Tus padres son las últimas personas que recuerdan cómo era el mundo antes de ti; con ellos se va un archivo que nadie más guarda. Por otro, está la identidad: muchas preguntas a los padres son, en el fondo, preguntas sobre ti. ¿De dónde viene esta manera mía de querer? ¿Este miedo es mío o heredado? En este sentido, la conversación con ellos es también una conversación contigo.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, está el tiempo. No hace falta dramatizar, pero conviene ser honesto: hay conversaciones que, si no ocurren, ya no ocurren. Mucha gente adulta llega a consulta con el dolor añadido de lo que no preguntó. En cambio, quienes abrieron esas conversaciones, aunque fuera a medias y con torpeza, suelen sostener mejor los duelos. Por eso no es un asunto de edad, sino de momento vital.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabajan en la psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia no trabajamos con un guion de preguntas, sino con el terreno: qué quieres saber de verdad, para qué lo quieres saber y qué harás con la respuesta. A veces el objetivo no es que tu padre hable, sino que tú puedas preguntar desde el deseo y no desde el reproche. La psicoterapia, de hecho, empieza muchas veces siendo la conversación que no se puede tener en casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Y cuando las conversaciones pendientes ya no pueden ocurrir, por una muerte, por una demencia o por una distancia que no se reduce, el trabajo sigue. Se puede escribir la carta que no se enviará, reconstruir la historia con hermanos y recuerdos, sostener la pregunta aunque nadie responda. En definitiva, la conversación pendiente puede seguir viva dentro de ti. Al final, saber de dónde vienes también es decidir qué haces con ello.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre las conversaciones pendientes",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Y si mi padre o mi madre no quiere hablar?",
+            answer:
+              "Es frecuente, y no invalida el intento. Algunas personas necesitan tiempo; otras solo hablan de lado, con una foto o una receta de por medio. Conviene no convertir la conversación en un interrogatorio, ni la falta de respuesta en un desencanto. A veces, además, la pregunta se contesta años después, sin avisar.",
+          },
+          {
+            question: "¿Qué hago si ya no puedo hablar con ellos?",
+            answer:
+              "La conversación puede continuar de otra manera. Escribir, recordar con otras personas, llevar la pregunta a terapia: todo eso sostiene el proceso. También es cierto que duelen más sin respuesta. Ahora bien, el vínculo interno no se cierra cuando la otra persona falta. Por eso conviene trabajarlo, en lugar de dejarlo mudo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Empezar por donde estás",
+      },
+      {
+        type: "paragraph",
+        text: "Las conversaciones pendientes con tus padres no exigen un momento solemne ni un discurso preparado. Exigen empezar por donde estás: una pregunta en el coche, un «cómo eras tú a mi edad», una escucha sin apurar. La madurez también es eso: elegir la conversación en vez de esperar a que el tiempo la organice.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas desde una psicoterapia humanista e integradora, con psicólogos colegiados, de manera presencial u online. Si llevas tiempo con preguntas que no salen, quizá no necesitas un plan, sino un lugar para ordenarlas. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con la pregunta bien formulada; basta con la intención.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
 ];
