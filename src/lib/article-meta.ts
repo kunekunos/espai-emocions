@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "tristeza-cumpleanos",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Tristesa d'aniversari: quan fer anys pesa",
+    "titleES": "Tristeza en el cumpleaños: cuando cumplir años pesa",
+    "excerptCA": "La tristesa d'aniversari no és caprici: és una revisió silenciosa de la teva vida. Què vol dir, per què pesa i com sostenir-la amb calma.",
+    "excerptES": "La tristeza en el cumpleaños no es capricho: es una revisión silenciosa de tu vida. Qué significa, por qué pesa y cómo sostenerla con calma.",
+    "datePublished": "2026-10-30"
+  },
+  {
     "slug": "conversaciones-pendientes-con-tus-padres",
     "categoryCA": "Família",
     "categoryES": "Familia",

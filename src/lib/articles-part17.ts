@@ -1544,4 +1544,211 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 8. tristeza-cumpleanos (Canvis vitals, 2026-10-30)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "tristeza-cumpleanos",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Tristesa d'aniversari: quan fer anys pesa",
+    titleES: "Tristeza en el cumpleaños: cuando cumplir años pesa",
+    excerptCA:
+      "La tristesa d'aniversari no és caprici: és una revisió silenciosa de la teva vida. Què vol dir, per què pesa i com sostenir-la amb calma.",
+    excerptES:
+      "La tristeza en el cumpleaños no es capricho: es una revisión silenciosa de tu vida. Qué significa, por qué pesa y cómo sostenerla con calma.",
+    datePublished: "2026-10-30",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "A consulta de psicologia, a Barcelona, la tristesa d'aniversari apareix més del que s'admet. De fet, no la porta qui passa malament, sinó gent amb la vida més o menys en ordre. Arribada la data, nota alguna cosa estranya: una ombra enmig de la festa, un nus en obrir les felicitacions. I a sobre, s'hi sol afegir un retret: «si és un dia feliç, per què em pesa?».",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article mirarem aquesta tristesa sense dramatitzar-la ni patologitzar-la. Veurem què és la tristesa d'aniversari i per què s'activa quan tot convida a celebrar. També veurem com se sosté en una psicoteràpia per a adults. De fet, aquesta ombra sol tenir sentit: la data funciona com un mirall. I alguns anys, el mirall ensenya el que el dia a dia tapa.",
+      },
+      {
+        type: "heading",
+        text: "Què és la tristesa d'aniversari",
+      },
+      {
+        type: "paragraph",
+        text: "La tristesa d'aniversari és un estat emocional breu i de baixa intensitat. Apareix al voltant de la data de naixement i no és cap trastorn. És, en canvi, una reacció al repàs que la data provoca. Cada volta de calendari és un comptador silenciós: anys complerts, metes pendents, persones que ja no hi són. Per això, la importància d'aquesta tristesa no és festiva, sinó vital: indica que estàs revisant la teva vida, encara que ningú t'ho demani.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalment dura dies, no setmanes. Es nota com apatia davant dels plans, irritabilitat suau o una malenconia difusa sense motiu concret. A més, sol intensificar-se en dates rodones o després de canvis grans: els trenta, els quaranta, el primer aniversari després d'una separació o un dol. Ara bé, convé distingir-la d'un estat depressiu. Si el malestar es generalitza, s'allarga setmanes o bloqueja la teva vida, la conversa ja no va sobre l'aniversari.",
+      },
+      {
+        type: "heading",
+        text: "L'aniversari com a mirall: la revisió de l'any",
+      },
+      {
+        type: "paragraph",
+        text: "L'aniversari és, de fet, l'única data del calendari que parla exclusivament de tu. Les altres són col·lectives o familiars; aquesta et posa al centre i demana balanç. Per això incomoda: obliga a mirar l'any que ha passat i a comparar-lo, en silenci, amb el que esperaves. El cap fa el seu inventari: on pensaves ser a aquesta edat, quins plans han quedat a mig camí, quines relacions s'han refredat.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest sentit, la tristesa compleix una funció. No apareix perquè la vida vagi malament, sinó perquè importa: fa mal el que encara significa alguna cosa. Per exemple, l'aniversari en què notes que la feina ja no representa qui ets. O el que voldries celebrar i no tens amb qui. Tan important és el que es va perdre com el que s'està demanant: un any amb més coherència, vincles més vius, una vida que es reconegui.",
+      },
+      {
+        type: "heading",
+        text: "Què s'hi juga en aquesta data: identitat i temps",
+      },
+      {
+        type: "paragraph",
+        text: "D'una banda, hi ha la identitat. L'aniversari pregunta qui ets més enllà dels papers: si treus l'agenda, la professió i els plans, què hi queda? Alguns anys la resposta incomoda i, en lloc de sostenir-la, la festa s'omple de pressa i de soroll. De l'altra, hi ha el temps. Fer anys fa tangible el pas de la vida adulta, i d'aquí aquesta barreja de gratitud i d'alarma.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, la data reuneix els altres al teu voltant, i això també pesa. Hi ha les expectatives alienes, els missatges automàtics, el «què faràs per celebrar-ho?» quan no hi ha ganes de celebrar res. A vegades, en canvi, el malestar és més silenciós: qui comparteix taula amb molta gent i se sent, encara i tot, sol. Al capdavall, la tristesa d'aniversari rarament va sobre l'edat. Va sobre la distància entre la vida que portes i la que consideraries teva.",
+      },
+      {
+        type: "heading",
+        text: "Com se sosté en la psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "En teràpia, aquesta tristesa es treballa com a porta d'entrada, no com una molèstia. L'aniversari concentra preguntes de fons que la resta de l'any passen desapercebudes: què vols fer amb el temps que tens, què mereix la teva energia, quina història expliques de tu. La psicoteràpia per a adults ofereix un lloc per mirar aquest inventari sense pressa ni judici. Normalment, qui arriba per la tristesa d'una data acaba treballant alguna cosa més gran: identitat, vincles, direcció.",
+      },
+      {
+        type: "paragraph",
+        text: "El procés comença ordenant què hi ha a sota. Quins dols actualitza la data, quines expectatives heretades pesen en el balanç, quines parts teves fan anys que no tenen veu. Després arriba la part constructiva: decidir què es canvia i què s'accepta, què es celebra i què s'honora d'una altra manera. En definitiva, no es tracta d'alegrar el dia. Es tracta que la data deixi de fer mal pel que calla.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la tristesa d'aniversari",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal posar-se trist el dia de l'aniversari?",
+            answer:
+              "Sí, i més del que sembla. De fet, és una de les reaccions més habituals en consulta entre els trenta i els cinquanta anys. El dia condensa balanç vital, dols i expectatives. Ara bé, si dura setmanes o s'estén a la resta de la teva vida, convé consultar-la amb un psicòleg.",
+          },
+          {
+            question: "Què fer si s'acosta l'aniversari i ja sé que em posarà malament?",
+            answer:
+              "No cal forçar la celebració ni anul·lar la vida. A vegades n'hi ha prou amb abaixar el guió del dia: menys festa, més presència. Per exemple, una estona tranquil·la per a tu abans de qualsevol pla. I si cada any arriba amb la mateixa pregunta, potser aquesta pregunta mereix teràpia.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Sostenir la data, no esborrar-la",
+      },
+      {
+        type: "paragraph",
+        text: "La tristesa d'aniversari no cal suprimir-la ni disfressar-la de confeti. Cal sostenir-la: escoltar què revisa, donar-li lloc i decidir amb què et quedes de l'inventari. Alguns anys serà només una malenconia passatgera. Altres, en canvi, serà el primer avís que alguna cosa demana canvi. Al capdavall, la maduresa no consisteix a celebrar sense dolor. Consisteix a saber què es celebra i què es plora.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats. Treballem des d'una psicoteràpia humanista i integradora, de manera presencial o en línia. Si el teu aniversari deixa cada any una pregunta que no marxa, no necessites una festa. Necessites un lloc per mirar aquesta pregunta amb calma. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar-hi amb la resposta; n'hi ha prou amb començar a mirar.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "En consulta de psicología, en Barcelona, la tristeza en el cumpleaños aparece más de lo que se admite. De hecho, no la trae quien pasa mal, sino gente con la vida más o menos en orden. Llegada la fecha, nota algo raro: una sombra en medio de la fiesta, un nudo al abrir las felicitaciones. Y encima, suele añadirse un reproche: «si es un día feliz, ¿por qué me pesa?».",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo miraremos esa tristeza sin dramatizarla ni patologizarla. Veremos qué es la tristeza en el cumpleaños y por qué se activa cuando todo invita a celebrar. También veremos cómo se sostiene en una psicoterapia para adultos. De hecho, esa sombra suele tener sentido: la fecha funciona como un espejo. Y algunos años, el espejo enseña lo que el día a día tapa.",
+      },
+      {
+        type: "heading",
+        text: "Qué es la tristeza en el cumpleaños",
+      },
+      {
+        type: "paragraph",
+        text: "La tristeza en el cumpleaños es un estado emocional breve y de baja intensidad. Aparece alrededor de la fecha de nacimiento y no es un trastorno. Es, en cambio, una reacción al repaso que la fecha provoca. Cada vuelta de calendario es un contador silencioso: años cumplidos, metas pendientes, personas que ya no están. Por eso, la importancia de esta tristeza no es festiva, sino vital: indica que estás revisando tu vida, aunque nadie te lo pida.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalmente dura días, no semanas. Se nota como apatía ante los planes, irritabilidad suave o una melancolía difusa sin motivo concreto. Además, suele intensificarse en fechas redondas o tras cambios grandes: los treinta, los cuarenta, el primer cumpleaños tras una separación o un duelo. Ahora bien, conviene distinguirla de un estado depresivo. Si el malestar se generaliza, se alarga semanas o bloquea tu vida, la conversación ya no es sobre el cumpleaños.",
+      },
+      {
+        type: "heading",
+        text: "El cumpleaños como espejo: la revisión del año",
+      },
+      {
+        type: "paragraph",
+        text: "El cumpleaños es, de hecho, la única fecha del calendario que habla exclusivamente de ti. Las demás son colectivas o familiares; esta te pone en el centro y pide balance. Por eso incomoda: obliga a mirar el año que pasó y a compararlo, en silencio, con lo que esperabas. La mente hace su inventario: dónde pensabas estar a esta edad, qué planes quedaron a medio camino, qué relaciones se han enfriado.",
+      },
+      {
+        type: "paragraph",
+        text: "En este sentido, la tristeza cumple una función. No aparece porque la vida vaya mal, sino porque importa: duele lo que aún significa algo. Por ejemplo, el cumpleaños en que notas que el trabajo ya no representa quién eres. O el que te gustaría celebrar y no tienes con quién. Tan importante es lo que se perdió como lo que se está pidiendo: un año con más coherencia, vínculos más vivos, una vida que se reconozca.",
+      },
+      {
+        type: "heading",
+        text: "Qué se juega en esa fecha: identidad y tiempo",
+      },
+      {
+        type: "paragraph",
+        text: "Por un lado, está la identidad. El cumpleaños pregunta quién eres más allá de los papeles: si quitas la agenda, la profesión y los planes, ¿qué queda? Algunos años la respuesta incomoda y, en lugar de sostenerla, la fiesta se llena de prisa y ruido. Por otro lado, está el tiempo. Cumplir años hace tangible el paso de la vida adulta, y de ahí esa mezcla de gratitud y alarma.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, la fecha reúne a los demás a tu alrededor, y eso también pesa. Están las expectativas ajenas, los mensajes automáticos, el «¿qué harás para celebrarlo?» cuando no hay ganas de celebrar nada. A veces, en cambio, el malestar es más silencioso: quien comparte mesa con mucha gente y se siente, aun así, solo. Al final, la tristeza del cumpleaños raramente va sobre la edad. Va sobre la distancia entre la vida que llevas y la que considerarías tuya.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se sostiene en la psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia, esta tristeza se trabaja como puerta de entrada, no como una molestia. El cumpleaños concentra preguntas de fondo que el resto del año pasan disimuladas: qué quieres hacer con el tiempo que tienes, qué merece tu energía, qué historia cuentas de ti. La psicoterapia para adultos ofrece un lugar para mirar ese inventario sin prisa ni juicio. Normalmente, quien llega por la tristeza de una fecha acaba trabajando algo más grande: identidad, vínculos, dirección.",
+      },
+      {
+        type: "paragraph",
+        text: "El proceso empieza ordenando lo que hay debajo. Qué duelos actualiza la fecha, qué expectativas heredadas pesan en el balance, qué partes tuyas llevan años sin voz. Después llega la parte constructiva: decidir qué se cambia y qué se acepta, qué se celebra y qué se honra de otra manera. En definitiva, no se trata de alegrar el día. Se trata de que la fecha deje de doler por lo que calla.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la tristeza del cumpleaños",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal ponerse triste el día del cumpleaños?",
+            answer:
+              "Sí, y más de lo que parece. De hecho, es una de las reacciones más habituales en consulta entre los treinta y los cincuenta años. El día condensa balance vital, duelos y expectativas. Ahora bien, si dura semanas o se extiende al resto de tu vida, conviene consultarla con un psicólogo.",
+          },
+          {
+            question: "¿Qué hacer si se acerca el cumpleaños y ya sé que me pondrá mal?",
+            answer:
+              "No hace falta forzar la celebración ni cancelar la vida. A veces basta con bajar el guion del día: menos fiesta, más presencia. Por ejemplo, un rato tranquilo para ti antes de cualquier plan. Y si cada año llega con la misma pregunta, quizá esa pregunta merezca terapia.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Sostener la fecha, no borrarla",
+      },
+      {
+        type: "paragraph",
+        text: "La tristeza en el cumpleaños no hay que suprimirla ni disfrazarla de confeti. Hay que sostenerla: escuchar qué revisa, darle un lugar y decidir con qué te quedas del inventario. Algunos años será solo una melancolía pasajera. Otros, en cambio, serán el primer aviso de que algo pide cambio. Al final, la madurez no consiste en celebrar sin dolor. Consiste en saber qué se celebra y qué se llora.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados. Trabajamos desde una psicoterapia humanista e integradora, de forma presencial u online. Si tu cumpleaños deja cada año una pregunta que no acaba de irse, no necesitas una fiesta. Necesitas un lugar para mirar esa pregunta con calma. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con la respuesta; basta con empezar a mirar.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
 ];
