@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "compararse-con-los-demas",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Comparar-se amb els altres: quan mirar vides alienes fa mal",
+    "titleES": "Compararse con los demás: cuando mirar otras vidas duele",
+    "excerptCA": "Comparar-se amb els altres ja no és cosa d'adolescents. Per què fa mal a partir dels trenta, què diu dels teus valors i com es treballa a la teràpia.",
+    "excerptES": "Compararse con los demás ya no es cosa de adolescentes. Por qué duele tanto a partir de los treinta, qué dice de tus valores y cómo se trabaja en terapia.",
+    "datePublished": "2026-10-31"
+  },
+  {
     "slug": "tristeza-cumpleanos",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",

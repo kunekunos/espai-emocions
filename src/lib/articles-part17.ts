@@ -1751,4 +1751,212 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------------
+  // 9. compararse-con-los-demas (Identidad, 2026-10-31)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "compararse-con-los-demas",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "Comparar-se amb els altres: quan mirar vides alienes fa mal",
+    titleES: "Compararse con los demás: cuando mirar otras vidas duele",
+    excerptCA:
+      "Comparar-se amb els altres ja no és cosa d'adolescents. Per què fa mal a partir dels trenta, què diu dels teus valors i com es treballa a la teràpia.",
+    excerptES:
+      "Compararse con los demás ya no es cosa de adolescentes. Por qué duele tanto a partir de los treinta, qué dice de tus valores y cómo se trabaja en terapia.",
+    datePublished: "2026-10-31",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Comparar-se amb els altres semblava cosa d'institut: qui anava millor, qui agradava més, qui ho aprovava tot. Després van arribar els sopars d'amics, les xarxes professionals i les fotos de vacances alienes. La comparació es va quedar a viure. A consulta de psicologia veiem cada setmana persones adultes que sostenen les seves vides amb solidesa. Tanmateix, moltes tornen a casa amb una pregunta silenciosa: i jo?",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar aquesta fiblada amb calma. Veurem què és la comparació en l'edat adulta i per què s'intensifica ara que les vides s'exhibeixen. També veurem què revela dels teus valors i com es treballa en una psicoteràpia per a adults. Perquè comparar-se amb els altres no és superficialitat. De fet, és una de les portes més directes cap a la teva identitat.",
+      },
+      {
+        type: "heading",
+        text: "Comparar-se amb els altres: què és i per què ara fa més mal",
+      },
+      {
+        type: "paragraph",
+        text: "La comparació social és la tendència a avaluar-te mirant la vida d'altres persones. La psicologia l'estudia des dels anys cinquanta, perquè necessitem referents externs per saber qui som. En aquest sentit, comparar-se és humà i a més útil: orienta, informa i a vegades inspira. El problema no és comparar. El problema és comparar amb dades falses i amb el calendari d'una altra persona.",
+      },
+      {
+        type: "paragraph",
+        text: "I per què fa tant de mal ara? Als vint anys, gairebé tothom està començant. En canvi, a partir dels trenta les trajectòries se separen: uns compren, altres se separen; uns ascendeixen, altres reinventen l'ofici. La divergència fa comparable qualsevol sopar. A més, les xarxes socials han convertit l'aparador en el format per defecte. Veus el minut millor d'una vida aliena i el compares amb el teu dimarts sencer.",
+      },
+      {
+        type: "heading",
+        text: "Les vides editades: què mires i què no veus",
+      },
+      {
+        type: "paragraph",
+        text: "Quan et compares amb els altres, poques vegades compares vides reals. Compares muntatges. Per exemple, la casa de la foto no ensenya la hipoteca que apreta. L'ascens no ensenya l'insomni que l'acompanya. La parella somrient no ensenya el silenci amb què tornen a casa. La comparació adulta treballa amb material publicitari. Tanmateix, emet sentències amb validesa de document.",
+      },
+      {
+        type: "paragraph",
+        text: "Això no és un argument per desconfiar de tothom. De fet, ningú publica el seu interior. També convé mirar on et compares. Una amistat de veritat et coneix i et sosté. En canvi, el scroll nocturn només ofereix gent que ni sap el teu nom. El primer vincle retorna realitat. El segon, a més, retorna distància.",
+      },
+      {
+        type: "heading",
+        text: "Què revela la comparació sobre tu",
+      },
+      {
+        type: "paragraph",
+        text: "Cada fiblada de comparació assenyala alguna cosa. L'enveja no és un defecte moral: és informació. D'una banda, et mostra quins valors teus estan ferits: reconeixement, seguretat, llibertat, temps, família. De l'altra, t'ensenya on vas col·locar la vara de mesurar-te. Moltes persones adultes descobreixen a teràpia que la vara ni tan sols era seva. La van heretar de la família, de l'escola o d'un context que ja no existeix.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, el mateix passa amb la sensació d'anar tard. Anar tard, respecte a què? Al teu desig o al guió? El guió existeix i és poderós: casa a una edat, parella a una altra, èxits abans dels quaranta. Tanmateix, no té en compte la teva història ni els teus valors. La maduresa consisteix, en bona part, a canviar la pregunta. No «vaig tard?», sinó «vaig cap al que és meu?». Per això, aquest gir retorna autonomia.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa la comparació a la psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "En una psicoteràpia d'adults no es persegueix deixar de comparar-se. Això no existeix i, a més, tampoc caldria. Es treballa per entendre què compares, amb quina part de tu i per a què. Primer es posa història: qui comparava a casa teva, què es premiava i què s'amagava. Després s'examinen els valors que avui et mouen. La identitat es sosté sobre allò que de veritat importa, no sobre allò que tocava.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir d'aquí, el procés fa distincions fines. A vegades, l'enveja assenyala un desig propi que mereix decisions concretes i responsabilitat. Altres vegades, en canvi, assenyala un guió heretat que convé acomiadar. La teràpia humanista sosté aquest treball sense judici i amb profunditat. Al capdavall es tracta de passar de mirar vides alienes a habitar la teva amb coherència.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre comparar-se amb els altres",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Comparar-me amb els altres vol dir que sóc envejós?",
+            answer:
+              "No necessàriament. L'enveja fa mal, però també informa. Quan alguna cosa aliena et fibla, pots preguntar-te quin valor teu hi ha al darrere. Normalment hi ha un desig real o una por antiga. Mirar-ho així converteix la comparació en material de treball, no en motiu de vergonya.",
+          },
+          {
+            question: "N'hi hauria prou amb deixar les xarxes socials?",
+            answer:
+              "Ajuda, però no n'hi ha prou. Les xarxes acceleren la comparació; ara bé, la comparació va començar molt abans. Ja hi havia el germà que treia millors notes o la cosina que es casava primer. Per això convé mirar l'hàbit de mesurar-te, no només l'aparador que l'alimenta.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Mirar la teva vida amb els teus propis ulls",
+      },
+      {
+        type: "paragraph",
+        text: "Comparar-se amb els altres no és una feblesa que hagis de corregir amb disciplina. És el senyal que fa temps que no et mires. A més, la comparació es calma quan la teva vida recupera direcció pròpia. Això passa quan allò que fas guarda relació amb allò que valores. Al capdavall, la pregunta madura no és si vas davant o darrere de ningú. És si vas cap a la teva.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats. Treballem des d'una psicoteràpia humanista i integradora, de manera presencial o en línia. Si mirar vides alienes t'ha deixat una pregunta incòmoda sobre la teva, és un bon moment per donar-li lloc. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb la vida resolta; n'hi ha prou amb voler-la mirar.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Compararse con los demás parecía cosa de instituto: quién iba mejor, quién gustaba más, quién lo aprobaba todo. Después llegaron las cenas de amigos, las redes profesionales y las fotos de vacaciones ajenas. La comparación se quedó a vivir. En consulta de psicología vemos cada semana a personas adultas que sostienen sus vidas con solidez. Sin embargo, muchas vuelven a casa con una pregunta silenciosa: ¿y yo?",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar esa punzada con calma. Veremos qué es la comparación en la edad adulta y por qué se intensifica ahora que las vidas se exhiben. También veremos qué revela de tus valores y cómo se trabaja en una psicoterapia para adultos. Porque compararse con los demás no es superficialidad. De hecho, es una de las puertas más directas hacia tu propia identidad.",
+      },
+      {
+        type: "heading",
+        text: "Compararse con los demás: qué es y por qué ahora duele más",
+      },
+      {
+        type: "paragraph",
+        text: "La comparación social es la tendencia a evaluarte mirando la vida de otras personas. La psicología la estudia desde los años cincuenta, porque necesitamos referentes externos para saber quiénes somos. En este sentido, compararse es humano y además útil: orienta, informa y a veces hasta inspira. El problema no es comparar. El problema es comparar con datos falsos y con el calendario de otra persona.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y por qué duele tanto ahora? A los veinte, casi todo el mundo está empezando. En cambio, a partir de los treinta las trayectorias se separan: unos compran, otros se separan; unos ascienden, otros reinventan su profesión. La divergencia vuelve comparable cualquier cena. Además, las redes sociales convirtieron el escaparate en el formato por defecto. Ves el mejor minuto de una vida ajena y lo comparas con tu martes entero.",
+      },
+      {
+        type: "heading",
+        text: "Las vidas editadas: qué miras y qué no ves",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando te comparas con los demás, rara vez comparas vidas reales. Comparas montajes. Por ejemplo, la casa de la foto no muestra la hipoteca que aprieta. El ascenso no muestra el insomnio que lo acompaña. La pareja sonriente no muestra el silencio con el que vuelven a casa. La comparación adulta trabaja con material publicitario. Sin embargo, emite sentencias con validez de documento.",
+      },
+      {
+        type: "paragraph",
+        text: "Esto no es un argumento para desconfiar de todo el mundo. De hecho, nadie publica su interior. También conviene mirar dónde te comparas. Una amistad de verdad te conoce y te sostiene. En cambio, el scroll nocturno solo ofrece gente que ni sabe tu nombre. El primer vínculo devuelve realidad. El segundo, además, devuelve distancia.",
+      },
+      {
+        type: "heading",
+        text: "Qué revela la comparación sobre ti",
+      },
+      {
+        type: "paragraph",
+        text: "Cada punzada de comparación señala algo. La envidia no es un defecto moral: es información. Por un lado, te muestra qué valores tuyos están heridos: reconocimiento, seguridad, libertad, tiempo, familia. Por otro, te enseña dónde colocaste la vara de medirte. Muchas personas adultas descubren en terapia que la vara ni siquiera era suya. La heredaron de la familia, del colegio o de un contexto que ya no existe.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, lo mismo ocurre con la sensación de ir tarde. Ir tarde, ¿respecto a qué? ¿A tu deseo o al guion? El guion existe y es poderoso: casa a una edad, pareja a otra, logros antes de los cuarenta. Sin embargo, no tiene en cuenta tu historia ni tus valores. La madurez consiste, en buena parte, en cambiar la pregunta. No «¿voy tarde?», sino «¿voy hacia lo mío?». Por eso, ese giro devuelve autonomía.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja la comparación en la psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "En una psicoterapia de adultos no se persigue dejar de compararse. Eso no existe y, además, tampoco haría falta. Se trabaja para entender qué comparas, con qué parte de ti y para qué. Primero se pone historia: quién comparaba en tu casa, qué se premiaba y qué se escondía. Después se examinan los valores que hoy te mueven. La identidad se sostiene sobre lo que de verdad importa, no sobre lo que tocaba.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir de ahí, el proceso hace distinciones finas. A veces, la envidia señala un deseo propio que merece decisiones concretas y responsabilidad. Otras veces, en cambio, señala un guion heredado que conviene despedir. La terapia humanista sostiene este trabajo sin juicio y con profundidad. Al final se trata de pasar de mirar vidas ajenas a habitar la tuya con coherencia.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre compararse con los demás",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Compararme con los demás significa que soy envidioso?",
+            answer:
+              "No necesariamente. La envidia duele, pero también informa. Cuando algo ajeno te punza, puedes preguntarte qué valor tuyo está detrás. Normalmente hay un deseo real o un miedo antiguo. Mirarlo así convierte la comparación en material de trabajo, no en motivo de vergüenza.",
+          },
+          {
+            question: "¿Bastaría con dejar de usar redes sociales?",
+            answer:
+              "Ayuda, pero no basta. Las redes aceleran la comparación; ahora bien, la comparación empezó mucho antes. Ya estaba el hermano que sacaba mejores notas o la prima que se casó primero. Por eso conviene mirar el hábito de medirte, no solo el escaparate que lo alimenta.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Mirar tu vida con tus propios ojos",
+      },
+      {
+        type: "paragraph",
+        text: "Compararse con los demás no es una flaqueza que debas corregir con disciplina. Es la señal de que llevas tiempo sin mirarte. Además, la comparación se calma cuando tu vida recupera dirección propia. Eso ocurre cuando lo que haces guarda relación con lo que valoras. Al final, la pregunta madura no es si vas delante o detrás de nadie. Es si vas hacia la tuya.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados. Trabajamos desde una psicoterapia humanista e integradora, de forma presencial u online. Si mirar otras vidas te ha dejado una pregunta incómoda sobre la tuya, es buen momento para darle un lugar. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con la vida resuelta; basta con querer mirarla.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
 ];
