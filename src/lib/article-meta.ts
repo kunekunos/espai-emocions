@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "duelo-fechas-senhaladas",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "El dol en dates assenyalades: quan l'absència torna",
+    "titleES": "El duelo en fechas señaladas: cuando la ausencia vuelve",
+    "excerptCA": "El dol en dates assenyalades no és una recaiguda: és la manera que té l'absència de demanar lloc. Què vol dir, per què torna i com travessar-lo.",
+    "excerptES": "El duelo en fechas señaladas no es una recaída: es la manera que tiene la ausencia de pedir lugar. Qué significa, por qué vuelve y cómo atravesarlo.",
+    "datePublished": "2026-11-01"
+  },
+  {
     "slug": "compararse-con-los-demas",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",

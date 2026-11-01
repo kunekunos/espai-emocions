@@ -1959,4 +1959,227 @@ export const articlesPart17: ArticleContent[] = [
       },
     ],
   },
+  // ---------------------------------------------------------------------------
+  // 10. duelo-fechas-senhaladas (Canvis vitals, 2026-11-01)
+  // ---------------------------------------------------------------------------
+  {
+    slug: "duelo-fechas-senhaladas",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "El dol en dates assenyalades: quan l'absència torna",
+    titleES: "El duelo en fechas señaladas: cuando la ausencia vuelve",
+    excerptCA:
+      "El dol en dates assenyalades no és una recaiguda: és la manera que té l'absència de demanar lloc. Què vol dir, per què torna i com travessar-lo.",
+    excerptES:
+      "El duelo en fechas señaladas no es una recaída: es la manera que tiene la ausencia de pedir lugar. Qué significa, por qué vuelve y cómo atravesarlo.",
+    datePublished: "2026-11-01",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "El dol en dates assenyalades té alguna cosa de cita inesperada. Tot va en ordre durant mesos: treballes, ries, la vida segueix el seu curs. Després arriba l'u de novembre, o el primer sopar de Nadal sense aquella persona, i alguna cosa per dintre es mou. A consulta de psicologia a Barcelona ho veiem cada any: adults que creien tenir el dol recorregut tornen a sentir-ne el pes i es sorprenen. No han retrocedit: el calendari ha tocat una data que el cor no oblida.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem posar paraules a aquesta volta. Veurem què és el dol en dates assenyalades, per què torna cada any i què es pot fer quan arriba. També veurem quan convé la companyia d'un psicòleg. De fet, que el dolor reaparegui no vol dir que alguna cosa vagi malament: vol dir que algú important segueix ocupant un lloc a la teva vida.",
+      },
+      {
+        type: "heading",
+        text: "El dol en dates assenyalades: què és i per què torna",
+      },
+      {
+        type: "paragraph",
+        text: "El dol en dates assenyalades és la reactivació del dolor en aniversaris i moments amb càrrega emocional: festes, commemoracions, dates del calendari propi. La psicologia ho coneix com a reacció d'aniversari. De fet, és una resposta natural, no una patologia. El dol no segueix un calendari lineal; ara bé, els calendaris saben trobar-lo. El cos i la memòria registren dates encara que el cap no les esmenti.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan arriba, pot portar son trencada, irritabilitat, ganes de tancar-se o records d'una vivor que sorprèn. Tot això sol intensificar-se dies abans de la data. En aquest sentit, saber que existeix aquest patró ja retorna una certa calma. A més, cal una distinció: que el dolor torni puntualment no és una recaiguda. La recaiguda és una altra cosa: dolor sostingut que no afluixa i que bloqueja la vida quotidiana.",
+      },
+      {
+        type: "heading",
+        text: "Dates que tothom veu i dates que només tu coneixes",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha dates col·lectives, com Tots Sants o la Nit de Nadal, que activen el dol de manera compartida: tota la ciutat sembla recordar el que tu recordes. Tanmateix, el calendari privat pesa més. L'aniversari de la mort, l'aniversari de qui falta, el dia del diagnòstic o la data en què va arribar la notícia. Fins i tot una cançó de sempre o el plat preferit d'aquella persona a la carta d'un restaurant.",
+      },
+      {
+        type: "paragraph",
+        text: "Els primers anys afegeixen el seu propi compte: el primer Nadal, el primer aniversari sense aquella persona, el primer estiu. Per exemple, molta gent descriu el primer any com una roda de primeres vegades que fan mal. A partir del segon, les dates no desapareixen. Ara bé, solen canviar de to: de ferida oberta a cita amb la memòria.",
+      },
+      {
+        type: "heading",
+        text: "La data que no avisa",
+      },
+      {
+        type: "paragraph",
+        text: "A més, les dates no avisen. Poden atrapar-te un dimarts qualsevol, enmig d'una reunió o a la cua del supermercat. Per això tanta gent pensa que està tornant enrere quan, de fet, només s'està trobant. Al capdavall, el record no plega a les set de la tarda: la vida també es mesura en persones.",
+      },
+      {
+        type: "heading",
+        text: "Com donar-li un lloc quan el dol torna",
+      },
+      {
+        type: "paragraph",
+        text: "El que menys ajuda és fingir que la data no existeix. L'evitació calma avui i encareix demà, perquè ensenya a la teva memòria que aquell dia és un perill. En canvi, donar-li un lloc deliberat sol sostenir millor. A més, pot ser un gest senzill: encendre una espelma, cuinar el seu plat, visitar el cementiri sense pressa, explicar una anècdota en veu alta o escriure-li una carta que no s'enviarà.",
+      },
+      {
+        type: "paragraph",
+        text: "El lloc també inclou permisos. Normalment, no cal celebrar si no hi ha forces. Pots canviar el pla, escurçar el sopar o quedar-te a casa. Tan important com honrar la memòria és protegir el teu present. Al capdavall, el dol i la vida no competeixen: es sostenen mútuament quan cadascun té el seu lloc.",
+      },
+      {
+        type: "heading",
+        text: "Quan el dol demana companyia professional",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha situacions en què convé no travessar la data en solitari. Per exemple, quan el dol porta mesos sense afluixar, quan la culpa no deixa respirar o quan la data desactiva per complet la vida quotidiana. També quan la persona que falta va morir fa poc i s'acosta la primera ronda de dates assenyalades sense suport familiar proper.",
+      },
+      {
+        type: "paragraph",
+        text: "En una psicoteràpia per a adults, el dol no se supera per decret: s'elabora. Es posa història, vincle i context sobre la taula, i s'acompanya cada persona a construir la relació que vol mantenir amb qui no hi és. Això és especialment rellevant quan el dol es creua amb la identitat i la maduresa, una cosa freqüent a partir dels trenta.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre el dol en dates assenyalades",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Encara em fa mal després de tants anys, és normal?",
+            answer:
+              "Sí. La intensitat baixa amb el temps, però poques dates desapareixen del tot. Sentir una fiblada en un aniversari no és estar estancat: és la senyal que aquella persona va seguir important. Ara bé, si el dolor no afluixa en absolut o bloqueja el teu dia a dia, convé consultar-ho amb un psicòleg.",
+          },
+          {
+            question: "És millor evitar les dates que em fan mal?",
+            answer:
+              "Normalment, no. Evitar la data alleuja avui, però reforça la idea de perill i fa que l'any següent pesi més. Convé, en canvi, planificar alguna cosa que doni sentit al dia: un gest, companyia o fins i tot un canvi conscient de pla. Al capdavall, l'important és que decideixis tu, no que decideixi la por.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El record no es tanca: s'habita",
+      },
+      {
+        type: "paragraph",
+        text: "El dol en dates assenyalades no és un deute amb el passat, sinó una manera de seguir estimant. Amb els anys, la data deixa de ser només ferida i comença a ser també trobada: un dia en què la memòria es permet dir el nom, mirar la fotografia i agrair el que va ser. Res no ho arregla; simplement, ho torna habitable.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, de manera presencial o en línia. Si enguany una data assenyalada t'ha deixat més abatut del que esperaves, potser és el moment de donar-li un espai. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb el dol ordenat; n'hi ha prou amb voler mirar-lo.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El duelo en fechas señaladas tiene algo de cita inesperada. Todo va en orden durante meses: trabajas, ríes, la vida sigue su curso. Después llega el uno de noviembre, o la primera cena de Navidad sin esa persona, y algo por dentro se mueve. En consulta de psicología en Barcelona lo vemos cada año: adultos que creían tener el duelo recorrido vuelven a sentir su peso y se sorprenden. No han retrocedido: el calendario ha tocado una fecha que el corazón no olvida.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos poner palabras a esa vuelta. Veremos qué es el duelo en fechas señaladas, por qué vuelve cada año y qué se puede hacer cuando llega. También veremos cuándo conviene la compañía de un psicólogo. De hecho, que el dolor reaparezca no significa que algo vaya mal: significa que alguien importante sigue ocupando un lugar en tu vida.",
+      },
+      {
+        type: "heading",
+        text: "El duelo en fechas señaladas: qué es y por qué vuelve",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo en fechas señaladas es la reactivación del dolor en aniversarios y momentos con carga emocional: cumpleaños, festividades, fechas del calendario propio. La psicología lo conoce como reacción de aniversario. De hecho, es una respuesta natural, no una patología. El duelo no sigue un calendario lineal; ahora bien, los calendarios saben encontrarlo. El cuerpo y la memoria registran fechas aunque la cabeza no las mencione.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando llega, puede traer sueño roto, irritabilidad, ganas de encerrarse o recuerdos de una viveza que sorprende. Todo ello suele intensificarse días antes de la fecha. En este sentido, saber que existe este patrón ya devuelve cierta calma. Además, conviene una distinción: que el dolor vuelva puntualmente no es una recaída. La recaída es otra cosa: dolor sostenido que no afloja y que bloquea la vida cotidiana.",
+      },
+      {
+        type: "heading",
+        text: "Fechas que todo el mundo ve y fechas que solo tú conoces",
+      },
+      {
+        type: "paragraph",
+        text: "Hay fechas colectivas, como Todos los Santos o la Nochebuena, que activan el duelo de manera compartida: toda la ciudad parece recordar lo que tú recuerdas. Sin embargo, el calendario privado pesa más. El aniversario de la muerte, el cumpleaños de quien falta, el día del diagnóstico o la fecha en que llegó la noticia. Incluso una canción de siempre o su plato favorito en la carta de un restaurante.",
+      },
+      {
+        type: "paragraph",
+        text: "Los primeros años añaden su propia cuenta: la primera Navidad, el primer cumpleaños sin esa persona, el primer verano. Por ejemplo, mucha gente describe el primer año como una rueda de primeras veces que duelen. A partir del segundo, las fechas no desaparecen. Ahora bien, suelen cambiar de tono: de herida abierta a cita con la memoria.",
+      },
+      {
+        type: "heading",
+        text: "La fecha que no avisa",
+      },
+      {
+        type: "paragraph",
+        text: "Además, las fechas no avisan. Pueden alcanzarte un martes cualquiera, en mitad de una reunión o en la cola del supermercado. Por eso tanta gente cree que retrocede cuando, de hecho, solo se está encontrando. Al final, el recuerdo no se despide al terminar la jornada: la vida también se mide en personas.",
+      },
+      {
+        type: "heading",
+        text: "Cómo darle un lugar cuando el duelo vuelve",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que menos ayuda es fingir que la fecha no existe. La evitación calma hoy y encarece mañana, porque enseña a tu memoria que ese día es un peligro. En cambio, darle un lugar deliberado suele sostener mejor. Además, puede ser un gesto sencillo: encender una vela, cocinar su plato, visitar el cementerio sin prisa, contar una anécdota en voz alta o escribirle una carta que no se enviará.",
+      },
+      {
+        type: "paragraph",
+        text: "El lugar también incluye permisos. Normalmente, no hace falta celebrar si no hay fuerzas. Puedes cambiar el plan, acortar la cena o quedarte en casa. Tan importante como honrar la memoria es proteger tu presente. Al final, el duelo y la vida no compiten: se sostienen mutuamente cuando cada uno tiene su sitio.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo el duelo pide compañía profesional",
+      },
+      {
+        type: "paragraph",
+        text: "Hay situaciones en las que conviene no atravesar la fecha en solitario. Por ejemplo, cuando el duelo lleva meses sin aflojar, cuando la culpa no deja respirar o cuando la fecha desactiva por completo la vida cotidiana. También cuando la persona que falta murió hace poco y se acerca la primera ronda de fechas señaladas sin apoyo familiar cercano.",
+      },
+      {
+        type: "paragraph",
+        text: "En una psicoterapia para adultos, el duelo no se supera por decreto: se elabora. Se pone historia, vínculo y contexto sobre la mesa, y se acompaña a cada persona a construir la relación que quiere mantener con quien no está. Esto es especialmente relevante cuando el duelo se cruza con la identidad y la madurez, algo frecuente a partir de los treinta.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre el duelo en fechas señaladas",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Aún me duele después de tantos años, es normal?",
+            answer:
+              "Sí. La intensidad baja con el tiempo, pero pocas fechas desaparecen del todo. Sentir una punzada en un aniversario no es estar estancado: es la señal de que esa persona siguió importando. Ahora bien, si el dolor no afloja en absoluto o bloquea tu día a día, conviene consultarlo con un psicólogo.",
+          },
+          {
+            question: "¿Es mejor evitar las fechas que me hacen mal?",
+            answer:
+              "Normalmente, no. Evitar la fecha alivia hoy, pero refuerza la idea de peligro y hace que el año siguiente pese más. Conviene, en cambio, planificar algo que dé sentido al día: un gesto, compañía o incluso un cambio consciente de plan. Al final, lo importante es que decidas tú, no que decida el miedo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El recuerdo no se cierra: se habita",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo en fechas señaladas no es una deuda con el pasado, sino una manera de seguir queriendo. Con los años, la fecha deja de ser solo herida y empieza a ser también encuentro: un día en el que la memoria se permite decir el nombre, mirar la fotografía y agradecer lo que fue. Nada lo arregla; simplemente, lo vuelve habitable.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, de manera presencial u online. Si este año una fecha señalada te ha dejado más hundido de lo esperado, quizá sea el momento de darle un espacio. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con el duelo ordenado; basta con querer mirarlo.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
 ];
