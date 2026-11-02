@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "necesidad-de-agradar",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "La necessitat d'agradar: quan el «sí» costa car",
+    "titleES": "La necesidad de agradar: cuando el «sí» sale caro",
+    "excerptCA": "La necessitat d'agradar et fa dir que sí quan el cos diu no. Què és, d'on surt i com es treballa en psicoteràpia d'adults.",
+    "excerptES": "La necesidad de agradar te hace decir sí cuando el cuerpo dice no. Qué es, de dónde sale y cómo se trabaja en psicoterapia de adultos.",
+    "datePublished": "2026-11-02"
+  },
+  {
     "slug": "duelo-fechas-senhaladas",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
