@@ -279,4 +279,281 @@ export const articlesPart18: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 2. la-copa-que-calma (Ansietat, 2026-11-03)
+  // --------------------------------------------------------------------------
+  {
+    slug: "la-copa-que-calma",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "Beure per calmar l'ansietat: la copa que apaga el dia",
+    titleES: "Beber para calmar la ansiedad: la copa que apaga el día",
+    excerptCA: "Beure per calmar l'ansietat funciona: aquí hi ha el problema. La copa esdevé l'única persiana que baixa el teu dia; com veure-ho i què fer-hi.",
+    excerptES: "Beber para calmar la ansiedad funciona: ahí está el problema. La copa se convierte en la única persiana que baja tu día; cómo verlo y qué hacer.",
+    datePublished: "2026-11-03",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Amb què apagues el dia? De fet, hi ha adults que ho fan amb una sèrie; altres, amb el mòbil. I molts, amb una copa: la birra de la terrassa, el vermut del diumenge i el rioja que es descorcha en arribar a casa. Beure per calmar l'ansietat és més freqüent del que sembla a la consulta de psicologia, i gairebé ningú no ho explica en veu alta perquè no sembla un problema: sembla cultura.",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta incòmoda també és senzilla: què faria la teva tarda sense aquella copa?",
+      },
+      {
+        type: "heading",
+        text: "Beure per calmar l'ansietat: per què funciona tan bé",
+      },
+      {
+        type: "paragraph",
+        text: "L'alcohol és un depressor del sistema nerviós. En dosis moderades baixa l'activació amb una eficàcia que cap exercici de respiració no aconsegueix en vint minuts. Silencia el radar. Deixa anar la mandíbula. Apaga una estona el cap que dona voltes. Després arriba la factura. El cos compensa el sedant amb una activació de rebot: el son es fragmenta i les quatre de la matinada arriben amb el cor accelerat, un fenomen que ja descrivíem a l'article de les quatre de la matinada.",
+      },
+      {
+        type: "paragraph",
+        text: "A mitjà termini, a més, la tolerància fa la seva feina: cada cop cal una mica més d'alcohol per al mateix silenci. La calma es lloga; no es compra. I el preu puja.",
+      },
+      {
+        type: "heading",
+        text: "El mite de la copa inofensiva",
+      },
+      {
+        type: "paragraph",
+        text: "El mite diu així: «jo no tinc cap problema, només me'n prenc una». I de fet acostuma a ser veritat: no hi ha borratxeres ni escàndol; la vida, a més, segueix endavant. És la zona grisa de l'adult competent, aquella persona que dirigeix equips i té cura dels seus sense saber parar. La copa és la seva persiana: la baixa en arribar a casa i el mostrador queda fora.",
+      },
+      {
+        type: "paragraph",
+        text: "Fa poc, un pacient va fer el càlcul a consulta: ni una sola nit sense la seva copa en dos anys. Tanmateix, mai no ho havia dit a ningú; tampoc se li acudia dir-se bevedor. La seva frase exacta: «jo no bec per passar-m'ho bé, bec per deixar de donar voltes». T'hi reconeixes?",
+      },
+      {
+        type: "paragraph",
+        text: "Per això la pregunta útil no és quantes copes. És què apaga cadascuna.",
+      },
+      {
+        type: "heading",
+        text: "El que la copa apaga i el que deixa intacte",
+      },
+      {
+        type: "paragraph",
+        text: "La copa baixa la persiana, però no ordena la botiga. La rumiació, en canvi, continua allà al matí; l'agenda segueix plena i la conversa segueix pendent. L'alcohol gestiona el malestar; en canvi, el que el produeix queda intacte. Normalment el diagnòstic honest és un altre: el teu dia no té ni un minut de silenci i el got és l'únic interruptor que et permetes.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, hi ha un detall revelador: l'anticipació. Començar a pensar en la copa a les cinc de la tarda, com qui espera un llum al final del túnel, diu molt de com s'ha tornat escàs el descans. Ja ho vàrem veure parlant de quan parar fa por; el got, a vegades, és la versió líquida d'aquella mateixa por.",
+      },
+      {
+        type: "heading",
+        text: "I la copa social?",
+      },
+      {
+        type: "paragraph",
+        text: "També existeix, és clar. La qüestió és com se sosté el dia que no en té. Si un dia sense copa passa sense drama, endavant. Si es fa etern, tanmateix, la informació ja és valiosa.",
+      },
+      {
+        type: "heading",
+        text: "Senyals honestes, sense diagnòstic de barra de bar",
+      },
+      {
+        type: "paragraph",
+        text: "Sense etiquetes clíniques, de fet, hi ha senyals concretes que convé mirar: l'hora que s'avança, la copa mental que apareix cada tarda, el descans que empitjora amb alcohol, la irritabilitat dels dies sense ell. Cap no et converteix en alcohòlic; totes juntes, en canvi, avisen que el got està fent feina de psicòleg. I aquesta feina, a més, cobra car.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, hi ha un límit honest: quan el consum ja sosté tot el dia o apareix tremolor amb necessitat de beure al matí, el terreny requereix atenció especialitzada en addiccions i el correcte és derivar. A la zona grisa de la qual parlem, en canvi, sí que hi ha feina clínica possible, i normalment dona bons resultats.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa en psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú no t'arrabassarà la copa amb una consigna d'abstinència. La psicoteràpia comença per entendre per a què és: quina ansietat queda a sota, a quina hora del dia pesa, d'on vas aprendre que el dia no es pot aturar. Al capdavall, es tracta de recuperar autonomia sobre la teva manera de descansar.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir d'aquí, la feina és concreta: alternatives per baixar l'activació amb evidència i rituals de tancament de jornada que no depenguin del got; sobretot, tolerar l'estona de silenci que la copa tapava. Finalment, el canvi es nota en un detall. Quan la pausa ja no depèn de l'alcohol, l'alcohol torna a ser una copa: una cosa que tries, no una cosa que necessites.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la copa i l'ansietat",
+      },
+      {
+        type: "heading",
+        text: "Baixar la persiana sense la copa",
+      },
+      {
+        type: "paragraph",
+        text: "Mira la teva setmana amb honestedat: quants dies s'apaguen sols i quants necessiten el got? Si la resposta et molesta, aquella molèstia, de fet, és informació. Fes-la servir.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, de manera presencial o en línia. Així doncs, si la copa s'ha convertit en la teva manera d'acabar el dia, pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb la decisió presa; n'hi ha prou amb portar la pregunta.",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "Quant és massa?",
+          answer:
+            "La quantitat compta menys que la funció. Per exemple, dues copes tranquil·les en una celebració no diuen res; la copa diària i innegociable, en canvi, diu molt. Si la teva calma depèn d'ella, per tant, la pregunta deixa de ser quant beus i passa a ser des de quan. En aquest punt, val la pena consultar-ho.",
+        },
+        {
+          question: "És això alcoholisme?",
+          answer:
+            "L'alcoholisme té criteris clínics i tractament específic. La zona que descrivim aquí és més grisa: consum sense escàndol que fa d'ansiolític. No és el mateix; tanmateix, caminen en la mateixa direcció. I totes dues milloren amb ajuda professional.",
+        },
+        {
+          question: "Hauré de deixar de beure si començo teràpia?",
+          answer:
+            "No necessàriament. La teràpia no comença traient la copa; comença entenent-la. A vegades el consum cedeix tot sol, quan apareix una altra manera de baixar del dia. Ara bé, si ja hi ha dependència, el primer pas és un tractament especialitzat.",
+        },
+        {
+          question: "I aquesta nit, si l'ansietat ja és aquí?",
+          answer:
+            "Un pla petit: sopar tranquil, vint minuts de passeig lent, llum baixa i una lectura avorrida a propòsit. Sembla poc glamurós, ja ho sé. Però baixar l'activació sense contractar-la a l'alcohol és un aprenentatge, i els aprenentatges es fan en petit."
+        },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/blog/cuando-parar-da-miedo-el-descanso-que-no-llega", label: "«Quan parar fa por», l'article" },
+          { url: "/blog/las-cuatro-de-la-manana", label: "«Les quatre de la matinada», l'article" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Con qué apagas el día? De hecho, hay adultos que lo hacen con una serie; otros, con el móvil. Y muchos, con una copa: la birra de la terraza, el vermut del domingo y el rioja que se descorcha al llegar a casa. Beber para calmar la ansiedad es más frecuente de lo que parece en consulta de psicología, y casi nadie lo cuenta en voz alta porque no suena a problema: suena a cultura.",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta incómoda también es sencilla: ¿qué haría tu tarde sin esa copa?",
+      },
+      {
+        type: "heading",
+        text: "Beber para calmar la ansiedad: por qué funciona tan bien",
+      },
+      {
+        type: "paragraph",
+        text: "El alcohol es un depresor del sistema nervioso. En dosis moderadas baja la activación con una eficacia que ningún ejercicio de respiración alcanza en veinte minutos. Silencia el radar. Suelta la mandíbula. Apaga un rato la cabeza que da vueltas. Después llega la factura. El cuerpo compensa el sedante con una activación de rebote: el sueño se fragmenta y las cuatro de la mañana llegan con el corazón acelerado, un fenómeno que ya describíamos al hablar de la inquietud de las cuatro de la mañana.",
+      },
+      {
+        type: "paragraph",
+        text: "A medio plazo, además, la tolerancia hace su trabajo: cada vez hace falta un poco más de alcohol para el mismo silencio. La calma se alquila; no se compra. Y el precio sube.",
+      },
+      {
+        type: "heading",
+        text: "El mito de la copa inofensiva",
+      },
+      {
+        type: "paragraph",
+        text: "El mito dice así: «yo no tengo ningún problema, solo me tomo una». Y de hecho suele ser verdad: no hay borracheras ni escándalo; la vida, además, sigue en marcha. Es la zona gris del adulto competente, esa persona que dirige equipos y cuida de los suyos sin saber parar. La copa es su persiana: la baja al llegar a casa y el mostrador queda fuera.",
+      },
+      {
+        type: "paragraph",
+        text: "Hace poco, un paciente hizo el cálculo en consulta: ni una sola noche sin su copa en dos años. Sin embargo, nunca lo había dicho a nadie; tampoco se le ocurría llamarse bebedor. Su frase exacta: «yo no bebo para pasármelo bien, bebo para dejar de dar vueltas». ¿Te suena?",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso la pregunta útil no es cuántas copas. Es qué apaga cada una.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la copa apaga y lo que deja intacto",
+      },
+      {
+        type: "paragraph",
+        text: "La copa baja la persiana, pero no ordena la tienda. La rumiación, en cambio, sigue ahí por la mañana; la agenda sigue llena y la conversa sigue pendiente. El alcohol gestiona el malestar; en cambio, lo que lo produce queda intacto. Normalmente el diagnóstico honesto es otro: tu día no tiene ni un minuto de silencio y el vaso es el único interruptor que te permites.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, hay un detalle revelador: la anticipación. Empezar a pensar en la copa a las cinco de la tarde, como quien espera una luz al final del túnel, dice mucho de lo escaso que se ha vuelto el descanso. Ya lo vimos al hablar de por qué parar da miedo; el vaso, a veces, es la versión líquida de ese mismo miedo.",
+      },
+      {
+        type: "heading",
+        text: "¿Y la copa social?",
+      },
+      {
+        type: "paragraph",
+        text: "También existe, claro. La cuestión es cómo se sostiene el día en que falta. Si un día sin copa pasa sin drama, enhorabuena. Si se hace eterno, sin embargo, la información ya es valiosa.",
+      },
+      {
+        type: "heading",
+        text: "Señales honestas, sin diagnóstico de barra de bar",
+      },
+      {
+        type: "paragraph",
+        text: "Sin etiquetas clínicas, de hecho, hay señales concretas que conviene mirar: la hora que se adelanta, la copa mental que aparece cada tarde, el descanso que empeora con alcohol, la irritabilidad de los días sin él. Ninguna te convierte en alcohólico; juntas, en cambio, avisan de que el vaso está haciendo trabajo de psicólogo. Y ese trabajo, además, cobra caro.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, hay un límite honesto: cuando el consumo ya sostiene todo el día o aparece temblor con necesidad de beber por la mañana, el terreno requiere atención especializada en adicciones y lo correcto es derivar. En la zona gris de la que hablamos, en cambio, sí hay trabajo clínico posible, y suele dar buenos resultados.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie te va a arrebatar la copa con una consigna de abstinencia. La psicoterapia empieza por entender para qué está: qué ansiedad queda debajo, a qué hora del día aprieta, de dónde aprendiste que el día no se puede parar. Al final, se trata de recuperar autonomía sobre tu manera de descansar.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir de ahí, el trabajo es concreto: alternativas de descenso con evidencia y rituales de cierre de jornada que no dependan del vaso; sobre todo, tolerar el rato de silencio que la copa tapaba. Finalmente, el cambio se nota en un detalle. Cuando la pausa ya no depende del alcohol, el alcohol vuelve a ser una copa: algo que eliges, no algo que necesitas.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la copa y la ansiedad",
+      },
+      {
+        type: "heading",
+        text: "Bajar la persiana sin la copa",
+      },
+      {
+        type: "paragraph",
+        text: "Mira tu semana con honestidad: ¿cuántos días se apagan solos y cuántos necesitan el vaso? Si la respuesta incomoda, esa incomodidad, de hecho, es información. Úsala.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, de forma presencial u online. Así pues, si la copa se ha convertido en tu manera de terminar el día, puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con la decisión tomada; basta con traer la pregunta.",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "¿Cuánto es demasiado?",
+          answer:
+            "La cantidad importa menos que la función. Por ejemplo, dos copas tranquilas en una celebración no dicen nada; la copa diaria e innegociable, en cambio, dice mucho. Si tu calma depende de ella, por tanto, la pregunta deja de ser cuánto bebes y pasa a ser desde cuándo. En ese punto, conviene consultarlo.",
+        },
+        {
+          question: "¿Eso es alcoholismo?",
+          answer:
+            "El alcoholismo tiene criterios clínicos y tratamiento específico. La zona que describimos aquí es más gris: consumo sin escándalo que ejerce de ansiolítico. No es lo mismo; sin embargo, caminan en la misma dirección. Y ambas mejoran con ayuda profesional.",
+        },
+        {
+          question: "¿Tendré que dejar de beber si empiezo terapia?",
+          answer:
+            "No necesariamente. La terapia no empieza quitando la copa; empieza entendiéndola. A veces el consumo cede solo, cuando aparece otra manera de bajar del día. Ahora bien, si ya hay dependencia, el primer paso es un tratamiento especializado.",
+        },
+        {
+          question: "¿Y esta noche, si la ansiedad ya está aquí?",
+          answer:
+            "Un plan pequeño: cena tranquila, veinte minutos de paseo lento, luz baja y una lectura aburrida a propósito. Suena poco glamuroso, lo sé. Pero bajar la activación sin contratarla al alcohol es un aprendizaje, y los aprendizajes se hacen en pequeño."
+        },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/blog/cuando-parar-da-miedo-el-descanso-que-no-llega", label: "«Cuando parar da miedo», el artículo" },
+          { url: "/blog/las-cuatro-de-la-manana", label: "«Las cuatro de la mañana», el artículo" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
 ];

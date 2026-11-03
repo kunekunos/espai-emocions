@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "la-copa-que-calma",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "Beure per calmar l'ansietat: la copa que apaga el dia",
+    "titleES": "Beber para calmar la ansiedad: la copa que apaga el día",
+    "excerptCA": "Beure per calmar l'ansietat funciona: aquí hi ha el problema. La copa esdevé l'única persiana que baixa el teu dia; com veure-ho i què fer-hi.",
+    "excerptES": "Beber para calmar la ansiedad funciona: ahí está el problema. La copa se convierte en la única persiana que baja tu día; cómo verlo y qué hacer.",
+    "datePublished": "2026-11-03"
+  },
+  {
     "slug": "necesidad-de-agradar",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
