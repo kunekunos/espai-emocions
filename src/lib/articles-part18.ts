@@ -556,4 +556,250 @@ export const articlesPart18: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 3. discutir-siempre-por-lo-mismo (Parella, 2026-11-04)
+  // --------------------------------------------------------------------------
+  {
+    slug: "discutir-siempre-por-lo-mismo",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "Discutir sempre pel mateix: la baralla que no era del tema",
+    titleES: "Discutir siempre por lo mismo: la pelea que no era del tema",
+    excerptCA:
+      "Discutir sempre pel mateix és la conversa que la parella encara no ha sabut tenir. Anatomia de la baralla repetida i com trencar el cercle.",
+    excerptES:
+      "Discutir siempre por lo mismo es la conversación que la pareja aún no ha sabido tener. Anatomía de la pelea repetida y cómo romper el círculo.",
+    datePublished: "2026-11-04",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha parelles que porten deu anys discutint sempre pel mateix. Els plats. Els horaris. El mòbil a taula. La baralla arrenca igual i s'acaba amb la mateixa frase; després, dos dies de calma aparent. I tornem-hi. Però quan el tema arriba a consulta de teràpia de parella, molts ho expliquen amb una vergonya estranya, com si confessessin un defecte de fàbrica: si ens estiméssim de debò, això no passaria.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, des de la psicologia, la lectura és una mica diferent. La baralla repetida no és el senyal d'una parella espatllada; sovint és la conversa més important que tenen, mal firmada. En aquest article en volem veure l'anatomia: què hi ha sota del tema dels plats i com es treballa a la consulta.",
+      },
+      {
+        type: "heading",
+        text: "Discutir sempre pel mateix: què significa",
+      },
+      {
+        type: "paragraph",
+        text: "Discutir sempre pel mateix és la repetició d'un conflicte amb la mateixa forma i, normalment, un tema diferent del que sembla. No és una baralla sobre els plats, el sopar amb els sogres o el cap de setmana a casa dels pares; és un intercanvi fix entre dues vulnerabilitats que es topen sempre al mateix lloc. La importància d'aquest patró, a més, és enorme: per això marca el punt exacte on cada persona deixa de sentir-se vista.",
+      },
+      {
+        type: "paragraph",
+        text: "El psicòleg John Gottman va documentar que dues de cada tres parelles tornen una i altra vegada sobre els mateixos conflictes, sense resoldre'ls mai del tot. No és manca d'enginy; és la natura del vincle. Per tant, la pregunta útil no és com esborrar la baralla, sinó com deixar de repetir-la de la manera que fa mal.",
+      },
+      {
+        type: "heading",
+        text: "Els plats no són el tema",
+      },
+      {
+        type: "paragraph",
+        text: "Fa unes setmanes, una parella arribava a consulta amb onze anys de vaixella al darrere. Ell no eixugava mai; ella, en canvi, ho recordava amb un to que volia ser neutre i no ho era. Tot durava quatre minuts i moria amb un «ja ho faré jo» que els dos odiaven. Ara bé, quan vam alentir l'escena, va aparèixer una altra cosa: ell, de petit, havia après que quan la mare s'irritava, el millor era fer-se invisible. Ella, al seu torn, sempre havia estat la responsable de casa seva. Cada vaixell sense eixugar deia dues coses alhora: «no puc comptar amb tu» i «jo no puc fallar». En definitiva, els plats eren el territori on dues històries es trobaven cada nit. Res més.",
+      },
+      {
+        type: "paragraph",
+        text: "I tu, quin és el teu tema de vaixella? De fet, cada parella en té un: l'únic que no han pogut tancar.",
+      },
+      {
+        type: "heading",
+        text: "L'anatomia de la baralla: una seqüència, no un accident",
+      },
+      {
+        type: "paragraph",
+        text: "Tota baralla repetida té estructura, i això és una bona notícia: el que té estructura es pot intervenir. Primer, el detonant, que mai és l'important. Després ve la frase fixa, la que l'altre ja espera. A continuació, l'escalada s'empassa la relació sencera. I finalment la retirada: un s'emporta el silenci; l'altre es queda amb la ràbia.",
+      },
+      {
+        type: "paragraph",
+        text: "A la sessió, de fet, la feina és tècnica i sorprèn tothom: interrompre la seqüència just abans del punt sense tornada. «Què has sentit un segon abans de dir-li això?». Moltes parelles, però, ho ignoren: el moment decisiu no és el crit; és el mig segon anterior, on encara hi ha elecció. Saps reconèixer el teu senyal? Per exemple, els ulls que es retiren o el to que es planxa avisen d'una fugida que ja s'ha posat en marxa. Veure-ho en directe canvia el que després es pot dir.",
+      },
+      {
+        type: "heading",
+        text: "Per què repetir no és fracassar",
+      },
+      {
+        type: "paragraph",
+        text: "Normalment, el conte cultural diu que les bones parelles no discuteixen i que, si discuteixen sempre del mateix, el pronòstic és dolent. La meva experiència clínica diu una altra cosa: la baralla repetida sovint és l'únic lloc on la parella es mostra vulnerable, encara que ho faci amb armadura. Qui insisteix en l'ordre, per exemple, està demanant descans; qui es tanca, en canvi, es protegeix d'una exigència antiga. Al capdavall, la repetició diu que el tema encara importa als dos. La indiferència seria el diagnòstic dur.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, hi ha un límit que convé respectar: repetir no és estancar-se. Una cosa és tornar sobre el tema; una altra és fer-ho cada cop amb més menyspreu. Quan apareix el menyspreu, la baralla ja no busca resoldre res: busca ferir. Per tant, esperar que passi sol és una mala aposta, i la teràpia de parella deixa de ser opcional.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa la teràpia de parella amb la baralla repetida",
+      },
+      {
+        type: "paragraph",
+        text: "La feina no consisteix a aprendre frases noves per a una guerra vella; aquest terreny, de fet, ja el vam recórrer a l'article sobre discutir sense trencar. Consisteix a entendre què defensa cadascú mentre discuteix: quina part antiga agafa el microfon, quina història torna a sortir. El vincle millora quan un pot dir «quan fas això, jo em sento...» i l'altre escolta la frase sense convertir-la en contraatac.",
+      },
+      {
+        type: "paragraph",
+        text: "Així doncs, la sessió fa d'intermediari honest. A més, ningú ha de vigilar el to a casa seva: el context ho sosté la consulta. A poc a poc, la parella recupera autonomia per sostenir la conversa que els plats tapaven. La maduresa d'una relació es mesura en això: poder tornar al tema difícil sense que ningú perdi la cara.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre discutir sempre pel mateix",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal que discutim sempre del mateix?",
+            answer:
+              "Sí. De fet, la majoria de parelles sostingudes conserven dos o tres conflictes crònics que mai tanquen del tot. Però normal no vol dir indiferent: el que cal mirar és com es discuteix, no quantes vegades. Si hi ha respecte i després hi ha reparació, la repetició és feina en curs, no una sentència.",
+          },
+          {
+            question: "Si ens estiméssim de veritat, no discutiríem així, oi?",
+            answer:
+              "Aquesta pregunta l'han fet molts pacients a consulta, normalment l'endemà d'una baralla dura. L'estimació no treu les històries personals; les exposa. Discutir amb afecte és possible. També es pot discutir malament i estimar-se molt. En canvi, el que sí hauria de preocupar és una altra cosa: la distància freda sostinguda, aquella que ja no discuteix perquè ja no espera res.",
+          },
+          {
+            question: "Quan convé anar a teràpia de parella?",
+            answer:
+              "Quan la baralla es torna més àcida cada cop, quan un dels dos ja no repara o quan us reconeixeu en companys de pis que s'eviten. També abans d'arribar-hi, per exemple, quan encara us voleu però el cercle us desgasta. Al capdavall, la teràpia no és l'última estació; és la manera més ràpida de canviar de conversa.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La baralla que espera una altra frase",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta setmana us toreu a trobar al mateix punt. Segur. Després, quan passi, prova una sola cosa: en comptes de respondre a la frase de sempre, pregunta què li passa de veritat. No cal fer-ho perfecte. Un intent a mitges, sostingut amb respecte, ja obre una escletxa on la seqüència es trenca. I, finalment, amb la seqüència trencada, el tema dels plats pot donar pas a la conversa que feia anys que esperava.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem parelles i adults amb psicòlegs col·legiats, amb sessions a la ciutat o online. Així doncs, si la baralla repetida ocupa més lloc que la conversa, pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb la relació resolta; n'hi ha prou amb portar la frase que encara no us heu pogut dir.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/terapia-pareja-barcelona", label: "Teràpia de parella a Barcelona — Espai Emocions" },
+          { url: "/blog/discutir-sin-romper-conflicto-pareja", label: "«Discutir sense trencar», l'article" },
+          { url: "/blog/carga-mental-en-la-pareja", label: "«La càrrega mental a la parella», l'article" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay parejas que llevan diez años discutiendo siempre por lo mismo. Los platos. Los horarios. El móvil en la mesa. La pelea arranca igual y acaba con la misma frase; después, dos días de calma aparente. Y vuelta a empezar. Pero cuando el tema llega a consulta de terapia de pareja, muchos lo explican con una vergüenza extraña, como si confesaran un defecto de fábrica: si nos quisiéramos de verdad, esto no pasaría.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, desde la psicología, la lectura es un poco distinta. La pelea repetida no es el signo de una pareja estropeada; a menudo es la conversación más importante que tienen, mal firmada. En este artículo queremos verle la anatomía: qué hay debajo del tema de los platos y cómo se trabaja en consulta.",
+      },
+      {
+        type: "heading",
+        text: "Discutir siempre por lo mismo: qué significa",
+      },
+      {
+        type: "paragraph",
+        text: "Discutir siempre por lo mismo es la repetición de un conflicto con la misma forma y, normalmente, un tema distinto del que parece. No es una pelea sobre los platos, la cena con los suegros o el finde en casa de los padres; es un intercambio fijo entre dos vulnerabilidades que chocan siempre en el mismo punto. La importancia de este patrón, además, es enorme: por eso marca el lugar exacto donde cada persona deja de sentirse vista.",
+      },
+      {
+        type: "paragraph",
+        text: "El psicólogo John Gottman documentó que dos de cada tres parejas vuelven una y otra vez sobre los mismos conflictos, sin resolverlos nunca del todo. No es falta de ingenio; es la naturaleza del vínculo. Por tanto, la pregunta útil no es cómo borrar la pelea, sino cómo dejar de repetirla del modo que hace daño.",
+      },
+      {
+        type: "heading",
+        text: "Los platos no son el tema",
+      },
+      {
+        type: "paragraph",
+        text: "Hace unas semanas, una pareja llegaba a consulta con once años de vajilla a la espalda. Él nunca secaba; ella, en cambio, lo recordaba con un tono que quería ser neutro y no lo era. Todo duraba cuatro minutos y moría con un «ya lo hago yo» que los dos odiaban. Ahora bien, cuando ralentizamos la escena, apareció otra cosa: él, de niño, había aprendido que cuando su madre se irritaba, lo mejor era hacerse invisible. Ella, por su parte, siempre había sido la responsable de su casa. Cada plato sin secar decía dos cosas a la vez: «no puedo contar contigo» y «yo no puedo fallar». En definitiva, los platos eran el territorio donde dos historias se encontraban cada noche. Nada más.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y cuál es tu tema de vajilla? De hecho, toda pareja tiene uno: el único que no han conseguido cerrar.",
+      },
+      {
+        type: "heading",
+        text: "La anatomía de la pelea: una secuencia, no un accidente",
+      },
+      {
+        type: "paragraph",
+        text: "Toda pelea repetida tiene estructura, y esa es una buena noticia: lo que tiene estructura se puede intervenir. Primero, el detonante, que nunca es lo importante. Después viene la frase fija, la que el otro ya espera. A continuación, la escalada se traga la relación entera. Y finalmente la retirada: uno se lleva el silencio; el otro se queda con la rabia.",
+      },
+      {
+        type: "paragraph",
+        text: "En sesión, de hecho, el trabajo es técnico y sorprende a todos: interrumpir la secuencia justo antes del punto sin vuelta atrás. «¿Qué has sentido un segundo antes de decirle eso?». Muchas parejas, pero, lo desconocen: el momento decisivo no es el grito; es el medio segundo anterior, donde todavía hay elección. ¿Sabes reconocer tu señal? Por ejemplo, la mirada que se retira o el tono que se plancha avisan de una huida ya en marcha. Verlo en directo cambia lo que después se puede decir.",
+      },
+      {
+        type: "heading",
+        text: "Por qué repetir no es fracasar",
+      },
+      {
+        type: "paragraph",
+        text: "Normalmente, el cuento cultural dice que las buenas parejas no discuten y que, si discuten siempre por lo mismo, el pronóstico es malo. Mi experiencia clínica dice otra cosa: la pelea repetida a menudo es el único lugar donde la pareja se muestra vulnerable, aunque lo haga con armadura. Quien insiste en el orden, por ejemplo, está pidiendo descanso; quien se cierra, en cambio, se protege de una exigencia antigua. Al final, la repetición dice que el tema todavía importa a los dos. La indiferencia sería el diagnóstico duro.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, hay un límite que conviene respetar: repetir no es estancarse. Una cosa es volver sobre el tema; otra es hacerlo cada vez con más desprecio. Cuando aparece el desprecio, la pelea ya no busca resolver nada: busca herir. Por tanto, esperar que pase solo es una mala apuesta, y la terapia de pareja deja de ser opcional.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia de pareja la pelea repetida",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo no consiste en aprender frases nuevas para una guerra vieja; ese terreno, de hecho, ya lo recorrimos en el artículo sobre discutir sin romper. Consiste en entender qué defiende cada uno mientras discute: qué parte antigua toma el micrófono, qué historia vuelve a salir. El vínculo mejora cuando uno puede decir «cuando haces eso, yo me siento...» y el otro escucha la frase sin convertirla en contraataque.",
+      },
+      {
+        type: "paragraph",
+        text: "Así pues, la sesión hace de intermediario honesto. Además, nadie tiene que vigilar el tono en casa: el contexto lo sostiene la consulta. Poco a poco, la pareja recupera autonomía para sostener la conversación que los platos tapaban. La madurez de una relación se mide en esto: poder volver al tema difícil sin que nadie pierda la cara.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre discutir siempre por lo mismo",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal que discutamos siempre de lo mismo?",
+            answer:
+              "Sí. De hecho, la mayoría de parejas sostenidas conservan dos o tres conflictos crónicos que nunca cierran del todo. Pero normal no significa indiferencia: lo que hay que mirar es cómo se discute, no cuántas veces. Si hay respeto y después hay reparación, la repetición es trabajo en curso, no una sentencia.",
+          },
+          {
+            question: "¿Si nos quisiéramos de verdad, no discutiríamos así, no?",
+            answer:
+              "Esta pregunta la han hecho muchos pacientes en consulta, normalmente el día siguiente a una pelea dura. El cariño no quita las historias personales; las expone. Discutir con afecto es posible. También se puede discutir mal y quererse muchísimo. En cambio, lo que sí debería preocupar es otra cosa: la distancia fría sostenida, esa que ya no discute porque ya no espera nada.",
+          },
+          {
+            question: "¿Cuándo conviene ir a terapia de pareja?",
+            answer:
+              "Cuando la pelea se vuelve más ácida cada vez, cuando uno de los dos ya no repara o cuando os reconocéis en compañeros de piso que se evitan. También antes de llegar ahí, por ejemplo, cuando todavía os queréis pero el círculo os desgasta. Al final, la terapia no es la última estación; es la manera más rápida de cambiar de conversación.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La pelea que espera otra frase",
+      },
+      {
+        type: "paragraph",
+        text: "Esta semana volveréis a encontraros en el mismo punto. Seguro. Después, cuando pase, prueba una sola cosa: en lugar de responder a la frase de siempre, pregunta qué le pasa de verdad. No hace falta hacerlo perfecto. Un intento a medias, sostenido con respeto, ya abre una grieta donde la secuencia se rompe. Y, finalmente, con la secuencia rota, el tema de los platos puede dar paso a la conversación que llevaba años esperando.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a parejas y adultos con psicólogos colegiados, con sesiones en la ciudad u online. Así pues, si la pelea repetida ocupa más sitio que la conversación, puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con la relación resuelta; basta con traer la frase que todavía no os habéis podido decir.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/terapia-pareja-barcelona", label: "Terapia de pareja en Barcelona — Espai Emocions" },
+          { url: "/blog/discutir-sin-romper-conflicto-pareja", label: "«Discutir sin romper», el artículo" },
+          { url: "/blog/carga-mental-en-la-pareja", label: "«La carga mental en la pareja», el artículo" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
+
 ];

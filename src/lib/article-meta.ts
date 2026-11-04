@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "discutir-siempre-por-lo-mismo",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Discutir sempre pel mateix: la baralla que no era del tema",
+    "titleES": "Discutir siempre por lo mismo: la pelea que no era del tema",
+    "excerptCA": "Discutir sempre pel mateix és la conversa que la parella encara no ha sabut tenir. Anatomia de la baralla repetida i com trencar el cercle.",
+    "excerptES": "Discutir siempre por lo mismo es la conversación que la pareja aún no ha sabido tener. Anatomía de la pelea repetida y cómo romper el círculo.",
+    "datePublished": "2026-11-04"
+  },
+  {
     "slug": "la-copa-que-calma",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
