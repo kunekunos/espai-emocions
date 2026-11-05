@@ -802,4 +802,284 @@ export const articlesPart18: ArticleContent[] = [
     ],
   },
 
+  // --------------------------------------------------------------------------
+  // 4. rabia-contenida (Identitat, 2026-11-05)
+  // --------------------------------------------------------------------------
+  {
+    slug: "rabia-contenida",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "La ràbia continguda: el preu d'empassar-se l'enuig",
+    titleES: "La rabia contenida: el precio de tragar el enfado",
+    excerptCA:
+      "La ràbia continguda és l'enuig que t'empasses per evitar el conflicte i que torna com a tensió, ressentiment o esgotament. Com es treballa.",
+    excerptES:
+      "La rabia contenida es el enfado que te tragas para evitar el conflicto y que vuelve en forma de tensión, resentimiento o agotamiento. Cómo se trabaja.",
+    datePublished: "2026-11-05",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quan va ser l'última vegada que vas dir en veu alta allò que t'havia empipat? A consulta de psicologia ho veiem sovint: molts adults no ho recorden. Per exemple, s'empassen l'enuig a la reunió, a la sobretaula familiar, al menjador de casa. Després en diuen calma. Però la ràbia continguda no desapareix per educació: es queda a dins, cobra lloguer i, tard o d'hora, tria la porta equivocada per sortir.",
+      },
+      {
+        type: "paragraph",
+        text: "Per començar, volem mirar de prop aquest mecanisme: què és exactament la ràbia continguda, d'on surt el costum d'empassar-se l'enuig i com es treballa en psicoteràpia d'adults. Ara bé, t'avanço la resposta honesta: l'objectiu no és pas «soltar» la ràbia sobre qui passi per davant. És aprendre a dir les coses a temps i en veu baixa, sense perdre el vínculo.",
+      },
+      {
+        type: "heading",
+        text: "La ràbia continguda: què és exactament",
+      },
+      {
+        type: "paragraph",
+        text: "La ràbia continguda és l'enuig que se silencia en lloc d'expressar-se. Si bé la persona nota el senyal i el reconeixeria sense dubtar, decideix no dir-lo. S'empassa la discussió i, a més, manté la cara amable. Ara bé, el nom importa menys que la funció: l'enuig es guarda per no arriscar res important.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, hi ha un tret que explica la importància del patró: la seva normalitat. També a la nostra consulta de Barcelona el veiem en pacients competents i generosos. Ningú no diria que carreguen ràbia. I tu, ho diries de tu mateix? Al final, la cara amable tapa molt.",
+      },
+      {
+        type: "heading",
+        text: "El maleter que no tanca",
+      },
+      {
+        type: "paragraph",
+        text: "Pensa en el maleter d'un cotxe. Cada enuig empassat ocupa poc, com una maleta petita. N'hi caben moltes. Mentrestant, el cotxe segueix arrancant. Però el consum puja: mandíbula tensa de nit, clatell rígid, un cansament que no quadra amb el que has fet.",
+      },
+      {
+        type: "paragraph",
+        text: "Per exemple, un pacient ho resumia així, a la tercera sessió: «jo no m'enfado; el que passa és que cada dos mesos rebento per una tonteria i semblo el dolent de la pel·lícula». L'última tonteria: una multa de la grua a l'Eixample. Hi va discutir deu minuts més del que havia discutit amb la parella en tres mesos. El maleter, aquell dia, ja no tancava.",
+      },
+      {
+        type: "paragraph",
+        text: "L'escena del tràfic, però, enganya. De fet, a l'embús de la Diagonal s'enfada algú que, a casa seva, fa anys que no diu res. Qui rep, al final, tota aquesta ràbia acumulada? Normalment qui no la va provocar: la parella, el company de feina o un mateix, amb el coixí a les tantes.",
+      },
+      {
+        type: "heading",
+        text: "D'on surt el costum d'empassar-se l'enuig",
+      },
+      {
+        type: "paragraph",
+        text: "Ningú no aprèn a empassar-se l'enuig per gust. Al capdavall, el costum s'aprèn on s'aprèn gairebé tot: a la família d'origen. En algunes cases, per exemple, la ràbia era perillosa: algú hi rebentava i l'explosió omplia el pis. En altres, en canvi, estava prohibida: «aquí no es crida», i l'enuig passava per feblesa.",
+      },
+      {
+        type: "paragraph",
+        text: "Encara que sembli caràcter, el nen o la nena que viu qualsevol de les dues versions treu la mateixa conclusió: expressar l'enuig trenca alguna cosa. Tanmateix, d'adult, aquella conclusió segueix funcionant sense permís. Normalment hi ha una part que vigila el to i prefereix cedir. I una altra de més silenciosa, que fa anys que apunta cada compte pendent. Les dues són teves. O sigui, la feina no és triar-ne una; és que es coneguin.",
+      },
+      {
+        type: "heading",
+        text: "Empassar o rebentar: la trampa del tot o res",
+      },
+      {
+        type: "paragraph",
+        text: "La cultura popular ofereix dos consells oposats: controla't o solta-la. Però els dos fallen pel mateix motiu. És a dir, donen per fet que l'enuig és un dipòsit amb dues posicions: tancat o obert de cop. Per això neix la creença de la catarsi, allò que colpejar un coixí buida el dipòsit. L'evidència va en una altra direcció: descarregar la ira assaja la ira. Un queda més activat, no menys.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, el tot o res explica el rebentament periòdic de la ràbia continguda. Qui s'empassa l'enuig durant mesos, rebenta algun dia per una cosa petita. Després, l'explosió li confirma el que ja temia: «si dic el que sento, em faig mal». I torna a empassar. El cercle es tanca. «No és pel got», comença la frase clàssica. Després surt la llista sencera. Aquella llista no és falta de control: és tot allò que no va trobar el seu moment.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa la ràbia continguda a la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "A la consulta no assagem discussions cridades ni descàrregues. Tanmateix, la feina va en una altra direcció. Primer, el cos: llegir el senyal d'hora, la mandíbula apretada que arriba molt abans del rebentament. Després, una anàlisi honesta de la funció: què guanyes empassant-te'l i què pagues pel camí. Normalment es guanya pau immediata i fama de persona raonable. En canvi, es paga respecte propi i distància que creix. El preu és silenciós.",
+      },
+      {
+        type: "paragraph",
+        text: "Finalment, la pràctica en doses: dir l'enuig petit al seu moment, en veu baixa. «Quan vas arribar tard em va molestar», dit el mateix dia, val més que tres mesos de silenci abans d'una discussió de dijous. La maduresa no és no enfadar-se; és la coherència entre el que sents i el que dius. De fet, ja vam recórrer aquest terreny parlant de per què costa plorar i dir que no.",
+      },
+      {
+        type: "paragraph",
+        text: "I si en dir-ho l'altre s'empipa? Al principi, normalment sí. Però un vínculo adult no s'aguanta per l'absència de conflictes: s'aguanta per la reparació posterior. I això també s'entrena.",
+      },
+      {
+        type: "heading",
+        text: "Quan la irritabilitat apunta a una altra cosa",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, hi ha una distinció clínica. Si notes una irritabilitat constant de fons, amb el son desfet i les ganes per terra, la lectura de «ràbia continguda» es queda curta: cal descartar un estat depressiu o un desgast real, un terreny que ja vam tractar a l'article sobre la irritabilitat sostinguda.",
+      },
+      {
+        type: "paragraph",
+        text: "Però si l'enuig té destinatari clar i temes concrets, i alleuja quan el dius, el patró és més de contenció que de depressió. Al dubte, una avaluació professional ho aclareix en poques sessions. Per tant, saber què és canvia el tractament.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la ràbia continguda",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Sentir ràbia és dolent?",
+            answer: "No. La ràbia és una emoció bàsica amb funció d'alarma: avisa que han travessat un límit. El problema no és sentirla; és empassar-se-la sencera o soltar-la de cop. Al capdavall, sentirla i dir-la a temps és senyal de salut.",
+          },
+          {
+            question: "Empassar-se l'enuig afecta la salut?",
+            answer: "La investigació la relaciona amb tensió muscular i problemes de son o digestius. A més, la via no és màgica: és la del manteniment diari. El cos de qui no discuteix acaba tenint la discussió tot sol, a mitjanit.",
+          },
+          {
+            question: "Si aprenc a expressar l'enuig, em tornaré agressiu?",
+            answer: "De fet, és la pregunta que més hem sentit a consulta, i la resposta tranquil·litza: expressar l'enuig a temps baixa l'agressivitat, que és resultat de l'acumulació, no de l'expressió. En dosis petites, el rebentament deixa de fer falta.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La frase que esperava el seu moment",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta setmana, doncs, quan alguna cosa et molesti, digues la versió petita i a temps. Sense retret i sense llista; sense esperar el moment perfecte, que no existeix. Al capdavall, «avui m'ha dolgut» és una frase sencera. També el vínculo agraeix cada conversa que arriba a temps: qui t'estima pot gestionar el teu enuig en veu baixa; el que li costa sostenir és el teu silenci interpretat.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions (centre de psicologia de Barcelona) acompanyem adults i parelles amb psicòlegs col·legiats, amb sessions presencials o online. Si et reconeixes en aquest article, pots demanar una primera visita o escriure'ns per WhatsApp. No cal arribar amb la ràbia resolta. N'hi ha prou amb arribar amb la sensació que, aquest cop, voldries dir les coses a temps.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/blog/dificultad-para-llorar", label: "«La dificultat per plorar», l'article" },
+          { url: "/blog/es-normal-estar-irritable-todo-el-tiempo", label: "«És normal estar irritable tot el temps?», l'article" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Cuándo fue la última vez que dijiste en voz alta aquello que te había enfadado? En consulta de psicología lo vemos a menudo: muchos adultos no lo recuerdan. Por ejemplo, se tragan el enfado en la reunión, en la sobremesa familiar, en el salón de casa. Después lo llaman calma. Pero la rabia contenida no desaparece por educación: se queda dentro, cobra alquiler y, tarde o temprano, elige la puerta equivocada para salir.",
+      },
+      {
+        type: "paragraph",
+        text: "Para empezar, queremos mirar de cerca ese mecanismo: qué es exactamente la rabia contenida, de dónde sale la costumbre de tragarse el enfado y cómo se trabaja en psicoterapia de adultos. Ahora bien, te adelanto la respuesta honesta: el objetivo nunca es «soltar» la rabia sobre quien pase por delante. Es aprender a decir las cosas a tiempo y en voz baja, sin perder el vínculo.",
+      },
+      {
+        type: "heading",
+        text: "La rabia contenida: qué es exactamente",
+      },
+      {
+        type: "paragraph",
+        text: "La rabia contenida es el enfado que se silencia en lugar de expresarse. La persona nota la señal, la reconocería sin dudar. Sin embargo, decide no decirla. Se traga la discusión y, además, mantiene la cara amable. Ahora bien, el nombre importa menos que la función: el enfado se guarda para no arriesgar nada importante.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, hay un rasgo que explica la importancia del patrón: su normalidad. En nuestra consulta de Barcelona lo vemos en pacientes competentes y generosos. Nadie diría que cargan rabia. Y tú, ¿lo dirías de ti mismo? Al final, la cara amable tapa mucho.",
+      },
+      {
+        type: "heading",
+        text: "El maletero que no cierra",
+      },
+      {
+        type: "paragraph",
+        text: "Piensa en el maletero de un coche. Cada enfado tragado ocupa poco, como una maleta pequeña. Caben muchas. Mientras tanto, el coche sigue arrancando. Pero el consumo sube: mandíbula tensa de noche, nuca rígida, un cansancio que no cuadra con lo que has hecho.",
+      },
+      {
+        type: "paragraph",
+        text: "Por ejemplo, un paciente lo resumía así, en su tercera sesión: «yo no me enfado; lo que pasa es que cada dos meses exploto por una estupidez y parezco el malo de la película». La última estupidez: una multa de la grúa en el Eixample. Discutió con ella diez minutos más de lo que había discutido con su pareja en tres meses. El maletero, ese día, ya no cerraba.",
+      },
+      {
+        type: "paragraph",
+        text: "La escena del tráfico, pero, engaña. En el atasco de la Diagonal se enfada alguien que, en su casa, lleva años sin decir nada. ¿Quién recibe, al final, toda esa rabia acumulada? Normalmente quien no la provocó: la pareja, el compañero de trabajo o uno mismo, con la almohada a las tantas.",
+      },
+      {
+        type: "heading",
+        text: "De dónde sale la costumbre de tragarse el enfado",
+      },
+      {
+        type: "paragraph",
+        text: "Nadie aprende a tragarse el enfado por gusto. Al final, la costumbre se aprende donde se aprende casi todo: en la familia de origen. En algunas casas, por ejemplo, la rabia era peligrosa: alguien explotaba y la explosión llenaba el piso. En otras, en cambio, estaba prohibida: «aquí no se grita», y el enfado pasaba por debilidad.",
+      },
+      {
+        type: "paragraph",
+        text: "Aunque parezca carácter, el niño o la niña que vive cualquiera de las dos versiones saca la misma conclusión: expresar el enfado rompe algo. Sin embargo, de adulto, aquella conclusión sigue funcionando sin permiso. Normalmente hay una parte que vigila el tono y prefiere ceder. Y otra más silenciosa, que lleva años apuntando cada cuenta pendiente. Las dos son tuyas. O sea, el trabajo no es elegir una; es que se conozcan.",
+      },
+      {
+        type: "heading",
+        text: "Tragar o explotar: la trampa del todo o nada",
+      },
+      {
+        type: "paragraph",
+        text: "La cultura popular ofrece dos consejos opuestos: contrólate o suéltala. Pero los dos fallan por el mismo motivo. Dan por hecho que el enfado es un depósito con dos posiciones: cerrado o abierto de golpe. Por eso nace la creencia de la catarsis, esa idea de que golpear una almohada vacía el depósito. La evidencia va en otra dirección: descargar la ira ensaya la ira. Uno queda más activado, no menos.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, el todo o nada explica la explosión periódica de la rabia contenida. Quien se traga el enfado durante meses, explota algún día por algo pequeño. Después, la explosión le confirma lo que ya temía: «si digo lo que siento, me hago daño». Y vuelve a tragar. El círculo se cierra. «No es por el vaso», empieza la frase clásica. Después sale la lista completa. Esa lista no es falta de control: es todo lo que no encontró su momento.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja la rabia contenida en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "En la consulta no ensayamos discusiones gritadas ni descargas. Sin embargo, el trabajo va en otra dirección. Primero, el cuerpo: leer la señal temprana, esa mandíbula apretada que llega mucho antes del estallido. Después, un análisis honesto de la función: qué ganas tragándotelo y qué pagas por el camino. Normalmente se gana paz inmediata y fama de persona razonable. En cambio, se paga respeto propio y distancia que crece. El precio es silencioso.",
+      },
+      {
+        type: "paragraph",
+        text: "Finalmente, la práctica en dosis: decir el enfado pequeño en su momento, en voz baja. «Cuando llegaste tarde me molestó», dicho el mismo día, vale más que tres meses de silencio antes de una discusión de jueves. La madurez no es no enfadarse; es la coherencia entre lo que sientes y lo que dices. De hecho, ya recorrimos ese terreno al hablar de por qué cuesta llorar y decir que no.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y si al decirlo el otro se molesta? Al principio, normalmente sí. Pero un vínculo adulto no se sostiene por la ausencia de conflictos: se sostiene por la reparación posterior. Y eso también se entrena.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo la irritabilidad apunta a otra cosa",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, hay una distinción clínica. Si notas una irritabilidad constante de fondo, con el sueño deshecho y las ganas por el suelo, la lectura de «rabia contenida» se queda corta: conviene descartar un estado depresivo o un desgaste real, un terreno que ya tratamos en el artículo sobre la irritabilidad sostenida.",
+      },
+      {
+        type: "paragraph",
+        text: "Pero si el enfado tiene destinatario claro y temas concretos, y alivia cuando lo dices, el patrón es más de contención que de depresión. En la duda, una evaluación profesional lo aclara en pocas sesiones. Por tanto, saber qué es cambia el tratamiento.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la rabia contenida",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Sentir rabia es malo?",
+            answer: "No. La rabia es una emoción básica con función de alarma: avisa de que han cruzado un límite. El problema no es sentirla; es tragársela entera o soltarla de golpe. Al final, sentirla y decirla a tiempo es señal de salud.",
+          },
+          {
+            question: "¿Tragarse el enfado afecta a la salud?",
+            answer: "La investigación la relaciona con tensión muscular y problemas de sueño o digestivos. Además, la vía no es mágica: es la del mantenimiento diario. El cuerpo de quien no discute acaba teniendo la discusión solo, a medianoche.",
+          },
+          {
+            question: "Si aprendo a expresar mi enfado, ¿me volveré agresivo?",
+            answer: "De hecho, es la pregunta que más hemos escuchado en consulta, y la respuesta tranquiliza: expresar el enfado a tiempo baja la agresividad, que es resultado de la acumulación, no de la expresión. En dosis pequeñas, el estallido deja de hacer falta.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La frase que esperaba su momento",
+      },
+      {
+        type: "paragraph",
+        text: "Esta semana, pues, cuando algo te moleste, di la versión pequeña y a tiempo. Sin reproche y sin lista; sin esperar el momento perfecto, que no existe. Al final, «hoy me sentó mal» es una frase entera. También el vínculo agradece cada conversación que llega a tiempo: quien te quiere puede lidiar con tu enfado en voz baja; lo que le cuesta sostener es tu silencio interpretado.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions (centro de psicología de Barcelona) acompañamos a adultos y parejas con psicólogos colegiados, con sesiones presenciales u online. Si te reconoces en este artículo, puedes pedir una primera visita o escribirnos por WhatsApp. No hace falta llegar con la rabia resuelta. Basta con llegar con la sensación de que, esta vez, quieres decir las cosas a tiempo.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/blog/dificultad-para-llorar", label: "«La dificultad para llorar», el artículo" },
+          { url: "/blog/es-normal-estar-irritable-todo-el-tiempo", label: "«¿Es normal estar irritable todo el tiempo?», el artículo" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
+
 ];

@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "rabia-contenida",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "La ràbia continguda: el preu d'empassar-se l'enuig",
+    "titleES": "La rabia contenida: el precio de tragar el enfado",
+    "excerptCA": "La ràbia continguda és l'enuig que t'empasses per evitar el conflicte i que torna com a tensió, ressentiment o esgotament. Com es treballa.",
+    "excerptES": "La rabia contenida es el enfado que te tragas para evitar el conflicto y que vuelve en forma de tensión, resentimiento o agotamiento. Cómo se trabaja.",
+    "datePublished": "2026-11-05"
+  },
+  {
     "slug": "discutir-siempre-por-lo-mismo",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
