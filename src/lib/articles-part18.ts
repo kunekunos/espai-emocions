@@ -1082,4 +1082,273 @@ export const articlesPart18: ArticleContent[] = [
     ],
   },
 
+  // --------------------------------------------------------------------------
+  // 5. ansiedad-por-la-navidad (Família, 2026-11-06)
+  // --------------------------------------------------------------------------
+  {
+    slug: "ansiedad-por-la-navidad",
+    categoryCA: "Família",
+    categoryES: "Familia",
+    titleCA: "Ansietat pel Nadal: quan la taula et torna als quinze",
+    titleES: "Ansiedad en Navidad: la mesa que te devuelve a los quince",
+    excerptCA: "L'ansietat pel Nadal no la porta el turró: la porta tornar a un paper que ja no és teu. Què passa a la taula familiar i com es treballa a consulta.",
+    excerptES: "La ansiedad en Navidad no la trae el turrón: la trae volver a un papel que ya no es tuyo. Qué ocurre en la mesa familiar y cómo se trabaja en consulta.",
+    datePublished: "2026-11-06",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La setmana passada, una pacient em va ensenyar el mòbil a consulta: noranta-dos missatges del grup familiar decidint qui portava el cava. Encara faltava més d'un mes per al dinar. A més, ja portava dues nits dormint malament. «Encara no hi he anat», deia, «i ja estic esgotada». Aquesta és l'ansietat pel Nadal: un malestar que arriba molt abans que el turró i que quasi ningú explica d'on ve.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar aquest malestar de cara: què és exactament l'ansietat pel Nadal, per què una taula amb gent que estimes et pot fer tornar als quinze anys i com es treballa en psicoteràpia quan la tornada a casa pesa més del compte. De fet, l'objectiu no és sobreviure el dinar; és poder tornar sense deixar a la porta la persona que t'has fet de gran.",
+      },
+      {
+        type: "heading",
+        text: "L'ansietat pel Nadal: què és exactament",
+      },
+      {
+        type: "paragraph",
+        text: "L'ansietat pel Nadal és la tensió anticipatòria que apareix setmanes abans de les trobades familiars i que s'activa amb la simple data marcada al calendari. Es nota al cos abans que al pensament: son que no descansa, mandíbula apretada, un cansament que no quadraria amb una agenda tranquil·la. Per exemple, moltes persones el diumenge anterior ja porten el dinar assajat al cap, amb les seves frases i les seves rèpliques preparades.",
+      },
+      {
+        type: "paragraph",
+        text: "La psicologia ho explica bé: davant d'un escenari conegut, el cervell no simula la taula d'enguany; simula la de sempre. Per tant, el sistema nerviós arriba al dinar amb l'alarma encesa, com qui va a una reunió sense haver dormit. T'has fixat que el pitjor dia no és el dinar, sinó els dies anteriors? A més, aquest salt de qualitat és el que dóna nom a l'ansietat pel Nadal: no és por dels altres; és por d'una versió teva que et sembla que tornarà.",
+      },
+      {
+        type: "heading",
+        text: "La cadira que encara et coneix",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, hi ha un detall que ho explica tot: a can dels teus pares, ningú no t'ha de dir on seure. La cadira és la de sempre. Al cap d'una hora de dinar, ja no ets qui dirigeix un equip de dotze persones ni qui gestiona tres pisos de lloguer: tornes a ser «el petit», «la que posa pau» o «el dels acudits». Ningú no t'hi obliga; l'escena et col·loca.",
+      },
+      {
+        type: "paragraph",
+        text: "Els papers es passen la sal amb el menjar. La mare que encara serveix; el germà gran que encara explica; la tieta que encara pregunta pel nuvi. Tu ries per educació i, al cap de dues hores, notes una irritació que ja no saps de qui és. Et sona?",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta ho descrivim així: la casa com a màquina del temps. Funciona com aquella cançó de l'institut que et posa la pell de gallina. L'olor del rostit i el ritual dels regals també activen una versió antiga teva que encara viu allà, esperant la seva cadira. I tu, quin paper tenies, exactament, en aquesta casa?",
+      },
+      {
+        type: "heading",
+        text: "Qui va repartir els papers",
+      },
+      {
+        type: "paragraph",
+        text: "El paper familiar es reparteix de petit i, si ningú no el revisa, es renova cada any com l'assegurança de la casa. El vas acceptar amb deu anys, quan el sistema familiar el necessitava: algú que no donés problemes, algú que fes de pont, algú que fes riure. Llavors tenia una funció i et va protegir d'alguna cosa. Ara bé, el contracte no caduca sol.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, aquest terreny ja el vam recórrer a l'article sobre els papers familiars que segueixes habitant. El paper antic no es queda a casa: es porta a sobre. A Nadal s'activa perquè els altres també actuen el seu, i el conjunt agafa una inèrcia que ningú decideix en concret. La família és dels pocs llocs on ets alhora un adult amb hipoteca i un nen que calla quan algú aixeca la veu. I això cansa perquè les dues versions no es coneixen.",
+      },
+      {
+        type: "paragraph",
+        text: "El consell de moda, però, és tallar: «si et fa mal, no hi vagis». Hi ha casos, sí, on la distància és necessària i saludable. Però com a resposta automàtica té un problema greu: no allibera el paper; només el trasllada a una altra adreça. La persona queda sent «el que va marxar de la taula», amb el mateix guió i menys dates. Al capdavall, la maduresa seria una altra cosa: poder ser-hi i no perdre la coherència. Que és més lent, sí. I més interessant.",
+      },
+      {
+        type: "heading",
+        text: "Com preparar la tornada sense perdre't",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta no assagem somriures; assagem escenes concretes, perquè l'ansietat pel Nadal es trenca amb detalls, no amb propòsits. Per començar, la primera decisió és l'hora de tornada. Saber quan te'n vas treu poder al dinar, perquè qui no pot marxar és convidat i els convidats somriuen molt. Pacta-la amb la teva parella o amb tu mateix abans de sortir de casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Segona: la pregunta incòmoda. El cunyat et preguntarà per fills, per política o per la feina que vas deixar. Quina escena és, exactament, la que tu assajes al llum de nit? Doncs aquesta. Decideix ara una resposta breu i digues-la sense càrrega, com qui comenta el temps que fa. De fet, a la sala ho hem provat amb molts pacients: la frase assajada canvia el to de tota la sobretaula, perquè l'altre busca reacció i troba conversa.",
+      },
+      {
+        type: "paragraph",
+        text: "Tercera: una àncora adulta. Una tasca concreta durant el dinar o una conversa de debò amb el nebot petit. On les teves mans estan ocupades amb una decisió pròpia, el paper vell costa d'activar. Al final, revisa què ha passat sense judici: no qui es va portar malament, sinó on et vas perdre. Justament allà hi ha la feina de gener.",
+      },
+      {
+        type: "heading",
+        text: "Quan el Nadal pesa per una altra raó",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha Nadals que no són qüestió de papers. Si és el primer sense la mare o sense qui seia al teu costat, la tensió no és ansietat; és dol, i mereix el seu temps. Aquest terreny el vam recórrer a l'article sobre el dol en dates assenyalades. Ara bé, si a més arribes a un desembre amb una soledat que ningú publica, el malestar també demana paraules pròpies: el Nadal dels anuncis i el teu no s'assemblen, i no cal que s'assemblin.",
+      },
+      {
+        type: "paragraph",
+        text: "En canvi, si fa setmanes que notes el fons baix, el son desfet i les ganes per terra, la casa plena empitjorarà un estat que ja hi era abans del calendari. En aquest cas, la consulta no va de Nadal; va del que hi ha a sota. Per tant, convé una avaluació professional abans d'atribuir-ho tot al dinar.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre l'ansietat pel Nadal",
+      },
+      {
+        type: "heading",
+        text: "La teva frase, aquest any",
+      },
+      {
+        type: "paragraph",
+        text: "Enguany, doncs, prova una sola cosa: tria l'escena que més tems i prepara-li una frase sencera. Curta, teva, sense ira. «Encara em fa il·lusió el que faig ara», «avui no en vull parlar», o la que sigui. La resta del dinar no depèn de tu: els altres faran el seu paper perquè porten anys d'assaig general. Tu només has de sostenir el teu, i aquest cop amb la versió adulta.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, presencialment o online. Per tant, si l'ansietat pel Nadal et pesa més del que vols explicar per WhatsApp, pots demanar una primera visita. No cal arribar amb el dinar resolt; n'hi ha prou amb arribar amb una pregunta honesta.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal sentir ansietat pel Nadal?",
+            answer: "Sí, i al novembre és un dels motius més freqüents de primera visita. De fet, anticipar una trobada exigent és una resposta sana del sistema nerviós. Convé consultar quan la tensió avança setmanes, trenca el son o es converteix en irritabilitat a casa.",
+          },
+          {
+            question: "Com poso límits sense enfrontar-me a tota la taula?",
+            answer: "Amb límits concrets, no amb declaracions de principis. «Aquest any venim al dinar i marxem abans de les sis» estalvia mals moments que qualsevol discurs sobre el teu espai. A més, dit a temps i en privat, un límit petit sosté millor que un gran dit davant de tothom.",
+          },
+          {
+            question: "I si venim de dues famílies, com ho decideix una parella?",
+            answer: "La decisió és de parella, no de delegació. Decidiu entre vosaltres on aneu, quant de temps i com us en sortiu; després, cadascú parla amb la seva família. Aquesta coherència entre dos protegeix més que qualsevol estratègia de fugida.",
+          },
+          {
+            question: "Serveix començar teràpia ara, al novembre?",
+            answer: "Sí. Un procés curt i focalitzat pot donar molt abans del dinar, i molta gent el comença just per això. Ara bé, quan el paper familiar pesa fa anys, val la pena una feina més ampla de coherència que no depèn del calendari.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/roles-familiares-que-sigues-habitando", label: "«Els rols familiars que segueixes habitant», l'article" },
+          { url: "/blog/volver-casa-padres-edad-adulta", label: "«Tornar a casa dels pares», l'article" },
+          { url: "/blog/duelo-fechas-senhaladas", label: "«El dol en dates assenyalades», l'article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La semana pasada, una paciente me enseñó el móvil en consulta: noventa y dos mensajes del grupo familiar decidiendo quién traía el cava. Faltaba más de un mes para la comida. Además, ya llevaba dos noches durmiendo mal. «Todavía no he ido», decía, «y ya estoy agotada». Esa es la ansiedad en Navidad: un malestar que llega mucho antes que el turrón y que casi nadie explica de dónde viene.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar ese malestar de frente: qué es exactamente la ansiedad en Navidad, por qué una mesa con gente a la que quieres puede devolverte a los quince años y cómo se trabaja en psicoterapia cuando volver a casa pesa más de la cuenta. De hecho, el objetivo no es sobrevivir la comida; es poder volver sin dejar en la puerta a la persona que te has hecho.",
+      },
+      {
+        type: "heading",
+        text: "La ansiedad en Navidad: qué es exactamente",
+      },
+      {
+        type: "paragraph",
+        text: "La ansiedad en Navidad es la tensión anticipatoria que aparece semanas antes de los encuentros familiares. Además, basta la fecha marcada en el calendario para activarla. Se nota en el cuerpo antes que en el pensamiento: sueño que no descansa, mandíbula apretada, un cansancio que no cuadraría con una agenda tranquila. Por ejemplo, muchas personas el domingo anterior ya llevan la comida ensayada en la cabeza, con sus frases y sus réplicas preparadas.",
+      },
+      {
+        type: "paragraph",
+        text: "La psicología lo explica bien: ante un escenario conocido, el cerebro no simula la mesa de este año; simula la de siempre. Por tanto, el sistema nervioso llega a la comida con la alarma encendida, como quien va a una reunión sin haber dormido. ¿Te has fijado en que el peor día no es la comida, sino los días anteriores? Además, ese salto de calidad es lo que da nombre a la ansiedad en Navidad: no es miedo a los otros; es miedo a una versión tuya que parece que va a volver.",
+      },
+      {
+        type: "heading",
+        text: "La silla que todavía te conoce",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, hay un detalle que lo explica todo: en casa de tus padres, nadie tiene que decirte dónde sentarte. La silla es la de siempre. Al cabo de una hora de comida, ya no eres quien dirige un equipo de doce personas ni quien gestiona tres pisos de alquiler: vuelves a ser «el pequeño», «la que pone paz» o «el de los chistes». Nadie te obliga; la escena te coloca.",
+      },
+      {
+        type: "paragraph",
+        text: "Los papeles se pasan la sal con la comida. La madre que todavía sirve; el hermano mayor que todavía explica; la tía que todavía pregunta por la novia. Tú ríes por educación. Después, al cabo de dos horas, notas una irritación que ya no sabes de quién es. ¿Te suena?",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta lo describimos así: la casa como máquina del tiempo. Funciona como esa canción del instituto que te pone la piel de gallina. El olor del asado y el ritual de los regalos también activan una versión antigua tuya que todavía vive allí, esperando su silla. Y tú, ¿qué papel tenías, exactamente, en esa casa?",
+      },
+      {
+        type: "heading",
+        text: "Quién repartió los papeles",
+      },
+      {
+        type: "paragraph",
+        text: "El papel familiar se reparte de pequeño y, si nadie lo revisa, se renueva cada año como el seguro de la casa. Lo aceptaste con diez años, cuando el sistema familiar lo necesitaba: alguien que no diera problemas, alguien que hiciera de puente, alguien que hiciera reír. Entonces tenía una función y te protegió de algo. Ahora bien, el contrato no caduca solo.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, este terreno ya lo recorrimos en el artículo sobre los papeles familiares que sigues habitando. El papel antiguo no se queda en casa: se lleva encima. En Navidad se activa porque los demás también actúan el suyo, y el conjunto coge una inercia que nadie decide en concreto. La familia es de los pocos lugares donde eres a la vez un adulto con hipoteca y un niño que calla cuando alguien levanta la voz. Y eso cansa, porque las dos versiones no se conocen.",
+      },
+      {
+        type: "paragraph",
+        text: "El consejo de moda, sin embargo, es cortar: «si te hace daño, no vayas». Hay casos, sí, donde la distancia es necesaria y saludable. Pero como respuesta automática tiene un problema serio: no libera el papel; solo lo traslada a otra dirección. La persona queda siendo «el que se marchó de la mesa», con el mismo guion y menos fechas. Al final, la madurez sería otra cosa: poder estar allí y no perder la coherencia. Que es más lento, sí. Y más interesante.",
+      },
+      {
+        type: "heading",
+        text: "Cómo preparar la vuelta sin perderte",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta no ensayamos sonrisas; ensayamos escenas concretas, porque la ansiedad en Navidad se rompe con detalles, no con propósitos. Para empezar, la primera decisión es la hora de vuelta. Saber cuándo te vas devuelve poder en la comida. Quien no puede marcharse es invitado; además, los invitados sonríen mucho. Pactarla con tu pareja o contigo mismo antes de salir de casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Segunda: la pregunta incómoda. El cuñado te preguntará por hijos, por política o por el trabajo que dejaste. ¿Cuál es, exactamente, la escena que tú ensayas a la luz de noche? Pues esa. Decide ahora una respuesta breve y dila sin carga, como quien comenta el tiempo que hace. De hecho, en la sala lo hemos probado con muchos pacientes: la frase ensayada cambia el tono de toda la sobremesa, porque el otro busca reacción y encuentra conversación.",
+      },
+      {
+        type: "paragraph",
+        text: "Tercera: un ancla adulta. Una tarea concreta durante la comida o una conversación de verdad con el sobrino pequeño. Donde tus manos están ocupadas con una decisión propia, el papel viejo cuesta de activar. Al final, revisa qué ha pasado sin juicio: no quién se portó mal, sino dónde te perdiste. Justo allí está el trabajo de enero.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la Navidad pesa por otra razón",
+      },
+      {
+        type: "paragraph",
+        text: "Hay Navidades que no son cuestión de papeles. Si es la primera sin tu madre o sin quien se sentaba a tu lado, la tensión no es ansiedad; es duelo, y merece su tiempo. Ese terreno lo recorrimos en el artículo sobre el duelo en fechas señaladas. Ahora bien, si además llegas a un diciembre con una soledad que nadie publica, el malestar también pide palabras propias: la Navidad de los anuncios y la tuya no se parecen, y no hace falta que se parezcan.",
+      },
+      {
+        type: "paragraph",
+        text: "En cambio, si llevas semanas notando el ánimo bajo, el sueño deshecho y las ganas por el suelo, la casa llena empeorará un estado que ya estaba antes del calendario. En este caso, la consulta no va de Navidad; va de lo que hay debajo. Por tanto, conviene una evaluación profesional antes de atribuírselo todo a la comida.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la ansiedad en Navidad",
+      },
+      {
+        type: "heading",
+        text: "Tu frase, este año",
+      },
+      {
+        type: "paragraph",
+        text: "Este año, pues, prueba una sola cosa: elige la escena que más temes y prepárale una frase entera. Corta, tuya, sin rabia. «Todavía me ilusiona lo que hago ahora», «hoy no quiero hablar de eso», o la que sea. El resto de la comida no depende de ti: los demás harán su papel porque llevan años de ensayo general. Tú solo tienes que sostener el tuyo, esta vez con la versión adulta.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, presencialmente u online. Por eso, si la ansiedad en Navidad te pesa más de lo que quieres contar por WhatsApp, puedes pedir una primera visita. No hace falta llegar con la comida resuelta; basta con llegar con una pregunta honesta.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal sentir ansiedad en Navidad?",
+            answer: "Sí, y en noviembre es uno de los motivos más frecuentes de primera visita. De hecho, anticipar un encuentro exigente es una respuesta sana del sistema nervioso. Conviene consultar cuando la tensión avanza semanas, rompe el sueño o se convierte en irritabilidad en casa.",
+          },
+          {
+            question: "¿Cómo pongo límites sin enfrentarme a toda la mesa?",
+            answer: "Con límites concretos, no con declaraciones de principios. «Este año venimos a la comida y nos vamos antes de las seis» ahorra más malos ratos que cualquier discurso sobre tu espacio. Además, dicho a tiempo y en privado, un límite pequeño sostiene mejor que uno grande dicho delante de todos.",
+          },
+          {
+            question: "Si venimos de dos familias, ¿cómo lo decide una pareja?",
+            answer: "La decisión es de pareja, no de delegación. Decidid entre los dos adónde vais, cuánto tiempo y cómo os salís; después, cada uno habla con su familia. Esa coherencia entre dos protege más que cualquier estrategia de huida.",
+          },
+          {
+            question: "¿Sirve empezar terapia ahora, en noviembre?",
+            answer: "Sí. Un proceso corto y focalizado puede dar mucho antes de la comida, y mucha gente lo empieza justo por eso. Ahora bien, cuando el papel familiar pesa desde hace años, vale la pena un trabajo más amplio de coherencia que no depende del calendario.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/roles-familiares-que-sigues-habitando", label: "«Los roles familiares que sigues habitando», el artículo" },
+          { url: "/blog/volver-casa-padres-edad-adulta", label: "«Volver a casa de los padres», el artículo" },
+          { url: "/blog/duelo-fechas-senhaladas", label: "«El duelo en fechas señaladas», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

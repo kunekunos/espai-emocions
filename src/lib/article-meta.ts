@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "ansiedad-por-la-navidad",
+    "categoryCA": "Família",
+    "categoryES": "Familia",
+    "titleCA": "Ansietat pel Nadal: quan la taula et torna als quinze",
+    "titleES": "Ansiedad en Navidad: la mesa que te devuelve a los quince",
+    "excerptCA": "L'ansietat pel Nadal no la porta el turró: la porta tornar a un paper que ja no és teu. Què passa a la taula familiar i com es treballa a consulta.",
+    "excerptES": "La ansiedad en Navidad no la trae el turrón: la trae volver a un papel que ya no es tuyo. Qué ocurre en la mesa familiar y cómo se trabaja en consulta.",
+    "datePublished": "2026-11-06"
+  },
+
+  {
     "slug": "rabia-contenida",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
