@@ -1351,4 +1351,242 @@ export const articlesPart18: ArticleContent[] = [
       },
     ],
   },
+
+  // --------------------------------------------------------------------------
+  // 6. duelo-ruptura-de-pareja (Parella, 2026-11-07)
+  // --------------------------------------------------------------------------
+  {
+    slug: "duelo-ruptura-de-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "El dol d'una ruptura de parella: quan la casa es buida",
+    titleES: "El duelo de una ruptura de pareja: cuando la casa se vacía",
+    excerptCA:
+      "El dol d'una ruptura de parella reorganitza una vida sencera: la casa, l'agenda, la identitat. Quines fases té, quant dura i com es treballa a consulta.",
+    excerptES:
+      "El duelo de una ruptura de pareja reorganiza una vida entera: la casa, la agenda, la identidad. Qué fases tiene, cuánto dura y cómo se trabaja en terapia.",
+    datePublished: "2026-11-07",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Una ruptura als quaranta gairebé no s'assembla a una dels vint-i-cinc. Iguals durant deu minuts: la frase, el silenci, la porta. Després comença allò que ningú no publica. El dol d'una ruptura de parella a mitja vida, a més, s'emporta molt més que la persona que marxa: s'emporta la casa, l'agenda compartida i la versió de tu que només existia dins d'aquest «nosaltres». A consulta de psicologia ho veiem cada setmana. De fet, sempre sorprèn el mateix: adults capaços de dirigir equips i sostenir crisis alienes, sense saber per on començar a mudar-se de la seva pròpia vida. Et sona?",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar aquest dol de prop: què és exactament, per què desarma tant qui tenia la vida resolta i com s'acompanya en psicoteràpia. T'avanço, a més, la conclusió honesta. Una ruptura a mitja vida no se supera amb la persona següent ni amb esport: s'elabora. I aquest procés, ben acompanyat, sol deixar una cosa que ningú no espera, que és una relació més honesta amb tu mateix.",
+      },
+      {
+        type: "heading",
+        text: "El dol d'una ruptura de parella: què és exactament",
+      },
+      {
+        type: "paragraph",
+        text: "El dol d'una ruptura de parella és el procés de reorganització psicològica que segueix al final d'un vincle amorós. La persona segueix anant a treballar i contesta missatges; per dins, tanmateix, edita la pel·lícula sencera. On viurà. Amb qui passarà els Nadals. Qui serà el seu testimoni a partir d'ara. La paraula «dol» no és cap casualitat: es plora algú que seguirà viu, potser a dos carrers de distància. De fet, aquesta raresa el fa molt difícil d'explicar fora de casa.",
+      },
+      {
+        type: "paragraph",
+        text: "La psicologia, a més, ho descriu bé. Quan el vincle era llarg, es perd també la rutina que sostenia el dia, els amics que venien amb el pack i la família política que gairebé era la teva. A mitja vida, a més, el dol pregunta coses incòmodes: amb qui has passat més anys, quins plans quedaven per endavant, quina part de la teva identitat estava firmada pels dos. Per això una ruptura fa el mateix mal que una mudança forçosa: perds la persona i perds el mapa.",
+      },
+      {
+        type: "heading",
+        text: "La casa es buida per parts",
+      },
+      {
+        type: "paragraph",
+        text: "Fa poc, una pacient de quaranta-set anys ho va ensenyar sense voler. Divuit anys de relació, un pis de Sant Antoni firmat a mitges, una filla gairebé adulta. El que li costava dormir, explicava a consulta, no eren les baralles: era obrir l'armari al matí i veure el costat d'ell buit, amb les penjadores alineades en silenci. La casa es buida per parts. Primer les penjadores. Després la meitat del calendari de la nevera, els plans d'agost, la sèrie que havia quedat a mitges. Finalment, la versió de tu que només tenia sentit amb aquella persona mirant-la.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest buidatge per parts explica per què el dol adult desarma tant. La persona, moltes vegades, es pensa que s'està tornant boja: plora un dijous per una sabatilla oblidada sota el llit i el divendres dirigeix una reunió sense despentinar-se. Però el dol de ruptura funciona en onades, no en línia recta. La pregunta que gairebé tothom fa a la tercera sessió, amb vergonya, és idèntica: és normal que encara em faci mal? Sí. Ho és. Al capdavall, ningú no té la data exacta de sortida.",
+      },
+      {
+        type: "heading",
+        text: "Quant dura el dol d'una ruptura de parella",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí toca dir una cosa impopular. Les famoses fases del dol, aquell cartell de negació, ràbia, negociació i acceptació, no formen cap calendari: són una descripció feta mirant enrere. A la vida real, tanmateix, hi ha setmanes bones seguides d'un dimarts desastrós perquè ha sonat una cançó. De fet, la majoria de processos de ruptura que veiem a consulta caminen entre sis mesos i dos anys; la llargada del vincle i els suports de cada persona marquen la diferència. L'objectiu realista no és deixar de pensar-hi; és que el record deixi de decidir el teu dia.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, hi ha un límit honest. Si després de molts mesos el malestar no cedeix gens i la vida segueix en pausa, la lectura ja no és un dol normal: cal descartar un estat depressiu, un terreny que ja vam tractar a l'article sobre els estats depressius de l'adult. Convé consultar també davant de tres avisos: el son o la gana desfits durant setmanes, la sensació que la teva vida ja no encaixa enlloc, o el dol congelat en una ràbia que no s'apaga. En aquests casos, la psicoteràpia no accelera l'oblit; evita que el procés es quedi encallat.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa el dol a consulta",
+      },
+      {
+        type: "paragraph",
+        text: "La feina a la sessió és, de fet, més concreta del que la gent imagina. Primer, posar nom a la pèrdua real: no «l'estimo», sinó quines funcions feia aquella persona a la teva vida. Qui ordenava els plans. Qui coneixia la teva història sencera. Qui t'arreglava la postura a les fotos. En dir-ho, a més, apareix informació útil: què necessitaràs aprendre a fer sol i quina part del repartiment teu et convé recuperar. Al capdavall, la feina no és oblidar la persona; és quedar-te amb el après i tornar la resta.",
+      },
+      {
+        type: "heading",
+        text: "La logística del dol: pis, amics, futur",
+      },
+      {
+        type: "paragraph",
+        text: "Després arriba el terreny que ningú no preveu, les decisions del món real. El pis amb les dues firmes. Els amics que eren dels dos. La mare de la teva exparella, que et va veure créixer. Una ruptura a mitja vida reordena l'agenda i també la geografia sentimental dels teus caps de setmana. En paral·lel es treballa el futur cancel·lat: la casa que compràveu, el viatge pendent, la vellesa que es prometia. A això també se li fa dol, i ja ho vam explicar a l'article sobre el dol per la vida que no va arribar a ser.",
+      },
+      {
+        type: "paragraph",
+        text: "I què fas amb la part de tu que encara vol tornar? Aquí, per exemple, la psicologia de l'apego ajuda molt: entendre si confons la necessitat amb l'estimació canvia la conversa sencera, un terreny que ja vam recórrer parlant dels vincles que repeteixes. Perquè a vegades, de fet, el que fa mal no és la persona; és l'hàbit del braç que ja no hi és. Distingir-ho és mitja feina.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre el dol d'una ruptura",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quant dura el dol d'una ruptura de parella?",
+            answer:
+              "Entre sis mesos i dos anys en la majoria de processos que veiem quan el vincle era llarg i significatiu. Més que la data, al capdavall importa la direcció: hi ha bon pronòstic quan, a poc a poc, van apareixent moments propis de debò. Per això, si després de molts mesos la vida segueix aturada, cal consultar un professional, sense culpa: demanar ajuda a temps no vol dir haver-ho fet malament.",
+          },
+          {
+            question: "Convé estar un temps sense parella?",
+            answer:
+              "Normalment sí, un temps de dol sense una relació nova que el tapi, sobretot si el vincle era llarg. Ara bé, compte amb convertir la solitud en una penitència amb terminis. La idea no és complir un any per norma; és no fer servir una altra persona com a analgèsic. A més, el teu cos i la teva agenda solen avisar abans que qualsevol norma.",
+          },
+          {
+            question: "Pot haver-hi contacte amb l'exparella?",
+            answer:
+              "De fet, en relacions llargues el contacte zero resulta a vegades impossible: hi ha fills, pisos, negocis en comú. La pregunta útil és una altra: el contacte et deixa avançar o et manté a la porta? Un parèntesi de silenci, per exemple uns mesos per deshabitar l'hàbit, sol funcionar millor que les regles absolutes. El terreny delicat de l'amistat amb una exparella ja el vam recórrer al seu article.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El que queda després",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta setmana, per exemple, si ets dins d'aquest dol, prova una sola cosa: escriu la llista del que has perdut de veritat, sense adorns, fins al final. Fa mal escriure-la. A més, ordena: és l'única manera de separar el que se n'ha anat del que es queda. Ningú no fa el dol d'una vida sencera en un sol hivern. Però es comença exactament així: amb un paper que diu la veritat.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, de manera presencial o en línia. Així doncs, si el dol de la teva ruptura pesa més del que aguantes tot sol, pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb el dol ordenat; n'hi ha prou amb arribar amb la pregunta que et té despert.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/cuando-no-sabes-si-separarte", label: "«Quan no saps si separar-te», l'article" },
+          { url: "/blog/duelo-vida-que-no-fue", label: "«El dol per la vida que no va arribar a ser», l'article" },
+          { url: "/blog/estilos-apego-adultos-por-que-repites-los-mismos-vinculos", label: "«Els estils d'apego que repeteixes», l'article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Una ruptura a los cuarenta apenas se parece a otra de los veinticinco. Iguales durante diez minutos: la frase, el silencio, la puerta. Después empieza lo que nadie publica. El duelo de una ruptura de pareja a mitad de vida, además, se lleva mucho más que a la persona que se va: se lleva la casa, la agenda compartida y la versión de ti que solo existía dentro de ese «nosotros». En consulta de psicología lo vemos cada semana. De hecho, siempre sorprende lo mismo: adultos capaces de dirigir equipos y sostener crisis ajenas, sin saber por dónde empezar a mudarse de su propia vida. ¿Te suena de algo?",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar ese duelo de cerca: qué es exactamente, por qué desarma tanto a quien tenía la vida resuelta y cómo se acompaña en psicoterapia. Te adelanto, además, la conclusión honesta. Una ruptura a mitad de vida no se «supera» con la siguiente persona ni con deporte: se elabora. Y ese proceso, bien acompañado, suele dejar algo que nadie espera, que es una relación más honesta contigo mismo.",
+      },
+      {
+        type: "heading",
+        text: "El duelo de una ruptura de pareja: qué es exactamente",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo de una ruptura de pareja es el proceso de reorganización psicológica que sigue al final de un vínculo amoroso. La persona sigue yendo a trabajar y contesta mensajes; por dentro, sin embargo, edita la película entera. Dónde vivirá. Con quién pasará las Navidades. Quién será su testigo a partir de ahora. La palabra «duelo» no es casualidad: se llora a alguien que seguirá vivo, quizá a dos manzanas de distancia. De hecho, esa rareza lo hace muy difícil de explicar fuera de casa.",
+      },
+      {
+        type: "paragraph",
+        text: "La psicología lo describe bien. Cuando el vínculo era largo, se pierde también la rutina que sostenía el día, los amigos que venían con el pack y la familia política que casi era la tuya. A mitad de vida, además, el duelo pregunta cosas incómodas: con quién has pasado más años, qué planes quedaban por delante, qué parte de tu identidad estaba firmada por los dos. Por eso una ruptura duele como una mudanza forzosa: pierdes a la persona y pierdes el mapa.",
+      },
+      {
+        type: "heading",
+        text: "La casa se vacía por partes",
+      },
+      {
+        type: "paragraph",
+        text: "Hace poco, una paciente de 47 años lo enseñó sin querer. Dieciocho años de relación, un piso de Sant Antoni firmado a medias, una hija casi adulta. Lo que le costaba dormir, contó en consulta, no eran las peleas: era abrir el armario por la mañana y ver el lado de él vacío, con las perchas alineadas en silencio. La casa se vacía por partes. Primero las perchas. Después la mitad del calendario de la nevera, los planes de agosto, la serie que quedaba a medias. Al final, la versión de ti que solo tenía sentido con esa persona mirándola.",
+      },
+      {
+        type: "paragraph",
+        text: "Ese vaciado por partes explica por qué el duelo adulto desarma tanto. La persona, muchas veces, se cree que se está volviendo loca: llora un jueves por una zapatilla olvidada bajo la cama y el viernes dirige una reunión sin despeinarse. Pero el duelo de ruptura funciona en oleadas, no en línea recta. La pregunta que casi todos hacen en la tercera sesión, con vergüenza, es idéntica: ¿es normal que aún me duela? Sí. Lo es. Nadie tiene la fecha exacta de salida.",
+      },
+      {
+        type: "heading",
+        text: "Cuánto dura el duelo de una ruptura de pareja",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí toca decir algo impopular. Las famosas fases del duelo, ese cartel de negación, rabia, negociación y aceptación, no forman un calendario: son una descripción hecha mirando hacia atrás. En la vida real, sin embargo, hay semanas buenas seguidas de un martes desastroso porque ha sonado una canción. De hecho, la mayoría de procesos de ruptura que vemos en consulta caminan entre seis meses y dos años; la longitud del vínculo y los apoyos de cada persona marcan la diferencia. El objetivo realista no es dejar de pensar en ella; es que el recuerdo deje de decidir tu día.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, hay un límite honesto. Si después de muchos meses el malestar no cede nada y la vida sigue en pausa, la lectura ya no es duelo normal: conviene descartar un estado depresivo, un terreno que ya tratamos al hablar de los estados depresivos del adulto. Conviene consultar también ante tres avisos: el sueño o el apetito deshechos durante semanas, la sensación de que tu vida ya no encaja en ninguna parte, o el duelo congelado en una rabia que no se apaga. En estos casos, la psicoterapia no acelera el olvido; evita que el proceso se quede atascado.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja el duelo en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo en sesión es, de hecho, más concreto de lo que la gente imagina. Primero, nombrar la pérdida real: no «lo quiero», sino qué funciones hacía esa persona en tu vida. Quien ordenaba los planes. Quien conocía tu historia entera. Quien te arreglaba la postura en las fotos. Al nombrarlo, además, aparece información útil: qué necesitarás aprender a hacer solo y qué parte del reparto tuyo te conviene recuperar. Al final, la tarea no es olvidar a la persona; es quedarte con lo aprendido y devolver el resto.",
+      },
+      {
+        type: "heading",
+        text: "La logística del duelo: piso, amigos, futuro",
+      },
+      {
+        type: "paragraph",
+        text: "Después llega el terreno que nadie prevé, las decisiones del mundo real. El piso con las dos firmas. Los amigos que eran de los dos. La madre de tu expareja, que te vio crecer. Una ruptura a mitad de vida reordena la agenda y también la geografía sentimental de tus fines de semana. En paralelo se trabaja el futuro cancelado: la casa que ibais a comprar, el viaje pendiente, la vejez que se prometía. A eso también se le hace duelo, y ya lo contamos en el artículo sobre el duelo por la vida que no fue.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y qué haces con la parte de ti que todavía quiere volver? Aquí, por ejemplo, la psicología del apego ayuda mucho: entender si confundes la necesidad con el cariño cambia la conversación entera, un terreno que ya recorrimos al hablar de los vínculos que repites. Porque a veces, de hecho, lo que duele no es la persona; es el hábito del brazo que ya no está. Distinguirlo es media terapia.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre el duelo de una ruptura",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto dura el duelo de una ruptura de pareja?",
+            answer:
+              "Entre seis meses y dos años en la mayoría de procesos que vemos cuando el vínculo era largo y significativo. Más que la fecha, al final importa la dirección: hay buen pronóstico cuando, poco a poco, van apareciendo momentos propios de verdad. Por eso, si pasados muchos meses la vida sigue detenida, conviene consultar a un profesional, sin culpa: pedir ayuda a tiempo no significa haberlo hecho mal.",
+          },
+          {
+            question: "¿Conviene estar un tiempo sin pareja?",
+            answer:
+              "Normalmente sí, un tiempo de duelo sin una relación nueva que lo tape, sobre todo si el vínculo era largo. Ahora bien, cuidado con convertir la soledad en una penitencia con plazos. La idea no es cumplir un año por norma; es no usar a otra persona como analgésico. Además, tu cuerpo y tu agenda suelen avisar antes que cualquier norma.",
+          },
+          {
+            question: "¿Puede haber contacto con la expareja?",
+            answer:
+              "De hecho, en relaciones largas el contacto cero resulta a veces imposible: hay hijos, pisos, negocios en común. La pregunta útil es otra: ¿el contacto te deja avanzar o te mantiene en la puerta? Un paréntesis de silencio, por ejemplo unos meses para deshabituar el hábito, suele funcionar mejor que las reglas absolutas. El terreno delicado de la amistad con una expareja ya lo recorrimos en su artículo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Lo que queda después",
+      },
+      {
+        type: "paragraph",
+        text: "Esta semana, por ejemplo, si estás dentro de este duelo, prueba una sola cosa: escribe la lista de lo que has perdido de verdad, sin adornos, hasta el final. Duele escribirla. Además, ordena: es la única manera de separar lo que se fue de lo que se queda. Nadie hace el duelo de una vida entera en un solo invierno. Pero se empieza exactamente así: con un papel que dice la verdad.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, de forma presencial u online. Así pues, si el duelo de tu ruptura pesa más de lo que aguantas en solitario, puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con el duelo ordenado; basta con llegar con la pregunta que te tiene despierto.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/cuando-no-sabes-si-separarte", label: "«Cuando no sabes si separarte», el artículo" },
+          { url: "/blog/duelo-vida-que-no-fue", label: "«El duelo por la vida que no fue», el artículo" },
+          { url: "/blog/estilos-apego-adultos-por-que-repites-los-mismos-vinculos", label: "«Los estilos de apego que repites», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

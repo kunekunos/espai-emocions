@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "duelo-ruptura-de-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "El dol d'una ruptura de parella: quan la casa es buida",
+    "titleES": "El duelo de una ruptura de pareja: cuando la casa se vacía",
+    "excerptCA": "El dol d'una ruptura de parella reorganitza una vida sencera: la casa, l'agenda, la identitat. Quines fases té, quant dura i com es treballa a consulta.",
+    "excerptES": "El duelo de una ruptura de pareja reorganiza una vida entera: la casa, la agenda, la identidad. Qué fases tiene, cuánto dura y cómo se trabaja en terapia.",
+    "datePublished": "2026-11-07"
+  },
+
+  {
     "slug": "ansiedad-por-la-navidad",
     "categoryCA": "Família",
     "categoryES": "Familia",
