@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "hablar-del-pasado-en-terapia",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Parlar del passat a la teràpia: per què serveix",
+    "titleES": "Hablar del pasado en la terapia: para qué sirve",
+    "excerptCA": "Parlar del passat a la teràpia no és buscar culpables: és entendre per què el teu present respon igual que fa vint anys. Què es fa, exactament, a consulta.",
+    "excerptES": "Hablar del pasado en la terapia no es buscar culpables: es entender por qué tu presente responde igual que hace veinte años. Qué se hace en consulta.",
+    "datePublished": "2026-11-08"
+  },
+
+  {
     "slug": "duelo-ruptura-de-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

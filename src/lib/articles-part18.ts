@@ -1589,4 +1589,259 @@ export const articlesPart18: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 7. hablar-del-pasado-en-terapia (Com funciona la teràpia, 2026-11-08)
+  // --------------------------------------------------------------------------
+  {
+    slug: "hablar-del-pasado-en-terapia",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "Parlar del passat a la teràpia: per què serveix",
+    titleES: "Hablar del pasado en la terapia: para qué sirve",
+    excerptCA:
+      "Parlar del passat a la teràpia no és buscar culpables: és entendre per què el teu present respon igual que fa vint anys. Què es fa, exactament, a consulta.",
+    excerptES:
+      "Hablar del pasado en la terapia no es buscar culpables: es entender por qué tu presente responde igual que hace veinte años. Qué se hace en consulta.",
+    datePublished: "2026-11-08",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«Per què em pregunta per la meva infància, si vinc per ansietat?» És, de fet, la pregunta que més sento repetir a les primeres sessions de psicoteràpia. Adults competents, persones que han trigat anys a demanar hora i que, a la segona sessió, sospiten que el psicòleg s'ha equivocat de tema. Parlar del passat a la teràpia genera aquest recel perquè sembla una desviació: tu parles del correu de dilluns i algú et pregunta com es resolien els conflictes a casa dels teus pares. Tanmateix, la sospita és legítima. Però la resposta, a més, és menys òbvia del que sembla.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem respondre-la de cara: què s'hi busca exactament quan la teràpia mira enrere; quan convé fer-ho i quan no; i com se sap que el procés no s'ha quedat a viure al passat. T'avanço la conclusió honesta: el passat no es toca per culpa ni per espectacle; es toca perquè hi ha coses del present que no s'entenen sense ell. I res més.",
+      },
+      {
+        type: "heading",
+        text: "Parlar del passat a la teràpia: què no és",
+      },
+      {
+        type: "paragraph",
+        text: "Convé desmuntar primer el mite principal. Mirar enrere en psicoteràpia no és buscar culpables: els teus pares no passen a ser els responsables de tot el que et passa, ni la sessió es converteix en un judici a la teva família. Tampoc és una col·lecció d'excuses: entendre d'on surt un patró no el legitima; li treu la vergonya i el deixa disponible per al canvi. I tampoc és quedar-se a viure allà: una teràpia que només excavés passat seria tan inútil com la que mai no el mira. El mite es desmunta així.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, això encara no explica per a què serveix. El passat interessa a la psicoteràpia per una raó molt pràctica: allà és on vas aprendre a respondre davant del món. Com es gestionava l'enuig, qui sostenia la tristesa, d'on sortien els silencis. Això no és filosofia: són hàbits que es van gravar en relació, molt abans que poguessis triar-los. Cada família, a més, funciona com una cuina amb la seva recepta: què es serveix, què es guarda, què es calla. I tu, d'adult, segueixes cuinant amb aquella recepta encara que ja no visquis en aquella cuina.",
+      },
+      {
+        type: "heading",
+        text: "La recepta que encara cuines sense saber-ho",
+      },
+      {
+        type: "paragraph",
+        text: "Posem, per exemple, un cas que veig cada setmana a consulta. Una persona aprèn de petita que l'enuig trenca coses: a casa seva, aixecar la veu significava dies de silenci. Per tant, de gran, aquella persona s'empassa l'enuig. I s'empassa també la ràbia que ja no té motiu, fins que el cos la cobra en forma de tensió i el caràcter en forma de distància. De fet, ja vam recórrer aquest patró a l'article sobre la ràbia continguda: el que avui sembla personalitat és, moltes vegades, una solució antiga que encara funciona massa bé.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, el mateix passa amb els papers familiars: qui feia de pont entre els pares, qui feia riure a taula, qui es feia petit per no molestar. Fa poc en vam parlar de tot això que segueixes habitant, perquè els papers apresos es porten a sobre i decideixen coses que ningú no els ha tornat a demanar. Pensa un segon en el teu paper de sempre. Et serveix, ara, aquesta feina?",
+      },
+      {
+        type: "paragraph",
+        text: "Al capdavall, la pregunta útil no és «qui té la culpa del meu passat», sinó «quina part del meu present la firma encara». Aquest canvi de pregunta és, de fet, tota la diferència entre el rememorar estèril i la comprensió que mou alguna cosa. Tu no vas triar la recepta. Ara bé, ara ets a la cuina.",
+      },
+      {
+        type: "heading",
+        text: "Quan el present no n'hi ha prou",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes vegades, el present explica bé el malestar: un any dur, una pèrdua, una feina que desborda. Després, quan el context és clar, la teràpia ja no necessita gaire passat: acompanya, ordena, sosté. A vegades, però, el malestar no quadra amb les seves dades: la persona té la vida resolta per fora i una reacció desproporcionada per dins que no encaixa amb res de la seva agenda real.",
+      },
+      {
+        type: "paragraph",
+        text: "Un exemple clàssic: algú que s'activa amb el to de veu de la seva parella, un to que avui no amenaça res, però que fa anys era l'avís que la tempesta arribava. El cos va aprendre aquella associació i no l'ha esborrat. Per tant, quan el present repeteix un estímul vell, respon amb una edat antiga. La reacció té memòria; l'escena és nova.",
+      },
+      {
+        type: "paragraph",
+        text: "Així doncs, en aquests casos, a consulta fem una cosa molt concreta: demanem l'escena. No «m'angoixo sempre», sinó «dimarts passat: correu del meu cap, tres minuts sense obrir-lo, i ja notava el pit». Dins l'escena, a més, hi sol haver un detall que sobra o que falta: un to de veu, una espera, una cara. I és just allà, en aquell detall, on el passat aixeca la mà per demanar paraula. Has notat mai que la teva reacció era molt més antiga que la situació?",
+      },
+      {
+        type: "heading",
+        text: "«Jo no recordo res de la infància»: cal rememorar?",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, és una objecció molt raonable: «vaig tenir una infància normal i no en tinc ni records». A veure: la psicoteràpia no necessita la pel·lícula sencera de la teva infància, ni treballa buscant tresors amagats com qui fa arqueologia. La memòria, a més, no funciona com un arxiu: reconstrueix, omple buits, reescriu. Tu no ets un arxiu. En canvi, el que sí que es conserva són els patrons: com entres a un conflicte, què necessites per sentir-te segur, què fas quan algú et veu fràgil.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això no cal rememorar per entendre: la teva manera de vincular-te avui és el document. I, en un procés ben portat, mirar enrere ocupa molt menys espai del que la gent imagina: unes sessions puntuals quan el present demana context, no anys d'excavació. La resta del temps, en canvi, és actualitat: què fas aquesta setmana, què has provat, què ha canviat.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa el passat sense quedar-s'hi a viure",
+      },
+      {
+        type: "paragraph",
+        text: "El criteri és senzill de dir i, tanmateix, exigit de sostenir: el passat es mira mentre segueix decidint. Quan una reacció antiga encara tria per tu, cal entendre-la; quan deixa de decidir, es queda enrere sense honors. Per exemple, a la sessió això es nota en un moment que té data: el dia que algú explica l'escena de sempre i, per primera vegada, se l'escolta sense creure-se-la. «Jo no era el problema», diuen llavors. «Era el lloc on havia après a respondre així.»",
+      },
+      {
+        type: "paragraph",
+        text: "Després, allà, comença la feina de debò: no plorar el que va ser, sinó practicar el que no es va arribar a aprendre. Dir que no amb calma, sostenir un conflicte, deixar que et vegin cansat. Ara toca practicar. En definitiva, aquesta és la diferència entre una teràpia que s'ha quedat al passat i una que se n'ha servit: la primera explica la recepta i la segona, finalment, et deixa escriure'n una de pròpia.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre parlar del passat",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Totes les teràpies miren la infància?",
+            answer: "No totes. Hi ha, per exemple, aproximacions breus que treballen gairebé tot al present i que encaixen bé quan el problema és puntual. Ara bé, quan el que es repeteix són patrons (relacions, reaccions, papers), mirar enrere acostuma a pagar l'esforç: és la diferència entre baixar el malestar d'avui i entendre per què torna.",
+          },
+          {
+            question: "I si em fa por el que hi pugui trobar?",
+            answer: "Aquesta por és freqüent i, a més, útil: diu que hi ha terreny delicat. Un procés ben portat no obre res que tu no puguis sostenir; va al teu ritme, no al del terapeuta. La idea no és trencar-te per mirar-ho: és mirar el que ja et pesa amb algú al costat.",
+          },
+          {
+            question: "Quant de temps cal mirar enrere en un procés?",
+            answer: "Normalment, molt menys del que la gent tem: unes sessions puntuals repartides al llarg del procés, quan el present demana context. El que marca el final no és una data, sinó un senyal: el dia que el passat deixa de decidir, la teràpia ja no necessita mirar-lo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El passat com a informació, no com a destí",
+      },
+      {
+        type: "paragraph",
+        text: "Al capdavall, parlar del passat a la teràpia només té un sentit: tornar-te el present. Per això, si vols portar-te una cosa pràctica d'aquest article, prova això: la propera vegada que la teva reacció et sorprengui, escriu l'escena sencera. Què passava just abans, on ho vas notar al cos, què vas fer, què necessitaves de debò. Res més: no interpretis. El patró es veu millor per escrit i, a més, és exactament el material amb què treballa qualsevol psicòleg.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, de manera presencial o en línia. Així doncs, si fa temps que respons com no vols respondre i no saps per què, pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. Finalment, no cal arribar amb la infància ordenada; n'hi ha prou amb portar la pregunta.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/rabia-contenida", label: "«La ràbia continguda», l’article" },
+          { url: "/blog/roles-familiares-que-sigues-habitando", label: "«Els papers familiars que segueixes habitant», l’article" },
+          { url: "/blog/estilos-apego-adultos-por-que-repites-los-mismos-vinculos", label: "«Els estils d’apego que repeteixes», l’article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«¿Por qué me pregunta por mi infancia, si vengo por ansiedad?» Es, de hecho, la pregunta que más escucho repetir en las primeras sesiones de psicoterapia. Adultos competentes, personas que han tardado años en pedir hora y que, en la segunda sesión, sospechan que el psicólogo se ha equivocado de tema. Hablar del pasado en la terapia genera ese recelo porque parece un desvío: tú hablas del correo del lunes y alguien te pregunta cómo se resolvían los conflictos en casa de tus padres. Sin embargo, la sospecha es legítima. Pero la respuesta, además, es menos obvia de lo que parece.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos responderla de frente: qué se busca exactamente cuando la terapia mira hacia atrás; cuándo conviene hacerlo y cuándo no; y cómo se sabe que el proceso no se ha quedado a vivir en el pasado. Te adelanto la conclusión honesta: el pasado no se toca por culpa ni por espectáculo; se toca porque hay cosas del presente que no se entienden sin él. Y nada más.",
+      },
+      {
+        type: "heading",
+        text: "Hablar del pasado en la terapia: qué no es",
+      },
+      {
+        type: "paragraph",
+        text: "Conviene desmontar primero el mito principal. Mirar hacia atrás en psicoterapia no es buscar culpables: tus padres no pasan a ser los responsables de todo lo que te pasa, ni la sesión se convierte en un juicio a tu familia. Tampoco es una colección de excusas: entender de dónde sale un patrón no lo legitima; le quita la vergüenza y lo deja disponible para el cambio. Y tampoco es quedarse a vivir allí: una terapia que solo excavara pasado sería tan inútil como la que jamás lo mira. El mito se desmonta así.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, esto todavía no explica para qué sirve. De hecho, el pasado interesa a la psicoterapia por una razón muy práctica: allí es donde aprendiste a responder ante el mundo. Cómo se gestionaba el enfado, quién sostenía la tristeza, de dónde salían los silencios. Esto no es filosofía: son hábitos que se grabaron en relación, mucho antes de que pudieras elegirlos. Cada familia, además, funciona como una cocina con su receta: qué se sirve, qué se guarda, qué se calla. Y tú, de adulto, sigues cocinando con esa receta aunque ya no vivas en esa cocina.",
+      },
+      {
+        type: "heading",
+        text: "La receta que aún cocinas sin saberlo",
+      },
+      {
+        type: "paragraph",
+        text: "Pongamos, por ejemplo, un caso que veo cada semana en consulta. Una persona aprende de pequeña que el enfado rompe cosas: en su casa, levantar la voz significaba días de silencio. Por tanto, de mayor, esa persona se traga el enfado. Y se traga también la rabia que ya no tiene motivo, hasta que el cuerpo la cobra en forma de tensión y el carácter en forma de distancia. De hecho, ya recorrimos este patrón en el artículo sobre la rabia contenida: lo que hoy parece personalidad es, muchas veces, una solución antigua que todavía funciona demasiado bien.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, lo mismo pasa con los papeles familiares: quien hacía de puente entre los padres, quien hacía reír en la mesa, quien se hacía pequeño para no molestar. Hace poco hablamos de todo eso que sigues habitando, porque los papeles aprendidos se llevan encima y deciden cosas que nadie les ha vuelto a pedir. Piensa un segundo en tu papel de siempre. ¿Te sirve, hoy, ese trabajo?",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, la pregunta útil no es «quién tiene la culpa de mi pasado», sino «qué parte de mi presente lo firma todavía». Ese cambio de pregunta es, de hecho, toda la diferencia entre el rememorar estéril y la comprensión que mueve algo. Tú no elegiste la receta. Ahora bien, ahora estás en la cocina.",
+      },
+      {
+        type: "heading",
+        text: "Cuando el presente no basta",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas veces, el presente explica bien el malestar: un año duro, una pérdida, un trabajo que desborda. Después, cuando el contexto es claro, la terapia ya no necesita mucho pasado: acompaña, ordena, sostiene. A veces, sin embargo, el malestar no encaja con sus datos: la persona tiene la vida resuelta por fuera y una reacción desproporcionada por dentro que no cuadra con nada de su agenda real.",
+      },
+      {
+        type: "paragraph",
+        text: "Un ejemplo clásico: alguien que se activa con el tono de voz de su pareja, un tono que hoy no amenaza nada, pero que hace años era el aviso de que la tormenta llegaba. El cuerpo aprendió esa asociación y no la ha borrado. Por tanto, cuando el presente repite un estímulo viejo, responde con una edad antigua. La reacción tiene memoria; la escena es nueva.",
+      },
+      {
+        type: "paragraph",
+        text: "Así pues, en estos casos, en consulta hacemos algo muy concreto: pedimos la escena. No «me angustio siempre», sino «el martes: correo de mi jefe, tres minutos sin abrirlo, y ya notaba el pecho». Dentro de la escena, además, suele haber un detalle que sobra o que falta: un tono de voz, una espera, una cara. Y es justo allí, en ese detalle, donde el pasado levanta la mano para pedir la palabra. ¿Has notado alguna vez que tu reacción era mucho más antigua que la situación?",
+      },
+      {
+        type: "heading",
+        text: "«No recuerdo nada de mi infancia»: ¿hay que rememorar?",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, es una objeción muy razonable: «tuve una infancia normal y no tengo ni recuerdos». A ver: la psicoterapia no necesita la película entera de tu infancia, ni trabaja buscando tesoros escondidos como quien hace arqueología. La memoria, además, no funciona como un archivo: reconstruye, rellena huecos, reescribe. Tú no eres un archivo. En cambio, lo que sí se conserva son los patrones: cómo entras en un conflicto, qué necesitas para sentirte seguro, qué haces cuando alguien te ve frágil.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso no hace falta rememorar para entender: tu manera de vincularte hoy es el documento. Y, en un proceso bien llevado, mirar hacia atrás ocupa mucho menos espacio del que la gente imagina: unas sesiones puntuales cuando el presente pide contexto, no años de excavación. El resto del tiempo, en cambio, es actualidad: qué haces esta semana, qué has probado, qué ha cambiado.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja el pasado sin quedarse a vivir en él",
+      },
+      {
+        type: "paragraph",
+        text: "El criterio es sencillo de decir y, sin embargo, exigente de sostener: el pasado se mira mientras sigue decidiendo. Cuando una reacción antigua todavía elige por ti, hay que entenderla; cuando deja de decidir, se queda atrás sin honores. Por ejemplo, en sesión esto se nota en un momento que tiene fecha: el día en que alguien explica la escena de siempre y, por primera vez, se la escucha sin creérsela. «Yo no era el problema», dicen entonces. «Era el lugar donde había aprendido a responder así.»",
+      },
+      {
+        type: "paragraph",
+        text: "Después, ahí empieza el trabajo de verdad: no llorar lo que fue, sino practicar lo que no llegó a aprenderse. Decir que no con calma, sostener un conflicto, dejar que te vean cansado. Ahora toca practicar. En definitiva, esta es la diferencia entre una terapia que se ha quedado en el pasado y una que se ha servido de él: la primera explica la receta y la segunda, finalmente, te deja escribir una propia.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre hablar del pasado",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Todas las terapias miran la infancia?",
+            answer: "No todas. Hay, por ejemplo, aproximaciones breves que trabajan casi todo en el presente y que encajan bien cuando el problema es puntual. Ahora bien, cuando lo que se repite son patrones (relaciones, reacciones, papeles), mirar hacia atrás suele pagar el esfuerzo: es la diferencia entre bajar el malestar de hoy y entender por qué vuelve.",
+          },
+          {
+            question: "¿Y si me da miedo lo que pueda encontrar?",
+            answer: "Ese miedo es frecuente y, además, útil: dice que hay terreno delicado. Un proceso bien llevado no abre nada que tú no puedas sostener; va a tu ritmo, no al del terapeuta. La idea no es romperte para mirarlo: es mirar lo que ya te pesa con alguien al lado.",
+          },
+          {
+            question: "¿Cuánto tiempo hay que mirar atrás en un proceso?",
+            answer: "Normalmente, mucho menos de lo que la gente teme: unas sesiones puntuales repartidas a lo largo del proceso, cuando el presente pide contexto. Lo que marca el final no es una fecha, sino una señal: el día en que el pasado deja de decidir, la terapia ya no necesita mirarlo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El pasado como información, no como destino",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, hablar del pasado en la terapia solo tiene un sentido: devolverte el presente. Por eso, si quieres llevarte algo práctico de este artículo, prueba esto: la próxima vez que tu reacción te sorprenda, escribe la escena entera. Qué pasaba justo antes, dónde lo notaste en el cuerpo, qué hiciste, qué necesitabas de verdad. Nada más: no interpretes. El patrón se ve mejor por escrito y, además, es exactamente el material con el que trabaja cualquier psicólogo.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, de forma presencial u online. Así pues, si hace tiempo que respondes como no quieres responder y no sabes por qué, puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Finalmente, no hace falta llegar con la infancia ordenada; basta con llevar la pregunta.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/rabia-contenida", label: "«La rabia contenida», el artículo" },
+          { url: "/blog/roles-familiares-que-sigues-habitando", label: "«Los papeles familiares que sigues habitando», el artículo" },
+          { url: "/blog/estilos-apego-adultos-por-que-repites-los-mismos-vinculos", label: "«Los estilos de apego que repites», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];
