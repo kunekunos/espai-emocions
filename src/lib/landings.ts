@@ -283,6 +283,30 @@ export const landings: Landing[] = [
       { question: "¿Tengo que saber qué me pasa?", answer: "No. Parte de nuestro trabajo es ayudarte a poner palabras y ordenar lo que estás viviendo." }
     ],
     whatsappText: "Hola, me gustaría pedir información sobre psicoterapia para hombres en Barcelona."
+  },
+  {
+    slug: "psicologo-humanista-barcelona",
+    seoTitle: "Psicólogo humanista en Barcelona | Espai Emocions",
+    seoDescription: "Terapia humanista en Barcelona: psicólogos colegiados, sin juicios y con base clínica. En Sant Pau u online. Primera conversación de 30 min sin coste.",
+    eyebrow: "Psicoterapia humanista · Barcelona",
+    title: "Un espacio que te ve como",
+    titleAccent: "persona, no como caso.",
+    lead: "La terapia humanista parte de una idea sencilla: tú no eres un diagnóstico que arreglar, sino una persona que necesita condiciones para cambiar. Te acompañamos desde esa escucha, con rigor clínico y a tu ritmo.",
+    audience: "Para personas adultas que buscan un psicólogo humanista en Barcelona y quieren una terapia centrada en ellas: más escucha, menos etiquetas y una relación terapéutica de verdad.",
+    signalsTitle: "Quizá buscas algo más que técnicas",
+    signalsIntro: "No es que las técnicas no sirvan. Es que, cuando el malestar viene de lejos, lo que mejor funciona es una relación segura donde puedas mirarte sin miedo.",
+    signals: ["Sientes que te tratan como un síntoma y quieres que te escuchen entera/o", "Buscas sentido, no solo salir de una crisis", "Las etiquetas diagnósticas te quedan cortas", "Quieres una relación terapéutica cercana y sin juicios"],
+    helpTitle: "Humanista en el enfoque, rigurosa en la práctica",
+    helpIntro: "Nuestro punto de partida es la psicología humanista: aceptación incondicional, empatía y autenticidad, combinadas con herramientas sistémicas y cognitivo-conductuales cuando ayudan. La relación es el instrumento principal; la técnica, al servicio de la persona.",
+    outcomes: ["Volver a confiar en tu criterio y en tus recursos", "Entender tu malestar más allá de la etiqueta", "Construir una relación contigo mismo más amable y sostenible"],
+    therapist: "both",
+    therapistReason: "Esteve y Carmen comparten la base humanista del centro: dirigen personalmente la terapia y ajustan el enfoque a tu historia y tu momento.",
+    faqs: [
+      { question: "¿Qué es exactamente la terapia humanista?", answer: "Es un enfoque que pone a la persona —no al síntoma— en el centro. Trabaja creando las condiciones de seguridad y escucha que permiten el cambio, y se combina bien con otras herramientas según el caso." },
+      { question: "¿Humanista significa menos científico?", answer: "No. La alianza terapéutica es uno de los factores de cambio mejor estudiados. La base humanista se complementa con técnicas con evidencia cuando tu proceso lo pide." },
+      { question: "¿La terapia es presencial u online?", answer: "Puedes hacer las sesiones en nuestro centro de Sant Pau, Barcelona, o en formato online." }
+    ],
+    whatsappText: "Hola, me gustaría pedir información sobre terapia humanista en Barcelona."
   }
 ];
 
