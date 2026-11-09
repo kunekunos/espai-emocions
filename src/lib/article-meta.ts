@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "comer-por-ansiedad",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "Menjar per ansietat: quan la nevera consola",
+    "titleES": "Comer por ansiedad: cuando la nevera consuela",
+    "excerptCA": "Menjar per ansietat és menjar sense gana, amb la nevera oberta i el cap a una altra banda. Per què passa i com es treballa a consulta.",
+    "excerptES": "Comer por ansiedad es comer sin hambre, con la nevera abierta y la cabeza en otra parte. Por qué pasa y cómo se trabaja en consulta.",
+    "datePublished": "2026-11-09"
+  },
+
+  {
     "slug": "hablar-del-pasado-en-terapia",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",

@@ -1844,4 +1844,316 @@ export const articlesPart18: ArticleContent[] = [
       },
     ],
   },
+
+  // --------------------------------------------------------------------------
+  // 8. comer-por-ansiedad (Ansietat, 2026-11-09)
+  // --------------------------------------------------------------------------
+  {
+    slug: "comer-por-ansiedad",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "Menjar per ansietat: quan la nevera consola",
+    titleES: "Comer por ansiedad: cuando la nevera consuela",
+    excerptCA:
+      "Menjar per ansietat és menjar sense gana, amb la nevera oberta i el cap a una altra banda. Per què passa i com es treballa a consulta.",
+    excerptES:
+      "Comer por ansiedad es comer sin hambre, con la nevera abierta y la cabeza en otra parte. Por qué pasa y cómo se trabaja en consulta.",
+    datePublished: "2026-11-09",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Són dos quarts de dotze de la nit. La cuina és a les fosques; l'única llum, la de la nevera, oberta, dibuixa un rectangle càlid sobre el terra. Davant, una persona que fa dues hores que es va prometre que demà tornaria a menjar «com cal». Menjar per ansietat és la part del dia que ningú no publica, i a la consulta de psicologia la veig cada setmana. De fet, gairebé mai no arriba amb aquest motiu: normalment arriba per un son que no descansa o per un fons d'angoixa que encara no té nom. Et sona, aquesta cuina?",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar l'escena de cara: què és exactament menjar per ansietat; com es distingeix de la gana de veritat; i com es treballa en psicoteràpia d'adults. T'avanço la resposta honesta: la nevera no és el problema. Al capdavall, és el missatger.",
+      },
+      {
+        type: "heading",
+        text: "Menjar per ansietat: què és exactament",
+      },
+      {
+        type: "paragraph",
+        text: "Menjar per ansietat és menjar sense gana física, amb la nevera oberta mentre el cap és a una altra banda. El cos demana menjar igual; però, el que demana de debò és un descens d'activació: una mica de silenci, un final de dia que no arriba. La importància d'aquest patró és pràctica: diu més del moment en què apareix que del que hi ha al plat.",
+      },
+      {
+        type: "paragraph",
+        text: "A la consulta, normalment, no el veiem en qui menja de valent a taula. El veiem en l'adult competent que ho té tot resolt de dia i que a mitjanit obre l'armari sense saber per què. Molts pacients, per exemple, ho expliquen amb vergonya, com si fos un defecte de caràcter. No ho és. És un aprenentatge: el cos va descobrir un dia que mastegar baixa el nervi i, des de llavors, hi torna com qui torna a una adreça coneguda. La raó, a més, té evidència: el gest de menjar regula el sistema nerviós uns minuts. La calma dura poc. Després, el dia torna a ser allà, amb interès.",
+      },
+      {
+        type: "paragraph",
+        text: "I tu, a quina hora obres l'armari que no tocava?",
+      },
+      {
+        type: "heading",
+        text: "La gana que no ve de l'estómac",
+      },
+      {
+        type: "paragraph",
+        text: "La gana física puja a poc a poc i accepta alternatives: si no hi ha pa, val arròs. Menja el que hi ha i para quan el cos ja n'ha tingut prou. La gana ansiosa, en canvi, arriba de cop, té destinatari concret (el formatge, les galetes) i no para amb el plat buidat: para quan s'apaga allò que l'havia encès. També ajuda mirar la velocitat: la gana física menja a ritme; l'ansiosa engoleix sense tastar, amb el mòbil a l'altra mà.",
+      },
+      {
+        type: "paragraph",
+        text: "Fa poc, una pacient ho va resumir millor que qualsevol manual: «no és que tingui gana; és que no puc estar quieta a casa». Havia sopat, de fet, feia dues hores. Aquesta frase és la distinció sencera: la gana d'estómac es queda a l'estómac; la gana ansiosa busca una altra cosa i utilitza el menjar com a drecera.",
+      },
+      {
+        type: "paragraph",
+        text: "Quina de les dues et visita, aquesta nit?",
+      },
+      {
+        type: "heading",
+        text: "Què diu la nevera del teu dia",
+      },
+      {
+        type: "paragraph",
+        text: "A casa, la nevera fa de botiquí de guàrdia, obert les vint-i-quatre hores. Ningú no s'hi acosta perquè tingui gana: s'hi acosta perquè és l'únic gest que no necessita permís, companyia ni ganes de parlar. Obres la porta, mires la llum i, durant un minut, no hi ha correu. A Barcelona, a més, cenes tard: la nevera de mitjanit aquí és gairebé una institució.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, el paral·lel amb la copa de vi del vespre és exacte: dos gestos que apaguen el mateix dia. Ja en vam parlar a l'article sobre la copa que calma; la nevera nocturna n'és la versió de mastegar. I allò que cadascun tapa també s'assembla: una jornada sencera sense pausa i un cap que no s'atura en arribar a casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalment, la cadena va sola. Primer el sofà i el mòbil. Després, la cuina. Finalment, la llum de la nevera fa de companyia. Si preguntes per què obres l'armari, et contestaràs la veritat sense saber-la: «res, que mirava».",
+      },
+      {
+        type: "paragraph",
+        text: "Per això les dietes fallen tan sovint en aquest terreny. Ordenen el plat; en canvi, no toquen el dia que el va desordenar. El gest torna, perquè el motiu continua al seu lloc. Molts dels pacients que encaixen aquí són, de fet, els mateixos que vam retratar a l'article sobre quan parar fa por: persones que no recorden l'última tarda sense fer res.",
+      },
+      {
+        type: "paragraph",
+        text: "Per tant, la pregunta útil deixa de ser «què he menjat?» i passa a ser «quina hora del meu dia no tanca?».",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa en psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta no posem neveres tancades ni llistes de prohibits. La feina comença per una escena concreta: «dimarts passat, dos quarts d'una, tornava d'un viatge de feina amb un correu pendent i les ganes per terra». Dins de cada escena, normalment, hi ha un detall: el correu sense obrir, la trucada que fa temps que no es fa. Allà viu el que t'empeny cap a la nevera.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir d'aquí, la feina és doble. D'una banda, aprendre maneres de baixar l'activació amb evidència i que no passin per la boca: el passeig lent, la respiració llarga. De l'altra, tolerar l'estona de silenci que el gest tapava. Molts pacients, però, es perden aquí: la rumiació que apareix quan no hi ha res per mastegar és justament el material de la sessió, i ja en vam parlar a l'article sobre la rumiació ansiosa.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades funciona un intermedi senzill: quan notes el tiró, deu minuts abans de tocar res. Si la gana encara hi és al cap d'aquest temps, seu a taula i menja amb tranquil·litat. Moltes vegades, el tiró marxa abans.",
+      },
+      {
+        type: "paragraph",
+        text: "També hi ha una via corporal. Menjar per ansietat és una de les maneres que té el cos de dir allò que el cap calla, un terreny que vam recórrer a l'article sobre com el cos diu el que el cap calla. Per això, a més de l'escena, escoltem tensió i son.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, el canvi es nota en un detall senzill: la nevera torna a ser una nevera. Què et queda, si no queda el gest?",
+      },
+      {
+        type: "heading",
+        text: "Quan convé una derivació",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un límit honest. Si apareixen atracones amb pèrdua de control, si després de cada àpat arriba un cicle de culpa i compensació, o si el pes ocupa el centre del teu dia, el terreny demana tractament especialitzat en trastorns de la conducta alimentària, i el correcte és derivar-hi. En canvi, a la zona grisa que descriu aquest article (menjar sense gana, de nit, sense criteri clínic de trastorn), sí que hi ha feina clínica possible, i normalment dona bons resultats. En definitiva, saber on és la frontera ja és mig camí.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre menjar per ansietat",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És dolent menjar de nit?",
+            answer:
+              "No, en principi. El que convé mirar és la funció: si és un berenar tranquil o si és l'única baixada del dia. A més, la culpa empitjora el cercle: castigar-se mai no ha ajudat ningú a menjar més tranquil.",
+          },
+          {
+            question: "Es pot arreglar amb dieta?",
+            answer:
+              "Normalment, no. La dieta ordena el plat; en canvi, no toca el dia que el va desordenar. Per tant, el gest torna, perquè el motiu segueix al seu lloc.",
+          },
+          {
+            question: "És el mateix que un atracó?",
+            answer:
+              "No. L'atracó implica pèrdua de control i culpa intensa, i té tractament propi. Menjar per ansietat, en canvi, és un gest petit i repetit: menys espectacular, més quotidià.",
+          },
+          {
+            question: "Quan convé consultar?",
+            answer:
+              "Quan el gest fa anys que sosté el vespre o quan la culpa creix. Consultar, de fet, no vol dir que vagi malament; vol dir que ja no vols sostenir-ho tu sol.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un gest que torni a ser teu",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta nit, doncs, prova una sola cosa: abans d'obrir la nevera, escriu l'escena sencera: quina hora era, què acabava de passar i què necessitaves de debò. No cal resoldre res: escriure-la ja la trenca, perquè li lleva l'automatisme. De fet, gairebé tots els processos comencen així, amb el detall exacte d'una sola nit.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, de manera presencial o en línia. Així doncs, si reconeixes la nevera d'aquesta escena, pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb els àpats ordenats; n'hi ha prou amb portar la pregunta.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/blog/la-copa-que-calma", label: "«La copa que calma», l'article" },
+          { url: "/blog/rumiacion-ansiosa", label: "«La rumiació ansiosa», l'article" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Son las once y media de la noche. La cocina está a oscuras; la única luz, la de la nevera, abierta, dibuja un rectángulo cálido sobre el suelo. Delante, una persona que hace dos horas se prometió que mañana volvería a comer «como es debido». Comer por ansiedad es la parte del día que nadie publica, y en la consulta de psicología lo veo cada semana. De hecho, casi nunca llega con ese motivo: normalmente llega por un sueño que no descansa o por un fondo de angustia que todavía no tiene nombre. ¿Te suena esta cocina?",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar la escena de frente: qué es exactamente comer por ansiedad; en qué se distingue del hambre de verdad; y cómo se trabaja en psicoterapia de adultos. Te adelanto la respuesta honesta: la nevera no es el problema. Al final, es el mensajero.",
+      },
+      {
+        type: "heading",
+        text: "Comer por ansiedad: qué es exactamente",
+      },
+      {
+        type: "paragraph",
+        text: "Comer por ansiedad es comer sin hambre física, con la nevera abierta mientras la cabeza está en otra parte. El cuerpo pide comida igual; pero, lo que pide de verdad es un descenso de activación: un poco de silencio, un final de día que no llega. La importancia de este patrón es práctica: dice más del momento en que aparece que de lo que hay en el plato.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, normalmente, no lo vemos en quien come en serio a la mesa. Lo vemos en el adulto competente que lo tiene todo resuelto de día y que a medianoche abre la despensa sin saber por qué. Muchos pacientes, por ejemplo, lo cuentan con vergüenza, como si fuera un defecto de carácter. No lo es. Es un aprendizaje: el cuerpo descubrió un día que masticar baja el nervio y, desde entonces, vuelve allí como quien vuelve a una dirección conocida. La razón, además, tiene evidencia: el gesto de comer regula el sistema nervioso durante unos minutos. La calma dura poco. Después, el día vuelve a estar ahí, con intereses.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y tú, a qué hora abres el armario que no tocaba?",
+      },
+      {
+        type: "heading",
+        text: "El hambre que no viene del estómago",
+      },
+      {
+        type: "paragraph",
+        text: "El hambre física sube despacio y acepta alternativas: si no hay pan, vale arroz. Come lo que hay y se detiene cuando el cuerpo ya ha tenido bastante. El hambre ansiosa, en cambio, llega de golpe, tiene destinatario concreto (el queso, las galletas) y no para cuando el plato se vacía: para cuando se apaga lo que la encendió. También ayuda mirar la velocidad: el hambre física come a ritmo; la ansiosa engulle sin saborear, con el móvil en la otra mano.",
+      },
+      {
+        type: "paragraph",
+        text: "Hace poco, una paciente lo resumió mejor que cualquier manual: «no es que tenga hambre; es que no puedo estar quieta en casa». Había cenado, de hecho, dos horas antes. Esa frase es la distinción entera: el hambre del estómago se queda en el estómago; el hambre ansiosa busca otra cosa y usa la comida como atajo.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Cuál de las dos te visita esta noche?",
+      },
+      {
+        type: "heading",
+        text: "Qué dice la nevera de tu día",
+      },
+      {
+        type: "paragraph",
+        text: "En casa, la nevera hace de farmacia de guardia, abierta las veinticuatro horas. Nadie se acerca porque tenga hambre: se acerca porque es el único gesto que no necesita permiso, compañía ni ganas de hablar. Abres la puerta, miras la luz y, durante un minuto, no hay correo. En Barcelona, además, se cena tarde: la nevera de medianoche aquí es casi una institución.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, el paralelo con la copa de vino de la tarde es exacto: dos gestos que apagan el mismo día. Ya lo contamos en el artículo sobre la copa que calma; la nevera nocturna es su versión de masticar. Y lo que cada uno tapa también se parece: una jornada entera sin pausa y una cabeza que no para al llegar a casa.",
+      },
+      {
+        type: "paragraph",
+        text: "Normalmente, la cadena va sola. Primero el sofá y el móvil. Después, la cocina. Finalmente, la luz de la nevera hace de compañía. Si te preguntas por qué abres la despensa, te contestarás la verdad sin saberla: «nada, que miraba».",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso las dietas fallan tan a menudo en este terreno. Ordenan el plato; en cambio, no tocan el día que lo desordenó. El gesto vuelve, porque el motivo sigue en su sitio. Muchos de los pacientes que encajan aquí son, de hecho, los mismos que ya retratamos en el artículo sobre cuando parar da miedo: personas que no recuerdan la última tarde sin hacer nada.",
+      },
+      {
+        type: "paragraph",
+        text: "Por tanto, la pregunta útil deja de ser «¿qué he comido?» y pasa a ser «¿qué hora de mi día no cierra?».",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta no ponemos neveras cerradas ni listas de prohibidos. El trabajo empieza por una escena concreta: «el martes pasado, doce y media, volvía de un viaje de trabajo con un correo pendiente y las ganas por los suelos». Dentro de cada escena, normalmente, hay un detalle: el correo sin abrir, la llamada que hace tiempo que no se hace. Allí vive lo que te empuja hacia la nevera.",
+      },
+      {
+        type: "paragraph",
+        text: "A partir de ahí, la tarea es doble. Por un lado, aprender maneras de bajar la activación con evidencia y que no pasen por la boca: el paseo lento, la respiración larga. Por otro, tolerar el rato de silencio que el gesto tapaba. Muchos pacientes, sin embargo, se pierden aquí: la rumiación que aparece cuando no hay nada que masticar es justo el material de la sesión, y ya lo tratamos en el artículo sobre la rumiación ansiosa.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces funciona un intermediario sencillo: cuando notes el tirón, diez minutos antes de tocar nada. Si el hambre sigue ahí al cabo de ese tiempo, siéntate a la mesa y come con tranquilidad. Muchas veces, el tirón se marcha antes.",
+      },
+      {
+        type: "paragraph",
+        text: "También hay una vía corporal. Comer por ansiedad es una de las maneras que tiene el cuerpo de decir aquello que la cabeza calla, un terreno que ya recorrimos en el artículo sobre cómo el cuerpo dice lo que la cabeza calla. Por eso, además de la escena, escuchamos tensión y sueño.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, el cambio se nota en un detalle sencillo: la nevera vuelve a ser una nevera. ¿Qué te queda, si no queda el gesto?",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene una derivación",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un límite honesto. Si aparecen atracones con pérdida de control, si después de cada comida llega un ciclo de culpa y compensación, o si el peso ocupa el centro de tu día, el terreno pide tratamiento especializado en trastornos de la conducta alimentaria, y lo correcto es derivar. En cambio, en la zona gris que describe este artículo (comer sin hambre, de noche, sin criterio clínico de trastorno), sí hay trabajo clínico posible, y normalmente da buenos resultados. En definitiva, saber dónde está la frontera ya es medio camino.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre comer por ansiedad",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es malo comer de noche?",
+            answer:
+              "No, en principio. Lo que conviene mirar es la función: si es una merienda tranquila o si es la única bajada del día. Además, la culpa agrava el círculo: castigarse nunca ha ayudado a nadie a comer más tranquilo.",
+          },
+          {
+            question: "¿Se puede arreglar con dieta?",
+            answer:
+              "Normalmente, no. La dieta ordena el plato; en cambio, no toca el día que lo desordenó. Por tanto, el gesto vuelve, porque el motivo sigue en su sitio.",
+          },
+          {
+            question: "¿Es lo mismo que un atracón?",
+            answer:
+              "No. El atracón implica pérdida de control y culpa intensa, y tiene tratamiento propio. Comer por ansiedad, en cambio, es un gesto pequeño y repetido: menos espectacular, más cotidiano.",
+          },
+          {
+            question: "¿Cuándo conviene consultar?",
+            answer:
+              "Cuando el gesto lleva años sosteniendo la noche o cuando la culpa crece. Consultar, de hecho, no significa que vaya mal; significa que ya no quieres sostenerlo tú solo.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Un gesto que vuelva a ser tuyo",
+      },
+      {
+        type: "paragraph",
+        text: "Esta noche, pues, prueba una sola cosa: antes de abrir la nevera, escribe la escena entera: qué hora era, qué acababa de pasar y qué necesitabas de verdad. No hace falta resolver nada: escribirla ya la rompe, porque le quita el automatismo. De hecho, casi todos los procesos empiezan así, con el detalle exacto de una sola noche.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, de forma presencial u online. Así pues, si reconoces la nevera de esta escena, puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con las comidas ordenadas; basta con traer la pregunta.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/blog/la-copa-que-calma", label: "«La copa que calma», el artículo" },
+          { url: "/blog/rumiacion-ansiosa", label: "«La rumiación ansiosa», el artículo" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
 ];
