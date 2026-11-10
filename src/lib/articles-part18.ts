@@ -2155,5 +2155,272 @@ export const articlesPart18: ArticleContent[] = [
         ],
       },
     ],
+  },
+  // --------------------------------------------------------------------------
+  // 9. cuidar-a-los-padres-mayores (Família, 2026-11-10)
+  // --------------------------------------------------------------------------
+  {
+    slug: "cuidar-a-los-padres-mayores",
+    categoryCA: "Família",
+    categoryES: "Familia",
+    titleCA: "Cuidar els pares grans: el repart que ningú va signar",
+    titleES: "Cuidar a los padres mayores: el reparto que nadie firmó",
+    excerptCA: "Cuidar els pares grans sol recaure en el mateix germà: el que sempre ha estat el responsable. Per què pesa tant i com es treballa el repart en teràpia.",
+    excerptES: "Cuidar a los padres mayores suele recaer en el mismo hermano: el que siempre fue el responsable. Por qué pesa tanto y cómo se trabaja el reparto en terapia.",
+    datePublished: "2026-11-10",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "A moltes famílies no cal preguntar qui s'encarregarà de cuidar els pares grans. De fet, tothom ho sap des de fa anys: a casa sempre hi havia qui parava taula i qui desapareixia quan tocava fregar. A la consulta de psicologia de Barcelona ho veiem cada setmana: arriba una persona esgotada, amb l'agenda plena de cites mèdiques que no són seves, i una pregunta que es repeteix. Per què sóc jo?",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar de prop aquest repart: per què recau gairebé sempre en el mateix germà, quina història hi ha a sota i com es treballa a la teràpia. De fet, cuidar els pares grans fotografia les famílies. I a la foto, normalment, surten els papers de sempre.",
+      },
+      {
+        type: "heading",
+        text: "Cuidar els pares grans: què posa en marxa",
+      },
+      {
+        type: "paragraph",
+        text: "Cuidar els pares grans és la transició en què els fills passen a sostenir qui els sostenia. Té una part pràctica, és clar: cites mèdiques, medicació, diners i casa. Ara bé, la part difícil és una altra. Aquesta etapa desperta l'organització vella de la família, i cada germà tendeix a ocupar el lloc que ja coneixia, sense que ningú no ho negocïi en veu alta.",
+      },
+      {
+        type: "paragraph",
+        text: "El mapa general el sabem de memòria: normalment, la major part de la cura no remunerada recau en dones i, dins de cada família, es concentra en una sola persona. A més, acostuma a ser qui menys es queixa. Ja saps de qui parlem, oi? Al capdavall, la pregunta important no és quant fas. És si algú t'ho ha agraït aquesta setmana.",
+      },
+      {
+        type: "heading",
+        text: "El repart que ningú va signar",
+      },
+      {
+        type: "paragraph",
+        text: "Fa poc, una pacient va arribar a consulta amb l'agenda de la mare al mòbil: tres visites mèdiques en una setmana. És la germana del mig; el seu germà gran, en canvi, col·labora a distància. «No em fa res fer-ho», va dir en veu baixa. «El que em dol és que ja es doni per fet.»",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí hi ha tot, de fet. Ningú no va signar aquest repart: es va signar fa dècades, quan ella va aprendre que les coses s'arreglaven si algú se n'ocupava i el seu germà, que sempre hi hauria algú. Cuidar els pares grans no crea aquest guió. L'executa.",
+      },
+      {
+        type: "paragraph",
+        text: "Per això «ho faig perquè els estimo» i «no puc més» poden ser certes alhora, com ja vam veure parlant dels papers familiars. L'amor sosté el gest; el deute antic, en canvi, la impossibilitat de parar. Quina et mou a tu? Distingir-ho és mitja feina.",
+      },
+      {
+        type: "heading",
+        text: "Per què els fulls de càlcul no arreglen el repart",
+      },
+      {
+        type: "paragraph",
+        text: "El consell habitual és organitzatiu: una reunió familiar, una llista de tasques, un grup de WhatsApp. I a vegades funciona, de debò. Ara bé, quan hi ha ferides velles, la llista es converteix en un altre camp de batalla: qui la redacta ja mana, i qui respon tard ja falta. L'organització no cura el vincle; el revela.",
+      },
+      {
+        type: "paragraph",
+        text: "A la meva experiència clínica, a més, el problema gairebé mai no és d'agenda. És d'història: demanar ajuda al germà que mai no ha ajudat reactiva la vella dinàmica, i sona a la mateixa veu que ho organitzava tot quan era petit. Per tant, abans de repartir tasques cal poder parlar com adults d'allò que va quedar sense dir. Això sí: és més lent que un full de càlcul.",
+      },
+      {
+        type: "paragraph",
+        text: "Et sona el grup de WhatsApp on ningú no respon i una sola persona segueix escrivint?",
+      },
+      {
+        type: "heading",
+        text: "La culpa que sosté el desequilibri",
+      },
+      {
+        type: "paragraph",
+        text: "Per què no para qui ho sosté tot? Normalment, per culpa. La culpa de pensar en la residència. La culpa de dormir mentre la mare vetlla. La culpa, també, d'estar tan tipa. Aquest terreny ja el vam recórrer a l'article sobre la culpa que no descansa; aquí convé afegir un matís. La culpa funciona com a ciment del desequilibri, perquè fa que qualsevol «fins aquí» soni a traïció.",
+      },
+      {
+        type: "paragraph",
+        text: "Moltes vegades, a sota hi ha una lleialtat invisible: la sensació de deure als pares una vida que no es paga amb visites quinzenals. Però hi ha una veritat incòmoda: un cuidador esgotat no cuida millor; cuida pitjor i emmalalteix. Sostenir-te no és abandonar-los. És la condició per poder seguir.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a la teràpia familiar (i quan no hi ha acord)",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, quan els germans accepten venir, la teràpia familiar amb adults té un avantatge tècnic: el repart es discuteix davant de tothom. La sessió alenteix la conversa que a casa s'accelera. I allà apareixen les frases que ningú no gosava dir: «jo també tinc por de perdre-la», «jo no sé fer aquestes coses».",
+      },
+      {
+        type: "paragraph",
+        text: "Quan ningú no vol venir, en canvi, el treball individual mou el sistema: qui deixa de sostenir-ho tot obliga els altres a reaccionar. A més, la part pràctica de cuidar els pares grans té solucions a Barcelona: l'ajuda a domicili o els centres de dia. Per això el problema gairebé mai no és l'agenda: és la conversa pendent.",
+      },
+      {
+        type: "paragraph",
+        text: "Finalment, la meta no és un repart perfecte: és un repart que es pugui sostenir, amb noms reals i dates reals. La maduresa, aquí, és demanar en nom propi, sense cobrar el deute antic.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre cuidar els pares grans",
+      },
+      {
+        type: "heading",
+        text: "Un repart que es pugui sostenir",
+      },
+      {
+        type: "paragraph",
+        text: "Així doncs, aquesta setmana prova una cosa concreta: escriu la llista de tot el que fas pels teus pares sense que ningú t'ho hagi demanat. No l'enviïs: mira-la. Moltes persones hi descobreixen, per primera vegada, la mida real de la càrrega.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i famílies amb psicòlegs col·legiats, de manera presencial o en línia. Així doncs, si el repart de la teva família pesa només sobre tu, pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb els germans convençuts; n'hi ha prou amb arribar amb la pregunta.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És egoista dir que no puc amb més?",
+            answer:
+              "No. És realista. Un límit clar, dit a temps, sosté la relació amb els teus pares; el ressentiment silenciós, en canvi, la corroeix. A més, dir «fins aquí» obliga el sistema familiar a moure's.",
+          },
+          {
+            question: "I si els meus germans no volen parlar del repart?",
+            answer:
+              "Per tant, la feina comença amb tu. No pots obligar-los a seure; sí que pots deixar de compensar els seus silencis. A vegades, el canvi d'una sola persona reorganitza la família sencera; a vegades, senzillament, et retorna la llibertat de cuidar sense destruir-te. Les dues coses valen.",
+          },
+          {
+            question: "Quan cal teràpia familiar i quan individual?",
+            answer:
+              "La teràpia familiar encaixa quan hi ha voluntat de parlar i la relació es vol mantenir. La individual, quan primer necessites posar en ordre el teu vincle amb la culpa. Moltes vegades una porta a l'altra; comença on menys costi.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/blog/terapia-familiar-adultos", label: "«La teràpia familiar amb adults», l'article" },
+          { url: "/blog/padres-envejecen-duelo-anticipatorio-adultos", label: "«Quan els pares envelleixen», l'article" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "En muchas familias no hace falta preguntar quién se ocupará de cuidar a los padres mayores. De hecho, todos lo saben desde hace años: en la casa de siempre alguien ponía la mesa y otro desaparecía cuando tocaba fregar. En consulta de psicología en Barcelona lo vemos cada semana: llega una persona agotada, con la agenda llena de citas médicas que no son suyas, y una pregunta que se repite. ¿Por qué soy yo?",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar ese reparto de cerca: por qué recae casi siempre en el mismo hermano, qué historia hay debajo y cómo se trabaja en terapia. De hecho, cuidar a los padres mayores fotografía a las familias. Y en esa foto, normalmente, salen los papeles de siempre.",
+      },
+      {
+        type: "heading",
+        text: "Cuidar a los padres mayores: qué pone en marcha",
+      },
+      {
+        type: "paragraph",
+        text: "Cuidar a los padres mayores es la transición en la que los hijos pasan a sostener a quienes los sostuvieron. Tiene una parte práctica, claro: citas médicas, medicación, dinero y casa. Ahora bien, la parte difícil es otra. Esta etapa despierta la vieja organización de la familia, y cada hermano tiende a ocupar el sitio que ya conocía, sin que nadie lo negocie en voz alta.",
+      },
+      {
+        type: "paragraph",
+        text: "El mapa general lo sabemos de memoria: normalmente, la mayor parte del cuidado no remunerado recae en mujeres y, dentro de cada familia, se concentra en una sola persona. Además, suele ser quien menos se queja. Ya sabes de quién hablamos, ¿verdad? Al final, la pregunta importante no es cuánto haces. Es si alguien te lo ha agradecido esta semana.",
+      },
+      {
+        type: "heading",
+        text: "El reparto que nadie firmó",
+      },
+      {
+        type: "paragraph",
+        text: "Hace poco, una paciente llegó a consulta con la agenda de su madre en el móvil: tres visitas médicas en una semana. Es la hermana mediana; su hermano mayor, en cambio, colabora a distancia. «No me importa hacerlo», dijo en voz baja. «Me importa que ya se dé por hecho.»",
+      },
+      {
+        type: "paragraph",
+        text: "Ahí está todo, de hecho. Nadie firmó ese reparto: se firmó décadas atrás, cuando ella aprendió que las cosas se arreglaban si alguien se ocupaba y su hermano, que siempre habría alguien. Cuidar a los padres mayores no crea ese guion. Lo ejecuta.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso «lo hago porque los quiero» y «no puedo más» pueden ser ciertas a la vez, como ya vimos hablando de los papeles familiares. El amor sostiene el gesto; la deuda antigua, en cambio, la imposibilidad de parar. ¿Cuál te mueve a ti? Distinguirlo es la mitad del trabajo.",
+      },
+      {
+        type: "heading",
+        text: "Por qué las hojas de cálculo no arreglan el reparto",
+      },
+      {
+        type: "paragraph",
+        text: "El consejo habitual es organizativo: una reunión familiar, una lista de tareas, un grupo de WhatsApp. Y a veces funciona, de verdad. Ahora bien, cuando hay heridas viejas, la lista se convierte en otro campo de batalla: quien la redacta ya manda, y quien responde tarde ya falta. La organización no cura el vínculo; lo revela.",
+      },
+      {
+        type: "paragraph",
+        text: "En mi experiencia clínica, además, el problema casi nunca es de agenda. Es de historia: pedir ayuda al hermano que nunca ayudó reactiva la vieja dinámica, y suena a la misma voz que lo organizaba todo cuando era pequeño. Por tanto, antes de repartir tareas conviene poder hablar como adultos de lo que quedó sin decir. Eso sí: es más lento que una hoja de cálculo.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Te suena el grupo de WhatsApp donde nadie responde y una sola persona sigue escribiendo?",
+      },
+      {
+        type: "heading",
+        text: "La culpa que sostiene el desequilibrio",
+      },
+      {
+        type: "paragraph",
+        text: "¿Por qué no para quien sostiene todo? Normalmente, por culpa. La culpa de pensar en la residencia. La culpa de dormir mientras su madre vela. La culpa, también, de estar tan harta. Este terreno ya lo recorrimos en el artículo sobre la culpa que no descansa; aquí conviene añadir un matiz. La culpa funciona como cemento del desequilibrio, porque hace que cualquier «hasta aquí» suene a traición.",
+      },
+      {
+        type: "paragraph",
+        text: "Muchas veces, debajo hay una lealtad invisible: la sensación de deber a los padres una vida que no se paga con visitas quincenales. Pero hay una verdad incómoda: un cuidador agotado no cuida mejor; cuida peor y enferma. Sostenerse no es abandonarlos. Es la condición para poder seguir.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en terapia familiar (y cuando no hay acuerdo)",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, cuando los hermanos aceptan venir, la terapia familiar con adultos tiene una ventaja técnica: el reparto se discute delante de todos. La sesión vuelve lenta la conversación que en casa se acelera. Allí aparecen las frases que nadie se atrevía a decir: «yo también tengo miedo de perderla», «yo no sé hacer estas cosas».",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando nadie quiere venir, en cambio, el trabajo individual mueve el sistema: quien deja de sostenerlo todo obliga a los demás a reaccionar. Además, la parte práctica de cuidar a los padres mayores tiene soluciones en Barcelona: la ayuda a domicilio o los centros de día. Por eso el problema casi nunca es la agenda: es la conversación pendiente.",
+      },
+      {
+        type: "paragraph",
+        text: "Finalmente, la meta no es un reparto perfecto: es un reparto que se pueda sostener, con nombres reales y fechas reales. La madurez, aquí, es pedir en nombre propio, sin cobrar la deuda antigua.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre cuidar a los padres mayores",
+      },
+      {
+        type: "heading",
+        text: "Un reparto que se pueda sostener",
+      },
+      {
+        type: "paragraph",
+        text: "Así pues, esta semana prueba una cosa concreta: escribe la lista de todo lo que haces por tus padres sin que nadie te lo haya pedido. No la envíes: solo mírala. Muchas personas descubren allí, por primera vez, el tamaño real de su carga.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y familias con psicólogos colegiados, de forma presencial u online. Así pues, si el reparto de tu familia pesa solo sobre ti, puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con los hermanos convencidos; basta con llegar con la pregunta.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es egoísta decir que no puedo con más?",
+            answer:
+              "No. Es realista. Un límite claro, dicho a tiempo, sostiene la relación con tus padres; el resentimiento silencioso, en cambio, la corroe. Además, decir «hasta aquí» obliga al sistema familiar a moverse.",
+          },
+          {
+            question: "¿Y si mis hermanos no quieren hablar del reparto?",
+            answer:
+              "Por tanto, el trabajo empieza contigo. No puedes obligarlos a sentarse; sí puedes dejar de compensar sus silencios. A veces, el cambio de una sola persona reorganiza la familia entera; a veces, simplemente te devuelve la libertad de cuidar sin destruirte. Las dos cosas valen.",
+          },
+          {
+            question: "¿Cuándo conviene terapia familiar y cuándo individual?",
+            answer:
+              "La terapia familiar encaja cuando hay voluntad de hablar y la relación se quiere mantener. La individual, cuando necesitas ordenar primero tu propio vínculo con la culpa. Muchas veces una lleva a la otra; empieza donde menos cueste.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/blog/terapia-familiar-adultos", label: "«La terapia familiar con adultos», el artículo" },
+          { url: "/blog/padres-envejecen-duelo-anticipatorio-adultos", label: "«Cuando los padres envejecen», el artículo" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
   },
 ];

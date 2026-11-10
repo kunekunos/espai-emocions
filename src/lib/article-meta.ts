@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "cuidar-a-los-padres-mayores",
+    "categoryCA": "Família",
+    "categoryES": "Familia",
+    "titleCA": "Cuidar els pares grans: el repart que ningú va signar",
+    "titleES": "Cuidar a los padres mayores: el reparto que nadie firmó",
+    "excerptCA": "Cuidar els pares grans sol recaure en el mateix germà: el que sempre ha estat el responsable. Per què pesa tant i com es treballa el repart en teràpia.",
+    "excerptES": "Cuidar a los padres mayores suele recaer en el mismo hermano: el que siempre fue el responsable. Por qué pesa tanto y cómo se trabaja el reparto en terapia.",
+    "datePublished": "2026-11-10"
+  },
+  {
     "slug": "comer-por-ansiedad",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
@@ -22,7 +32,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "Comer por ansiedad es comer sin hambre, con la nevera abierta y la cabeza en otra parte. Por qué pasa y cómo se trabaja en consulta.",
     "datePublished": "2026-11-09"
   },
-
   {
     "slug": "hablar-del-pasado-en-terapia",
     "categoryCA": "Com funciona la teràpia",
@@ -33,7 +42,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "Hablar del pasado en la terapia no es buscar culpables: es entender por qué tu presente responde igual que hace veinte años. Qué se hace en consulta.",
     "datePublished": "2026-11-08"
   },
-
   {
     "slug": "duelo-ruptura-de-pareja",
     "categoryCA": "Parella",
@@ -44,7 +52,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "El duelo de una ruptura de pareja reorganiza una vida entera: la casa, la agenda, la identidad. Qué fases tiene, cuánto dura y cómo se trabaja en terapia.",
     "datePublished": "2026-11-07"
   },
-
   {
     "slug": "ansiedad-por-la-navidad",
     "categoryCA": "Família",
@@ -55,7 +62,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "La ansiedad en Navidad no la trae el turrón: la trae volver a un papel que ya no es tuyo. Qué ocurre en la mesa familiar y cómo se trabaja en consulta.",
     "datePublished": "2026-11-06"
   },
-
   {
     "slug": "rabia-contenida",
     "categoryCA": "Identitat",
