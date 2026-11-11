@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "procrastinacion-en-adultos",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "Procrastinació en adults: no és peresa, és evitació",
+    "titleES": "Procrastinación en adultos: no es pereza, es evitación",
+    "excerptCA": "La procrastinació en adults no és peresa: és la manera d'evitar el que la tasca et fa sentir. Què hi ha al darrere i com es treballa a consulta.",
+    "excerptES": "La procrastinación en adultos no es pereza: es la manera de evitar lo que la tarea te hace sentir. Qué hay detrás y cómo se trabaja en consulta.",
+    "datePublished": "2026-11-11"
+  },
+  {
     "slug": "cuidar-a-los-padres-mayores",
     "categoryCA": "Família",
     "categoryES": "Familia",

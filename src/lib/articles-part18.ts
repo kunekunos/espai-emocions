@@ -2155,7 +2155,8 @@ export const articlesPart18: ArticleContent[] = [
         ],
       },
     ],
-  },
+  },
+
   // --------------------------------------------------------------------------
   // 9. cuidar-a-los-padres-mayores (Família, 2026-11-10)
   // --------------------------------------------------------------------------
@@ -2418,6 +2419,300 @@ export const articlesPart18: ArticleContent[] = [
           { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
           { url: "/blog/terapia-familiar-adultos", label: "«La terapia familiar con adultos», el artículo" },
           { url: "/blog/padres-envejecen-duelo-anticipatorio-adultos", label: "«Cuando los padres envejecen», el artículo" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online" },
+        ],
+      },
+    ],
+  },
+
+  // --------------------------------------------------------------------------
+  // 10. procrastinacion-en-adultos (Ansietat, 2026-11-11)
+  // --------------------------------------------------------------------------
+  {
+    slug: "procrastinacion-en-adultos",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "Procrastinació en adults: no és peresa, és evitació",
+    titleES: "Procrastinación en adultos: no es pereza, es evitación",
+    excerptCA: "La procrastinació en adults no és peresa: és la manera d'evitar el que la tasca et fa sentir. Què hi ha al darrere i com es treballa a consulta.",
+    excerptES: "La procrastinación en adultos no es pereza: es la manera de evitar lo que la tarea te hace sentir. Qué hay detrás y cómo se trabaja en consulta.",
+    datePublished: "2026-11-11",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quina tasca portes setmanes ajornant? El correu que demana un canvi. La carta del banc. Aquella conversa pendent. Si ara mateix te n'ha vingut una al cap, la procrastinació en adults et toca més del que et pensaves. A la consulta de psicologia a Barcelona ho veig cada setmana i, tanmateix, gairebé mai arriba amb el seu nom: arriba pel malestar que deixa al darrere. Un son estrany. Una culpa de fons. Un dia ple de feina i, al capdavall, buit del que importa.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquest article volem mirar la procrastinació en adults de cara: què és exactament; per què les agendes i les aplicacions no la resolen; i com es treballa en psicoteràpia. De fet, t'avanço la resposta honesta: ajornar no és un problema de temps. És un problema d'emocions que fan servir el temps com a coartada.",
+      },
+      {
+        type: "heading",
+        text: "Procrastinació en adults: què és exactament",
+      },
+      {
+        type: "paragraph",
+        text: "La procrastinació en adults és l'ajornament sistemàtic d'una tasca concreta tot i conèixer-ne el cost. La persona sap que li convé fer-la; a més, sap fer-la. Tanmateix, la trasllada de setmana en setmana amb una destresa que espanta. La importància d'aquest patró és pràctica: no parla del teu calendari; parla de la teva relació amb el que la tasca et fa sentir.",
+      },
+      {
+        type: "paragraph",
+        text: "Fa poc, un pacient ho va resumir amb una frase que em vaig apuntar: «si sóc capaç de portar tot això, per què no sóc capaç d'una carta?». Portava tres mesos sense obrir una carta del banc. La carta pesava deu minuts; el seu negoci, en canvi, dotze hores diàries. La pregunta la feia amb ràbia. La resposta, però, no anava de capacitat.",
+      },
+      {
+        type: "heading",
+        text: "Per què l'agenda no és el problema",
+      },
+      {
+        type: "paragraph",
+        text: "El discurs de moda diu que la procrastinació és una qüestió de gestió del temps: divideix la tasca o posa't un temporitzador, per exemple. De fet, molta gent organitzada procrastina; la seva agenda és impecable i, tanmateix, la tasca continua allà. Per això els consells de productivitat funcionen tan malament en aquest terreny: ordenen el dia, però no toquen l'emoció que la tasca encén.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan una tasca s'ajorna, normalment hi ha una emoció al mig que ningú no posa a la llista. Pot ser por al judici, per exemple. O vergonya. O una ràbia antiga que la tasca desperta. La tasca és la pantalla; l'emoció, en canvi, és la pel·lícula.",
+      },
+      {
+        type: "paragraph",
+        text: "La distinció clínica és senzilla: la mandra descansa, però la procrastinació està tensa. Qui descansa no pensa en la tasca; qui procrastina, en canvi, hi pensa tres vegades al dia, amb culpa. Tu, en quin dels dos et reconeixes?",
+      },
+      {
+        type: "heading",
+        text: "Les tres postergacions que veiem a consulta",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta, la postergació adulta sol presentar-se en tres tipus. La distinció importa, perquè cadascun amaga una història diferent i demana, a més, una feina diferent.",
+      },
+      {
+        type: "paragraph",
+        text: "El primer és el perfeccionista: no comença perquè no pot començar prou bé. La tasca espera unes condicions ideals que, normalment, mai no arriben; ja en vam parlar a l'article sobre el perfeccionisme que paralitza. El segon és l'ambivalent: no és mandrós: és que encara no ha decidit. Ajorna la decisió i, de fet, ajornar és la seva manera de no dir-se la veritat. El tercer és el reactiu: la tasca li fa ràbia, perquè la viu com una exigència que ve de fora; per tant, ajornar és la seva rebel·lió en silenci.",
+      },
+      {
+        type: "paragraph",
+        text: "Distingir-los canvia la feina. Amb el perfeccionista es treballa l'exigència; amb l'ambivalent, la decisió pendent; amb el reactiu, el dret a dir que no en veu alta. La mateixa tasca ajornada, per tant, amaga tres històries. La teva, quina és?",
+      },
+      {
+        type: "heading",
+        text: "El cicle que s'alimenta sol",
+      },
+      {
+        type: "paragraph",
+        text: "La procrastinació s'aguanta perquè funciona una mica. La mecànica és la d'una targeta de crèdit: ajornar regala ara mateix una quota de calma i, després, carrega els interessos al futur.",
+      },
+      {
+        type: "paragraph",
+        text: "En el moment d'ajornar, el sistema nerviós s'alleuja de debó: la tensió baixa. Aquell alleujament és immediat i la culpa, en canvi, encara no ha arribat. Al cap d'una estona, però, la mateixa tasca torna amb la culpa afegida i ara pesa més. La tasca segueix sent igual de curta; el que creix, per tant, és la capa emocional que porta a sobre. Per això costa més obrir la carta al cap de tres mesos que el primer dia.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, moltes persones acaben ajornant per evitar la culpa d'haver ajornat, que ja pesa més que la tasca. Aquest és, en definitiva, el cercle que a consulta cal trencar primer.",
+      },
+      {
+        type: "heading",
+        text: "Quan ajornar avisa d'una altra cosa",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha dos avisos que cal prendre's seriosament. D'una banda, si has ajornat així des de sempre, amb papers perduts i agendes que es desfan, el terreny pot ser un TDAH en adults; el diagnòstic canvia el tractament i, de fet, ja el vam recórrer en el seu article. De l'altra, si a més tot costa més, el son es desfà i allò que abans t'agradava ja no diu res, la postergació pot ser el símptoma d'un estat depressiu. Una cosa és ajornar una carta; una altra, en canvi, és que tot s'hagi tornat carta.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa en psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La feina terapèutica comença per on no s'espera: per l'escena concreta del dia que t'asseus a fer-la i no la fas. «Dimarts, dos quarts de nou, em sec a taula, obro el portàtil i, en lloc del correu, endreço carpetes». En aquesta escena, normalment, hi ha tot: l'emoció que empeny, el gest que l'apaivaga i la culpa que arriba després. Quina és, exactament, la teva?",
+      },
+      {
+        type: "paragraph",
+        text: "A partir d'aquí, la feina té dues parts. La primera és reduir la tasca a la versió més petita: no «redactar el correu»: «obrir-lo i escriure'n la primera frase». La segona és practicar el sosteniment del malestar que apareix quan t'hi poses: deu minuts amb la tensió, sense fugir. La tasca, a més, sol sortir sola quan l'emoció deixa de fer soroll.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades convé una regla pràctica: ajornar amb data. «Avui no: dijous a les deu». Postergar amb data és una decisió; postergar sense data és, en canvi, una fuita. La diferència és tota la teva autonomia. I si ajornar s'ha tornat una manera de viure, aquest terreny, finalment, el vam recórrer a l'article sobre la vida que es fa petita per evitació.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la procrastinació en adults",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És procrastinació o mandra?",
+            answer: "Es distingeixen pel cos. Qui descansa, descansa: no pensa en la tasca i no en sent culpa. Qui procrastina, en canvi, està tens: hi pensa diverses vegades al dia, amb una culpa de fons que no el deixa. La mandra, al capdavall, no treu la son; la procrastinació sí.",
+          },
+          {
+            question: "Em passarà quan tingui menys feina?",
+            answer: "Normalment, no. La prova la tens els caps de setmana i les vacances: la tasca segueix allà i, a més, sense l'agenda que la justifica. El problema no és el volum; és l'emoció. Per tant, ordenar el dia ajuda, però no cura.",
+          },
+          {
+            question: "Serveixen el pomodoro i les aplicacions de concentració?",
+            answer: "Per organitzar-te, sí. Ara bé, si el bloqueig és emocional, l'aplicació esdevé sovint una altra manera de no mirar el que passa: planifiques llistes i, de fet, la tasca continua intacta. La tècnica ajuda quan ja t'hi pots posar; no és, tanmateix, el que et permet posar-t'hi.",
+          },
+          {
+            question: "Quan pot ser TDAH?",
+            answer: "Quan la postergació ve de sempre i toca totes les àrees, no una tasca concreta: papers perduts, per exemple, o compromisos que s'obliden cada setmana. Llavors convé una avaluació professional, perquè la feina és diferent i, de fet, més senzilla quan hi ha diagnòstic.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La carta continua damunt de la taula",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta setmana prova una sola cosa: agafa la tasca que has reconegut a l'inici de l'article i redueix-la a la versió més petita. Deu minuts, avui, amb el malestar al davant. Després apunta què has sentit just abans de fugir. Allà hi ha, al capdavall, la feina de debò: la tasca gairebé sempre es fa sola; l'emoció necessita companyia.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, amb sessions presencials o en línia. Així doncs, si portes mesos ajornant una decisió o una conversa, pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. No cal arribar amb la tasca feta; n'hi ha prou amb portar-la.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/blog/perfeccionismo-paraliza-adultos", label: "«Quan el perfeccionisme paralitza», l'article" },
+          { url: "/blog/tdah-adultos-como-reconocerlo", label: "«TDAH en adults», l'article" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Qué tarea llevas semanas aplazando? El correo que pide un cambio. La carta del banco. Esa conversación pendiente. Si ahora mismo te ha venido una a la cabeza, la procrastinación en adultos te toca más de lo que crees. En consulta de psicología en Barcelona lo vemos cada semana y, sin embargo, casi nunca llega por su nombre: llega por el malestar que deja detrás. Un sueño raro. Una culpa de fondo. Un día lleno de trabajo y, al final, vacío de lo importante.",
+      },
+      {
+        type: "paragraph",
+        text: "En este artículo queremos mirar la procrastinación en adultos de frente: qué es exactamente; por qué las agendas y las aplicaciones no la resuelven; y cómo se trabaja en psicoterapia. De hecho, te adelanto la respuesta honesta: posponer no es un problema de tiempo. Es un problema de emociones que usan el tiempo como coartada.",
+      },
+      {
+        type: "heading",
+        text: "Procrastinación en adultos: qué es exactamente",
+      },
+      {
+        type: "paragraph",
+        text: "La procrastinación en adultos es el aplazamiento sistemático de una tarea concreta aun conociendo su coste. La persona sabe que le conviene hacerla; además, sabe hacerla. Sin embargo, la traslada de semana en semana con una destreza que asusta. La importancia de este patrón es práctica: no habla de tu calendario; habla de tu relación con lo que la tarea te hace sentir.",
+      },
+      {
+        type: "paragraph",
+        text: "Hace poco, un paciente lo resumió con una frase que me apunté: «si soy capaz de llevar todo esto, ¿por qué no soy capaz de una carta?». Llevaba tres meses sin abrir una carta del banco. La carta pesaba diez minutos; su negocio, en cambio, doce horas diarias. La pregunta la hacía con rabia. La respuesta, sin embargo, no iba de capacidad.",
+      },
+      {
+        type: "heading",
+        text: "Por qué la agenda no es el problema",
+      },
+      {
+        type: "paragraph",
+        text: "El discurso de moda dice que la procrastinación es una cuestión de gestión del tiempo: divide la tarea o ponte un temporizador, por ejemplo. De hecho, mucha gente organizada procrastina; su agenda es impecable y, sin embargo, la tarea sigue ahí. Por eso los consejos de productividad funcionan tan mal en este terreno: ordenan el día, pero no tocan la emoción que la tarea enciende.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando una tarea se pospone, normalmente hay una emoción en medio que nadie pone en la lista. Puede ser miedo al juicio, por ejemplo. O vergüenza. O una rabia antigua que la tarea despierta. La tarea es la pantalla; la emoción, en cambio, es la película.",
+      },
+      {
+        type: "paragraph",
+        text: "La distinción clínica es sencilla: la pereza descansa, pero la procrastinación está tensa. Quien descansa no piensa en la tarea; quien procrastina, en cambio, piensa en ella tres veces al día, con culpa. ¿En cuál de las dos te reconoces?",
+      },
+      {
+        type: "heading",
+        text: "Las tres postergaciones que vemos en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, la postergación adulta suele presentarse en tres tipos. La distinción importa, porque cada uno esconde una historia distinta y pide, además, un trabajo distinto.",
+      },
+      {
+        type: "paragraph",
+        text: "El primero es el perfeccionista: no empieza porque no puede empezar bastante bien. La tarea espera unas condiciones ideales que, normalmente, no llegan nunca; ya lo recorrimos en el artículo sobre el perfeccionismo que paraliza. El segundo es el ambivalente: no es perezoso: es que todavía no ha decidido. Aplaza la decisión y, de hecho, aplazar es su manera de no decirse la verdad. El tercero es el reactivo: la tarea le da rabia, porque la vive como una exigencia que viene de fuera; por tanto, posponer es su rebelión en silencio.",
+      },
+      {
+        type: "paragraph",
+        text: "Distinguirlos cambia el trabajo. Con el perfeccionista se trabaja la exigencia; con el ambivalente, la decisión pendiente; con el reactivo, el derecho a decir que no en voz alta. La misma tarea aplazada, por tanto, esconde tres historias. La tuya, ¿cuál es?",
+      },
+      {
+        type: "heading",
+        text: "El ciclo que se alimenta solo",
+      },
+      {
+        type: "paragraph",
+        text: "La procrastinación se sostiene porque funciona un poco. La mecánica es la de una tarjeta de crédito: posponer regala ahora mismo una cuota de calma y, después, carga los intereses al futuro.",
+      },
+      {
+        type: "paragraph",
+        text: "En el momento de aplazar, el sistema nervioso se alivia de verdad: la tensión baja. Ese alivio es inmediato y la culpa, en cambio, todavía no ha llegado. Al rato, sin embargo, la misma tarea vuelve con la culpa añadida y ahora pesa más. La tarea sigue siendo igual de corta; lo que crece, por tanto, es la capa emocional que lleva encima. Por eso cuesta más abrir la carta a los tres meses que el primer día.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, muchas personas acaban posponiendo para evitar la culpa de haber pospuesto, que ya pesa más que la tarea. Ese es, en definitiva, el círculo que en consulta hay que romper primero.",
+      },
+      {
+        type: "heading",
+        text: "Cuando posponer avisa de otra cosa",
+      },
+      {
+        type: "paragraph",
+        text: "Hay dos avisos que conviene tomarse en serio. Por un lado, si has pospuesto así desde siempre; si los papeles se pierden y las agendas se deshacen, el terreno puede ser un TDAH en adultos; el diagnóstico cambia el tratamiento y, de hecho, ya lo recorrimos en su artículo. Por otro lado, si a todo le cuesta más y el sueño se deshace; si lo que antes te gustaba ya no dice nada, la postergación puede ser el síntoma de un estado depresivo. Una cosa es aplazar una carta; otra, en cambio, es que todo se haya vuelto carta.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo terapéutico empieza por donde no se espera: por la escena concreta del día en que te sientas a hacerla y no la haces. «Martes, ocho y media, me siento en la mesa, abro el portátil y, en lugar del correo, ordeno carpetas». En esa escena, normalmente, está todo: la emoción que empuja, el gesto que la calma y la culpa que llega después. ¿Cuál es, exactamente, la tuya?",
+      },
+      {
+        type: "paragraph",
+        text: "A partir de ahí, el trabajo tiene dos partes. La primera es reducir la tarea a su versión más pequeña: no «redactar el correo»: «abrirlo y escribir la primera frase». La segunda es practicar la sostención del malestar que aparece cuando te pones: diez minutos con la tensión, sin huir. La tarea, además, suele salir sola cuando la emoción deja de hacer ruido.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces conviene una regla práctica: aplazar con fecha. «Hoy no: el jueves a las diez». Posponer con fecha es una decisión; posponer sin fecha es, en cambio, una fuga. La diferencia es toda tu autonomía. Y si aplazar se ha vuelto una manera de vivir, ese terreno, finalmente, lo recorrimos en el artículo sobre la vida que se hace pequeña por evitación.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la procrastinación en adultos",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es procrastinación o pereza?",
+            answer: "Se distinguen por el cuerpo. Quien descansa, descansa: no piensa en la tarea y no siente culpa. Quien procrastina, en cambio, está tenso: piensa en ella varias veces al día, con una culpa de fondo que no le deja. La pereza, al final, no quita el sueño; la procrastinación sí.",
+          },
+          {
+            question: "¿Desaparecerá cuando tenga menos trabajo?",
+            answer: "Normalmente, no. La prueba la tienes los fines de semana y las vacaciones: la tarea sigue ahí y, además, sin la agenda que la justifica. El problema no es el volumen; es la emoción. Por tanto, ordenar el día ayuda, pero no cura.",
+          },
+          {
+            question: "¿Sirven el pomodoro y las aplicaciones de concentración?",
+            answer: "Para organizarte, sí. Ahora bien, si el bloqueo es emocional, la aplicación se convierte a menudo en otra manera de no mirar lo que pasa: planificas listas y, de hecho, la tarea sigue intacta. La técnica ayuda cuando ya te puedes poner; no es, sin embargo, lo que te permite ponerte.",
+          },
+          {
+            question: "¿Cuándo puede ser TDAH?",
+            answer: "Cuando la postergación viene de siempre y toca todas las áreas, no una tarea concreta: papeles perdidos, por ejemplo, o compromisos que se olvidan cada semana. Entonces conviene una evaluación profesional, porque el trabajo es distinto y, de hecho, más sencillo cuando hay diagnóstico.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La carta sigue encima de la mesa",
+      },
+      {
+        type: "paragraph",
+        text: "Esta semana prueba una sola cosa: toma la tarea que has reconocido al principio del artículo y redúcela a su versión más pequeña. Diez minutos, hoy, con el malestar delante. Después apunta qué has sentido justo antes de huir. Ahí está, al final, el trabajo de verdad: la tarea casi siempre se hace sola; la emoción necesita compañía.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, con sesiones presenciales u online. Así pues, si llevas meses aplazando una decisión o una conversación, puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. No hace falta llegar con la tarea hecha; basta con traerla.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/blog/perfeccionismo-paraliza-adultos", label: "«Cuando el perfeccionismo paraliza», el artículo" },
+          { url: "/blog/tdah-adultos-como-reconocerlo", label: "«TDAH en adultos», el artículo" },
           { url: "/psicoterapia-online", label: "Psicoterapia online" },
         ],
       },
