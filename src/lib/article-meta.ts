@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "soledad-del-teletrabajo",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "La soledat del teletreball: quan casa és l'oficina",
+    "titleES": "La soledad del teletrabajo: cuando la casa es la oficina",
+    "excerptCA": "La soledat del teletreball no es resol amb més videotrucades: és la manca de contacte sense agenda. Què la provoca i com es treballa a la consulta.",
+    "excerptES": "La soledad del teletrabajo no se arregla con más videollamadas: es la falta de contacto sin agenda. Qué la produce y cómo se trabaja en psicoterapia.",
+    "datePublished": "2026-11-12"
+  },
+  {
     "slug": "procrastinacion-en-adultos",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
