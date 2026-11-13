@@ -283,4 +283,269 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 2. dormir-en-habitaciones-separadas (Parella, 2026-11-13)
+  // --------------------------------------------------------------------------
+  {
+    slug: "dormir-en-habitaciones-separadas",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "Dormir en habitacions separades: símptoma o solució?",
+    titleES: "Dormir en habitaciones separadas: ¿síntoma o solución?",
+    excerptCA:
+      "Dormir en habitacions separades no sempre anuncia una crisi: sovint la prevé. Com distingir el símptoma de l'acord i com es treballa a teràpia de parella.",
+    excerptES:
+      "Dormir en habitaciones separadas no siempre anuncia una crisis: a veces la evita. Distingir el síntoma del acuerdo y cómo trabajarlo en terapia de pareja.",
+    datePublished: "2026-11-13",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quant fa que no us adormiu al mateix llit? Hi ha preguntes que ningú no fa en veu alta, i aquesta n'és una. A la consulta, el tema de dormir en habitacions separades sol entrar amb la veu baixa. A la teràpia de parella a Barcelona és una confidència. Una parella que es vol, que funciona de dia, però que de nit tanca dues portes. Fa poc vaig preguntar a un pacient per què ho explicava com qui demana perdó. «Perquè això ho fan les parelles que s'acaben», em va dir. I ho creu de debò. Ho sento gairebé cada setmana.",
+      },
+      {
+        type: "paragraph",
+        text: "Vull mirar aquí què vol dir, exactament, dormir separats. Quan és un acord que protegeix la parella; quan és un símptoma que l'avisa. També com es treballa a consulta quan pesa. T'avanço, doncs, la meva postura des del començament: el llit no és la relació. La pregunta que importa no és on dormiu; és si us busqueu en algun altre lloc de la casa.",
+      },
+      {
+        type: "heading",
+        text: "Dormir en habitacions separades: què és i què no és",
+      },
+      {
+        type: "paragraph",
+        text: "Dormir en habitacions separades és, literalment, una decisió domèstica. Cadascú s'estira al seu costat del passadís i tanca la seva porta. Els mitjans ho han batejat com a «divorci del son». El nom ja fa por. Tanmateix, a la consulta el fenomen és tan corrent que ningú no s'impressiona. Les enquestes d'aquests últims anys hi situen, segons el país i la pregunta que es faci, entre un quart i un terç de les parelles. Saber-ho serveix d'alguna cosa. No esteu sols, de fet: ni de bon tros.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, el mateix fet de dormir en habitacions separades pot voler dues coses oposades, i això és precisament el que el fa tan delicat d'interpretar. El llit, per si sol, no diu res de la salut d'una parella. El diagnòstic no el fa el plànol del pis. El fan les hores que esteu desperts.",
+      },
+      {
+        type: "heading",
+        text: "Quan dormir separats és un acord que funciona",
+      },
+      {
+        type: "paragraph",
+        text: "La llista de motius legítims és més llarga del que sembla. De veritat. Els roncs, els torns de nit, l'insomni de la perimenopausa o un TDAH que registra cada moviment de l'altre. Quan el cos descansa malament, tota la casa surt carregada. Menys paciència, més crítica, menys desig. De fet, hi ha parelles que, en separar els llits, recuperen el que el cansament els havia apagat.",
+      },
+      {
+        type: "paragraph",
+        text: "Recordo una parella d'anys enrere: ella tenia el son d'un ocell i ell roncava com un tractor. Quan van passar a dormir separats, ella va tornar a somriure als matins; al cap de dos mesos, també va tornar el desig. «Qui ens ho havia de dir», reia ella a consulta. «Pensàvem que era el principi del final i era el principi del descans». El desig, entre altres coses, necessita dormir.",
+      },
+      {
+        type: "paragraph",
+        text: "En aquests casos, l'habitació separada és una decisió, no pas un pronòstic: es va parlar i es va acordar. Sobretot, la parella continua buscant-se fora del llit. El cafè del matí compartit, el petó abans de tancar cada porta, el sofà de les nou del vespre. On queda l'encontre, quan el llit ja no és el lloc de trobada?",
+      },
+      {
+        type: "heading",
+        text: "Quan l'habitació separada és un símptoma",
+      },
+      {
+        type: "paragraph",
+        text: "El senyal d'alarma no és el fet de dormir separats: és com s'hi ha arribat. Ningú no ho va dir. Un dia els llençols van mudar d'habitació i ja no en van tornar. Quan la decisió no es parla i senzillament passa, el pis sol estar dibuixant el mapa emocional de la parella: la distància del passadís és la traducció física d'una altra distància.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un segon criteri: què més s'ha apagat? Si, a més del llit, s'han retirat la conversa i el contacte del migdia, el diagnòstic canvia. Llavors les habitacions separades no són la malaltia: són el símptoma visible d'alguna cosa que corre per dintre. Ja vam recórrer el silenci a la parella en el seu article; aquí val el mateix criteri. El problema no és el que no es diu al llit: és el que ja no es diu enlloc.",
+      },
+      {
+        type: "paragraph",
+        text: "I un tercer avis, el més callat: els significats asimètrics. Sovint un ho viu com a alleujament i l'altre com a rebuig, i ningú no ho ha preguntat. I pesa. Un dorm millor. L'altre, en canvi, s'està al llit escoltant la casa buida. Això, si no es diu, no es va sol.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "La feina comença per tres preguntes molt concretes: primera, qui ho va proposar i com es va prendre; segona, què significa, per a cadascú, aquesta porta tancada. Tercera, la meva preferida: si demà tornéssim a dormir junts, què passaria? La resposta, normalment, ho diu tot: uns hi posaran els roncs, i els altres, la distància.",
+      },
+      {
+        type: "paragraph",
+        text: "Després vénen els rituals. Sembla poca cosa, però una parella que dorm separada necessita inventar llocs i moments de trobada: el cafè del matí sense pantalles, el petó al replà, mitja hora de sofà. El llit feia aquesta funció sense que ningú no ho decidís; ara, en canvi, cal decidir-la. No és romàntic, ja ho sé. És fusteria domèstica, i funciona.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades, la feina és de dol: hi ha parelles que han d'acomiadar la idea del llit compartit com a prova d'amor. «Però ens estimem i no dormim junts: com és possible?». Doncs és possible. L'amor es mesura en llocs més interessants que un matalàs.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: dormir en habitacions separades",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal que una parella dormi en habitacions separades?",
+            answer: "Sí: entre un quart i un terç de les parelles ho fan sempre o de tant en tant. La normalitat, aquí, no la decideix el plànol del pis; la decideix la qualitat del vincle.",
+          },
+          {
+            question: "Dormir separats apaga el desig?",
+            answer: "El que més l'apaga és el cansament acumulat i les nits de son trencat. Hi ha parelles que el recuperen en separar els llits, i n'hi ha que el perden. El criteri, una altra vegada, és si us busqueu fora del llit o ja no us busqueu enlloc.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: quan cal consultar",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quan és un senyal d'alarma?",
+            answer: "Quan va arribar sense conversa i quan, a més del llit, s'ha retirat també el contacte del dia a dia. Si dormiu separats i no us reconeixeu en res més del que he descrit, toca parlar-ne amb algú.",
+          },
+          {
+            question: "Cal anar a teràpia si dormim en habitacions separades?",
+            answer: "No necessàriament. Si és un acord parlat que us fa bé, no hi ha res a reparar. Ara bé, si fa temps que la decisió viu en silenci o us pesa, una primera visita serveix per posar-hi paraules abans no creixi.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Aquesta setmana, una sola cosa",
+      },
+      {
+        type: "paragraph",
+        text: "Si dormiu separats, proveu una única cosa aquesta setmana. Trieu un moment de trobada que no sigui al llit i manteniu-lo cada dia. El cafè del matí, el petó al replà, mitja hora de sofà després de sopar. Diumenge al vespre, mireu enrere; responeu-vos honestament: com heu quedat? El cos i el calendari saben, abans que el cap, si aquesta distància us cuida o us desgasta.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, fem teràpia de parella amb psicòlegs col·legiats, presencialment o online. Si us pesa dormir en habitacions separades, ho podem mirar junts a la primera visita. La pots demanar des de la pàgina de contacte o per WhatsApp, també si només voleu entendre què us diu. I no cal que ho diguis amb la veu baixa; aquí aquesta confidència, t'ho asseguro, l'hem sentida moltes vegades.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/terapia-pareja-barcelona", label: "Teràpia de parella a Barcelona" },
+            { url: "/psicologo-barcelona", label: "Psicòlegs de parella a Barcelona" },
+            { url: "/blog/deseo-pareja-larga-duracion", label: "«El desig en la parella de molts anys», l'article" },
+            { url: "/blog/silencio-pareja", label: "«El silenci a la parella», l'article" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Cuánto hace que no os dormís en la misma cama? Hay preguntas que nadie hace en voz alta, y esta es una. En consulta, el tema de dormir en habitaciones separadas suele entrar con la voz baja. En la terapia de pareja en Barcelona es una confidencia. Una pareja que se quiere, que funciona de día, pero que de noche cierra dos puertas. Hace poco le pregunté a un paciente por qué lo explicaba como quien pide perdón. «Porque esto lo hacen las parejas que se están acabando», me dijo. Y lo cree de verdad. Lo escucho casi cada semana.",
+      },
+      {
+        type: "paragraph",
+        text: "Quiero mirar aquí qué significa, exactamente, dormir separados. Cuándo es un acuerdo que protege a la pareja; cuándo es un síntoma que la avisa. También cómo se trabaja en consulta cuando pesa. Te adelanto, pues, mi postura desde el principio: la cama no es la relación. La pregunta que importa no es dónde dormís; es si os buscáis en algún otro lugar de la casa.",
+      },
+      {
+        type: "heading",
+        text: "Dormir en habitaciones separadas: qué es y qué no es",
+      },
+      {
+        type: "paragraph",
+        text: "Dormir en habitaciones separadas es, literalmente, una decisión doméstica. Cada uno se estira en su lado del pasillo y cierra su puerta. Los medios lo han bautizado como «divorcio del sueño». El nombre asusta. Sin embargo, en consulta el fenómeno es tan corriente que nadie se impresiona. Las encuestas de estos últimos años sitúan, según el país y la pregunta que se haga, entre una cuarta parte y un tercio de las parejas. Saberlo sirve de algo. No estáis solos, de hecho: ni mucho menos.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, el mismo hecho de dormir en habitaciones separadas puede significar dos cosas opuestas, y eso es precisamente lo que lo hace tan delicado de interpretar. La cama, por sí sola, no dice nada de la salud de una pareja. El diagnóstico no lo hace el plano del piso. Lo hacen las horas que estáis despiertos.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo dormir separados es un acuerdo que funciona",
+      },
+      {
+        type: "paragraph",
+        text: "La lista de motivos legítimos es más larga de lo que parece. De verdad. Los ronquidos, los turnos de noche, el insomnio de la perimenopausia o un TDAH que registra cada movimiento del otro. Cuando el cuerpo descansa mal, toda la casa sale cargada. Menos paciencia, más crítica, menos deseo. De hecho, hay parejas que, al separar las camas, recuperan lo que el cansancio les había apagado.",
+      },
+      {
+        type: "paragraph",
+        text: "Recuerdo una pareja de hace años: ella tenía el sueño de un pájaro y él roncaba como un tractor. Cuando pasaron a dormir separados, ella volvió a sonreír por las mañanas; a los dos meses, también volvió el deseo. «Quién nos lo iba a decir», reía ella en consulta. «Pensábamos que era el principio del final y era el principio del descanso». El deseo, entre otras cosas, necesita dormir.",
+      },
+      {
+        type: "paragraph",
+        text: "En estos casos, la habitación separada es una decisión, no un pronóstico: se habló y se acordó. Sobre todo, la pareja sigue buscándose fuera de la cama. El café de la mañana compartido, el beso antes de cerrar cada puerta, el sofá de las nueve de la tarde. ¿Dónde queda el encuentro, cuando la cama ya no es el lugar de cita?",
+      },
+      {
+        type: "heading",
+        text: "Cuándo la habitación separada es un síntoma",
+      },
+      {
+        type: "paragraph",
+        text: "La señal de alarma no es el hecho de dormir separados: es cómo se ha llegado. Nadie lo dijo. Un día las sábanas mudaron de habitación y ya no volvieron. Cuando la decisión no se habla y simplemente pasa, el piso suele estar dibujando el mapa emocional de la pareja: la distancia del pasillo es la traducción física de otra distancia.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un segundo criterio: ¿qué más se ha apagado? Si, además de la cama, se han retirado la conversación y el contacto del mediodía, el diagnóstico cambia. Entonces las habitaciones separadas no son la enfermedad: son el síntoma visible de algo que corre por dentro. Ya recorrimos el silencio en la pareja en su artículo; aquí vale el mismo criterio. El problema no es lo que no se dice en la cama: es lo que ya no se dice en ninguna parte.",
+      },
+      {
+        type: "paragraph",
+        text: "Y un tercer aviso, el más callado: los significados asimétricos. A menudo uno lo vive como alivio y el otro como rechazo, y nadie lo ha preguntado. Y pesa. Uno duerme mejor. El otro, en cambio, se queda en la cama escuchando la casa vacía. Eso, si no se dice, no se va solo.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "El trabajo empieza por tres preguntas muy concretas: primera, quién lo propuso y cómo se tomó; segunda, qué significa, para cada uno, esa puerta cerrada. Tercera, mi preferida: si mañana volvierais a dormir juntos, ¿qué pasaría? La respuesta, normalmente, lo dice todo: unos pondrán encima los ronquidos, y otros, la distancia.",
+      },
+      {
+        type: "paragraph",
+        text: "Después vienen los rituales. Parece poca cosa, pero una pareja que duerme separada necesita inventar lugares y momentos de encuentro: el café de la mañana sin pantallas, el beso en el rellano, media hora de sofá. La cama hacía esa función sin que nadie lo decidiera; ahora, en cambio, hay que decidirla. No es romántico, ya lo sé. Es carpintería doméstica, y funciona.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, el trabajo es de duelo: hay parejas que tienen que despedir la idea de la cama compartida como prueba de amor. «Pero nos queremos y no dormimos juntos: ¿cómo es posible?». Pues es posible. El amor se mide en lugares más interesantes que un colchón.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: dormir en habitaciones separadas",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal que una pareja duerma en habitaciones separadas?",
+            answer: "Sí: entre una cuarta parte y un tercio de las parejas lo hacen siempre o de vez en cuando. La normalidad, aquí, no la decide el plano del piso; la decide la calidad del vínculo.",
+          },
+          {
+            question: "¿Dormir separados apaga el deseo?",
+            answer: "Lo que más lo apaga es el cansancio acumulado y las noches de sueño roto. Hay parejas que lo recuperan al separar las camas, y las hay que lo pierden. El criterio, otra vez, es si os buscáis fuera de la cama o ya no os buscáis en ninguna parte.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: cuándo conviene consultar",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuándo es una señal de alarma?",
+            answer: "Cuando llegó sin conversación y cuando, además de la cama, se ha retirado también el contacto del día a día. Si dormís separados y no os reconocéis en nada más de lo que he descrito, toca hablarlo con alguien.",
+          },
+          {
+            question: "¿Hay que ir a terapia si dormimos en habitaciones separadas?",
+            answer: "No necesariamente. Si es un acuerdo hablado que os hace bien, no hay nada que reparar. Ahora bien, si hace tiempo que la decisión vive en silencio o os pesa, una primera visita sirve para ponerle palabras antes de que crezca.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Esta semana, una sola cosa",
+      },
+      {
+        type: "paragraph",
+        text: "Si dormís separados, probad una única cosa esta semana. Elegid un momento de encuentro que no sea en la cama y mantenedlo cada día. El café de la mañana, el beso en el rellano, media hora de sofá después de cenar. El domingo por la noche, mirad atrás; respondeos con honestidad: ¿cómo habéis quedado? El cuerpo y el calendario saben, antes que la cabeza, si esa distancia os cuida o os desgasta.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, hacemos terapia de pareja con psicólogos colegiados, presencialmente u online. Si os pesa dormir en habitaciones separadas, lo podemos mirar juntos en la primera visita. La puedes pedir desde la página de contacto o por WhatsApp, también si solo queréis entender qué os dice. Y no hace falta que lo digas con la voz baja; aquí esta confidencia, te lo aseguro, la hemos oído muchas veces.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/terapia-pareja-barcelona", label: "Terapia de pareja en Barcelona" },
+            { url: "/psicologo-barcelona", label: "Psicólogos de pareja en Barcelona" },
+            { url: "/blog/deseo-pareja-larga-duracion", label: "«El deseo en la pareja de larga duración», el artículo" },
+            { url: "/blog/silencio-pareja", label: "«El silencio en la pareja», el artículo" },
+        ],
+      },
+    ],
+  },
 ];

@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "dormir-en-habitaciones-separadas",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "Dormir en habitacions separades: símptoma o solució?",
+    "titleES": "Dormir en habitaciones separadas: ¿síntoma o solución?",
+    "excerptCA": "Dormir en habitacions separades no sempre anuncia una crisi: sovint la prevé. Com distingir el símptoma de l'acord i com es treballa a teràpia de parella.",
+    "excerptES": "Dormir en habitaciones separadas no siempre anuncia una crisis: a veces la evita. Distingir el síntoma del acuerdo y cómo trabajarlo en terapia de pareja.",
+    "datePublished": "2026-11-13"
+  },
+  {
     "slug": "soledad-del-teletrabajo",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
