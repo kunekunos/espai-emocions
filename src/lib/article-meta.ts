@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "terapia-estancada",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "La teràpia estancada: quan el procés s'atura",
+    "titleES": "La terapia estancada: cuando el proceso se detiene",
+    "excerptCA": "La teràpia estancada no sempre anuncia un mal professional: sovint marca quan el procés toca el difícil. Com distingir les parades i què fer-hi.",
+    "excerptES": "La terapia estancada no siempre anuncia un mal profesional: suele marcar cuando el proceso toca lo difícil. Cómo distinguir las paradas y qué hacer.",
+    "datePublished": "2026-11-14"
+  },
+
+  {
     "slug": "dormir-en-habitaciones-separadas",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

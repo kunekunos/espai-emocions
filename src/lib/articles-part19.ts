@@ -548,4 +548,235 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 3. terapia-estancada (Com funciona la teràpia, 2026-11-14)
+  // --------------------------------------------------------------------------
+  {
+    slug: "terapia-estancada",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "La teràpia estancada: quan el procés s'atura",
+    titleES: "La terapia estancada: cuando el proceso se detiene",
+    excerptCA:
+      "La teràpia estancada no sempre anuncia un mal professional: sovint marca quan el procés toca el difícil. Com distingir les parades i què fer-hi.",
+    excerptES:
+      "La terapia estancada no siempre anuncia un mal profesional: suele marcar cuando el proceso toca lo difícil. Cómo distinguir las paradas y qué hacer.",
+    datePublished: "2026-11-14",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Tota teràpia té, tard o d'hora, un tram pla. Hi arribes després de mesos de pujada: parles, entens, connectes coses i, de cop, fa tres setmanes que no es mou res. La teràpia estancada és exactament això: la sensació sostinguda que un procés que funcionava s'ha aturat. Com a psicòleg de Barcelona et dic una cosa que potser no esperes: aquest moment, que gairebé tothom viu amb vergonya, és un dels més informatius de tot el recorregut.",
+      },
+      {
+        type: "paragraph",
+        text: "T'avanço la meva postura des del començament: una teràpia estancada no sempre és una teràpia mal portada. Sovint és tot el contrari: el que s'ha anat dient comença a fer feina per dintre, fora de la sessió i sense que ho vegis. Ara bé, no totes les parades són iguals. N'hi ha que pertanyen al procés i n'hi ha que el bloquegen. Aquí vull mirar com distingir-les i què fer-hi, des de la consulta.",
+      },
+      {
+        type: "heading",
+        text: "La teràpia estancada: què és exactament",
+      },
+      {
+        type: "paragraph",
+        text: "La teràpia estancada és la percepció, sostinguda durant setmanes, que el procés terapèutic no avança. Les sessions no deceben. Però tampoc no mouen res. La persona hi va, parla, surt; entre sessió i sessió, la vida segueix igual. La importància de posar-hi nom és pràctica: sense nom, la parada es viu com un fracàs. Amb nom, en canvi, es pot observar, i observar-la sol ser el principi del tram següent.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un tipus de parada que forma part del procés. El pa, després de pastar, ha de reposar abans de levar. Vist des de fora, no fa res. I tanmateix, és quan més creix. La feina psicològica té trams així. Setmanes en què la sessió sembla repetir-se i, mentrestant, el que s'ha anat dient treballa en silenci. Dorms millor, discuteixes d'una altra manera, o un tema que et parava ja no et para tant.",
+      },
+      {
+        type: "paragraph",
+        text: "Fa uns mesos, un pacient em va dir, fastiguejat: «no sé pas si això avança». Portàvem mig any. Li vaig preguntar per aquelles discussions amb el seu germà que el deixaven fet pols. «Ah, doncs fa tres setmanes no vam discutir, i vaig poder dir el que pensava sense acabar fent-me petit». Ell buscava el terratrèmol a la sessió; el moviment havia passat discret, a la seva vida. On busques el canvi tu: a la sessió, o el dilluns al matí?",
+      },
+      {
+        type: "heading",
+        text: "La parada que no és bona: l'evitació",
+      },
+      {
+        type: "paragraph",
+        text: "El segon tipus de teràpia estancada ja no és integració: és evitació. Hi ha un tema que cada setmana queda una mica més a la vora del mapa i ningú no el trepitja. Les sessions flueixen, sí, però flueixen perquè passen pel costat del que dol. Com ho reconeixes? Mira una sola cosa: la incomoditat. En un procés viu, alguna sessió toca carn i remou de tant en tant. Si fa mesos que surts de totes còmode i tranquil, alguna cosa s'està desviant. La incomoditat puntual no és un error del procés: és el senyal que s'està tocant alguna cosa viva.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquesta parada és traïdora perquè és agradable. Tothom s'hi troba bé: el terapeuta gaudeix de sessions còmodes, el pacient no pateix, i el procés, en canvi, s'asseca. Si sospites que és el teu cas, la bona notícia és que la sortida no és marxar: és dir-ho. Portar a sessió precisament això («hi ha un tema que sempre esquivo») ja és, en si mateix, trencar l'evitació.",
+      },
+      {
+        type: "heading",
+        text: "I si el que està aturat és l'enquadrament",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una tercera parada, la més silenciosa. De vegades, el que està estancat no és el pacient ni el vincle: és el muntatge. Una freqüència que ja no encaixa amb la teva setmana. Un format que ja no t'escau. O un professional que, per bo que sigui, no és el teu. En aquests casos, la pregunta útil no és «què faig malament?»; és «aquest marc encara em serveix?». Si el dubte persisteix, tens un article on ho tractem: «Puc canviar de psicòleg si no encaixo?».",
+      },
+      {
+        type: "paragraph",
+        text: "Canviar de psicòleg, dit sigui de passada, no és un fracàs de ningú: és una decisió de procés. Fa poc vaig acompanyar una pacient que va necessitar tres intents per trobar el seu terapeuta; avança com mai no havia avançat. El vincle, en aquest ofici, fa més que la tècnica: d'això ja en vam parlar a «El vincle terapèutic».",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Quan sospito una teràpia estancada, el primer que faig és dir-ho en veu alta, amb el pacient davant. «Portem unes setmanes que això no es mou: què et sembla si ho mirem?». Sembla poc. No ho és: la parada deixa de ser un secret que el pacient carrega tot sol i es converteix en material de treball.",
+      },
+      {
+        type: "paragraph",
+        text: "Després revisem el contracte del procés: què venies a buscar, on som, què falta. Aquesta revisió, cada tres o quatre mesos, estalvia mesos de deriva. I miro també la meva pròpia feina, que és incòmode de confessar: a vegades descobreixo que jo també m'havia instal·lat a la plana i que la sessió s'havia tornat una conversa agradable sobre temes de segona.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una prova senzilla que faig servir per distingir la parada bona de la dolenta: en parlem, a la sessió. Si en parlar-ne alguna cosa es remou (un record, un somni, una enrabiada), és del procés i continuarà. Si no es mou res, setmana rere setmana, potser el procés s'ha acabat. O potser el marc ja no serveix. Llavors toca una altra conversa, i també d'això ja vam parlar: «Quan la teràpia s'acaba».",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: la teràpia estancada",
+      },
+      {
+        type: "heading",
+        text: "Porta la parada a la sessió",
+      },
+      {
+        type: "paragraph",
+        text: "Si fa setmanes que la teva teràpia no es mou, fes una sola cosa aquesta setmana: escriu en un paper què venies a buscar quan vas començar i què has aconsegut fins ara. Dues línies ja hi ha prou. Porta el paper a la sessió següent i deixa'l sobre la taula, literalment. Un procés estancat que es parla es converteix, gairebé sempre, en la conversa més viva del mes.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, fem psicoteràpia per a adults i parelles, amb psicòlegs col·legiats, presencialment o en línia. Si estàs en teràpia i el procés s'ha aturat, o si fa temps que ensumes que necessites començar-ne una i no saps com, ho podem mirar plegats en una primera visita. La pots demanar des de la pàgina de contacte o escriure per WhatsApp. I si el que necessites és continuar on ets, també és una bona resposta. Aleshores porta la parada a la teva sessió i comença per aquí.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quant pot durar una fase així?",
+            answer: "En un procés corrent, unes quantes setmanes; en processos llargs, un o dos mesos. Si s'allarga més i no hi ha cap moviment per dintre, val la pena portar-ho a sessió. Callar-ho, en canvi, només allarga la parada.",
+          },
+          {
+            question: "He de dir al meu psicòleg que em sento estancat?",
+            answer: "Sí. És del material més valuós que hi pots portar. Cap terapeuta amb criteri no s'ofèn per això; més aviat ho agraeix, perquè obre el tram següent del procés.",
+          },
+          {
+            question: "I si és el psicòleg que no encaixa?",
+            answer: "Llavors també cal dir-ho. Un bon professional podrà parlar-ne sense posar-se a la defensiva i, de vegades, serà ell qui et derivi. Revisar el marc no és una traïció al procés: és part de la seva maduresa.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/cambiar-psicologo-no-encajo", label: "«Puc canviar de psicòleg si no encaixo?», l'article" },
+            { url: "/blog/cuando-la-terapia-se-acaba", label: "«Quan la teràpia s'acaba», l'article" },
+            { url: "/blog/el-vinculo-terapeutico-por-que-la-relacion-importa", label: "«El vincle terapèutic», l'article" },
+            { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Toda terapia tiene, tarde o temprano, un tramo plano. Llegas después de meses de subida: hablas, entiendes, conectas cosas y, de pronto, lleva tres semanas que no se mueve nada. La terapia estancada es exactamente eso: la sensación sostenida de que un proceso que funcionaba se ha detenido. Como psicólogo en Barcelona te digo algo que quizá no esperas: ese momento, que casi todo el mundo vive con vergüenza, es uno de los más informativos de todo el recorrido.",
+      },
+      {
+        type: "paragraph",
+        text: "Te adelanto mi postura desde el principio: una terapia estancada no siempre es una terapia mal llevada. A menudo es todo lo contrario: lo que se ha ido diciendo empieza a integrarse dentro, fuera de la sesión y sin que lo veas. Ahora bien, no todas las paradas son iguales. Hay paradas que pertenecen al proceso y paradas que lo bloquean. Aquí quiero mirar cómo distinguirlas y qué hacer con ellas, desde la consulta.",
+      },
+      {
+        type: "heading",
+        text: "La terapia estancada: qué es exactamente",
+      },
+      {
+        type: "paragraph",
+        text: "La terapia estancada es la percepción, sostenida durante semanas, de que el proceso terapéutico no avanza. Las sesiones no defraudan. Pero tampoco mueven nada. La persona acude, habla, sale; entre sesión y sesión, la vida sigue igual. La importancia de ponerle nombre es práctica: sin nombre, la parada se vive como un fracaso. Con nombre, en cambio, se puede observar, y observarla suele ser el principio del tramo siguiente.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un tipo de parada que forma parte del proceso. El pan, después de amasar, tiene que reposar antes de levar. Visto desde fuera, no hace nada. Y sin embargo, es cuando más crece. El trabajo psicológico tiene tramos así. Semanas en que la sesión parece repetirse y, mientras tanto, lo que se ha ido diciendo trabaja en silencio. Duermes mejor, discutes de otra manera, o un tema que te paraba ya no te para tanto.",
+      },
+      {
+        type: "paragraph",
+        text: "Hace unos meses, un paciente me dijo, harto: «no sé si esto avanza». Llevábamos medio año. Le pregunté por esas discusiones con su hermano que lo dejaban hecho polvo. «Ah, pues hace tres semanas no discutimos, y pude decir lo que pensaba sin acabarme haciendo pequeño». Él buscaba el terremoto en la sesión; el movimiento había ocurrido discreto, en su vida. ¿Dónde buscas tú el cambio: en la sesión, o el lunes por la mañana?",
+      },
+      {
+        type: "heading",
+        text: "La parada que no es buena: la evitación",
+      },
+      {
+        type: "paragraph",
+        text: "El segundo tipo de terapia estancada ya no es integración: es evitación. Hay un tema que cada semana queda un poco más al borde del mapa y nadie lo pisa. Las sesiones fluyen, sí, pero fluyen porque pasan por el lado de lo que duele. ¿Cómo lo reconoces? Mira una sola cosa: la incomodidad. En un proceso vivo, alguna sesión toca carne y remueve de vez en cuando. Si hace meses que sales de todas cómodo y tranquilo, algo se está desviando. La incomodidad puntual no es un error del proceso: es la señal de que se está tocando algo vivo.",
+      },
+      {
+        type: "paragraph",
+        text: "Esta parada es traicionera porque es agradable. Todos están a gusto: el terapeuta disfruta de sesiones cómodas, el paciente no sufre, y el proceso, en cambio, se seca. Si sospechas que es tu caso, la buena noticia es que la salida no es marcharte: es decirlo. Llevar a la sesión justo eso («hay un tema que siempre esquivo») ya es, en sí mismo, romper la evitación.",
+      },
+      {
+        type: "heading",
+        text: "Y si lo que está parado es el encuadre",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una tercera parada, la más silenciosa. A veces, lo que está estancado no es el paciente ni el vínculo: es el montaje. Una frecuencia que ya no encaja con tu semana. Un formato que ya no te sirve. O un profesional que, por bueno que sea, no es el tuyo. En estos casos, la pregunta útil no es «¿qué hago mal?»; es «¿este marco todavía me sirve?». Si la duda persiste, tienes un artículo donde lo tratamos: «¿Puedo cambiar de psicólogo si no encajo?».",
+      },
+      {
+        type: "paragraph",
+        text: "Cambiar de psicólogo, dicho sea de paso, no es un fracaso de nadie: es una decisión de proceso. Hace poco acompañé a una paciente que necesitó tres intentos para encontrar a su terapeuta; hoy avanza como nunca había avanzado. El vínculo, en este oficio, hace más que la técnica: de eso ya hablamos en «El vínculo terapéutico».",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando sospecho una terapia estancada, lo primero que hago es decirlo en voz alta, con el paciente delante. «Llevamos unas semanas en que esto no se mueve: ¿te parece si lo miramos?». Parece poco. No lo es: la parada deja de ser un secreto que el paciente carga él solo y se convierte en material de trabajo.",
+      },
+      {
+        type: "paragraph",
+        text: "Después revisamos el contrato del proceso: a qué venías, dónde estamos, qué falta. Esa revisión, cada tres o cuatro meses, ahorra meses de deriva. Y miro también mi propio trabajo, que es incómodo confesar: a veces descubro que yo también me había instalado en la llanura y que la sesión se había vuelto una conversación agradable sobre temas de segunda.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una prueba sencilla que uso para distinguir la parada buena de la mala: hablamos de la parada, en la sesión. Si al hablar de ella algo se remueve (un recuerdo, un sueño, una rabia), es del proceso y seguirá. Si no se mueve nada, semana tras semana, quizá el proceso se ha terminado. O quizá el marco ya no sirve. Entonces toca otra conversación, y también de eso hablamos: «Cuando la terapia se acaba».",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: la terapia estancada",
+      },
+      {
+        type: "heading",
+        text: "Lleva la parada a la sesión",
+      },
+      {
+        type: "paragraph",
+        text: "Si hace semanas que tu terapia no se mueve, haz una sola cosa esta semana: escribe en un papel a qué venías buscando cuando empezaste y qué has conseguido hasta ahora. Dos líneas bastan. Lleva el papel a la sesión siguiente y ponlo sobre la mesa, literalmente. Un proceso estancado que se habla se convierte, casi siempre, en la conversación más viva del mes.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, hacemos psicoterapia para adultos y parejas, con psicólogos colegiados, presencialmente u online. Si estás en terapia y el proceso se ha detenido, o si hace tiempo que sospechas que necesitas empezar una y no sabes cómo, podemos mirarlo juntos en una primera visita. Puedes pedirla desde la página de contacto o escribirnos por WhatsApp. Y si lo que necesitas es continuar donde estás, también es una buena respuesta. Entonces lleva la parada a tu sesión y empieza por ahí.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto puede durar una fase así?",
+            answer: "En un proceso corriente, unas cuantas semanas; en procesos largos, uno o dos meses. Si se alarga más y no hay ningún movimiento dentro, vale la pena llevarlo a sesión. Callarlo, en cambio, solo alarga la parada.",
+          },
+          {
+            question: "¿Debo decirle a mi psicólogo que me siento estancado?",
+            answer: "Sí. Es del material más valioso que puedes llevar. Ningún terapeuta con criterio se ofende por esto; más bien lo agradece, porque abre el tramo siguiente del proceso.",
+          },
+          {
+            question: "¿Y si es el psicólogo quien no encaja?",
+            answer: "Entonces también hay que decirlo. Un buen profesional podrá hablarlo sin ponerse a la defensiva y, a veces, será él quien te derive. Revisar el marco no es una traición al proceso: es parte de su madurez.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/cambiar-psicologo-no-encajo", label: "«¿Puedo cambiar de psicólogo si no encajo?», el artículo" },
+            { url: "/blog/cuando-la-terapia-se-acaba", label: "«Cuando la terapia se acaba», el artículo" },
+            { url: "/blog/el-vinculo-terapeutico-por-que-la-relacion-importa", label: "«El vínculo terapéutico», el artículo" },
+            { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];
