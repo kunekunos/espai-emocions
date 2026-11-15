@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "sindrome-nido-vacio",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitals",
+    "titleCA": "Síndrome del niu buit: quan els fills marxen de casa",
+    "titleES": "Síndrome del nido vacío: cuando los hijos se van de casa",
+    "excerptCA": "La síndrome del niu buit no és tristesa passatgera: toca la identitat de mare o de pare. Què passa quan els fills marxen i com es treballa a teràpia.",
+    "excerptES": "El síndrome del nido vacío no es tristeza pasajera: toca tu identidad de madre o de padre. Qué ocurre cuando los hijos se van y cómo se trabaja en terapia.",
+    "datePublished": "2026-11-15"
+  },
+
+  {
     "slug": "terapia-estancada",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",

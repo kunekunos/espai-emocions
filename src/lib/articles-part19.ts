@@ -779,4 +779,235 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 4. sindrome-nido-vacio (Canvis vitals, 2026-11-15)
+  // --------------------------------------------------------------------------
+  {
+    slug: "sindrome-nido-vacio",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitals",
+    titleCA: "Síndrome del niu buit: quan els fills marxen de casa",
+    titleES: "Síndrome del nido vacío: cuando los hijos se van de casa",
+    excerptCA:
+      "La síndrome del niu buit no és tristesa passatgera: toca la identitat de mare o de pare. Què passa quan els fills marxen i com es treballa a teràpia.",
+    excerptES:
+      "El síndrome del nido vacío no es tristeza pasajera: toca tu identidad de madre o de padre. Qué ocurre cuando los hijos se van y cómo se trabaja en terapia.",
+    datePublished: "2026-11-15",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "La casa sona diferent el primer dia. Ho notes en tancar la porta: ningú respon des del passadís. La rentadora també va a mig carregament, i el tamboret de la cuina queda on era, sense amo. Cada setembre, Barcelona s'omple de furgonetes de mudances davant de pisos d'estudiants, i cada setembre arriba a la consulta de psicologia algú amb la mateixa frase maldestra: «no sé què em passa, però aquesta casa pesa». Aquest pes fa dècades que té nom: síndrome del niu buit. Avui vull mirar-lo de prop, perquè el nom es queda curt i perquè convé distingir-lo bé de la depressió i del simple fet d'enyorar.",
+      },
+      {
+        type: "paragraph",
+        text: "Fa poc, la M. em va descriure el moment exacte. Té 53 anys, dos fills fora i la petita acabada d'instal·lar a la universitat, en una altra ciutat. «El que em desarma no és el sopar», em va dir. «És la nevera: segueixo comprant per a quatre i som dos.» A consulta, la síndrome del niu buit gairebé mai no comença amb la paraula tristesa. Comença amb neveres, amb habitacions que es deixen intactes, amb horaris que ja no existeixen. A mi m'interessa aquest terreny concret, i cap a ell anem.",
+      },
+      {
+        type: "heading",
+        text: "Què és la síndrome del niu buit",
+      },
+      {
+        type: "paragraph",
+        text: "La síndrome del niu buit és el malestar que apareix quan els fills marxen de casa i l'estructura que organitzava la teva vida es retira amb ells. No és una malaltia. És una transició normativa: la vida canvia de mida i cal canviar-hi amb ella. Apareix sobretot entre els 45 i els 55 anys. Sol durar d'unes setmanes a uns mesos i no li passa a tothom per igual. La importància de posar-hi nom és pràctica: mentre ho dius «mandra» o «edat», no ho treballes. De fet, sense nom, el cos ho tradueix a cansament o a irritabilitat.",
+      },
+      {
+        type: "paragraph",
+        text: "Però hi ha una peça que desorienta tothom: aquí el fill no ha mort. És un dol rar, un dol sense pèrdua. Si t'hi fixes un moment, el perdut sí que existeix: perds el lloc de feina que has ocupat durant vint anys, el de mare o el de pare. Ningú t'acomiada d'aquest lloc. Ningú et firma l'acta. Tanmateix, ja no l'exerceixes. Et sona, l'escena del tamboret sense amo?",
+      },
+      {
+        type: "heading",
+        text: "No és una síndrome: és un rol que es queda sense feina",
+      },
+      {
+        type: "paragraph",
+        text: "T'he de confessar una incomoditat amb el nom. «Síndrome» sona a diagnòstic d'una època que només mirava la mare quan la casa es quedava sense ordres. De fet, a consulta el veig també en pares: arriba més tard i més callat, amb irritabilitat, jornades interminables, un malestar que s'instal·la al cos. A les mares se'ls diagnostica el buit. Als pares, en canvi, se'ls entretingué amb la feina. Tots dos són en el mateix, amb permisos diferents per dir-ho.",
+      },
+      {
+        type: "paragraph",
+        text: "Fins i tot hi ha més. A vegades el que s'ensora no és la relació amb el fill: és l'agenda. Durant dues dècades el rol de mare o de pare ha estat l'eix de la teva identitat: organitzava els dies i les converses. Per això, quan aquest eix es retira, queden dues preguntes òrfenes: qui soc quan no em necessiten, i de què parlo amb la meva parella si ja no hi ha logística per gestionar. La segona pregunta ja la vam recórrer a fons a «La parella després de la cria»; avui em quedo amb la primera.",
+      },
+      {
+        type: "heading",
+        text: "Senyals: quan el buit comença a pesar",
+      },
+      {
+        type: "paragraph",
+        text: "A veure, enyorar és sa. Fa mal una estona; punxa amb les trucades i amb les dates assenyalades, i després segueix. El que cal mirar és una altra cosa: que el buit no punxi, que s'instal·li. Com es nota? Hi ha senyals domèstiques força clares. Per exemple, la setmana té hores soltes que ningú omple. La nevera segueix en mode família nombrosa. L'habitació del fill es conserva com un museu, o es buida amb una pressa que també diu alguna cosa de tu. I hi ha senyals d'ànim: una irritabilitat que no quadra amb res, un plor sense motiu aparent al passadís del súper.",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta que més escolto en aquests casos mereix resposta: «això és depressió o és normal?». El meu criteri, de fer-hi peu, és l'horari. Si el dolor té horari (el sopar, el telèfon de les nou o el diumenge) i encara gaudeixes de coses concretes, sol ser un dol de transició. Si, en canvi, l'ànim va pla tot el dia i l'interès s'apaga en gairebé tot durant setmanes, s'assembla més a un estat depressiu; convé valorar-ho amb un professional. D'això ja vam parlar a «Quan tot costa més»; el criteri de consulta és el mateix.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa en psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "La primera pregunta que faig a consulta no és «com estàs?». És «quina hora del dia pesa més?». El buit no ocupa la setmana sencera: ocupa les hores on vivia el rol. L'hora del sopar. La d'anar a buscar. La de saber on era tothom. Treballem aquesta hora concreta, no la casa sencera, perquè és allà on el cos nota el canvi.",
+      },
+      {
+        type: "paragraph",
+        text: "La segona pregunta és més lenta: què hi havia dins del rol, a més del fill? A vegades hi havia agenda. A vegades propòsit. A vegades, l'única manera de sentir-se estimat que algú tenia. Convé saber-ho amb precisió, perquè cada resposta demana una reparació diferent.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest procés, a més, té calendari. El primer curs sencer sol ser el tram difícil, perquè la casa aprèn a poc a poc els seus horaris nous. Octubre pesa més que juny. Quan arriba el segon setembre, gairebé tothom descobreix que l'inventari d'absències ja no fa tanta por.",
+      },
+      {
+        type: "paragraph",
+        text: "Després ve un dol que la nostra cultura fa malament: el dol per la versió de tu que ja no cal. «La mare que sabia on era tothom», em va dir la M. una tarda, amb un orgull que feia mal. Aquesta versió se'n va, i se'n va amb dret. A consulta li donem el seu lloc: es posa nom i s'agraeix; després s'acomiada, sense pressa. I al final hi ha una notícia bona que gairebé ningú anticipa: la relació amb el fill no es perd. Canvia de canal. De les ordres passa a la conversa, i molts pares descobreixen, de fet, que la segona meitat del vincle pot ser millor que la primera.",
+      },
+      {
+        type: "heading",
+        text: "La casa es pot tornar a omplir",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, hi ha una manera d'espatllar-ho: omplir el forat corrents. Apuntar-se a tot, ocupar cada hora, silenciar la casa amb activitat. El buit no es tapa amb gimnàs ni amb cursos de cuina; es converteix en cansament. La casa s'omple escollint, no fugint. I els fills ho agraeixen, perquè un pare o una mare amb vida pròpia és el millor regal per a un fill que comença la seva.",
+      },
+      {
+        type: "paragraph",
+        text: "Una sola cosa per a aquesta setmana, si et reconeixes en el que has llegit: escriu quina hora del dia fa mal i què hi havia, en aquesta hora, abans de la mudança. Dues línies basten. Aquest exercici, que sembla petit, és el mapa exacte de la feina pendent. Serveix igual si penses començar teràpia com si ja hi ets a dins.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o en línia. Si aquesta tardor la teva casa ha canviat de mida i el buit pesa més del que t'esperaves, ho podem mirar junts en una primera visita. La pots demanar des de la pàgina de contacte o escriure'ns per WhatsApp. Porta amb tu l'hora concreta que fa mal: és el millor lloc per on començar.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quant pot durar la síndrome del niu buit?",
+            answer: "En la majoria de casos, de poques setmanes a uns mesos. Els alts i baixos solen venir amb les trucades i amb les dates assenyalades. Si al cap de sis mesos no cedeix, o va a més, convé consultar-ho: a vegades el buit ha destapat alguna cosa que ja hi era abans.",
+          },
+          {
+            question: "Els passa també als pares?",
+            answer: "Sí, i probablement més del que es diu. En els pares sol arribar més tard i més disfressat: excés de feina, irritabilitat, distància. Com que tenen menys permís social per dir «aquesta casa em pesa», triguen més a demanar ajuda.",
+          },
+          {
+            question: "Es pot preparar abans que passi?",
+            answer: "En part, sí. L'últim any de convivència és un bon moment per recuperar espais propis que no depenguin del rol: amistats, projectes, parella. El buit no s'evita; de fet, és sa sentir-lo. El que es pot preparar és el que queda a sota: alguna cosa pròpia que sostingui la mudança.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/pareja-despues-crianza-hijos-crecen-descubris-desconocidos", label: "«La parella després de la cria», l'article" },
+            { url: "/blog/estados-depresivos-edad-adulta-cuando-todo-cuesta-mas", label: "«Quan tot costa més», l'article" },
+            { url: "/blog/duelo-fechas-senhaladas", label: "«El dol en dates assenyalades», l'article" },
+            { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "La casa suena distinto el primer día. Lo notas al cerrar la puerta: ya nadie responde desde el pasillo. La lavadora va con media carga, y el taburete de la cocina queda donde estaba, sin dueño. Cada septiembre, Barcelona se llena de furgonetas de mudanzas frente a pisos de estudiantes, y cada septiembre llega a consulta de psicología alguien con la misma frase torpe: «no sé qué me pasa, pero esta casa pesa». Ese peso tiene nombre desde hace décadas: síndrome del nido vacío. Hoy quiero mirarlo de cerca, porque el nombre se queda corto y porque conviene distinguirlo bien de la depresión y del simple hecho de echar de menos.",
+      },
+      {
+        type: "paragraph",
+        text: "Hace poco, M. me describió el momento exacto. Tiene 53 años, dos hijos fuera y la pequeña recién instalada en la carrera, en otra ciudad. «Lo que me desarma no es la cena», me dijo. «Es la nevera: sigo comprando para cuatro y somos dos.» En consulta, el síndrome del nido vacío casi nunca empieza con la palabra tristeza. Empieza con neveras, con habitaciones que se dejan intactas, con horarios que ya no existen. A mí me interesa ese terreno concreto, y hacia él vamos.",
+      },
+      {
+        type: "heading",
+        text: "Qué es el síndrome del nido vacío",
+      },
+      {
+        type: "paragraph",
+        text: "El síndrome del nido vacío es el malestar que aparece cuando los hijos se van de casa y la estructura que organizaba tu vida se retira con ellos. No es una enfermedad. Es una transición normativa: la vida cambia de tamaño y hay que cambiar con ella. Aparece sobre todo entre los 45 y los 55 años. Suele durar de unas semanas a unos meses y no le pasa a todo el mundo por igual. La importancia de ponerle nombre es práctica: mientras lo llamas flojedad o edad, no lo trabajas. De hecho, sin nombre, el cuerpo lo traduce a cansancio o a irritabilidad.",
+      },
+      {
+        type: "paragraph",
+        text: "Pero hay una pieza que despista a todos: aquí el hijo no ha muerto. Es un duelo raro, un duelo sin pérdida. Si te fijas un momento, lo perdido sí existe: pierdes el puesto de trabajo que has ocupado durante veinte años, el de madre o el de padre. Nadie te despide de ese puesto. Nadie firma tu acta. Sin embargo, ya no lo ejerces. ¿Te suena la escena del taburete sin dueño?",
+      },
+      {
+        type: "heading",
+        text: "No es un síndrome: es un rol que se queda sin trabajo",
+      },
+      {
+        type: "paragraph",
+        text: "Te confieso una incomodidad con el nombre. «Síndrome» suena a diagnóstico de una época que solo miraba a la madre cuando la casa se quedaba sin órdenes. De hecho, en consulta lo veo también en padres. En ellos llega más tarde y más callado: irritabilidad, jornadas infinitas, un malestar que se instala en el cuerpo. A las madres se les diagnostica el vacío. A los padres, en cambio, se les entretiene con el trabajo. Los dos están en lo mismo, con permisos distintos para decirlo.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay más. A veces lo que se hunde no es la relación con el hijo: es la agenda. Durante dos décadas el rol de madre o de padre fue el eje de tu identidad: organizaba los días y las conversaciones. Cuando ese eje se retira, quedan dos preguntas huérfanas: quién soy cuando no me necesitan, y de qué hablo con mi pareja si ya no hay logística que gestionar. La segunda pregunta ya la recorrimos a fondo en «La pareja después de la crianza»; hoy me quedo con la primera.",
+      },
+      {
+        type: "heading",
+        text: "Las señales: cuándo el vacío pesa",
+      },
+      {
+        type: "paragraph",
+        text: "A ver, echar de menos es sano. Duele un rato; punza con las llamadas y con las fechas señaladas, y después sigue. Lo que conviene mirar es otra cosa: que el vacío no punce, que se instale. ¿Cómo se nota? Hay señales domésticas bastante claras. Por ejemplo, la semana tiene horas sueltas que nadie llena. La nevera sigue en modo familia numerosa. La habitación del hijo se conserva como un museo, o se vacía con una prisa que también dice algo de ti. Y hay señales de ánimo: una irritabilidad que no encaja con nada, un llanto sin motivo aparente en el pasillo del súper.",
+      },
+      {
+        type: "paragraph",
+        text: "La pregunta que más escucho en estos casos merece respuesta: «¿esto es depresión o es normal?». Mi criterio, de andar por casa, es el horario. Si el dolor tiene horario (la cena, el teléfono de las nueve o el domingo) y todavía disfrutas de cosas concretas, suele ser un duelo de transición. Si, en cambio, el ánimo va plano todo el día y el interés se apaga en casi todo durante semanas, se parece más a un estado depresivo; conviene valorarlo con un profesional. De eso ya hablamos en «Cuando todo cuesta más»; el criterio de consulta es el mismo.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "La primera pregunta que hago en consulta no es «¿cómo estás?». Es «¿qué hora del día pesa más?». El vacío no ocupa la semana entera: ocupa las horas donde vivía el rol. La hora de la cena. La de recoger. La de saber dónde estaba todo el mundo. Trabajamos esa hora concreta, no la casa entera, porque es ahí donde el cuerpo nota el cambio.",
+      },
+      {
+        type: "paragraph",
+        text: "La segunda pregunta es más lenta: ¿qué había dentro del rol, además del hijo? A veces había agenda. A veces propósito. A veces, la única manera de sentirse querido que alguien tenía. Conviene saberlo con precisión, porque cada respuesta pide una reparación distinta.",
+      },
+      {
+        type: "paragraph",
+        text: "Este proceso, además, tiene calendario. El primer curso entero suele ser el tramo difícil, porque la casa aprende despacio sus horarios nuevos. Octubre pesa más que junio. Cuando llega el segundo septiembre, casi todo el mundo descubre que el inventario de ausencias ya no da tanto miedo.",
+      },
+      {
+        type: "paragraph",
+        text: "Después viene un duelo que nuestra cultura hace mal: el duelo por la versión de ti que ya no hace falta. «La madre que sabía dónde estaba todo el mundo», me dijo M. una tarde, con un orgullo que dolía. Esa versión se va, y se va con derecho. En consulta le damos su sitio: se nombra y se agradece; después se despide, sin prisa. Y al final hay una noticia buena que casi nadie anticipa: la relación con el hijo no se pierde. Cambia de canal. De las órdenes pasa a la conversación, y muchos padres descubren, de hecho, que la segunda mitad del vínculo puede ser mejor que la primera.",
+      },
+      {
+        type: "heading",
+        text: "La casa se puede volver a llenar",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, hay una manera de estropearlo: llenar el hueco a toda prisa. Apuntarse a todo, ocupar cada hora, silenciar la casa con actividad. El vacío no se tapa con gimnasio ni con cursos de cocina; se convierte en cansancio. La casa se llena eligiendo, no huyendo. Y los hijos lo agradecen, porque un padre o una madre con vida propia es el mejor regalo para un hijo que empieza la suya.",
+      },
+      {
+        type: "paragraph",
+        text: "Una sola cosa para esta semana, si te reconoces en lo que has leído: escribe qué hora del día duele y qué había dentro de esa hora antes de la mudanza. Dos líneas bastan. Ese ejercicio, que parece pequeño, es el mapa exacto del trabajo pendiente. Sirve igual si piensas empezar terapia que si ya estás dentro.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y a parejas con psicólogos colegiados, en sesión presencial u online. Si este otoño tu casa ha cambiado de tamaño y el vacío pesa más de lo esperabas, lo podemos mirar juntos en una primera visita. Puedes pedirla desde la página de contacto o escribirnos por WhatsApp. Trae contigo la hora concreta que duele: es el mejor sitio por donde empezar.",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuánto puede durar el síndrome del nido vacío?",
+            answer: "En la mayoría de casos, de unas semanas a unos meses. Los altibajos suelen venir con las llamadas y con las fechas señaladas. Si al cabo de seis meses no cede, o va a más, conviene consultarlo: a veces el vacío ha destapado algo que ya estaba antes.",
+          },
+          {
+            question: "¿Les pasa también a los padres?",
+            answer: "Sí, y probablemente más de lo que se dice. En los padres suele llegar más tarde y más disfrazado: exceso de trabajo, irritabilidad, distancia. Como tienen menos permiso social para decir «esta casa me pesa», tardan más en pedir ayuda.",
+          },
+          {
+            question: "¿Se puede preparar antes de que ocurra?",
+            answer: "En parte, sí. El último año de convivencia es un buen momento para recuperar espacios propios que no dependan del rol: amistades, proyectos, pareja. El vacío no se evita; de hecho, hasta es sano sentirlo. Lo que se puede preparar es lo que queda debajo: algo propio que sostenga la mudanza.",
+          },
+        ],
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/pareja-despues-crianza-hijos-crecen-descubris-desconocidos", label: "«La pareja después de la crianza», el artículo" },
+            { url: "/blog/estados-depresivos-edad-adulta-cuando-todo-cuesta-mas", label: "«Cuando todo cuesta más», el artículo" },
+            { url: "/blog/duelo-fechas-senhaladas", label: "«El duelo en fechas señaladas», el artículo" },
+            { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];
