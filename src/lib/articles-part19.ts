@@ -1010,4 +1010,312 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+
+  // --------------------------------------------------------------------------
+  // 5. el-movil-en-la-pareja (Parella, 2026-11-16)
+  // --------------------------------------------------------------------------
+  {
+    slug: "el-movil-en-la-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "El mòbil a la parella: la tercera cadira del sofà",
+    titleES: "El móvil en la pareja: la tercera silla del sofá",
+    excerptCA:
+      "El mòbil a la parella no trenca res tot sol: ocupa un lloc que alguna cosa ha deixat buit. Què diu el teu sofà de les deu i com es treballa a consulta.",
+    excerptES:
+      "El móvil en la pareja no rompe nada por sí solo: ocupa un lugar que algo dejó vacío. Qué dice tu sofá de las diez y cómo se trabaja en consulta.",
+    datePublished: "2026-11-16",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "T'ho confesso: jo també soc dels que, al vespre, agafen el mòbil al sofà. Obro el que havia obert fa deu minuts, el tanco i, al cap d'un minut, el torno a obrir. Ara bé, si això em passa a mi, que fa anys que treballo vincles, imagina't al teu menjador. Perquè el mòbil a la parella s'ha convertit en aquell convidat que ningú no convida i que mai no marxa: és a taula, al llit i, sobretot, al sofà de les deu de la nit.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, a la nostra consulta de psicologia de parella a Barcelona, el tema surt gairebé cada setmana, i gairebé sempre amb mig somriure de disculpa. «Ja no em mira: mira el mòbil», em va dir fa poc una pacient. Doncs mira: en aquest article defensaré una cosa que, vinguda d'un psicòleg, potser tindrà gràcia. Al capdavall, el mòbil a la parella no trenca res tot sol; ocupa un lloc que alguna cosa havia deixat buit. No és cap provocació. A més, veurem què hi fa, exactament, aquesta tercera cadira del sofà, què ens diu de la relació i com es treballa a consulta quan ja pesa.",
+      },
+      {
+        type: "heading",
+        text: "El mòbil a la parella: què és, exactament",
+      },
+      {
+        type: "paragraph",
+        text: "El mòbil a la parella és, dit d'una manera planera, la pantalla que s'interposa entre dues persones que tenen poc temps per mirar-se. De fet, el fenomen és prou estès per tenir nom propi: phubbing, la mala educació d'ignorar qui tens al costat per mirar el telèfon. La importància de posar-hi nom és pràctica: mentre en dius «addicció» o «mani», la conversa es torça; quan hi veus una qüestió d'atenció, pots començar a treballar-hi.",
+      },
+      {
+        type: "paragraph",
+        text: "Per exemple: què hi ha, exactament, dins d'aquesta pantalla? Feina, sèries, notícies, missatges. Ara bé, el contingut és el que menys importa. El mòbil a la parella és un assumpte d'adreça: cap a on va l'atenció quan, per fi, els dos sou al mateix lloc al mateix moment.",
+      },
+      {
+        type: "paragraph",
+        text: "Per tant, fes-te la pregunta incòmoda: de les dues hores que passeu junts un vespre normal, quantes van amb la mirada cap a l'altre?",
+      },
+      {
+        type: "paragraph",
+        text: "No cal que contestis en veu alta.",
+      },
+      {
+        type: "heading",
+        text: "El sofà de les deu de la nit",
+      },
+      {
+        type: "paragraph",
+        text: "Fa uns mesos, per exemple, va venir a consulta una parella amb un motiu que ells mateixos descrivien com a ridícul. Al vespre, després de sopar, tots dos queien al sofà i tots dos queien al mòbil. Ella, a vegades, encara tenia ganes de parlar; ell, en canvi, entrava al scroll com qui entra a casa seva. Després, un dia, ella li va treure el telèfon de la mà amb un gest que va sortir més fort del que volia, i la nit va acabar en plor. «No és cap drama», deien tots dos a la primera sessió.",
+      },
+      {
+        type: "paragraph",
+        text: "Però era un drama petit i diari. I els drames petits i diaris, al capdavall, són els que més desgasten.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, a la tercera sessió, ella va fer la pregunta que tots dos portaven a dins: «em diràs que li sóc infiel?». Li vaig contestar que la pregunta era una altra: quan ell agafava el telèfon, de què es protegia? Després d'unes setmanes, ho vam trobar. Per a ell, el vespre era l'hora de fer balanç, i fer balanç duia a una conversa pendent que feia mesos que s'evitava. Al capdavall, el mòbil no havia matat res: estava tapant una conversa que cap dels dos no s'atrevia a començar.",
+      },
+      {
+        type: "heading",
+        text: "Pantalla compartida, pantalla refugi",
+      },
+      {
+        type: "paragraph",
+        text: "Tanmateix, aquí vull diferenciar-me del que sol llegir-se. El discurs habitual diu que les pantalles destrueixen l'amor i demana menys pantalles com qui demana menys sucre. A consulta, però, fem una distinció més fina, perquè no totes les pantalles diuen el mateix.",
+      },
+      {
+        type: "paragraph",
+        text: "Per exemple, la pantalla compartida: mirar un vídeo tots dos, enviar-se coses que fan riure, triar la sèrie plegats. Això és atenció mirant cap al mateix lloc i, de fet, és vincle de la bona. I hi ha la pantalla refugi: la que s'obre quan ja no sé què dir-te, quan el silenci em pesa o quan em convé no mirar el que tinc al costat. La primera uneix. La segona, en canvi, tapa.",
+      },
+      {
+        type: "paragraph",
+        text: "El scroll, en aquest segon cas, no dona plaer: dona anestèsia. Per això t'has fixat que omple una estona i la deixa més buida que abans. El mòbil a la parella funciona com el menjar sense gana. Entreté la boca. Mentrestant, la resta pregunta una altra cosa.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Quan aquest tema entra a la sala, la primera cosa que no fem és prohibir res. I això, al començament, sorprèn. De fet, les normes de pantalla imposades des de fora fallen per un motiu senzill: gestionen hores quan, en canvi, el problema acostuma a ser de direcció. Ningú no va a teràpia de parella per passar menys estona al telèfon; hi va per tornar a tenir algú a qui mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Després dibuixem el mapa de l'atenció de la setmana. On us mireu, aquests set dies? De fet, l'atenció és la moneda real d'una relació: no es compten hores junts, sinó minuts de mirada. Normalment, el mapa és esclaridor: moltes parelles hi descobreixen que el seu temps compartit és logística pura: horaris, fills, compra. La intimitat, en canvi, no surt a cap casella.",
+      },
+      {
+        type: "paragraph",
+        text: "I, finalment, l'experiment. Un vespre, un de sol, els dos mòbils es queden dormint a una altra habitació. No com a càstig ni com a norma: com una prova. La pregunta no és si aguantareu sense pantalla; és què apareixerà al buit que deixa. Si apareix una conversa, ja saps per on tirar. Si apareix una discussió, també: és conversa igualment. Tanmateix, si no apareix res, aquest silenci és, exactament, el mapa del treball pendent.",
+      },
+      {
+        type: "heading",
+        text: "Quan el mòbil és el missatge",
+      },
+      {
+        type: "paragraph",
+        text: "A més, a consulta hi ha tres retrats que veiem sovint i convé reconèixer-los. El primer, per exemple: el mòbil entra just allà on hi hauria d'haver conversa, com l'àpat o el llit. El segon: les converses que queden són logística, i la pantalla ocupa el buit que ha deixat la intimitat. El tercer: un dels dos n'ha fet un refugi i l'altre ho calla; i el que calla, acumula.",
+      },
+      {
+        type: "paragraph",
+        text: "A vegades, el refugi és d'una sola persona i la parella el paga. Un estat depressiu, un burnout encara sense nom o una evitació personal es poden vestir de «portar el mòbil a sobre». Per això, a consulta, la pantalla mai no es llegeix sola: es llegeix amb la història de cadascú al darrere.",
+      },
+      {
+        type: "paragraph",
+        text: "Quin d'aquests retrats s'assembla més al teu sofà? La resposta té menys a veure amb el mòbil del que et penses.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre el mòbil a la parella",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Cal prohibir els mòbils a casa?",
+            answer: "Com a norma, no. Les prohibicions generen policies i delictes menors. Com a experiment, en canvi, sí: una nit sense pantalles al menjador diu més que un mes de discussions, perquè ensenya què hi ha sota. Prova-ho abans de legislar.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Això és una addicció?",
+            answer: "En la majoria de casos que veiem, no. És un hàbit d'evitació: la mà agafa el telèfon per no aguantar un buit. Ara bé, si el teu ús ja renta son, feina o relacions, cal fer-ne una avaluació seriosa: hi ha gent que no el pot deixar ni volent.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quan cal anar a teràpia de parella?",
+            answer: "Normalment el senyal és aquest: la distància ja pesa i ningú no sap com treure-la. O bé cada intent de parlar-ne acaba igual. La sessió de parella, t'ho anticipo, no és cap tribunal per decidir qui té raó: és una taula on mirar què hi fa aquest convidat que no marxa.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La cadira que falta",
+      },
+      {
+        type: "paragraph",
+        text: "Per tant, aquesta setmana, prova una sola cosa: un vespre, deixa el mòbil a una altra habitació abans de seure al sofà. Tu sol, encara que l'altre no et segueixi. Mira què et passa al cap de deu minuts: el neguit i l'impuls de tornar-lo a buscar. Allà, exactament allà, hi ha la informació.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o en línia. De fet, si el teu sofà de les deu ha canviat de sentit, ho podem mirar plegats: pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. I si no saps com explicar-ho, tranquil: també pots venir sense res preparat; porta el teu vespre tal com és, que ja el sabrem llegir.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/silencio-pareja", label: "«El silenci a la parella», l'article" },
+            { url: "/blog/discutir-sin-romper-conflicto-pareja", label: "«Discutir sense trencar», l'article" },
+            { url: "/blog/dormir-en-habitaciones-separadas", label: "«Dormir en habitacions separades», l'article" },
+            { url: "/terapia-pareja-barcelona", label: "Teràpia de parella a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Te lo confieso: yo también soy de los que, por la noche, cogen el móvil en el sofá. Abro lo que había abierto hace diez minutos, lo cierro y, al cabo de un minuto, lo vuelvo a abrir. Ahora bien, si me pasa a mí, que llevo años trabajando vínculos, imagínate en tu salón. Porque el móvil en la pareja se ha convertido en ese invitado que nadie invita y que nunca se va: está en la mesa, en la cama y, sobre todo, en el sofá de las diez de la noche.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, en nuestra consulta de psicología de pareja en Barcelona, el tema sale casi cada semana, y casi siempre con media sonrisa de disculpa. «Ya no me mira: mira el móvil», me dijo hace poco una paciente. Pues mira: en este artículo defenderé algo que, viniendo de un psicólogo, quizá tenga gracia. Al final, el móvil en la pareja no rompe nada por sí solo; ocupa un lugar que algo había dejado vacío. No es ninguna provocación. Además, veremos qué hace, exactamente, esa tercera silla del sofá, qué nos dice de la relación y cómo se trabaja en consulta cuando ya pesa.",
+      },
+      {
+        type: "heading",
+        text: "El móvil en la pareja: qué es, exactamente",
+      },
+      {
+        type: "paragraph",
+        text: "El móvil en la pareja es, dicho de manera llana, la pantalla que se interpone entre dos personas que tienen poco tiempo para mirarse. De hecho, el fenómeno es lo bastante extendido para tener nombre propio: phubbing, la mala educación de ignorar a quien tienes al lado por mirar el teléfono. La importancia de ponerle nombre es práctica: mientras lo llamas «adicción» o «manía», la conversación se tuerce; cuando ves una cuestión de atención, puedes empezar a trabajarla.",
+      },
+      {
+        type: "paragraph",
+        text: "Por ejemplo: ¿qué hay, exactamente, dentro de esa pantalla? Trabajo, series, noticias, mensajes. Ahora bien, el contenido es lo que menos importa. El móvil en la pareja es un asunto de dirección: hacia dónde va la atención cuando, por fin, los dos estáis en el mismo sitio al mismo tiempo.",
+      },
+      {
+        type: "paragraph",
+        text: "Por tanto, hazte la pregunta incómoda: de las dos horas que pasáis juntos una noche normal, ¿cuántas van con la mirada hacia el otro?",
+      },
+      {
+        type: "paragraph",
+        text: "No hace falta que contestes en voz alta.",
+      },
+      {
+        type: "heading",
+        text: "El sofá de las diez de la noche",
+      },
+      {
+        type: "paragraph",
+        text: "Hace unos meses, por ejemplo, vino a consulta una pareja con un motivo que ellos mismos describían como ridículo. Por la noche, después de cenar, los dos caían en el sofá y los dos caían en el móvil. Ella, a veces, aún tenía ganas de hablar; él, en cambio, entraba al scroll como quien entra en su casa. Después, un día, ella le quitó el teléfono de la mano con un gesto que salió más fuerte de lo que quería, y la noche acabó en llanto. «No es ningún drama», decían ambos en la primera sesión.",
+      },
+      {
+        type: "paragraph",
+        text: "Pero era un drama pequeño y diario. Y los dramas pequeños y diarios, al final, son los que más desgastan.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, en la tercera sesión, ella hizo la pregunta que los dos llevaban dentro: «¿me dirás que le soy infiel?». Le contesté que la pregunta era otra: cuando él cogía el teléfono, ¿de qué se estaba protegiendo? Después de unas semanas, lo encontramos. Para él, la noche era la hora de hacer balance, y hacer balance llevaba a una conversación pendiente que llevaba meses evitándose. Al final, el móvil no había matado nada: estaba tapando una conversación que ninguno de los dos se atrevía a empezar.",
+      },
+      {
+        type: "heading",
+        text: "Pantalla compartida, pantalla refugio",
+      },
+      {
+        type: "paragraph",
+        text: "Aquí quiero diferenciarme de lo que suele leerse. El discurso habitual dice que las pantallas destruyen el amor y pide menos pantallas, como quien pide menos azúcar. En consulta, en cambio, hacemos una distinción más fina, porque no todas las pantallas dicen lo mismo.",
+      },
+      {
+        type: "paragraph",
+        text: "Por ejemplo, la pantalla compartida: mirar un vídeo los dos, mandarse cosas que hacen reír, elegir la serie juntos. Eso es atención mirando hacia el mismo sitio y, de hecho, es vínculo del bueno. Y está la pantalla refugio: la que se abre cuando ya no sé qué decirte, cuando el silencio me pesa o cuando me conviene no mirar lo que tengo al lado. La primera une. La segunda, en cambio, tapa.",
+      },
+      {
+        type: "paragraph",
+        text: "El scroll, en este segundo caso, no da placer: da anestesia. Por eso te has fijado en que llena un rato y lo deja más vacío que antes. El móvil en la pareja funciona como comer sin hambre. Entretiene la boca. Mientras tanto, el resto pregunta otra cosa.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando este tema entra en la sala, lo primero que no hacemos es prohibir nada. Y eso, al principio, sorprende. De hecho, las normas de pantalla impuestas desde fuera fallan por un motivo sencillo: gestionan horas cuando, en cambio, el problema suele ser de dirección. Nadie va a terapia de pareja por pasar menos rato en el teléfono; va por volver a tener a alguien a quien mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Después dibujamos el mapa de la atención de la semana. ¿Dónde os miráis, estos siete días? De hecho, la atención es la moneda real de una relación: no se cuentan horas juntos, sino minutos de mirada. Normalmente, el mapa es esclarecedor: muchas parejas descubren en él que su tiempo compartido es logística pura: horarios, hijos, compra. La intimidad, en cambio, no sale en ninguna casilla.",
+      },
+      {
+        type: "paragraph",
+        text: "Y, por último, el experimento. Una noche, una sola, los dos móviles se quedan dormidos en otra habitación. No como castigo ni como norma: como una prueba. La pregunta no es si aguantaréis sin pantalla; es qué aparecerá en el hueco que deja. Si aparece una conversación, ya sabes por dónde tirar. Si aparece una discusión, también: es conversación igualmente. Sin embargo, si no aparece nada, ese silencio es, exactamente, el mapa del trabajo pendiente.",
+      },
+      {
+        type: "heading",
+        text: "Cuando el móvil es el mensaje",
+      },
+      {
+        type: "paragraph",
+        text: "Además, en consulta hay tres retratos que vemos a menudo y conviene reconocerlos. El primero, por ejemplo: el móvil entra justo donde debería haber conversación, como la comida o la cama. El segundo: las conversaciones que quedan son logística, y la pantalla ocupa el hueco que ha dejado la intimidad. El tercero: uno de los dos ha hecho de él un refugio y el otro lo calla; y el que calla, acumula.",
+      },
+      {
+        type: "paragraph",
+        text: "A veces, el refugio es de una sola persona y la pareja lo paga. Un estado depresivo, un burnout aún sin nombre o una evitación personal pueden disfrazarse de «llevar el móvil encima». Por eso, en consulta, la pantalla nunca se lee sola: se lee con la historia de cada uno detrás.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Cuál de estos retratos se parece más a tu sofá? La respuesta tiene menos que ver con el móvil de lo que piensas.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre el móvil en la pareja",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Hay que prohibir los móviles en casa?",
+            answer: "Como norma, no. Las prohibiciones generan policías y delitos menores. Como experimento, en cambio, sí: una noche sin pantallas en el salón dice más que un mes de discusiones, porque enseña lo que hay debajo. Pruébalo antes de legislar.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Esto es una adicción?",
+            answer: "En la mayoría de casos que vemos, no. Es un hábito de evitación: la mano coge el teléfono para no aguantar un vacío. Ahora bien, si tu uso ya lava sueño, trabajo o relaciones, conviene hacer una evaluación seria: hay gente que no puede dejarlo ni queriendo.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuándo hay que ir a terapia de pareja?",
+            answer: "Normalmente la señal es esta: la distancia ya pesa y nadie sabe cómo quitarla. O bien cada intento de hablarlo acaba igual. La sesión de pareja, te lo anticipo, no es ningún tribunal para decidir quién tiene razón: es una mesa donde mirar qué hace ese invitado que no se va.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La silla que falta",
+      },
+      {
+        type: "paragraph",
+        text: "Por tanto, esta semana prueba una sola cosa: una noche, deja el móvil en otra habitación antes de sentarte en el sofá. Tú solo, aunque el otro no te siga. Mira qué te pasa al cabo de diez minutos: el desasosiego y el impulso de volver a buscarlo. Ahí, exactamente ahí, está la información.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y a parejas con psicólogos colegiados, en sesión presencial u online. De hecho, si tu sofá de las diez ha cambiado de sentido, lo podemos mirar juntos: puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Y si no sabes cómo explicarlo, tranquilo: también puedes venir sin nada preparado; trae tu noche tal como es, que ya sabremos leerla.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/silencio-pareja", label: "«El silencio en la pareja», el artículo" },
+            { url: "/blog/discutir-sin-romper-conflicto-pareja", label: "«Discutir sin romper», el artículo" },
+            { url: "/blog/dormir-en-habitaciones-separadas", label: "«Dormir en habitaciones separadas», el artículo" },
+            { url: "/terapia-pareja-barcelona", label: "Terapia de pareja en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

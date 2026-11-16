@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "el-movil-en-la-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "El mòbil a la parella: la tercera cadira del sofà",
+    "titleES": "El móvil en la pareja: la tercera silla del sofá",
+    "excerptCA": "El mòbil a la parella no trenca res tot sol: ocupa un lloc que alguna cosa ha deixat buit. Què diu el teu sofà de les deu i com es treballa a consulta.",
+    "excerptES": "El móvil en la pareja no rompe nada por sí solo: ocupa un lugar que algo dejó vacío. Qué dice tu sofá de las diez y cómo se trabaja en consulta.",
+    "datePublished": "2026-11-16"
+  },
+
+  {
     "slug": "sindrome-nido-vacio",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitals",
