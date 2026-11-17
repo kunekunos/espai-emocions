@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "el-paso-del-tiempo-edad-adulta",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "El pas del temps: per què corre més a mitja vida",
+    "titleES": "El paso del tiempo: por qué corre más a mitad de vida",
+    "excerptCA": "El pas del temps no corre més: la teva vida perd primeres vegades. Per què els anys s'acceleren a mitja vida i com es treballa en psicoteràpia.",
+    "excerptES": "El paso del tiempo no corre más: tu vida pierde primeras veces. Por qué los años se aceleran a mitad de vida y cómo se trabaja en psicoterapia.",
+    "datePublished": "2026-11-17"
+  },
+
+  {
     "slug": "el-movil-en-la-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",
@@ -26,7 +37,7 @@ export const articleMeta: ArticleMeta[] = [
   {
     "slug": "sindrome-nido-vacio",
     "categoryCA": "Canvis vitals",
-    "categoryES": "Cambios vitals",
+    "categoryES": "Cambios vitales",
     "titleCA": "Síndrome del niu buit: quan els fills marxen de casa",
     "titleES": "Síndrome del nido vacío: cuando los hijos se van de casa",
     "excerptCA": "La síndrome del niu buit no és tristesa passatgera: toca la identitat de mare o de pare. Què passa quan els fills marxen i com es treballa a teràpia.",

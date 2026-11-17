@@ -785,7 +785,7 @@ export const articlesPart19: ArticleContent[] = [
   {
     slug: "sindrome-nido-vacio",
     categoryCA: "Canvis vitals",
-    categoryES: "Cambios vitals",
+    categoryES: "Cambios vitales",
     titleCA: "Síndrome del niu buit: quan els fills marxen de casa",
     titleES: "Síndrome del nido vacío: cuando los hijos se van de casa",
     excerptCA:
@@ -1314,6 +1314,292 @@ export const articlesPart19: ArticleContent[] = [
             { url: "/blog/discutir-sin-romper-conflicto-pareja", label: "«Discutir sin romper», el artículo" },
             { url: "/blog/dormir-en-habitaciones-separadas", label: "«Dormir en habitaciones separadas», el artículo" },
             { url: "/terapia-pareja-barcelona", label: "Terapia de pareja en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
+
+  // --------------------------------------------------------------------------
+  // 6. el-paso-del-tiempo-edad-adulta (Identitat, 2026-11-17)
+  // --------------------------------------------------------------------------
+  {
+    slug: "el-paso-del-tiempo-edad-adulta",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "El pas del temps: per què corre més a mitja vida",
+    titleES: "El paso del tiempo: por qué corre más a mitad de vida",
+    excerptCA:
+      "El pas del temps no corre més: la teva vida perd primeres vegades. Per què els anys s'acceleren a mitja vida i com es treballa en psicoteràpia.",
+    excerptES:
+      "El paso del tiempo no corre más: tu vida pierde primeras veces. Por qué los años se aceleran a mitad de vida y cómo se trabaja en psicoterapia.",
+    datePublished: "2026-11-17",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Als quinze anys, un estiu durava anys. El recordo sencer: la piscina municipal i un juliol que va semblar un curs escolar. Als quaranta-set, en canvi, l'estiu és una setmana llarga: engegues el ventilador un dia i, quan pares, ja és setembre. El pas del temps que s'accelera és una de les queixes que més senten els psicòlegs que treballem amb adults a Barcelona. Alhora, però, és una de les que menys idioma té la persona per explicar-la. S'assembla, de fet, massa a una frase de pòster. Dit amb la veu justa, tanmateix, és material de primera.",
+      },
+      {
+        type: "paragraph",
+        text: "T'ho avanço des del començament: el pas del temps no corre més; és la teva vida la que perd primeres vegades. El rellotge de paret i el de butxaca van exactament igual que als quinze. Però el material que li dónes per comptar ha canviat, i aquest material, en definitiva, som nosaltres: rutines, trajectes repetits, setmanes intercanviables. Vull mirar aquí per què els anys corren a l'edat adulta; quan aquesta velocitat és normal; quan avisa d'alguna cosa més; i com es treballa a consulta aquesta sensació de tenir el calendari enganxat als talons.",
+      },
+      {
+        type: "heading",
+        text: "El pas del temps: què vol dir que corre",
+      },
+      {
+        type: "paragraph",
+        text: "La sensació que el pas del temps s'accelera és una percepció, no una llei física: el dia segueix tenint vint-i-quatre hores per a tothom. La primera explicació que se sol donar és aritmètica i té el seu encant: un any, als cinc anys, és la cinquena part de tota una vida; als cinquanta, en canvi, és una fracció ridícula del total. Per tant, cada any nou pesa menys dins del conjunt i, de retruc, sembla més curt. És una explicació atractiva. Ara bé, en sol ser insuficient.",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta en fem servir una altra, més casolana: la memòria és el rellotge de butxaca. Quan mires enrere i mesures un estiu, de fet, no mesures temps: mesures records. I què genera records? Les primeres vegades: el primer pis, el primer fill d'algú proper, el primer viatge a una ciutat desconeguda. La vida adulta, tanmateix, s'organitza a l'inrevés: primeres vegades escassegen i repeticions abunden. Per exemple, si aquesta setmana fos una fotocòpia de l'anterior, què en recordaries? La pregunta incomoda. Però va exactament al punt.",
+      },
+      {
+        type: "heading",
+        text: "La vida que ja saps de memòria",
+      },
+      {
+        type: "paragraph",
+        text: "Prova d'explicar-ho, per exemple, amb el trajecte de cada matí. El primer mes que el fas el veus tot: semàfors, voreres, arbres, escaparates. Al cap d'un any, en canvi, arribes a la feina sense haver vist res, com si la ciutat s'hagués posat en mode automàtic. No hi ha hagut cap màgia: el cervell simplement deixa d'imprimir allò que ja sap de memòria. I una setmana que no s'imprimeix, al capdavall, no queda enlloc; per al calendari va existir, però per a tu, en canvi, no.",
+      },
+      {
+        type: "paragraph",
+        text: "És per això que els anys de molts canvis semblen eterns i els anys de molta feina semblen un badall. El primer any com a pare, el primer any a l'estranger, el primer any en parella: tot allò va ple d'estrenes, i el temps queda gravat. Els anys entremig (els de la setmana tipa, del dilluns que es confon amb el dimarts) passen sense deixar petjada. I quan una dècada és una fila de setmanes intercanviables, el resultat sempre és el mateix: deu anys amb la memòria d'un.",
+      },
+      {
+        type: "paragraph",
+        text: "A Barcelona ho pots veure cada novembre. Les terraces perden cadires de cop. La ciutat s'enfosqueix una matinada sencera, però ningú no sap dir quin dia ha estat l'últim de bona llum. De fet, ningú no recorda el novembre anterior. Només recorda que n'hi va haver un, perquè això diuen els calendaris.",
+      },
+      {
+        type: "heading",
+        text: "Quan la comptabilitat es torna cruel",
+      },
+      {
+        type: "paragraph",
+        text: "Arribem, doncs, al punt delicat. Fa un parell d'anys, un home de cinquanta-dos anys em va portar a consulta una frase que el seu entorn trobava poètica; ell, en canvi, la trobava insultant: «els anys em passen volant». «La metàfora està bé», em va dir, «però jo cada diumenge faig comptes i sempre surto perdent». El seu problema no era el rellotge. Era l'auditoria: cada diumenge al vespre ensumava la setmana que venia. La comparava amb la que sospitava que hauria de viure i se'n cobrava la diferència en forma de culpa.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest home no necessitava frases sobre la velocitat, i tampoc un curs de gestió del temps. Necessitava posar nom a una sentència que portava anys repetint-se a cau d'orella: «no ho he fet prou». De fet, la velocitat, aquí, és una qüestió diferent de la direcció: la majoria de persones adultes viuen el rellotge més ràpid amb decència i curiositat; ara bé, quan la sensació arriba amb sentència, el tema ja no és el calendari. És una relació amb la pròpia vida que s'ha torçat, i a vegades tapa alguna cosa més. Per exemple, un estat depressiu pot presentar-se així: temps pla, setmanes sense petjada, rancúnia contra un mateix. També hi pot haver por d'envellir, que ja té el seu article, o una crisi dels quaranta que ningú no va saber anomenar.",
+      },
+      {
+        type: "paragraph",
+        text: "El criteri clínic, doncs, és aquest: la sensació de velocitat fa reflexionar; la sentència, en canvi, fa patir. Si t'has quedat amb la primera, aquest article et serveix de mapa. Si t'has quedat amb la segona, el millor que puc dir-te és que la velocitat no és el problema de fons, i que un professional ho pot distingir en una o dues sessions.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa el pas del temps a consulta",
+      },
+      {
+        type: "paragraph",
+        text: "El primer que no fem és perseguir la lentitud. A més, bona part del consell estàndard sobre això («viu el moment», «desconnecta», «respira») em sembla ben intencionat i força buit. La pregunta que importa no és com aturar el rellotge. És què hi poses a dins, perquè el rellotge no s'atura. La feina terapèutica va en aquesta direcció: temps que deixi petjada, no pas rellotges més lents.",
+      },
+      {
+        type: "paragraph",
+        text: "A la sessió, per exemple, dibuixem el mapa d'una setmana real: la del pacient, amb noms propis. Després la pregunto d'una manera que semblarà innocent: «d'aquí a un any, què recordaries d'aquesta setmana?». Normalment la llista surt curta, i això ja és informació. Hi ha setmanes que són logística pura; d'altres, en canvi, tenen una conversa, un concert, un cap de setmana fora de sèrie. A partir d'aquí la feina és senzilla de dir i lenta de fer: es tracta de tornar a posar primeres vegades dins del calendari. Petites i escollides. Un camí nou per anar a comprar. Un cafè amb algú que feies temps que no veies. Res de traslladar-te a Bali.",
+      },
+      {
+        type: "paragraph",
+        text: "I, finalment, el balanç de direcció. Perquè el pas del temps només és un problema quan la vida apunta cap a un lloc on no vols anar; quan apunta cap on vols, en canvi, la velocitat es torna una aliada incòmoda. Per això dediquem sessions senceres a la pregunta més antiga de totes: què vols que recordi, de la teva vida, el 2036? Ningú no te la respondrà a la sessió. Però hi ha persones que, al cap de tres setmanes de fer-se-la, canvien coses que portaven anys ajornant.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: el rellotge interior",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Per què el temps passa més de pressa com més grans ens fem?",
+            answer: "Per dos motius que es combinen. Un, l'aritmètic: cada any nou és una fracció més petita de tota la teva vida. L'altre, el que treballem a consulta quan el pas del temps ja pesa: la memòria es fixa en allò nou, i l'edat adulta acumula repeticions. De fet, el temps no va més ràpid; passa que queda gravat amb menys resolució i, en mirar-lo enrere, sembla més curt.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Fer coses noves fa que el temps vagi més a poc a poc?",
+            answer: "Així és, amb un matís que convé no perdre. El dia d'una primera vegada no s'allarga: a vegades vola, perquè t'ho passes bé. El que canvia és la mirada cap enrere: la setmana densa ocupa molt més lloc en la memòria que la setmana buida. Al capdavall, no fas que el temps vagi lent: el fas recordable.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: què fer i quan consultar",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Es pot mirar el pas del temps sense patir?",
+            answer: "Sí, i el camí no passa per la respiració. Passa per la direcció: quan la teva setmana apunta cap a coses que signifiquen alguna cosa per a tu, la velocitat molesta menys, perquè el que compta ja no és quant queda: és què hi estàs posant. Això es treballa, però no amb quatre frases: amb decisions i un cert gust per la coherència.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Quan convé consultar-ho?",
+            answer: "Normalment, el senyal és aquest: la comptabilitat dels diumenges es torna cruel setmana rere setmana, o el buit deixa de ser filosòfic i es torna quotidià. En molts casos hi ha un estat depressiu o una rumiació ansiosa al darrere. Això sí que convé mirar-s'ho amb un professional. La primera visita pot ser una sessió informativa de mitja hora, sense compromís, per veure si encaixem.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La setmana que vols recordar",
+      },
+      {
+        type: "paragraph",
+        text: "Et proposo, doncs, l'experiment d'aquesta setmana, i només és un. Diumenge al vespre, escriu en un paper tres coses d'aquests set dies que recordaries d'aquí a un any. Si en surten tres, endevina què: la teva setmana ja té densitat, i aquest article només t'ha servit de mirall. Si no en surt cap, en canvi, ja saps per on comença la feina; i no és canviant de vida: és posant una primera vegada petita al mig de la setmana.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o en línia. Si el pas del temps t'ha deixat aquesta comptabilitat dels diumenges, ho podem mirar plegats: pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. I, per avançar-te una cosa del que trobaràs: a la primera sessió ningú no et dirà que respiris més a poc a poc; t'escoltarem, que ja és més del que fan els teus diumenges.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/crisis-de-los-40", label: "«La crisi dels quaranta», l'article" },
+            { url: "/blog/miedo-a-envejecer-edad-adulta", label: "«La por d'envellir», l'article" },
+            { url: "/blog/tristeza-de-otono", label: "«La tristesa de tardor», l'article" },
+            { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "A los quince años, un verano duraba años. Lo recuerdo entero: la piscina municipal y un julio que pareció un curso escolar. A los cuarenta y siete, en cambio, el verano es una semana larga: enciendes el ventilador un día y, cuando paras, ya es septiembre. Que el paso del tiempo se acelera es una de las quejas que más escuchamos los psicólogos que trabajamos con adultos en Barcelona. A la vez, sin embargo, es una de las que menos idioma tiene la persona para explicarla. Se parece, de hecho, demasiado a una frase de póster. Dicha con la voz justa, no obstante, es material de primera.",
+      },
+      {
+        type: "paragraph",
+        text: "Te lo adelanto desde el principio: el paso del tiempo no corre más; es tu vida la que pierde primeras veces. El reloj de pared y el de bolsillo van exactamente igual que a los quince. Pero el material que le das para contar ha cambiado, y ese material, en definitiva, somos nosotros: rutinas, trayectos repetidos, semanas intercambiables. Quiero mirar aquí por qué los años corren en la edad adulta; cuándo esa velocidad es normal; cuándo avisa de algo más; y cómo se trabaja en consulta esa sensación de llevar el calendario pegado a los talones.",
+      },
+      {
+        type: "heading",
+        text: "El paso del tiempo: qué significa que corra",
+      },
+      {
+        type: "paragraph",
+        text: "La sensación de que el paso del tiempo se acelera es una percepción, no una ley física: el día sigue teniendo veinticuatro horas para todo el mundo. La primera explicación que suele darse es aritmética y tiene su encanto: un año, a los cinco años, es la quinta parte de toda una vida; a los cincuenta, en cambio, es una fracción ridícula del total. Por tanto, cada año nuevo pesa menos dentro del conjunto y, de rebote, parece más corto. Es una explicación atractiva. Ahora bien, casi siempre es insuficiente.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta usamos otra, más casera: la memoria es el reloj de bolsillo. Cuando miras atrás y mides un verano, de hecho, no mides tiempo: mides recuerdos. ¿Y qué genera recuerdos? Las primeras veces: el primer piso, el primer hijo de alguien cercano, el primer viaje a una ciudad desconocida. La vida adulta, sin embargo, se organiza al revés: primeras veces escasean y repeticiones sobran. Por ejemplo, si esta semana fuera una fotocopia de la anterior, ¿qué recordarías de ella? La pregunta incomoda. Pero da exactamente en el punto.",
+      },
+      {
+        type: "heading",
+        text: "La vida que ya sabes de memoria",
+      },
+      {
+        type: "paragraph",
+        text: "Piénsalo, por ejemplo, con el trayecto de cada mañana. El primer mes que lo haces lo ves todo: semáforos, aceras, árboles, escaparates. Al cabo de un año, en cambio, llegas al trabajo sin haber visto nada, como si la ciudad se hubiera puesto en piloto automático. No ha habido ninguna magia: el cerebro simplemente deja de imprimir lo que ya sabe de memoria. Y una semana que no se imprime, al final, no queda en ninguna parte; para el calendario existió, pero para ti, en cambio, no.",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso los años de muchos cambios parecen eternos y los años de mucho trabajo parecen un bostezo. El primer año como padre, el primer año en el extranjero, el primer año en pareja: todo eso va lleno de estrenos, y el tiempo queda grabado. Los años entremedio (los de la semana tipo, del lunes que se confunde con el martes) pasan sin dejar huella. Y cuando una década es una fila de semanas intercambiables, el resultado siempre es el mismo: diez años con la memoria de uno.",
+      },
+      {
+        type: "paragraph",
+        text: "En Barcelona lo ves cada noviembre. Las terrazas pierden sillas de golpe. La ciudad se oscurece una madrugada entera, pero nadie sabe decir qué día fue el último de buena luz. De hecho, nadie recuerda el noviembre anterior. Solo recuerda que lo hubo, porque eso dicen los calendarios.",
+      },
+      {
+        type: "heading",
+        text: "Cuando la contabilidad se vuelve cruel",
+      },
+      {
+        type: "paragraph",
+        text: "Llegamos, entonces, al punto delicado. Hace un par de años, un hombre de cincuenta y dos años me trajo a consulta una frase que su entorno encontraba poética; él, en cambio, la encontraba insultante: «los años me pasan volando». «La metáfora está bien», me dijo, «pero yo cada domingo hago cuentas y siempre salgo perdiendo». Su problema no era el reloj. Era la auditoría: cada domingo por la noche olía la semana que venía. La comparaba con la que sospechaba que debería vivir y se cobraba la diferencia en forma de culpa.",
+      },
+      {
+        type: "paragraph",
+        text: "Este hombre no necesitaba frases sobre la velocidad, y tampoco un curso de gestión del tiempo. Necesitaba ponerle nombre a una sentencia que llevaba años repitiéndose a media voz: «no he hecho suficiente». De hecho, la velocidad, aquí, es una cuestión distinta de la dirección: la mayoría de personas adultas viven el reloj más rápido con decencia y curiosidad; ahora bien, cuando la sensación llega con sentencia, el tema ya no es el calendario. Es una relación con la propia vida que se ha torcido, y a veces tapa algo más. Por ejemplo, un estado depresivo puede presentarse así: tiempo plano, semanas sin huella, rancor contra uno mismo. También puede haber miedo a envejecer, que ya tiene su artículo, o una crisis de los cuarenta que nadie supo nombrar.",
+      },
+      {
+        type: "paragraph",
+        text: "El criterio clínico, entonces, es este: la sensación de velocidad hace reflexionar; la sentencia, en cambio, hace sufrir. Si te has quedado con la primera, este artículo te sirve de mapa. Si te has quedado con la segunda, lo mejor que puedo decirte es que la velocidad no es el problema de fondo, y que un profesional lo puede distinguir en una o dos sesiones.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja el paso del tiempo en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Lo primero que no hacemos es perseguir la lentitud. Además, buena parte del consejo estándar sobre esto («vive el momento», «desconecta», «respira») me parece bienintencionado y bastante vacío. La pregunta que importa no es cómo parar el reloj. Es qué le pones dentro, porque el reloj no se para. El trabajo terapéutico va en esa dirección: tiempo que deje huella, no relojes más lentos.",
+      },
+      {
+        type: "paragraph",
+        text: "En la sesión, por ejemplo, dibujamos el mapa de una semana real: la tuya, con nombres propios. Después la pregunto de una manera que parece inocente: «dentro de un año, ¿qué recordarías de esta semana?». Normalmente la lista sale corta, y eso ya es información. Hay semanas que son pura logística; otras, en cambio, tienen una conversación, un concierto, un fin de semana fuera de serie. A partir de aquí el trabajo es fácil de decir y lento de hacer: se trata de meter primeras veces en el calendario. Pequeñas y escogidas. Un camino nuevo para ir a comprar. Un café con alguien que llevabas tiempo sin ver. Nada de mudarte a Bali.",
+      },
+      {
+        type: "paragraph",
+        text: "Y, al final, el ajuste de dirección. Porque el paso del tiempo solo es un problema cuando la vida apunta a un sitio donde no quieres ir; cuando apunta donde quieres, en cambio, la velocidad se vuelve una aliada incómoda. Por eso dedicamos sesiones enteras a la pregunta más antigua de todas: ¿qué quieres que recuerde, de tu vida, el 2036? Nadie te la responderá en consulta. Pero hay personas que, al cabo de tres semanas de hacérsela, cambian cosas que llevaban años aplazando.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: el reloj interior",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Por qué el tiempo pasa más rápido cuanto más grandes somos?",
+            answer: "Por dos motivos que se combinan. Uno, el aritmético: cada año nuevo es una fracción más pequeña de toda tu vida. El otro, el que trabajamos en consulta cuando el paso del tiempo ya pesa: la memoria se fija en lo nuevo, y la edad adulta acumula repeticiones. De hecho, el tiempo no va más rápido; pasa que queda grabado con menos resolución y, al mirarlo atrás, parece más corto.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Hacer cosas nuevas hace que el tiempo vaya más despacio?",
+            answer: "Así es, con un matiz que conviene no perder. El día de una primera vez no se alarga: a veces vuela, porque te lo pasas bien. Lo que cambia es la mirada hacia atrás: la semana densa ocupa mucho más sitio en la memoria que la semana vacía. Al final, no haces que el tiempo vaya lento: lo haces memorable.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: qué hacer y cuándo consultar",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Se puede mirar el paso del tiempo sin sufrir?",
+            answer: "Sí, y el camino no pasa por la respiración. Pasa por la dirección: cuando tu semana apunta a cosas que significan algo para ti, la velocidad molesta menos, porque lo que importa ya no es cuánto queda: es qué estás poniendo dentro. Eso se trabaja, pero no con cuatro frases: con decisiones y un cierto gusto por la coherencia.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Cuándo conviene consultarlo?",
+            answer: "Normalmente, la señal es esta: la contabilidad de los domingos se vuelve cruel semana tras semana, o el vacío deja de ser filosófico y se vuelve cotidiano. En muchos casos hay un estado depresivo o una rumiación ansiosa detrás. Eso sí conviene mirarlo con un profesional. La primera visita puede ser una sesión informativa de media hora, sin compromiso, para ver si encajamos.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La semana que quieres recordar",
+      },
+      {
+        type: "paragraph",
+        text: "Te propongo, entonces, el experimento de esta semana, y es solo uno. El domingo por la noche, escribe en un papel tres cosas de estos siete días que recordarías dentro de un año. Si salen tres, adivina qué: tu semana ya tiene densidad, y este artículo solo te ha servido de espejo. Si no sale ninguna, en cambio, ya sabes por dónde empieza el trabajo; y no es cambiando de vida: es poniendo una primera vez pequeña en medio de la semana.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial u online. Si el paso del tiempo te ha dejado esa contabilidad de los domingos, lo podemos mirar juntos: puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. Y, para adelantarte algo de lo que encontrarás: en la primera sesión nadie te dirá que respires más despacio; te escucharemos, que ya es más de lo que hacen tus domingos.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/crisis-de-los-40", label: "«La crisis de los cuarenta», el artículo" },
+            { url: "/blog/miedo-a-envejecer-edad-adulta", label: "«El miedo a envejecer», el artículo" },
+            { url: "/blog/tristeza-de-otono", label: "«La tristeza de otoño», el artículo" },
+            { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
         ],
       },
     ],
