@@ -1604,4 +1604,301 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 7. el-peso-de-un-secreto (Relacions, 2026-11-18)
+  // --------------------------------------------------------------------------
+  {
+    slug: "el-peso-de-un-secreto",
+    categoryCA: "Relacions",
+    categoryES: "Relaciones",
+    titleCA: "El pes d'un secret: allò que mai has explicat",
+    titleES: "El peso de un secreto: eso que nunca has contado",
+    excerptCA:
+      "El pes d'un secret no és el que amagues: és el que et costa portar-lo anys. Què fa amb tu i com es treballa a la psicoteràpia de Barcelona.",
+    excerptES:
+      "El peso de un secreto no es lo que escondes: es lo que te cuesta llevarlo años. Qué hace contigo y cómo se trabaja en la psicoterapia de Barcelona.",
+    datePublished: "2026-11-18",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«Hi ha una cosa que no he explicat mai a ningú.» Ho diu a la tercera sessió, amb la tassa de te entre les mans, mentre mira la catifa. Després d'una pausa llarga arriba la pregunta: «és normal que encara pesi, si va passar fa vint anys?». A la consulta de psicologia de Barcelona, tanmateix, escolto això més sovint del que et penses. I, a més, gairebé sempre amb la mateixa sorpresa, com si el pes d'un secret tingués data de caducitat. Doncs no. Un secret no caduca; només canvia de lloc.",
+      },
+      {
+        type: "paragraph",
+        text: "T'avanço la meva postura des del principi: el que fa mal d'un secret rarament és el contingut. És, per tant, la solitud de portar-lo, i la vigilància que exigeix. Volem mirar què és exactament aquest pes i per què els anys no l'alleugeixen; també el secret que protegeix algú altre i com es treballa quan arriba a consulta.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, et diré una cosa més: la majoria de secrets que escolto no són espectaculars. Són normals. I precisament per això inquieten, perquè ningú no t'ha dit mai que un secret petit també pot omplir una casa.",
+      },
+      {
+        type: "heading",
+        text: "El pes d'un secret: què és i què no",
+      },
+      {
+        type: "paragraph",
+        text: "El pes d'un secret és la feina que costa mantenir una part de la teva història fora de totes les teves converses. La intimitat és una altra cosa: tries què comparteixes i amb qui. El secret, en canvi, s'imposa. Un dia decideixes no explicar una cosa a persones concretes; amb els anys, en canvi, aquella decisió acaba decidint per tu. Per això la distinció importa tant. La intimitat és un dret; el secret és una càrrega contractada, i les càrregues contractades cobren interessos.",
+      },
+      {
+        type: "paragraph",
+        text: "A veure, no tot el que guardes és un secret en aquest sentit. Tens tot el dret a no explicar la teva història a un desconegut. O a no parlar de diners en un sopar. O a callar allò que no ve de gust.",
+      },
+      {
+        type: "paragraph",
+        text: "Això és intimitat, i és sana. El pes apareix en un altre lloc, per exemple, quan allò que no expliques és una història important de la teva vida, o quan sents que, si ho sabessin, et veurien diferents. A consulta faig servir una pregunta senzilla per distingir-ho: aquest silenci et protegeix o et vigila?",
+      },
+      {
+        type: "heading",
+        text: "La factura que pagues per guardar-lo",
+      },
+      {
+        type: "paragraph",
+        text: "Un secret s'assembla a aquell moble que no pots ni ensenyar ni treure de casa. L'has de col·locar a totes les converses. Vigilar que ningú no hi ensopegui. Recordar, cada vegada, que hi és. Amb els anys, de fet, ja no penses en el contingut: penses en la logística. I la logística de guardar és feina de cada dia: vigiles temes, edites relats i sostens tot sol una part de tu.",
+      },
+      {
+        type: "paragraph",
+        text: "El resultat és una intimitat a mitges. Qui guarda una cosa gran, a més, no pot ser conegut del tot, ni tan sols per qui estima. I aquesta distància l'ha instal·lada un mateix, sovint amb la millor de les intencions. A més, hi ha un efecte que gairebé ningú no preveu: el secret fa sospitar dels altres. Si portes anys callant, costa creure que ningú més no calli res. La fredor que notes al voltant teu és, a vegades, senzillament la teva. Pensa-hi: qui t'ha conegut mai del tot mentre el secret seia a taula amb vosaltres?",
+      },
+      {
+        type: "heading",
+        text: "Per què els anys no l'alleugeixen",
+      },
+      {
+        type: "paragraph",
+        text: "La lògica diu, en definitiva, que el temps hauria de suavitzar-ho tot. Però un secret no s'assembla a un mal d'esquena: s'assembla a un objecte guardat en un calaix que, cada cop que l'obres, pesa igual. De fet, n'hi ha que pesen més, perquè s'hi acumulen capes: la culpa de no haver-ho dit, la por que ara sigui massa tard, la idea que qui t'estima no coneix una part de tu. Els anys no treuen pes. Només l'amaguen millor.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha, però, un segon motiu, menys visible. Un secret et manté en contacte amb una època de la teva vida que ja no és la teva, i per això costa deixar-lo enrere: tancar-lo és acomiadar la persona que el va guardar. Normalment, quan algú diu a consulta «ja no sé si val la pena parlar-ne», vol dir que la part que el guardava necessita permís per jubilar-se.",
+      },
+      {
+        type: "heading",
+        text: "El secret que protegeix algú altre",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha secrets que neixen de la lleialtat, no pas del pudor propi. Són els més difícils de moure. Fa uns anys, per exemple, vaig acompanyar una dona que sabia del seu pare una cosa que la seva mare ignorava. Ho sabia des de molt jove. Ningú no li havia demanat silenci. Ho va decidir ella, per protegir la seva mare i la imatge d'una família sencera. Vint anys després, aquella decisió la seguia a ella. Li costava confiar. Li costava explicar-se. I en els moments de tendresa amb la seva parella notava un calaix tancat amb clau dins seu.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquella dona, per cert, no va acabar explicant res a la seva mare, i la teràpia tampoc no ho perseguia. Ho va explicar a la seva parella, que és diferent, i va poder revisar la lleialtat que portava vint anys de guàrdia. La mare, de fet, mai no ho va saber. La filla, en canvi, va recuperar espai per ser coneguda.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquests secrets funcionen com les lleialtats invisibles de les quals ja hem parlat en aquest blog: herències emocionals que ningú no ha signat. Ara bé, vull ser-hi clar: protegir algú amb silenci és respectable, i no tot s'ha de dir. La dificultat apareix més tard, quan la decisió dels quinze anys encara dirigeix la vida dels quaranta-cinc. Sense que ningú no l'hagi revisada mai. Per això la pregunta no és si has d'explicar-ho a algú. És aquesta: vols continuar portant-ho?",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa un secret a la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "El primer que no fem és obrir cap calaix a la primera sessió. Un secret no es tracta com un paquet que s'hagi de lliurar, i t'ho confesso: la feina és lenta, a vegades poc espectacular. Primer cal construir un lloc on tingui sentit parlar-ne: confiança i ritme. I la certesa que tot el que diguis a la sessió s'hi queda, tal com expliquem en l'article sobre la confidencialitat. Després, quan arriba el moment, passa una cosa que gairebé tothom descriu igual: posar-hi paraules per primera vegada.",
+      },
+      {
+        type: "paragraph",
+        text: "Dir-ho en veu alta és, per a moltes persones, la primera vegada que el secret deixa de ser un monòleg. En canvi, ningú no et jutja a la consulta. I això permet mirar què hi ha de por i què de veritat dins d'allò que portes anys callant. A vegades el contingut és més suau del que semblava. Altres vegades és tan dur com temies, i llavors el que cal és sostenir el pes en companyia, que ja és feina terapèutica de bona llei. En qualsevol cas, dir-ho és només el tram inicial.",
+      },
+      {
+        type: "paragraph",
+        text: "La segona part és la més important: decidir què fem amb el secret a la teva vida. A qui ho expliques i quan, si és que ho expliques. La teràpia, per tant, no busca la confessió: busca que recuperis el comandament. Hi ha pacients que parlen amb algú concret després de mesos. D'altres decideixen que el secret morirà amb ells. Però elegit, no pas per inèrcia. Al capdavall, tothom busca el mateix: que el silenci deixi de manar.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: secrets i teràpia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Guardar un secret és sempre dolent per a la salut?",
+            answer:
+              "No. Hi ha silencis sans: la intimitat, el temps personal, allò que no ve de gust compartir. A consulta ho distingim així: el secret fa nosa quan et vigila, quan t'obliga a editar converses o quan fa anys que limita la teva confiança. Aleshores el pes ja no és el del contingut: és el de la vigilància. I això, de fet, es pot treballar.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Fa vint anys que ho guardo. Encara hi sóc a temps?",
+            answer:
+              "Sí, i el criteri és senzill: el moment de treballar un secret és quan t'ocupa lloc, no quan el contingut caduca. Normalment el que fa mal no és l'antiguitat de la història; és la solitud que s'hi ha acumulat al damunt. Per això hi ha persones que treuen coses de fa trenta anys i noten l'alleujament des del primer mes.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "He d'explicar, tard o d'hora, el meu secret a algú proper?",
+            answer:
+              "No necessàriament. Un cop el secret ha perdut poder a dins, alguns pacients expliquen el que cal a qui cal; d'altres, en canvi, decideixen no explicar res a ningú. En tots dos casos, al capdavall, la decisió surt de tu, i també això forma part del procés: que el silenci obeeixi, en lloc de manar.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "On tens la clau",
+      },
+      {
+        type: "paragraph",
+        text: "Et proposo un experiment petit, i no necessita res més que un paper. Aquesta nit escriu, en dues o tres frases, allò que no has explicat mai. No cal ensenyar-ho a ningú. Només que existeixi fora del teu cap, per primera vegada, en paraules. Si després notes una mica més d'aire, ja saps cap on va aquest article. Si notes que no pots ni escriure'l, també ho saps. I això és informació de primera.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o online. Si portes anys arrossegant alguna cosa que no ha tingut mai paraules, escriu-nos per WhatsApp o demana una primera visita des de la pàgina de contacte. També hi ha una sessió informativa de mitja hora, sense compromís, per veure si encaixem. I per avançar-te què hi trobaràs: ningú no t'obligarà a obrir cap calaix. La clau és teva. Ja saps on la guardes.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/lo-que-dices-en-terapia-se-queda-en-terapia", label: "«El que dius en teràpia es queda en teràpia», l'article" },
+            { url: "/blog/lealtades-invisibles-que-heredamos-sin-saber", label: "«Les lleialtats invisibles», l'article" },
+            { url: "/blog/verguenza-que-no-se-nombra-adultos", label: "«La vergonya que no es nomena», l'article" },
+            { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«Hay algo que nunca le he contado a nadie.» Lo dice en la tercera sesión, con la taza de té entre las manos, mientras mira la alfombra. Después de una pausa larga llega la pregunta: «¿es normal que todavía pese, si pasó hace veinte años?». En la consulta de psicología de Barcelona, sin embargo, escucho esto más a menudo de lo que piensas. Y, además, casi siempre con la misma sorpresa, como si el peso de un secreto llevara fecha de caducidad. Pues no. Un secreto no caduca; solo cambia de sitio.",
+      },
+      {
+        type: "paragraph",
+        text: "Te adelanto mi postura desde el principio: lo que duele de un secreto rara vez es el contenido. Es, por tanto, la soledad de llevarlo, y la vigilancia que exige. En este artículo queremos mirar qué es exactamente ese peso y por qué los años no lo aligeran; también el secreto que protege a otra persona y cómo se trabaja cuando llega a consulta.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, te diré una cosa más: la mayoría de secretos que escucho no son espectaculares. Son normales. Y precisamente por eso inquietan, porque nadie te ha dicho nunca que un secreto pequeño también puede llenar una casa.",
+      },
+      {
+        type: "heading",
+        text: "El peso de un secreto: qué es y qué no es",
+      },
+      {
+        type: "paragraph",
+        text: "El peso de un secreto es el trabajo que cuesta mantener una parte de tu historia fuera de todas tus conversaciones. La intimidad es otra cosa: eliges qué compartes y con quién. El secreto, en cambio, se impone. Un día decides no contar algo a personas concretas; con los años, en cambio, aquella decisión acaba decidiendo por ti. Por eso la distinción importa tanto. La intimidad es un derecho; el secreto es una carga contratada, y las cargas contratadas cobran intereses.",
+      },
+      {
+        type: "paragraph",
+        text: "A ver, no todo lo que guardas es un secreto en este sentido. Tienes todo el derecho a no contarle tu historia a un desconocido. O a no hablar de dinero en una cena. O a callarte lo que no te apetece.",
+      },
+      {
+        type: "paragraph",
+        text: "Eso es intimidad, y es sana. El peso aparece en otro sitio, por ejemplo, cuando lo que no cuentas es una historia importante de tu vida, o cuando sientes que, si lo supieran, te verían distinto. En consulta uso una pregunta sencilla para distinguirlo: ¿este silencio te protege o te vigila?",
+      },
+      {
+        type: "heading",
+        text: "La factura que pagas por guardarlo",
+      },
+      {
+        type: "paragraph",
+        text: "Un secreto se parece a ese mueble que no puedes ni enseñar ni sacar de casa. Hay que colocarlo en todas las conversaciones. Vigilar que nadie tropiece. Recordar, cada vez, que está. Con los años, de hecho, ya no piensas en el contenido: piensas en la logística. Y la logística de guardar es trabajo diario: vigilas temas, editas relatos y sostienes tú solo una parte de ti.",
+      },
+      {
+        type: "paragraph",
+        text: "El resultado es una intimidad a medias. Quien guarda algo grande, además, no puede ser conocido del todo, ni siquiera por quien ama. Y esa distancia la ha instalado uno mismo, muchas veces con la mejor de las intenciones. Además, hay un efecto que casi nadie prevé: el secreto hace sospechar de los demás. Si llevas años callando, cuesta creer que nadie más calle nada. La frialdad que notas a tu alrededor es, a veces, sencillamente la tuya. Piénsalo: ¿quién te ha conocido del todo mientras el secreto se sentaba a la mesa con vosotros?",
+      },
+      {
+        type: "heading",
+        text: "Por qué los años no lo aligeran",
+      },
+      {
+        type: "paragraph",
+        text: "La lógica dice, en definitiva, que el tiempo debería suavizarlo todo. Pero un secreto no se parece a un dolor de espalda: se parece a un objeto guardado en un cajón que, cada vez que lo abres, pesa igual. De hecho, algunos pesan más, porque se acumulan capas: la culpa por no haberlo dicho, el miedo a que ya sea tarde, la idea de que quien te quiere no conoce una parte de ti. Los años no quitan peso. Solo lo esconden mejor.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, hay un segundo motivo, menos visible. Un secreto te mantiene en contacto con una época de tu vida que ya no es la tuya, y por eso cuesta dejarlo atrás: cerrarlo es despedir a la persona que lo guardó. Normalmente, cuando alguien dice en consulta «ya no sé si vale la pena hablar de ello», significa que la parte que guardaba necesita permiso para jubilarse.",
+      },
+      {
+        type: "heading",
+        text: "El secreto que protege a otra persona",
+      },
+      {
+        type: "paragraph",
+        text: "Hay secretos que nacen de la lealtad, no del pudor propio. Son los más difíciles de mover. Hace unos años, por ejemplo, acompañé a una mujer que sabía de su padre una cosa que su madre ignoraba. Lo sabía desde muy joven. Nadie le había pedido silencio. Lo decidió ella, para proteger a su madre y la imagen de una familia entera. Veinte años después, aquella decisión la seguía a ella. Le costaba confiar. Le costaba explicarse. Y en los momentos de ternura con su pareja notaba un cajón cerrado con llave dentro.",
+      },
+      {
+        type: "paragraph",
+        text: "Aquella mujer, por cierto, no acabó contándole nada a su madre, y la terapia tampoco lo perseguía. Se lo contó a su pareja, que es distinto, y pudo revisar la lealtad que llevaba veinte años de guardia. La madre, de hecho, nunca lo supo. La hija, en cambio, recuperó espacio para ser conocida.",
+      },
+      {
+        type: "paragraph",
+        text: "Estos secretos funcionan como las lealtades invisibles de las que ya hemos hablado en este blog: herencias emocionales que nadie ha firmado. Ahora bien, quiero ser claro: proteger a alguien con silencio es respetable, y no todo hay que decirlo. La dificultad aparece más tarde, cuando la decisión de los quince años todavía dirige la vida de los cuarenta y cinco. Sin que nadie la haya revisado nunca. Por eso la pregunta no es si debes contarlo a alguien. Es esta: ¿quieres seguir llevándolo?",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja un secreto en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Lo primero que no hacemos es abrir ningún cajón en la primera sesión. Un secreto no se trata como un paquete que haya que entregar, y te lo confieso: el trabajo es lento, a veces poco espectacular. Primero hay que construir un sitio donde tenga sentido hablar de ello: confianza y ritmo. Y la certeza de que todo lo que digas en la sesión se queda ahí, tal como explicamos en el artículo sobre la confidencialidad. Después, cuando llega el momento, ocurre algo que casi todo el mundo describe igual: ponerle palabras por primera vez.",
+      },
+      {
+        type: "paragraph",
+        text: "Decirlo en voz alta es, para muchas personas, la primera vez que el secreto deja de ser un monólogo. En cambio, nadie te juzga en consulta. Y eso permite mirar qué hay de miedo y qué de verdad dentro de lo que llevas años callando. A veces el contenido es más suave de lo que parecía. Otras veces es tan duro como temías, y entonces lo que toca es sostener el peso en compañía, que ya es trabajo terapéutico de buena ley. En cualquier caso, decirlo es solo el tramo inicial.",
+      },
+      {
+        type: "paragraph",
+        text: "La segunda parte es la más importante: decidir qué hacemos con el secreto en tu vida. A quién se lo cuentas y cuándo, si es que se lo cuentas. La terapia, por tanto, no busca la confesión: busca que recuperes el mando. Hay pacientes que hablan con alguien concreto después de meses. Otros deciden que el secreto morirá con ellos. Pero elegido, no por inercia. Al final, todo el mundo busca lo mismo: que el silencio deje de mandar.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: secretos y terapia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Guardar un secreto es siempre malo para la salud?",
+            answer:
+              "No. Hay silencios sanos: la intimidad, el tiempo personal, lo que no apetece compartir. En consulta lo distinguimos así: el secreto estorba cuando te vigila, cuando te obliga a editar conversaciones o cuando lleva años limitando tu confianza. Entonces el peso ya no es el del contenido: es el de la vigilancia. Y eso, de hecho, se puede trabajar.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Llevo veinte años guardándolo. ¿Todavía estoy a tiempo?",
+            answer:
+              "Sí, y el criterio es sencillo: el momento de trabajar un secreto es cuando te ocupa sitio, no cuando el contenido caduca. Normalmente lo que duele no es la antigüedad de la historia; es la soledad que se ha acumulado encima. Por eso hay personas que sacan cosas de hace treinta años y notan el alivio desde el primer mes.",
+          },
+        ],
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Tengo que contarle mi secreto a alguien cercano, tarde o temprano?",
+            answer:
+              "No necesariamente. Una vez el secreto ha perdido poder dentro, algunos pacientes cuentan lo que hace falta a quien hace falta; otros, en cambio, deciden no contar nada a nadie. En ambos casos, al final, la decisión sale de ti, y eso también es parte del proceso: que el silencio obedezca en lugar de mandar.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Dónde tienes la llave",
+      },
+      {
+        type: "paragraph",
+        text: "Te propongo un experimento pequeño, y no necesita nada más que un papel. Esta noche escribe, en dos o tres frases, eso que nunca has contado. No hace falta enseñárselo a nadie. Solo que exista fuera de tu cabeza, por primera vez, en palabras. Si después notas un poco más de aire, ya sabes hacia dónde va este artículo. Si notas que no puedes ni escribirlo, también lo sabes. Y eso es información de primera.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial u online. Si llevas años arrastrando algo que nunca ha tenido palabras, escríbenos por WhatsApp o pide una primera visita desde la página de contacto. También hay una sesión informativa de media hora, sin compromiso, para ver si encajamos. Y para adelantarte lo que encontrarás: nadie te obligará a abrir ningún cajón. La llave es tuya. Ya sabes dónde la guardas.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/lo-que-dices-en-terapia-se-queda-en-terapia", label: "«Lo que dices en terapia se queda en terapia», el artículo" },
+            { url: "/blog/lealtades-invisibles-que-heredamos-sin-saber", label: "«Las lealtades invisibles que heredamos», el artículo" },
+            { url: "/blog/verguenza-que-no-se-nombra-adultos", label: "«La vergüenza que no se nombra», el artículo" },
+            { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

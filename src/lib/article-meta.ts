@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "el-peso-de-un-secreto",
+    "categoryCA": "Relacions",
+    "categoryES": "Relaciones",
+    "titleCA": "El pes d'un secret: allò que mai has explicat",
+    "titleES": "El peso de un secreto: eso que nunca has contado",
+    "excerptCA": "El pes d'un secret no és el que amagues: és el que et costa portar-lo anys. Què fa amb tu i com es treballa a la psicoteràpia de Barcelona.",
+    "excerptES": "El peso de un secreto no es lo que escondes: es lo que te cuesta llevarlo años. Qué hace contigo y cómo se trabaja en la psicoterapia de Barcelona.",
+    "datePublished": "2026-11-18"
+  },
+
+  {
     "slug": "el-paso-del-tiempo-edad-adulta",
     "categoryCA": "Identitat",
     "categoryES": "Identidad",
