@@ -1901,4 +1901,244 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+
+  // --------------------------------------------------------------------------
+  // 8. vacaciones-de-la-terapia (Com funciona la teràpia, 2026-11-19)
+  // --------------------------------------------------------------------------
+  {
+    slug: "vacaciones-de-la-terapia",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "Les vacances de la teràpia: la pausa que també treballa",
+    titleES: "Las vacaciones de la terapia: la pausa que también trabaja",
+    excerptCA:
+      "Les vacances de la teràpia no interrompen el procés: el posen a prova. Què esperar de les setmanes sense sessió i com fer que treballin per a tu.",
+    excerptES:
+      "Las vacaciones de la terapia no interrumpen el proceso: lo ponen a prueba. Qué esperar de las semanas sin sesión y cómo hacer que trabajen para ti.",
+    datePublished: "2026-11-19",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«I si em passa alguna cosa mentre ets fora?». Fa poques setmanes, un minut abans d'acabar la sessió, una pacient em va fer aquesta pregunta mig de broma. S'acostaven les vacances de la teràpia i, amb elles, tres setmanes sense consulta. La pregunta no era nova: la sento cada desembre i cada agost, gairebé sempre amb la mateixa barreja de vergonya i d'espera. I cada any em confirma el mateix: ningú no t'ha explicat què fer quan el teu psicòleg tanca el despatx.",
+      },
+      {
+        type: "paragraph",
+        text: "T'avanço la meva postura des del començament, perquè el sentit comú diu just el contrari. Les vacances de la teràpia no són temps perdut del procés: són el seu examen discret. Aquest article mira què passa de debò durant les setmanes sense sessió: per què la pausa espanta i com fer que treballi al teu favor. Ara bé, la pregunta que de veritat importa és una altra: com saber quan la pausa és sana i quan t'està avisant d'alguna cosa.",
+      },
+      {
+        type: "heading",
+        text: "Les vacances de la teràpia: què són",
+      },
+      {
+        type: "paragraph",
+        text: "Les vacances de la teràpia són les interrupcions programades del procés: les setmanes en què el teu psicòleg tanca el despatx o en què ets tu qui marxa uns dies. Tot enquadrament seriós les té, normalment per agost, per Nadal i per Setmana Santa. A Barcelona, l'agost s'ho emporta tot: la ciutat es buida, els horaris es desfan i molts processos fan la primera pausa de l'any. La consulta, amb ells. La importància de parlar-ne és simple: la teràpia també és una relació, i les relacions es posen a prova quan canvien de ritme.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha dues menes de pausa, i convé no barrejar-les. La primera: el teu terapeuta marxa i tu et quedes. La segona: marxes tu. Ara bé, cap de les dues és una interrupció del procés si està parlada. Un bon professional avisa amb temps, et diu quan torna, deixa un canal per si sorgeix una urgència i t'agenda la sessió de retorn abans de marxar. El teu t'ho ha explicat així? Si la resposta és sí, respira: això és el que fan els bons enquadraments. Si és no, ja tens una conversa per a la propera sessió.",
+      },
+      {
+        type: "heading",
+        text: "El que la pausa posa a prova",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una idea estesa que em fa frunzir el front: «mai interrompis la teràpia, que perds el fil». El sentit comú tracta les vacances de la teràpia com una avaria del procés. La meva experiència de consulta diu una altra cosa. De fet, el treball de debò no passa dins la sessió: passa entre setmana. Has de dir que no, dorms malament, la conversa amb la teva parella no surt. La sessió s'ocupa de mirar-ho; la vida, d'executar-ho. La pausa, per tant, no atura la feina: l'amplifica.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan el despatx tanca, descobreixes què portes posat. Fa dos estius, per exemple, vaig acompanyar una pacient que vivia les vacances de la teràpia com una petita orfenesa. «Torno a estar sola amb mi», deia. Doncs mira el que va passar l'agost passat. Va haver d'afrontar sola una conversa amb la seva mare que portava mesos ajornada. Sense sessió prevista, va obrir l'agenda i va trucar. El setembre, quan vam tornar, no parlava de la pausa: parlava del que la pausa li havia ensenyat. La pausa no fa el progrés; el mostra, com la marea baixa, que deixa a la vista què hi ha sota l'aigua.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, hi ha una altra descoberta que ningú no explica, i mereix el seu lloc. De vegades, les setmanes sense sessió revelen que estàs millor del que et pensaves. La rutina terapèutica, per molt bona que sigui, pot amagar el progrés sota el compte de sessions. Llavors arriba l'agost i, de cop, dues setmanes fluïdes et diuen una cosa que cap sessió et podia dir. No et passa res per estar bé. I tampoc no és cap traïció al procés. T'has preguntat mai què t'agradaria descobrir tu, a la propera pausa?",
+      },
+      {
+        type: "heading",
+        text: "Quan la pausa sí que molesta",
+      },
+      {
+        type: "paragraph",
+        text: "Enyorar el teu espai és sa. Tanmateix, a consulta faig servir sovint una distinció. Trobar a faltar la sessió i necessitar-la per funcionar són coses diferents. La primera parla del vincle; la segona, d'una dependència que convé mirar. Si cada pausa et fa caure en una crisi, la pausa no és el problema: és el detector. Passa el mateix si el despatx és l'únic lloc on existeixes de debò.",
+      },
+      {
+        type: "paragraph",
+        text: "El desembre, a més, apila. Les festes, la família i la pausa terapèutica poden coincidir a la mateixa quinzena, i molta gent arriba al gener més buida que al novembre. Per això, quan intueixo un desembre delicat, ho parlem abans: què faràs els dies que pesin, qui tens a la vora. Aquí la pregunta de la meva pacient del començament mereix una resposta honesta. Si un terapeuta tanca uns dies, deixa la manera de contactar-lo o un col·lega de referència; el que no pot esperar té els seus canals, com sempre. Cap professional seriós et deixa sol del tot: t'ho dic des de la nostra consulta de Barcelona.",
+      },
+      {
+        type: "heading",
+        text: "Com fer que la pausa treballi per a tu",
+      },
+      {
+        type: "paragraph",
+        text: "Abans de cada tancament, dono una única consigna als pacients. La dono perquè funciona: escriu tres línies els dies que alguna cosa es mogui. Ni diari, ni deure, ni marató d'exercicis. Tres línies el dia que passi alguna cosa. El dia que dormis malament. El dia que diguis el que feia temps que no gosaves. El quadern fa de sessió de butxaca. Al setembre o al gener, aquestes línies es converteixen en material de primera, i moltes sessions de retorn arrenquen millor amb tres línies escrites que amb un mes de memòria.",
+      },
+      {
+        type: "paragraph",
+        text: "La resta és fusteria. Torna a mirar la setmana i contesta: què mantens tu, sense sessió, que sigui teu? El passeig de diumenge, la partida setmanal, la conversa amb qui et coneix de fa anys. No cal omplir cada forat: una pausa buida no és una pausa dolenta. La pausa no demana productivitat; demana atenció.",
+      },
+      {
+        type: "heading",
+        text: "El retorn: la sessió que ho recull",
+      },
+      {
+        type: "paragraph",
+        text: "La primera sessió després de vacances té mala reputació, i no l'aguanta. Sí, els primers minuts tenen una cosa estranya, com tornar d'un viatge amb el cos encara a un altre lloc. Es passa aviat. Però després ve el millor: la sessió de retorn funciona com un inventari. Què ha passat? Què has pogut fer sol? Què t'ha costat? Molts pacients hi arriben amb el quadernet a la mà i, de fet, aquesta sessió sol avançar més que dues de corrents, perquè la pausa ha condensat el material. Jo les espero, francament: són de les sessions més vives de l'any.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre les vacances de la teràpia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Perdre dues o tres setmanes de teràpia em farà retrocedir?",
+            answer: "No. El procés no s'evapora amb el calendari; de fet, bona part del que s'ha treballat necessita temps quiet per assentar-se. El que sí que passa sovint és una petita por els dies abans de tornar. És normal: és la por de descobrir que encara hi ha feina.",
+          },
+          {
+            question: "I si em trobo malament mentre el meu psicòleg és fora?",
+            answer: "Porta-ho al pla de tancament. Un enquadrament seriós deixa un canal per a urgències o un professional de referència. I si cada pausa et fa mal, digue-ho a la sessió següent: allà hi ha material sobre la teva relació amb el suport.",
+          },
+          {
+            question: "Puc fer pausa jo, si m'he d'absentar?",
+            answer: "Sí, sempre que la parlis. Falta una sessió per feina és vida; el que trenca el procés és desaparèixer sense dir res, perquè omple el buit de significats. Comunica i tria: la pausa elegida és part del procés; la fuga, en canvi, acostuma a avisar d'alguna cosa més.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Abans de la propera pausa",
+      },
+      {
+        type: "paragraph",
+        text: "Una sola cosa per a aquesta setmana, tinguis teràpia o no. Si tens sessió, porta-hi una pregunta concreta: què vull que la propera pausa em mostri? Escriu la resposta en dues línies i deixa-la al calaix dels papers importants. Si no tens sessió, la pregunta canvia una mica: fa quant que cada agost i cada desembre t'agafen sol, amb el que arrossegues? No ho dic per preocupar-te. Ho dic per la quantitat de gent que arriba al gener amb la pausa a sobre i sense haver-la pensada mai. Ho dic perquè les pauses passen igual, tinguis procés o no; la diferència és amb què et troben.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o en línia. Si fas teràpia i la propera pausa t'inquieta, la millor inversió és portar la inquietud a la teva sessió; el teu procés t'ho agrairà. I si fa temps que els tancaments d'agost i de desembre et troben sempre a soles, ho podem mirar plegats. Pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. La pausa arribarà de totes maneres. Ara tens l'oportunitat d'arribar-hi tu també, acompanyat.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/cuando-la-terapia-se-acaba", label: "«Quan la teràpia s'acaba», l'article" },
+            { url: "/blog/terapia-estancada", label: "«La teràpia estancada», l'article" },
+            { url: "/blog/el-vinculo-terapeutico-por-que-la-relacion-importa", label: "«El vincle terapèutic», l'article" },
+            { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«¿Y si me pasa algo mientras no estás?». Hace unas semanas, un minuto antes de terminar la sesión, una paciente me hizo esta pregunta medio en broma. Se acercaban las vacaciones de la terapia y, con ellas, tres semanas sin consulta. La pregunta no era nueva: la escucho cada diciembre y cada agosto, casi siempre con la misma mezcla de vergüenza y de espera. Y cada año me confirma lo mismo: nadie te ha explicado qué hacer cuando tu psicólogo cierra el despacho.",
+      },
+      {
+        type: "paragraph",
+        text: "Te adelanto mi postura desde el principio, porque el sentido común dice justo lo contrario. Las vacaciones de la terapia no son tiempo perdido del proceso: son su examen discreto. Este artículo mira qué ocurre de verdad durante las semanas sin sesión: por qué la pausa asusta y cómo hacer que trabaje a tu favor. Ahora bien, la pregunta que de verdad importa es otra: cómo saber cuándo la pausa es sana y cuándo te está avisando de algo.",
+      },
+      {
+        type: "heading",
+        text: "Las vacaciones de la terapia: qué son",
+      },
+      {
+        type: "paragraph",
+        text: "Las vacaciones de la terapia son las interrupciones programadas del proceso: las semanas en que tu psicólogo cierra el despacho o en que eres tú quien se va unos días. Todo encuadre serio las tiene, normalmente en agosto, en Navidad y en Semana Santa. En Barcelona, el agosto se lo lleva todo: la ciudad se vacía, los horarios se deshacen y muchos procesos hacen su primera pausa del año. La consulta, con ellos. La importancia de hablar de esto es simple: la terapia también es una relación, y las relaciones se ponen a prueba cuando cambian de ritmo.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay dos tipos de pausa, y conviene no mezclarlos. El primero: tu terapeuta se va y te quedas. El segundo: te vas tú. Ahora bien, ninguna de las dos es una interrupción del proceso si está hablada. Un buen profesional avisa con tiempo, te dice cuándo vuelve, deja un canal por si surge algo urgente y te agenda la sesión de retorno antes de marcharse. ¿El tuyo te lo ha explicado así? Si la respuesta es sí, respira: eso hacen los buenos encuadres. Si es no, ya tienes una conversación para la próxima sesión.",
+      },
+      {
+        type: "heading",
+        text: "Lo que la pausa pone a prueba",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una idea extendida que me hace fruncir el ceño: «nunca interrumpas la terapia, que pierdes el hilo». El sentido común trata las vacaciones de la terapia como una avería del proceso. Mi experiencia en consulta dice otra cosa. De hecho, el trabajo de verdad no pasa dentro de la sesión: pasa entre semana. Tienes que decir que no, duermes mal, esa conversación con tu pareja no sale. La sesión se ocupa de mirarlo; la vida, de ejecutarlo. La pausa, por tanto, no detiene el trabajo: lo amplifica.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando el despacho cierra, descubres qué llevas puesto. Hace dos veranos, por ejemplo, acompañé a una paciente que vivía las vacaciones de la terapia como una pequeña orfandad. «Vuelvo a estar sola conmigo», decía. Pues mira lo que pasó el agosto pasado. Tuvo que encarar sola una conversación con su madre que llevaba meses aplazando. Sin sesión prevista, abrió la agenda y llamó. En septiembre, cuando volvimos, no hablaba de la pausa: hablaba de lo que la pausa le había enseñado. La pausa no hace el progreso; lo muestra, como la marea baja, que deja a la vista qué hay bajo el agua.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, hay otro descubrimiento que nadie cuenta, y merece su sitio. A veces, las semanas sin sesión revelan que estás mejor de lo que pensabas. La rutina terapéutica, por muy buena que sea, puede esconder el progreso debajo del número de sesiones. Entonces llega agosto y, de pronto, dos semanas fluidas te dicen algo que ninguna sesión podía decirte. No te pasa nada por estar bien. Y tampoco es una traición al proceso. ¿Te has preguntado alguna vez qué te gustaría descubrir tú en la próxima pausa?",
+      },
+      {
+        type: "heading",
+        text: "Cuando la pausa sí molesta",
+      },
+      {
+        type: "paragraph",
+        text: "Echar de menos tu espacio es sano. Sin embargo, en consulta uso a menudo una distinción. Echar de menos la sesión y necesitarla para funcionar son cosas distintas. La primera habla del vínculo; la segunda, de una dependencia que conviene mirar. Si cada pausa te hunde, la pausa no es el problema: es el detector. Pasa lo mismo si el despacho es el único lugar donde existes de verdad.",
+      },
+      {
+        type: "paragraph",
+        text: "El diciembre, además, apila. Las fiestas, la familia y la pausa terapéutica pueden coincidir en la misma quincena, y mucha gente llega a enero más vacía que en noviembre. Por eso, cuando intuyo un diciembre delicado, lo hablamos antes: qué harás los días que pesen, quién tienes cerca. Aquí la pregunta de mi paciente del principio merece una respuesta honesta. Si un terapeuta cierra unos días, deja la manera de contactarlo o un colega de referencia; lo que no puede esperar tiene sus canales, como siempre. Ningún profesional serio te deja solo del todo: te lo digo desde nuestra consulta de Barcelona.",
+      },
+      {
+        type: "heading",
+        text: "Cómo hacer que la pausa trabaje para ti",
+      },
+      {
+        type: "paragraph",
+        text: "Antes de cada cierre, doy una única consigna a los pacientes. La doy porque funciona: escribe tres líneas los días que algo se mueva. Ni diario, ni deber, ni maratón de ejercicios. Tres líneas el día que pase algo. El día que duermas mal. El día que digas lo que hacía tiempo que no te atrevías. El cuaderno hace de sesión de bolsillo. En septiembre o en enero, esas líneas se convierten en material de primera, y muchas sesiones de retorno arrancan mejor con tres líneas escritas que con un mes de memoria.",
+      },
+      {
+        type: "paragraph",
+        text: "El resto es carpintería. Vuelve a mirar tu semana y contesta: ¿qué mantienes tú, sin sesión, que sea tuyo? El paseo del domingo, la partida semanal, la conversación con quien te conoce de hace años. No hace falta llenar cada hueco: una pausa vacía no es una mala pausa. La pausa no pide productividad; pide atención.",
+      },
+      {
+        type: "heading",
+        text: "El retorno: la sesión que lo recoge",
+      },
+      {
+        type: "paragraph",
+        text: "La primera sesión después de vacaciones tiene mala reputación, y no la aguanta. Sí, los primeros minutos tienen algo raro, como volver de un viaje con el cuerpo todavía en otro sitio. Se pasa pronto. Pero después viene lo mejor: la sesión de retorno funciona como un inventario. ¿Qué ha pasado? ¿Qué has podido hacer solo? ¿Qué te ha costado? Muchos pacientes llegan con el cuaderno en la mano y, de hecho, esa sesión suele avanzar más que dos corrientes, porque la pausa ha condensado el material. Yo las espero, francamente: son de las sesiones más vivas del año.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre las vacaciones de la terapia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Perder dos o tres semanas de terapia me hará retroceder?",
+            answer: "No. El proceso no se evapora con el calendario; de hecho, buena parte de lo trabajado necesita tiempo quieto para asentarse. Lo que sí pasa a menudo es un poco de miedo los días antes de volver. Es normal: es el miedo de descubrir que todavía queda trabajo.",
+          },
+          {
+            question: "¿Y si me encuentro mal mientras mi psicólogo está fuera?",
+            answer: "Llévalo al plan de cierre. Un encuadre serio deja un canal para urgencias o un profesional de referencia. Y si cada pausa te hace daño, dilo en la sesión siguiente: ahí hay material sobre tu relación con el apoyo.",
+          },
+          {
+            question: "¿Puedo hacer pausa yo, si tengo que ausentarme?",
+            answer: "Sí, siempre que la hables. Faltar a una sesión por trabajo es vida; lo que rompe el proceso es desaparecer sin decir nada. Comunica y elige: la pausa elegida es parte del proceso; la fuga, en cambio, suele avisar de algo más.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Antes de la próxima pausa",
+      },
+      {
+        type: "paragraph",
+        text: "Una sola cosa para esta semana, tengas terapia o no. Si tienes sesión, llévale una pregunta concreta: ¿qué quiero que la próxima pausa me muestre? Escribe la respuesta en dos líneas y déjala en el cajón de los papeles importantes. Si no tienes sesión, la pregunta cambia un poco: ¿hace cuánto que cada agosto y cada diciembre te encuentran solo, con lo que arrastras? No lo digo para preocuparte. Lo digo por la cantidad de gente que llega a enero con la pausa a cuestas y sin haberla pensado nunca. Lo digo porque las pausas pasan igual, tengas proceso o no; la diferencia es con qué te reciben.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial u online. Si haces terapia y la próxima pausa te inquieta, la mejor inversión es llevar la inquietud a tu sesión; tu proceso te lo agradecerá. Y si hace tiempo que los cierres de agosto y de diciembre te encuentran siempre solo, podemos mirarlo juntos. Puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. La pausa llegará de todas maneras. Ahora tienes la oportunidad de llegar tú también, acompañado.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/cuando-la-terapia-se-acaba", label: "«Cuando la terapia se acaba», el artículo" },
+            { url: "/blog/terapia-estancada", label: "«La terapia estancada», el artículo" },
+            { url: "/blog/el-vinculo-terapeutico-por-que-la-relacion-importa", label: "«El vínculo terapéutico», el artículo" },
+            { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "vacaciones-de-la-terapia",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "Les vacances de la teràpia: la pausa que també treballa",
+    "titleES": "Las vacaciones de la terapia: la pausa que también trabaja",
+    "excerptCA": "Les vacances de la teràpia no interrompen el procés: el posen a prova. Què esperar de les setmanes sense sessió i com fer que treballin per a tu.",
+    "excerptES": "Las vacaciones de la terapia no interrumpen el proceso: lo ponen a prueba. Qué esperar de las semanas sin sesión y cómo hacer que trabajen para ti.",
+    "datePublished": "2026-11-19"
+  },
+
+  {
     "slug": "el-peso-de-un-secreto",
     "categoryCA": "Relacions",
     "categoryES": "Relaciones",
