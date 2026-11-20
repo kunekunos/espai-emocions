@@ -2141,4 +2141,244 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+
+  // --------------------------------------------------------------------------
+  // 9. duelo-sin-despedida (Canvis vitals, 2026-11-20)
+  // --------------------------------------------------------------------------
+  {
+    slug: "duelo-sin-despedida",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "El dol sense acomiadament: quan mor algú amb qui no parlaves",
+    titleES: "El duelo sin despedida: cuando muere alguien con quien no hablabas",
+    excerptCA:
+      "El dol sense acomiadament arriba quan mor algú amb qui feia anys que no parlaves. Què fer amb la culpa i l'alleujament, i com es treballa a la consulta.",
+    excerptES:
+      "El duelo sin despedida llega cuando muere alguien con quien llevabas años sin hablar. Qué hacer con la culpa y el alivio, y cómo se trabaja en consulta.",
+    datePublished: "2026-11-20",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha morts que no arriben amb el telèfon de matinada. Arriben amb un missatge al grup de família, amb una trucada d'una tieta que feia temps que no senties. O amb una frase tan curta que la llegeixes tres vegades: «S'ha mort». I després ve el detall que ho capgira tot: feia anys que no hi parlaves. Un pare. Un germà. L'amiga de la carrera amb qui tot es va trencar per una raó que ara, de lluny, ningú no sabria reconstruir. A consulta, això té nom: el dol sense acomiadament. I és un dels processos més solitaris que existeixen, perquè ningú no sap del cert què has perdut. Ni tu.",
+      },
+      {
+        type: "paragraph",
+        text: "T'avanço la meva postura des del començament, perquè internet tracta el dol amb manual i amb pressa. Aquesta mort no tanca la relació: la congela. La feina, quan arriba a psicoteràpia, no consisteix a tancar cap calaix. Consisteix a fer les paus amb una història que ja no es pot reescriure. Aquest article mira què és exactament aquest dol. Mira per què fa tant de mal un vincle refredat i com es treballa quan s'enganxa. Et sona? Doncs anem per parts.",
+      },
+      {
+        type: "heading",
+        text: "El dol sense acomiadament: què és",
+      },
+      {
+        type: "paragraph",
+        text: "El dol sense acomiadament és perdre algú amb qui el vincle feia temps que s'havia refredat o trencat. Pot ser un familiar distanciat, un germà amb qui no us parlàveu o un amic perdut fa anys. La particularitat no és la mort: és que arribes sense la relació a l'esquena. Hi ha una expressió tècnica que li esca: el dol desautoritzat. És el dol que l'entorn no reconeix perquè no encaixa al guió esperat. Tothom entén que ploris una mare estimada. En canvi, plorar un pare del qual feia una dècada que no sabies res genera silencis incòmodes, mostres de condol tíbies i aquell comentari de «bé, vosaltres ja no us parlàveu». Ningú no et porta menjar a casa. La importància de posar-hi nom és enorme. Quan el dol no té reconeixement social, se't queda a dins molt més temps del compte i amb poques paraules.",
+      },
+      {
+        type: "heading",
+        text: "La doble pèrdua: allò que ja havies perdut",
+      },
+      {
+        type: "paragraph",
+        text: "Aquest dol enganya perquè sembla que arriba tard. En realitat, ja el portaves a sobre. El trencament del vincle, anys enrere, ja va ser una pèrdua: una de freda. Sense funeral, sense calendari; amb un dol paral·lel que ningú no tancava. Ara la mort afegeix la segona part: desapareix la possibilitat de reparar. La porta es tanca del tot. Aquella trucada que potser algun dia, aquella conversa a mitges que et reservaves, aquell «ja ho parlarem» es tornen impossibles. Per això tantes persones diuen que el pitjor no és la mort: és que ja no quedi cap manera d'arreglar res.",
+      },
+      {
+        type: "paragraph",
+        text: "I després hi ha l'ambivalència, el territori real d'aquest dol. Hi conviuen dues coses: la culpa («hauria d'haver trucat») i la ràbia vella que no va marxar mai. I a vegades, una tercera: un alleujament del qual ningú no gosa parlar. És normal. Sona contradictori, però alleujar-se no és celebrar una mort: és notar que ja no sostens la tensió d'un vincle trencat. Has sentit mai alguna cosa així sense saber on posar-la?",
+      },
+      {
+        type: "heading",
+        text: "La motxilla del funeral",
+      },
+      {
+        type: "paragraph",
+        text: "L'entorn no t'ho posa fàcil. Al funeral hi ha gent que et fa el condol i gent que et vigila. Alguna mirada calcula si plores prou; alguna altra, si plores massa. «Vosaltres ja no us parlàveu», sentencia algú a la porta de la capella. T'has passat mai un funeral sencer calculant quan era correcte marxar?",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, la pregunta que més arrossega gent a consulta amb aquest dol és molt concreta. «Puc anar al funeral si feia anys que no ens parlàvem?». La meva resposta és sempre la mateixa. El funeral és per als vius. Punt. Hi vas si et serveix per acomiadar allò que sí que va existir: la versió bona del vincle, la d'abans de la ruptura. I no hi vas si no vols, sense haver de donar explicacions a ningú. No hi ha cap tribunal que ho dictamini, encara que la família actuï com si n'hi hagués.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a la psicoteràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Arribem a la pregunta pràctica: què es fa, a consulta, amb tot això. T'aviso: res d'espectacular. La feina del dol sense acomiadament és lenta, més avorrida del que prometen els manuals d'autoajuda. A canvi, és la que sostenen dècades de pràctica clínica. Per on es comença? Per allò que no es va dir.",
+      },
+      {
+        type: "paragraph",
+        text: "Sovint comencem escrivint la carta que mai no s'enviarà. Paraules per a qui ja no pot llegir-les, dites amb la llibertat de saber que ningú no les llegirà. Funciona per una raó senzilla: mou el dol del cap, on dona voltes en cercles, al paper. Allà es pot mirar i, sobretot, descansar.",
+      },
+      {
+        type: "paragraph",
+        text: "En alguns processos, més endavant, treballem amb la cadira buida, una tècnica de la Gestalt. Davant teu, una cadira on no seu ningú; a dins, tot el que calgui dir-hi. No és per a tothom ni per al primer dia: es fa quan la persona ja s'aguanta dreta enmig del dol. El criteri importa: la cadira serveix perquè hi puguis dir allò que ja no es pot dir enlloc més. Sovint en surt una frase més senzilla del que s'esperava: «et trobaré a faltar, malgrat tot». Quan troba el seu lloc, hi ha feina feta.",
+      },
+      {
+        type: "paragraph",
+        text: "L'última peça és el ritual propi. La cultura regala rituals als dols que reconeix, i aquest no en té cap d'assignat: doncs te'l fabriques. Visitant el lloc que per a vosaltres dos tenia sentit. Encenent una espelma el dia del seu sant. Fent el dinar que li agradava, un any després. Sembla poc; no ho és. Posa data, posa cos i posa companyia on el calendari dels altres no contempla res.",
+      },
+      {
+        type: "heading",
+        text: "Quan convé demanar ajuda",
+      },
+      {
+        type: "paragraph",
+        text: "Qualsevol dol és un procés, i aquest també. Ara bé, hi ha senyals que demanen acompanyament professional. La culpa que segueix girant mesos després. El retrobament familiar que reactiva rols antics que encara fan mal. L'aïllament, o el son que es trenca cada vegada que apareix la seva cara. I una de molt concreta: si al cap de mesos t'hi enfrontes igual que el primer dia, potser és el moment. Demanar ajuda, llavors, és donar-li estructura al dol.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre el dol sense acomiadament",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal sentir alleujament quan mor algú amb qui no em parlava?",
+            answer: "Sí, i és dels sentiments que més vergonya provoca. Alleujar-se no és alegrar-se de la mort: és descàrrega, la de qui ja no sosté la tensió d'un vincle trencat durant anys. Conviu amb la tristesa, encara que no sembli. Si t'amoïna, porta-ho a consulta: aquesta contradicció és material de primera.",
+          },
+          {
+            question: "I si no sento res?",
+            answer: "La fredor inicial també és dol: hi ha persones que necessiten sostenir-se en l'aturada emocional mentre la vida familiar exigeix. El dol diferit existeix. I sol arribar mesos després, sovint per una data senyalada o per una escena petita i absurda. Si arriba, no és cap recaida: és que ja pot arribar.",
+          },
+          {
+            question: "Puc fer el dol d'algú que em va fer mal?",
+            answer: "Pots i, de fet, el faràs: el cos no consulta els historials abans de doler. El que canvia és què se'n fa, d'això. Es pot acomiadar la part del vincle que sí que va ser bona sense rehabilitar la que no ho va ser. Per això aquest dol es fa millor acompanyat.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La conversa que ja no serà",
+      },
+      {
+        type: "paragraph",
+        text: "Una acció per a aquesta setmana, tinguis teràpia o no. Escriu en tres línies allò que mai no li vas dir, sense enviar-la a ningú: és teva, i és per a tu. Si et deixa alguna cosa a la boca de l'estómac, ja saps on viu, aquest dol. I si tens teràpia, porta-ho a la sessió: és el material més honest que hi ha.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o en línia. Si has perdut algú amb qui no parlaves i el dol no troba el seu lloc, ho podem mirar plegats: pots demanar una primera visita des de la pàgina de contacte o escriure'ns per WhatsApp. La conversa que no va ser, ja no es podrà fer. La que et deus, sí.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/perder-padre-edad-adulta", label: "«Perdre un pare o una mare», l'article" },
+            { url: "/blog/conversaciones-pendientes-con-tus-padres", label: "«Converses pendents amb els teus pares», l'article" },
+            { url: "/blog/duelo-fechas-senhaladas", label: "«El dol en dates assenyalades», l'article" },
+            { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay muertes que no llegan con el teléfono de madrugada. Llegan con un mensaje al grupo familiar, con una llamada de una tía que hacía tiempo que no escuchabas. O con una frase tan corta que la lees tres veces: «Ha muerto». Y después llega el detalle que lo cambia todo: llevabais años sin hablaros. Un padre. Un hermano. La amiga de la carrera con la que todo se rompió por un motivo que ahora, desde lejos, nadie sabría reconstruir. En consulta esto tiene nombre: el duelo sin despedida. Y es uno de los procesos más solitarios que existen, porque nadie sabe a ciencia cierta qué has perdido. Ni tú.",
+      },
+      {
+        type: "paragraph",
+        text: "Te adelanto mi postura desde el principio, porque internet trata el duelo con manual y con prisa. Esta muerte no cierra la relación: la congela. El trabajo, cuando llega a psicoterapia, no consiste en cerrar ningún cajón. Consiste en hacer las paces con una historia que ya no se puede reescribir. Este artículo mira qué es exactamente este duelo, por qué duele tanto un vínculo que ya estaba frío y cómo se trabaja cuando se atasca. ¿Te suena? Pues vamos por partes.",
+      },
+      {
+        type: "heading",
+        text: "El duelo sin despedida: qué es",
+      },
+      {
+        type: "paragraph",
+        text: "El duelo sin despedida es perder a alguien con quien el vínculo llevaba tiempo roto o enfriado. Puede ser un familiar distanciado, un hermano con quien no os hablabais, un amigo perdido hace años. La particularidad no es la muerte: es que llegas sin la relación a la espalda. Hay una expresión técnica que le encaja: el duelo desautorizado, el duelo que el entorno no reconoce porque no cabe en el guion esperado. Todo el mundo entiende que llores a una madre querida. En cambio, llorar a un padre del que llevabas una década sin noticias genera silencios incómodos y pésames tibios. Y siempre, ese comentario de «bueno, vosotros ya no os hablabais». Nadie te lleva comida a casa. La importancia de ponerle nombre es enorme: cuando el duelo no tiene reconocimiento social, se te queda dentro más tiempo y con menos palabras.",
+      },
+      {
+        type: "heading",
+        text: "La doble pérdida: lo que ya habías perdido",
+      },
+      {
+        type: "paragraph",
+        text: "Este duelo engaña porque parece que llega tarde. En realidad, ya lo llevabas encima. La ruptura del vínculo, años atrás, ya fue una pérdida: una fría, sin funeral y sin calendario, con un luto paralelo que nadie cerraba. Ahora la muerte añade la segunda parte: desaparece la posibilidad de reparar. La puerta se cierra del todo. Aquella llamada que quizá algún día, aquella conversación a medias que te reservabas, aquel «ya lo hablaremos» se vuelven imposibles. Por eso tanta gente dice que lo peor no es la muerte: es que ya no quede manera alguna de arreglar nada.",
+      },
+      {
+        type: "paragraph",
+        text: "Y luego está la ambivalencia, el territorio real de este duelo. Conviven dos cosas: la culpa («tendría que haber llamado») y la vieja rabia que nunca se marchó. Y a veces, una tercera: un alivio del que nadie se atreve a hablar. Es normal. Parece contradictorio, pero aliviarse no es celebrar una muerte: es notar que ya no sostienes la tensión de un vínculo roto. ¿Has sentido alguna vez algo así sin saber dónde ponerlo?",
+      },
+      {
+        type: "heading",
+        text: "La mochila del funeral",
+      },
+      {
+        type: "paragraph",
+        text: "El entorno no te lo pone fácil. En el funeral hay gente que te da el pésame y gente que te vigila. Alguna mirada calcula si lloras suficiente; otra, si lloras demasiado. «Vosotros ya no os hablabais», sentencia alguien en la puerta de la capilla. ¿Te has pasado un funeral entero calculando cuándo era correcto irse?",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, la pregunta que arrastra más gente a consulta con este duelo es muy concreta. «¿Puedo ir al funeral si llevaba años sin hablar con él?». Mi respuesta es siempre la misma. El funeral es para los vivos. Punto. Vas si te sirve para despedir aquello que sí existió: la versión buena del vínculo, la de antes de la ruptura. Y no vas si no quieres, sin dar explicaciones a nadie. No hay ningún tribunal que lo dictamine, aunque la familia actúe como si lo hubiera.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en psicoterapia",
+      },
+      {
+        type: "paragraph",
+        text: "Llegamos a lo práctico: qué se hace, en consulta, con todo esto. Te aviso: nada espectacular. El trabajo del duelo sin despedida es lento, más aburrido de lo que prometen los manuales de autoayuda. A cambio, es el que sostienen décadas de práctica clínica. ¿Por dónde se empieza? Por lo que no se dijo.",
+      },
+      {
+        type: "paragraph",
+        text: "A menudo empezamos escribiendo la carta que nunca se enviará. Palabras para quien ya no puede leerlas, dichas con la libertad de saber que nadie las leerá. Funciona por una razón sencilla: mueve el duelo de la cabeza, donde da vueltas en círculos, al papel. Ahí se puede mirar y, sobre todo, descansar.",
+      },
+      {
+        type: "paragraph",
+        text: "En algunos procesos, más adelante, trabajamos con la silla vacía, una técnica de la Gestalt. Delante de ti, una silla donde no se sienta nadie; dentro, todo lo que haga falta decir. No es para todo el mundo ni para el primer día: se hace cuando la persona ya se sostiene en mitad del duelo. El criterio importa: la silla sirve para que puedas decir aquello que ya no puede decirse en ningún otro sitio. A veces sale una frase más sencilla de lo esperado: «te echaré de menos, a pesar de todo». Cuando encuentra su sitio, hay trabajo hecho.",
+      },
+      {
+        type: "paragraph",
+        text: "La última pieza es el ritual propio. La cultura regala rituales a los duelos que reconoce, y este no tiene ninguno asignado: pues te lo fabricas. Visitando el sitio que para los dos tenía sentido. Encendiendo una vela el día de su santo. Haciendo la comida que le gustaba, un año después. Parece poco; no lo es. Pone fecha, pone cuerpo y pone compañía donde el calendario de los demás no contempla nada.",
+      },
+      {
+        type: "heading",
+        text: "Cuándo conviene pedir ayuda",
+      },
+      {
+        type: "paragraph",
+        text: "Cualquier duelo es un proceso, y este también. Ahora bien, hay señales que piden acompañamiento profesional. La culpa que sigue girando meses después. El reencuentro familiar que reactiva roles antiguos que aún duelen. El aislamiento, o el sueño que se rompe cada vez que aparece su cara. Y una muy concreta: si a los meses lo afrontas igual que el primer día, quizá sea el momento. Pedir ayuda, entonces, es darle estructura al duelo.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre el duelo sin despedida",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal sentir alivio cuando muere alguien con quien no hablaba?",
+            answer: "Sí, y es de los sentimientos que más vergüenza provoca. Aliviarse no es alegrarse de la muerte: es descarga, la de quien ya no sostiene durante años la tensión de un vínculo roto. Convive con la tristeza, aunque no lo parezca. Si te preocupa, llévalo a consulta: esa contradicción es material de primera.",
+          },
+          {
+            question: "¿Y si no siento nada?",
+            answer: "El frío inicial también es duelo: hay personas que necesitan sostenerse en la parada emocional mientras la vida familiar exige. El duelo diferido existe. Y suele llegar meses después, a menudo por una fecha señalada o por una escena pequeña y absurda. Si llega, no es recaída: es que ya puede llegar.",
+          },
+          {
+            question: "¿Puedo hacer el duelo de alguien que me hizo daño?",
+            answer: "Puedes y, de hecho, lo harás: el cuerpo no consulta los historiales antes de doler. Lo que cambia es qué se hace con eso. Se puede despedir la parte del vínculo que sí fue buena sin rehabilitar la que no lo fue. Por eso este duelo se hace mejor acompañado.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La conversación que ya no será",
+      },
+      {
+        type: "paragraph",
+        text: "Una acción para esta semana, tengas terapia o no. Escribe en tres líneas aquello que nunca le dijiste, sin enviarla a nadie: es tuya, y es para ti. Si te deja algo en la boca del estómago, ya lo sabes. Este duelo ya tiene dirección. Y si estás en terapia, llévalo a la sesión: es el material más honesto que hay.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial o en línea. Si has perdido a alguien con quien no hablabas y el duelo no encuentra su sitio, lo podemos mirar juntos: puedes pedir una primera visita desde la página de contacto o escribirnos por WhatsApp. La conversación que no fue, ya no se podrá tener. La que te debes, sí.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/perder-padre-edad-adulta", label: "«Perder a un padre o a una madre», el artículo" },
+            { url: "/blog/conversaciones-pendientes-con-tus-padres", label: "«Conversaciones pendientes con tus padres», el artículo" },
+            { url: "/blog/duelo-fechas-senhaladas", label: "«El duelo en fechas señaladas», el artículo" },
+            { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

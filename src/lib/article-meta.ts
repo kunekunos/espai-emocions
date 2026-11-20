@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "duelo-sin-despedida",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "El dol sense acomiadament: quan mor algú amb qui no parlaves",
+    "titleES": "El duelo sin despedida: cuando muere alguien con quien no hablabas",
+    "excerptCA": "El dol sense acomiadament arriba quan mor algú amb qui feia anys que no parlaves. Què fer amb la culpa i l'alleujament, i com es treballa a la consulta.",
+    "excerptES": "El duelo sin despedida llega cuando muere alguien con quien llevabas años sin hablar. Qué hacer con la culpa y el alivio, y cómo se trabaja en consulta.",
+    "datePublished": "2026-11-20"
+  },
+  {
     "slug": "vacaciones-de-la-terapia",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
@@ -22,7 +32,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "Las vacaciones de la terapia no interrumpen el proceso: lo ponen a prueba. Qué esperar de las semanas sin sesión y cómo hacer que trabajen para ti.",
     "datePublished": "2026-11-19"
   },
-
   {
     "slug": "el-peso-de-un-secreto",
     "categoryCA": "Relacions",
@@ -33,7 +42,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "El peso de un secreto no es lo que escondes: es lo que te cuesta llevarlo años. Qué hace contigo y cómo se trabaja en la psicoterapia de Barcelona.",
     "datePublished": "2026-11-18"
   },
-
   {
     "slug": "el-paso-del-tiempo-edad-adulta",
     "categoryCA": "Identitat",
@@ -44,7 +52,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "El paso del tiempo no corre más: tu vida pierde primeras veces. Por qué los años se aceleran a mitad de vida y cómo se trabaja en psicoterapia.",
     "datePublished": "2026-11-17"
   },
-
   {
     "slug": "el-movil-en-la-pareja",
     "categoryCA": "Parella",
@@ -55,7 +62,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "El móvil en la pareja no rompe nada por sí solo: ocupa un lugar que algo dejó vacío. Qué dice tu sofá de las diez y cómo se trabaja en consulta.",
     "datePublished": "2026-11-16"
   },
-
   {
     "slug": "sindrome-nido-vacio",
     "categoryCA": "Canvis vitals",
@@ -66,7 +72,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "El síndrome del nido vacío no es tristeza pasajera: toca tu identidad de madre o de padre. Qué ocurre cuando los hijos se van y cómo se trabaja en terapia.",
     "datePublished": "2026-11-15"
   },
-
   {
     "slug": "terapia-estancada",
     "categoryCA": "Com funciona la teràpia",
@@ -77,7 +82,6 @@ export const articleMeta: ArticleMeta[] = [
     "excerptES": "La terapia estancada no siempre anuncia un mal profesional: suele marcar cuando el proceso toca lo difícil. Cómo distinguir las paradas y qué hacer.",
     "datePublished": "2026-11-14"
   },
-
   {
     "slug": "dormir-en-habitaciones-separadas",
     "categoryCA": "Parella",
