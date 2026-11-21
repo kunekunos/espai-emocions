@@ -2381,4 +2381,291 @@ export const articlesPart19: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 10. pensamientos-intrusos (Ansietat, 2026-11-21)
+  // --------------------------------------------------------------------------
+  {
+    slug: "pensamientos-intrusos",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "Pensaments intrusius: quan preocupen i quan no",
+    titleES: "Pensamientos intrusos: cuándo preocupan y cuándo no",
+    excerptCA:
+      "Els pensaments intrusius arriben sense permís i fan por: una imatge violenta, un impuls absurc. Què signifiquen de debò i com es treballen a consulta.",
+    excerptES:
+      "Los pensamientos intrusos aparecen sin permiso y asustan: una imagen violenta, un impulso absurdo. Qué significan de verdad y cómo se trabajan en consulta.",
+    datePublished: "2026-11-21",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Alguna vegada, esperant el metro, t'ha creuat pel cap, sense venir a tomb, un «i si em llanço?» Tot seguit fas dos passos enrere, amb el cor accelerat, preguntant-te quina mena de persona porta això a dins? En psicologia aquest llampec té nom: pensaments intrusius. I gairebé ningú no ho diu en veu alta. A la consulta de psicologia de Barcelona ho escoltem cada setmana, gairebé sempre en un xiuxiueig, com qui confessa un delicte. Aquest article vol tornar-te el relat que ningú no et va donar: tenir-los és humà, entendre'ls tranquil·litza i, en la gran majoria de casos, no signifiquen res dolent de tu.",
+      },
+      {
+        type: "paragraph",
+        text: "T'avanço la meva postura des del començament, perquè internet ven dues mentides oposades: la de «buida la ment» i la de «cada pensament revela qui ets». Les dues et deixen pitjor. Un pensament no és cap desig ni cap profecia. I l'objectiu de la teràpia mai no ha estat un cap en blanc, perquè no existeix. La pregunta útil no és què penses; és què fas amb el que penses. Et sona? Doncs anem per parts.",
+      },
+      {
+        type: "heading",
+        text: "Què són els pensaments intrusius",
+      },
+      {
+        type: "paragraph",
+        text: "Els pensaments intrusius són idees, imatges o impulsos que apareixen sense ser cridats i amb un contingut que xoca amb qui ets: colpejar algú que estimes, una escena sexual absurda, un «i si li faig mal» en plena tarda de diumenge. Són involuntaris i breus. Sempre sorprenen. La paraula clau és «intrús»: ningú no els convida, ningú no els vol i, tanmateix, quasi tothom els ha tingut alguna vegada.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, fa dècades que la recerca ho constata. Stanley Rachman, un dels psicòlegs que més ha estudiat el tema, va comparar els pensaments de persones amb obsessions i els de persones sense cap trastorn: el contingut era gairebé el mateix. La diferència no era en què pensaven. Era en com es prenien el que pensaven.",
+      },
+      {
+        type: "paragraph",
+        text: "La importància d'això no és acadèmica. Quan et creus l'única persona del món a qui se li acut això, cada intrús confirma una sentència («soc una mala bèstia») i la sentència porta més intrusos. En canvi, quan saps que són universals, el mateix pensament baixa d'intensitat. Posar nom a la cosa ja és mitja solució; la resta de l'article va de l'altra meitat.",
+      },
+      {
+        type: "heading",
+        text: "Per què apareixen: el simulador de desastres",
+      },
+      {
+        type: "paragraph",
+        text: "Per entendre per què apareixen els pensaments intrusius convé una imatge casolana: el teu cap és un simulador d'escenaris que no para mai. La major part del que prova és útil, com què dir a la reunió o per on creuar. Ara bé, el simulador també prova el contrari: la corba mal presa, el got que cau, el cop. És la seva manera de marcar-te allò que no vols. Xoca, sí. Però és feina de l'ofici, no un missatge amagat sobre tu.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema arriba amb un error de càlcul que en psicologia anomenem fusió pensament-acció: confondre pensar amb voler. Els infants petits barregen les dues coses; madurar consisteix, en bona part, a separar-les. Un intrús et torna de cop a aquesta confusió: «si ho he pensat, alguna cosa de mi ho desitjava». No. Penses cada dia a cridar el teu cap i no li crides. La ment produeix; la persona tria.",
+      },
+      {
+        type: "paragraph",
+        text: "I per què se't queden gravats els pitjors? Perquè el simulador etiqueta l'alarmant amb prioritat màxima. L'absurd i el violent descarreguen una alarma, i l'alarma demana revisió: «per què he pensat això?». Aquí comença el problema de debò, i ara hi anem.",
+      },
+      {
+        type: "heading",
+        text: "L'os blanc: per què la lluita els engreixa",
+      },
+      {
+        type: "paragraph",
+        text: "Als anys vuitanta, el psicòleg Daniel Wegner va fer un experiment cèlebre: va demanar a un grup de persones que no pensessin en un os blanc. Resultat: tothom va pensar en ossos blancs, i més que el grup al qual simplement li havien parlat d'ossos. La conclusió va córrer món: per no pensar en una cosa, primer has de pensar-hi, i vigilar-la te la torna. Amb els pensaments intrusius passa tres vegades: arriba, el vigiles, torna.",
+      },
+      {
+        type: "paragraph",
+        text: "De fet, el contingut original de l'intrús pesa poc. El que pesa és la segona onada: el judici («quina mena de persona pensa això?»), la culpa i la vigilància posterior. Aquest bucle sí que és teu i, a diferència de l'intrús, es pot desmuntar. Hi ha a més una diferència útil amb la rumiació: rumiar és mastegar una vegada i una altra el mateix tema amb to de preocupació; l'intrús és un tret inesperat. Si el teu és donar voltes al mateix, al blog tens l'article sobre la rumiació ansiosa; avui ens quedem amb els trets.",
+      },
+      {
+        type: "paragraph",
+        text: "I compte amb el criteri clínic: la lluita mental no funciona. A més, alimenta. Cada vegada que discuteixes amb un pensament, li confirmes que és important. I els pensaments importants tornen. És exactament el contrari del que prometen les apps de «ment en blanc».",
+      },
+      {
+        type: "heading",
+        text: "Quan sí convé consultar",
+      },
+      {
+        type: "paragraph",
+        text: "Aclarim una cosa primer: no tot intrús demana teràpia. La majoria passa per sota del llindar del malestar i no deixa rastre. Ara bé, hi ha senyals que sí demanen consulta, i són concretes.",
+      },
+      {
+        type: "paragraph",
+        text: "La primera: si organitzes la vida per evitar-los. Canvies d'andana, guardes els ganivets, evites quedar-te sol amb el nadó de la teva germana, puges per l'escala perquè el balcó et mira. L'evitació és el combustible de gairebé tots els bucles ansiosos. La segona: si apareix la comprovació, aquell comptar, revisar o preguntar-se «he fet res dolent?» cada cinc minuts. La tercera, més senzilla: si els pensaments intrusius et roben temps, son o presència cada setmana, la balança ja no és del costat d'«això s'arregla sol».",
+      },
+      {
+        type: "paragraph",
+        text: "Quan el bucle es converteix en ritual, parlem del que els clínics anomenem TOC en la seva versió mental. I sí, té tractament. Encara aleshores, el criteri no és «què penses»: és quant et mana el que penses.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Què es fa, doncs, a psicoteràpia amb els pensaments intrusius? El primer sorprèn tothom: no treballem perquè desapareguin. Treballem perquè deixin d'importar. Un cervell sense intrusos no existeix; una relació tranquil·la amb ells, sí. La diferència entre les dues frases és, al capdavall, la que separa patir de no patir.",
+      },
+      {
+        type: "paragraph",
+        text: "L'eina més senzilla s'anomena desfusió: posar una etiqueta al pensament per tornar-li la seva mida. A consulta es practica així: en lloc de «soc un perill per al meu fill», la frase passa a ser «estic tenint el pensament que soc un perill per al meu fill». Sembla un joc de paraules. No ho és: canvia l'autor de la frase: deixa de ser el pensament i torna a ser tu. Amb alguns pacients hi afegeixo un gest que en la teràpia d'acceptació s'anomena «gràcies, ment»: arriba l'intrús i, per dintre, «gràcies, ment, per vigilar». T'aviso: sona ridícul. I funciona, perquè treu la lluita de mig.",
+      },
+      {
+        type: "paragraph",
+        text: "Quan hi ha evitació instal·lada, entra l'exposició amb prevenció de resposta: acostar-se al que fa por, com l'andana o el ganivet, sense fer el ritual. És el tractament amb més evidència en el TOC i es dosifica amb criteri. I la part honesta del procés: és pràctica. Setmanes de pràctica. Res espectacular; a canvi, et torna la vida.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre els pensaments intrusius",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Tenir pensaments intrusius vol dir que estic boig?",
+            answer: "No. La recerca fa dècades que mostra que el contingut intrús és universal: el diferencia quasi tothom, amb trastorn o sense. El clínic no és el contingut: és el malestar i el bucle que s'hi munta al voltant. Si el contingut t'espanta però passa, ets del costat humà. Si es queda a viure, consulta.",
+          },
+          {
+            question: "Són perillosos? Prediuen conducta?",
+            answer: "No. Un pensament no és un pla ni un desig: no hi ha dades serioses que uneixin els intrusos amb actes violents en persones que els rebutgen. Al contrari: qui s'espanta amb ells acostuma a ser, precisament, algú amb valors molt ferms de no fer mal.",
+          },
+          {
+            question: "Com sé si són intrusos o rumiació?",
+            answer: "L'intrús és un tret inesperat: arriba, xoca i marxa. La rumiació és un tema que mastegues expressament, amb to de preocupació. Moltes persones tenen les dues coses. Al blog tens l'article sobre la rumiació ansiosa, amb la seva manera de treballar-se.",
+          },
+          {
+            question: "Tornaran alguna vegada?",
+            answer: "Sí, perquè una ment viva produeix. El criteri de millora no és el cap en blanc: és que arribin, passin i no et manin. Això sí s'aconsegueix.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El veí del cinquè",
+      },
+      {
+        type: "paragraph",
+        text: "Una acció per a aquesta setmana, tinguis teràpia o no. Quan arribi el proper intrús, posa-li nom per dintre: «ah, el de l'andana». No el discuteixis ni l'expulsis: mira'l com al veí del cinquè: crida coses rares per l'escala i per això no ets tu. Si a la balança guanya l'evitació o el bucle, demana ajuda sense drames: és un problema amb solució seriosa.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o en línia. Si els pensaments intrusius et visiten més del que aguantes, ho podem mirar plegats: demana una primera visita des de la pàgina de contacte o escriu-nos per WhatsApp. La ment seguirà produint. Tu decideixes qui mana.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/rumiacion-ansiosa", label: "«La rumiació ansiosa», l'article" },
+            { url: "/blog/la-voz-critica-interna-adultos", label: "«La veu crítica interna», l'article" },
+            { url: "/blog/miedo-a-enfermar-ansiedad-por-la-salud", label: "«La por d'emmalaltir», l'article" },
+            { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Alguna vez, esperando el metro, ha cruzado por tu cabeza, sin venir a cuento, un «¿y si me tiro?» Y luego has retrocedido dos pasos, con el corazón rápido, preguntándote qué clase de persona lleva eso dentro? En psicología ese fogonazo tiene nombre: pensamientos intrusos. Y casi nadie lo dice en voz alta. En la consulta de psicología de Barcelona lo escuchamos cada semana, casi siempre en un susurro, como quien confiesa un delito. Este artículo quiere devolverte el dato que a nadie te dio: tenerlos es humano, entenderlos tranquiliza y, en la gran mayoría de casos, no significan nada malo de ti.",
+      },
+      {
+        type: "paragraph",
+        text: "Te adelanto mi postura desde el principio, porque internet vende dos mentiras opuestas: la de «vacía tu mente» y la de «cada pensamiento revela quién eres». Las dos te dejan peor. Un pensamiento no es un deseo ni una profecía. Y el objetivo de la terapia nunca ha sido una cabeza en blanco, porque no existe. La pregunta útil no es qué piensas; es qué haces con lo que piensas. ¿Te suena? Vamos por partes.",
+      },
+      {
+        type: "heading",
+        text: "Qué son los pensamientos intrusos",
+      },
+      {
+        type: "paragraph",
+        text: "Los pensamientos intrusos son ideas, imágenes o impulsos que aparecen sin ser llamados y con contenido que choca con quien eres: golpear a alguien que quieres, una escena sexual absurda, un «y si le hago daño» en mitad de una tarde cualquiera. Son involuntarios y breves. Siempre sorprenden. La palabra clave es «intruso»: nadie los invita, nadie los quiere y, sin embargo, casi todo el mundo los ha tenido alguna vez.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, hace décadas que la investigación lo constata. Stanley Rachman, uno de los psicólogos que más ha estudiado el tema, comparó los pensamientos de personas con obsesiones y los de personas sin ningún trastorno: el contenido era casi el mismo. La diferencia no estaba en lo que pensaban. Estaba en cómo se tomaban lo que pensaban.",
+      },
+      {
+        type: "paragraph",
+        text: "La importancia de esto no es académica. Cuando te crees la única persona del mundo a la que se le ocurre eso, cada intruso confirma una sentencia («soy un mal bicho») y la sentencia trae más intrusos. En cambio, cuando sabes que son universales, el mismo pensamiento baja de intensidad. Ponerle nombre a la cosa ya es media solución; el resto del artículo va de la otra mitad.",
+      },
+      {
+        type: "heading",
+        text: "Por qué aparecen: el simulador de desastres",
+      },
+      {
+        type: "paragraph",
+        text: "Para entender por qué aparecen los pensamientos intrusos conviene una imagen doméstica: tu cabeza es un simulador de escenarios que no para nunca. La mayor parte de lo que prueba es útil, como qué decir en la reunión o por dónde cruzar. Ahora bien, el simulador también prueba lo contrario: la curva mal tomada, el vaso que se cae, el golpe. Es su manera de señalarte lo que no quieres. Choca, sí. Pero es trabajo del oficio, no un mensaje escondido sobre ti.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema llega con un error de cálculo que en psicología llamamos fusión pensamiento-acción: confundir pensar con querer. Los niños pequeños mezclan las dos cosas; madurar consiste, en buena parte, en separarlas. Un intruso te devuelve de golpe a esa confusión: «si lo he pensado, algo de mí lo deseaba». No. Piensas a diario en gritarle a tu jefe y no le gritas. La mente produce; la persona elige.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y por qué se te quedan grabados los peores? Porque el simulador etiqueta lo alarmante con prioridad máxima. Lo absurdo y lo violento generan una descarga de alarma, y la alarma pide revisión: «¿por qué he pensado eso?». Ahí empieza el problema de verdad, y ahí vamos ahora.",
+      },
+      {
+        type: "heading",
+        text: "El oso blanco: por qué la pelea los agranda",
+      },
+      {
+        type: "paragraph",
+        text: "En los años ochenta, el psicólogo Daniel Wegner hizo un experimento célebre: pidió a un grupo de personas que no pensaran en un oso blanco. Resultado: todos pensaron en osos blancos, y más que el grupo al que simplemente le habían hablado de osos. La conclusión dio la vuelta al mundo: para no pensar en algo, primero necesitas pensarlo, y vigilarlo te lo trae de vuelta. Con los pensamientos intrusos pasa tres veces: aparece, lo vigilas, vuelve.",
+      },
+      {
+        type: "paragraph",
+        text: "De hecho, el contenido original del intruso pesa poco. Lo que pesa es la segunda oleada: el juicio («¿qué clase de persona piensa esto?»), la culpa y la vigilancia posterior. Ese bucle sí es tuyo y, a diferencia del intruso, se puede desmontar. Hay además una diferencia útil con la rumiación: rumiar es masticar una y otra vez el mismo tema con tono de preocupación; el intruso es un disparo inesperado. Si lo tuyo es darle vueltas a lo mismo, en el blog tienes el artículo sobre la rumiación ansiosa; hoy nos quedamos con los disparos.",
+      },
+      {
+        type: "paragraph",
+        text: "Y ojo al criterio clínico: la pelea mental no funciona. Además, alimenta. Cada vez que discutes con un pensamiento, le confirmas que es importante. Y los pensamientos importantes vuelven. Es exactamente lo contrario de lo que prometen las apps de «mente en blanco».",
+      },
+      {
+        type: "heading",
+        text: "Cuándo sí conviene consultar",
+      },
+      {
+        type: "paragraph",
+        text: "Aclaro algo primero: no todo intruso pide terapia. La mayoría pasa por debajo del umbral del malestar y no deja huella. Ahora bien, hay señales que sí merecen consulta, y son concretas.",
+      },
+      {
+        type: "paragraph",
+        text: "La primera: si organizas tu vida para evitarlos. Cambias de andén, guardas los cuchillos, evitas quedarte a solas con el bebé de tu hermana, subes por la escalera porque el balcón te mira. La evitación es el combustible de casi todos los bucles ansiosos. La segunda: si aparece la comprobación, ese contar, revisar o preguntarse «¿he hecho algo malo?» cada cinco minutos. La tercera, más simple: si los pensamientos intrusos te roban tiempo, sueño o presencia cada semana, la balanza ya no está del lado de «esto se arregla solo».",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando el bucle se convierte en ritual, hablamos de lo que los clínicos llamamos TOC en su versión mental. Y sí, tiene tratamiento. Incluso entonces, el criterio no es «qué piensas»: es cuánto te manda lo que piensas.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabajan en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "¿Qué se hace, entonces, en psicoterapia con los pensamientos intrusos? Lo primero sorprende a casi todo el mundo: no trabajamos para que desaparezcan. Trabajamos para que dejen de importar. Un cerebro sin intrusos no existe; una relación tranquila con ellos, sí. La diferencia entre las dos frases es, al final, la que separa sufrir de no sufrir.",
+      },
+      {
+        type: "paragraph",
+        text: "La herramienta más sencilla se llama desfusión: ponerle una etiqueta al pensamiento para devolverle su tamaño. En consulta se practica así: en lugar de «soy un peligro para mi hijo», la frase pasa a ser «estoy teniendo el pensamiento de que soy un peligro para mi hijo». Suena a juego de palabras. No lo es: cambia el autor de la frase: deja de ser el pensamiento y vuelve a ser tú. Con algunos pacientes añado un gesto que en la terapia de aceptación se llama «gracias, mente»: llega el intruso y, por dentro, «gracias, mente, por vigilar». Te aviso: suena ridículo. Y funciona, porque quita la pelea de en medio.",
+      },
+      {
+        type: "paragraph",
+        text: "Cuando hay evitación instalada, entra la exposición con prevención de respuesta: acercarse a lo temido, como el andén o el cuchillo, sin hacer el ritual. Es el tratamiento con más evidencia en el TOC y se dosifica con criterio. Y la parte honesta del proceso: es práctica. Semanas de práctica. Nada espectacular; a cambio, te devuelve la vida.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre los pensamientos intrusos",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Tener pensamientos intrusos significa que estoy loco?",
+            answer: "No. La investigación lleva décadas mostrando que el contenido intruso es universal: lo diferencia casi todo el mundo, con trastorno o sin él. Lo clínico no es el contenido: es el malestar y el bucle que se monta alrededor. Si el contenido te asusta pero pasa, estás del lado humano. Si se queda a vivir, consulta.",
+          },
+          {
+            question: "¿Son peligrosos? ¿Predicen conducta?",
+            answer: "No. Un pensamiento no es un plan ni un deseo: no hay datos serios que vinculen los intrusos con actos violentos en personas que los rechazan. Al contrario: quien se asusta con ellos suele ser precisamente alguien con valores muy firmes de no dañar.",
+          },
+          {
+            question: "¿Cómo sé si son intrusos o rumiación?",
+            answer: "El intruso es un disparo inesperado: llega, choca y se va. La rumiación es un tema que masticas a propósito, con tono de preocupación. Muchas personas tienen ambos. En el blog tienes el artículo sobre la rumiación ansiosa, con su propia manera de trabajarse.",
+          },
+          {
+            question: "¿Volverán alguna vez?",
+            answer: "Sí, porque una mente viva produce. El criterio de mejora no es la cabeza en blanco: es que lleguen, pasen y no te manden. Eso sí se consigue.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El vecino del quinto",
+      },
+      {
+        type: "paragraph",
+        text: "Una acción para esta semana, tengas terapia o no. Cuando llegue el próximo intruso, ponle nombre por dentro: «ah, el del andén». No lo discutas ni lo expulses: míralo como al vecino del quinto: grita cosas raras por la escalera y no por eso eres tú. Si en la balanza gana la evitación o el bucle, pide ayuda sin dramas: es un problema con solución seria.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial u online. Si los pensamientos intrusos te visitan más de lo que aguantas, lo podemos mirar juntos: pide una primera visita desde la página de contacto o escríbenos por WhatsApp. La mente va a seguir produciendo. Tú decides quién manda.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+            { url: "/blog/rumiacion-ansiosa", label: "«La rumiación ansiosa», el artículo" },
+            { url: "/blog/la-voz-critica-interna-adultos", label: "«La voz crítica interna», el artículo" },
+            { url: "/blog/miedo-a-enfermar-ansiedad-por-la-salud", label: "«El miedo a enfermar», el artículo" },
+            { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

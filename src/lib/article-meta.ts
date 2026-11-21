@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "pensamientos-intrusos",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "Pensaments intrusius: quan preocupen i quan no",
+    "titleES": "Pensamientos intrusos: cuándo preocupan y cuándo no",
+    "excerptCA": "Els pensaments intrusius arriben sense permís i fan por: una imatge violenta, un impuls absurc. Què signifiquen de debò i com es treballen a consulta.",
+    "excerptES": "Los pensamientos intrusos aparecen sin permiso y asustan: una imagen violenta, un impulso absurdo. Qué significan de verdad y cómo se trabajan en consulta.",
+    "datePublished": "2026-11-21"
+  },
+  {
     "slug": "duelo-sin-despedida",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
