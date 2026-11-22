@@ -13,6 +13,16 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "la-edad-que-tenian-tus-padres",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Arribar a l'edat que tenien els teus pares",
+    "titleES": "Llegar a la edad que tenían tus padres",
+    "excerptCA": "Arribar a l'edat que tenien els teus pares fa estrany: ja hi ets, i no et sembla res del que recordaves. Què vol dir i com es treballa a la consulta.",
+    "excerptES": "Llegar a la edad que tenían tus padres produce vértigo: ya estás ahí y no te pareces a lo que recordabas. Qué significa y cómo se trabaja en consulta.",
+    "datePublished": "2026-11-22"
+  },
+  {
     "slug": "pensamientos-intrusos",
     "categoryCA": "Ansietat",
     "categoryES": "Ansiedad",
