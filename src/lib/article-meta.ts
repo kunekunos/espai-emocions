@@ -12,6 +12,17 @@ export interface ArticleMeta {
 }
 
 export const articleMeta: ArticleMeta[] = [
+
+  {
+    "slug": "llegar-tarde-terapia-de-pareja",
+    "categoryCA": "Parella",
+    "categoryES": "Pareja",
+    "titleCA": "És massa tard per començar teràpia de parella?",
+    "titleES": "¿Es demasiado tarde para empezar terapia de pareja?",
+    "excerptCA": "Arribar tard a la teràpia de parella és el més normal: anys de silenci i un peu ja fora. Què es pot treballar quan sembla que no queda res per fer.",
+    "excerptES": "Llegar tarde a terapia de pareja es lo más habitual: años de silencio y un pie ya fuera. Qué se puede trabajar cuando parece que no queda nada.",
+    "datePublished": "2026-11-23"
+  },
   {
     "slug": "la-edad-que-tenian-tus-padres",
     "categoryCA": "Identitat",

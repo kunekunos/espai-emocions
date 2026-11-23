@@ -235,4 +235,221 @@ export const articlesPart20: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 2. llegar-tarde-terapia-de-pareja (Parella, 2026-11-23)
+  // --------------------------------------------------------------------------
+  {
+    slug: "llegar-tarde-terapia-de-pareja",
+    categoryCA: "Parella",
+    categoryES: "Pareja",
+    titleCA: "És massa tard per començar teràpia de parella?",
+    titleES: "¿Es demasiado tarde para empezar terapia de pareja?",
+    excerptCA:
+      "Arribar tard a la teràpia de parella és el més normal: anys de silenci i un peu ja fora. Què es pot treballar quan sembla que no queda res per fer.",
+    excerptES:
+      "Llegar tarde a terapia de pareja es lo más habitual: años de silencio y un pie ya fuera. Qué se puede trabajar cuando parece que no queda nada.",
+    datePublished: "2026-11-23",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quantes vegades heu parlat de demanar hora per a teràpia de parella sense arribar a fer-ho? A veure, no sou els únics. A la consulta ho veig cada setmana: parelles que fa un any que es repeteixen «hauríem de parlar amb algú» mentre la casa es va quedant en silenci. I quan per fi truquen, gairebé totes em plantegen el mateix dubte, a vegades al telèfon i a vegades ja a la primera sessió: no haurem arribat tard?",
+      },
+      {
+        type: "paragraph",
+        text: "T'avanço la meva postura. El que arriba tard, quasi mai, és la teràpia: el que arriba tard és la trucada. De fet, són dues coses diferents: convé separar-les, perquè la resposta canvia molt segons la pregunta que et facis. En aquest article vull mirar què vol dir arribar tard a la teràpia de parella, què es pot treballar quan un ja té un peu fora i quan convé, de debò, deixar-ho estar. Anem per parts.",
+      },
+      {
+        type: "heading",
+        text: "Anar a teràpia de parella: ningú no arriba aviat",
+      },
+      {
+        type: "paragraph",
+        text: "Primer, una realitat incòmoda: quasi cap parella no arriba aviat. Quan una parella creua la porta d'un centre de psicologia, el normal és que el problema vingui caminant amb anys d'antiguitat. Per què? Perquè demanar hora costa. Reconèixer que la relació necessita ajuda aliena s'assembla a admetre una derrota, i el cos demana guanyar temps. A més, pesa un mite enorme: la idea que anar a teràpia de parella és el darrer capítol, l'avantsala del divorci, gairebé una firma. Res més lluny; de fet, moltes parelles truquen precisament per no haver de firmar res.",
+      },
+      {
+        type: "paragraph",
+        text: "L'espera, a més de llarga, sol tenir fases. Primer us baralleu i us dieu que és una mala època. Després la discussió s'apaga, i el silenci es confon amb la calma. I al final arriba el punt de la gotera: com una taca petita al sostre, t'hi acostumes, la tapes, i un dia el sostre sencer cedeix. Et sona? Si et sona, deixa'm dir-te una cosa: la parella que arriba a teràpia no arriba tard. Arriba cansada. Tanmateix, el cansament, al contrari que el sostre, es treballa.",
+      },
+      {
+        type: "heading",
+        text: "Com saber si encara hi ha alguna cosa a fer",
+      },
+      {
+        type: "paragraph",
+        text: "I com se sap si la gotera encara es pot arreglar? Ningú no ho sap des de fora, però hi ha indicis. El primer és contraintuïtiu: el conflicte encara fa mal. Una parella que discuteix amb ràbia segueix connectada; es barallen perquè els importa el que passa entre els dos. En canvi, el senyal més difícil és un altre: la indiferència còmoda, els dos a la mateixa casa i cadascú a la seva, sense esperar-se. Quan algú em descriu això, escolto amb més atenció que quan em descriuen crits.",
+      },
+      {
+        type: "paragraph",
+        text: "El segon indici és el que anomeno els gestos que sobren. Encara et porta el cafè sense demanar-l'hi? Encara et guarda el costat del llit? Li expliques a ell la mala notícia tot i que després discutiu? Són detalls domèstics i precisament per això valen: proven que la relació encara té múscul. Ara bé, compte: hi ha parelles sense cap d'aquests gestos que també es recuperen, perquè el vincle se n'ha anat a un lloc més endins i només necessita ajuda per tornar a sortir. L'absència d'un detall, per tant, no dicta sentència.",
+      },
+      {
+        type: "heading",
+        text: "Què fem quan un ja té un peu fora",
+      },
+      {
+        type: "paragraph",
+        text: "Ara la pregunta difícil, i la més freqüent a les primeres visites: què passa si un dels dos ja ha decidit marxar, o quasi? Molta gent creu que allà la teràpia de parella no hi té res a fer. És comprensible, però tampoc no és ben bé així. En aquestes situacions ningú no treballa per «salvar» la relació a qualsevol preu, i ningú no treballa per empènyer-vos cap a la porta. La meta és una altra: que la decisió que prengueu sigui vostra i no un segrest del cansament. Hi ha molta distància entre marxar amb els ulls oberts i desaparèixer de pur cansament.",
+      },
+      {
+        type: "paragraph",
+        text: "I com es fa, a la pràctica? Depèn. Moltes vegades començo amb una sessió conjunta per escoltar com us expliqueu el que passa; després proposo una sessió individual amb cadascú, per separat, abans de tornar a ajuntar-vos. Sé que grinyola, perquè la teràpia de parella sembla que hagi de ser sempre els dos. Però quan el desgast és profund, aquest espai permet que cadascú miri què li pesa i què li queda sense defensar-se davant de l'altre. Després, tres camins: quedar-vos com esteu, separar-vos amb cura o dedicar un temps a treballar a fons i decidir més endavant. Tres, no dos. La tercera opció és la que gairebé ningú no s'havia plantejat abans d'entrar.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre començar teràpia de parella",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "Hi ha un punt de no retorn?",
+          answer: "Sincerament, quasi mai. Ara bé, hi ha dues situacions delicades. La primera és el menyspreu actiu i sostingut, aquella mirada de dalt a baix cada vegada que l'altre parla. La segona és qualsevol forma de violència: allà la teràpia de parella no és el format adequat; el que toca és teràpia individual i protecció. Fora d'això, «massa tard» és més aviat una sensació que un fet.",
+        },
+        {
+          question: "Serveix de res si un dels dos hi va a desgrat?",
+          answer: "Sí, i de fet és el punt de partida més habitual. Que una persona arribi amb un peu enrere no prediu res: moltes parelles que van començar així acaben treballant a fons. El que sí que demanem és honestitat des de la primera sessió, fins al punt de poder dir «no sé si vull continuar». Això, a consulta, és material de treball, no un problema.",
+        },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: com començar",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "Millor presencial o online?",
+          answer: "De fet, els dos formats funcionen, i la recerca ho mostra així. Al centre fem sessions presencials a Barcelona, a prop de Sant Pau, i també online. Algunes parelles combinen: per exemple, presencial els primers mesos i online quan els viatges apreten. El que importa és començar, no el format.",
+        },
+        {
+          question: "I si al final ens separem?",
+          answer: "A vegades passa, i no és un fracàs de la teràpia. Una separació ben feta, conversada, sense sorpreses ni cops baixos, també és un resultat: hi ha parelles que s'acomiaden millor gràcies a la feina prèvia. La meta mai no ha estat que us quedeu junts a qualsevol preu; és que el que decidiu ho decidiu de debò.",
+        },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El calendari ja ha fet la seva part",
+      },
+      {
+        type: "paragraph",
+        text: "Per això, una acció per a aquesta setmana, si t'has reconegut en aquestes línies. Parla amb la teva parella de demanar una primera visita, i si la conversa s'encalla, demana-la tu igualment.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial a prop de Sant Pau o online, i la primera conversa serveix per a això: mirar què us queda i decidir què en feu. Arribeu el dia que heu arribat. I aquest, de fet, és l'únic dia des del qual es pot treballar.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+        { url: "/blog/como-es-una-sesion-de-terapia-de-pareja", label: "«Com és una sessió de teràpia de parella», l'article" },
+        { url: "/blog/cuando-no-sabes-si-separarte", label: "«Quan no saps si separar-te», l'article" },
+        { url: "/terapia-pareja-barcelona", label: "Teràpia de parella a Barcelona — Espai Emocions" },
+        { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Cuántas veces habéis hablado de pedir hora para terapia de pareja sin llegar a hacerlo? A ver, no sois los únicos. En consulta lo veo cada semana: parejas que llevan un año repitiendo «tendríamos que hablar con alguien» mientras la casa se va quedando en silencio. Y cuando por fin llaman, casi todas me sueltan la misma pregunta, a veces al teléfono y a veces ya en la primera sesión: ¿no habremos llegado tarde?",
+      },
+      {
+        type: "paragraph",
+        text: "Te adelanto mi postura. Lo que llega tarde, casi nunca, es la terapia: lo que llega tarde es la llamada. De hecho, son dos cosas distintas: conviene separarlas, porque la respuesta cambia mucho según la pregunta que te hagas. En este artículo quiero mirar qué significa llegar tarde a terapia de pareja, qué se puede trabajar cuando uno ya tiene un pie fuera y cuándo conviene, de verdad, dejarlo estar. Vamos por partes.",
+      },
+      {
+        type: "heading",
+        text: "Ir a terapia de pareja: nadie llega pronto",
+      },
+      {
+        type: "paragraph",
+        text: "Lo primero, una realidad incómoda: casi ninguna pareja llega pronto. Cuando una pareja cruza la puerta de un centro de psicología, lo normal es que el problema venga caminando con años de antigüedad. ¿Por qué? Porque pedir hora cuesta. Reconocer que la relación necesita ayuda ajena se parece a admitir una derrota, y el cuerpo pide ganar tiempo. Además pesa un mito enorme: la idea de que ir a terapia de pareja es el último capítulo, la antesala del divorcio, casi una firma. Nada más lejos; de hecho, muchas parejas llaman precisamente para no tener que firmar nada.",
+      },
+      {
+        type: "paragraph",
+        text: "La espera, además de larga, suele tener fases. Primero discutís y os decís que es una mala racha. Después la discusión se apaga, y el silencio se confunde con la calma. Y al final llega el punto de la gotera: como una mancha pequeña en el techo, te acostumbras, la tapas, y un día el techo entero cede. ¿Te suena? Si te suena, déjame decirte una cosa: la pareja que llega a terapia no llega tarde. Llega cansada. Sin embargo, el cansancio, al contrario que el techo, se trabaja.",
+      },
+      {
+        type: "heading",
+        text: "Cómo saber si todavía hay algo que hacer",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y cómo se sabe si la gotera todavía se puede arreglar? Nadie lo sabe desde fuera, pero hay indicaciones. La primera es contraintuitiva: el conflicto todavía duele. Una pareja que discute con rabia sigue conectada; se pelean porque les importa lo que pasa entre los dos. En cambio, la señal más difícil es otra: la indiferencia cómoda, los dos en la misma casa y cada uno a lo suyo, sin esperarse. Cuando alguien me describe eso, escucho con más atención que cuando me describen gritos.",
+      },
+      {
+        type: "paragraph",
+        text: "La segunda indicación la llamo los gestos que sobran. ¿Te trae el café sin pedírselo? ¿Te guarda todavía el lado de la cama? ¿Le cuentas a él la mala noticia, aunque después discutáis? Son detalles domésticos y precisamente por eso valen: prueban que la relación sigue teniendo músculo. Ahora bien, cuidado: hay parejas sin ninguno de estos gestos que también se recuperan, porque el vínculo se ha ido a un sitio más hondo y solo necesita ayuda para volver a salir. La ausencia de un detalle, por tanto, no dicta sentencia.",
+      },
+      {
+        type: "heading",
+        text: "Qué hacemos cuando uno ya tiene un pie fuera",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora la pregunta difícil, y la más frecuente en las primeras visitas: ¿qué pasa si uno de los dos ya ha decidido irse, o casi? Mucha gente cree que ahí la terapia de pareja no tiene nada que hacer. Es comprensible, pero tampoco es exactamente así. En estas situaciones nadie trabaja para «salvar» la relación a cualquier precio, y nadie trabaja para empujaros hacia la puerta. La meta es otra: que la decisión que toméis sea vuestra y no un secuestro del agotamiento. Hay mucha distancia entre irse con los ojos abiertos y desaparecer de puro cansancio.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y cómo se hace, en la práctica? Depende. Muchas veces empiezo con una sesión conjunta para escuchar cómo os contáis lo que pasa; después propongo una sesión individual con cada uno, por separado, antes de volver a juntaros. Sé que chirría, porque la terapia de pareja parece que deba ser siempre los dos. Pero cuando el desgaste es profundo, ese espacio permite que cada uno mire qué le pesa y qué le queda sin defenderse delante del otro. Después, tres caminos: quedaros como estáis, separaros con cuidado o dedicar un tiempo a trabajar a fondo y decidir luego. Tres, no dos. La tercera opción es la que casi nadie se había planteado antes de entrar.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre empezar terapia de pareja",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "¿Hay un punto de no retorno?",
+          answer: "Sinceramente, casi nunca. Sin embargo, hay dos situaciones delicadas. La primera es el desprecio activo y sostenido, esa mirada de arriba abajo cada vez que el otro habla. La segunda es cualquier forma de violencia: ahí la terapia de pareja no es el formato adecuado, y lo que corresponde es terapia individual y protección. Fuera de eso, «demasiado tarde» es más una sensación que un hecho.",
+        },
+        {
+          question: "¿Sirve de algo si uno de los dos va a regañadientes?",
+          answer: "Sí, y de hecho es el punto de partida más habitual. Que una persona llegue con un pie atrás no predice nada: muchas parejas que empezaron así acaban trabajando a fondo. Lo que sí pedimos es honestidad desde la primera sesión, hasta el punto de poder decir «no sé si quiero seguir». Eso, en consulta, es material de trabajo, no un problema.",
+        },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: cómo empezar",
+      },
+      {
+        type: "faq",
+        items: [
+        {
+          question: "¿Mejor en persona u online?",
+          answer: "De hecho, los dos formatos funcionan, y la investigación lo muestra así. En el centro hacemos sesiones presenciales en Barcelona, cerca de Sant Pau, y también online. Algunas parejas combinan: por ejemplo, presencial los primeros meses y online cuando los viajes aprietan. Lo que importa es empezar, no el formato.",
+        },
+        {
+          question: "¿Y si al final nos separamos?",
+          answer: "A veces pasa, y no es un fracaso de la terapia. Una separación bien hecha, conversada, sin sorpresas ni golpes bajos, también es un resultado: hay parejas que se despiden mejor gracias al trabajo previo. La meta nunca ha sido que os quedéis juntos a cualquier precio; es que lo que decidáis lo decidáis de verdad.",
+        },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El calendario ya hizo su parte",
+      },
+      {
+        type: "paragraph",
+        text: "Por eso, una acción para esta semana, si te has reconocido en estas líneas. Habla con tu pareja de pedir una primera visita, y si la conversación se encalla, pídela tú igualmente.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial cerca de Sant Pau u online, y la primera conversación sirve para esto: mirar qué os queda y decidir qué hacéis con ello. Llegáis el día que habéis llegado. Y ese, de hecho, es el único día desde el que se puede trabajar.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+        { url: "/blog/como-es-una-sesion-de-terapia-de-pareja", label: "«Cómo es una sesión de terapia de pareja», el artículo" },
+        { url: "/blog/cuando-no-sabes-si-separarte", label: "«Cuando no sabes si separarte», el artículo" },
+        { url: "/terapia-pareja-barcelona", label: "Terapia de pareja en Barcelona — Espai Emocions" },
+        { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];
