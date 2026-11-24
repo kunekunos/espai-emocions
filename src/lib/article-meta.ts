@@ -14,6 +14,16 @@ export interface ArticleMeta {
 export const articleMeta: ArticleMeta[] = [
 
   {
+    "slug": "en-que-idioma-hacer-terapia",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "En quin idioma fer teràpia? La llengua en què t'emociones",
+    "titleES": "¿En qué idioma hacer terapia? La lengua en que te emocionas",
+    "excerptCA": "En quin idioma fer teràpia? Per què la llengua de la infància pesa tant quan parles del que més costa i com es decideix a la primera visita.",
+    "excerptES": "¿En qué idioma hacer terapia? Por qué la lengua de la infancia pesa al hablar de lo que más cuesta y cómo se decide en la primera visita.",
+    "datePublished": "2026-11-24"
+  },
+  {
     "slug": "llegar-tarde-terapia-de-pareja",
     "categoryCA": "Parella",
     "categoryES": "Pareja",

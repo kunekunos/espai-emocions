@@ -452,4 +452,267 @@ export const articlesPart20: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 3. en-que-idioma-hacer-terapia (Com funciona la teràpia, 2026-11-24)
+  // --------------------------------------------------------------------------
+  {
+    slug: "en-que-idioma-hacer-terapia",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "En quin idioma fer teràpia? La llengua en què t'emociones",
+    titleES: "¿En qué idioma hacer terapia? La lengua en que te emocionas",
+    excerptCA:
+      "En quin idioma fer teràpia? Per què la llengua de la infància pesa tant quan parles del que més costa i com es decideix a la primera visita.",
+    excerptES:
+      "¿En qué idioma hacer terapia? Por qué la lengua de la infancia pesa al hablar de lo que más cuesta y cómo se decide en la primera visita.",
+    datePublished: "2026-11-24",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Hi ha moltes decisions abans de començar psicoteràpia. N'hi ha una, però, que gairebé ningú no s'ha fet mai: en quin idioma fer teràpia. A Barcelona, el català i el castellà conviuen a la cuina, a l'oficina i al grup de WhatsApp de la família. En aquest paisatge, la qüestió sembla un tràmit, tant com triar entre sessió presencial o online. Demanes hora i la llengua queda decidida per inèrcia, com qui agafa el got que té més a prop. Ara bé, qui s'ha assegut mai en una consulta sap una cosa. La llengua en què expliques la teva vida no és cap detall.",
+      },
+      {
+        type: "paragraph",
+        text: "T'avanço la meva postura. La llengua importa més del que sembla, i no pas per les raons que la gent imagina. La fluïdesa, de fet, és el de menys. El que pesa és el lloc d'on surt el que dius quan dius el que més costa. En aquest article vull mirar per què la llengua de la infància pesa tant a la consulta, com es decideix a la primera visita i què passa quan les dues llengües es barregen. Anem a poc a poc.",
+      },
+      {
+        type: "heading",
+        text: "La llengua en què penses i la llengua en què sents",
+      },
+      {
+        type: "paragraph",
+        text: "Primer, una distinció que val la pena. Gairebé tothom té una llengua per fer i una altra per sentir. La primera és la del currículum i dels correus, de les videotrucades: eficient i afilada, sota control. La segona, en canvi, és més vella: la dels àpats de la infància i de les frases que encara repeteixes sense adonar-te'n. La majoria de persones que creixen a Barcelona en tenen dues. I no sempre coincideixen.",
+      },
+      {
+        type: "paragraph",
+        text: "La recerca sobre bilingüisme ho documenta per camins molt diversos: la primera llengua carrega més càrrega emocional que la segona. Per exemple, quan la porta es tanca amb el dit a dins, el renec et surt en la llengua de casa. En segona llengua, en canvi, pots explicar-te amb més distància, gairebé com si parléssis de la vida d'una altra persona. Aquesta distància, a vegades, ajuda. A la teràpia, però, també pot ser una porta tancada.",
+      },
+      {
+        type: "paragraph",
+        text: "Fes-te la prova: en quin idioma et renyes a tu mateix? I en quin t'han renyinat de petit? Si les dues respostes no coincideixen, ja has vist de què parlo. Al despatx ho veig cada setmana. Persones que fan tota la sessió en castellà i, de cop, canvien al català enmig d'un silenci difícil. El canvi dura deu segons. Quan tornen, gairebé sempre em miren amb cara de disculpa, com qui ha trepitjat l'herba del veí.",
+      },
+      {
+        type: "heading",
+        text: "En quin idioma fer teràpia: com es decideix a la consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Com es decideix, doncs? A Espai Emocions, a la primera visita, la pregunta sempre surt: en quin idioma vols treballar? No és cap cortesia d'agenda. És una decisió clínica, com la freqüència de les sessions o el format, i es pren amb la mateixa cura. La majoria de pacients trien sense dubtar la llengua en què viuen. D'altres, en canvi, s'aturen a pensar-ho. Hi ha qui ha fet tota la carrera i tota la parella en una llengua i en guarda una altra per a la intimitat. I no ho descobreix fins que ha de parlar de la seva mare.",
+      },
+      {
+        type: "paragraph",
+        text: "La resposta honesta és que ningú no ho sap del cert abans de començar. Normalment, la llengua de la teràpia s'esbrina fent-la. Per això proposem una cosa senzilla. Comença en la llengua que et sigui més còmoda i, si a mitja teràpia sents que l'altra t'espera, canvia-hi. Sense cerimònia. Al centre podem seguir el procés en les dues llengües, tant presencial a prop de Sant Pau com online. El canvi, doncs, no et fa tornar a començar de zero.",
+      },
+      {
+        type: "paragraph",
+        text: "I els canvis a mitges? Són més habituals del que et penses, i mai no són un problema. De fet, són informació. Quan algú passa d'una llengua a l'altra dins del mateix paràgraf, sovint està canviant de tema sense saber-ho: de la feina, que la explica en castellà, a la mare, que li surt en català. Seguir aquestes costures és part de l'ofici.",
+      },
+      {
+        type: "heading",
+        text: "La infància parla en la seva llengua",
+      },
+      {
+        type: "paragraph",
+        text: "Ara, el fons. La majoria de coses que porten un adult a consulta són de fa temps: vincles primerencs, maneres d'estimar heretades, veus que es van instal·lar molt d'hora. Aquells anys es van gravar en una llengua concreta. La veu que et diu que no en seràs capaç parla l'idioma del menjador de casa teva. Per això, quan una persona arriba a aquestes capes, és freqüent que la sessió canviï d'accent.",
+      },
+      {
+        type: "paragraph",
+        text: "Una pacient em va dir una cosa que des d'aleshores repeteixo. «Quan parlo del meu pare, el necessito en català; quan parlo de la feina, el castellà em fa d'escut». No és cap excepció. Hi ha qui té una llengua amb la mare i una altra amb el pare, i cadascuna guarda coses diferents. La teràpia també té dret a fer servir el diccionari sencer.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, això no vol dir que la llengua de la infància sigui sempre la millor per treballar-hi. A vegades és just el contrari: és tan plena que ofega. Mirar el mateix des d'una llengua més nova, llavors, et regala un gronet d'aire. La qüestió no és trobar la llengua correcta. És tenir permís per moure't pel mapa.",
+      },
+      {
+        type: "heading",
+        text: "La llengua que viatja: fer teràpia online des de fora",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una variant que a Barcelona és quotidiana: la persona que té el pis aquí i la feina a Amsterdam. O la que fa anys que viu a Madrid i només torna cada Nadal. Per a molta d'aquesta gent, la sessió online ha canviat el panorama: pots connectar-te des d'on vulguis i entrar, alhora, a la consulta en la teva llengua de sempre, català o castellà. Fa poc, una pacient que viu a l'estranger em va dir una cosa bonica. La sessió era l'única estona de la setmana que no havia de traduir-se a ella mateixa. Et sona?",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, l'online també s'hi perd coses: el so de la sala, per exemple, o les pauses amb el cos davant. El format funciona; la recerca ho avala i a la consulta ho veiem. Però el criteri per triar llengua no canvia gaire segons el canal. El canal és secundari; la llengua que et deixi arribar més a tu, no.",
+      },
+      {
+        type: "heading",
+        text: "Dos mites que convé desfer",
+      },
+      {
+        type: "paragraph",
+        text: "El primer mite: fer teràpia en segona llengua és treballar amb menys material. Fals. Si la segona llengua és teva, amb ella també hi arribes a tot. El que canvia és el camí i la velocitat. Conèixer aquesta diferència estalvia malentesos. Hi ha setmanes que la sessió no va ni millor ni pitjor: va en un altre lloc. I això també és el procés.",
+      },
+      {
+        type: "paragraph",
+        text: "El segon mite: barrejar és un defecte. A Barcelona, barrejar és la manera natural de parlar de mig barri, i a la consulta passa el mateix. Cap psicòleg que sàpiga el seu ofici et demanarà que et quedis fidel a una sola llengua. Si l'altra t'està pujant per dins, encara menys.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre la llengua de la teràpia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "Puc canviar d'idioma a mitja teràpia?",
+            answer: "Sí, i sense drama. El treballat no es perd en la traducció. El que has mirat ja ho tens mirat, en la llengua que sigui. Canviar de llengua a mitges és, de fet, una decisió que molts processos acaben prenent.",
+          },
+          {
+            question: "I si em surten frases barrejades?",
+            answer: "Benvingut al club. En una ciutat com aquesta, gairebé tots parlem així quan estem tranquils. La barreja no destorba la sessió; la fa real.",
+          },
+          {
+            question: "Com ho fa qui no té cap de les dues llengües com a materna?",
+            answer: "Normalment, tria la que porta a sobre: la de la feina, la parella, els amics. Moltes vegades, però, descobreix que en guarda una altra, i mirar això també forma part del procés.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La prova de la primera sessió",
+      },
+      {
+        type: "paragraph",
+        text: "Si demanes visita i no saps en quin idioma fer teràpia, no et bloquejis. La primera sessió ja fa la prova ella sola. Entra i escolta't parlar cinc minuts en la llengua que hagis triat. Fixa't en una sola cosa: on sents el cos quan expliques allò que sempre has explicat igual. Si l'altra llengua et truca per dins, ho sabràs. Serà com canviar de sabat. Ningú no sap exactament quan les velles li van deixar d'anar bé; només que les noves hi van millor.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles en català i castellà, amb psicòlegs col·legiats. Les sessions poden ser presencials, a prop de Sant Pau, o online. Si la pregunta de la llengua t'ha fet pensar, potser també és hora de mirar la resta: demana una primera visita des de la pàgina de contacte o escriu-nos per WhatsApp. Ens diràs hola en la llengua que surti. Et contestarem en la mateixa. I si canvies a mitja frase, també.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/primera-sesion-psicologia", label: "«Com és la primera sessió de psicologia», l'article" },
+          { url: "/blog/elegir-psicologo-barcelona", label: "«Com triar un psicòleg a Barcelona», l'article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoteràpia online — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Hay muchas decisiones antes de empezar psicoterapia. Hay una, sin embargo, que casi nadie se ha hecho nunca: en qué idioma hacer terapia. En Barcelona, el catalán y el castellano conviven en la cocina, en la oficina y en el grupo de WhatsApp de la familia. En este paisaje, la cuestión parece un trámite, igual que elegir entre sesión presencial u online. Pides hora y la lengua queda decidida por inercia, como quien coge el vaso que tiene más cerca. Sin embargo, quien se ha sentado alguna vez en una consulta sabe algo. La lengua en la que cuentas tu vida no es un detalle.",
+      },
+      {
+        type: "paragraph",
+        text: "Te adelanto mi postura. La lengua importa más de lo que parece, y no por las razones que la gente imagina. La fluidez, de hecho, es lo de menos. Lo que pesa es el lugar de donde sale lo que dices cuando dices lo que más cuesta. En este artículo quiero mirar por qué la lengua de la infancia pesa tanto en consulta, cómo se decide en la primera visita y qué pasa cuando las dos lenguas se mezclan. Vamos despacio.",
+      },
+      {
+        type: "heading",
+        text: "La lengua en la que piensas y la lengua en la que sientes",
+      },
+      {
+        type: "paragraph",
+        text: "Primero, una distinción que vale la pena. Casi todo el mundo tiene una lengua para hacer y otra para sentir. La primera es la del currículum y de los correos, de las videollamadas: eficiente y afilada, bajo control. La segunda, en cambio, es más vieja: la de las comidas de la infancia y de las frases que aún repites sin darte cuenta. La mayoría de quienes crecen en Barcelona tienen dos. Y no siempre coinciden.",
+      },
+      {
+        type: "paragraph",
+        text: "La investigación sobre bilingüismo lo documenta por caminos muy distintos: la primera lengua carga con más emoción que la segunda. Por ejemplo, cuando la puerta se cierra con tu dedo dentro, el taco te sale en la lengua de casa. En segunda lengua, en cambio, puedes contarte con más distancia, casi como si hablaras de la vida de otra persona. Esa distancia, a veces, ayuda. En terapia, sin embargo, también puede ser una puerta cerrada.",
+      },
+      {
+        type: "paragraph",
+        text: "Hazte la prueba: ¿en qué idioma te regañas a ti mismo? ¿Y en cuál te regañaban de pequeño? Si las dos respuestas no coinciden, ya has visto de qué hablo. En consulta lo veo cada semana. Personas que llevan toda la sesión en castellano y, de pronto, cambian al catalán en mitad de un silencio difícil. El cambio dura diez segundos. Cuando vuelven, casi siempre me miran como pidiendo perdón, como quien ha pisado el césped del vecino.",
+      },
+      {
+        type: "heading",
+        text: "En qué idioma hacer terapia: cómo se decide en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "¿Cómo se decide, entonces? En Espai Emocions, en la primera visita, la pregunta sale siempre: ¿en qué idioma quieres trabajar? No es ninguna cortesía de agenda. Es una decisión clínica, como la frecuencia de las sesiones o el formato, y se toma con el mismo cuidado. La mayoría de pacientes elige sin dudar la lengua en la que vive. Otros, en cambio, se paran a pensarlo. Hay quien ha hecho toda la carrera y toda la relación de pareja en una lengua y guarda otra para la intimidad. Y no lo descubre hasta que tiene que hablar de su madre.",
+      },
+      {
+        type: "paragraph",
+        text: "La respuesta honesta es que nadie lo sabe del cierto antes de empezar. Normalmente, la lengua de la terapia se averigua haciéndola. Por eso proponemos algo sencillo. Empieza en la lengua que te resulte más cómoda y, si a mitad de camino sientes que la otra te espera, cámbiate. Sin ceremonia. En el centro podemos seguir el proceso en las dos lenguas, tanto presencial cerca de Sant Pau como online. El cambio, pues, no te obliga a empezar de cero.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y los cambios a medias? Son más habituales de lo que crees, y nunca son un problema. De hecho, son información. Cuando alguien pasa de una lengua a la otra dentro del mismo párrafo, a menudo está cambiando de tema sin saberlo: del trabajo, que lo cuenta en castellano, a la madre, que le sale en catalán. Seguir esas costuras es parte del oficio.",
+      },
+      {
+        type: "heading",
+        text: "La infancia habla en su lengua",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora, el fondo. La mayoría de cosas que traen a un adulto a consulta son de hace tiempo: vínculos tempranos, maneras de querer heredadas, voces que se instalaron muy pronto. Aquellos años se grabaron en una lengua concreta. La voz que te dice que no vas a ser capaz habla el idioma del comedor de tu casa. Por eso, cuando una persona llega a esas capas, es habitual que la sesión cambie de acento.",
+      },
+      {
+        type: "paragraph",
+        text: "Una paciente me dijo algo que desde entonces repito. «Cuando hablo de mi padre, lo necesito en catalán; cuando hablo de mi trabajo, el castellano me hace de escudo». No es ninguna excepción. Hay quien tiene una lengua con la madre y otra con el padre, y cada una guarda cosas distintas. La terapia también tiene derecho a usar el diccionario entero.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, esto no significa que la lengua de la infancia sea siempre la mejor para trabajar. A veces es justo lo contrario: es tan llena que ahoga. Mirar lo mismo desde una lengua más nueva, entonces, te regala un resquicio de aire. La cuestión no es encontrar la lengua correcta. Es tener permiso para moverte por el mapa.",
+      },
+      {
+        type: "heading",
+        text: "La lengua que viaja: terapia online desde fuera",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una variante que en Barcelona es cotidiana: la persona que tiene el piso aquí y el trabajo en Ámsterdam. O la que lleva años viviendo en Madrid y solo vuelve cada Navidad. Para mucha de esta gente, la sesión online ha cambiado el panorama: puedes conectarte desde donde sea y entrar, al mismo tiempo, en consulta en tu lengua de siempre, catalán o castellano. Hace poco, una paciente que vive en el extranjero me dijo algo bonito. La sesión era el único rato de la semana en que no tenía que traducirse a sí misma. ¿Te suena?",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, en lo online también se pierden cosas: el sonido de la sala, por ejemplo, o las pausas con el cuerpo delante. El formato funciona; la investigación lo avala y en consulta lo vemos. Pero el criterio para elegir lengua apenas cambia según el canal. El canal es secundario; la lengua que te deje llegar más a ti, no.",
+      },
+      {
+        type: "heading",
+        text: "Dos mitos que conviene desmontar",
+      },
+      {
+        type: "paragraph",
+        text: "El primer mito: hacer terapia en segunda lengua es trabajar con menos material. Falso. Si la segunda lengua es tuya, con ella también llegas a todo. Lo que cambia es el camino y la velocidad. Conocer esa diferencia ahorra malentendidos. Hay semanas en que la sesión no va ni mejor ni peor: va en otro sitio. Y eso también es el proceso.",
+      },
+      {
+        type: "paragraph",
+        text: "El segundo mito: mezclar es un defecto. En Barcelona, mezclar es la manera natural de hablar de medio barrio, y en consulta pasa lo mismo. Ningún psicólogo que sepa su oficio te pedirá que te quedes fiel a una sola lengua. Si la otra te está subiendo por dentro, todavía menos.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre la lengua de la terapia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Puedo cambiar de idioma a mitad de la terapia?",
+            answer: "Sí, y sin drama. Lo trabajado no se pierde en la traducción. Lo que has mirado ya lo tienes mirado, en la lengua que sea. Cambiar de lengua a medias es, de hecho, una decisión que muchos procesos acaban tomando.",
+          },
+          {
+            question: "¿Y si me salen frases mezcladas?",
+            answer: "Bienvenido al club. En una ciudad como esta, casi todos hablamos así cuando estamos tranquilos. La mezcla no estorba la sesión; la hace real.",
+          },
+          {
+            question: "¿Cómo lo hace quien no tiene ninguna de las dos como materna?",
+            answer: "Normalmente, elige la que lleva encima: la del trabajo, la pareja, los amigos. Muchas veces, sin embargo, descubre que guarda otra, y mirar eso también forma parte del proceso.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "La prueba de la primera sesión",
+      },
+      {
+        type: "paragraph",
+        text: "Si pides visita y no sabes en qué idioma hacer terapia, no te bloquees. La primera sesión ya hace la prueba ella sola. Entra y escúchate hablar cinco minutos en la lengua que hayas elegido. Fíjate en una sola cosa: dónde sientes el cuerpo cuando cuentas aquello que siempre has contado igual. Si la otra lengua te llama por dentro, lo sabrás. Será como cambiar de zapato. Nadie sabe exactamente cuándo los viejos le dejaron de ir bien; solo que los nuevos van mejor.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas en catalán y castellano, con psicólogos colegiados. Las sesiones pueden ser presenciales, cerca de Sant Pau, u online. Si la pregunta de la lengua te ha hecho pensar, quizá también es hora de mirar el resto: pide una primera visita desde la página de contacto o escríbenos por WhatsApp. Nos dirás hola en la lengua que salga. Te contestaremos en la misma. Y si cambias a mitad de frase, también.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/primera-sesion-psicologia", label: "«¿Cómo es la primera sesión de psicología?», el artículo" },
+          { url: "/blog/elegir-psicologo-barcelona", label: "«Cómo elegir un psicólogo en Barcelona», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+          { url: "/psicoterapia-online", label: "Psicoterapia online — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];
