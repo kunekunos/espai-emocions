@@ -715,4 +715,243 @@ export const articlesPart20: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 4. suenos-recurrentes-edad-adulta (Ansietat, 2026-11-25)
+  // --------------------------------------------------------------------------
+  {
+    slug: "suenos-recurrentes-edad-adulta",
+    categoryCA: "Ansietat",
+    categoryES: "Ansiedad",
+    titleCA: "Somnis recurrents a l'edat adulta: què volen dir",
+    titleES: "Sueños recurrentes en la edad adulta: qué significan",
+    excerptCA:
+      "Els somnis recurrents es repeteixen any rere any i no són oracles: parlen del que la vida desperta no resol. Què expliquen i com es treballen a teràpia.",
+    excerptES:
+      "Los sueños recurrentes se repiten año tras año y no son oráculos: hablan de lo que la vida despierta no resuelve. Qué cuentan y cómo se trabajan en terapia.",
+    datePublished: "2026-11-25",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "«Altra vegada el somni de l'examen.» Me la va dir una pacient fa unes setmanes, mig rient, quan li vaig preguntar com dormia. Feia vint-i-cinc anys que havia acabat la carrera i encara somiava que havia d'entrar a un examen sense haver estudiat res. I no una nit aïllada: el mateix somni, tres o quatre cops l'any, sempre igual. «Ja deu voler dir alguna cosa, no?». Aquesta conversa surt més sovint del que et penses a la consulta de psicologia per a adults de Barcelona. Els somnis recurrents són molt més habituals del que la gent explica en veu alta, però gairebé ningú no els porta enlloc: queden a casa, com una cosa ridícula. De fet, és exactament al revés: són un dels materials millors que pots portar a teràpia.",
+      },
+      {
+        type: "paragraph",
+        text: "On em poso? Ho dic de seguida, per estalviar-nos malentesos. Els somnis recurrents no prediuen res: no vénen del futur i no amaguen cap missatge que algú pugui desxifrar amb un diccionari d'internet. Ara bé, tampoc no són soroll aleatori. De fet, la nit repeteix el que el dia no resol, i per això un somni que torna cada poc sol tenir alguna cosa a dir-te de la teva vida desperta. En aquest article miraré què sabem d'aquesta repetició, què no és malgrat el que llegeixes a la xarxa i, finalment, com es treballa a consulta quan ja porta anys visitant-te.",
+      },
+      {
+        type: "heading",
+        text: "Què són els somnis recurrents i per què tornen",
+      },
+      {
+        type: "paragraph",
+        text: "Primer, la definició. Un somni recurrent és un somni que es repeteix amb la mateixa escena, o quasi, al llarg dels mesos o dels anys. Normalment no és idèntic al detall: hi ha qui sempre somia el mateix examen i hi ha qui somia sempre la mateixa sensació, com caure o que et persegueixen. El que defineix el fenomen és la repetició, i una cosa encara més estranya: la sensació de reconèixer-lo mentre encara dorms. Ja hi tornem a ser, penses, dins del somni.",
+      },
+      {
+        type: "paragraph",
+        text: "I per què tornen? La hipòtesi de la continuïtat, que l'estudi dels somnis sosté des de fa dècades, ho explica senzill: somiem el que ens preocupa desperts. La ment nocturna no inventa mons aliens; treballa amb la matèria primera del dia. En aquest sentit, un somni recurrent seria una cançó que no s'acaba de tancar: s'acaba el disc i torna a arrencar, perquè alguna cosa del tema queda pendent. La recerca sobre el son també hi afegeix un matís interessant: durant el son REM el cervell continua processant càrrega emocional. Per això les èpoques d'estrès fan tornar els vells somnis. No has canviat de somni perquè, en realitat, no has canviat de preocupació.",
+      },
+      {
+        type: "paragraph",
+        text: "A consulta hi ha una pregunta que faig sempre que surt el tema: quan el tens? De fet, les dates expliquen molt. El somni que coincideix amb les setmanes de molta feina diu una cosa; el que apareix cada cop que tens una reunió important, una altra. I el que ve, per exemple, quan tornes a casa dels pares potser encara explica més. Així doncs, el teu calendari i el teu somni solen anar agafats de la mà.",
+      },
+      {
+        type: "heading",
+        text: "Ni oracles ni diccionaris: què no és un somni recurrent",
+      },
+      {
+        type: "paragraph",
+        text: "Si busques, per exemple, «somiar que se't trenquen les dents», trobaràs pàgines que t'asseguren que és malaltia, pèrdua o mort. A veure, parlem clar: això és astrologia amb pijama. Cap estudi seriós sosté que un somni predigui esdeveniments, i cap diccionari dels somnis ha aguantat mai una comprovació honesta. Per què existeixen, doncs, aquestes pàgines? Moltes vegades, la gent hi va amb ànsia de resposta, i l'oracle ven. El problema, en canvi, no és buscar: és que la pregunta està mal feta. «Què significa el meu somni?» tracta el somni com un missatge en codi enviat per algú altre.",
+      },
+      {
+        type: "paragraph",
+        text: "A teràpia la pregunta canvia de lloc. En comptes de «què significa?», la feina va cap a «què està repetint de mi?». Un somni recurrent no parla del futur: parla d'una part teva que encara té alguna cosa a mig fer. Per això el diccionari no pot funcionar: el mateix somni, en dues persones diferents, explica dues històries diferents. Per exemple, les dents que se't trenquen a tu poden parlar de la paraula que et calles; a una altra persona, de la imatge que sent que se li escapa. La traducció no es compra feta. Per tant, es fa, i es fa amb la teva veu.",
+      },
+      {
+        type: "heading",
+        text: "Els somnis recurrents més habituals a consulta",
+      },
+      {
+        type: "paragraph",
+        text: "N'hi ha de molt coneguts. Per exemple, el somni de l'examen sense estudiar és potser el més estès entre adults que fa anys que no trepitgen una aula, i sol aparèixer quan et sents avaluat en una cosa que encara no domines: la feina nova, el projecte, la decisió que no acabes d'agafar. El de les dents que es trenquen o cauen també torna per temporades. I el de caure, el d'arribar tard a un lloc que no trobes, el del perseguidor sense cara que et corre i tu no pots córrer. La llista és curta perquè els temes són els de la vida: ser a l'altura, el que es veu de tu, el temps, allò que de dia no t'atreveixes a mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Ara bé, la pregunta de consulta per excel·lència és una altra, i me la fan sovint: «somio amb el meu ex; vol dir que encara l'estimo?». La resposta honesta: quasi mai. Moltes vegades, somiar amb l'ex vol dir que alguna cosa d'aquella època ha tornat a la teva vida desperta. L'edat que tenies, la persona que eres, la llibertat o el desordre que hi deixaves. El somni no parla d'ell; parla de tu i del que aquella relació va tocar de tu. Tanmateix, de vegades sí que queda dol pendent, i llavors la nit ho ensenya. Com ho saps, tu? Pel que passa dins del somni, però sobretot pel que et passa despert quan el recordes. Això, si fa temps que dura, val la pena mirar-ho amb algú.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballen els somnis recurrents a la teràpia",
+      },
+      {
+        type: "paragraph",
+        text: "Comencem pel començament: la teràpia no té com a meta treure't el somni del cap. Ara bé, tampoc no es tracta d'interpretar-ho tot de seguida, com si el professional tingués la clau i tu no. La feina que jo faig, dins d'un enfocament humanista, és una altra: convertir el somni en material viu. Primer, l'escrivim en present, com si el visquessis ara: «obro la porta de l'aula i no recordo de quina assignatura és l'examen». Després, entres a l'escena i parles des dels elements. Què diu l'aula? Què diu l'examen? I la pregunta que importa: què sent, cada cop que es repeteix, la part de tu que el somia?",
+      },
+      {
+        type: "paragraph",
+        text: "El que passa després costa d'explicar si no l'has viscut, però ho provo: el somni deixa de ser una pel·lícula que pateixes i esdevé una conversa que pots sostenir. Molts pacients, de fet, ho descriuen amb la mateixa frase: «he entès per què el somiava». Quan la part que el feia queda escoltada, la repetició perd la raó de ser. El somni no s'ha esborrat: s'ha acabat. I si torna alguna nit dolenta, tu ja saps qui truca. Al capdavall, a consulta això ho comptem com a progrés: el mateix somni, ara llegit per un adult que sap què el convoca.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre els somnis recurrents",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És normal tenir somnis recurrents d'adult?",
+            answer: "Sí, molt més del que la gent explica. La majoria d'adults n'han tingut en alguna època, normalment en moments d'estrès o de canvi. Per tant, el criteri no és tenir-los: és quant pesen i quant duren.",
+          },
+          {
+            question: "Són un símptoma d'ansietat?",
+            answer: "Sovint apareixen junts, perquè la ment nocturna treballa amb el que el dia no resol. Ara bé, no tot somni recurrent és ansietat clínica. Si el dia funciona i el somni és ocasional, no hi ha cap alarma.",
+          },
+          {
+            question: "I si es converteix en malson freqüent?",
+            answer: "Si et desperta diverses nits per setmana i deixa el dia marcat, la càrrega emocional és important. Per tant, cal mirar-ho aviat, perquè el descans també forma part del procés.",
+          },
+          {
+            question: "Puc fer-ne alguna cosa jo, ara?",
+            answer: "Sí. Escriu'l en present, amb detall, i després mira on et toca el cos quan el revius. A vegades la repetició baixa sola quan rep una mica d'espai; si no baixa, ja és material de consulta.",
+          },
+          {
+            question: "La teràpia em farà desaparèixer el somni?",
+            answer: "La meta no és esborrar-lo, és entendre què repeteix. En molts processos el somni no torna mai més; en d'altres torna de tant en tant, però ja no pesa. Al capdavall, el que canvia és la teva relació amb ell.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El somni que es deixa de repetir",
+      },
+      {
+        type: "paragraph",
+        text: "Una acció per a aquesta setmana, si has reconegut el teu. Escriu el somni recurrent en present, amb tot el detall que recordis, i remata'l amb una frase que comenci per «quan el somio, em sento...». En canvi, no consultis diccionaris: escolta on et toca el cos mentre el revius. Després, fes-ho unes quantes nits seguides, si torna. Si el somni es repeteix, tindràs material a punt; si para, hauràs fet a casa una mica del que es fa a consulta.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial a prop de Sant Pau o online. Si un somni recurrent et visita més del que voldries, o et deixa el dia marcat, pot ser un bon lloc per començar: demana una primera visita des de la pàgina de contacte o escriu-nos per WhatsApp. A més, si finalment véns, porta'l escrit. Un somni escrit és material de primera, i la primera sessió ja el pot mirar amb tu.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/pensamientos-intrusos", label: "«Pensaments intrusius», l'article" },
+          { url: "/blog/las-cuatro-de-la-manana", label: "«Les quatre del matí», l'article" },
+          { url: "/blog/rumiacion-ansiosa", label: "«Rumiació ansiosa», l'article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "«Otra vez el sueño del examen.» Me lo dijo una paciente hace unas semanas, medio riendo, cuando le pregunté cómo dormía. Había terminado la carrera hacía veinticinco años y seguía soñando que entraba a un examen sin haber estudiado nada. Y no una noche suelta: el mismo sueño, tres o cuatro veces al año, siempre igual. «Tendrá algún significado, ¿no?». Esta conversación aparece más de lo que crees en la consulta de psicología para adultos de Barcelona. Los sueños recurrentes son mucho más habituales de lo que la gente cuenta en voz alta, pero casi nadie los lleva a ningún sitio: se quedan en casa, como una cosa ridícula. De hecho, es justo al revés: son de lo mejor que puedes llevar a terapia.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Dónde me pongo? Lo digo enseguida, para ahorrarnos malentendidos. Los sueños recurrentes no predicen nada: no vienen del futuro ni esconden ningún mensaje que alguien pueda descifrar con un diccionario de internet. Ahora bien, tampoco son ruido aleatorio. De hecho, la noche repite lo que el día no resuelve, y por eso un sueño que vuelve cada poco suele tener algo que decirte de tu vida despierta. En este artículo miraré qué sabemos de esa repetición, qué no es aunque la red te venda otra cosa y, finalmente, cómo se trabaja en consulta cuando ya lleva años visitándote.",
+      },
+      {
+        type: "heading",
+        text: "Qué son los sueños recurrentes y por qué vuelven",
+      },
+      {
+        type: "paragraph",
+        text: "Primero, la definición. Un sueño recurrente es un sueño que se repite con la misma escena, o casi, a lo largo de meses o años. Normalmente no es idéntico al detalle: hay quien siempre sueña el mismo examen y hay quien sueña siempre la misma sensación, como caer o que te persiguen. Lo que define el fenómeno es la repetición, y una cosa todavía más rara: reconocerlo mientras aún duermes. Ya volvemos a estar, piensas, dentro del sueño.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y por qué vuelven? La hipótesis de la continuidad, que el estudio de los sueños sostiene desde hace décadas, lo explica simple: soñamos lo que nos preocupa despiertos. La mente nocturna no inventa mundos ajenos; trabaja con la materia prima del día. En este sentido, un sueño recurrente sería una canción que no termina de cerrarse: se acaba el disco y vuelve a arrancar, porque algo del tema queda pendiente. La investigación sobre el sueño también añade un matiz interesante: durante el sueño REM el cerebro sigue procesando carga emocional. Por eso las épocas de estrés traen de vuelta los sueños viejos. No has cambiado de sueño porque, en realidad, no has cambiado de preocupación.",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta hay una pregunta que hago siempre que sale el tema: ¿cuándo lo tienes? De hecho, las fechas explican mucho. El sueño que coincide con las semanas de mucho trabajo dice una cosa; el que aparece cada vez que tienes una reunión importante, otra. Y el que llega, por ejemplo, cuando vuelves a casa de tus padres quizá explica todavía más. Así pues tu calendario y tu sueño suelen ir de la mano.",
+      },
+      {
+        type: "heading",
+        text: "Ni oráculos ni diccionarios: qué no es un sueño recurrente",
+      },
+      {
+        type: "paragraph",
+        text: "Si buscas, por ejemplo, «soñar que se te rompen los dientes», encontrarás páginas que te aseguran que es enfermedad, pérdida o muerte. A ver, hablemos claro: eso es astrología con pijama. Ningún estudio serio sostiene que un sueño prediga acontecimientos, y ningún diccionario de sueños ha aguantado jamás una comprobación honesta. ¿Por qué existen, entonces, esas páginas? Muchas veces, la gente llega con ansia de respuesta, y el oráculo vende. El problema, en cambio, no es buscar: es que la pregunta está mal hecha. «¿Qué significa mi sueño?» trata el sueño como un mensaje en clave enviado por otra persona.",
+      },
+      {
+        type: "paragraph",
+        text: "En terapia la pregunta cambia de sitio. En vez de «¿qué significa?», el trabajo va hacia «¿qué está repitiendo de mí?». Un sueño recurrente no habla del futuro: habla de una parte tuya que todavía tiene algo a medio hacer. Por eso el diccionario no puede funcionar: el mismo sueño, en dos personas distintas, cuenta dos historias distintas. Por ejemplo, los dientes que se te rompen a ti pueden hablar de la palabra que te callas; a otra persona, de la imagen que siente que se le escapa. La traducción no se compra hecha. Por tanto, se hace, y se hace con tu voz.",
+      },
+      {
+        type: "heading",
+        text: "Los sueños recurrentes más habituales en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Los hay muy conocidos. Por ejemplo, el sueño del examen sin estudiar es quizá el más extendido entre adultos que llevan años sin pisar un aula, y suele aparecer cuando te sientes evaluado en algo que aún no dominas: el trabajo nuevo, el proyecto, la decisión que no terminas de tomar. El de los dientes que se rompen o caen también vuelve por temporadas. Y el de caer, el de llegar tarde a un sitio que no encuentras, el del perseguidor sin cara que te corre y tú no puedes correr. De hecho, la lista es corta porque los temas son los de la vida: estar a la altura, lo que se ve de ti, el tiempo, eso que de día no te atreves a mirar.",
+      },
+      {
+        type: "paragraph",
+        text: "Ahora bien, la pregunta de consulta por excelencia es otra, y me la hacen a menudo: «sueño con mi ex; ¿significa que aún lo quiero?». La respuesta honesta: casi nunca. Muchas veces, soñar con el ex quiere decir que algo de aquella época ha vuelto a tu vida despierta. La edad que tenías, la persona que eras, la libertad o el desorden que allí dejabas. El sueño no habla de él; habla de ti y de lo que aquella relación tocó de ti. Eso sí: a veces queda duelo pendiente, y la noche lo enseña. ¿Cómo lo sabes tú? Por lo que pasa dentro del sueño, pero sobre todo por lo que te pasa despierto cuando lo recuerdas. Por eso, si lleva tiempo, merece mirarlo con alguien.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabajan los sueños recurrentes en terapia",
+      },
+      {
+        type: "paragraph",
+        text: "Empecemos por el principio: la terapia no tiene como meta quitarte el sueño de la cabeza. Además, tampoco se trata de interpretarlo todo de golpe, como si el profesional tuviera la clave y tú no. El trabajo que hago yo, dentro de un enfoque humanista, es otro: convertir el sueño en material vivo. Primero, lo escribimos en presente, como si lo vivieras ahora: «abro la puerta del aula y no recuerdo de qué asignatura es el examen». Después entras en la escena y hablas desde los elementos. ¿Qué dice el aula? ¿Qué dice el examen? Y la pregunta que importa: ¿qué siente, cada vez que se repite, la parte de ti que lo sueña?",
+      },
+      {
+        type: "paragraph",
+        text: "Lo que pasa después cuesta de explicar si no lo has vivido, pero lo intento: el sueño deja de ser una película que sufres y se convierte en una conversación que puedes sostener. Muchos pacientes, de hecho, lo describen con la misma frase: «he entendido por qué lo soñaba». Cuando la parte que lo fabricaba queda escuchada, la repetición pierde su razón de ser. El sueño no se ha borrado: se ha terminado. Y si vuelve alguna noche mala, ya sabes quién llama. Al final, en consulta lo contamos como progreso: el mismo sueño, ahora leído por un adulto que sabe qué lo convoca.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre los sueños recurrentes",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es normal tener sueños recurrentes de adulto?",
+            answer: "Sí, mucho más de lo que la gente cuenta. La mayoría de adultos ha tenido alguno en alguna época, normalmente en momentos de estrés o de cambio. Por tanto, el criterio no es tenerlos: es cuánto pesan y cuánto duran.",
+          },
+          {
+            question: "¿Son un síntoma de ansiedad?",
+            answer: "A menudo aparecen juntos, porque la mente nocturna trabaja con lo que el día no resuelve. Ahora bien, no todo sueño recurrente es ansiedad clínica. Si el día funciona y el sueño es ocasional, no hay alarma.",
+          },
+          {
+            question: "¿Y si se convierte en pesadilla frecuente?",
+            answer: "Si te despierta varias noches por semana y deja el día marcado, la carga emocional es importante. Por tanto, conviene mirarlo pronto, porque el descanso también forma parte del proceso.",
+          },
+          {
+            question: "¿Puedo hacer algo yo, ahora?",
+            answer: "Sí. Escríbelo en presente, con detalle, y después mira dónde te toca el cuerpo cuando lo revives. A veces la repetición baja sola cuando recibe algo de espacio; si no baja, ya es material de consulta.",
+          },
+          {
+            question: "¿La terapia hará desaparecer el sueño?",
+            answer: "La meta no es borrarlo, es entender qué repite. En muchos procesos el sueño no vuelve nunca más; en otros vuelve de vez en cuando, pero ya no pesa. Al final, lo que cambia es tu relación con él.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "El sueño que se deja de repetir",
+      },
+      {
+        type: "paragraph",
+        text: "Una acción para esta semana, si has reconocido el tuyo. Escribe el sueño recurrente en presente, con todo el detalle que recuerdes, y remátalo con una frase que empiece por «cuando lo sueño, me siento...». En cambio, no consultes diccionarios: escucha dónde te toca el cuerpo mientras lo revives. Después, hazlo unas noches seguidas, si vuelve. Si el sueño se repite, tendrás material a punto; si para, habrás hecho en casa un poco de lo que se hace en consulta.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial cerca de Sant Pau u online. Si un sueño recurrente te visita más de lo que quisieras, o te deja el día marcado, puede ser un buen sitio para empezar: pide una primera visita desde la página de contacto o escríbenos por WhatsApp. Además, si al final vienes, tráelo escrito. Un sueño escrito es material de primera, y la primera sesión ya puede mirarlo contigo.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/pensamientos-intrusos", label: "«Pensamientos intrusos», el artículo" },
+          { url: "/blog/las-cuatro-de-la-manana", label: "«Las cuatro de la mañana», el artículo" },
+          { url: "/blog/rumiacion-ansiosa", label: "«Rumiación ansiosa», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

@@ -14,6 +14,17 @@ export interface ArticleMeta {
 export const articleMeta: ArticleMeta[] = [
 
   {
+    "slug": "suenos-recurrentes-edad-adulta",
+    "categoryCA": "Ansietat",
+    "categoryES": "Ansiedad",
+    "titleCA": "Somnis recurrents a l'edat adulta: què volen dir",
+    "titleES": "Sueños recurrentes en la edad adulta: qué significan",
+    "excerptCA": "Els somnis recurrents es repeteixen any rere any i no són oracles: parlen del que la vida desperta no resol. Què expliquen i com es treballen a teràpia.",
+    "excerptES": "Los sueños recurrentes se repiten año tras año y no son oráculos: hablan de lo que la vida despierta no resuelve. Qué cuentan y cómo se trabajan en terapia.",
+    "datePublished": "2026-11-25"
+  },
+
+  {
     "slug": "en-que-idioma-hacer-terapia",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
