@@ -12,6 +12,16 @@ export interface ArticleMeta {
 }
 
 export const articleMeta: ArticleMeta[] = [
+  {
+    "slug": "padres-venden-casa-familiar",
+    "categoryCA": "Canvis vitals",
+    "categoryES": "Cambios vitales",
+    "titleCA": "Vendre la casa familiar: un dol sense condol",
+    "titleES": "Vender la casa familiar: un duelo sin pésame",
+    "excerptCA": "Vendre la casa familiar dels teus pares és un dol sense condol. Per què un pis pesa tant i com travessar el comiat d'adult.",
+    "excerptES": "Vender la casa familiar de tus padres es un duelo sin pésame. Por qué un piso pesa tanto y cómo atravesar el adiós de adulto.",
+    "datePublished": "2026-11-26"
+  },
 
   {
     "slug": "suenos-recurrentes-edad-adulta",

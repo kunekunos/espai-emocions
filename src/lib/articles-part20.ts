@@ -954,4 +954,211 @@ export const articlesPart20: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 5. padres-venden-casa-familiar (Canvis vitals, 2026-11-26)
+  // --------------------------------------------------------------------------
+  {
+    slug: "padres-venden-casa-familiar",
+    categoryCA: "Canvis vitals",
+    categoryES: "Cambios vitales",
+    titleCA: "Vendre la casa familiar: un dol sense condol",
+    titleES: "Vender la casa familiar: un duelo sin pésame",
+    excerptCA:
+      "Vendre la casa familiar dels teus pares és un dol sense condol. Per què un pis pesa tant i com travessar el comiat d'adult.",
+    excerptES:
+      "Vender la casa familiar de tus padres es un duelo sin pésame. Por qué un piso pesa tanto y cómo atravesar el adiós de adulto.",
+    datePublished: "2026-11-26",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "El cartell d'«Es ven» va aparèixer un dimarts qualsevol al balcó del segon pis. Les persianes verdes d'aquell balcó les havia pintat, l'any 88, el pare d'una pacient meva. Quatre lletres de plàstic i un número de mòbil. Res més. Tanmateix, aquelles quatre lletres van canviar l'adreça de tota una família. Vendre la casa familiar sempre comença igual: amb un paper enganxat on fins ahir hi havia la teva vida. A la consulta de psicologia per a adults de Barcelona ho veig sovint, i cada vegada més. Els pares que van comprar el pis als setanta tenen ara vuitanta anys, i la casa que els va fer pares els ha quedat gran.",
+      },
+      {
+        type: "paragraph",
+        text: "La meva postura, abans de començar: això no és una operació immobiliària amb una llàgrima a la firma. És un dol, i dels que no surten a l'escriptura. En aquest article vull mirar per què un pis pot pesar tant, què hi ha realment dins d'aquest pes i com s'acompanya a la teràpia quan la família ja ha signat o està a punt de fer-ho. Anem per parts.",
+      },
+      {
+        type: "heading",
+        text: "Vendre la casa familiar: més que una operació",
+      },
+      {
+        type: "paragraph",
+        text: "Comencem pel començament. La casa familiar és el decorat on la teva història va aprendre a moure's: el passadís dels primers passos, el marc de la porta amb les alçades apuntades a llapis, la cuina que feia olor de diumenge. La teva memòria guarda tot això amb adreça física. Pensa-hi un moment. Quan evocques un record d'infància, on s'ha posat? Gairebé sempre en un lloc concret, perquè la memòria és molt menys abstracta del que sembla.",
+      },
+      {
+        type: "paragraph",
+        text: "La pacient del cartell ho va explicar millor que jo. El dia que va anar a buscar les últimes caixes, la seva habitació ja no hi era. Hi havia un dormitori de catàleg, pintat de blanc, amb una làmpada nova. «He plorat per una làmpada», em va dir, mig rient. A veure, no plorava per la làmpada. Plorava per la persona que s'asseia sota la llum de l'altra. I plorava perquè aquella habitació era l'únic lloc del món on havia estat petita sense demanar permís.",
+      },
+      {
+        type: "paragraph",
+        text: "A Barcelona, a més, això té una escala particular. Moltes cases de família són pisos grans de l'Eixample o de Gràcia. Els van comprar als anys en què semblava que aquella vida duraria sempre. Quan els pares envelleixen, el pis es queda gran per a ells. I el manteniment no regala: cada any costa més. Per això ara tantes cuines familiars fan olor de pintura blanca: preparar la venda de la casa familiar sempre comença amb una mà de pintura.",
+      },
+      {
+        type: "heading",
+        text: "El dol que no figura a l'escriptura",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha dols que porten condol. I n'hi ha que no porten res. Quan falta una persona, el món s'atura una mica. Et deixen estar. Quan falta un pis, en canvi, ningú no t'envia flors ni et pregunta com ho portes. El psicòleg Kenneth Doka va anomenar aquestes pèrdues «dol desemparat»: dols que no tenen funeral ni permís social. Vendre la casa familiar n'és un cas de manual. El seu dol arriba sense targeta de condol, embolicat amb papers de notaria. I el silenci dels altres, a poc a poc, es converteix en dubte propi: qui t'ha preguntat mai com portes la pèrdua d'un pis? Ningú. Molts pacients, per això, arriben a consulta pensant que exageren.",
+      },
+      {
+        type: "paragraph",
+        text: "El sentit comú hi posa una etiqueta ràpida: són tot maons, sigues pràctic. De fet, et dirà que amb els diners ja hi aniràs bé. Tanmateix, a la consulta veig una altra cosa: el cos sap on és la teva casa. I no s'enganya. Quantes vegades has entrat per aquella porta? No ho saps, i els teus peus sí. Setmanes després de la venda, hi ha pacients que encara giren el cap cap al carrer de sempre quan tornen de la feina. I s'empipen amb ells mateixos per fer-ho.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha qui viu la venda com una traïció dels pares, i hi ha qui s'empipa amb si mateix per posar-se sentimental per quatre parets. Les dues reaccions són legítimes, i les dues parlen de l'afecte, no del mercat. No és poca traça, el que falta. És que la teva història tenia un plànol, i el plànol ha deixat d'existir de la nit al dia.",
+      },
+      {
+        type: "heading",
+        text: "El que no diu la notaria",
+      },
+      {
+        type: "paragraph",
+        text: "I ara la part que no surt al contracte. Vendre la casa familiar també és repartir una herència amb els pares vius, i això canvia els papers de la taula. Fa un parell d'anys vaig acompanyar un home que no podia firmar. Els seus germans volien vendre aviat perquè el pis era un mal negoci. Ell, en canvi, volia esperar: encara feia olor de la seva mare. No eren baralles de diners, encara que a la taula ho semblin. Eren tres maneres diferents d'enyorar, amb tres rellotges diferents.",
+      },
+      {
+        type: "paragraph",
+        text: "El diner, en tot això, és un llenguatge de família més que un número. Hi ha qui vol vendre aviat perquè retenir el pis costa car. Hi ha qui volia el mateix, però no suporta ser el qui ho diu. La culpa fa estranyes aliances: els germans que es barallen pel preu sovint defensen, en realitat, una manera diferent d'estimar la mateixa casa. Tu en quin bàndol has acabat, sense voler-ho?",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha una capa que gairebé ningú no mira: els teus pares també fan el seu dol, i molts l'amaguen. Callen la decisió fins a l'últim moment per no fer-vos mal, i així, de fet, el fan més gran. Quan la teva mare et demana disculpes per vendre el que ella ha comprat, hi ha molta feina emocional a la taula. Al cap i a la fi, ells també perden el lloc on van ser joves. Qui ha de cuidar qui, aquí? La pregunta no és retòrica; és el cor del tema.",
+      },
+      {
+        type: "heading",
+        text: "Com es treballa a consulta",
+      },
+      {
+        type: "paragraph",
+        text: "Com s'acompanya, doncs, el dol de vendre la casa familiar? La primera feina és donar-li permís. Molts adults arriben amb vergonya de patir per un pis. És com si el dolor es disputés per categories i el seu no arribés mai a la final. Doncs sí que hi arriba. La segona feina és el comiat conscient: si la venda encara no s'ha tancat, demano una última volta amb calma. Anar-hi amb temps, fer fotos, seure a la cuina, dir adéu a les habitacions amb paraules. Sembla un ritual petit, i ho és. Però els tancaments importants sempre són rituals petits. I el cos necessita registrar el final tant com la notaria.",
+      },
+      {
+        type: "paragraph",
+        text: "La tercera feina és la més fonda: separar el contenidor del contingut. Tu no ets el pis; ets tot el que hi va passar. En aquest sentit, recordar sense l'adreça és possible, però cal practicar-ho. Per això serveixen els àlbums de tota la vida i les veus gravades al mòbil: coses que no ocupen lloc. També els dinars de diumenge, que ja no depenen d'una taula concreta. Fa uns mesos escrivia sobre el pas del temps a mitja vida, i tornem a ser-hi. La casa fa de marc; el quadre ets tu.",
+      },
+      {
+        type: "paragraph",
+        text: "I hi ha una quarta part, més subtil: la part teva que encara era petita en aquella casa. Als fills adults els visita una pregunta dura: si la casa desapareix, què queda de la família que hi vivia? La resposta no és agradar tothom ni regalar raons. La resposta és construir, amb els que queden, un lloc nou on tornar. Això, normalment, no es fa en un cap de setmana. Es fa en anys. I val la pena fer-lo acompanyat.",
+      },
+      {
+        type: "heading",
+        text: "Què queda quan no queda el pis",
+      },
+      {
+        type: "paragraph",
+        text: "Al capdavall, el pis era el marc, i els marcs es canvien. Què queda, doncs? Queda la teva història, que ja no depèn de cap adreça. Queda la relació amb els teus pares, que pot sortir més neta o més esquerda de tot plegat. I quedes tu. Amb una decisió nova sobre què mereix conservar-se. Una acció per a aquesta setmana, si el teu cas és aquest: escriu la llista del que no es ven. No de mobles. De rutines, d'olors i de frases. Les llistes, a propòsit, funcionen millor escrites que pensades: la memòria s'estira quan l'obligues a triar. I si encara pots entrar-hi, fes una foto del marc de la porta, el de les ratlles de llapis. Aquelles alçades eres tu; la casa només les hi prestava.",
+      },
+      {
+        type: "paragraph",
+        text: "A Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles en aquests comiats amb sostre. Ho fem amb psicòlegs col·legiats, en sessió presencial o online. Si els teus pares venen la casa familiar i el pes no et deixa firmar tranquil, ho podem mirar plegats. Demana una primera visita des de la pàgina de contacte o escriu-nos per WhatsApp. La casa es vendrà igual. El comiat, en canvi, es pot fer ben fet, i fer-lo és cosa de vius.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/volver-casa-padres-edad-adulta", label: "«Tornar a casa dels pares», l'article" },
+          { url: "/blog/conversaciones-pendientes-con-tus-padres", label: "«Converses pendents amb els teus pares», l'article" },
+          { url: "/blog/padres-envejecen-duelo-anticipatorio-adultos", label: "«Quan els pares envelleixen», l'article" },
+          { url: "/blog/el-paso-del-tiempo-edad-adulta", label: "«El pas del temps a mitja vida», l'article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "El cartel de «Se vende» apareció un martes cualquiera en el balcón del segundo piso. Las persianas verdes de aquel balcón las había pintado, en el año 88, el padre de una paciente mía. Cuatro letras de plástico y un número de móvil. Nada más. Sin embargo, esas cuatro letras cambiaron la dirección de toda una familia. Vender la casa familiar siempre empieza igual: con un papel pegado donde hasta ayer estaba tu vida. En la consulta de psicología para adultos de Barcelona lo veo a menudo, y cada vez más. Los padres que compraron el piso en los setenta tienen ahora ochenta años, y la casa que los hizo padres les ha quedado grande.",
+      },
+      {
+        type: "paragraph",
+        text: "Mi postura, antes de empezar: esto no es una operación inmobiliaria con una lágrima en la firma. Es un duelo, y de los que no salen en la escritura. En este artículo quiero mirar por qué un piso puede pesar tanto, qué hay realmente dentro de ese peso y cómo se acompaña en terapia cuando la familia ya ha firmado o está a punto de hacerlo. Vamos por partes.",
+      },
+      {
+        type: "heading",
+        text: "Vender la casa familiar: más que una operación",
+      },
+      {
+        type: "paragraph",
+        text: "Empecemos por el principio. La casa familiar es el decorado donde tu historia aprendió a moverse: el pasillo de los primeros pasos, el marco de la puerta con las alturas apuntadas a lápiz, la cocina que olía a domingo. Tu memoria guarda todo eso con dirección física. Piénsalo un momento. Cuando evocas un recuerdo de infancia, ¿dónde se ha colocado? Casi siempre en un sitio concreto, porque la memoria es mucho menos abstracta de lo que parece.",
+      },
+      {
+        type: "paragraph",
+        text: "La paciente del cartel lo explicó mejor que yo. El día que fue a buscar las últimas cajas, su habitación ya no estaba. Había un dormitorio de catálogo, pintado de blanco, con una lámpara nueva. «He llorado por una lámpara», me dijo, medio riendo. A ver, no lloraba por la lámpara. Lloraba por la persona que se sentaba bajo la luz de la otra. Y lloraba porque aquella habitación era el único sitio del mundo donde había sido pequeña sin pedir permiso.",
+      },
+      {
+        type: "paragraph",
+        text: "En Barcelona, además, esto tiene una escala particular. Muchas casas de familia son pisos grandes del Eixample o de Gràcia. Los compraron en los años en que aquella vida parecía eterna. Cuando los padres envejecen, el piso les queda grande. Y el mantenimiento no regala nada: cada año cuesta más. Por eso ahora tantas cocinas familiares huelen a pintura blanca: preparar la venta de la casa familiar siempre empieza con una mano de pintura.",
+      },
+      {
+        type: "heading",
+        text: "El duelo que no figura en la escritura",
+      },
+      {
+        type: "paragraph",
+        text: "Hay duelos que traen pésames. Y hay duelos que no traen nada. Cuando falta una persona, el mundo se detiene un poco. Te dejan estar. Cuando falta un piso, en cambio, nadie te manda flores ni te pregunta cómo lo llevas. El psicólogo Kenneth Doka llamó a estas pérdidas «duelo desvalido»: duelos que no tienen funeral ni permiso social. Vender la casa familiar es un caso de manual. Su duelo llega sin tarjeta de pésame, envuelto en papeles de notaría. Y el silencio de los demás, poco a poco, se convierte en duda propia: ¿quién te ha preguntado alguna vez cómo llevas la pérdida de un piso? Nadie. Muchos pacientes, por eso, llegan a consulta pensando que exageran.",
+      },
+      {
+        type: "paragraph",
+        text: "El sentido común le pone una etiqueta rápida: son todo ladrillos, sé práctico. De hecho, te dirá que con el dinero ya irás bien. Sin embargo, en la consulta veo otra cosa: el cuerpo sabe dónde está tu casa. Y no se engaña. ¿Cuántas veces has entrado por esa puerta? No lo sabes, y tus pies sí. Semanas después de la venta, hay pacientes que todavía giran la cabeza hacia la calle de siempre al volver del trabajo. Y se enfadan consigo mismos por hacerlo.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay quien vive la venta como una traición de los padres, y hay quien se enfada consigo mismo por ponerse sentimental por cuatro paredes. Las dos reacciones son legítimas, y las dos hablan del afecto, no del mercado. No es poca destreza lo que falta. Es que tu historia tenía un plano, y el plano ha dejado de existir de la noche a la mañana.",
+      },
+      {
+        type: "heading",
+        text: "Lo que no dice la notaría",
+      },
+      {
+        type: "paragraph",
+        text: "Y ahora la parte que no sale en el contrato. Vender la casa familiar también es repartir una herencia con los padres vivos, y eso cambia los papeles de la mesa. Hace un par de años acompañé a un hombre que no podía firmar. Sus hermanos querían vender pronto porque el piso era un mal negocio. Él, en cambio, quería esperar: todavía olía a su madre. No eran peleas de dinero, aunque en la mesa lo parecieran. Eran tres maneras diferentes de añorar, con tres relojes diferentes.",
+      },
+      {
+        type: "paragraph",
+        text: "El dinero, en todo esto, es un lenguaje de familia más que un número. Hay quien quiere vender pronto porque retener el piso cuesta caro. Hay quien quería lo mismo, pero no soporta ser quien lo dice. La culpa hace alianzas extrañas: los hermanos que discuten por el precio a menudo defienden, en realidad, una manera diferente de querer la misma casa. ¿Tú en qué bando has acabado, sin quererlo?",
+      },
+      {
+        type: "paragraph",
+        text: "Hay una capa que casi nadie mira: tus padres también hacen su duelo, y muchos lo esconden. Callan la decisión hasta el último momento para no haceros daño, y así, de hecho, lo hacen más grande. Cuando tu madre te pide disculpas por vender lo que ella ha comprado, hay mucho trabajo emocional sobre la mesa. Al fin y al cabo, ellos también pierden el sitio donde fueron jóvenes. ¿Quién tiene que cuidar a quién, aquí? La pregunta no es retórica; es el corazón del asunto.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se trabaja en consulta",
+      },
+      {
+        type: "paragraph",
+        text: "¿Cómo se acompaña, entonces, el duelo de vender la casa familiar? El primer trabajo es darle permiso. Muchos adultos llegan con vergüenza de sufrir por un piso. Es como si el dolor se disputara por categorías y el suyo nunca llegara a la final. Pues sí llega. El segundo trabajo es el adiós consciente: si la venta todavía no se ha cerrado, pido una última vuelta con calma. Ir con tiempo, hacer fotos, sentarse en la cocina, decir adiós a las habitaciones con palabras. Parece un ritual pequeño, y lo es. Pero los cierres importantes siempre son rituales pequeños. Y el cuerpo necesita registrar el final tanto como la notaría.",
+      },
+      {
+        type: "paragraph",
+        text: "El tercer trabajo es el más hondo: separar el continente del contenido. Tú no eres el piso; eres todo lo que pasó dentro. En este sentido, recordar sin la dirección es posible, pero hay que practicarlo. Para eso sirven los álbumes de toda la vida y las voces grabadas en el móvil: cosas que no ocupan lugar. También las comidas de domingo, que ya no dependen de una mesa concreta. Hace unos meses escribía sobre el paso del tiempo a mitad de la vida, y volvemos a estar ahí. La casa hace de marco; el cuadro eres tú.",
+      },
+      {
+        type: "paragraph",
+        text: "Y hay una cuarta parte, más sutil: la parte tuya que todavía era pequeña en aquella casa. A los hijos adultos les visita una pregunta dura: si la casa desaparece, ¿qué queda de la familia que vivía allí? La respuesta no es quedar bien con todos ni regalar razones. La respuesta es construir, con los que quedan, un sitio nuevo al que volver. Eso, normalmente, no se hace en un fin de semana. Se hace en años. Y vale la pena hacerlo acompañado.",
+      },
+      {
+        type: "heading",
+        text: "Qué queda cuando no queda el piso",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, el piso era el marco, y los marcos se cambian. ¿Qué queda, entonces? Queda tu historia, que ya no depende de ninguna dirección. Queda la relación con tus padres, que puede salir más limpia o más agrietada de todo esto. Y quedas tú. Con una decisión nueva sobre qué merece conservarse. Una acción para esta semana, si tu caso es este: escribe la lista de lo que no se vende. No de muebles. De rutinas, de olores y de frases. Las listas, por cierto, funcionan mejor escritas que pensadas: la memoria se estira cuando la obligas a elegir. Y si todavía puedes entrar, haz una foto del marco de la puerta, el de las rayas de lápiz. Aquellas alturas eras tú; la casa solo las prestaba.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas en estas despedidas con techo. Lo hacemos con psicólogos colegiados, en sesión presencial u online. Si tus padres venden la casa familiar y el peso no te deja firmar tranquilo, lo podemos mirar juntos. Pide una primera visita desde la página de contacto o escríbenos por WhatsApp. La casa se venderá igual. El adiós, en cambio, se puede hacer bien, y hacerlo es cosa de vivos.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/volver-casa-padres-edad-adulta", label: "«Volver a casa de tus padres», el artículo" },
+          { url: "/blog/conversaciones-pendientes-con-tus-padres", label: "«Conversaciones pendientes con tus padres», el artículo" },
+          { url: "/blog/padres-envejecen-duelo-anticipatorio-adultos", label: "«Cuando los padres envejecen», el artículo" },
+          { url: "/blog/el-paso-del-tiempo-edad-adulta", label: "«El paso del tiempo a mitad de la vida», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];
