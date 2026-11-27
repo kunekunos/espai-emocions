@@ -1161,4 +1161,227 @@ export const articlesPart20: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 6. no-se-que-decir-en-terapia (Com funciona la teràpia, 2026-11-27)
+  // --------------------------------------------------------------------------
+  {
+    slug: "no-se-que-decir-en-terapia",
+    categoryCA: "Com funciona la teràpia",
+    categoryES: "Cómo funciona la terapia",
+    titleCA: "«No sé què dir a teràpia»: la sessió sense guió",
+    titleES: "«No sé qué decir en terapia»: la sesión sin guion",
+    excerptCA:
+      "«No sé què dir a teràpia» és el dubte que més sessions ajorna: no cal portar temes ni un guió, perquè la sessió sense res també parla.",
+    excerptES:
+      "«No sé qué decir en terapia» es la duda que más sesiones aplaza: no necesitas temas ni un guion, porque la sesión en blanco también habla.",
+    datePublished: "2026-11-27",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Et confesso una cosa abans de començar. Els primers mesos de la meva pròpia teràpia, jo també preparava el que hi diria. Dilluns apuntava temes en una llibreta i divendres els rellegia com qui repassa l'ordre del dia d'una reunió. «I si no sé què dir a teràpia?», pensava. Sense el paper em sentia despullat. Avui m'assec a l'altra cadira, a la consulta de psicologia per a adults de Barcelona. Aquesta mateixa frase és la que més sento la primera setmana, sempre en veu baixa.",
+      },
+      {
+        type: "paragraph",
+        text: "La meva postura, i l'adelanto per estalviar-te el dubte: no necessites cap guió. La teràpia no és una reunió de treball ni un examen; ningú no t'avaluarà pel que hi portes. Ara bé, el dubte mereix resposta, perquè té conseqüències: hi ha qui ajorna mesos la primera visita per por de quedar-se en blanc. En aquest article vull mirar d'on surt aquesta necessitat de portar alguna cosa, com comença de veritat una sessió i què passa quan arribes sense res.",
+      },
+      {
+        type: "heading",
+        text: "«No sé què dir a teràpia»: per què fa por el buit",
+      },
+      {
+        type: "paragraph",
+        text: "Comencem pel fenomen. Aquest dubte arriba a totes les edats i a tots els perfils. L'advocat que defensa causes cada dia; la metgessa que parla amb famílies cada tarda. A la sessió, en canvi, es queden mirant el terra i diuen «avui no sé per on començar». No els falta capacitat de parlar; els falta permís. En una cultura que valora el que es produeix, una conversa sense tema previst sembla temps perdut. Si a més la pagues, la culpa es multiplica. Et sona? Doncs mira, a consulta és exactament al revés: la sessió sense tema sovint és la que va més endins.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha un detall que em diu molt de com funciona aquesta por. Fa uns mesos, un pacient va arribar amb una llibreta plena: temes numerats, subratllats, amb dates. La duia des del principi del procés. Li vaig preguntar què hi havia abans de la llista. Res, va dir. La llibreta havia començat com una manera d'estalviar temps i s'havia convertit en una inspectora. Res del que passava a la setmana no era prou important per entrar-hi si no constava al paper. El dia que la va deixar a casa, per error, va plorar. Van ser les primeres llàgrimes de tot el procés.",
+      },
+      {
+        type: "heading",
+        text: "D'on surt la mania de portar temes",
+      },
+      {
+        type: "paragraph",
+        text: "D'on surt, doncs? Mira't la setmana: reunions amb ordre del dia, correus amb assumpte, missatges que comencen «tinc dues coses». Tot el teu dia porta guió. La vida professional moderna és una successió de punts a tractar, i el cos hi agafa el costum. De fet, apliques l'esquema allà on el trobes: el sopar, el metge, el sexe. Arriba un moment que l'interior també demana la seva llista, com si la teva vida fos una reunió que presideixes. La idea que cal anar amb «coses per parlar» és filla directa d'aquesta cultura de l'agenda; no és cap mania teva.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema d'aquesta llista interior és el criteri de tall. Si només és «digne de sessió» el gros, el conflicte, la notícia, llavors tot el que no encaixa es queda fora. I el cas és que el gruix de la vida són aquestes altres coses: la conversa a la cuina o el cansament que no ve d'enlloc. A més, el filtre fa que arribis amb un resum pulit de tu mateix. I el que cal mirar és el text sense pulir. Què has deixat fora aquesta setmana sense adonar-te'n?",
+      },
+      {
+        type: "heading",
+        text: "Com comença de veritat una sessió",
+      },
+      {
+        type: "paragraph",
+        text: "Anem al concret, perquè el dubte es resol veient com funciona. A Espai Emocions, una sessió no comença amb cap ritu: comença com comencen totes les converses de veritat, per on es pot. A vegades per la setmana: «com ha anat?», i ja tenim fil. A vegades per un detall físic, perquè el cos entra a consulta abans que la veu. Una mandíbula tancada; unes espatlles pujades. I a vegades no comença: hi ha silenci una estona, i treballem el silenci. Cap de les entrades no és millor que una altra; totes porten al mateix lloc, que ets tu.",
+      },
+      {
+        type: "paragraph",
+        text: "La paraula que m'agrada aquí és fil, no tema. Un tema és tancat: parlaries del teu germà i prou, tres quarts d'hora. Un fil, en canvi, s'estira. Comences pel germà i apareix l'herència. Després, el paper que hi fas. Després, el to de veu amb què et parles quan decideixes. De fet, la majoria de sessions importants no van d'on el pacient pensava, i precisament per això ningú no et pot demanar un guió: encara no existeix. La sessió l'escriu el mateix dia, entre dos.",
+      },
+      {
+        type: "paragraph",
+        text: "I què fa qui s'encalla? A veure, hi ha una cosa que funciona gairebé sempre. No començar pel que sembla més important, sinó pel que ha passat avui. La sessió és a les quatre; per exemple, has dinat, has caminat, has mirat el mòbil. Res d'això no és trivial de prop. Normalment, el que ha passat les últimes hores arrossega el rastre del que pesa; només cal rascar una mica.",
+      },
+      {
+        type: "heading",
+        text: "El dia que no portes res també diu alguna cosa",
+      },
+      {
+        type: "paragraph",
+        text: "Em falta la peça que més costa creure: la sessió sense res, la que tu qualificaries de perduda. Doncs bé, és material de primera. Una pacient me'n va parlar un dimarts: «aquesta setmana no ha passat res, ho sento». La seva setmana no havia passat res. Tres nits dormint malament. Una discussió petita amb la seva parella. I una tarda sencera mirant sèries per no pensar. «Res» era, de fet, una llista amb tres coses que feien por. Li vaig proposar mirar per què aquelles tres coses no comptaven com a res per a ella, i el fil va durar mesos.",
+      },
+      {
+        type: "paragraph",
+        text: "Al capdavall, el buit que portes a sessió rarament és buit. Quantes coses teves has anomenat «res» aquesta setmana? Normalment és tot el contrari: hi ha una part teva que ha decidit que avui no tocava. Doncs això, exactament, és el que anem a mirar.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents: què portar a teràpia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "He de portar temes preparats a la primera sessió?",
+            answer: "No. La primera visita ja porta el seu propi fil: per què demanes hora ara, què t'ha portat fins aquí, què esperes. De fet, si arribes sense res, comences com la majoria. Porta el dubte si vols; també és material.",
+          },
+          {
+            question: "I si em quedo en blanc enmig de la sessió?",
+            answer: "Passa, i no és cap error. El blanc és una pausa, i les pauses expliquen: mirem què hi ha just abans que es tanqués la veu. A més, qui t'acompanya hi està acostumat; no ets la primera persona ni la segona.",
+          },
+          {
+            question: "M'ajuda prendre notes de la setmana?",
+            answer: "A algunes persones sí, sobretot al començament, i no hi ha res de mal a fer-ho. Ara bé, vigila el criteri: si la llista comença a decidir què és prou important, ja no serveix. Al cap i a la fi, la llista és una porta, no un filtre.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una setmana sense llibreta",
+      },
+      {
+        type: "paragraph",
+        text: "Una acció per a aquesta setmana, tinguis teràpia o no. Si hi vas, prova d'arribar una vegada sense res preparat i fixa't què fa el cos durant els tres primers minuts. Si encara no hi vas, no deixis que aquest dubte et freni més: la primera visita no demana guió, demana ganes de mirar. Porta la frase tal com la tens: «no sé què dir». La porten gairebé tots. I les sessions funcionen igual.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats. Les sessions poden ser presencials, a prop de Sant Pau, o online. Si el dubte de què dir a teràpia t'ha fet ajornar mesos la visita, potser és el moment: demana una primera visita des de la pàgina de contacte o escriu-nos per WhatsApp. Ja veuràs que comencem pel que hi hagi aquell dia. Normalment n'hi ha més del que sembla.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/primera-sesion-psicologia", label: "«Com és la primera sessió de psicologia», l'article" },
+          { url: "/blog/lo-que-dices-en-terapia-se-queda-en-terapia", label: "«El que dius en teràpia es queda en teràpia», l'article" },
+          { url: "/blog/el-vinculo-terapeutico-por-que-la-relacion-importa", label: "«El vincle terapèutic», l'article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "Te confieso una cosa antes de empezar. Los primeros meses de mi propia terapia, yo también preparaba lo que iba a decir. El lunes apuntaba temas en una libreta y el viernes los releía como quien repasa el orden del día de una reunión. «¿Y si no sé qué decir en terapia?», pensaba. Sin el papel, de hecho, me sentía desnudo. Hoy me siento en la otra silla, en la consulta de psicología para adultos de Barcelona. Esa misma frase es la que más escucho la primera semana, siempre en voz baja.",
+      },
+      {
+        type: "paragraph",
+        text: "Mi postura, y la adelanto para ahorrarte el miedo: no necesitas ningún guion. La terapia no es una reunión de trabajo ni un examen; nadie va a evaluarte por la calidad de lo que traes. Ahora bien, el miedo merece respuesta, porque tiene consecuencias: hay quien aplaza meses la primera visita por miedo a quedarse en blanco. En este artículo quiero mirar de dónde sale esta necesidad de traer algo, cómo empieza de verdad una sesión y qué pasa cuando llegas sin nada.",
+      },
+      {
+        type: "heading",
+        text: "«No sé qué decir en terapia»: por qué da miedo el blanco",
+      },
+      {
+        type: "paragraph",
+        text: "Empecemos por el fenómeno. Esta duda llega a todas las edades y a todos los perfiles. El abogado que defiende causas cada día; la médica que habla con familias cada tarde. En sesión, en cambio, se quedan mirando el suelo y dicen «hoy no sé por dónde empezar». No les falta capacidad de hablar; les falta permiso. En una cultura que valora lo que se produce, una conversación sin tema previsto parece tiempo perdido. Si además la pagas, la culpa se multiplica. ¿Te suena? Pues mira, en consulta es exactamente al revés: la sesión sin tema suele ser la que llega más hondo.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay un detalle que me dice mucho de cómo funciona este miedo. Hace unos meses, un paciente llegó con una libreta llena: temas numerados, subrayados, con fechas. La traía desde el principio del proceso. Le pregunté qué había antes de la lista. Nada, dijo. La libreta había empezado como una manera de ahorrar tiempo y se había convertido en una inspectora. Nada de lo que pasaba en la semana era lo bastante importante para entrar si no constaba en el papel. El día que la dejó en casa, por error, lloró. Fueron las primeras lágrimas de todo el proceso.",
+      },
+      {
+        type: "heading",
+        text: "De dónde sale la manía de traer temas",
+      },
+      {
+        type: "paragraph",
+        text: "¿De dónde sale, entonces? Mira tu semana: reuniones con orden del día, correos con asunto, mensajes que empiezan «tengo dos cosas». Todo tu día lleva guion. La vida profesional moderna es una sucesión de puntos a tratar, y el cuerpo coge la costumbre. De hecho, aplicas el esquema donde lo encuentras: la cena, el médico, el sexo. Llega un momento en que el interior también pide su lista, como si tu vida fuera una reunión que presides. La idea de que hay que ir con «cosas que hablar» es hija directa de esa cultura de la agenda; no es ninguna manía tuya.",
+      },
+      {
+        type: "paragraph",
+        text: "El problema de esta lista interior es el criterio de corte. Si solo es «digno de sesión» lo gordo, el conflicto, la noticia, todo lo demás se queda fuera. Y resulta que el grueso de la vida son esas otras cosas: la conversación en la cocina o el cansancio que no viene de ninguna parte. Además, el filtro hace que llegues con un resumen pulido de ti mismo. Y lo que hay que mirar es el texto sin pulir. ¿Qué has dejado fuera esta semana sin darte cuenta?",
+      },
+      {
+        type: "heading",
+        text: "Cómo empieza de verdad una sesión",
+      },
+      {
+        type: "paragraph",
+        text: "Vamos al concreto, porque el miedo se resuelve viendo cómo funciona. En Espai Emocions, una sesión no empieza con ningún rito: empieza como empiezan todas las conversaciones de verdad, por donde se puede. A veces por la semana: «¿cómo ha ido?», y ya tenemos hilo. A veces por un detalle físico, porque el cuerpo entra en consulta antes que la voz. Una mandíbula cerrada; unos hombros subidos. Y a veces no empieza: hay silencio un rato, y trabajamos el silencio. Ninguna de las entradas es mejor que otra; todas llevan al mismo sitio, que eres tú.",
+      },
+      {
+        type: "paragraph",
+        text: "La palabra que me gusta aquí es hilo, no tema. Un tema es cerrado: hablarías de tu hermano y listo, tres cuartos de hora. Un hilo, en cambio, se estira. Empiezas por el hermano y aparece la herencia. Después, el papel que haces. Después, el tono de voz con el que te hablas cuando decides. De hecho, la mayoría de sesiones importantes no van hacia donde el paciente pensaba, y precisamente por eso nadie puede pedirte un guion: todavía no existe. La sesión la escribe el propio día, entre dos.",
+      },
+      {
+        type: "paragraph",
+        text: "¿Y qué hace quien se atasca? A ver, hay algo que funciona casi siempre. No empezar por lo que parece más importante, sino por lo que ha pasado hoy. La sesión es a las cinco; por ejemplo, has comido, has caminado, has mirado el móvil. Nada de eso es trivial de cerca. Normalmente, lo que ha pasado en las últimas horas arrastra el rastro de lo que pesa; solo hay que rascar un poco.",
+      },
+      {
+        type: "heading",
+        text: "El día que no traes nada también dice algo",
+      },
+      {
+        type: "paragraph",
+        text: "Me falta la pieza que más cuesta creer: la sesión sin nada, la que tú llamarías perdida. Pues bien, es material de primera. Una paciente me lo dijo un martes: «esta semana no ha pasado nada, lo siento». Su semana no había pasado nada. Tres noches durmiendo mal. Una pelea pequeña con su pareja. Y una tarde entera viendo series para no pensar. «Nada» era, de hecho, una lista con tres cosas que daban miedo. Le propuse mirar por qué esas tres cosas no contaban como nada para ella, y el hilo duró meses.",
+      },
+      {
+        type: "paragraph",
+        text: "Al final, el vacío que traes a sesión rara vez es vacío. ¿Cuántas cosas tuyas has llamado «nada» esta semana? Normalmente es todo lo contrario: hay una parte de ti que ha decidido que hoy no tocaba. Pues eso, exactamente, es lo que vamos a mirar.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes: qué llevar a terapia",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Tengo que traer temas preparados a la primera sesión?",
+            answer: "No. La primera visita ya lleva su propio hilo: por qué pides hora ahora, qué te ha traído hasta aquí, qué esperas. De hecho, si llegas sin nada, empiezas como la mayoría. Trae la duda si quieres; también es material.",
+          },
+          {
+            question: "¿Y si me quedo en blanco en mitad de la sesión?",
+            answer: "Pasa, y no es ningún error. El blanco es una pausa, y las pausas explican: miramos qué hay justo antes de que se cerrara la voz. Además, quien te acompaña está acostumbrado; no eres la primera persona ni la segunda.",
+          },
+          {
+            question: "¿Me ayuda tomar notas de la semana?",
+            answer: "A algunas personas sí, sobre todo al principio, y no hay nada malo en hacerlo. Ahora bien, vigila el criterio: si la lista empieza a decidir qué es lo bastante importante, ya no sirve. Al final, la lista es una puerta, no un filtro.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Una semana sin libreta",
+      },
+      {
+        type: "paragraph",
+        text: "Una acción para esta semana, tengas terapia o no. Si vas, prueba de llegar una vez sin nada preparado y fíjate en qué hace el cuerpo durante los tres primeros minutos. Si aún no vas, no dejes que esta duda te frene más: la primera visita no pide guion, pide ganas de mirar. Trae la frase tal como la tengas: «no sé qué decir». La traen casi todos. Y las sesiones funcionan igual.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados. Las sesiones pueden ser presenciales, cerca de Sant Pau, u online. Si la duda de qué decir en terapia te ha hecho aplazar meses la visita, quizá sea el momento: pide una primera visita desde la página de contacto o escríbenos por WhatsApp. Ya verás que empezamos por lo que haya ese día. Normalmente hay más de lo que parece.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/primera-sesion-psicologia", label: "«¿Cómo es la primera sesión de psicología?», el artículo" },
+          { url: "/blog/lo-que-dices-en-terapia-se-queda-en-terapia", label: "«Lo que dices en terapia se queda en terapia», el artículo" },
+          { url: "/blog/el-vinculo-terapeutico-por-que-la-relacion-importa", label: "«El vínculo terapéutico», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

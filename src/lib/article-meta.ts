@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "no-se-que-decir-en-terapia",
+    "categoryCA": "Com funciona la teràpia",
+    "categoryES": "Cómo funciona la terapia",
+    "titleCA": "«No sé què dir a teràpia»: la sessió sense guió",
+    "titleES": "«No sé qué decir en terapia»: la sesión sin guion",
+    "excerptCA": "«No sé què dir a teràpia» és el dubte que més sessions ajorna: no cal portar temes ni un guió, perquè la sessió sense res també parla.",
+    "excerptES": "«No sé qué decir en terapia» es la duda que más sesiones aplaza: no necesitas temas ni un guion, porque la sesión en blanco también habla.",
+    "datePublished": "2026-11-27"
+  },
+
+  {
     "slug": "padres-venden-casa-familiar",
     "categoryCA": "Canvis vitals",
     "categoryES": "Cambios vitales",
