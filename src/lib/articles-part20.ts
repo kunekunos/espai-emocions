@@ -1384,4 +1384,201 @@ export const articlesPart20: ArticleContent[] = [
       },
     ],
   },
+  // --------------------------------------------------------------------------
+  // 7. propositos-de-ano-nuevo (Identitat, 2026-11-28)
+  // --------------------------------------------------------------------------
+  {
+    slug: "propositos-de-ano-nuevo",
+    categoryCA: "Identitat",
+    categoryES: "Identidad",
+    titleCA: "Propòsits d'any nou: per què es trenquen tan aviat",
+    titleES: "Propósitos de año nuevo: por qué se rompen tan pronto",
+    excerptCA: "Els propòsits d'any nou es trenquen aviat, i no és manca de voluntat: és la trampa de reinventar-se per decret. Com es sosté un canvi real.",
+    excerptES: "Los propósitos de año nuevo se rompen pronto, y no es falta de voluntad: es la trampa de reinventarse por decreto. Cómo se sostiene un cambio real.",
+    datePublished: "2026-11-28",
+    blocksCA: [
+      {
+        type: "paragraph",
+        text: "Quantes vegades has escrit «enguany sí» en una llibreta nova? No responguis de pressa: fes-ne memòria. El llapis acabat de comprar, la primera pàgina en blanc, la llista amb el gimnàs, el sucre i el tabac. Els propòsits d'any nou ens porten tota la vida fent la mateixa promesa: que la vida es pot reescriure per decret, amb una data com a frontera. Doncs bé: a la psicologia per a adults que practiquem a Barcelona hi ha un detall curiós. El desembre s'omple de gent que vol «començar bé l'any», i poques persones saben que aquesta frase és, moltes vegades, el primer símptoma del que volen canviar. Fa anys que m'hi fixo. Encara em sorprèn el ritme amb què es repeteix.",
+      },
+      {
+        type: "paragraph",
+        text: "Abans que arribi el gener amb el seu desànim, vull que et quedis amb una idea: els propòsits no es trenquen per feblesa ni per manca de caràcter. Es trenquen perquè estan mal plantejats. A més, arrosseguen una idea amagada que els saboteja: la idea que cal convertir-se en una altra persona. En aquest article mirarem per què els propòsits d'any nou fallen tant, què hi ha darrere del «dilluns començo» i com es pensa un canvi perquè aguanti. Primer, la trampa.",
+      },
+      {
+        type: "heading",
+        text: "Propòsits d'any nou: la trampa del borró i compte nova",
+      },
+      {
+        type: "paragraph",
+        text: "La trampa dels propòsits d'any nou té un nom que coneixes: borró i compte nova. El desembre s'acaba i, amb ell, arriba la idea que el que ha passat ja no compta. Gener quedarà net com una pissarra esborrada. Ara bé, tu no ets una pissarra. La teva vida és un text escrit amb anys de traça, i el canvi real no arranca mai de la pàgina en blanc: arranca del paràgraf que ja hi ha. Per exemple, si portes deu anys menjant per nervis, l'u de gener no et treu els nervis. La data canvia el calendari. La teva història, en canvi, no llegeix calendaris.",
+      },
+      {
+        type: "paragraph",
+        text: "Hi ha, a més, una indústria sencera que viu d'aquesta il·lusió: el gimnàs s'omple al gener i se sol buidar pel febrer. Venen el començament, perquè el començament és fàcil de vendre. Però la data fa un altre servei, més íntim: el de coartada. Fa dos anys, un pacient em va dir que el gener seria el moment de mirar allò de la feina. El gener va passar de llarg. Al gener següent, igual. «Ja ho sé, és que ara ve Nadal», va acabar dient, i vam riure. Darrere la broma, tanmateix, hi havia més d'un any de permís. El «dilluns començo» funciona igual: mentre arriba la data bona, vius de prestado.",
+      },
+      {
+        type: "heading",
+        text: "El problema no és la voluntat",
+      },
+      {
+        type: "paragraph",
+        text: "Comencem desactivant un sospitós habitual: la voluntat. No és un acte heroic el que sosté el canvi real; és una suma de decisions petites, gairebé avorrides, que passen per sota del radar. Els grans gestos, en canvi, consumeixen molta energia i desperten la resistència de totes les parts teves que en surten perdent. Per exemple, si declares «a partir de demà, gimnàs cada dia», la part que estimava el sofà alçarà la veu. I en té dret, perquè la coneixes de tota la vida. Els propòsits d'any nou solen ser grans gestos. Per això cauen.",
+      },
+      {
+        type: "paragraph",
+        text: "A més, quan el propòsit cau, arriba el segon problema: el judici. «No sóc capaç.» «Això no va amb mi.» «Un altre any igual.» Reconeixes la veu? A la consulta la coneixem bé, perquè sovint és la mateixa que va decidir el propòsit per càstig, no per desig. I aquí hi ha una subtilitat que val or: hi ha propòsits que no volen construir res. Volen reparar una mala consciència. La culpa és un mal arquitecte: fa cases per ensenyar-les, no per viure-hi. Quan el propòsit era, en el fons, una multa que et posaves a tu mateix, el fracàs no és cap accident. És el destí lògic.",
+      },
+      {
+        type: "heading",
+        text: "Com es pensa un canvi que aguanta",
+      },
+      {
+        type: "paragraph",
+        text: "A la consulta, quan arriba algú amb un propòsit a la mà, el primer que fem és girar-lo. «Vull córrer» no és prou. Vols córrer per a què? Què hi haurà a la teva vida que hi sigui gràcies a córrer? La pregunta dels valors mira una altra banda: qui vols ser mentre ho fas. Sovint la resposta surt neta i precisa: vull un cos que m'acompanyi els pròxims vint anys. Un cop tens aquesta frase, el propòsit deixa de ser un decret. Esdevé una direcció. I les direccions, a diferència de les dates, no caduquen al gener.",
+      },
+      {
+        type: "paragraph",
+        text: "Després baixem a terra, perquè les direccions necessiten cames. Aquí val el que fem a consulta: decisions petites i sostenides, que es puguin complir també els dies dolents. «Vint minuts de passeig» aguanta un dimarts trist. «Una hora de gimnàs cada dia», en canvi, no. I quan arriba la relliscada, i arriba sempre, la pregunta no és com castigar-la. La pregunta és què explica. Al capdavall, el canvi no és una recta: és una conversació llarga amb tu mateix. Hi ha pauses; hi ha retirades. No sempre és bonic. Però, quan el canvi és teu, aguanta.",
+      },
+      {
+        type: "heading",
+        text: "Preguntes freqüents sobre els propòsits d'any nou",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "És millor començar l'u de gener?",
+            answer: "Si la data t'ajuda, aprofita-la: és una bona excusa per demanar hora o per dir-ho en veu alta. Ara bé, la data no és la decisió. Un canvi que penja del calendari es mor amb ell. La decisió és teva; el calendari, no.",
+          },
+          {
+            question: "Per què em passa sempre amb el mateix?",
+            answer: "Perquè hi ha coses que no canvien amb un gest: una relació que fa mal, una feina que buida, una ansietat que t'organitza el dia. Quan el propòsit cau any rere any, convé mirar què hi ha sota. Això és feina de psicoteràpia.",
+          },
+          {
+            question: "I si ja l'he trencat a mitjan gener?",
+            answer: "No l'has trencat: has tingut una setmana dolenta. La idea que un error anul·la el mes sencer és la mateixa que volia el borró i compte nova. La decisió es pot refer cada matí. I això, en comptes de pesar, és un alleujament: cada matí tens una oportunitat nova.",
+          },
+          {
+            question: "Quan un propòsit necessita companyia?",
+            answer: "Quan toca coses grans: un estat depressiu, un dol, una parella que fa anys que no funciona. En aquests casos, el propòsit més honest que pots fer és demanar ajuda. I demanar-la tampoc no espera el gener: es pot demanar un dimarts qualsevol.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Abans no arribi gener",
+      },
+      {
+        type: "paragraph",
+        text: "Una acció per a aquestes setmanes, i no necessita llapis nou. Escriu tres línies al paper que tinguis a mà, ni que sigui el rebut del súper: què vull que sigui veritat el desembre vinent; què estic disposat a pagar per això; a qui l'hi diré en veu alta. Aquestes línies valen més que qualsevol llista de propòsits d'any nou. La diferència és que elles et responen a tu. La llista, en canvi, respondia al calendari.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centre de psicologia de Barcelona, acompanyem adults i parelles amb psicòlegs col·legiats, en sessió presencial o online. Si el teu propòsit d'any nou toca alguna cosa que fa temps que ajornes (una ansietat, un estat d'ànim, una relació que ja no aguanta), potser la millor decisió és demanar una primera visita: des de la pàgina de contacte o escrivint-nos per WhatsApp. Sense esperar el dilluns. Sense esperar gener.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/procrastinacion-en-adultos", label: "«La procrastinació en adults», l'article" },
+          { url: "/blog/valores-que-cambiaron-sin-avisar", label: "«Els valors que van canviar sense avisar», l'article" },
+          { url: "/blog/recaida-emocional", label: "«La recaiguda emocional», l'article" },
+          { url: "/psicologo-barcelona", label: "Psicòleg a Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+    blocksES: [
+      {
+        type: "paragraph",
+        text: "¿Cuántas veces has escrito «este año sí» en una libreta nueva? No respondas rápido: haz memoria. El lápiz recién comprado, la primera página en blanco, la lista con el gimnasio, el azúcar y el tabaco. Los propósitos de año nuevo llevan toda la vida haciéndonos la misma promesa: que la vida se puede reescribir por decreto, con una fecha como frontera. Pues bien: en la psicología para adultos que practicamos en Barcelona hay un detalle curioso. Diciembre se llena de gente que quiere «empezar bien el año», y poca gente sabe que esa frase es, muchas veces, el primer síntoma de lo que quieren cambiar. Hace años que lo observo. Todavía me sorprende el ritmo con que se repite.",
+      },
+      {
+        type: "paragraph",
+        text: "Antes de que llegue enero con su desánimo, quiero que te quedes con una idea: los propósitos no se rompen por flojedad ni por falta de carácter. Se rompen porque están mal planteados. Además, arrastran dentro una idea que los sabotea: la idea de que hay que convertirse en otra persona. En este artículo miraremos por qué los propósitos de año nuevo fallan tanto, qué hay detrás del «el lunes empiezo» y cómo se piensa un cambio para que aguante. Primero, la trampa.",
+      },
+      {
+        type: "heading",
+        text: "Propósitos de año nuevo: la trampa del borrón y cuenta nueva",
+      },
+      {
+        type: "paragraph",
+        text: "La trampa de los propósitos de año nuevo tiene un nombre que conoces: borrón y cuenta nueva. Diciembre se termina y, con él, llega la idea de que lo pasado ya no cuenta. Enero quedará limpio como una pizarra borrada. Ahora bien, tú no eres una pizarra. Tu vida es un texto escrito con años de trazo, y el cambio real nunca empieza en la página en blanco: empieza en el párrafo que ya hay. Por ejemplo, si llevas diez años comiendo por nervios, el uno de enero no te quita los nervios. La fecha cambia el calendario. Tu historia, en cambio, no lee calendarios.",
+      },
+      {
+        type: "paragraph",
+        text: "Hay, además, una industria entera que vive de esta ilusión: el gimnasio se llena en enero y suele vaciarse en febrero. Venden el comienzo, porque el comienzo es fácil de vender. Pero la fecha presta otro servicio, más íntimo: el de coartada. Hace dos años, un paciente me dijo que enero sería el momento de mirar lo del trabajo. Enero pasó de largo. Al enero siguiente, igual. «Ya lo sé, es que ahora viene Navidad», acabó diciendo, y nos reímos. Detrás de la broma, sin embargo, había más de un año de permiso. El «el lunes empiezo» funciona igual: mientras llega la fecha buena, vives de prestado.",
+      },
+      {
+        type: "heading",
+        text: "El problema no es la voluntad",
+      },
+      {
+        type: "paragraph",
+        text: "Empecemos desactivando a un sospechoso habitual: la voluntad. No es un acto heroico lo que sostiene el cambio real; es una suma de decisiones pequeñas, casi aburridas, que pasan por debajo del radar. Los grandes gestos, en cambio, consumen mucha energía y despiertan la resistencia de todas las partes tuyas que salen perdiendo. Por ejemplo, si declaras «a partir de mañana, gimnasio cada día», la parte que amaba el sofá alzará la voz. Y tiene derecho, porque la conoces de toda la vida. Los propósitos de año nuevo suelen ser grandes gestos. Por eso caen.",
+      },
+      {
+        type: "paragraph",
+        text: "Además, cuando el propósito cae, llega el segundo problema: el juicio. «No soy capaz.» «Esto no va conmigo.» «Otro año igual.» ¿Reconoces la voz? En consulta la conocemos bien, porque muchas veces es la misma que decidió el propósito como castigo, no como deseo. Y aquí hay una sutileza que vale oro: hay propósitos que no quieren construir nada. Quieren reparar una mala conciencia. La culpa es una mala arquitecta: hace casas para enseñarlas, no para vivirlas. Cuando el propósito era, en el fondo, una multa que te ponías a ti mismo, el fracaso no es ningún accidente. Es el destino lógico.",
+      },
+      {
+        type: "heading",
+        text: "Cómo se piensa un cambio que aguante",
+      },
+      {
+        type: "paragraph",
+        text: "En consulta, cuando llega alguien con un propósito en la mano, lo primero que hacemos es darle la vuelta. «Quiero correr» no basta. ¿Quieres correr para qué? ¿Qué habrá en tu vida que esté ahí gracias a correr? La pregunta de los valores mira hacia otra parte: quién quieres ser mientras lo haces. Muchas veces la respuesta sale neta: quiero un cuerpo que me acompañe los próximos veinte años. Una vez tienes esa frase, el propósito deja de ser un decreto. Se convierte en una dirección. Y las direcciones, a diferencia de las fechas, no caducan en enero.",
+      },
+      {
+        type: "paragraph",
+        text: "Después bajamos a tierra, porque las direcciones necesitan piernas. Aquí vale lo que hacemos en consulta: decisiones pequeñas y sostenidas, que se puedan cumplir incluso los días malos. «Veinte minutos de paseo» aguanta un martes triste. «Una hora de gimnasio cada día», en cambio, no. Y cuando llega el tropiezo, y llega siempre, la pregunta no es cómo castigarlo. La pregunta es qué explica. Al final, el cambio no es una recta: es una conversación larga contigo, con pausas y retiradas. No siempre es bonito. Pero, cuando el cambio es tuyo, aguanta.",
+      },
+      {
+        type: "heading",
+        text: "Preguntas frecuentes sobre los propósitos de año nuevo",
+      },
+      {
+        type: "faq",
+        items: [
+          {
+            question: "¿Es mejor empezar el uno de enero?",
+            answer: "Si la fecha te ayuda, apróvechala: es una buena excusa para pedir hora o para decirlo en voz alta. Ahora bien, la fecha no es la decisión. Un cambio que cuelga del calendario muere con él. La decisión es tuya; el calendario, no.",
+          },
+          {
+            question: "¿Por qué me pasa siempre con lo mismo?",
+            answer: "Porque hay cosas que no cambian con un gesto: una relación que hace daño, un trabajo que vacía, una ansiedad que te organiza el día. Cuando el propósito cae año tras año, conviene mirar qué hay debajo. Eso es trabajo de psicoterapia.",
+          },
+          {
+            question: "¿Y si ya lo he roto a mitad de enero?",
+            answer: "No lo has roto: has tenido una semana mala. La idea de que un error anula el mes entero es la misma que quería el borrón y cuenta nueva. La decisión se puede rehacer cada mañana. Y eso, en vez de pesar, es un alivio: cada día tienes una oportunidad nueva.",
+          },
+          {
+            question: "¿Cuándo un propósito necesita compañía?",
+            answer: "Cuando toca cosas grandes: un estado depresivo, un duelo, una pareja que lleva años sin funcionar. En estos casos, el propósito más honesto que puedes hacer es pedir ayuda. Y pedirla tampoco espera a enero: se puede pedir un martes cualquiera.",
+          },
+        ],
+      },
+      {
+        type: "heading",
+        text: "Antes de que llegue enero",
+      },
+      {
+        type: "paragraph",
+        text: "Una acción para estas semanas, y no necesita lápiz nuevo. Escribe tres líneas en el papel que tengas a mano, aunque sea el ticket del súper: qué quiero que sea verdad el diciembre próximo; qué estoy dispuesto a pagar por ello; a quién se lo diré en voz alta. Esas líneas valen más que cualquier lista de propósitos de año nuevo. La diferencia es que ellas te responden a ti. La lista, en cambio, respondía al calendario.",
+      },
+      {
+        type: "paragraph",
+        text: "En Espai Emocions, centro de psicología de Barcelona, acompañamos a adultos y parejas con psicólogos colegiados, en sesión presencial u online. Si tu propósito de año nuevo toca algo que llevas tiempo aplazando (una ansiedad, un estado de ánimo, una relación que ya no aguanta), quizá la mejor decisión sea pedir una primera visita: desde la página de contacto o escribiéndonos por WhatsApp. Sin esperar al lunes. Sin esperar a enero.",
+      },
+      {
+        type: "serviceLinks",
+        links: [
+          { url: "/blog/procrastinacion-en-adultos", label: "«La procrastinación en adultos», el artículo" },
+          { url: "/blog/valores-que-cambiaron-sin-avisar", label: "«Los valores que cambiaron sin avisar», el artículo" },
+          { url: "/blog/recaida-emocional", label: "«La recaída emocional», el artículo" },
+          { url: "/psicologo-barcelona", label: "Psicólogo en Barcelona — Espai Emocions" },
+        ],
+      },
+    ],
+  },
 ];

@@ -13,6 +13,17 @@ export interface ArticleMeta {
 
 export const articleMeta: ArticleMeta[] = [
   {
+    "slug": "propositos-de-ano-nuevo",
+    "categoryCA": "Identitat",
+    "categoryES": "Identidad",
+    "titleCA": "Propòsits d'any nou: per què es trenquen tan aviat",
+    "titleES": "Propósitos de año nuevo: por qué se rompen tan pronto",
+    "excerptCA": "Els propòsits d'any nou es trenquen aviat, i no és manca de voluntat: és la trampa de reinventar-se per decret. Com es sosté un canvi real.",
+    "excerptES": "Los propósitos de año nuevo se rompen pronto, y no es falta de voluntad: es la trampa de reinventarse por decreto. Cómo se sostiene un cambio real.",
+    "datePublished": "2026-11-28"
+  },
+
+  {
     "slug": "no-se-que-decir-en-terapia",
     "categoryCA": "Com funciona la teràpia",
     "categoryES": "Cómo funciona la terapia",
